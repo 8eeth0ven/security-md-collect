@@ -1,6 +1,50 @@
 [
  {
   "vendor": "蚂蚁集团",
+  "org": "ant-design",
+  "full_name": "ant-design/ant-design",
+  "url": "https://github.com/ant-design/ant-design",
+  "sec_path": "SECURITY.md",
+  "stars": 100032,
+  "language": "TypeScript",
+  "description": "An enterprise-class UI design language and React UI library",
+  "first_seen": "2026-11-01 18:00:36"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antvis",
+  "full_name": "antvis/G6",
+  "url": "https://github.com/antvis/G6",
+  "sec_path": "SECURITY.md",
+  "stars": 12369,
+  "language": "TypeScript",
+  "description": "♾ A Graph Visualization Framework in JavaScript.",
+  "first_seen": "2026-11-01 18:01:55"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "ant-design",
+  "full_name": "ant-design/ant-design-mobile",
+  "url": "https://github.com/ant-design/ant-design-mobile",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 12091,
+  "language": "TypeScript",
+  "description": "Essential UI blocks for building mobile web apps.",
+  "first_seen": "2026-11-01 18:00:36"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antvis",
+  "full_name": "antvis/X6",
+  "url": "https://github.com/antvis/X6",
+  "sec_path": "SECURITY.md",
+  "stars": 6748,
+  "language": "TypeScript",
+  "description": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+  "first_seen": "2026-11-01 18:01:55"
+ },
+ {
+  "vendor": "蚂蚁集团",
   "org": "sofastack",
   "full_name": "sofastack/sofa-boot",
   "url": "https://github.com/sofastack/sofa-boot",
@@ -10,6 +54,17 @@
   "description": "SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.",
   "license": null,
   "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "ant-design",
+  "full_name": "ant-design/pro-components",
+  "url": "https://github.com/ant-design/pro-components",
+  "sec_path": "SECURITY.md",
+  "stars": 4851,
+  "language": "TypeScript",
+  "description": "🏆 Use Ant Design like a Pro!",
+  "first_seen": "2026-11-01 18:00:36"
  },
  {
   "vendor": "蚂蚁集团",
@@ -61,6 +116,17 @@
  },
  {
   "vendor": "蚂蚁集团",
+  "org": "antvis",
+  "full_name": "antvis/G6VP",
+  "url": "https://github.com/antvis/G6VP",
+  "sec_path": "SECURITY.md",
+  "stars": 961,
+  "language": "TypeScript",
+  "description": "G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.",
+  "first_seen": "2026-11-01 18:01:55"
+ },
+ {
+  "vendor": "蚂蚁集团",
   "org": "sofastack",
   "full_name": "sofastack/sofa-registry",
   "url": "https://github.com/sofastack/sofa-registry",
@@ -70,6 +136,94 @@
   "description": "SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial. ",
   "license": null,
   "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antvis",
+  "full_name": "antvis/XFlow",
+  "url": "https://github.com/antvis/XFlow",
+  "sec_path": "SECURITY.md",
+  "stars": 647,
+  "language": "TypeScript",
+  "description": "React component for building interactive diagrams.",
+  "first_seen": "2026-11-01 18:01:55"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antgroup",
+  "full_name": "antgroup/CloudRec",
+  "url": "https://github.com/antgroup/CloudRec",
+  "sec_path": "SECURITY.md",
+  "stars": 195,
+  "language": "Go",
+  "description": "CloudRec is an open source multi-cloud security posture management (CSPM) platform designed to help organizations improve the security of their cloud environmen…",
+  "first_seen": "2026-11-01 18:01:25"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antgroup",
+  "full_name": "antgroup/ant-ray",
+  "url": "https://github.com/antgroup/ant-ray",
+  "sec_path": "SECURITY.md",
+  "stars": 173,
+  "language": "Python",
+  "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. AntRay is forked from ray, offe…",
+  "first_seen": "2026-11-01 18:01:25"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antvis",
+  "full_name": "antvis/F6",
+  "url": "https://github.com/antvis/F6",
+  "sec_path": "SECURITY.md",
+  "stars": 146,
+  "language": "JavaScript",
+  "description": "F6 is a graph visualization engine which provides quick and smooth operations on mobile devices.",
+  "first_seen": "2026-11-01 18:01:55"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antgroup",
+  "full_name": "antgroup/AntChainTrustSDK",
+  "url": "https://github.com/antgroup/AntChainTrustSDK",
+  "sec_path": "SECURITY.md",
+  "stars": 62,
+  "language": "C",
+  "description": "A lightweight trusted on-chain SDK for embedded IoT devices, enabling tamper-evident, device-attributable data submission to cloud and blockchain workflows.",
+  "first_seen": "2026-11-01 18:01:25"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antgroup",
+  "full_name": "antgroup/BlueHIDFlow",
+  "url": "https://github.com/antgroup/BlueHIDFlow",
+  "sec_path": "SECURITY.md",
+  "stars": 34,
+  "language": "C++",
+  "description": "",
+  "first_seen": "2026-11-01 18:01:25"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antgroup",
+  "full_name": "antgroup/Napaxi",
+  "url": "https://github.com/antgroup/Napaxi",
+  "sec_path": "SECURITY.md",
+  "stars": 33,
+  "language": "Rust",
+  "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity.",
+  "first_seen": "2026-11-01 18:01:25"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "antgroup",
+  "full_name": "antgroup/ACT",
+  "url": "https://github.com/antgroup/ACT",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "TypeScript",
+  "description": "Agentic Commerce Trust Protocol",
+  "first_seen": "2026-11-01 18:01:25"
  },
  {
   "vendor": "蚂蚁集团",
@@ -85,12 +239,23 @@
  },
  {
   "vendor": "蚂蚁集团",
+  "org": "antvis",
+  "full_name": "antvis/.github",
+  "url": "https://github.com/antvis/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 18:01:55"
+ },
+ {
+  "vendor": "蚂蚁集团",
   "org": "alipay",
   "full_name": "alipay/onnx",
   "url": "https://github.com/alipay/onnx",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Open standard for machine learning interoperability",
   "first_seen": "2026-11-01 17:52:48"
  },
@@ -101,7 +266,7 @@
   "url": "https://github.com/alipay/onnxruntime",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C++",
   "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
   "first_seen": "2026-11-01 17:52:48"
  },
@@ -112,64 +277,9 @@
   "url": "https://github.com/alipay/onnxruntime-extensions",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "The pre- and post- processing library for ONNX Runtime",
   "first_seen": "2026-11-01 17:52:48"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "ant-design",
-  "full_name": "ant-design/ant-design",
-  "url": "https://github.com/ant-design/ant-design",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "An enterprise-class UI design language and React UI library",
-  "first_seen": "2026-11-01 18:00:36"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "ant-design",
-  "full_name": "ant-design/pro-components",
-  "url": "https://github.com/ant-design/pro-components",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "🏆 Use Ant Design like a Pro!",
-  "first_seen": "2026-11-01 18:00:36"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "ant-design",
-  "full_name": "ant-design/ant-design-mobile",
-  "url": "https://github.com/ant-design/ant-design-mobile",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Essential UI blocks for building mobile web apps.",
-  "first_seen": "2026-11-01 18:00:36"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antgroup",
-  "full_name": "antgroup/Napaxi",
-  "url": "https://github.com/antgroup/Napaxi",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity.",
-  "first_seen": "2026-11-01 18:01:25"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antgroup",
-  "full_name": "antgroup/AntChainTrustSDK",
-  "url": "https://github.com/antgroup/AntChainTrustSDK",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A lightweight trusted on-chain SDK for embedded IoT devices, enabling tamper-evident, device-attributable data submission to cloud and blockchain workflows.",
-  "first_seen": "2026-11-01 18:01:25"
  },
  {
   "vendor": "蚂蚁集团",
@@ -178,119 +288,9 @@
   "url": "https://github.com/antgroup/xquic",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C",
   "description": "XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.",
   "first_seen": "2026-11-01 18:01:25"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antgroup",
-  "full_name": "antgroup/CloudRec",
-  "url": "https://github.com/antgroup/CloudRec",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "CloudRec is an open source multi-cloud security posture management (CSPM) platform designed to help organizations improve the security of their cloud environmen…",
-  "first_seen": "2026-11-01 18:01:25"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antgroup",
-  "full_name": "antgroup/BlueHIDFlow",
-  "url": "https://github.com/antgroup/BlueHIDFlow",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 18:01:25"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antgroup",
-  "full_name": "antgroup/ACT",
-  "url": "https://github.com/antgroup/ACT",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Agentic Commerce Trust Protocol",
-  "first_seen": "2026-11-01 18:01:25"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antgroup",
-  "full_name": "antgroup/ant-ray",
-  "url": "https://github.com/antgroup/ant-ray",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. AntRay is forked from ray, offe…",
-  "first_seen": "2026-11-01 18:01:25"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antvis",
-  "full_name": "antvis/G6",
-  "url": "https://github.com/antvis/G6",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "♾ A Graph Visualization Framework in JavaScript.",
-  "first_seen": "2026-11-01 18:01:55"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antvis",
-  "full_name": "antvis/X6",
-  "url": "https://github.com/antvis/X6",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
-  "first_seen": "2026-11-01 18:01:55"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antvis",
-  "full_name": "antvis/.github",
-  "url": "https://github.com/antvis/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 18:01:55"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antvis",
-  "full_name": "antvis/XFlow",
-  "url": "https://github.com/antvis/XFlow",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "React component for building interactive diagrams.",
-  "first_seen": "2026-11-01 18:01:55"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antvis",
-  "full_name": "antvis/F6",
-  "url": "https://github.com/antvis/F6",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "F6 is a graph visualization engine which provides quick and smooth operations on mobile devices.",
-  "first_seen": "2026-11-01 18:01:55"
- },
- {
-  "vendor": "蚂蚁集团",
-  "org": "antvis",
-  "full_name": "antvis/G6VP",
-  "url": "https://github.com/antvis/G6VP",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.",
-  "first_seen": "2026-11-01 18:01:55"
  },
  {
   "vendor": "蚂蚁集团",

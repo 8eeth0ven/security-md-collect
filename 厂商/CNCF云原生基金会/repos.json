@@ -49,6 +49,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "argoproj",
+  "full_name": "argoproj/argo-cd",
+  "url": "https://github.com/argoproj/argo-cd",
+  "sec_path": "SECURITY.md",
+  "stars": 24508,
+  "language": "Go",
+  "description": "Declarative Continuous Deployment for Kubernetes",
+  "first_seen": "2026-11-01 18:09:07"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "kubernetes",
   "full_name": "kubernetes/ingress-nginx",
   "url": "https://github.com/kubernetes/ingress-nginx",
@@ -58,6 +69,17 @@
   "description": "Ingress NGINX Controller for Kubernetes",
   "license": null,
   "first_seen": "2026-11-01 22:29:25"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "argoproj",
+  "full_name": "argoproj/argo-workflows",
+  "url": "https://github.com/argoproj/argo-workflows",
+  "sec_path": "SECURITY.md",
+  "stars": 17076,
+  "language": "Go",
+  "description": "Workflow Engine for Kubernetes",
+  "first_seen": "2026-11-01 18:09:07"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -229,6 +251,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "argoproj",
+  "full_name": "argoproj/argo-rollouts",
+  "url": "https://github.com/argoproj/argo-rollouts",
+  "sec_path": "SECURITY.md",
+  "stars": 3615,
+  "language": "Go",
+  "description": "Progressive Delivery for Kubernetes",
+  "first_seen": "2026-11-01 18:09:07"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "prometheus",
   "full_name": "prometheus/client_js",
   "url": "https://github.com/prometheus/client_js",
@@ -301,6 +334,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "argoproj",
+  "full_name": "argoproj/argo-events",
+  "url": "https://github.com/argoproj/argo-events",
+  "sec_path": "SECURITY.md",
+  "stars": 2709,
+  "language": "Go",
+  "description": "Event-driven Automation Framework for Kubernetes",
+  "first_seen": "2026-11-01 18:09:07"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "prometheus",
   "full_name": "prometheus/OpenMetrics",
   "url": "https://github.com/prometheus/OpenMetrics",
@@ -322,6 +366,17 @@
   "description": "Exporter for MySQL server metrics",
   "license": null,
   "first_seen": "2026-11-01 23:27:06"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "argoproj",
+  "full_name": "argoproj/argo-helm",
+  "url": "https://github.com/argoproj/argo-helm",
+  "sec_path": "SECURITY.md",
+  "stars": 2389,
+  "language": "Mustache",
+  "description": "ArgoProj Helm Charts",
+  "first_seen": "2026-11-01 18:09:07"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -442,6 +497,17 @@
   "description": "Source for the istio.io site",
   "license": null,
   "first_seen": "2026-11-01 22:25:45"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "argoproj",
+  "full_name": "argoproj/argoproj",
+  "url": "https://github.com/argoproj/argoproj",
+  "sec_path": "SECURITY.md",
+  "stars": 763,
+  "language": "Python",
+  "description": "Common project repo for all Argo Projects",
+  "first_seen": "2026-11-01 18:09:07"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1306,72 +1372,6 @@
   "description": "GitHub Actions for artifact persistence between jobs",
   "license": null,
   "first_seen": "2026-11-01 23:27:06"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "argoproj",
-  "full_name": "argoproj/argo-helm",
-  "url": "https://github.com/argoproj/argo-helm",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ArgoProj Helm Charts",
-  "first_seen": "2026-11-01 18:09:07"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "argoproj",
-  "full_name": "argoproj/argo-cd",
-  "url": "https://github.com/argoproj/argo-cd",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Declarative Continuous Deployment for Kubernetes",
-  "first_seen": "2026-11-01 18:09:07"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "argoproj",
-  "full_name": "argoproj/argo-events",
-  "url": "https://github.com/argoproj/argo-events",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Event-driven Automation Framework for Kubernetes",
-  "first_seen": "2026-11-01 18:09:07"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "argoproj",
-  "full_name": "argoproj/argo-rollouts",
-  "url": "https://github.com/argoproj/argo-rollouts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Progressive Delivery for Kubernetes",
-  "first_seen": "2026-11-01 18:09:07"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "argoproj",
-  "full_name": "argoproj/argo-workflows",
-  "url": "https://github.com/argoproj/argo-workflows",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Workflow Engine for Kubernetes",
-  "first_seen": "2026-11-01 18:09:07"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "argoproj",
-  "full_name": "argoproj/argoproj",
-  "url": "https://github.com/argoproj/argoproj",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Common project repo for all Argo Projects",
-  "first_seen": "2026-11-01 18:09:07"
  },
  {
   "vendor": "CNCF云原生基金会",

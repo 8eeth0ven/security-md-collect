@@ -5,9 +5,20 @@
   "full_name": "Samsung/CredSweeper",
   "url": "https://github.com/Samsung/CredSweeper",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 237,
+  "language": "Python",
   "description": "CredSweeper is a tool to detect credentials in any directories or files. CredSweeper could help users to detect unwanted exposure of credentials (such as token,…",
+  "first_seen": "2026-11-01 17:20:31"
+ },
+ {
+  "vendor": "三星",
+  "org": "Samsung",
+  "full_name": "Samsung/mTower",
+  "url": "https://github.com/Samsung/mTower",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 78,
+  "language": "C",
+  "description": "mTower is Trusted Execution Environment specially designed to be used on MicroController Units (MCUs) supporting ARM TrustZone technology (e.g., Cortex-M23/33/3…",
   "first_seen": "2026-11-01 17:20:31"
  },
  {
@@ -16,9 +27,20 @@
   "full_name": "Samsung/qaboard",
   "url": "https://github.com/Samsung/qaboard",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 55,
+  "language": "JavaScript",
   "description": "Experiment tracker: organize, visualize, compare and share runs. Removes toil from algorithm/performance R&D and tuning.",
+  "first_seen": "2026-11-01 17:20:31"
+ },
+ {
+  "vendor": "三星",
+  "org": "Samsung",
+  "full_name": "Samsung/LPVS",
+  "url": "https://github.com/Samsung/LPVS",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 29,
+  "language": "Java",
+  "description": "License Pre-Validation Service analyzes which open source components and licenses are used in every patch. It returns the list of restricted licenses and the po…",
   "first_seen": "2026-11-01 17:20:31"
  },
  {
@@ -27,8 +49,8 @@
   "full_name": "Samsung/tizen-agent-skills",
   "url": "https://github.com/Samsung/tizen-agent-skills",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 15,
+  "language": "JavaScript",
   "description": "Tizen development skills & plugins for AI coding agents: install the Tizen SDK, create, build, debug and test Tizen Web, Native, .NET, RPK and RPM packages and …",
   "first_seen": "2026-11-01 17:20:31"
  },
@@ -38,31 +60,9 @@
   "full_name": "Samsung/Azure-Sentinel",
   "url": "https://github.com/Samsung/Azure-Sentinel",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 3,
+  "language": "Python",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
-  "first_seen": "2026-11-01 17:20:31"
- },
- {
-  "vendor": "三星",
-  "org": "Samsung",
-  "full_name": "Samsung/LPVS",
-  "url": "https://github.com/Samsung/LPVS",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "License Pre-Validation Service analyzes which open source components and licenses are used in every patch. It returns the list of restricted licenses and the po…",
-  "first_seen": "2026-11-01 17:20:31"
- },
- {
-  "vendor": "三星",
-  "org": "Samsung",
-  "full_name": "Samsung/mTower",
-  "url": "https://github.com/Samsung/mTower",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "mTower is Trusted Execution Environment specially designed to be used on MicroController Units (MCUs) supporting ARM TrustZone technology (e.g., Cortex-M23/33/3…",
   "first_seen": "2026-11-01 17:20:31"
  },
  {
@@ -71,7 +71,7 @@
   "full_name": "Samsung/Security",
   "url": "https://github.com/Samsung/Security",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 3,
   "language": null,
   "description": "Samsung Security Advisory",
   "first_seen": "2026-11-01 17:20:31"

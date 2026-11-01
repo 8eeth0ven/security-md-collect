@@ -2066,6 +2066,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/Announcements",
+  "url": "https://github.com/aspnet/Announcements",
+  "sec_path": "SECURITY.md",
+  "stars": 1661,
+  "language": null,
+  "description": "Subscribe to this repo to be notified about major changes in ASP.NET Core and Entity Framework Core",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "nuget",
   "full_name": "NuGet/NuGetGallery",
   "url": "https://github.com/NuGet/NuGetGallery",
@@ -2421,6 +2432,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AspLabs",
+  "url": "https://github.com/aspnet/AspLabs",
+  "sec_path": "SECURITY.md",
+  "stars": 1223,
+  "language": "C#",
+  "description": "Repo for ASP.NET experiments that are not ready for a production release",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/AzurePublicDataset",
   "url": "https://github.com/Azure/AzurePublicDataset",
@@ -2476,6 +2498,17 @@
   "description": "This is the source code to the mostly-static Microsoft Open Source site featuring projects, program information, and \"get involved\" pages.",
   "license": null,
   "first_seen": "2026-11-01 22:39:49"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/Benchmarks",
+  "url": "https://github.com/aspnet/Benchmarks",
+  "sec_path": "SECURITY.md",
+  "stars": 1192,
+  "language": "C#",
+  "description": "Benchmarks for ASP.NET Core",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -2754,6 +2787,28 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/samples",
+  "url": "https://github.com/aspnet/samples",
+  "sec_path": "SECURITY.md",
+  "stars": 1012,
+  "language": null,
+  "description": "Samples for ASP.NET Core",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AspNetKatana",
+  "url": "https://github.com/aspnet/AspNetKatana",
+  "sec_path": "SECURITY.md",
+  "stars": 991,
+  "language": "C#",
+  "description": "Microsoft's OWIN implementation, the Katana project",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/mfcmapi",
   "url": "https://github.com/microsoft/mfcmapi",
@@ -2962,6 +3017,17 @@
   "description": "workshop materials to build intelligent solutions on Open AI",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AspNetWebStack",
+  "url": "https://github.com/aspnet/AspNetWebStack",
+  "sec_path": "SECURITY.md",
+  "stars": 894,
+  "language": "C#",
+  "description": "ASP.NET MVC 5.x, Web API 2.x, and Web Pages 3.x (not ASP.NET Core)",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -4294,6 +4360,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/LibraryManager",
+  "url": "https://github.com/aspnet/LibraryManager",
+  "sec_path": "SECURITY.md",
+  "stars": 486,
+  "language": "C#",
+  "description": "",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/skills-for-copilot-studio",
   "url": "https://github.com/microsoft/skills-for-copilot-studio",
@@ -5192,6 +5269,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AzureSignalR-samples",
+  "url": "https://github.com/aspnet/AzureSignalR-samples",
+  "sec_path": "SECURITY.md",
+  "stars": 346,
+  "language": "JavaScript",
+  "description": "Code samples for Azure SignalR",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/azure-workload-identity",
   "url": "https://github.com/Azure/azure-workload-identity",
@@ -5889,6 +5977,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/jquery-validation-unobtrusive",
+  "url": "https://github.com/aspnet/jquery-validation-unobtrusive",
+  "sec_path": "SECURITY.md",
+  "stars": 261,
+  "language": "JavaScript",
+  "description": "Add-on to jQuery Validation to enable unobtrusive validation options in data-* attributes.",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoftgraph",
   "full_name": "microsoftgraph/microsoft-graph-explorer-v4",
   "url": "https://github.com/microsoftgraph/microsoft-graph-explorer-v4",
@@ -5898,6 +5997,17 @@
   "description": "React/Redux version of Graph Explorer used to learn the Microsoft Graph Api",
   "license": null,
   "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AspNetIdentity",
+  "url": "https://github.com/aspnet/AspNetIdentity",
+  "sec_path": "SECURITY.md",
+  "stars": 260,
+  "language": "C#",
+  "description": "ASP.NET Identity for ASP.NET 4.x applications",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -7436,6 +7546,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/SignalR-Client-Cpp",
+  "url": "https://github.com/aspnet/SignalR-Client-Cpp",
+  "sec_path": "SECURITY.md",
+  "stars": 155,
+  "language": "C++",
+  "description": "C++ Client for ASP.NET Core SignalR",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/graphitation",
   "url": "https://github.com/microsoft/graphitation",
@@ -7528,6 +7649,17 @@
   "language": "Java",
   "description": "Azure App Service: Frequently Asked Questions on Linux App Service",
   "first_seen": "2026-11-01 16:25:10"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AspNetWebHooks",
+  "url": "https://github.com/aspnet/AspNetWebHooks",
+  "sec_path": "SECURITY.md",
+  "stars": 148,
+  "language": "C#",
+  "description": "Libraries to create and consume web hooks on ASP.NET 4.x (Due to other priorities this project is currently in maintenance mode only. There are no planned relea…",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -7720,6 +7852,17 @@
   "language": "Python",
   "description": "A GitOps Connector integrates a GitOps operator with CI/CD orchestrator",
   "first_seen": "2026-11-01 16:25:10"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/jquery-ajax-unobtrusive",
+  "url": "https://github.com/aspnet/jquery-ajax-unobtrusive",
+  "sec_path": "SECURITY.md",
+  "stars": 143,
+  "language": "JavaScript",
+  "description": "[Maintenance mode: only security and critical bug fixes are being worked on] Add-on to jQuery Ajax to enable unobtrusive options in data-* attributes.",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -7962,6 +8105,17 @@
   "language": "HCL",
   "description": "Terraform Azure Verified Pattern Module for Azure Landing Zone Management Groups and Policy",
   "first_seen": "2026-11-01 16:24:42"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/MicrosoftConfigurationBuilders",
+  "url": "https://github.com/aspnet/MicrosoftConfigurationBuilders",
+  "sec_path": "SECURITY.md",
+  "stars": 134,
+  "language": "C#",
+  "description": "Microsoft.Configuration.Builders",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -9300,6 +9454,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/RoslynCodeDomProvider",
+  "url": "https://github.com/aspnet/RoslynCodeDomProvider",
+  "sec_path": "SECURITY.md",
+  "stars": 93,
+  "language": "C#",
+  "description": "Roslyn CodeDOM provider",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/aspire-skills",
   "url": "https://github.com/microsoft/aspire-skills",
@@ -10119,6 +10284,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/BuildTools",
+  "url": "https://github.com/aspnet/BuildTools",
+  "sec_path": "SECURITY.md",
+  "stars": 74,
+  "language": "C#",
+  "description": "Infrastructure utilities used in the ASP.NET Core build system. (Obsolete: use https://github.com/dotnet/arcade for all new projects)",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/omnichannel-chat-widget",
   "url": "https://github.com/microsoft/omnichannel-chat-widget",
@@ -10920,6 +11096,17 @@
   "language": "C++",
   "description": "Device Update for IoT Hub agent",
   "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AspNetSessionState",
+  "url": "https://github.com/aspnet/AspNetSessionState",
+  "sec_path": "SECURITY.md",
+  "stars": 61,
+  "language": "C#",
+  "description": "ASP.NET Session State (not for ASP.NET Core)",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -16008,6 +16195,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/MessagePack-CSharp",
+  "url": "https://github.com/aspnet/MessagePack-CSharp",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "C#",
+  "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/azure-linux-dev-tools",
   "url": "https://github.com/microsoft/azure-linux-dev-tools",
@@ -16213,6 +16411,17 @@
   "language": "C#",
   "description": "Azure Provider for Notation CLI",
   "first_seen": "2026-11-01 16:25:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/BrowserLink",
+  "url": "https://github.com/aspnet/BrowserLink",
+  "sec_path": "SECURITY.md",
+  "stars": 17,
+  "language": "C#",
+  "description": "Browser Link loader for Visual Studio integration",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -16489,6 +16698,17 @@
   "language": "Go",
   "description": "go-shuttle is a light wrapper around the azure servicebus sdk for go. It is aimed at providing an api more in line with service implementation in a pub-sub cont…",
   "first_seen": "2026-11-01 16:25:10"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/Microsoft.AspNet.TelemetryCorrelation",
+  "url": "https://github.com/aspnet/Microsoft.AspNet.TelemetryCorrelation",
+  "sec_path": "SECURITY.md",
+  "stars": 16,
+  "language": "C#",
+  "description": "Microsoft.AspNet.CorrelationIdTracker module for tracking multi-tier activities",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -20968,6 +21188,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AspNetOutputCache",
+  "url": "https://github.com/aspnet/AspNetOutputCache",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "C#",
+  "description": "ASP.NET Output Cache (not for ASP.NET Core)",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/WhatTheHack-Codespaces",
   "url": "https://github.com/microsoft/WhatTheHack-Codespaces",
@@ -23562,6 +23793,17 @@
   "language": "Shell",
   "description": "",
   "first_seen": "2026-11-01 16:25:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/.github",
+  "url": "https://github.com/aspnet/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -27852,248 +28094,6 @@
   "language": "Python",
   "description": "OFP AI Bootcamp 2025 - Tutorial for building a simple MCP Server in Python",
   "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AzureSignalR-samples",
-  "url": "https://github.com/aspnet/AzureSignalR-samples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Code samples for Azure SignalR",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/SignalR-Client-Cpp",
-  "url": "https://github.com/aspnet/SignalR-Client-Cpp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "C++ Client for ASP.NET Core SignalR",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AspLabs",
-  "url": "https://github.com/aspnet/AspLabs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Repo for ASP.NET experiments that are not ready for a production release",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/Benchmarks",
-  "url": "https://github.com/aspnet/Benchmarks",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Benchmarks for ASP.NET Core",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/jquery-validation-unobtrusive",
-  "url": "https://github.com/aspnet/jquery-validation-unobtrusive",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Add-on to jQuery Validation to enable unobtrusive validation options in data-* attributes.",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AspNetWebStack",
-  "url": "https://github.com/aspnet/AspNetWebStack",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ASP.NET MVC 5.x, Web API 2.x, and Web Pages 3.x (not ASP.NET Core)",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AspNetIdentity",
-  "url": "https://github.com/aspnet/AspNetIdentity",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ASP.NET Identity for ASP.NET 4.x applications",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AspNetKatana",
-  "url": "https://github.com/aspnet/AspNetKatana",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Microsoft's OWIN implementation, the Katana project",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/Announcements",
-  "url": "https://github.com/aspnet/Announcements",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Subscribe to this repo to be notified about major changes in ASP.NET Core and Entity Framework Core",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/MessagePack-CSharp",
-  "url": "https://github.com/aspnet/MessagePack-CSharp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AspNetSessionState",
-  "url": "https://github.com/aspnet/AspNetSessionState",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ASP.NET Session State (not for ASP.NET Core)",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/MicrosoftConfigurationBuilders",
-  "url": "https://github.com/aspnet/MicrosoftConfigurationBuilders",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Microsoft.Configuration.Builders",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AspNetOutputCache",
-  "url": "https://github.com/aspnet/AspNetOutputCache",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ASP.NET Output Cache (not for ASP.NET Core)",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/RoslynCodeDomProvider",
-  "url": "https://github.com/aspnet/RoslynCodeDomProvider",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Roslyn CodeDOM provider",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/jquery-ajax-unobtrusive",
-  "url": "https://github.com/aspnet/jquery-ajax-unobtrusive",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "[Maintenance mode: only security and critical bug fixes are being worked on] Add-on to jQuery Ajax to enable unobtrusive options in data-* attributes.",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/LibraryManager",
-  "url": "https://github.com/aspnet/LibraryManager",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AspNetWebHooks",
-  "url": "https://github.com/aspnet/AspNetWebHooks",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Libraries to create and consume web hooks on ASP.NET 4.x (Due to other priorities this project is currently in maintenance mode only. There are no planned relea…",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/BuildTools",
-  "url": "https://github.com/aspnet/BuildTools",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Infrastructure utilities used in the ASP.NET Core build system. (Obsolete: use https://github.com/dotnet/arcade for all new projects)",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/Microsoft.AspNet.TelemetryCorrelation",
-  "url": "https://github.com/aspnet/Microsoft.AspNet.TelemetryCorrelation",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Microsoft.AspNet.CorrelationIdTracker module for tracking multi-tier activities",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/samples",
-  "url": "https://github.com/aspnet/samples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Samples for ASP.NET Core",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/BrowserLink",
-  "url": "https://github.com/aspnet/BrowserLink",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Browser Link loader for Visual Studio integration",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/.github",
-  "url": "https://github.com/aspnet/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",

@@ -1,6 +1,160 @@
 [
  {
   "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible",
+  "url": "https://github.com/ansible/ansible",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 71185,
+  "language": "Python",
+  "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deplo…",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/awx",
+  "url": "https://github.com/ansible/awx",
+  "sec_path": "SECURITY.md",
+  "stars": 15616,
+  "language": "Python",
+  "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pl…",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/molecule",
+  "url": "https://github.com/ansible/molecule",
+  "sec_path": "SECURITY.md",
+  "stars": 4162,
+  "language": "Python",
+  "description": "An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-lint",
+  "url": "https://github.com/ansible/ansible-lint",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 3933,
+  "language": "Python",
+  "description": "ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/awx-operator",
+  "url": "https://github.com/ansible/awx-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 1514,
+  "language": "Jinja",
+  "description": "An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-runner",
+  "url": "https://github.com/ansible/ansible-runner",
+  "sec_path": "SECURITY.md",
+  "stars": 1088,
+  "language": "Python",
+  "description": "A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as…",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-navigator",
+  "url": "https://github.com/ansible/ansible-navigator",
+  "sec_path": "SECURITY.md",
+  "stars": 559,
+  "language": "Python",
+  "description": "A text-based user interface (TUI) for Ansible.",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/vscode-ansible",
+  "url": "https://github.com/ansible/vscode-ansible",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 491,
+  "language": "TypeScript",
+  "description": "Ansible IDE extension: auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamllint, molecule and ansible-test.",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-builder",
+  "url": "https://github.com/ansible/ansible-builder",
+  "sec_path": "SECURITY.md",
+  "stars": 356,
+  "language": "Python",
+  "description": "An Ansible execution environment builder",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-language-server",
+  "url": "https://github.com/ansible/ansible-language-server",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 250,
+  "language": "TypeScript",
+  "description": "🚧 Ansible Language Server codebase is now included in vscode-ansible repository",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/pytest-ansible",
+  "url": "https://github.com/ansible/pytest-ansible",
+  "sec_path": "SECURITY.md",
+  "stars": 228,
+  "language": "Python",
+  "description": "A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a p…",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-dev-tools",
+  "url": "https://github.com/ansible/ansible-dev-tools",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 211,
+  "language": "Python",
+  "description": "Ansible automation developer tools",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-creator",
+  "url": "https://github.com/ansible/ansible-creator",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 159,
+  "language": "Python",
+  "description": "The fastest way to generate all your ansible content!",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-ui",
+  "url": "https://github.com/ansible/ansible-ui",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 115,
+  "language": "TypeScript",
+  "description": "The UIs for Ansible Projects such as AWX, EDA, and HUB.",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
   "org": "openshift",
   "full_name": "openshift/kubernetes",
   "url": "https://github.com/openshift/kubernetes",
@@ -37,6 +191,28 @@
  },
  {
   "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/tox-ansible",
+  "url": "https://github.com/ansible/tox-ansible",
+  "sec_path": "SECURITY.md",
+  "stars": 73,
+  "language": "Python",
+  "description": "The tox-ansible plugin dynamically creates a full matrix of python interpreter and ansible-core version environments for running integration, sanity, and unit f…",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-dev-environment",
+  "url": "https://github.com/ansible/ansible-dev-environment",
+  "sec_path": "SECURITY.md",
+  "stars": 73,
+  "language": "Python",
+  "description": "Build and maintain a development environment including ansible collections and their python dependencies",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
   "org": "openshift",
   "full_name": "openshift/lvm-operator",
   "url": "https://github.com/openshift/lvm-operator",
@@ -46,6 +222,17 @@
   "description": "The LVM Operator deploys and manages LVM storage on OpenShift clusters",
   "license": null,
   "first_seen": "2026-11-01 23:12:46"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-content-actions",
+  "url": "https://github.com/ansible/ansible-content-actions",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 40,
+  "language": "Python",
+  "description": "Combine GitHub Actions to create a streamlined workflow for testing Ansible collection repositories on GitHub.",
+  "first_seen": "2026-11-01 17:58:56"
  },
  {
   "vendor": "红帽",
@@ -61,6 +248,39 @@
  },
  {
   "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-ai-connect-service",
+  "url": "https://github.com/ansible/ansible-ai-connect-service",
+  "sec_path": "SECURITY.md",
+  "stars": 36,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/django-ansible-base",
+  "url": "https://github.com/ansible/django-ansible-base",
+  "sec_path": "SECURITY.md",
+  "stars": 30,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-compat",
+  "url": "https://github.com/ansible/ansible-compat",
+  "sec_path": "SECURITY.md",
+  "stars": 29,
+  "language": "Python",
+  "description": "A python package containing functions that help interacting with various versions of Ansible",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
   "org": "RedHatOfficial",
   "full_name": "RedHatOfficial/aap-demo",
   "url": "https://github.com/RedHatOfficial/aap-demo",
@@ -69,6 +289,28 @@
   "language": "Shell",
   "description": "Local cluster infrastructure for Ansible Automation Platform deployment, powered by OpenShift Local. Deploy AAP in minutes on macOS, Linux, or Windows.",
   "first_seen": "2026-11-01 17:13:03"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/pinakes",
+  "url": "https://github.com/ansible/pinakes",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 20,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/apme",
+  "url": "https://github.com/ansible/apme",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "Python",
+  "description": "A multi-validator static analysis platform for Ansible content with deterministic and human-in-the-loop agentic remediation.",
+  "first_seen": "2026-11-01 17:58:56"
  },
  {
   "vendor": "红帽",
@@ -81,6 +323,17 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-01 23:13:57"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-sign",
+  "url": "https://github.com/ansible/ansible-sign",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 16,
+  "language": "Python",
+  "description": "The `ansible-sign` utility for signing and verifying Ansible project directory contents.",
+  "first_seen": "2026-11-01 17:58:56"
  },
  {
   "vendor": "红帽",
@@ -120,6 +373,17 @@
  },
  {
   "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/jewel",
+  "url": "https://github.com/ansible/jewel",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
   "org": "openshift",
   "full_name": "openshift/external-secrets-operator",
   "url": "https://github.com/openshift/external-secrets-operator",
@@ -129,6 +393,28 @@
   "description": "External-Secrets Operator for deploying and managing external-secrets.",
   "license": null,
   "first_seen": "2026-11-01 23:13:57"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-backstage-plugins",
+  "url": "https://github.com/ansible/ansible-backstage-plugins",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "TypeScript",
+  "description": "Backstage plugins for Ansible",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/mkdocs-ansible",
+  "url": "https://github.com/ansible/mkdocs-ansible",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "Python",
+  "description": "Ansible MkDocs Theme based on Material",
+  "first_seen": "2026-11-01 17:58:56"
  },
  {
   "vendor": "红帽",
@@ -153,6 +439,17 @@
   "description": "Analyzer of health of OpenShift clusters",
   "license": null,
   "first_seen": "2026-11-01 23:13:57"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/awx-plugins",
+  "url": "https://github.com/ansible/awx-plugins",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
  },
  {
   "vendor": "红帽",
@@ -200,6 +497,28 @@
   "description": "Gatekeeper is a validating (mutating TBA) webhook that enforces CRD-based policies executed by Open Policy Agent",
   "license": null,
   "first_seen": "2026-11-01 23:15:07"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/actions",
+  "url": "https://github.com/ansible/actions",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "Various actions and CI tools to help maintain projects",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/automation-reports",
+  "url": "https://github.com/ansible/automation-reports",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
  },
  {
   "vendor": "红帽",
@@ -395,6 +714,28 @@
  },
  {
   "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ui-packages",
+  "url": "https://github.com/ansible/ui-packages",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "TypeScript",
+  "description": "Mono repo containing all the public NPM packages developed by the Red Hat Ansible UI team.",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/ansible-azp",
+  "url": "https://github.com/ansible/ansible-azp",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "Copy of the ansible/ansible repository for testing with Azure Pipelines.",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
   "org": "openshift",
   "full_name": "openshift/cluster-api-provider-kubevirt",
   "url": "https://github.com/openshift/cluster-api-provider-kubevirt",
@@ -536,6 +877,50 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-01 23:16:23"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/awx_plugins.interfaces",
+  "url": "https://github.com/ansible/awx_plugins.interfaces",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/metrics-service",
+  "url": "https://github.com/ansible/metrics-service",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/apme-operator",
+  "url": "https://github.com/ansible/apme-operator",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "An operator for installing APME",
+  "first_seen": "2026-11-01 17:58:56"
+ },
+ {
+  "vendor": "红帽",
+  "org": "ansible",
+  "full_name": "ansible/aap-awscf-amimgmt",
+  "url": "https://github.com/ansible/aap-awscf-amimgmt",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:58:56"
  },
  {
   "vendor": "红帽",
@@ -732,353 +1117,12 @@
  {
   "vendor": "红帽",
   "org": "ansible",
-  "full_name": "ansible/awx_plugins.interfaces",
-  "url": "https://github.com/ansible/awx_plugins.interfaces",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/awx-plugins",
-  "url": "https://github.com/ansible/awx-plugins",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/metrics-service",
-  "url": "https://github.com/ansible/metrics-service",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-sign",
-  "url": "https://github.com/ansible/ansible-sign",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The `ansible-sign` utility for signing and verifying Ansible project directory contents.",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/actions",
-  "url": "https://github.com/ansible/actions",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Various actions and CI tools to help maintain projects",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-dev-tools",
-  "url": "https://github.com/ansible/ansible-dev-tools",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Ansible automation developer tools",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/pytest-ansible",
-  "url": "https://github.com/ansible/pytest-ansible",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a p…",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-backstage-plugins",
-  "url": "https://github.com/ansible/ansible-backstage-plugins",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Backstage plugins for Ansible",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/tox-ansible",
-  "url": "https://github.com/ansible/tox-ansible",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The tox-ansible plugin dynamically creates a full matrix of python interpreter and ansible-core version environments for running integration, sanity, and unit f…",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/vscode-ansible",
-  "url": "https://github.com/ansible/vscode-ansible",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Ansible IDE extension: auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamllint, molecule and ansible-test.",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/apme",
-  "url": "https://github.com/ansible/apme",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A multi-validator static analysis platform for Ansible content with deterministic and human-in-the-loop agentic remediation.",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/molecule",
-  "url": "https://github.com/ansible/molecule",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/django-ansible-base",
-  "url": "https://github.com/ansible/django-ansible-base",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-ui",
-  "url": "https://github.com/ansible/ansible-ui",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The UIs for Ansible Projects such as AWX, EDA, and HUB.",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/jewel",
-  "url": "https://github.com/ansible/jewel",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible",
-  "url": "https://github.com/ansible/ansible",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deplo…",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-content-actions",
-  "url": "https://github.com/ansible/ansible-content-actions",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Combine GitHub Actions to create a streamlined workflow for testing Ansible collection repositories on GitHub.",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/awx-operator",
-  "url": "https://github.com/ansible/awx-operator",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-ai-connect-service",
-  "url": "https://github.com/ansible/ansible-ai-connect-service",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/awx",
-  "url": "https://github.com/ansible/awx",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pl…",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-compat",
-  "url": "https://github.com/ansible/ansible-compat",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A python package containing functions that help interacting with various versions of Ansible",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-lint",
-  "url": "https://github.com/ansible/ansible-lint",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/automation-reports",
-  "url": "https://github.com/ansible/automation-reports",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-dev-environment",
-  "url": "https://github.com/ansible/ansible-dev-environment",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Build and maintain a development environment including ansible collections and their python dependencies",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-creator",
-  "url": "https://github.com/ansible/ansible-creator",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The fastest way to generate all your ansible content!",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
   "full_name": "ansible/dvcs-action",
   "url": "https://github.com/ansible/dvcs-action",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/apme-operator",
-  "url": "https://github.com/ansible/apme-operator",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "An operator for installing APME",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ui-packages",
-  "url": "https://github.com/ansible/ui-packages",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Mono repo containing all the public NPM packages developed by the Red Hat Ansible UI team.",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/mkdocs-ansible",
-  "url": "https://github.com/ansible/mkdocs-ansible",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Ansible MkDocs Theme based on Material",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-builder",
-  "url": "https://github.com/ansible/ansible-builder",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "An Ansible execution environment builder",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-navigator",
-  "url": "https://github.com/ansible/ansible-navigator",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A text-based user interface (TUI) for Ansible.",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-runner",
-  "url": "https://github.com/ansible/ansible-runner",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as…",
   "first_seen": "2026-11-01 17:58:56"
  },
  {
@@ -1088,7 +1132,7 @@
   "url": "https://github.com/ansible/.github",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Shell",
   "description": "Shared GitHub Configuration",
   "first_seen": "2026-11-01 17:58:56"
  },
@@ -1099,19 +1143,8 @@
   "url": "https://github.com/ansible/test-ansible-release",
   "sec_path": ".github/SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "This is not the repository you're looking for. It is only used to test Ansible release processes and tools.",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-language-server",
-  "url": "https://github.com/ansible/ansible-language-server",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "🚧 Ansible Language Server codebase is now included in vscode-ansible repository",
   "first_seen": "2026-11-01 17:58:56"
  },
  {
@@ -1121,7 +1154,7 @@
   "url": "https://github.com/ansible/webhooks.js",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "TypeScript",
   "description": "GitHub webhook events toolset for Node.js",
   "first_seen": "2026-11-01 17:58:56"
  },
@@ -1132,7 +1165,7 @@
   "url": "https://github.com/ansible/prometheus-podman-exporter",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Prometheus exporter for podman environments exposing containers, pods, images, volumes and networks information.",
   "first_seen": "2026-11-01 17:58:56"
  },
@@ -1143,7 +1176,7 @@
   "url": "https://github.com/ansible/boto3",
   "sec_path": ".github/SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "AWS SDK for Python",
   "first_seen": "2026-11-01 17:58:56"
  },
@@ -1154,30 +1187,8 @@
   "url": "https://github.com/ansible/gcp-cloud-sql-proxy",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "A utility for connecting securely to your Cloud SQL instances",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/pinakes",
-  "url": "https://github.com/ansible/pinakes",
-  "sec_path": "docs/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/aap-awscf-amimgmt",
-  "url": "https://github.com/ansible/aap-awscf-amimgmt",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 17:58:56"
  },
  {
@@ -1187,19 +1198,8 @@
   "url": "https://github.com/ansible/aap-gcpdm-imagemgmt",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 17:58:56"
- },
- {
-  "vendor": "红帽",
-  "org": "ansible",
-  "full_name": "ansible/ansible-azp",
-  "url": "https://github.com/ansible/ansible-azp",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Copy of the ansible/ansible repository for testing with Azure Pipelines.",
   "first_seen": "2026-11-01 17:58:56"
  },
  {
