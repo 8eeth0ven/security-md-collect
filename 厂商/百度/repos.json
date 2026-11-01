@@ -13,11 +13,22 @@
  {
   "vendor": "百度",
   "org": "baidu",
+  "full_name": "baidu/openrasp",
+  "url": "https://github.com/baidu/openrasp",
+  "sec_path": "SECURITY.md",
+  "stars": 2990,
+  "language": "C++",
+  "description": "🔥Open source RASP solution",
+  "first_seen": "2026-11-01 18:27:30"
+ },
+ {
+  "vendor": "百度",
+  "org": "baidu",
   "full_name": "baidu/nettools",
   "url": "https://github.com/baidu/nettools",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 196,
+  "language": "Go",
   "description": "A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss loca…",
   "first_seen": "2026-11-01 18:27:30"
  },
@@ -27,20 +38,9 @@
   "full_name": "baidu/scs-redis",
   "url": "https://github.com/baidu/scs-redis",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 11,
+  "language": "C",
   "description": "Redis-based cloud adaptation powering Baidu AI Cloud's SCS, optimized for large-scale multi-tenant deployments with enhanced HA, reliability and security - batt…",
-  "first_seen": "2026-11-01 18:27:30"
- },
- {
-  "vendor": "百度",
-  "org": "baidu",
-  "full_name": "baidu/openrasp",
-  "url": "https://github.com/baidu/openrasp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "🔥Open source RASP solution",
   "first_seen": "2026-11-01 18:27:30"
  }
 ]

@@ -5,10 +5,87 @@
   "full_name": "bosch-io/hawkbit",
   "url": "https://github.com/bosch-io/hawkbit",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 9,
+  "language": "Java",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
+ },
+ {
+  "vendor": "博世",
+  "org": "bosch-io",
+  "full_name": "bosch-io/hono",
+  "url": "https://github.com/bosch-io/hono",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Java",
+  "description": "Hono project",
+  "first_seen": "2026-11-01 18:31:42"
+ },
+ {
+  "vendor": "博世",
+  "org": "bosch-io",
+  "full_name": "bosch-io/californium",
+  "url": "https://github.com/bosch-io/californium",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 18:31:42"
+ },
+ {
+  "vendor": "博世",
+  "org": "boschresearch",
+  "full_name": "boschresearch/DataSpaceConnector",
+  "url": "https://github.com/boschresearch/DataSpaceConnector",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Java",
+  "description": "DataspaceConnector (Catena-X)",
+  "first_seen": "2026-11-01 18:33:50"
+ },
+ {
+  "vendor": "博世",
+  "org": "bosch-io",
+  "full_name": "bosch-io/packages",
+  "url": "https://github.com/bosch-io/packages",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Smarty",
+  "description": "IoT Packages project",
+  "first_seen": "2026-11-01 18:31:42"
+ },
+ {
+  "vendor": "博世",
+  "org": "bosch-io",
+  "full_name": "bosch-io/bic-sp-java-buildpack",
+  "url": "https://github.com/bosch-io/bic-sp-java-buildpack",
+  "sec_path": "docs/security.md",
+  "stars": 1,
+  "language": "Ruby",
+  "description": "Cloud Foundry buildpack",
+  "first_seen": "2026-11-01 18:31:42"
+ },
+ {
+  "vendor": "博世",
+  "org": "boschresearch",
+  "full_name": "boschresearch/perun-node",
+  "url": "https://github.com/boschresearch/perun-node",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "Direct State Transfer Go implementation",
+  "first_seen": "2026-11-01 18:32:29"
+ },
+ {
+  "vendor": "博世",
+  "org": "boschresearch",
+  "full_name": "boschresearch/aries-cloudagent-python",
+  "url": "https://github.com/boschresearch/aries-cloudagent-python",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.",
+  "first_seen": "2026-11-01 18:33:50"
  },
  {
   "vendor": "博世",
@@ -17,7 +94,7 @@
   "url": "https://github.com/bosch-io/quarkus",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Java",
   "description": "Quarkus: Supersonic Subatomic Java. ",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -28,7 +105,7 @@
   "url": "https://github.com/bosch-io/kanto",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Kanto",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -39,7 +116,7 @@
   "url": "https://github.com/bosch-io/container-management",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "container-management",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -50,7 +127,7 @@
   "url": "https://github.com/bosch-io/kanto-update-manager",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -61,7 +138,7 @@
   "url": "https://github.com/bosch-io/kanto-example-applications",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -72,7 +149,7 @@
   "url": "https://github.com/bosch-io/meta-kanto",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "BitBake",
   "description": "meta-kanto",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -83,7 +160,7 @@
   "url": "https://github.com/bosch-io/local-digital-twins",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -94,7 +171,7 @@
   "url": "https://github.com/bosch-io/suite-connector",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "suite-connector",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -105,7 +182,7 @@
   "url": "https://github.com/bosch-io/system-metrics",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -116,7 +193,7 @@
   "url": "https://github.com/bosch-io/file-backup",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -127,7 +204,7 @@
   "url": "https://github.com/bosch-io/file-upload",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "file-upload",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -138,7 +215,7 @@
   "url": "https://github.com/bosch-io/aws-connector",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -149,7 +226,7 @@
   "url": "https://github.com/bosch-io/azure-connector",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -160,7 +237,7 @@
   "url": "https://github.com/bosch-io/software-update",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "software-update",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -171,7 +248,7 @@
   "url": "https://github.com/bosch-io/SSI-agent-lib",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Java",
   "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -182,30 +259,8 @@
   "url": "https://github.com/bosch-io/suite-bootstrapping",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:31:42"
- },
- {
-  "vendor": "博世",
-  "org": "bosch-io",
-  "full_name": "bosch-io/packages",
-  "url": "https://github.com/bosch-io/packages",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "IoT Packages project",
-  "first_seen": "2026-11-01 18:31:42"
- },
- {
-  "vendor": "博世",
-  "org": "bosch-io",
-  "full_name": "bosch-io/hono",
-  "url": "https://github.com/bosch-io/hono",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Hono project",
   "first_seen": "2026-11-01 18:31:42"
  },
  {
@@ -215,7 +270,7 @@
   "url": "https://github.com/bosch-io/aries-cloudagent-python",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -226,7 +281,7 @@
   "url": "https://github.com/bosch-io/aries-rfcs",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer interactions",
   "first_seen": "2026-11-01 18:31:42"
  },
@@ -237,19 +292,8 @@
   "url": "https://github.com/bosch-io/indy-sdk",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Rust",
   "description": "indy-sdk",
-  "first_seen": "2026-11-01 18:31:42"
- },
- {
-  "vendor": "博世",
-  "org": "bosch-io",
-  "full_name": "bosch-io/californium",
-  "url": "https://github.com/bosch-io/californium",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 18:31:42"
  },
  {
@@ -259,31 +303,9 @@
   "url": "https://github.com/bosch-io/hydra",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs…",
   "first_seen": "2026-11-01 18:31:42"
- },
- {
-  "vendor": "博世",
-  "org": "bosch-io",
-  "full_name": "bosch-io/bic-sp-java-buildpack",
-  "url": "https://github.com/bosch-io/bic-sp-java-buildpack",
-  "sec_path": "docs/security.md",
-  "stars": null,
-  "language": null,
-  "description": "Cloud Foundry buildpack",
-  "first_seen": "2026-11-01 18:31:42"
- },
- {
-  "vendor": "博世",
-  "org": "boschresearch",
-  "full_name": "boschresearch/perun-node",
-  "url": "https://github.com/boschresearch/perun-node",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Direct State Transfer Go implementation",
-  "first_seen": "2026-11-01 18:32:29"
  },
  {
   "vendor": "博世",
@@ -292,7 +314,7 @@
   "url": "https://github.com/boschresearch/indy-plenum",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Plenum Byzantine Fault Tolerant Protocol",
   "first_seen": "2026-11-01 18:32:29"
  },
@@ -303,7 +325,7 @@
   "url": "https://github.com/boschresearch/indy-node",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "The server portion of a distributed ledger purpose-built for decentralized identity.",
   "first_seen": "2026-11-01 18:32:29"
  },
@@ -314,30 +336,8 @@
   "url": "https://github.com/boschresearch/indy-vdr",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Rust",
   "description": "A library and proxy server for interacting with Hyperledger Indy Node ledger instances",
-  "first_seen": "2026-11-01 18:33:50"
- },
- {
-  "vendor": "博世",
-  "org": "boschresearch",
-  "full_name": "boschresearch/DataSpaceConnector",
-  "url": "https://github.com/boschresearch/DataSpaceConnector",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "DataspaceConnector (Catena-X)",
-  "first_seen": "2026-11-01 18:33:50"
- },
- {
-  "vendor": "博世",
-  "org": "boschresearch",
-  "full_name": "boschresearch/aries-cloudagent-python",
-  "url": "https://github.com/boschresearch/aries-cloudagent-python",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.",
   "first_seen": "2026-11-01 18:33:50"
  },
  {
@@ -347,7 +347,7 @@
   "url": "https://github.com/boschresearch/aries-framework-go",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Hyperledger Aries Framework Go provides packages for building Agent / DIDComm services.",
   "first_seen": "2026-11-01 18:33:50"
  },
@@ -358,7 +358,7 @@
   "url": "https://github.com/boschresearch/indy-sdk",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Rust",
   "description": "indy-sdk",
   "first_seen": "2026-11-01 18:33:50"
  }

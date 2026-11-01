@@ -5,9 +5,20 @@
   "full_name": "bitdefender/bddisasm",
   "url": "https://github.com/bitdefender/bddisasm",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 1089,
+  "language": "C",
   "description": "bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to d…",
+  "first_seen": "2026-11-01 18:29:26"
+ },
+ {
+  "vendor": "Bitdefender",
+  "org": "bitdefender",
+  "full_name": "bitdefender/hvmi",
+  "url": "https://github.com/bitdefender/hvmi",
+  "sec_path": "SECURITY.md",
+  "stars": 686,
+  "language": "C",
+  "description": "Hypervisor Memory Introspection Core Library",
   "first_seen": "2026-11-01 18:29:26"
  },
  {
@@ -17,19 +28,8 @@
   "url": "https://github.com/bitdefender/Azure-Sentinel",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
-  "first_seen": "2026-11-01 18:29:26"
- },
- {
-  "vendor": "Bitdefender",
-  "org": "bitdefender",
-  "full_name": "bitdefender/hvmi",
-  "url": "https://github.com/bitdefender/hvmi",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Hypervisor Memory Introspection Core Library",
   "first_seen": "2026-11-01 18:29:26"
  }
 ]
