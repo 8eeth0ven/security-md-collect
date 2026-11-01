@@ -408,7 +408,7 @@
   "full_name": "Azure/azure-quickstart-templates",
   "url": "https://github.com/Azure/azure-quickstart-templates",
   "sec_path": "SECURITY.md",
-  "stars": 14898,
+  "stars": 14897,
   "language": "Bicep",
   "description": "Azure Quickstart Templates",
   "first_seen": "2026-11-01 16:24:27"
@@ -798,7 +798,7 @@
   "full_name": "Azure/Azure-Sentinel",
   "url": "https://github.com/Azure/Azure-Sentinel",
   "sec_path": "SECURITY.md",
-  "stars": 6232,
+  "stars": 6233,
   "language": "Python",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
   "first_seen": "2026-11-01 16:24:27"
@@ -2038,7 +2038,7 @@
   "full_name": "Azure/Enterprise-Scale",
   "url": "https://github.com/Azure/Enterprise-Scale",
   "sec_path": "SECURITY.md",
-  "stars": 1966,
+  "stars": 1967,
   "language": "PowerShell",
   "description": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles acros…",
   "first_seen": "2026-11-01 16:24:42"
@@ -4248,6 +4248,17 @@
  },
  {
   "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/mlops-v2",
+  "url": "https://github.com/Azure/mlops-v2",
+  "sec_path": "SECURITY.md",
+  "stars": 659,
+  "language": "Shell",
+  "description": "Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform. ",
+  "first_seen": "2026-11-01 16:25:27"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/agent-framework-go",
   "url": "https://github.com/microsoft/agent-framework-go",
@@ -4257,17 +4268,6 @@
   "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/mlops-v2",
-  "url": "https://github.com/Azure/mlops-v2",
-  "sec_path": "SECURITY.md",
-  "stars": 658,
-  "language": "Shell",
-  "description": "Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform. ",
-  "first_seen": "2026-11-01 16:25:27"
  },
  {
   "vendor": "微软",
@@ -4748,7 +4748,7 @@
   "full_name": "Azure/api-management-developer-portal",
   "url": "https://github.com/Azure/api-management-developer-portal",
   "sec_path": "SECURITY.md",
-  "stars": 545,
+  "stars": 546,
   "language": "TypeScript",
   "description": "Developer portal provided by the Azure API Management service.",
   "first_seen": "2026-11-01 16:24:54"
@@ -9134,17 +9134,6 @@
  },
  {
   "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/PyRIT",
-  "url": "https://github.com/Azure/PyRIT",
-  "sec_path": "SECURITY.md",
-  "stars": 123,
-  "language": null,
-  "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively i…",
-  "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/ticl",
   "url": "https://github.com/microsoft/ticl",
@@ -9176,6 +9165,17 @@
   "language": "C#",
   "description": "AutoRest PowerShell Generator",
   "first_seen": "2026-11-01 16:25:10"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/PyRIT",
+  "url": "https://github.com/Azure/PyRIT",
+  "sec_path": "SECURITY.md",
+  "stars": 122,
+  "language": null,
+  "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively i…",
+  "first_seen": "2026-11-01 16:25:27"
  },
  {
   "vendor": "微软",
@@ -16375,6 +16375,18 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/agent-app-mcp",
+  "url": "https://github.com/Azure/agent-app-mcp",
+  "sec_path": "SECURITY.md",
+  "stars": 22,
+  "language": "PowerShell",
+  "description": "gpt-rag-mcp",
+  "license": null,
+  "first_seen": "2026-11-02 07:49:56"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/azure-kusto-rust",
   "url": "https://github.com/Azure/azure-kusto-rust",
   "sec_path": "SECURITY.md",
@@ -19863,6 +19875,18 @@
   "description": "This GitHub Action retrieves a GitHub App installation token for use in workflows",
   "license": null,
   "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/osdu-data-load-tno",
+  "url": "https://github.com/Azure/osdu-data-load-tno",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "C#",
+  "description": "Data loading process for OSDU on Azure",
+  "license": null,
+  "first_seen": "2026-11-02 07:49:56"
  },
  {
   "vendor": "微软",

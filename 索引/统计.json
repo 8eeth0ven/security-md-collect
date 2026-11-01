@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-02 07:18:31",
+ "generated_at": "2026-11-02 07:53:55",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10095,
-  "negative_cached": 47984
+  "sec_repos": 10097,
+  "negative_cached": 47985
  },
  "vendors": [
   {
@@ -689,7 +689,7 @@
     "ms-iot",
     "nuget"
    ],
-   "sec_repos": 2592
+   "sec_repos": 2594
   },
   {
    "vendor": "谷歌",
@@ -1971,7 +1971,5 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": [
-  "walmart"
- ]
+ "orgs_failed": []
 }
