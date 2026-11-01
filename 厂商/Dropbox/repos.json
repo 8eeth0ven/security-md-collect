@@ -2,12 +2,12 @@
  {
   "vendor": "Dropbox",
   "org": "dropbox",
-  "full_name": "dropbox/agent-filesystem-samples",
-  "url": "https://github.com/dropbox/agent-filesystem-samples",
+  "full_name": "dropbox/dbxcli",
+  "url": "https://github.com/dropbox/dbxcli",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Sample apps and services for DBX Agent Filesystem",
+  "stars": 1165,
+  "language": "Go",
+  "description": "A scriptable Dropbox CLI for files, shared links, teams, and automation workflows",
   "first_seen": "2026-11-01 19:08:18"
  },
  {
@@ -16,20 +16,20 @@
   "full_name": "dropbox/incubator-superset-internal",
   "url": "https://github.com/dropbox/incubator-superset-internal",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 12,
+  "language": "TypeScript",
   "description": "",
   "first_seen": "2026-11-01 19:08:18"
  },
  {
   "vendor": "Dropbox",
   "org": "dropbox",
-  "full_name": "dropbox/dbxcli",
-  "url": "https://github.com/dropbox/dbxcli",
+  "full_name": "dropbox/agent-filesystem-samples",
+  "url": "https://github.com/dropbox/agent-filesystem-samples",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A scriptable Dropbox CLI for files, shared links, teams, and automation workflows",
+  "stars": 1,
+  "language": "TypeScript",
+  "description": "Sample apps and services for DBX Agent Filesystem",
   "first_seen": "2026-11-01 19:08:18"
  },
  {
@@ -38,8 +38,8 @@
   "full_name": "dropbox/amundsen",
   "url": "https://github.com/dropbox/amundsen",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 1,
+  "language": "HTML",
   "description": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
   "first_seen": "2026-11-01 19:08:18"
  },
@@ -49,8 +49,8 @@
   "full_name": "dropbox/libseccomp",
   "url": "https://github.com/dropbox/libseccomp",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 1,
+  "language": "C",
   "description": "The main libseccomp repository",
   "first_seen": "2026-11-01 19:08:18"
  }

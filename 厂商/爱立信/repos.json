@@ -2,11 +2,44 @@
  {
   "vendor": "爱立信",
   "org": "ericsson",
+  "full_name": "Ericsson/codechecker",
+  "url": "https://github.com/Ericsson/codechecker",
+  "sec_path": "SECURITY.md",
+  "stars": 2631,
+  "language": "Python",
+  "description": "CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.",
+  "first_seen": "2026-11-01 19:48:13"
+ },
+ {
+  "vendor": "爱立信",
+  "org": "ericsson",
+  "full_name": "Ericsson/CodeCompass",
+  "url": "https://github.com/Ericsson/CodeCompass",
+  "sec_path": "SECURITY.md",
+  "stars": 614,
+  "language": "C++",
+  "description": "CodeCompass is a software comprehension tool for large scale software written in C/C++, C# and Python.",
+  "first_seen": "2026-11-01 19:48:13"
+ },
+ {
+  "vendor": "爱立信",
+  "org": "ericsson",
+  "full_name": "Ericsson/PlantUML-Interactive-Editor",
+  "url": "https://github.com/Ericsson/PlantUML-Interactive-Editor",
+  "sec_path": "SECURITY.md",
+  "stars": 75,
+  "language": "Python",
+  "description": "A graphical editor for PlantUML diagrams",
+  "first_seen": "2026-11-01 19:48:13"
+ },
+ {
+  "vendor": "爱立信",
+  "org": "ericsson",
   "full_name": "Ericsson/ecaudit",
   "url": "https://github.com/Ericsson/ecaudit",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 47,
+  "language": "Java",
   "description": "Ericsson Audit plug-in for Apache Cassandra",
   "first_seen": "2026-11-01 19:48:13"
  },
@@ -16,64 +49,9 @@
   "full_name": "Ericsson/ecchronos",
   "url": "https://github.com/Ericsson/ecchronos",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 37,
+  "language": "Java",
   "description": "Ericsson distributed repair scheduler for Apache Cassandra",
-  "first_seen": "2026-11-01 19:48:13"
- },
- {
-  "vendor": "爱立信",
-  "org": "ericsson",
-  "full_name": "Ericsson/codechecker",
-  "url": "https://github.com/Ericsson/codechecker",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.",
-  "first_seen": "2026-11-01 19:48:13"
- },
- {
-  "vendor": "爱立信",
-  "org": "ericsson",
-  "full_name": "Ericsson/yocto-security-tools",
-  "url": "https://github.com/Ericsson/yocto-security-tools",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 19:48:13"
- },
- {
-  "vendor": "爱立信",
-  "org": "ericsson",
-  "full_name": "Ericsson/PlantUML-Interactive-Editor",
-  "url": "https://github.com/Ericsson/PlantUML-Interactive-Editor",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A graphical editor for PlantUML diagrams",
-  "first_seen": "2026-11-01 19:48:13"
- },
- {
-  "vendor": "爱立信",
-  "org": "ericsson",
-  "full_name": "Ericsson/CodeCompass",
-  "url": "https://github.com/Ericsson/CodeCompass",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "CodeCompass is a software comprehension tool for large scale software written in C/C++, C# and Python.",
-  "first_seen": "2026-11-01 19:48:13"
- },
- {
-  "vendor": "爱立信",
-  "org": "ericsson",
-  "full_name": "Ericsson/SpecPressExt",
-  "url": "https://github.com/Ericsson/SpecPressExt",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "SpecPress extension for VS Code",
   "first_seen": "2026-11-01 19:48:13"
  },
  {
@@ -82,20 +60,20 @@
   "full_name": "Ericsson/ove",
   "url": "https://github.com/Ericsson/ove",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 20,
+  "language": "Shell",
   "description": "OVE gathers git repositories and the knowledge how to build and test them",
   "first_seen": "2026-11-01 19:48:13"
  },
  {
   "vendor": "爱立信",
   "org": "ericsson",
-  "full_name": "Ericsson/trivy",
-  "url": "https://github.com/Ericsson/trivy",
+  "full_name": "Ericsson/yocto-security-tools",
+  "url": "https://github.com/Ericsson/yocto-security-tools",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",
+  "stars": 17,
+  "language": "Python",
+  "description": "",
   "first_seen": "2026-11-01 19:48:13"
  },
  {
@@ -104,9 +82,42 @@
   "full_name": "Ericsson/puppet-module-vas",
   "url": "https://github.com/Ericsson/puppet-module-vas",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 4,
+  "language": "Ruby",
   "description": "Puppet module to manage DELL Authentication Services previously known as VAS or Quest Authentication Services",
+  "first_seen": "2026-11-01 19:48:13"
+ },
+ {
+  "vendor": "爱立信",
+  "org": "ericsson",
+  "full_name": "Ericsson/trivy",
+  "url": "https://github.com/Ericsson/trivy",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Go",
+  "description": "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",
+  "first_seen": "2026-11-01 19:48:13"
+ },
+ {
+  "vendor": "爱立信",
+  "org": "ericsson",
+  "full_name": "Ericsson/backstage",
+  "url": "https://github.com/Ericsson/backstage",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "TypeScript",
+  "description": "Backstage is an open platform for building developer portals",
+  "first_seen": "2026-11-01 19:48:13"
+ },
+ {
+  "vendor": "爱立信",
+  "org": "ericsson",
+  "full_name": "Ericsson/SpecPressExt",
+  "url": "https://github.com/Ericsson/SpecPressExt",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "JavaScript",
+  "description": "SpecPress extension for VS Code",
   "first_seen": "2026-11-01 19:48:13"
  },
  {
@@ -123,22 +134,11 @@
  {
   "vendor": "爱立信",
   "org": "ericsson",
-  "full_name": "Ericsson/backstage",
-  "url": "https://github.com/Ericsson/backstage",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Backstage is an open platform for building developer portals",
-  "first_seen": "2026-11-01 19:48:13"
- },
- {
-  "vendor": "爱立信",
-  "org": "ericsson",
   "full_name": "Ericsson/kubernetes",
   "url": "https://github.com/Ericsson/kubernetes",
   "sec_path": ".github/SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Production-Grade Container Scheduling and Management",
   "first_seen": "2026-11-01 19:48:13"
  }

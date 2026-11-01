@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-02 02:53:52",
+ "generated_at": "2026-11-02 03:23:48",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 9895,
-  "negative_cached": 44731
+  "sec_repos": 9903,
+  "negative_cached": 45213
  },
  "vendors": [
   {
@@ -1231,7 +1231,7 @@
    "orgs": [
     "elastic"
    ],
-   "sec_repos": 165
+   "sec_repos": 173
   },
   {
    "vendor": "MongoDB",
@@ -1971,5 +1971,10 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": []
+ "orgs_failed": [
+  "NikeInc",
+  "PlayStation",
+  "SamsungSDS",
+  "bosch"
+ ]
 }

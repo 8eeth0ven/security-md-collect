@@ -2,13 +2,79 @@
  {
   "vendor": "DigitalOcean",
   "org": "digitalocean",
+  "full_name": "digitalocean/gradient-python",
+  "url": "https://github.com/digitalocean/gradient-python",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "Python",
+  "description": "DigitalOcean Gradient AI Platform SDK",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/wave",
+  "url": "https://github.com/digitalocean/wave",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "CSS",
+  "description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 ",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/gradient-typescript",
+  "url": "https://github.com/digitalocean/gradient-typescript",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "TypeScript",
+  "description": "DigitalOcean Gradient AI Platform SDK",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/grafana",
+  "url": "https://github.com/digitalocean/grafana",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "TypeScript",
+  "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
   "full_name": "digitalocean/docker-distribution",
   "url": "https://github.com/digitalocean/docker-distribution",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 5,
+  "language": "Go",
   "description": "The Docker toolset to pack, ship, store, and deliver content",
   "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/prometheus",
+  "url": "https://github.com/digitalocean/prometheus",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "[Insights] A fork of Prometheus with remote_write capability",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/ovs",
+  "url": "https://github.com/digitalocean/ovs",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": null,
+  "description": "openvswitch",
+  "first_seen": "2026-11-01 19:01:54"
  },
  {
   "vendor": "DigitalOcean",
@@ -16,9 +82,64 @@
   "full_name": "digitalocean/litellm",
   "url": "https://github.com/digitalocean/litellm",
   "sec_path": "security.md",
-  "stars": null,
-  "language": null,
+  "stars": 2,
+  "language": "Python",
   "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, A…",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/go-git",
+  "url": "https://github.com/digitalocean/go-git",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Go",
+  "description": "A highly extensible Git implementation in pure Go.",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/benchmark-harness",
+  "url": "https://github.com/digitalocean/benchmark-harness",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Shell",
+  "description": "OpenRouter TypeScript harness for reproducible LLM benchmarks and evaluations.",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/litellm-os",
+  "url": "https://github.com/digitalocean/litellm-os",
+  "sec_path": "security.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, A…",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/pmm-headless",
+  "url": "https://github.com/digitalocean/pmm-headless",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
+  "first_seen": "2026-11-01 19:00:34"
+ },
+ {
+  "vendor": "DigitalOcean",
+  "org": "digitalocean",
+  "full_name": "digitalocean/ray",
+  "url": "https://github.com/digitalocean/ray",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
   "first_seen": "2026-11-01 19:00:34"
  },
  {
@@ -28,7 +149,7 @@
   "url": "https://github.com/digitalocean/litestream",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Streaming replication for SQLite.",
   "first_seen": "2026-11-01 19:00:34"
  },
@@ -39,63 +160,8 @@
   "url": "https://github.com/digitalocean/harness-runtime-session-export",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Export a DigitalOcean agent session's conversation to a Markdown file.",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/benchmark-harness",
-  "url": "https://github.com/digitalocean/benchmark-harness",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "OpenRouter TypeScript harness for reproducible LLM benchmarks and evaluations.",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/litellm-os",
-  "url": "https://github.com/digitalocean/litellm-os",
-  "sec_path": "security.md",
-  "stars": null,
-  "language": null,
-  "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, A…",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/gradient-python",
-  "url": "https://github.com/digitalocean/gradient-python",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "DigitalOcean Gradient AI Platform SDK",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/gradient-typescript",
-  "url": "https://github.com/digitalocean/gradient-typescript",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "DigitalOcean Gradient AI Platform SDK",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/pmm-headless",
-  "url": "https://github.com/digitalocean/pmm-headless",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
   "first_seen": "2026-11-01 19:00:34"
  },
  {
@@ -105,7 +171,7 @@
   "url": "https://github.com/digitalocean/kaniko",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Build Container Images In Kubernetes",
   "first_seen": "2026-11-01 19:00:34"
  },
@@ -123,33 +189,11 @@
  {
   "vendor": "DigitalOcean",
   "org": "digitalocean",
-  "full_name": "digitalocean/ray",
-  "url": "https://github.com/digitalocean/ray",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/go-git",
-  "url": "https://github.com/digitalocean/go-git",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A highly extensible Git implementation in pure Go.",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
   "full_name": "digitalocean/st2",
   "url": "https://github.com/digitalocean/st2",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "StackStorm (aka \"IFTTT for Ops\") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs…",
   "first_seen": "2026-11-01 19:00:34"
  },
@@ -160,19 +204,8 @@
   "url": "https://github.com/digitalocean/gpu-metal-awx",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pl…",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/wave",
-  "url": "https://github.com/digitalocean/wave",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 ",
   "first_seen": "2026-11-01 19:00:34"
  },
  {
@@ -182,7 +215,7 @@
   "url": "https://github.com/digitalocean/cilium",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "eBPF-based Networking, Security, and Observability",
   "first_seen": "2026-11-01 19:00:34"
  },
@@ -193,19 +226,8 @@
   "url": "https://github.com/digitalocean/copilot-metrics-viewer",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Vue",
   "description": "Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/grafana",
-  "url": "https://github.com/digitalocean/grafana",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
   "first_seen": "2026-11-01 19:00:34"
  },
  {
@@ -215,19 +237,8 @@
   "url": "https://github.com/digitalocean/haproxy_exporter",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption",
-  "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/prometheus",
-  "url": "https://github.com/digitalocean/prometheus",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "[Insights] A fork of Prometheus with remote_write capability",
   "first_seen": "2026-11-01 19:00:34"
  },
  {
@@ -237,19 +248,8 @@
   "url": "https://github.com/digitalocean/kubernetes",
   "sec_path": ".github/SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Production-Grade Container Scheduling and Management",
   "first_seen": "2026-11-01 19:00:34"
- },
- {
-  "vendor": "DigitalOcean",
-  "org": "digitalocean",
-  "full_name": "digitalocean/ovs",
-  "url": "https://github.com/digitalocean/ovs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "openvswitch",
-  "first_seen": "2026-11-01 19:01:54"
  }
 ]

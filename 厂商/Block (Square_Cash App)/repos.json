@@ -81,6 +81,17 @@
  },
  {
   "vendor": "Block (Square/Cash App)",
+  "org": "cashapp",
+  "full_name": "cashapp/certifikit",
+  "url": "https://github.com/cashapp/certifikit",
+  "sec_path": "docs/security.md",
+  "stars": 41,
+  "language": "Kotlin",
+  "description": "Kotlin Certificate processing library.",
+  "first_seen": "2026-11-01 19:18:16"
+ },
+ {
+  "vendor": "Block (Square/Cash App)",
   "org": "square",
   "full_name": "square/pyfu-usb",
   "url": "https://github.com/square/pyfu-usb",
@@ -213,16 +224,5 @@
   "language": "Go",
   "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data sil…",
   "first_seen": "2026-11-01 18:29:54"
- },
- {
-  "vendor": "Block (Square/Cash App)",
-  "org": "cashapp",
-  "full_name": "cashapp/certifikit",
-  "url": "https://github.com/cashapp/certifikit",
-  "sec_path": "docs/security.md",
-  "stars": null,
-  "language": null,
-  "description": "Kotlin Certificate processing library.",
-  "first_seen": "2026-11-01 19:18:16"
  }
 ]

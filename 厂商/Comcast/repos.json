@@ -2,89 +2,12 @@
  {
   "vendor": "Comcast",
   "org": "comcast",
-  "full_name": "Comcast/portal-application-lifecycle-manager",
-  "url": "https://github.com/Comcast/portal-application-lifecycle-manager",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Compare, configure, and promote ArcGIS apps across environments with a React client and Node.js backend.",
-  "first_seen": "2026-11-01 18:52:39"
- },
- {
-  "vendor": "Comcast",
-  "org": "comcast",
-  "full_name": "Comcast/CARAF",
-  "url": "https://github.com/Comcast/CARAF",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "CARAF is Comcast's Post-Quantum Cryptography Risk Assessment Methodology which combines inventorying tools, risk calculators, and benchmarking tools and standar…",
-  "first_seen": "2026-11-01 18:52:39"
- },
- {
-  "vendor": "Comcast",
-  "org": "comcast",
-  "full_name": "Comcast/OpenPlate",
-  "url": "https://github.com/Comcast/OpenPlate",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A tool for building and managing reusable project templates and standardized developer workflows.",
-  "first_seen": "2026-11-01 18:52:39"
- },
- {
-  "vendor": "Comcast",
-  "org": "comcast",
   "full_name": "Comcast/fishymetrics",
   "url": "https://github.com/Comcast/fishymetrics",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 44,
+  "language": "Go",
   "description": "Redfish API Prometheus Exporter for monitoring large scale server deployments",
-  "first_seen": "2026-11-01 18:52:39"
- },
- {
-  "vendor": "Comcast",
-  "org": "comcast",
-  "full_name": "Comcast/ProjectGuardRail",
-  "url": "https://github.com/Comcast/ProjectGuardRail",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AI/ML applications have unique security threats. Project GuardRail is a set of security and privacy requirements that AI/ML applications should meet during thei…",
-  "first_seen": "2026-11-01 18:52:39"
- },
- {
-  "vendor": "Comcast",
-  "org": "comcast",
-  "full_name": "Comcast/xCOMPASS",
-  "url": "https://github.com/Comcast/xCOMPASS",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "This repository hosts a persona based privacy threat modeling solution called Models of Applied Privacy or MAP.",
-  "first_seen": "2026-11-01 18:52:39"
- },
- {
-  "vendor": "Comcast",
-  "org": "comcast",
-  "full_name": "Comcast/comcast.github.io",
-  "url": "https://github.com/Comcast/comcast.github.io",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The main Open Source portal for Comcast",
-  "first_seen": "2026-11-01 18:52:39"
- },
- {
-  "vendor": "Comcast",
-  "org": "comcast",
-  "full_name": "Comcast/Porrtal",
-  "url": "https://github.com/Comcast/Porrtal",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "This project was created to help developers. You can use the platform to build web applications. The project supports both React and Angular development.",
   "first_seen": "2026-11-01 18:52:39"
  },
  {
@@ -93,9 +16,75 @@
   "full_name": "Comcast/Comcast.github.io-archive",
   "url": "https://github.com/Comcast/Comcast.github.io-archive",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 38,
+  "language": "HTML",
   "description": "The main Open Source portal for Comcast",
+  "first_seen": "2026-11-01 18:52:39"
+ },
+ {
+  "vendor": "Comcast",
+  "org": "comcast",
+  "full_name": "Comcast/xCOMPASS",
+  "url": "https://github.com/Comcast/xCOMPASS",
+  "sec_path": "SECURITY.md",
+  "stars": 36,
+  "language": null,
+  "description": "This repository hosts a persona based privacy threat modeling solution called Models of Applied Privacy or MAP.",
+  "first_seen": "2026-11-01 18:52:39"
+ },
+ {
+  "vendor": "Comcast",
+  "org": "comcast",
+  "full_name": "Comcast/ProjectGuardRail",
+  "url": "https://github.com/Comcast/ProjectGuardRail",
+  "sec_path": "SECURITY.md",
+  "stars": 33,
+  "language": null,
+  "description": "AI/ML applications have unique security threats. Project GuardRail is a set of security and privacy requirements that AI/ML applications should meet during thei…",
+  "first_seen": "2026-11-01 18:52:39"
+ },
+ {
+  "vendor": "Comcast",
+  "org": "comcast",
+  "full_name": "Comcast/comcast.github.io",
+  "url": "https://github.com/Comcast/comcast.github.io",
+  "sec_path": "SECURITY.md",
+  "stars": 25,
+  "language": "JavaScript",
+  "description": "The main Open Source portal for Comcast",
+  "first_seen": "2026-11-01 18:52:39"
+ },
+ {
+  "vendor": "Comcast",
+  "org": "comcast",
+  "full_name": "Comcast/CARAF",
+  "url": "https://github.com/Comcast/CARAF",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "Python",
+  "description": "CARAF is Comcast's Post-Quantum Cryptography Risk Assessment Methodology which combines inventorying tools, risk calculators, and benchmarking tools and standar…",
+  "first_seen": "2026-11-01 18:52:39"
+ },
+ {
+  "vendor": "Comcast",
+  "org": "comcast",
+  "full_name": "Comcast/portal-application-lifecycle-manager",
+  "url": "https://github.com/Comcast/portal-application-lifecycle-manager",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "JavaScript",
+  "description": "Compare, configure, and promote ArcGIS apps across environments with a React client and Node.js backend.",
+  "first_seen": "2026-11-01 18:52:39"
+ },
+ {
+  "vendor": "Comcast",
+  "org": "comcast",
+  "full_name": "Comcast/Porrtal",
+  "url": "https://github.com/Comcast/Porrtal",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "TypeScript",
+  "description": "This project was created to help developers. You can use the platform to build web applications. The project supports both React and Angular development.",
   "first_seen": "2026-11-01 18:52:39"
  },
  {
@@ -104,7 +93,7 @@
   "full_name": "Comcast/low-latency",
   "url": "https://github.com/Comcast/low-latency",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 2,
   "language": null,
   "description": "LS4: Low Latency Low Loss Scalable Throughput",
   "first_seen": "2026-11-01 18:52:39"
@@ -115,9 +104,20 @@
   "full_name": "Comcast/.github",
   "url": "https://github.com/Comcast/.github",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 1,
   "language": null,
   "description": "Default files for the org",
+  "first_seen": "2026-11-01 18:52:39"
+ },
+ {
+  "vendor": "Comcast",
+  "org": "comcast",
+  "full_name": "Comcast/OpenPlate",
+  "url": "https://github.com/Comcast/OpenPlate",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": "Python",
+  "description": "A tool for building and managing reusable project templates and standardized developer workflows.",
   "first_seen": "2026-11-01 18:52:39"
  }
 ]

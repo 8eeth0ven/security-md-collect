@@ -49,6 +49,28 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "envoyproxy",
+  "full_name": "envoyproxy/envoy",
+  "url": "https://github.com/envoyproxy/envoy",
+  "sec_path": "SECURITY.md",
+  "stars": 29162,
+  "language": "C++",
+  "description": "Cloud-native high-performance edge/middle/service proxy",
+  "first_seen": "2026-11-01 19:47:48"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "cilium",
+  "full_name": "cilium/cilium",
+  "url": "https://github.com/cilium/cilium",
+  "sec_path": "SECURITY.md",
+  "stars": 25750,
+  "language": "Go",
+  "description": "eBPF-based Networking, Security, and Observability",
+  "first_seen": "2026-11-01 19:18:45"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "argoproj",
   "full_name": "argoproj/argo-cd",
   "url": "https://github.com/argoproj/argo-cd",
@@ -131,6 +153,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "containerd",
+  "full_name": "containerd/nerdctl",
+  "url": "https://github.com/containerd/nerdctl",
+  "sec_path": "SECURITY.md",
+  "stars": 10460,
+  "language": "Go",
+  "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
+  "first_seen": "2026-11-01 18:53:52"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "prometheus",
   "full_name": "prometheus/alertmanager",
   "url": "https://github.com/prometheus/alertmanager",
@@ -200,6 +233,17 @@
   "description": "Kubernetes website and documentation repo: ",
   "license": null,
   "first_seen": "2026-11-01 22:29:25"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "cilium",
+  "full_name": "cilium/tetragon",
+  "url": "https://github.com/cilium/tetragon",
+  "sec_path": "SECURITY.md",
+  "stars": 5138,
+  "language": "C",
+  "description": "eBPF-based Security Observability and Runtime Enforcement",
+  "first_seen": "2026-11-01 19:18:45"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -310,6 +354,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "envoyproxy",
+  "full_name": "envoyproxy/gateway",
+  "url": "https://github.com/envoyproxy/gateway",
+  "sec_path": "SECURITY.md",
+  "stars": 3123,
+  "language": "Go",
+  "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+  "first_seen": "2026-11-01 19:47:48"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "istio",
   "full_name": "istio/community",
   "url": "https://github.com/istio/community",
@@ -401,6 +456,17 @@
   "description": "SNMP Exporter for Prometheus",
   "license": null,
   "first_seen": "2026-11-01 23:27:06"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "containerd",
+  "full_name": "containerd/runwasi",
+  "url": "https://github.com/containerd/runwasi",
+  "sec_path": "SECURITY.md",
+  "stars": 1347,
+  "language": "Rust",
+  "description": "Facilitates running Wasm / WASI workloads managed by containerd",
+  "first_seen": "2026-11-01 18:53:52"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -583,6 +649,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "cilium",
+  "full_name": "cilium/cilium-cli",
+  "url": "https://github.com/cilium/cilium-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 608,
+  "language": "Makefile",
+  "description": "CLI to install, manage & troubleshoot Kubernetes clusters running Cilium",
+  "first_seen": "2026-11-01 19:18:45"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "kubernetes",
   "full_name": "kubernetes/gengo",
   "url": "https://github.com/kubernetes/gengo",
@@ -751,6 +828,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "envoyproxy",
+  "full_name": "envoyproxy/java-control-plane",
+  "url": "https://github.com/envoyproxy/java-control-plane",
+  "sec_path": "SECURITY.md",
+  "stars": 313,
+  "language": "Java",
+  "description": "Java implementation of an Envoy gRPC control plane",
+  "first_seen": "2026-11-01 19:47:48"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "prometheus",
   "full_name": "prometheus/exporter-toolkit",
   "url": "https://github.com/prometheus/exporter-toolkit",
@@ -868,6 +956,17 @@
   "description": "A template for starting new projects on the github.com/kubernetes organization",
   "license": null,
   "first_seen": "2026-11-01 22:29:25"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "envoyproxy",
+  "full_name": "envoyproxy/envoy-wasm",
+  "url": "https://github.com/envoyproxy/envoy-wasm",
+  "sec_path": "SECURITY.md",
+  "stars": 207,
+  "language": "C++",
+  "description": "*ATTENTION!: The content of this repo is merged into https://github.com/envoyproxy/envoy and future development is happening there.",
+  "first_seen": "2026-11-01 19:47:48"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1003,6 +1102,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "containerd",
+  "full_name": "containerd/.project",
+  "url": "https://github.com/containerd/.project",
+  "sec_path": "SECURITY.md",
+  "stars": 80,
+  "language": null,
+  "description": "Overall containerd project docs and governance details",
+  "first_seen": "2026-11-01 18:53:52"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "prometheus",
   "full_name": "prometheus/client_model",
   "url": "https://github.com/prometheus/client_model",
@@ -1036,6 +1146,17 @@
   "description": "Builds istio releases in a hermetic and reproducible environment",
   "license": null,
   "first_seen": "2026-11-01 22:25:45"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "envoyproxy",
+  "full_name": "envoyproxy/envoy-openssl",
+  "url": "https://github.com/envoyproxy/envoy-openssl",
+  "sec_path": "SECURITY.md",
+  "stars": 57,
+  "language": "C++",
+  "description": "Envoy OpenSSL extensions",
+  "first_seen": "2026-11-01 19:47:48"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1195,6 +1316,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "envoyproxy",
+  "full_name": "envoyproxy/toolshed",
+  "url": "https://github.com/envoyproxy/toolshed",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 19:47:48"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "istio",
   "full_name": "istio/bots",
   "url": "https://github.com/istio/bots",
@@ -1228,6 +1360,17 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-01 23:27:06"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "cilium",
+  "full_name": "cilium/ztunnel",
+  "url": "https://github.com/cilium/ztunnel",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 8,
+  "language": "Rust",
+  "description": "Mutual TLS proxy for workload communication",
+  "first_seen": "2026-11-01 19:18:45"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1351,6 +1494,39 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "containerd",
+  "full_name": "containerd/.github",
+  "url": "https://github.com/containerd/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "Community wide project health files",
+  "first_seen": "2026-11-01 18:53:52"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "cilium",
+  "full_name": "cilium/iproute2",
+  "url": "https://github.com/cilium/iproute2",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C",
+  "description": "Just local BPF wip branches for upstream",
+  "first_seen": "2026-11-01 19:18:45"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "cilium",
+  "full_name": "cilium/perf-tests",
+  "url": "https://github.com/cilium/perf-tests",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "Performance tests and benchmarks",
+  "first_seen": "2026-11-01 19:18:45"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "prometheus",
   "full_name": "prometheus/promci-images",
   "url": "https://github.com/prometheus/promci-images",
@@ -1375,189 +1551,13 @@
  },
  {
   "vendor": "CNCF云原生基金会",
-  "org": "containerd",
-  "full_name": "containerd/nerdctl",
-  "url": "https://github.com/containerd/nerdctl",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
-  "first_seen": "2026-11-01 18:53:52"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "containerd",
-  "full_name": "containerd/runwasi",
-  "url": "https://github.com/containerd/runwasi",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Facilitates running Wasm / WASI workloads managed by containerd",
-  "first_seen": "2026-11-01 18:53:52"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "containerd",
-  "full_name": "containerd/.project",
-  "url": "https://github.com/containerd/.project",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Overall containerd project docs and governance details",
-  "first_seen": "2026-11-01 18:53:52"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "containerd",
-  "full_name": "containerd/.github",
-  "url": "https://github.com/containerd/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Community wide project health files",
-  "first_seen": "2026-11-01 18:53:52"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "cilium",
-  "full_name": "cilium/tetragon",
-  "url": "https://github.com/cilium/tetragon",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "eBPF-based Security Observability and Runtime Enforcement",
-  "first_seen": "2026-11-01 19:18:45"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "cilium",
-  "full_name": "cilium/cilium",
-  "url": "https://github.com/cilium/cilium",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "eBPF-based Networking, Security, and Observability",
-  "first_seen": "2026-11-01 19:18:45"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "cilium",
-  "full_name": "cilium/cilium-cli",
-  "url": "https://github.com/cilium/cilium-cli",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "CLI to install, manage & troubleshoot Kubernetes clusters running Cilium",
-  "first_seen": "2026-11-01 19:18:45"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "cilium",
-  "full_name": "cilium/ztunnel",
-  "url": "https://github.com/cilium/ztunnel",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Mutual TLS proxy for workload communication",
-  "first_seen": "2026-11-01 19:18:45"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "cilium",
-  "full_name": "cilium/iproute2",
-  "url": "https://github.com/cilium/iproute2",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Just local BPF wip branches for upstream",
-  "first_seen": "2026-11-01 19:18:45"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "cilium",
-  "full_name": "cilium/perf-tests",
-  "url": "https://github.com/cilium/perf-tests",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Performance tests and benchmarks",
-  "first_seen": "2026-11-01 19:18:45"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "envoyproxy",
-  "full_name": "envoyproxy/toolshed",
-  "url": "https://github.com/envoyproxy/toolshed",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 19:47:48"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "envoyproxy",
-  "full_name": "envoyproxy/envoy",
-  "url": "https://github.com/envoyproxy/envoy",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Cloud-native high-performance edge/middle/service proxy",
-  "first_seen": "2026-11-01 19:47:48"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "envoyproxy",
-  "full_name": "envoyproxy/gateway",
-  "url": "https://github.com/envoyproxy/gateway",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
-  "first_seen": "2026-11-01 19:47:48"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "envoyproxy",
-  "full_name": "envoyproxy/java-control-plane",
-  "url": "https://github.com/envoyproxy/java-control-plane",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Java implementation of an Envoy gRPC control plane",
-  "first_seen": "2026-11-01 19:47:48"
- },
- {
-  "vendor": "CNCF云原生基金会",
   "org": "envoyproxy",
   "full_name": "envoyproxy/envoy-windows",
   "url": "https://github.com/envoyproxy/envoy-windows",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C++",
   "description": "Windows build of Envoy",
-  "first_seen": "2026-11-01 19:47:48"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "envoyproxy",
-  "full_name": "envoyproxy/envoy-openssl",
-  "url": "https://github.com/envoyproxy/envoy-openssl",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Envoy OpenSSL extensions",
-  "first_seen": "2026-11-01 19:47:48"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "envoyproxy",
-  "full_name": "envoyproxy/envoy-wasm",
-  "url": "https://github.com/envoyproxy/envoy-wasm",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "*ATTENTION!: The content of this repo is merged into https://github.com/envoyproxy/envoy and future development is happening there.",
   "first_seen": "2026-11-01 19:47:48"
  },
  {
