@@ -166,6 +166,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sf-skills",
+  "url": "https://github.com/forcedotcom/sf-skills",
+  "sec_path": "SECURITY.md",
+  "stars": 1134,
+  "language": "Python",
+  "description": "Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/tough-cookie",
   "url": "https://github.com/salesforce/tough-cookie",
@@ -174,6 +185,17 @@
   "language": "TypeScript",
   "description": "RFC6265 Cookies and CookieJar for Node.js",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-vscode",
+  "url": "https://github.com/forcedotcom/salesforcedx-vscode",
+  "sec_path": "SECURITY.md",
+  "stars": 1040,
+  "language": "TypeScript",
+  "description": "Salesforce Extensions for VS Code",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -265,6 +287,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/cli",
+  "url": "https://github.com/forcedotcom/cli",
+  "sec_path": "SECURITY.md",
+  "stars": 574,
+  "language": null,
+  "description": "Salesforce CLI - Issues and Discussions only",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/PyRCA",
   "url": "https://github.com/salesforce/PyRCA",
@@ -273,6 +306,39 @@
   "language": "Python",
   "description": "PyRCA: A Python Machine Learning Library for Root Cause Analysis",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SFDX-Data-Move-Utility",
+  "url": "https://github.com/forcedotcom/SFDX-Data-Move-Utility",
+  "sec_path": "SECURITY.md",
+  "stars": 557,
+  "language": "TypeScript",
+  "description": "SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple rela…",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-iOS",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS",
+  "sec_path": "SECURITY.md",
+  "stars": 553,
+  "language": "Objective-C",
+  "description": "iOS SDK for Salesforce",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/dataloader",
+  "url": "https://github.com/forcedotcom/dataloader",
+  "sec_path": "SECURITY.md",
+  "stars": 543,
+  "language": "Java",
+  "description": "Salesforce Data Loader",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -317,6 +383,17 @@
   "language": "Python",
   "description": "PyTorch code for Learning Deep Time-index Models for Time Series Forecasting (ICML 2023)",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-Android",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Android",
+  "sec_path": "SECURITY.md",
+  "stars": 361,
+  "language": "Kotlin",
+  "description": "Android SDK for Salesforce",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -375,6 +452,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/wsc",
+  "url": "https://github.com/forcedotcom/wsc",
+  "sec_path": "SECURITY.md",
+  "stars": 275,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/agentscript",
   "url": "https://github.com/salesforce/agentscript",
@@ -405,6 +493,17 @@
   "language": "Starlark",
   "description": "Bazel rule for building Spring Boot apps as a deployable jar",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/code-analyzer",
+  "url": "https://github.com/forcedotcom/code-analyzer",
+  "sec_path": "SECURITY.md",
+  "stars": 242,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -507,6 +606,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/b2b-commerce-on-lightning-quickstart",
+  "url": "https://github.com/forcedotcom/b2b-commerce-on-lightning-quickstart",
+  "sec_path": "SECURITY.md",
+  "stars": 191,
+  "language": "Shell",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/ALPRO",
   "url": "https://github.com/salesforce/ALPRO",
@@ -540,6 +650,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/pub-sub-api",
+  "url": "https://github.com/forcedotcom/pub-sub-api",
+  "sec_path": "SECURITY.md",
+  "stars": 180,
+  "language": "Java",
+  "description": "Sample project to get started with the Pub/Sub API",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/kafka-junit",
   "url": "https://github.com/salesforce/kafka-junit",
@@ -548,6 +669,17 @@
   "language": "Java",
   "description": "This library wraps Kafka's embedded test cluster, allowing you to more easily create and run integration tests using JUnit against a \"real\" kafka server running…",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdx-core",
+  "url": "https://github.com/forcedotcom/sfdx-core",
+  "sec_path": "SECURITY.md",
+  "stars": 171,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -606,6 +738,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceCanvasFrameworkSDK",
+  "url": "https://github.com/forcedotcom/SalesforceCanvasFrameworkSDK",
+  "sec_path": "SECURITY.md",
+  "stars": 144,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/metabadger",
   "url": "https://github.com/salesforce/metabadger",
@@ -614,6 +757,17 @@
   "language": "Python",
   "description": "Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/mcp-hosted",
+  "url": "https://github.com/forcedotcom/mcp-hosted",
+  "sec_path": "SECURITY.md",
+  "stars": 136,
+  "language": null,
+  "description": "Salesforce Hosted MCP Servers",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -647,6 +801,28 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/Analytics-Cloud-Dataset-Utils",
+  "url": "https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils",
+  "sec_path": "SECURITY.md",
+  "stars": 130,
+  "language": "JavaScript",
+  "description": "Friendly utility to load your on-prem data, whether large or small,  to Einstein Analytics Datasets, with useful features such as autoloading, dataflow control …",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/force-dot-com-esapi",
+  "url": "https://github.com/forcedotcom/force-dot-com-esapi",
+  "sec_path": "SECURITY.md",
+  "stars": 129,
+  "language": "Apex",
+  "description": "Enterprise Security API for the Apex language on the Force.com platform.",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -705,6 +881,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SFDX-Data-Move-Utility-Desktop-App",
+  "url": "https://github.com/forcedotcom/SFDX-Data-Move-Utility-Desktop-App",
+  "sec_path": "SECURITY.md",
+  "stars": 119,
+  "language": "JavaScript",
+  "description": "The SFDMU GUI Desktop Application is a comprehensive tool for Salesforce data migration between SF environments or importing/exporting CSV data into SF environm…",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/rng-kbqa",
   "url": "https://github.com/salesforce/rng-kbqa",
@@ -746,6 +933,28 @@
   "language": "Jupyter Notebook",
   "description": " BotSIM - a data-efficient end-to-end Bot SIMulation toolkit for evaluation, diagnosis, and improvement of commercial chatbots",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/quiz-host-app",
+  "url": "https://github.com/forcedotcom/quiz-host-app",
+  "sec_path": "SECURITY.md",
+  "stars": 116,
+  "language": "Apex",
+  "description": "Multiplayer quiz app built on Salesforce technology (host app)",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforcePy",
+  "url": "https://github.com/forcedotcom/SalesforcePy",
+  "sec_path": "SECURITY.md",
+  "stars": 115,
+  "language": "Python",
+  "description": "An absurdly simple package for making Salesforce Rest API calls.",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -804,6 +1013,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/ConnectApiHelper",
+  "url": "https://github.com/forcedotcom/ConnectApiHelper",
+  "sec_path": "SECURITY.md",
+  "stars": 105,
+  "language": "Apex",
+  "description": "Helper class that makes it easier to post Chatter @-mentions, rich text, and inline images with Apex code.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/AuditNLG",
   "url": "https://github.com/salesforce/AuditNLG",
@@ -837,6 +1057,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/source-deploy-retrieve",
+  "url": "https://github.com/forcedotcom/source-deploy-retrieve",
+  "sec_path": "SECURITY.md",
+  "stars": 97,
+  "language": "TypeScript",
+  "description": "JavaScript toolkit for working with Salesforce metadata.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/best",
   "url": "https://github.com/salesforce/best",
@@ -845,6 +1076,17 @@
   "language": "TypeScript",
   "description": ":trophy: Delightful Benchmarking & Performance Testing",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-templates",
+  "url": "https://github.com/forcedotcom/salesforcedx-templates",
+  "sec_path": "SECURITY.md",
+  "stars": 94,
+  "language": "TypeScript",
+  "description": "Salesforce Templates Node Library",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -881,6 +1123,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/commerce-on-lightning-components",
+  "url": "https://github.com/forcedotcom/commerce-on-lightning-components",
+  "sec_path": "SECURITY.md",
+  "stars": 88,
+  "language": "JavaScript",
+  "description": "Commerce on Lightning out-of-the-box component source code for reference and educational purposes",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/ml4ir",
   "url": "https://github.com/salesforce/ml4ir",
@@ -911,6 +1164,17 @@
   "language": "Python",
   "description": "This repository maintains the QAConv dataset, a question-answering dataset on informative conversations including business emails, panel discussions, and work c…",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/commerce-on-lightning",
+  "url": "https://github.com/forcedotcom/commerce-on-lightning",
+  "sec_path": "SECURITY.md",
+  "stars": 84,
+  "language": "TypeScript",
+  "description": "An SFDX Plugin to setup a B2C or B2B Store",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1002,6 +1266,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/run-code-analyzer",
+  "url": "https://github.com/forcedotcom/run-code-analyzer",
+  "sec_path": "SECURITY.md",
+  "stars": 75,
+  "language": "TypeScript",
+  "description": "GitHub Action to run Salesforce Code Analyzer",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/DOODL",
   "url": "https://github.com/salesforce/DOODL",
@@ -1013,6 +1288,28 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-docker",
+  "url": "https://github.com/forcedotcom/salesforcedx-docker",
+  "sec_path": "SECURITY.md",
+  "stars": 74,
+  "language": "JavaScript",
+  "description": "The official Dockerfile for Salesforce DX",
+  "first_seen": "2026-11-01 20:20:22"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdx-plugin-generate",
+  "url": "https://github.com/forcedotcom/sfdx-plugin-generate",
+  "sec_path": "SECURITY.md",
+  "stars": 73,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/grammaticus",
   "url": "https://github.com/salesforce/grammaticus",
@@ -1021,6 +1318,28 @@
   "language": "Java",
   "description": "",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-Shared",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Shared",
+  "sec_path": "SECURITY.md",
+  "stars": 72,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/WSDL2Apex",
+  "url": "https://github.com/forcedotcom/WSDL2Apex",
+  "sec_path": "SECURITY.md",
+  "stars": 70,
+  "language": "Apex",
+  "description": "",
+  "first_seen": "2026-11-01 20:20:22"
  },
  {
   "vendor": "Salesforce",
@@ -1101,6 +1420,39 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforce-alm",
+  "url": "https://github.com/forcedotcom/salesforce-alm",
+  "sec_path": "SECURITY.md",
+  "stars": 62,
+  "language": "TypeScript",
+  "description": "A read-only snapshot of the salesforce-alm plugin known as the \"toolbelt\".",
+  "first_seen": "2026-11-01 20:20:22"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/devops-center-feedback",
+  "url": "https://github.com/forcedotcom/devops-center-feedback",
+  "sec_path": "SECURITY.md",
+  "stars": 61,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/dx-empty",
+  "url": "https://github.com/forcedotcom/dx-empty",
+  "sec_path": "SECURITY.md",
+  "stars": 61,
+  "language": "JavaScript",
+  "description": "Template repository representing the empty file system structure for a new Salesforce DX project.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/factualNLG",
   "url": "https://github.com/salesforce/factualNLG",
@@ -1131,6 +1483,50 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-Templates",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Templates",
+  "sec_path": "SECURITY.md",
+  "stars": 58,
+  "language": "Kotlin",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/Einstein-GPT-for-Developers",
+  "url": "https://github.com/forcedotcom/Einstein-GPT-for-Developers",
+  "sec_path": "SECURITY.md",
+  "stars": 57,
+  "language": null,
+  "description": "Einstein GPT For Developers",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-ReactNative",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-ReactNative",
+  "sec_path": "SECURITY.md",
+  "stars": 57,
+  "language": "Kotlin",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/LWC-Mobile-Samples",
+  "url": "https://github.com/forcedotcom/LWC-Mobile-Samples",
+  "sec_path": "SECURITY.md",
+  "stars": 57,
+  "language": "JavaScript",
+  "description": "Mobile sample applications and code for LWC development",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1178,6 +1574,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/go-soql",
+  "url": "https://github.com/forcedotcom/go-soql",
+  "sec_path": "SECURITY.md",
+  "stars": 53,
+  "language": "Go",
+  "description": "Golang tag library to generate SOQL queries",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/lwc-test",
   "url": "https://github.com/salesforce/lwc-test",
@@ -1186,6 +1593,17 @@
   "language": "JavaScript",
   "description": "LWC plugins and utilities for testing",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-CordovaPlugin",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin",
+  "sec_path": "SECURITY.md",
+  "stars": 51,
+  "language": "Kotlin",
+  "description": "Cordova plugin for the Salesforce Mobile SDK",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1233,6 +1651,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/AuraEnabledScanner",
+  "url": "https://github.com/forcedotcom/AuraEnabledScanner",
+  "sec_path": "SECURITY.md",
+  "stars": 47,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/pomgen",
   "url": "https://github.com/salesforce/pomgen",
@@ -1252,6 +1681,28 @@
   "language": "Python",
   "description": "Audit content (pdfs, media files, images) sensitivity on urls",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdx-analytics",
+  "url": "https://github.com/forcedotcom/sfdx-analytics",
+  "sec_path": "SECURITY.md",
+  "stars": 45,
+  "language": "JavaScript",
+  "description": "Einstein Analytics sample application templates",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lwc-dev-server-feedback",
+  "url": "https://github.com/forcedotcom/lwc-dev-server-feedback",
+  "sec_path": "SECURITY.md",
+  "stars": 45,
+  "language": null,
+  "description": "LWC Local Development",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1277,6 +1728,28 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceCanvasJavascriptSDK",
+  "url": "https://github.com/forcedotcom/SalesforceCanvasJavascriptSDK",
+  "sec_path": "SECURITY.md",
+  "stars": 43,
+  "language": "JavaScript",
+  "description": "A JavaScript SDK used to integrate applications with the Force.com Canvas framework",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/cli-packages",
+  "url": "https://github.com/forcedotcom/cli-packages",
+  "sec_path": "SECURITY.md",
+  "stars": 42,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:20:22"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/DialFact",
   "url": "https://github.com/salesforce/DialFact",
@@ -1285,6 +1758,39 @@
   "language": "Python",
   "description": "We construct and introduce DIALFACT, a testing benchmark dataset crowd-annotated conversational claims, paired with pieces of evidence from Wikipedia.",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/b2b-commerce-open-source-components",
+  "url": "https://github.com/forcedotcom/b2b-commerce-open-source-components",
+  "sec_path": "SECURITY.md",
+  "stars": 41,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/Salesforce-CDP-jdbc",
+  "url": "https://github.com/forcedotcom/Salesforce-CDP-jdbc",
+  "sec_path": "SECURITY.md",
+  "stars": 41,
+  "language": "Java",
+  "description": "JDBC driver to connect to Salesforce CDP.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/schemas",
+  "url": "https://github.com/forcedotcom/schemas",
+  "sec_path": "SECURITY.md",
+  "stars": 41,
+  "language": "TypeScript",
+  "description": "Salesforce DX Schemas",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1299,6 +1805,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/apex-tmLanguage",
+  "url": "https://github.com/forcedotcom/apex-tmLanguage",
+  "sec_path": "SECURITY.md",
+  "stars": 40,
+  "language": "TypeScript",
+  "description": "Salesforce Apex Language syntax grammar used for colorization",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/creativity_eval",
   "url": "https://github.com/salesforce/creativity_eval",
@@ -1307,6 +1824,17 @@
   "language": "Jupyter Notebook",
   "description": "",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-actions",
+  "url": "https://github.com/forcedotcom/salesforcedx-actions",
+  "sec_path": "SECURITY.md",
+  "stars": 39,
+  "language": "Shell",
+  "description": "(Unofficial) GitHub Actions for SalesforceDX using the Salesforce CLI",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1340,6 +1868,39 @@
   "language": "Java",
   "description": "ImageOptimization is a JAVA batch program / service used to optimize images by reducing the size (less bytes) of images without changing the quality of the imag…",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/commerce-extensibility",
+  "url": "https://github.com/forcedotcom/commerce-extensibility",
+  "sec_path": "SECURITY.md",
+  "stars": 36,
+  "language": "Apex",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/code-builder-feedback",
+  "url": "https://github.com/forcedotcom/code-builder-feedback",
+  "sec_path": "SECURITY.md",
+  "stars": 36,
+  "language": null,
+  "description": "This repository is used to collect feedback for the Code Builder beta.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lightning-language-server",
+  "url": "https://github.com/forcedotcom/lightning-language-server",
+  "sec_path": "SECURITY.md",
+  "stars": 35,
+  "language": "JavaScript",
+  "description": "LWC and Aura Language Servers - shipped as part of the Salesforce VSCode Extensions",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1398,6 +1959,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-vscode-slds",
+  "url": "https://github.com/forcedotcom/salesforcedx-vscode-slds",
+  "sec_path": "SECURITY.md",
+  "stars": 33,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/ensemble-of-averages",
   "url": "https://github.com/salesforce/ensemble-of-averages",
@@ -1406,6 +1978,17 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/source-tracking",
+  "url": "https://github.com/forcedotcom/source-tracking",
+  "sec_path": "SECURITY.md",
+  "stars": 31,
+  "language": "TypeScript",
+  "description": "JavaScript library for tracking local and remote Salesforce metadata changes.",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1420,6 +2003,28 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lwc-builder",
+  "url": "https://github.com/forcedotcom/lwc-builder",
+  "sec_path": "SECURITY.md",
+  "stars": 30,
+  "language": "TypeScript",
+  "description": "VSCode Extension to kickstart Lightning Web Component development.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdx-dev-packages",
+  "url": "https://github.com/forcedotcom/sfdx-dev-packages",
+  "sec_path": "SECURITY.md",
+  "stars": 30,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/terraform-provider-policyguru",
   "url": "https://github.com/salesforce/terraform-provider-policyguru",
@@ -1428,6 +2033,17 @@
   "language": "Go",
   "description": "Terraform provider for Policy Sentry (IAM least privilege generator and auditor)",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/eslint-plugin-aura",
+  "url": "https://github.com/forcedotcom/eslint-plugin-aura",
+  "sec_path": "SECURITY.md",
+  "stars": 29,
+  "language": "JavaScript",
+  "description": "Salesforce Lightning (Aura) specific linting rules for ESLint",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1442,6 +2058,28 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-apex",
+  "url": "https://github.com/forcedotcom/salesforcedx-apex",
+  "sec_path": "SECURITY.md",
+  "stars": 28,
+  "language": "TypeScript",
+  "description": "Salesforce Apex Node Library",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/git2gus",
+  "url": "https://github.com/forcedotcom/git2gus",
+  "sec_path": "SECURITY.md",
+  "stars": 28,
+  "language": "JavaScript",
+  "description": "A Github application to keep issues in sync with Agile Accelerator",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/kubelet-summary-exporter",
   "url": "https://github.com/salesforce/kubelet-summary-exporter",
@@ -1450,6 +2088,17 @@
   "language": "Go",
   "description": "daemonset based prometheus exporter for ephemeral volume data",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/devops-center-roadmap",
+  "url": "https://github.com/forcedotcom/devops-center-roadmap",
+  "sec_path": "SECURITY.md",
+  "stars": 27,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1472,6 +2121,28 @@
   "language": "Java",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lwc-dev-mobile",
+  "url": "https://github.com/forcedotcom/lwc-dev-mobile",
+  "sec_path": "SECURITY.md",
+  "stars": 26,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lwc-builder-ui",
+  "url": "https://github.com/forcedotcom/lwc-builder-ui",
+  "sec_path": "SECURITY.md",
+  "stars": 26,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1505,6 +2176,28 @@
   "language": "Java",
   "description": "A local (read-only) proxy for Bazel to access Maven resources behind a secure repository or from the local Maven repository",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/ServiceSDK-iOS",
+  "url": "https://github.com/forcedotcom/ServiceSDK-iOS",
+  "sec_path": "SECURITY.md",
+  "stars": 24,
+  "language": null,
+  "description": "Salesforce Embedded Service SDK for iOS",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/soql-tooling",
+  "url": "https://github.com/forcedotcom/soql-tooling",
+  "sec_path": "SECURITY.md",
+  "stars": 24,
+  "language": "TypeScript",
+  "description": "SOQL Language Tooling features including the Language Server and Query Builder UI.",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1552,6 +2245,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-Package",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Package",
+  "sec_path": "SECURITY.md",
+  "stars": 22,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/prompt-leakage",
   "url": "https://github.com/salesforce/prompt-leakage",
@@ -1560,6 +2264,17 @@
   "language": "Python",
   "description": "Code and datasets for the salesforce AI research paper on prompt leakage and multi-turn threats against LLMs ",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/codey-midnight",
+  "url": "https://github.com/forcedotcom/codey-midnight",
+  "sec_path": "SECURITY.md",
+  "stars": 21,
+  "language": null,
+  "description": "Dark theme for VS Code configured for accessibility and Salesforce development",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1640,6 +2355,28 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/d360-mcp-server",
+  "url": "https://github.com/forcedotcom/d360-mcp-server",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lightning-inspector",
+  "url": "https://github.com/forcedotcom/lightning-inspector",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "JavaScript",
+  "description": "Salesforce Lightning Inspector",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/orchard",
   "url": "https://github.com/salesforce/orchard",
@@ -1673,6 +2410,39 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/datacloud-jdbc",
+  "url": "https://github.com/forcedotcom/datacloud-jdbc",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/ServiceSDK-Android",
+  "url": "https://github.com/forcedotcom/ServiceSDK-Android",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": null,
+  "description": "Salesforce Embedded Service SDK for Android",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/nlp-gauntlet",
+  "url": "https://github.com/forcedotcom/nlp-gauntlet",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "Apex",
+  "description": "NLU / NLP integration library for Salesforce Apex",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/lightning-burp",
   "url": "https://github.com/salesforce/lightning-burp",
@@ -1692,6 +2462,28 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdx-circleci-package",
+  "url": "https://github.com/forcedotcom/sfdx-circleci-package",
+  "sec_path": "SECURITY.md",
+  "stars": 17,
+  "language": "Apex",
+  "description": "Circle CI examples with package development",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/einstein-bot-sdk-java",
+  "url": "https://github.com/forcedotcom/einstein-bot-sdk-java",
+  "sec_path": "SECURITY.md",
+  "stars": 17,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1725,6 +2517,39 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/packaging",
+  "url": "https://github.com/forcedotcom/packaging",
+  "sec_path": "SECURITY.md",
+  "stars": 16,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/Core-Payments-Reference-Gateway-Integration-Adapters",
+  "url": "https://github.com/forcedotcom/Core-Payments-Reference-Gateway-Integration-Adapters",
+  "sec_path": "SECURITY.md",
+  "stars": 16,
+  "language": "Apex",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/package-manager",
+  "url": "https://github.com/forcedotcom/package-manager",
+  "sec_path": "SECURITY.md",
+  "stars": 16,
+  "language": "CSS",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1794,6 +2619,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/agents",
+  "url": "https://github.com/forcedotcom/agents",
+  "sec_path": "SECURITY.md",
+  "stars": 15,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/help-agent-accelerator",
   "url": "https://github.com/salesforce/help-agent-accelerator",
@@ -1813,6 +2649,28 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/soql-language-server",
+  "url": "https://github.com/forcedotcom/soql-language-server",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/analyticsdx-vscode",
+  "url": "https://github.com/forcedotcom/analyticsdx-vscode",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "TypeScript",
+  "description": "Salesforce Analytics Extensions for Visual Studio Code",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1860,6 +2718,39 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/einstein-bot-channel-connector",
+  "url": "https://github.com/forcedotcom/einstein-bot-channel-connector",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdx-plugin-prettier",
+  "url": "https://github.com/forcedotcom/sfdx-plugin-prettier",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "TypeScript",
+  "description": "A sample Salesforce CLI Plugin that adds a hook that uses prettier to format code pulled or retrieved from an org.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/b2b-commerce-for-visualforce",
+  "url": "https://github.com/forcedotcom/b2b-commerce-for-visualforce",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/bazel-jdt-java-toolchain",
   "url": "https://github.com/salesforce/bazel-jdt-java-toolchain",
@@ -1890,6 +2781,50 @@
   "language": "JavaScript",
   "description": "",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdx-code-analyzer-vscode",
+  "url": "https://github.com/forcedotcom/sfdx-code-analyzer-vscode",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "TypeScript",
+  "description": "Salesforce Code Analyzer is a unified tool for source code analysis. Run Code Analyzer to scan multiple languages in your code and add diagnostic info to your c…",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforce-cdp-connector",
+  "url": "https://github.com/forcedotcom/salesforce-cdp-connector",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/quiz-player-app",
+  "url": "https://github.com/forcedotcom/quiz-player-app",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "JavaScript",
+  "description": "Multiplayer quiz app built on Salesforce technology (player app)",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/experience-cloud-microsite-samples",
+  "url": "https://github.com/forcedotcom/experience-cloud-microsite-samples",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -1934,6 +2869,28 @@
   "language": "JavaScript",
   "description": "",
   "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/apex-language-support",
+  "url": "https://github.com/forcedotcom/apex-language-support",
+  "sec_path": "SECURITY.md",
+  "stars": 11,
+  "language": "TypeScript",
+  "description": "experimental, do not use",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/canvas-quickstart-java",
+  "url": "https://github.com/forcedotcom/canvas-quickstart-java",
+  "sec_path": "SECURITY.md",
+  "stars": 11,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -2036,6 +2993,39 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/ts-types",
+  "url": "https://github.com/forcedotcom/ts-types",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/einstein-bot-openapi-codegen-maven-plugin",
+  "url": "https://github.com/forcedotcom/einstein-bot-openapi-codegen-maven-plugin",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "Mustache",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/CRMA-dataset-creator",
+  "url": "https://github.com/forcedotcom/CRMA-dataset-creator",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "Java",
+  "description": "DatasetCreator is a lightweight RESTFul client implementation of the  Salesforce CRM Analytics External Data API.  It has been deliberately developed with no 3r…",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/secure-pomerium-tunneler",
   "url": "https://github.com/salesforce/secure-pomerium-tunneler",
@@ -2077,6 +3067,72 @@
   "language": "Java",
   "description": "POC of a Java-only language server for Bazel",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-iOS-Hybrid",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS-Hybrid",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Objective-C",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/afdx-pro-code-testdrive",
+  "url": "https://github.com/forcedotcom/afdx-pro-code-testdrive",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "JavaScript",
+  "description": "Agentforce DX Pro-Code testdrive featuring a minimal agentic app for Coral Cloud Resort.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/stargate",
+  "url": "https://github.com/forcedotcom/stargate",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Scala",
+  "description": "Play Scala Module for Integrating with Salesforce Marketing Cloud Single Sign On",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/NextGeneration-DevOpsCenter",
+  "url": "https://github.com/forcedotcom/NextGeneration-DevOpsCenter",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sf-fx-runtime-nodejs",
+  "url": "https://github.com/forcedotcom/sf-fx-runtime-nodejs",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "TypeScript",
+  "description": "[DEPRECATED] Salesforce Function Runtime for Node.js",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sf-fx-runtime-java",
+  "url": "https://github.com/forcedotcom/sf-fx-runtime-java",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Java",
+  "description": "[DEPRECATED] Salesforce Function Runtime for Java",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -2143,6 +3199,50 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/dev-scripts",
+  "url": "https://github.com/forcedotcom/dev-scripts",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/state-management",
+  "url": "https://github.com/forcedotcom/state-management",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": null,
+  "description": "Exampled and documentation of state management in LWC for use during the Developer Preview.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/datacloud-mcp-query",
+  "url": "https://github.com/forcedotcom/datacloud-mcp-query",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdx-1commerce-plugin",
+  "url": "https://github.com/forcedotcom/sfdx-1commerce-plugin",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -2322,6 +3422,72 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lwc-dev-mobile-core",
+  "url": "https://github.com/forcedotcom/lwc-dev-mobile-core",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "TypeScript",
+  "description": "Core Node-based functionality to be shared by Mobile Extensions tooling (SFDX plug-ins, Salesforce Extensions for VSCode, etc.).",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/comdagen",
+  "url": "https://github.com/forcedotcom/comdagen",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Kotlin",
+  "description": "COMmerce DAta GENerator will build a Commerce Cloud site import file tailored to your specification",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sfdocs-vscode",
+  "url": "https://github.com/forcedotcom/sfdocs-vscode",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "TypeScript",
+  "description": "VS Code extension for Salesforce Docs",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/vscode-remote-try-sfdx",
+  "url": "https://github.com/forcedotcom/vscode-remote-try-sfdx",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Dockerfile",
+  "description": "SalesforceDX sample project for trying out the VS Code Remote - Containers extension ",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/assessment-bot",
+  "url": "https://github.com/forcedotcom/assessment-bot",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Apex",
+  "description": "Deliver conversational assessments through Salesforce Einstein Bots",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/dialog-samples",
+  "url": "https://github.com/forcedotcom/dialog-samples",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "JavaScript",
+  "description": "Sample dialogs that can be used in Visualforce pages to replace native alert and confirm ",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/eslint-plugin-lwc-graph-analyzer",
   "url": "https://github.com/salesforce/eslint-plugin-lwc-graph-analyzer",
@@ -2388,6 +3554,83 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/mobile-mcp-tools",
+  "url": "https://github.com/forcedotcom/mobile-mcp-tools",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "TypeScript",
+  "description": "A collection of MCP servers and tools for Salesforce Mobile use cases",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/AgentforceMobileService-iOS",
+  "url": "https://github.com/forcedotcom/AgentforceMobileService-iOS",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Swift",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/vscode-agents",
+  "url": "https://github.com/forcedotcom/vscode-agents",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "TypeScript",
+  "description": "VSCode extension for working with salesforce `agents`!",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/tdx25-isv-framework-agentforce-datacloud",
+  "url": "https://github.com/forcedotcom/tdx25-isv-framework-agentforce-datacloud",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Apex",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/acu-pack",
+  "url": "https://github.com/forcedotcom/acu-pack",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/bear-watch",
+  "url": "https://github.com/forcedotcom/bear-watch",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "JavaScript",
+  "description": "Heroku Node demo app for the 'Build an Instant Notification App' Trailhead project (an introduction to platform events).",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/commerce-on-lightning-orchestration",
+  "url": "https://github.com/forcedotcom/commerce-on-lightning-orchestration",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/lwsec-docs-mirror",
   "url": "https://github.com/salesforce/lwsec-docs-mirror",
@@ -2440,6 +3683,61 @@
   "language": "JavaScript",
   "description": "Refocus on call bot to reach out to Service Matter Experts (SMEs) during incidents",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/file-notifier-for-blob-store",
+  "url": "https://github.com/forcedotcom/file-notifier-for-blob-store",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Shell",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/realtime-agent-protocol",
+  "url": "https://github.com/forcedotcom/realtime-agent-protocol",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforce-metadata-visualizer-support",
+  "url": "https://github.com/forcedotcom/salesforce-metadata-visualizer-support",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/ide-rules",
+  "url": "https://github.com/forcedotcom/ide-rules",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceBillingPaymentGatewayMockAdapterReference",
+  "url": "https://github.com/forcedotcom/SalesforceBillingPaymentGatewayMockAdapterReference",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Apex",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -2652,6 +3950,50 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/code-analyzer-core",
+  "url": "https://github.com/forcedotcom/code-analyzer-core",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Java",
+  "description": "Currently an internal use only repository to be used by the Code Analyzer Team",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-iOS-SPM",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS-SPM",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Shell",
+  "description": "Swift Packages for Salesforce Mobile SDK libraries",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-slds-lsp",
+  "url": "https://github.com/forcedotcom/salesforcedx-slds-lsp",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/npm-release-management-orb",
+  "url": "https://github.com/forcedotcom/npm-release-management-orb",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/ci-result-to-slack",
   "url": "https://github.com/salesforce/ci-result-to-slack",
@@ -2825,6 +4167,193 @@
   "language": "JavaScript",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/kit",
+  "url": "https://github.com/forcedotcom/kit",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/telemetry",
+  "url": "https://github.com/forcedotcom/telemetry",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "Library for application insights",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-iOS-Specs",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS-Specs",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Ruby",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/prettier-config",
+  "url": "https://github.com/forcedotcom/prettier-config",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "Salesforce prettier configuration for all projects.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileInterfaces-iOS",
+  "url": "https://github.com/forcedotcom/SalesforceMobileInterfaces-iOS",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Swift",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/dev-config",
+  "url": "https://github.com/forcedotcom/dev-config",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/payments-on-lightning-components",
+  "url": "https://github.com/forcedotcom/payments-on-lightning-components",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileInterfaces-Android",
+  "url": "https://github.com/forcedotcom/SalesforceMobileInterfaces-Android",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Kotlin",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/tableau-dx",
+  "url": "https://github.com/forcedotcom/tableau-dx",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "VS-Code extension for Tableau Next",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/commerce-vercel",
+  "url": "https://github.com/forcedotcom/commerce-vercel",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-vscode-test-tools",
+  "url": "https://github.com/forcedotcom/salesforcedx-vscode-test-tools",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/commerce-sdo-assets",
+  "url": "https://github.com/forcedotcom/commerce-sdo-assets",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SMToRLMAssetConversionTool",
+  "url": "https://github.com/forcedotcom/SMToRLMAssetConversionTool",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Apex",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lwc-playground-redirects",
+  "url": "https://github.com/forcedotcom/lwc-playground-redirects",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "URL redirects for LWC Playground",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sf-fx-sdk-java",
+  "url": "https://github.com/forcedotcom/sf-fx-sdk-java",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "[DEPRECATED] Salesforce Function SDK for Java",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/lwc-dev-server",
+  "url": "https://github.com/forcedotcom/lwc-dev-server",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "Local Development for LWC",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/node-bunyan",
+  "url": "https://github.com/forcedotcom/node-bunyan",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "a simple and fast JSON logging module for node.js services",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -3034,6 +4563,83 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/eslint-config-salesforce-typescript",
+  "url": "https://github.com/forcedotcom/eslint-config-salesforce-typescript",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "JavaScript",
+  "description": "Salesforce eslint configuration for all typescript projects.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/datacloud-customcode-python-sdk",
+  "url": "https://github.com/forcedotcom/datacloud-customcode-python-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-vscode-service-provider",
+  "url": "https://github.com/forcedotcom/salesforcedx-vscode-service-provider",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/eslint-config-salesforce",
+  "url": "https://github.com/forcedotcom/eslint-config-salesforce",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "JavaScript",
+  "description": "Salesforce eslint configuration for all projects.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforce-commerce-intelligence-jdbc",
+  "url": "https://github.com/forcedotcom/salesforce-commerce-intelligence-jdbc",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/web-console-feedback",
+  "url": "https://github.com/forcedotcom/web-console-feedback",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": null,
+  "description": "This repository is used to collect feedback for the Web Console beta.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/sf-fx-schema",
+  "url": "https://github.com/forcedotcom/sf-fx-schema",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Java",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -3312,6 +4918,171 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-ui-script-recorder",
+  "url": "https://github.com/forcedotcom/salesforcedx-ui-script-recorder",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "JavaScript",
+  "description": "VS Code extension for recording playwright scripts on Salesforce UI and playback.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/AgentLens",
+  "url": "https://github.com/forcedotcom/AgentLens",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/b2c-dx",
+  "url": "https://github.com/forcedotcom/b2c-dx",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "B2C Commerce Visual Studio Code Extension (B2C DX)",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/ts-sinon",
+  "url": "https://github.com/forcedotcom/ts-sinon",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/mcp",
+  "url": "https://github.com/forcedotcom/mcp",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "Issues-only repo for github.com/salesforcecli/mcp",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/informatica-claude-plugins",
+  "url": "https://github.com/forcedotcom/informatica-claude-plugins",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "Open source repository of Informatica claude plugins",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/metadata-enrichment",
+  "url": "https://github.com/forcedotcom/metadata-enrichment",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/vscode-metadata-enrichment",
+  "url": "https://github.com/forcedotcom/vscode-metadata-enrichment",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/e11y-df24-dc-three-things",
+  "url": "https://github.com/forcedotcom/e11y-df24-dc-three-things",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "JavaScript",
+  "description": "POC showing how to create a Data Cloud second generation managed package",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/devops-center-extension-examples",
+  "url": "https://github.com/forcedotcom/devops-center-extension-examples",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Apex",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/tdx23-sfca-demo",
+  "url": "https://github.com/forcedotcom/tdx23-sfca-demo",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Apex",
+  "description": "Demo for #TDX23 to show how Salesforce Code Analyzer can be used in a CI/CD setup.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/codey-high-noon",
+  "url": "https://github.com/forcedotcom/codey-high-noon",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "Light theme for VS Code configured for accessibility and Salesforce development",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/Injectable-Swift",
+  "url": "https://github.com/forcedotcom/Injectable-Swift",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Swift",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/SalesforceMobileSDK-Benchmarks",
+  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Benchmarks",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "A collection of sample apps for benchmarking different features in the Mobile SDK.",
+  "first_seen": "2026-11-01 20:20:22"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/.github",
+  "url": "https://github.com/forcedotcom/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 20:20:22"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/zana-marketplace",
   "url": "https://github.com/salesforce/zana-marketplace",
@@ -3544,177 +5315,12 @@
  {
   "vendor": "Salesforce",
   "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-apex",
-  "url": "https://github.com/forcedotcom/salesforcedx-apex",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Apex Node Library",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-ui-script-recorder",
-  "url": "https://github.com/forcedotcom/salesforcedx-ui-script-recorder",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "VS Code extension for recording playwright scripts on Salesforce UI and playback.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-templates",
-  "url": "https://github.com/forcedotcom/salesforcedx-templates",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Templates Node Library",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/source-tracking",
-  "url": "https://github.com/forcedotcom/source-tracking",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "JavaScript library for tracking local and remote Salesforce metadata changes.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/agents",
-  "url": "https://github.com/forcedotcom/agents",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/apex-language-support",
-  "url": "https://github.com/forcedotcom/apex-language-support",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "experimental, do not use",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-vscode",
-  "url": "https://github.com/forcedotcom/salesforcedx-vscode",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Extensions for VS Code",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/kit",
-  "url": "https://github.com/forcedotcom/kit",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/telemetry",
-  "url": "https://github.com/forcedotcom/telemetry",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Library for application insights",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/mobile-mcp-tools",
-  "url": "https://github.com/forcedotcom/mobile-mcp-tools",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A collection of MCP servers and tools for Salesforce Mobile use cases",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lwc-dev-mobile-core",
-  "url": "https://github.com/forcedotcom/lwc-dev-mobile-core",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Core Node-based functionality to be shared by Mobile Extensions tooling (SFDX plug-ins, Salesforce Extensions for VSCode, etc.).",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
   "full_name": "forcedotcom/change-case-management",
   "url": "https://github.com/forcedotcom/change-case-management",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "TypeScript",
   "description": "scripts to automate change case management in Salesforce",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/eslint-config-salesforce-typescript",
-  "url": "https://github.com/forcedotcom/eslint-config-salesforce-typescript",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce eslint configuration for all typescript projects.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/source-deploy-retrieve",
-  "url": "https://github.com/forcedotcom/source-deploy-retrieve",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "JavaScript toolkit for working with Salesforce metadata.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sf-skills",
-  "url": "https://github.com/forcedotcom/sf-skills",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdx-core",
-  "url": "https://github.com/forcedotcom/sfdx-core",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
  {
@@ -3731,418 +5337,11 @@
  {
   "vendor": "Salesforce",
   "org": "forcedotcom",
-  "full_name": "forcedotcom/datacloud-customcode-python-sdk",
-  "url": "https://github.com/forcedotcom/datacloud-customcode-python-sdk",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-iOS-Specs",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS-Specs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/AgentforceMobileService-iOS",
-  "url": "https://github.com/forcedotcom/AgentforceMobileService-iOS",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/AgentLens",
-  "url": "https://github.com/forcedotcom/AgentLens",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/dev-scripts",
-  "url": "https://github.com/forcedotcom/dev-scripts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/packaging",
-  "url": "https://github.com/forcedotcom/packaging",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lwc-dev-mobile",
-  "url": "https://github.com/forcedotcom/lwc-dev-mobile",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/b2c-dx",
-  "url": "https://github.com/forcedotcom/b2c-dx",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "B2C Commerce Visual Studio Code Extension (B2C DX)",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/datacloud-jdbc",
-  "url": "https://github.com/forcedotcom/datacloud-jdbc",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/cli",
-  "url": "https://github.com/forcedotcom/cli",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce CLI - Issues and Discussions only",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/code-analyzer",
-  "url": "https://github.com/forcedotcom/code-analyzer",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/code-analyzer-core",
-  "url": "https://github.com/forcedotcom/code-analyzer-core",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Currently an internal use only repository to be used by the Code Analyzer Team",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdx-code-analyzer-vscode",
-  "url": "https://github.com/forcedotcom/sfdx-code-analyzer-vscode",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Code Analyzer is a unified tool for source code analysis. Run Code Analyzer to scan multiple languages in your code and add diagnostic info to your c…",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/Einstein-GPT-for-Developers",
-  "url": "https://github.com/forcedotcom/Einstein-GPT-for-Developers",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Einstein GPT For Developers",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-Package",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Package",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-Templates",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Templates",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-ReactNative",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-ReactNative",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-CordovaPlugin",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Cordova plugin for the Salesforce Mobile SDK",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-iOS-SPM",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS-SPM",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Swift Packages for Salesforce Mobile SDK libraries",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-iOS-Hybrid",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS-Hybrid",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-iOS",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "iOS SDK for Salesforce",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-Android",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Android",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Android SDK for Salesforce",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-Shared",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Shared",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
   "full_name": "forcedotcom/sf-pack",
   "url": "https://github.com/forcedotcom/sf-pack",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforce-cdp-connector",
-  "url": "https://github.com/forcedotcom/salesforce-cdp-connector",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-vscode-service-provider",
-  "url": "https://github.com/forcedotcom/salesforcedx-vscode-service-provider",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/ts-sinon",
-  "url": "https://github.com/forcedotcom/ts-sinon",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/ts-types",
-  "url": "https://github.com/forcedotcom/ts-types",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/eslint-config-salesforce",
-  "url": "https://github.com/forcedotcom/eslint-config-salesforce",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce eslint configuration for all projects.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/LWC-Mobile-Samples",
-  "url": "https://github.com/forcedotcom/LWC-Mobile-Samples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Mobile sample applications and code for LWC development",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforce-commerce-intelligence-jdbc",
-  "url": "https://github.com/forcedotcom/salesforce-commerce-intelligence-jdbc",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/file-notifier-for-blob-store",
-  "url": "https://github.com/forcedotcom/file-notifier-for-blob-store",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/prettier-config",
-  "url": "https://github.com/forcedotcom/prettier-config",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce prettier configuration for all projects.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileInterfaces-iOS",
-  "url": "https://github.com/forcedotcom/SalesforceMobileInterfaces-iOS",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/apex-tmLanguage",
-  "url": "https://github.com/forcedotcom/apex-tmLanguage",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Apex Language syntax grammar used for colorization",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/mcp",
-  "url": "https://github.com/forcedotcom/mcp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Issues-only repo for github.com/salesforcecli/mcp",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/realtime-agent-protocol",
-  "url": "https://github.com/forcedotcom/realtime-agent-protocol",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/dev-config",
-  "url": "https://github.com/forcedotcom/dev-config",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "language": "TypeScript",
   "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
@@ -4153,19 +5352,8 @@
   "url": "https://github.com/forcedotcom/eslint-config-salesforce-license",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "JavaScript",
   "description": "Salesforce eslint configuration for adding license headers to all source files.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/comdagen",
-  "url": "https://github.com/forcedotcom/comdagen",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "COMmerce DAta GENerator will build a Commerce Cloud site import file tailored to your specification",
   "first_seen": "2026-11-01 20:19:51"
  },
  {
@@ -4175,52 +5363,8 @@
   "url": "https://github.com/forcedotcom/SalesforceMobileSDK-UITests",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Kotlin",
   "description": "UI tests for the Mobile SDK",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/force-dot-com-esapi",
-  "url": "https://github.com/forcedotcom/force-dot-com-esapi",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Enterprise Security API for the Apex language on the Force.com platform.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/b2b-commerce-on-lightning-quickstart",
-  "url": "https://github.com/forcedotcom/b2b-commerce-on-lightning-quickstart",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/informatica-claude-plugins",
-  "url": "https://github.com/forcedotcom/informatica-claude-plugins",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Open source repository of Informatica claude plugins",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/vscode-agents",
-  "url": "https://github.com/forcedotcom/vscode-agents",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "VSCode extension for working with salesforce `agents`!",
   "first_seen": "2026-11-01 20:19:51"
  },
  {
@@ -4230,51 +5374,7 @@
   "url": "https://github.com/forcedotcom/lwc-agentscript-viewer",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/tdx25-isv-framework-agentforce-datacloud",
-  "url": "https://github.com/forcedotcom/tdx25-isv-framework-agentforce-datacloud",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/afdx-pro-code-testdrive",
-  "url": "https://github.com/forcedotcom/afdx-pro-code-testdrive",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Agentforce DX Pro-Code testdrive featuring a minimal agentic app for Coral Cloud Resort.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/web-console-feedback",
-  "url": "https://github.com/forcedotcom/web-console-feedback",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "This repository is used to collect feedback for the Web Console beta.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/metadata-enrichment",
-  "url": "https://github.com/forcedotcom/metadata-enrichment",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "language": "JavaScript",
   "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
@@ -4285,338 +5385,8 @@
   "url": "https://github.com/forcedotcom/library-template",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "JavaScript",
   "description": "Template npm library for Salesforce CLI and VSCode Extensions",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/commerce-on-lightning",
-  "url": "https://github.com/forcedotcom/commerce-on-lightning",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "An SFDX Plugin to setup a B2C or B2B Store",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/commerce-extensibility",
-  "url": "https://github.com/forcedotcom/commerce-extensibility",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/dataloader",
-  "url": "https://github.com/forcedotcom/dataloader",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Data Loader",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/run-code-analyzer",
-  "url": "https://github.com/forcedotcom/run-code-analyzer",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "GitHub Action to run Salesforce Code Analyzer",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/devops-center-feedback",
-  "url": "https://github.com/forcedotcom/devops-center-feedback",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdocs-vscode",
-  "url": "https://github.com/forcedotcom/sfdocs-vscode",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "VS Code extension for Salesforce Docs",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/b2b-commerce-open-source-components",
-  "url": "https://github.com/forcedotcom/b2b-commerce-open-source-components",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/code-builder-feedback",
-  "url": "https://github.com/forcedotcom/code-builder-feedback",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "This repository is used to collect feedback for the Code Builder beta.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/wsc",
-  "url": "https://github.com/forcedotcom/wsc",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/vscode-metadata-enrichment",
-  "url": "https://github.com/forcedotcom/vscode-metadata-enrichment",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/Salesforce-CDP-jdbc",
-  "url": "https://github.com/forcedotcom/Salesforce-CDP-jdbc",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "JDBC driver to connect to Salesforce CDP.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/state-management",
-  "url": "https://github.com/forcedotcom/state-management",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Exampled and documentation of state management in LWC for use during the Developer Preview.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/e11y-df24-dc-three-things",
-  "url": "https://github.com/forcedotcom/e11y-df24-dc-three-things",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "POC showing how to create a Data Cloud second generation managed package",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-vscode-slds",
-  "url": "https://github.com/forcedotcom/salesforcedx-vscode-slds",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/payments-on-lightning-components",
-  "url": "https://github.com/forcedotcom/payments-on-lightning-components",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileInterfaces-Android",
-  "url": "https://github.com/forcedotcom/SalesforceMobileInterfaces-Android",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/mcp-hosted",
-  "url": "https://github.com/forcedotcom/mcp-hosted",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Hosted MCP Servers",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforce-metadata-visualizer-support",
-  "url": "https://github.com/forcedotcom/salesforce-metadata-visualizer-support",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/tableau-dx",
-  "url": "https://github.com/forcedotcom/tableau-dx",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "VS-Code extension for Tableau Next",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SFDX-Data-Move-Utility-Desktop-App",
-  "url": "https://github.com/forcedotcom/SFDX-Data-Move-Utility-Desktop-App",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The SFDMU GUI Desktop Application is a comprehensive tool for Salesforce data migration between SF environments or importing/exporting CSV data into SF environm…",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SFDX-Data-Move-Utility",
-  "url": "https://github.com/forcedotcom/SFDX-Data-Move-Utility",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple rela…",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/d360-mcp-server",
-  "url": "https://github.com/forcedotcom/d360-mcp-server",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/stargate",
-  "url": "https://github.com/forcedotcom/stargate",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Play Scala Module for Integrating with Salesforce Marketing Cloud Single Sign On",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lwc-builder",
-  "url": "https://github.com/forcedotcom/lwc-builder",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "VSCode Extension to kickstart Lightning Web Component development.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/ide-rules",
-  "url": "https://github.com/forcedotcom/ide-rules",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdx-circleci-package",
-  "url": "https://github.com/forcedotcom/sfdx-circleci-package",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Circle CI examples with package development",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/einstein-bot-sdk-java",
-  "url": "https://github.com/forcedotcom/einstein-bot-sdk-java",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/commerce-vercel",
-  "url": "https://github.com/forcedotcom/commerce-vercel",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/commerce-on-lightning-components",
-  "url": "https://github.com/forcedotcom/commerce-on-lightning-components",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Commerce on Lightning out-of-the-box component source code for reference and educational purposes",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/NextGeneration-DevOpsCenter",
-  "url": "https://github.com/forcedotcom/NextGeneration-DevOpsCenter",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
  {
@@ -4626,96 +5396,8 @@
   "url": "https://github.com/forcedotcom/bundle-publish-scripts",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "JavaScript",
   "description": "store the scripts to do modifications before publishing the bundled module ",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/dx-empty",
-  "url": "https://github.com/forcedotcom/dx-empty",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Template repository representing the empty file system structure for a new Salesforce DX project.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/go-soql",
-  "url": "https://github.com/forcedotcom/go-soql",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Golang tag library to generate SOQL queries",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-slds-lsp",
-  "url": "https://github.com/forcedotcom/salesforcedx-slds-lsp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforcePy",
-  "url": "https://github.com/forcedotcom/SalesforcePy",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "An absurdly simple package for making Salesforce Rest API calls.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/ServiceSDK-Android",
-  "url": "https://github.com/forcedotcom/ServiceSDK-Android",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Embedded Service SDK for Android",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/ServiceSDK-iOS",
-  "url": "https://github.com/forcedotcom/ServiceSDK-iOS",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Embedded Service SDK for iOS",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/devops-center-extension-examples",
-  "url": "https://github.com/forcedotcom/devops-center-extension-examples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-vscode-test-tools",
-  "url": "https://github.com/forcedotcom/salesforcedx-vscode-test-tools",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
  {
@@ -4725,30 +5407,8 @@
   "url": "https://github.com/forcedotcom/salesforcedx-vscode-capture-startup-performance",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "TypeScript",
   "description": "An extension that contains a command to capture startup performance data and send it to Azure AppInsights.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/commerce-sdo-assets",
-  "url": "https://github.com/forcedotcom/commerce-sdo-assets",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SMToRLMAssetConversionTool",
-  "url": "https://github.com/forcedotcom/SMToRLMAssetConversionTool",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
  {
@@ -4758,7 +5418,7 @@
   "url": "https://github.com/forcedotcom/commerce-heroku-sample-response",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "JavaScript",
   "description": "Sample Heroku app with mock responses",
   "first_seen": "2026-11-01 20:19:51"
  },
@@ -4769,106 +5429,7 @@
   "url": "https://github.com/forcedotcom/ManagedAssetValidationReferenceTool",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/tdx23-sfca-demo",
-  "url": "https://github.com/forcedotcom/tdx23-sfca-demo",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Demo for #TDX23 to show how Salesforce Code Analyzer can be used in a CI/CD setup.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/acu-pack",
-  "url": "https://github.com/forcedotcom/acu-pack",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/einstein-bot-openapi-codegen-maven-plugin",
-  "url": "https://github.com/forcedotcom/einstein-bot-openapi-codegen-maven-plugin",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/einstein-bot-channel-connector",
-  "url": "https://github.com/forcedotcom/einstein-bot-channel-connector",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/devops-center-roadmap",
-  "url": "https://github.com/forcedotcom/devops-center-roadmap",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sf-fx-schema",
-  "url": "https://github.com/forcedotcom/sf-fx-schema",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lwc-builder-ui",
-  "url": "https://github.com/forcedotcom/lwc-builder-ui",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/soql-language-server",
-  "url": "https://github.com/forcedotcom/soql-language-server",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/Core-Payments-Reference-Gateway-Integration-Adapters",
-  "url": "https://github.com/forcedotcom/Core-Payments-Reference-Gateway-Integration-Adapters",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "language": "Apex",
   "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
@@ -4882,566 +5443,5 @@
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/package-manager",
-  "url": "https://github.com/forcedotcom/package-manager",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/analyticsdx-vscode",
-  "url": "https://github.com/forcedotcom/analyticsdx-vscode",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Analytics Extensions for Visual Studio Code",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/quiz-host-app",
-  "url": "https://github.com/forcedotcom/quiz-host-app",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Multiplayer quiz app built on Salesforce technology (host app)",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/quiz-player-app",
-  "url": "https://github.com/forcedotcom/quiz-player-app",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Multiplayer quiz app built on Salesforce technology (player app)",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/vscode-remote-try-sfdx",
-  "url": "https://github.com/forcedotcom/vscode-remote-try-sfdx",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "SalesforceDX sample project for trying out the VS Code Remote - Containers extension ",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/codey-high-noon",
-  "url": "https://github.com/forcedotcom/codey-high-noon",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Light theme for VS Code configured for accessibility and Salesforce development",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/git2gus",
-  "url": "https://github.com/forcedotcom/git2gus",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A Github application to keep issues in sync with Agile Accelerator",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/codey-midnight",
-  "url": "https://github.com/forcedotcom/codey-midnight",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Dark theme for VS Code configured for accessibility and Salesforce development",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/eslint-plugin-aura",
-  "url": "https://github.com/forcedotcom/eslint-plugin-aura",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Lightning (Aura) specific linting rules for ESLint",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/canvas-quickstart-java",
-  "url": "https://github.com/forcedotcom/canvas-quickstart-java",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/Analytics-Cloud-Dataset-Utils",
-  "url": "https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Friendly utility to load your on-prem data, whether large or small,  to Einstein Analytics Datasets, with useful features such as autoloading, dataflow control …",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/ConnectApiHelper",
-  "url": "https://github.com/forcedotcom/ConnectApiHelper",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Helper class that makes it easier to post Chatter @-mentions, rich text, and inline images with Apex code.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceCanvasJavascriptSDK",
-  "url": "https://github.com/forcedotcom/SalesforceCanvasJavascriptSDK",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A JavaScript SDK used to integrate applications with the Force.com Canvas framework",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceCanvasFrameworkSDK",
-  "url": "https://github.com/forcedotcom/SalesforceCanvasFrameworkSDK",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/datacloud-mcp-query",
-  "url": "https://github.com/forcedotcom/datacloud-mcp-query",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lightning-language-server",
-  "url": "https://github.com/forcedotcom/lightning-language-server",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "LWC and Aura Language Servers - shipped as part of the Salesforce VSCode Extensions",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/soql-tooling",
-  "url": "https://github.com/forcedotcom/soql-tooling",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "SOQL Language Tooling features including the Language Server and Query Builder UI.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/schemas",
-  "url": "https://github.com/forcedotcom/schemas",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce DX Schemas",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/pub-sub-api",
-  "url": "https://github.com/forcedotcom/pub-sub-api",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Sample project to get started with the Pub/Sub API",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/experience-cloud-microsite-samples",
-  "url": "https://github.com/forcedotcom/experience-cloud-microsite-samples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceBillingPaymentGatewayMockAdapterReference",
-  "url": "https://github.com/forcedotcom/SalesforceBillingPaymentGatewayMockAdapterReference",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-actions",
-  "url": "https://github.com/forcedotcom/salesforcedx-actions",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "(Unofficial) GitHub Actions for SalesforceDX using the Salesforce CLI",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/nlp-gauntlet",
-  "url": "https://github.com/forcedotcom/nlp-gauntlet",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "NLU / NLP integration library for Salesforce Apex",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lwc-playground-redirects",
-  "url": "https://github.com/forcedotcom/lwc-playground-redirects",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "URL redirects for LWC Playground",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/assessment-bot",
-  "url": "https://github.com/forcedotcom/assessment-bot",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Deliver conversational assessments through Salesforce Einstein Bots",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/Injectable-Swift",
-  "url": "https://github.com/forcedotcom/Injectable-Swift",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/CRMA-dataset-creator",
-  "url": "https://github.com/forcedotcom/CRMA-dataset-creator",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "DatasetCreator is a lightweight RESTFul client implementation of the  Salesforce CRM Analytics External Data API.  It has been deliberately developed with no 3r…",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/AuraEnabledScanner",
-  "url": "https://github.com/forcedotcom/AuraEnabledScanner",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sf-fx-sdk-java",
-  "url": "https://github.com/forcedotcom/sf-fx-sdk-java",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "[DEPRECATED] Salesforce Function SDK for Java",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sf-fx-runtime-nodejs",
-  "url": "https://github.com/forcedotcom/sf-fx-runtime-nodejs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "[DEPRECATED] Salesforce Function Runtime for Node.js",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sf-fx-runtime-java",
-  "url": "https://github.com/forcedotcom/sf-fx-runtime-java",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "[DEPRECATED] Salesforce Function Runtime for Java",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/npm-release-management-orb",
-  "url": "https://github.com/forcedotcom/npm-release-management-orb",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdx-analytics",
-  "url": "https://github.com/forcedotcom/sfdx-analytics",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Einstein Analytics sample application templates",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/bear-watch",
-  "url": "https://github.com/forcedotcom/bear-watch",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Heroku Node demo app for the 'Build an Instant Notification App' Trailhead project (an introduction to platform events).",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lwc-dev-server-feedback",
-  "url": "https://github.com/forcedotcom/lwc-dev-server-feedback",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "LWC Local Development",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lwc-dev-server",
-  "url": "https://github.com/forcedotcom/lwc-dev-server",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Local Development for LWC",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/lightning-inspector",
-  "url": "https://github.com/forcedotcom/lightning-inspector",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Salesforce Lightning Inspector",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdx-plugin-prettier",
-  "url": "https://github.com/forcedotcom/sfdx-plugin-prettier",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A sample Salesforce CLI Plugin that adds a hook that uses prettier to format code pulled or retrieved from an org.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/node-bunyan",
-  "url": "https://github.com/forcedotcom/node-bunyan",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "a simple and fast JSON logging module for node.js services",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/b2b-commerce-for-visualforce",
-  "url": "https://github.com/forcedotcom/b2b-commerce-for-visualforce",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/commerce-on-lightning-orchestration",
-  "url": "https://github.com/forcedotcom/commerce-on-lightning-orchestration",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdx-1commerce-plugin",
-  "url": "https://github.com/forcedotcom/sfdx-1commerce-plugin",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdx-plugin-generate",
-  "url": "https://github.com/forcedotcom/sfdx-plugin-generate",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/dialog-samples",
-  "url": "https://github.com/forcedotcom/dialog-samples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Sample dialogs that can be used in Visualforce pages to replace native alert and confirm ",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/sfdx-dev-packages",
-  "url": "https://github.com/forcedotcom/sfdx-dev-packages",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/WSDL2Apex",
-  "url": "https://github.com/forcedotcom/WSDL2Apex",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:20:22"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-docker",
-  "url": "https://github.com/forcedotcom/salesforcedx-docker",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The official Dockerfile for Salesforce DX",
-  "first_seen": "2026-11-01 20:20:22"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/cli-packages",
-  "url": "https://github.com/forcedotcom/cli-packages",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:20:22"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforce-alm",
-  "url": "https://github.com/forcedotcom/salesforce-alm",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A read-only snapshot of the salesforce-alm plugin known as the \"toolbelt\".",
-  "first_seen": "2026-11-01 20:20:22"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/SalesforceMobileSDK-Benchmarks",
-  "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Benchmarks",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A collection of sample apps for benchmarking different features in the Mobile SDK.",
-  "first_seen": "2026-11-01 20:20:22"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/.github",
-  "url": "https://github.com/forcedotcom/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 20:20:22"
  }
 ]

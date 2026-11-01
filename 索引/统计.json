@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-02 03:23:48",
+ "generated_at": "2026-11-02 03:53:36",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 9903,
-  "negative_cached": 45213
+  "sec_repos": 9907,
+  "negative_cached": 46169
  },
  "vendors": [
   {
@@ -716,7 +716,7 @@
     "pytorch",
     "Meta"
    ],
-   "sec_repos": 70
+   "sec_repos": 72
   },
   {
    "vendor": "亚马逊",
@@ -1304,7 +1304,7 @@
    "orgs": [
     "getsentry"
    ],
-   "sec_repos": 16
+   "sec_repos": 18
   },
   {
    "vendor": "Grafana",
@@ -1971,10 +1971,5 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": [
-  "NikeInc",
-  "PlayStation",
-  "SamsungSDS",
-  "bosch"
- ]
+ "orgs_failed": []
 }

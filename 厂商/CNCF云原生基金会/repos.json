@@ -25,6 +25,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "etcd-io",
+  "full_name": "etcd-io/etcd",
+  "url": "https://github.com/etcd-io/etcd",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 52437,
+  "language": "Go",
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "first_seen": "2026-11-01 19:49:09"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "istio",
   "full_name": "istio/istio",
   "url": "https://github.com/istio/istio",
@@ -994,6 +1005,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "etcd-io",
+  "full_name": "etcd-io/etcd-operator",
+  "url": "https://github.com/etcd-io/etcd-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 169,
+  "language": "Go",
+  "description": "The official Kubernetes operator for etcd.",
+  "first_seen": "2026-11-01 19:49:09"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "prometheus",
   "full_name": "prometheus/test-infra",
   "url": "https://github.com/prometheus/test-infra",
@@ -1039,6 +1061,17 @@
   "description": "Demo site auto-deployed with Ansible.",
   "license": null,
   "first_seen": "2026-11-01 23:27:06"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "etcd-io",
+  "full_name": "etcd-io/auger",
+  "url": "https://github.com/etcd-io/auger",
+  "sec_path": "SECURITY.md",
+  "stars": 125,
+  "language": "Go",
+  "description": "Directly access data objects stored in etcd by Kubernetes.",
+  "first_seen": "2026-11-01 19:49:09"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1559,39 +1592,6 @@
   "language": "C++",
   "description": "Windows build of Envoy",
   "first_seen": "2026-11-01 19:47:48"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "etcd-io",
-  "full_name": "etcd-io/etcd-operator",
-  "url": "https://github.com/etcd-io/etcd-operator",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The official Kubernetes operator for etcd.",
-  "first_seen": "2026-11-01 19:49:09"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "etcd-io",
-  "full_name": "etcd-io/etcd",
-  "url": "https://github.com/etcd-io/etcd",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-  "first_seen": "2026-11-01 19:49:09"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "etcd-io",
-  "full_name": "etcd-io/auger",
-  "url": "https://github.com/etcd-io/auger",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Directly access data objects stored in etcd by Kubernetes.",
-  "first_seen": "2026-11-01 19:49:09"
  },
  {
   "vendor": "CNCF云原生基金会",
