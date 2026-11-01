@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "vendor": "Zoom",
+  "org": "zoom",
+  "full_name": "zoom/vercel-chat",
+  "url": "https://github.com/zoom/vercel-chat",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 1,
+  "language": "TypeScript",
+  "description": "A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.",
+  "license": null,
+  "first_seen": "2026-11-02 01:20:31"
+ },
+ {
+  "vendor": "Zoom",
+  "org": "zoom",
+  "full_name": "zoom/karpenter",
+  "url": "https://github.com/zoom/karpenter",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+  "license": null,
+  "first_seen": "2026-11-02 01:20:31"
+ }
+]
