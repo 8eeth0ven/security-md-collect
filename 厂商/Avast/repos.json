@@ -1,0 +1,112 @@
+[
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/yaramod",
+  "url": "https://github.com/avast/yaramod",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Parsing of YARA rules into AST and building new rulesets in C++.",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/retdec",
+  "url": "https://github.com/avast/retdec",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "RetDec is a retargetable machine-code decompiler based on LLVM.",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/yls",
+  "url": "https://github.com/avast/yls",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "YARA Language Server",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/yari",
+  "url": "https://github.com/avast/yari",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "YARI is an interactive debugger for YARA Language.",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/genrex",
+  "url": "https://github.com/avast/genrex",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Generator of regular expressions",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/retdec-idaplugin",
+  "url": "https://github.com/avast/retdec-idaplugin",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "RetDec plugin for IDA",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/retdec-regression-tests-framework",
+  "url": "https://github.com/avast/retdec-regression-tests-framework",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "A framework for writing and running regression tests for RetDec and related tools.",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/authenticode-parser",
+  "url": "https://github.com/avast/authenticode-parser",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Authenticode-parser is a simple C library for Authenticode format parsing using OpenSSL.",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/tlshc",
+  "url": "https://github.com/avast/tlshc",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "TLSH library in C",
+  "first_seen": "2026-11-01 18:13:57"
+ },
+ {
+  "vendor": "Avast",
+  "org": "avast",
+  "full_name": "avast/yarang",
+  "url": "https://github.com/avast/yarang",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Alternative YARA scanning engine",
+  "first_seen": "2026-11-01 18:13:57"
+ }
+]

@@ -1,0 +1,780 @@
+[
+ {
+  "vendor": "腾讯",
+  "src": "TSRC",
+  "orgs": [
+   "Tencent",
+   "tencentyun",
+   "TencentCloud",
+   "TarsCloud",
+   "Tencent-Hunyuan",
+   "wechat-miniprogram"
+  ],
+  "unverified": [
+   "TencentGames",
+   "wechat"
+  ],
+  "note": "wechat为疑似同名个人账号，微信官方开源主体为wechat-miniprogram；TencentGames仅1仓库疑似占位"
+ },
+ {
+  "vendor": "阿里巴巴",
+  "src": "ASRC",
+  "orgs": [
+   "alibaba",
+   "aliyun",
+   "AliyunContainerService"
+  ],
+  "unverified": [],
+  "note": "AlibabaCloud已404，阿里云仓库集中于aliyun"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "src": "蚂蚁SRC",
+  "orgs": [
+   "alipay",
+   "antgroup",
+   "ant-design",
+   "antvis",
+   "sofastack"
+  ],
+  "unverified": [],
+  "note": "antgroup显示名Ant Group为官方组织，ant-design/antvis/sofastack为蚂蚁体验技术与开源社区"
+ },
+ {
+  "vendor": "字节跳动",
+  "src": "字节跳动SRC",
+  "orgs": [
+   "bytedance",
+   "cloudwego",
+   "SonicCloudOrg"
+  ],
+  "unverified": [],
+  "note": "SonicCloudOrg为字节开源云真机Sonic社区"
+ },
+ {
+  "vendor": "火山引擎",
+  "src": "无",
+  "orgs": [
+   "volcengine"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "美团",
+  "src": "美团MSRC",
+  "orgs": [
+   "meituan",
+   "Meituan-Dianping"
+  ],
+  "unverified": [],
+  "note": "meituan为美团技术团队官方账号"
+ },
+ {
+  "vendor": "京东",
+  "src": "JSRC",
+  "orgs": [
+   "jdcloud",
+   "jd-opensource"
+  ],
+  "unverified": [],
+  "note": "jd-opensource显示名JD.com（JD Open Source）"
+ },
+ {
+  "vendor": "京东云",
+  "src": "JSRC",
+  "orgs": [
+   "jdcloud"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "百度",
+  "src": "BSRC",
+  "orgs": [
+   "baidu",
+   "baidu-research",
+   "PaddlePaddle",
+   "ApolloAuto"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "华为",
+  "src": "Huawei PSIRT",
+  "orgs": [
+   "Huawei",
+   "Ascend",
+   "mindspore-ai",
+   "openEuler",
+   "openharmony"
+  ],
+  "unverified": [],
+  "note": "MindSpore/openEuler/OpenHarmony为华为发起、现属开放原子基金会；openharmony仅只读镜像（主站在Gitee/GitCode）"
+ },
+ {
+  "vendor": "华为云",
+  "src": "Huawei PSIRT",
+  "orgs": [
+   "huaweicloud"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "荣耀",
+  "src": "HSRC",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub"
+ },
+ {
+  "vendor": "小米",
+  "src": "MiSRC",
+  "orgs": [
+   "XiaoMi",
+   "MiCode"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "OPPO",
+  "src": "无",
+  "orgs": [
+   "oppo"
+  ],
+  "unverified": [],
+  "note": "含Adlik、CameraUnit等OPPO开源项目"
+ },
+ {
+  "vendor": "vivo",
+  "src": "无",
+  "orgs": [
+   "vivo"
+  ],
+  "unverified": [],
+  "note": "bio标明vivo Open Source"
+ },
+ {
+  "vendor": "一加",
+  "src": "无",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（OnePlus为同名个人账号已排除）"
+ },
+ {
+  "vendor": "realme",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "realme"
+  ],
+  "note": "同名账号仅5仓库无简介，主体无法确认"
+ },
+ {
+  "vendor": "联想",
+  "src": "无",
+  "orgs": [
+   "lenovo"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "中兴",
+  "src": "ZTE PSIRT",
+  "orgs": [
+   "ZTE",
+   "zte-opensource"
+  ],
+  "unverified": [
+   "ZTEsoft"
+  ],
+  "note": "zte-opensource显示名ZTE Corporation；ZTEsoft无法确认主体"
+ },
+ {
+  "vendor": "努比亚",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "nubia"
+  ],
+  "note": "同名账号无法确认主体"
+ },
+ {
+  "vendor": "魅族",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "Meizu"
+  ],
+  "note": "同名账号MEIZU无仓库无简介，主体无法确认"
+ },
+ {
+  "vendor": "360",
+  "src": "360SRC",
+  "orgs": [
+   "Qihoo360",
+   "360netlab",
+   "360-CERT",
+   "0Kee-Team"
+  ],
+  "unverified": [],
+  "note": "360-CERT与0Kee-Team为360安全团队"
+ },
+ {
+  "vendor": "奇安信",
+  "src": "无",
+  "orgs": [
+   "QAX-A-Team"
+  ],
+  "unverified": [
+   "qianxin"
+  ],
+  "note": "qianxin疑似同名个人账号非官方；QAX-A-Team为奇安信技术团队"
+ },
+ {
+  "vendor": "深信服",
+  "src": "无",
+  "orgs": [
+   "Sangfor"
+  ],
+  "unverified": [],
+  "note": "显示名Sangfor Technologies"
+ },
+ {
+  "vendor": "绿盟科技",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "NSFOCUS"
+  ],
+  "note": "同名小写账号仅2仓库，主体无法确认"
+ },
+ {
+  "vendor": "启明星辰",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "venustech"
+  ],
+  "note": "疑似同名账号（仅fork atomic-red-team）"
+ },
+ {
+  "vendor": "安恒信息",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "dbappsecurity"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "天融信",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "topsec"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "山石网科",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "hillstone"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "亚信安全",
+  "src": "无",
+  "orgs": [
+   "asiainfo"
+  ],
+  "unverified": [],
+  "note": "bio标明Open source projects and samples from Asiainfo"
+ },
+ {
+  "vendor": "网宿科技",
+  "src": "无",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（wangsu为个人账号已排除）"
+ },
+ {
+  "vendor": "青云",
+  "src": "无",
+  "orgs": [
+   "yunify"
+  ],
+  "unverified": [],
+  "note": "QingCloud官方开源主体为Yunify，qingcloud为同名个人账号已排除"
+ },
+ {
+  "vendor": "UCloud",
+  "src": "无",
+  "orgs": [
+   "ucloud"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "金山办公",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "kingsoft"
+  ],
+  "note": "无公开GitHub（wps为德国同名公司已排除，kingsoft无法确认主体）"
+ },
+ {
+  "vendor": "金山云",
+  "src": "无",
+  "orgs": [
+   "kingsoftcloud"
+  ],
+  "unverified": [],
+  "note": "显示名Kingsoft Cloud，含ksadk系列仓库"
+ },
+ {
+  "vendor": "用友",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "yonyou"
+  ],
+  "note": "显示名用友网络但无仓库，主体待确认"
+ },
+ {
+  "vendor": "金蝶",
+  "src": "无",
+  "orgs": [
+   "kingdee"
+  ],
+  "unverified": [],
+  "note": "显示名金蝶云，bio标明Kingdee官方开源"
+ },
+ {
+  "vendor": "浪潮",
+  "src": "无",
+  "orgs": [
+   "inspur"
+  ],
+  "unverified": [],
+  "note": "bio标明Inspur Open Source Projects"
+ },
+ {
+  "vendor": "新华三H3C",
+  "src": "无",
+  "orgs": [
+   "h3c"
+  ],
+  "unverified": [],
+  "note": "显示名New H3C Technologies Co., Ltd."
+ },
+ {
+  "vendor": "锐捷",
+  "src": "无",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（ruijie为个人账号已排除）"
+ },
+ {
+  "vendor": "中国电信/天翼云",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "ctyun",
+   "ChinaTelecom"
+  ],
+  "note": "ctyun显示名A Force Cloud Team、仓库前缀ct-疑似中国电信云团队但主体名不明确，ChinaTelecom无法确认"
+ },
+ {
+  "vendor": "中国移动/移动云",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "ChinaMobile"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "中国联通",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "ChinaUnicom"
+  ],
+  "note": "仅1仓库，主体无法确认"
+ },
+ {
+  "vendor": "哔哩哔哩",
+  "src": "哔哩哔哩SRC",
+  "orgs": [
+   "bilibili"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "快手",
+  "src": "快手SRC",
+  "orgs": [
+   "KwaiAppTeam",
+   "KwaiVGI",
+   "Kwai-Kolors"
+  ],
+  "unverified": [],
+  "note": "kuaishou为同名个人账号已排除；三个org分别为主 App 团队/视觉国际化/Kolors文生图"
+ },
+ {
+  "vendor": "网易",
+  "src": "网易SRC",
+  "orgs": [
+   "netease",
+   "NetEaseGame"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "滴滴",
+  "src": "DSRC",
+  "orgs": [
+   "didi"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "携程",
+  "src": "携程SRC",
+  "orgs": [
+   "ctripcorp"
+  ],
+  "unverified": [],
+  "note": "Apollo等核心开源在此org"
+ },
+ {
+  "vendor": "同程旅行",
+  "src": "无",
+  "orgs": [
+   "TongchengOpenSource"
+  ],
+  "unverified": [],
+  "note": "显示名同程旅行（tongcheng为同名个人账号已排除）"
+ },
+ {
+  "vendor": "去哪儿",
+  "src": "无",
+  "orgs": [
+   "qunarcorp"
+  ],
+  "unverified": [],
+  "note": "显示名Qunar, Inc.（qunar同名账号仅1仓库已排除）"
+ },
+ {
+  "vendor": "顺丰",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "sf-express"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "菜鸟",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "cainiao"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "贝壳",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "Lianjia"
+  ],
+  "note": "无公开GitHub（beike为个人demo账号已排除，Lianjia无法确认主体）"
+ },
+ {
+  "vendor": "拼多多",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "Pinduoduo"
+  ],
+  "note": "显示名拼多多但仅1仓库，主体待确认（pdd为个人账号已排除）"
+ },
+ {
+  "vendor": "唯品会",
+  "src": "VSRC",
+  "orgs": [
+   "vipshop"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "得物",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "dewu"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "小红书",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "xiaohongshu"
+  ],
+  "note": "疑似同名账号，主体无法确认"
+ },
+ {
+  "vendor": "米哈游",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "mihoyo"
+  ],
+  "note": "同名账号MIHOYO无仓库，主体无法确认"
+ },
+ {
+  "vendor": "莉莉丝",
+  "src": "无",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（lilith为外国开发者已排除）"
+ },
+ {
+  "vendor": "鹰角网络",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "hypergryph"
+  ],
+  "note": "显示名HyperGryph但仅1仓库，主体待确认"
+ },
+ {
+  "vendor": "阅文集团",
+  "src": "无",
+  "orgs": [
+   "yuewen"
+  ],
+  "unverified": [],
+  "note": "显示名阅文技术，bio标明China Literature Limited"
+ },
+ {
+  "vendor": "平安科技",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "pingan"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "招商银行",
+  "src": "无",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（cmb为个人账号已排除）"
+ },
+ {
+  "vendor": "东方财富",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "eastmoney"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "科大讯飞",
+  "src": "无",
+  "orgs": [
+   "iflytek"
+  ],
+  "unverified": [],
+  "note": "bio标明iFLYTEK Open Source，67仓库"
+ },
+ {
+  "vendor": "大华股份",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "DahuaTechnology"
+  ],
+  "note": "无公开GitHub（dahua为个人账号已排除，DahuaTechnology无法确认主体）"
+ },
+ {
+  "vendor": "海康威视",
+  "src": "海康威视PSIRT",
+  "orgs": [],
+  "unverified": [
+   "hikvision"
+  ],
+  "note": "显示名Hikvision但仅1仓库，主体待确认"
+ },
+ {
+  "vendor": "宇视科技",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "uniview"
+  ],
+  "note": "无法确认主体"
+ },
+ {
+  "vendor": "地平线",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "horizon-robotics"
+  ],
+  "note": "显示名Horizon-Robotics但无简介无可见仓库，主体待确认"
+ },
+ {
+  "vendor": "寒武纪",
+  "src": "无",
+  "orgs": [
+   "cambricon"
+  ],
+  "unverified": [],
+  "note": "显示名Cambricon Technologies"
+ },
+ {
+  "vendor": "商汤",
+  "src": "无",
+  "orgs": [
+   "SenseTime",
+   "open-mmlab"
+  ],
+  "unverified": [],
+  "note": "SenseTime官方org仅1仓库；OpenMMLab为商汤开源社区（OpenMMLab系）"
+ },
+ {
+  "vendor": "旷视",
+  "src": "无",
+  "orgs": [
+   "megvii-research",
+   "MegEngine",
+   "megvii-research"
+  ],
+  "unverified": [],
+  "note": "MegEngine为旷视天元框架"
+ },
+ {
+  "vendor": "云从",
+  "src": "无",
+  "orgs": [],
+  "unverified": [
+   "cloudwalk"
+  ],
+  "note": "cloudwalk为同名巴西支付公司非云从科技，云从无公开GitHub"
+ },
+ {
+  "vendor": "第四范式",
+  "src": "无",
+  "orgs": [
+   "4paradigm"
+  ],
+  "unverified": [],
+  "note": "显示名4Paradigm Inc.，含OpenMLDB"
+ },
+ {
+  "vendor": "百川智能",
+  "src": "无",
+  "orgs": [
+   "baichuan-inc"
+  ],
+  "unverified": [],
+  "note": "显示名Baichuan Intelligent Technology，含Baichuan系列模型"
+ },
+ {
+  "vendor": "月之暗面",
+  "src": "无",
+  "orgs": [
+   "MoonshotAI"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "智谱AI",
+  "src": "无",
+  "orgs": [
+   "THUDM",
+   "zhipuai"
+  ],
+  "unverified": [],
+  "note": "THUDM为清华KEG（GLM系列发布主体），zhipuai为官方SDK组织"
+ },
+ {
+  "vendor": "MiniMax",
+  "src": "无",
+  "orgs": [
+   "MiniMax-AI"
+  ],
+  "unverified": [],
+  "note": "显示名MiniMax，含MiniMax-M2.7等模型仓库"
+ },
+ {
+  "vendor": "DeepSeek",
+  "src": "无",
+  "orgs": [
+   "deepseek-ai"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "零一万物",
+  "src": "无",
+  "orgs": [
+   "01-ai"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "阶跃星辰",
+  "src": "无",
+  "orgs": [
+   "stepfun-ai"
+  ],
+  "unverified": [],
+  "note": "含Step系列模型仓库"
+ },
+ {
+  "vendor": "微众银行",
+  "src": "无",
+  "orgs": [
+   "WeBankFinTech",
+   "WeDataSphere"
+  ],
+  "unverified": [],
+  "note": "补充厂商：FATE联邦学习与WeDataSphere大数据开源"
+ },
+ {
+  "vendor": "有赞",
+  "src": "无",
+  "orgs": [
+   "youzan"
+  ],
+  "unverified": [],
+  "note": "补充厂商"
+ }
+]

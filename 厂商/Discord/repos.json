@@ -1,0 +1,167 @@
+[
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/lilliput",
+  "url": "https://github.com/discord/lilliput",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Resize images and animated GIFs in Go",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/terraform-google-gcr-cleaner",
+  "url": "https://github.com/discord/terraform-google-gcr-cleaner",
+  "sec_path": ".github/SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Terraform module that implements gcr-cleaner, a tool that deletes untagged images in Google Cloud Container Registry. More on https://github.com/sethvargo/gcr-c…",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/vector",
+  "url": "https://github.com/discord/vector",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "A high-performance observability data pipeline.",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/discord-grpc",
+  "url": "https://github.com/discord/discord-grpc",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/opentelemetry-ebpf-profiler",
+  "url": "https://github.com/discord/opentelemetry-ebpf-profiler",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/dd-otel-host-profiler",
+  "url": "https://github.com/discord/dd-otel-host-profiler",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "The opentelemetry profiler by Datadog",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/electron",
+  "url": "https://github.com/discord/electron",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Build cross platform desktop apps with web technologies",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/libuv",
+  "url": "https://github.com/discord/libuv",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Cross-platform asynchronous I/O",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/react",
+  "url": "https://github.com/discord/react",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/artifact-keeper",
+  "url": "https://github.com/discord/artifact-keeper",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40+ package formats, security scanning, WASM plugins, and edge replication.",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/black",
+  "url": "https://github.com/discord/black",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "The uncompromising Python code formatter",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/pillow-simd",
+  "url": "https://github.com/discord/pillow-simd",
+  "sec_path": ".github/SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "The friendly PIL fork",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/ExoPlayer",
+  "url": "https://github.com/discord/ExoPlayer",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "An extensible media player for Android",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/eslint-plugin-react-discord",
+  "url": "https://github.com/discord/eslint-plugin-react-discord",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Fork of eslint-plugin-react",
+  "first_seen": "2026-11-01 19:03:06"
+ },
+ {
+  "vendor": "Discord",
+  "org": "discord",
+  "full_name": "discord/envoy",
+  "url": "https://github.com/discord/envoy",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Cloud-native high-performance edge/middle/service proxy",
+  "first_seen": "2026-11-01 19:04:21"
+ }
+]

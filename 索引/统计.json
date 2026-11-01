@@ -1,0 +1,1975 @@
+{
+ "generated_at": "2026-11-01 21:55:05",
+ "mode": "html",
+ "totals": {
+  "vendors": 243,
+  "orgs": 306,
+  "orgs_swept": 190,
+  "sec_repos": 6792,
+  "negative_cached": 29784
+ },
+ "vendors": [
+  {
+   "vendor": "Apache软件基金会",
+   "src": "无(开源基金会)",
+   "orgs": [
+    "apache"
+   ],
+   "sec_repos": 286
+  },
+  {
+   "vendor": "CNCF云原生基金会",
+   "src": "无(开源基金会)",
+   "orgs": [
+    "kubernetes",
+    "prometheus",
+    "etcd-io",
+    "grpc",
+    "containerd",
+    "cilium",
+    "istio",
+    "envoyproxy",
+    "argoproj"
+   ],
+   "sec_repos": 41
+  },
+  {
+   "vendor": "深度求索DeepSeek",
+   "src": "无",
+   "orgs": [
+    "deepseek-ai"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "智谱AI",
+   "src": "无",
+   "orgs": [
+    "THUDM",
+    "zai-org",
+    "zhipuai"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "月之暗面",
+   "src": "无",
+   "orgs": [
+    "MoonshotAI"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "面壁智能",
+   "src": "无",
+   "orgs": [
+    "OpenBMB"
+   ],
+   "sec_repos": 3
+  },
+  {
+   "vendor": "腾讯",
+   "src": "TSRC",
+   "orgs": [
+    "Tencent",
+    "tencentyun",
+    "TencentCloud",
+    "TarsCloud",
+    "Tencent-Hunyuan",
+    "wechat-miniprogram"
+   ],
+   "sec_repos": 33
+  },
+  {
+   "vendor": "阿里巴巴",
+   "src": "ASRC",
+   "orgs": [
+    "alibaba",
+    "aliyun",
+    "AliyunContainerService"
+   ],
+   "sec_repos": 67
+  },
+  {
+   "vendor": "蚂蚁集团",
+   "src": "蚂蚁SRC",
+   "orgs": [
+    "alipay",
+    "antgroup",
+    "ant-design",
+    "antvis",
+    "sofastack"
+   ],
+   "sec_repos": 19
+  },
+  {
+   "vendor": "字节跳动",
+   "src": "字节跳动SRC",
+   "orgs": [
+    "bytedance",
+    "cloudwego",
+    "SonicCloudOrg"
+   ],
+   "sec_repos": 21
+  },
+  {
+   "vendor": "火山引擎",
+   "src": "无",
+   "orgs": [
+    "volcengine"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "美团",
+   "src": "美团MSRC",
+   "orgs": [
+    "meituan",
+    "Meituan-Dianping"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "京东",
+   "src": "JSRC",
+   "orgs": [
+    "jdcloud",
+    "jd-opensource"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "京东云",
+   "src": "JSRC",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "百度",
+   "src": "BSRC",
+   "orgs": [
+    "baidu",
+    "baidu-research",
+    "PaddlePaddle",
+    "ApolloAuto"
+   ],
+   "sec_repos": 4
+  },
+  {
+   "vendor": "华为",
+   "src": "Huawei PSIRT",
+   "orgs": [
+    "Huawei",
+    "Ascend",
+    "mindspore-ai",
+    "openEuler",
+    "openharmony"
+   ],
+   "sec_repos": 7
+  },
+  {
+   "vendor": "华为云",
+   "src": "Huawei PSIRT",
+   "orgs": [
+    "huaweicloud"
+   ],
+   "sec_repos": 12
+  },
+  {
+   "vendor": "荣耀",
+   "src": "HSRC",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "小米",
+   "src": "MiSRC",
+   "orgs": [
+    "XiaoMi",
+    "MiCode"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "OPPO",
+   "src": "无",
+   "orgs": [
+    "oppo"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "vivo",
+   "src": "无",
+   "orgs": [
+    "vivo"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "一加",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "realme",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "联想",
+   "src": "无",
+   "orgs": [
+    "lenovo"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "中兴",
+   "src": "ZTE PSIRT",
+   "orgs": [
+    "ZTE",
+    "zte-opensource"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "努比亚",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "魅族",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "360",
+   "src": "360SRC",
+   "orgs": [
+    "Qihoo360",
+    "360netlab",
+    "360-CERT",
+    "0Kee-Team"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "奇安信",
+   "src": "无",
+   "orgs": [
+    "QAX-A-Team"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "深信服",
+   "src": "无",
+   "orgs": [
+    "Sangfor"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "绿盟科技",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "启明星辰",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "安恒信息",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "天融信",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "山石网科",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "亚信安全",
+   "src": "无",
+   "orgs": [
+    "asiainfo"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "网宿科技",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "青云",
+   "src": "无",
+   "orgs": [
+    "yunify"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "UCloud",
+   "src": "无",
+   "orgs": [
+    "ucloud"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "金山办公",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "金山云",
+   "src": "无",
+   "orgs": [
+    "kingsoftcloud"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "用友",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "金蝶",
+   "src": "无",
+   "orgs": [
+    "kingdee"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "浪潮",
+   "src": "无",
+   "orgs": [
+    "inspur"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "新华三H3C",
+   "src": "无",
+   "orgs": [
+    "h3c"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "锐捷",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "中国电信/天翼云",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "中国移动/移动云",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "中国联通",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "哔哩哔哩",
+   "src": "哔哩哔哩SRC",
+   "orgs": [
+    "bilibili"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "快手",
+   "src": "快手SRC",
+   "orgs": [
+    "KwaiAppTeam",
+    "KwaiVGI",
+    "Kwai-Kolors"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "网易",
+   "src": "网易SRC",
+   "orgs": [
+    "netease",
+    "NetEaseGame"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "滴滴",
+   "src": "DSRC",
+   "orgs": [
+    "didi"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "携程",
+   "src": "携程SRC",
+   "orgs": [
+    "ctripcorp"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "同程旅行",
+   "src": "无",
+   "orgs": [
+    "TongchengOpenSource"
+   ],
+   "sec_repos": 6
+  },
+  {
+   "vendor": "去哪儿",
+   "src": "无",
+   "orgs": [
+    "qunarcorp"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "顺丰",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "菜鸟",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "贝壳",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "拼多多",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "唯品会",
+   "src": "VSRC",
+   "orgs": [
+    "vipshop"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "得物",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "小红书",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "米哈游",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "莉莉丝",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "鹰角网络",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "阅文集团",
+   "src": "无",
+   "orgs": [
+    "yuewen"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "平安科技",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "招商银行",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "东方财富",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "科大讯飞",
+   "src": "无",
+   "orgs": [
+    "iflytek"
+   ],
+   "sec_repos": 10
+  },
+  {
+   "vendor": "大华股份",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "海康威视",
+   "src": "海康威视PSIRT",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "宇视科技",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "地平线",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "寒武纪",
+   "src": "无",
+   "orgs": [
+    "cambricon"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "商汤",
+   "src": "无",
+   "orgs": [
+    "SenseTime",
+    "open-mmlab"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "旷视",
+   "src": "无",
+   "orgs": [
+    "megvii-research",
+    "MegEngine",
+    "megvii-research"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "云从",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "第四范式",
+   "src": "无",
+   "orgs": [
+    "4paradigm"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "百川智能",
+   "src": "无",
+   "orgs": [
+    "baichuan-inc"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "MiniMax",
+   "src": "无",
+   "orgs": [
+    "MiniMax-AI"
+   ],
+   "sec_repos": 6
+  },
+  {
+   "vendor": "DeepSeek",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "零一万物",
+   "src": "无",
+   "orgs": [
+    "01-ai"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "阶跃星辰",
+   "src": "无",
+   "orgs": [
+    "stepfun-ai"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "微众银行",
+   "src": "无",
+   "orgs": [
+    "WeBankFinTech",
+    "WeDataSphere"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "有赞",
+   "src": "无",
+   "orgs": [
+    "youzan"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "微软",
+   "src": "HackerOne（Microsoft Bounty）+ 自建MSRC",
+   "orgs": [
+    "microsoft",
+    "Azure",
+    "dotnet",
+    "aspnet",
+    "microsoftgraph",
+    "ms-iot",
+    "nuget"
+   ],
+   "sec_repos": 1277
+  },
+  {
+   "vendor": "谷歌",
+   "src": "自建（Google VRP, bughunters.google.com）",
+   "orgs": [
+    "google",
+    "GoogleChrome",
+    "tensorflow",
+    "flutter",
+    "golang",
+    "dart-lang",
+    "angular",
+    "firebase"
+   ],
+   "sec_repos": 123
+  },
+  {
+   "vendor": "Meta",
+   "src": "自建（Meta Bug Bounty）",
+   "orgs": [
+    "facebook",
+    "facebookresearch",
+    "facebookincubator",
+    "pytorch",
+    "Meta"
+   ],
+   "sec_repos": 66
+  },
+  {
+   "vendor": "亚马逊",
+   "src": "自建（Amazon Vulnerability Research Program）",
+   "orgs": [
+    "aws",
+    "awslabs",
+    "aws-samples",
+    "aws-amplify"
+   ],
+   "sec_repos": 329
+  },
+  {
+   "vendor": "苹果",
+   "src": "自建（Apple Security Bounty）",
+   "orgs": [
+    "apple",
+    "WebKit",
+    "swiftlang"
+   ],
+   "sec_repos": 32
+  },
+  {
+   "vendor": "Netflix",
+   "src": "Bugcrowd（Netflix）",
+   "orgs": [
+    "netflix",
+    "Netflix-Skunkworks"
+   ],
+   "sec_repos": 5
+  },
+  {
+   "vendor": "Adobe",
+   "src": "自建（Adobe Vulnerability Disclosure Program）",
+   "orgs": [
+    "adobe",
+    "adobe-fonts",
+    "adobe-research"
+   ],
+   "sec_repos": 77
+  },
+  {
+   "vendor": "Oracle",
+   "src": "自建（Oracle Vulnerability Reporting Program）",
+   "orgs": [
+    "oracle",
+    "graalvm",
+    "mysql"
+   ],
+   "sec_repos": 11
+  },
+  {
+   "vendor": "IBM",
+   "src": "自建PSIRT（X-Force）",
+   "orgs": [
+    "IBM",
+    "IBM-Cloud",
+    "ibm-security"
+   ],
+   "sec_repos": 153
+  },
+  {
+   "vendor": "Intel",
+   "src": "自建（Intel Bug Bounty）",
+   "orgs": [
+    "intel",
+    "oneapi-src",
+    "intel-iot-devkit"
+   ],
+   "sec_repos": 861
+  },
+  {
+   "vendor": "AMD",
+   "src": "自建PSIRT（AMD Product Security）",
+   "orgs": [
+    "AMD",
+    "ROCm"
+   ],
+   "sec_repos": 108
+  },
+  {
+   "vendor": "NVIDIA",
+   "src": "HackerOne（NVIDIA）",
+   "orgs": [
+    "NVIDIA",
+    "NVIDIA-Merlin",
+    "NVIDIA-AI-IOT",
+    "NVIDIA-Omniverse"
+   ],
+   "sec_repos": 377
+  },
+  {
+   "vendor": "高通",
+   "src": "自建PSIRT（Qualcomm Product Security）",
+   "orgs": [
+    "quic",
+    "qualcomm"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "ARM",
+   "src": "自建PSIRT（Arm Product Security Incident Response）",
+   "orgs": [
+    "ARM-software",
+    "ARMmbed",
+    "arm"
+   ],
+   "sec_repos": 56
+  },
+  {
+   "vendor": "Salesforce",
+   "src": "HackerOne（Salesforce）",
+   "orgs": [
+    "Salesforce",
+    "forcedotcom"
+   ],
+   "sec_repos": 495
+  },
+  {
+   "vendor": "SAP",
+   "src": "自建（SAP Vulnerability Disclosure Program）",
+   "orgs": [
+    "SAP"
+   ],
+   "sec_repos": 16
+  },
+  {
+   "vendor": "思科",
+   "src": "HackerOne（Cisco）",
+   "orgs": [
+    "cisco",
+    "cisco-open"
+   ],
+   "sec_repos": 87
+  },
+  {
+   "vendor": "戴尔",
+   "src": "自建PSIRT（Dell）",
+   "orgs": [
+    "dell"
+   ],
+   "sec_repos": 29
+  },
+  {
+   "vendor": "HP/HPE",
+   "src": "自建PSIRT + ZDI（HP/HPE）",
+   "orgs": [
+    "HewlettPackard",
+    "hpe",
+    "HPInc"
+   ],
+   "sec_repos": 22
+  },
+  {
+   "vendor": "红帽",
+   "src": "自建（Red Hat Product Security）",
+   "orgs": [
+    "openshift",
+    "RedHatOfficial",
+    "ansible"
+   ],
+   "sec_repos": 45
+  },
+  {
+   "vendor": "VMware",
+   "src": "自建PSIRT（VMware，现属博通）",
+   "orgs": [
+    "vmware",
+    "vmware-tanzu",
+    "vmware-samples"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "博通",
+   "src": "自建PSIRT（Broadcom）",
+   "orgs": [
+    "Broadcom"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "三星",
+   "src": "自建（Samsung Mobile/TV VRP）",
+   "orgs": [
+    "Samsung",
+    "SamsungSDS",
+    "SamsungSmartTV"
+   ],
+   "sec_repos": 7
+  },
+  {
+   "vendor": "LG",
+   "src": "自建PSIRT（LG）",
+   "orgs": [
+    "webosose"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "索尼",
+   "src": "自建PSIRT（Sony）",
+   "orgs": [
+    "sony",
+    "sonyxperiadev",
+    "PlayStation"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "松下",
+   "src": "自建PSIRT",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "东芝",
+   "src": "自建PSIRT",
+   "orgs": [
+    "Toshiba"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "富士通",
+   "src": "自建PSIRT",
+   "orgs": [
+    "fujitsu"
+   ],
+   "sec_repos": 4
+  },
+  {
+   "vendor": "日立",
+   "src": "自建PSIRT",
+   "orgs": [
+    "hitachi",
+    "pentaho"
+   ],
+   "sec_repos": 12
+  },
+  {
+   "vendor": "夏普",
+   "src": "自建PSIRT",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "诺基亚",
+   "src": "自建PSIRT",
+   "orgs": [
+    "nokia"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "爱立信",
+   "src": "自建PSIRT",
+   "orgs": [
+    "ericsson"
+   ],
+   "sec_repos": 13
+  },
+  {
+   "vendor": "西门子",
+   "src": "自建PSIRT（Siemens ProductCERT）",
+   "orgs": [
+    "siemens"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "博世",
+   "src": "自建PSIRT（Bosch）",
+   "orgs": [
+    "bosch",
+    "boschresearch",
+    "bosch-io"
+   ],
+   "sec_repos": 33
+  },
+  {
+   "vendor": "飞利浦",
+   "src": "自建PSIRT（Philips）",
+   "orgs": [
+    "philips",
+    "PhilipsHue"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "ABB",
+   "src": "自建PSIRT",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "施耐德",
+   "src": "自建PSIRT",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "特斯拉",
+   "src": "Bugcrowd（Tesla）",
+   "orgs": [
+    "teslamotors"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "SpaceX",
+   "src": "自建",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Rivian",
+   "src": "Bugcrowd（Rivian）",
+   "orgs": [
+    "rivian"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "丰田",
+   "src": "自建PSIRT",
+   "orgs": [
+    "toyota"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "本田",
+   "src": "自建PSIRT",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "现代",
+   "src": "自建PSIRT",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "宝马",
+   "src": "自建（BMW Product Security）",
+   "orgs": [
+    "bmw"
+   ],
+   "sec_repos": 4
+  },
+  {
+   "vendor": "奔驰/戴姆勒",
+   "src": "自建PSIRT（Mercedes-Benz Group）",
+   "orgs": [
+    "mercedes-benz"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "大众",
+   "src": "自建PSIRT",
+   "orgs": [
+    "volkswagen"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "空中客车",
+   "src": "自建（Airbus Vulnerability Disclosure）",
+   "orgs": [
+    "airbus"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "波音",
+   "src": "自建PSIRT",
+   "orgs": [
+    "boeing"
+   ],
+   "sec_repos": 4
+  },
+  {
+   "vendor": "Unity",
+   "src": "自建（Unity Security）",
+   "orgs": [
+    "Unity-Technologies"
+   ],
+   "sec_repos": 35
+  },
+  {
+   "vendor": "EpicGames",
+   "src": "自建（Epic Games Security）",
+   "orgs": [
+    "EpicGames"
+   ],
+   "sec_repos": 11
+  },
+  {
+   "vendor": "Roblox",
+   "src": "自建（Roblox Bug Bounty）",
+   "orgs": [
+    "Roblox"
+   ],
+   "sec_repos": 8
+  },
+  {
+   "vendor": "Discord",
+   "src": "自建（Discord Bug Bounty）",
+   "orgs": [
+    "discord"
+   ],
+   "sec_repos": 15
+  },
+  {
+   "vendor": "Snap",
+   "src": "HackerOne（Snap）",
+   "orgs": [
+    "snapchat"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Pinterest",
+   "src": "HackerOne（Pinterest）",
+   "orgs": [
+    "pinterest"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "LinkedIn",
+   "src": "自建PSIRT（LinkedIn）",
+   "orgs": [
+    "linkedin"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Slack",
+   "src": "自建（Slack VDP）",
+   "orgs": [
+    "slackhq",
+    "slackapi"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Zoom",
+   "src": "Bugcrowd（Zoom）",
+   "orgs": [
+    "zoom"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Atlassian",
+   "src": "Bugcrowd（Atlassian）",
+   "orgs": [
+    "atlassian",
+    "atlassian-labs"
+   ],
+   "sec_repos": 8
+  },
+  {
+   "vendor": "JetBrains",
+   "src": "自建（JetBrains Bug Bounty）",
+   "orgs": [
+    "JetBrains"
+   ],
+   "sec_repos": 44
+  },
+  {
+   "vendor": "GitLab",
+   "src": "HackerOne（GitLab）",
+   "orgs": [
+    "gitlabhq",
+    "gitlab-org"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "GitHub",
+   "src": "HackerOne（GitHub Security Bug Bounty）",
+   "orgs": [
+    "github"
+   ],
+   "sec_repos": 143
+  },
+  {
+   "vendor": "Docker",
+   "src": "HackerOne（Docker）",
+   "orgs": [
+    "docker",
+    "moby"
+   ],
+   "sec_repos": 49
+  },
+  {
+   "vendor": "HashiCorp",
+   "src": "自建（HashiCorp VDP）",
+   "orgs": [
+    "hashicorp"
+   ],
+   "sec_repos": 126
+  },
+  {
+   "vendor": "Elastic",
+   "src": "自建（Elastic Security）",
+   "orgs": [
+    "elastic"
+   ],
+   "sec_repos": 165
+  },
+  {
+   "vendor": "MongoDB",
+   "src": "自建PSIRT（MongoDB）",
+   "orgs": [
+    "mongodb"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Redis",
+   "src": "自建PSIRT（Redis）",
+   "orgs": [
+    "redis",
+    "RedisLabs"
+   ],
+   "sec_repos": 5
+  },
+  {
+   "vendor": "Cloudflare",
+   "src": "HackerOne（Cloudflare）",
+   "orgs": [
+    "cloudflare"
+   ],
+   "sec_repos": 47
+  },
+  {
+   "vendor": "Fastly",
+   "src": "HackerOne（Fastly）",
+   "orgs": [
+    "fastly"
+   ],
+   "sec_repos": 124
+  },
+  {
+   "vendor": "Akamai",
+   "src": "自建（Akamai VDP）",
+   "orgs": [
+    "akamai"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Datadog",
+   "src": "HackerOne（Datadog）",
+   "orgs": [
+    "DataDog"
+   ],
+   "sec_repos": 117
+  },
+  {
+   "vendor": "Splunk",
+   "src": "自建（Splunk Security）",
+   "orgs": [
+    "splunk"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "New Relic",
+   "src": "自建（New Relic Security）",
+   "orgs": [
+    "newrelic"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Sentry",
+   "src": "自建（Sentry Security）",
+   "orgs": [
+    "getsentry"
+   ],
+   "sec_repos": 16
+  },
+  {
+   "vendor": "Grafana",
+   "src": "自建（Grafana Labs Security）",
+   "orgs": [
+    "grafana"
+   ],
+   "sec_repos": 38
+  },
+  {
+   "vendor": "Canonical",
+   "src": "自建（Ubuntu/Canonical Security）",
+   "orgs": [
+    "canonical"
+   ],
+   "sec_repos": 469
+  },
+  {
+   "vendor": "SUSE",
+   "src": "自建PSIRT（SUSE）",
+   "orgs": [
+    "SUSE",
+    "rancher"
+   ],
+   "sec_repos": 21
+  },
+  {
+   "vendor": "Mozilla",
+   "src": "自建（Mozilla Bug Bounty）",
+   "orgs": [
+    "mozilla"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "DuckDuckGo",
+   "src": "自建（DuckDuckGo VDP）",
+   "orgs": [
+    "duckduckgo"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Brave",
+   "src": "HackerOne（Brave）",
+   "orgs": [
+    "brave"
+   ],
+   "sec_repos": 50
+  },
+  {
+   "vendor": "Tesla",
+   "src": "Bugcrowd",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Coinbase",
+   "src": "HackerOne",
+   "orgs": [
+    "coinbase",
+    "base-org"
+   ],
+   "sec_repos": 44
+  },
+  {
+   "vendor": "Uber",
+   "src": "HackerOne",
+   "orgs": [
+    "uber"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Airbnb",
+   "src": "HackerOne",
+   "orgs": [
+    "airbnb"
+   ],
+   "sec_repos": 8
+  },
+  {
+   "vendor": "Twitter/X",
+   "src": "HackerOne",
+   "orgs": [
+    "twitter"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Snap (Snapchat)",
+   "src": "HackerOne",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Shopify",
+   "src": "HackerOne",
+   "orgs": [
+    "shopify"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Goldman Sachs",
+   "src": "HackerOne",
+   "orgs": [
+    "goldmansachs"
+   ],
+   "sec_repos": 22
+  },
+  {
+   "vendor": "JPMorgan Chase",
+   "src": "HackerOne",
+   "orgs": [
+    "jpmorganchase"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "American Express",
+   "src": "HackerOne",
+   "orgs": [
+    "americanexpress"
+   ],
+   "sec_repos": 48
+  },
+  {
+   "vendor": "Citi",
+   "src": "HackerOne",
+   "orgs": [
+    "citi"
+   ],
+   "sec_repos": 14
+  },
+  {
+   "vendor": "Capital One",
+   "src": "HackerOne",
+   "orgs": [
+    "capitalone"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Robinhood",
+   "src": "HackerOne",
+   "orgs": [
+    "robinhood",
+    "robinhoodmarkets"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Revolut",
+   "src": "HackerOne",
+   "orgs": [
+    "revolut",
+    "revolut-engineering"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Wise (TransferWise)",
+   "src": "HackerOne",
+   "orgs": [
+    "transferwise"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Kraken",
+   "src": "自建BB",
+   "orgs": [
+    "krakenfx"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Gemini",
+   "src": "HackerOne",
+   "orgs": [
+    "gemini"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Blockchain.com",
+   "src": "HackerOne",
+   "orgs": [
+    "blockchain"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Circle",
+   "src": "HackerOne",
+   "orgs": [
+    "circlefin"
+   ],
+   "sec_repos": 77
+  },
+  {
+   "vendor": "OKX",
+   "src": "HackerOne",
+   "orgs": [
+    "okx",
+    "okex"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Bybit",
+   "src": "HackerOne",
+   "orgs": [
+    "bybit-exchange"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "USAA",
+   "src": "HackerOne",
+   "orgs": [
+    "usaa"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "PayPal",
+   "src": "自建BB",
+   "orgs": [
+    "paypal"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "DigitalOcean",
+   "src": "HackerOne",
+   "orgs": [
+    "digitalocean"
+   ],
+   "sec_repos": 23
+  },
+  {
+   "vendor": "Canva",
+   "src": "Bugcrowd",
+   "orgs": [
+    "canva"
+   ],
+   "sec_repos": 7
+  },
+  {
+   "vendor": "Palo Alto Networks",
+   "src": "Bugcrowd",
+   "orgs": [
+    "paloaltonetworks"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "NETGEAR",
+   "src": "Bugcrowd",
+   "orgs": [
+    "netgear"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Okta",
+   "src": "Bugcrowd",
+   "orgs": [
+    "okta"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Zscaler",
+   "src": "Bugcrowd",
+   "orgs": [
+    "zscaler"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "CyberArk",
+   "src": "Bugcrowd",
+   "orgs": [
+    "cyberark"
+   ],
+   "sec_repos": 90
+  },
+  {
+   "vendor": "F5",
+   "src": "Bugcrowd",
+   "orgs": [
+    "F5Networks"
+   ],
+   "sec_repos": 39
+  },
+  {
+   "vendor": "Dropbox",
+   "src": "自建BB",
+   "orgs": [
+    "dropbox"
+   ],
+   "sec_repos": 5
+  },
+  {
+   "vendor": "Stripe",
+   "src": "自建BB",
+   "orgs": [
+    "stripe"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Block (Square/Cash App)",
+   "src": "自建BB",
+   "orgs": [
+    "block",
+    "square",
+    "cashapp"
+   ],
+   "sec_repos": 14
+  },
+  {
+   "vendor": "Klarna",
+   "src": "自建BB",
+   "orgs": [
+    "klarna"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Adyen",
+   "src": "自建BB",
+   "orgs": [
+    "adyen"
+   ],
+   "sec_repos": 8
+  },
+  {
+   "vendor": "Visa",
+   "src": "自建BB",
+   "orgs": [
+    "visa"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Mastercard",
+   "src": "自建BB",
+   "orgs": [
+    "mastercard"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Morgan Stanley",
+   "src": "自建BB",
+   "orgs": [
+    "morganstanley"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "BlackRock",
+   "src": "自建BB",
+   "orgs": [
+    "blackrock"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Lyft",
+   "src": "自建BB",
+   "orgs": [
+    "lyft"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "DoorDash",
+   "src": "自建BB",
+   "orgs": [
+    "doordash"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Instacart",
+   "src": "自建BB",
+   "orgs": [
+    "instacart"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Grubhub",
+   "src": "自建BB",
+   "orgs": [
+    "grubhub"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Deliveroo",
+   "src": "自建BB",
+   "orgs": [
+    "deliveroo"
+   ],
+   "sec_repos": 4
+  },
+  {
+   "vendor": "Bolt",
+   "src": "自建BB",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Grab",
+   "src": "自建BB",
+   "orgs": [
+    "grab"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Gojek",
+   "src": "自建BB",
+   "orgs": [
+    "gojek"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Shopee",
+   "src": "自建BB",
+   "orgs": [
+    "shopee"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Lazada",
+   "src": "自建BB",
+   "orgs": [
+    "lazada"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Walmart",
+   "src": "自建BB",
+   "orgs": [
+    "walmart",
+    "walmartlabs"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Target",
+   "src": "自建BB",
+   "orgs": [
+    "target"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Starbucks",
+   "src": "自建BB",
+   "orgs": [
+    "starbucks"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Nike",
+   "src": "自建BB",
+   "orgs": [
+    "NikeInc"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Adidas",
+   "src": "自建BB",
+   "orgs": [
+    "adidas"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Comcast",
+   "src": "自建BB",
+   "orgs": [
+    "comcast"
+   ],
+   "sec_repos": 11
+  },
+  {
+   "vendor": "Disney",
+   "src": "自建BB",
+   "orgs": [
+    "disney"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Deutsche Telekom",
+   "src": "自建BB",
+   "orgs": [
+    "telekom"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Vodafone",
+   "src": "自建BB",
+   "orgs": [
+    "vodafone"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Verizon",
+   "src": "自建BB",
+   "orgs": [
+    "verizon"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "AT&T",
+   "src": "自建BB",
+   "orgs": [
+    "att"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "T-Mobile",
+   "src": "自建BB",
+   "orgs": [
+    "tmobile"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Telstra",
+   "src": "自建BB",
+   "orgs": [
+    "telstra"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Rogers",
+   "src": "无",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "CrowdStrike",
+   "src": "自建BB",
+   "orgs": [
+    "crowdstrike"
+   ],
+   "sec_repos": 74
+  },
+  {
+   "vendor": "Fortinet",
+   "src": "自建BB",
+   "orgs": [
+    "fortinet"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Juniper Networks",
+   "src": "自建BB",
+   "orgs": [
+    "Juniper"
+   ],
+   "sec_repos": 3
+  },
+  {
+   "vendor": "Trend Micro",
+   "src": "自建BB",
+   "orgs": [
+    "trendmicro"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Kaspersky",
+   "src": "自建BB",
+   "orgs": [
+    "kasperskylab"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Bitdefender",
+   "src": "自建BB",
+   "orgs": [
+    "bitdefender"
+   ],
+   "sec_repos": 3
+  },
+  {
+   "vendor": "Avast",
+   "src": "自建BB",
+   "orgs": [
+    "avast"
+   ],
+   "sec_repos": 10
+  },
+  {
+   "vendor": "Check Point",
+   "src": "自建BB",
+   "orgs": [
+    "CheckPointSW"
+   ],
+   "sec_repos": 6
+  },
+  {
+   "vendor": "Binance",
+   "src": "自建BB",
+   "orgs": [
+    "binance"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Nubank",
+   "src": "自建BB",
+   "orgs": [
+    "nubank"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Mercado Libre",
+   "src": "自建BB",
+   "orgs": [
+    "mercadolibre"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Zalando",
+   "src": "自建BB",
+   "orgs": [
+    "zalando"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Spotify",
+   "src": "自建BB",
+   "orgs": [
+    "spotify"
+   ],
+   "sec_repos": 0
+  }
+ ],
+ "orgs_failed": []
+}

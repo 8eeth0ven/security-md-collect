@@ -1,0 +1,186 @@
+# Security Policy
+
+## Threat Model
+
+A structured threat model for the Apache Struts framework — scope, adversary model,
+the security properties the framework provides vs. leaves to the application, and a
+triage-disposition guide for inbound reports and automated-scanner findings — is
+maintained in [`THREAT_MODEL.md`](THREAT_MODEL.md). It is additive to this policy:
+this `SECURITY.md` and the [security guidance](https://struts.apache.org/security/)
+remain canonical for the reporting process and configuration details.
+
+## Supported Versions
+
+Please visit the [Releases](https://struts.apache.org/releases.html#prior-releases) page to see full information about each version 
+and what potential vulnerability it can have:
+
+| Version | Supported |
+|---------|-----------|
+| 7.x     | yes       |
+| 6.x.x   | yes       |
+| 2.5.x   | no        |
+| 2.3.x   | no        |
+| 2.2.x   | no        |
+| 2.1.x   | no        |
+| 2.0.x   | no        |
+
+## Reporting New Security Issues with the Apache Struts
+
+([original](https://struts.apache.org/security.html))
+
+The Apache Struts project takes a very active stance in eliminating security problems
+and denial of service attacks against applications using the Apache Struts framework.
+
+**We strongly encourage folks to report such security problems to our private security mailing list first,
+before disclosing them in a public forum**.
+
+We cannot accept regular bug reports or other queries at this address, we ask that you use our
+[issue tracker (JIRA)](https://issues.apache.org/jira/browse/WW) for those.
+
+```
+All mail sent to this address that does not relate to security problems in the Apache Struts source code will be ignored
+```
+
+Note that all networked servers are subject to denial of service attacks, and we cannot promise magic
+workarounds to generic problems (such as a client streaming lots of data to your server or requesting
+the same URL repeatedly). In general, our philosophy is to avoid any attacks that can cause the server
+to consume resources in a non-linear relationship to the size of inputs.
+
+To be clear about the linear cases: that philosophy describes what we design against, not a threshold a
+report has to clear before we will accept it. Framework code that reads or retains request-derived input
+**without any bound** is in scope even where the growth is merely linear, and we have assigned CVEs for
+exactly that. What stays out of scope is the generic case above — where the cost to the server is
+proportionate, no framework limit is missing or ineffective, and the defence belongs to your servlet
+container, reverse proxy, or network.
+
+### Hardening or vulnerability: the control test
+
+The question we ask is not "can this input hurt a server" but "does the framework claim a control
+here, and does that control do what it says".
+
+- **No control claimed.** Where the framework has never promised a bound or a check and the defence is
+  documented as the operator's or the application's (request-body size at the container, authentication,
+  CSRF tokens), a report that the framework does not supply it is handled as public hardening — a Jira
+  ticket, no bulletin, no CVE. The reporter is credited on the ticket.
+- **Control claimed but not enforced.** Where the framework documents a limit, a filter, or a policy and it
+  does not hold for the inputs it targets, that is a vulnerability regardless of how the operator has
+  configured anything else, and it is handled privately per this policy.
+
+A consequence worth stating: **adding a control moves the line.** The same request that was a hardening
+report before a limit existed becomes a vulnerability report if the limit, once added, can be bypassed.
+The JSON plugin's input limits were added as hardening in
+[WW-5618](https://issues.apache.org/jira/browse/WW-5618) (6.9.0 / 7.2.1); the later finding that the
+length limit could be bypassed was CVE-2026-73633
+([S2-072](https://cwiki.apache.org/confluence/display/WW/S2-072)). Those are two findings, not one, and
+they were credited separately.
+
+The mailing address is: [security@struts.apache.org](mailto:security@struts.apache.org)
+
+[General network server security tips](http://httpd.apache.org/docs/trunk/misc/security_tips.html)
+
+[The Apache Security Team](http://www.apache.org/security/)
+
+## Do not disclose through a pull request, commit, or issue
+
+**A fix is a disclosure.** Opening a public pull request, pushing a commit, branch, or
+fork, or filing a public Jira/GitHub issue that **fixes, describes, or hints at** a
+suspected vulnerability reveals where the weakness is — often with a working roadmap to
+exploit it — before a fixed release exists. This holds even if you never attach a
+proof-of-concept, and even if you believe the impact is low or you are "just hardening"
+the code.
+
+If you have found, or suspect you have found, a security problem:
+
+- **Do not** open a public PR, commit, branch, fork, Jira issue, or mailing-list thread
+  for it.
+- **Do** email [security@struts.apache.org](mailto:security@struts.apache.org) first and
+  wait for the PMC to triage it and agree how the fix will be handled — the fix is
+  typically prepared privately and landed alongside the advisory and release.
+
+If you notice a possible security issue while working on an unrelated bug or PR, stop and
+email the private list before pushing the change. **When in doubt, treat it as
+security-sensitive and email the list** — a private report that turns out to be a
+non-issue costs far less than a public change that turns out to be exploitable.
+
+## Before Reporting
+
+Before sending a vulnerability report, run through the following checks. They exist to prevent duplicate reports, public disclosure of untriaged issues,
+and reports for behavior that is already documented as insecure configuration.
+
+### 1. Read this policy
+
+Confirm:
+
+- which Struts versions are currently supported (see [Supported Versions](#supported-versions)),
+- where reports must be sent (see [Reporting New Security Issues](#reporting-new-security-issues-with-the-apache-struts)),
+- which reports do not belong on the private security list.
+
+### 2. Read the Struts security guidelines
+
+Review the [Struts security guidance](https://struts.apache.org/security/) and determine whether the finding is already covered by documented secure
+configuration or application guidance, including but not limited to:
+
+- Config Browser Plugin exposure,
+- direct JSP access,
+- `devMode` is required to exploit the vulnerability,
+- `@StrutsParameter` usage and parameter annotation requirements,
+- unsafe setters or getters exposed to request parameters,
+- use of incoming values in localization or forced OGNL evaluation,
+- raw JSP EL expressions,
+- custom error pages,
+- Dynamic Method Invocation and Strict Method Invocation,
+- accepted and excluded parameter patterns,
+- Fetch Metadata, COOP, and COEP protections,
+- OGNL sandboxing, allowlists, excluded classes/packages, and OGNL Guard settings.
+
+If the behavior is caused by an application ignoring documented security guidance, that is not an Apache Struts framework vulnerability.
+
+### 3. Check previously disclosed vulnerabilities
+
+Compare the finding against already disclosed Struts vulnerabilities — affected versions, impact ratings, mitigations, and fixed versions:
+
+- [Struts security information](https://struts.apache.org/security/)
+- [Prior releases and vulnerability notes](https://struts.apache.org/releases.html#prior-releases)
+- [Security Bulletins (S2 series)](https://cwiki.apache.org/confluence/display/WW/Security+Bulletins)
+
+If the finding overlaps with a known vulnerability, link to the existing bulletin, advisory, CVE, or release notes instead of drafting a new report.
+
+## Assessment
+
+Before drafting a report, confirm:
+
+1. Is the affected version supported?
+2. Is the behavior in Apache Struts framework code, rather than only in an application using Struts?
+3. Is it already documented as insecure configuration or unsupported usage?
+4. Is it a duplicate of a previously disclosed vulnerability or Security Bulletin?
+5. Can the impact be demonstrated with a minimal, self-contained reproduction?
+
+Only proceed with a private report when these answers still point to a likely new vulnerability in the framework.
+
+## Private Report Requirements
+
+A useful private report includes:
+
+- affected Struts version or version range,
+- affected component or module,
+- required application configuration, if any,
+- minimal reproduction steps,
+- expected behavior,
+- actual behavior,
+- demonstrated security impact,
+- whether authentication or special privileges are required,
+- proposed fix or mitigation, if known.
+
+Do not speculate beyond what can be demonstrated. If severity is uncertain, say so explicitly.
+
+## Report Quality Rules
+
+- One vulnerability per report.
+- Keep reproduction steps minimal and self-contained.
+- Do not include unrelated findings.
+- Do not publish exploit details or proof-of-concept code publicly before the Struts project has triaged the issue. **A fix, patch, or hardening change is a
+  public disclosure in the same way a PoC is** — see [Do not disclose through a pull request, commit, or issue](#do-not-disclose-through-a-pull-request-commit-or-issue).
+  **Pushing a PoC to a public GitHub repository, gist, fork, or branch counts as public disclosure** — even a "test" or throwaway repo. Private repositories
+  are acceptable for sharing a PoC, but access must be granted individually to each PMC member who will triage the report.
+- Do not send ordinary bugs, usage questions, or generic denial-of-service concerns to the private security list.
+- If the issue is not a vulnerability in Apache Struts source code, use the appropriate public support or issue channel instead.

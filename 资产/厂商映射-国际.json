@@ -1,0 +1,759 @@
+[
+ {
+  "vendor": "微软",
+  "src": "HackerOne（Microsoft Bounty）+ 自建MSRC",
+  "orgs": [
+   "microsoft",
+   "Azure",
+   "dotnet",
+   "aspnet",
+   "microsoftgraph",
+   "ms-iot",
+   "nuget"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "谷歌",
+  "src": "自建（Google VRP, bughunters.google.com）",
+  "orgs": [
+   "google",
+   "GoogleChrome",
+   "tensorflow",
+   "flutter",
+   "golang",
+   "dart-lang",
+   "angular",
+   "firebase"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Meta",
+  "src": "自建（Meta Bug Bounty）",
+  "orgs": [
+   "facebook",
+   "facebookresearch",
+   "facebookincubator",
+   "pytorch",
+   "Meta"
+  ],
+  "unverified": [],
+  "note": "Meta 组织已官方认证（blog=opensource.fb.com）"
+ },
+ {
+  "vendor": "亚马逊",
+  "src": "自建（Amazon Vulnerability Research Program）",
+  "orgs": [
+   "aws",
+   "awslabs",
+   "aws-samples",
+   "aws-amplify"
+  ],
+  "unverified": [],
+  "note": "候选 amazon 为同名个人账号，已排除"
+ },
+ {
+  "vendor": "苹果",
+  "src": "自建（Apple Security Bounty）",
+  "orgs": [
+   "apple",
+   "WebKit",
+   "swiftlang"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Netflix",
+  "src": "Bugcrowd（Netflix）",
+  "orgs": [
+   "netflix",
+   "Netflix-Skunkworks"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Adobe",
+  "src": "自建（Adobe Vulnerability Disclosure Program）",
+  "orgs": [
+   "adobe",
+   "adobe-fonts",
+   "adobe-research"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Oracle",
+  "src": "自建（Oracle Vulnerability Reporting Program）",
+  "orgs": [
+   "oracle",
+   "graalvm",
+   "mysql"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "IBM",
+  "src": "自建PSIRT（X-Force）",
+  "orgs": [
+   "IBM",
+   "IBM-Cloud",
+   "ibm-security"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Intel",
+  "src": "自建（Intel Bug Bounty）",
+  "orgs": [
+   "intel",
+   "oneapi-src",
+   "intel-iot-devkit"
+  ],
+  "unverified": [],
+  "note": "intel-llvm 页面 404（llvm 源码位于 intel 组织下），已排除"
+ },
+ {
+  "vendor": "AMD",
+  "src": "自建PSIRT（AMD Product Security）",
+  "orgs": [
+   "AMD",
+   "ROCm"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "NVIDIA",
+  "src": "HackerOne（NVIDIA）",
+  "orgs": [
+   "NVIDIA",
+   "NVIDIA-Merlin",
+   "NVIDIA-AI-IOT",
+   "NVIDIA-Omniverse"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "高通",
+  "src": "自建PSIRT（Qualcomm Product Security）",
+  "orgs": [
+   "quic",
+   "qualcomm"
+  ],
+  "unverified": [],
+  "note": "quic = Qualcomm Innovation Center"
+ },
+ {
+  "vendor": "ARM",
+  "src": "自建PSIRT（Arm Product Security Incident Response）",
+  "orgs": [
+   "ARM-software",
+   "ARMmbed",
+   "arm"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Salesforce",
+  "src": "HackerOne（Salesforce）",
+  "orgs": [
+   "Salesforce",
+   "forcedotcom"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "SAP",
+  "src": "自建（SAP Vulnerability Disclosure Program）",
+  "orgs": [
+   "SAP"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "思科",
+  "src": "HackerOne（Cisco）",
+  "orgs": [
+   "cisco",
+   "cisco-open"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "戴尔",
+  "src": "自建PSIRT（Dell）",
+  "orgs": [
+   "dell"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "HP/HPE",
+  "src": "自建PSIRT + ZDI（HP/HPE）",
+  "orgs": [
+   "HewlettPackard",
+   "hpe",
+   "HPInc"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "红帽",
+  "src": "自建（Red Hat Product Security）",
+  "orgs": [
+   "openshift",
+   "RedHatOfficial",
+   "ansible"
+  ],
+  "unverified": [],
+  "note": "redhat/red-hat 为同名个人账号，已排除"
+ },
+ {
+  "vendor": "VMware",
+  "src": "自建PSIRT（VMware，现属博通）",
+  "orgs": [
+   "vmware",
+   "vmware-tanzu",
+   "vmware-samples"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "博通",
+  "src": "自建PSIRT（Broadcom）",
+  "orgs": [
+   "Broadcom"
+  ],
+  "unverified": [],
+  "note": "Broadcom Inc 官方组织（194 仓库）"
+ },
+ {
+  "vendor": "三星",
+  "src": "自建（Samsung Mobile/TV VRP）",
+  "orgs": [
+   "Samsung",
+   "SamsungSDS",
+   "SamsungSmartTV"
+  ],
+  "unverified": [],
+  "note": "Samsung = Samsung Electronics 官方"
+ },
+ {
+  "vendor": "LG",
+  "src": "自建PSIRT（LG）",
+  "orgs": [
+   "webosose"
+  ],
+  "unverified": [],
+  "note": "LG 为同名个人账号已排除；webosose 为 LG webOS OSE 官方组织"
+ },
+ {
+  "vendor": "索尼",
+  "src": "自建PSIRT（Sony）",
+  "orgs": [
+   "sony",
+   "sonyxperiadev",
+   "PlayStation"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "松下",
+  "src": "自建PSIRT",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（panasonic 为同名个人账号）"
+ },
+ {
+  "vendor": "东芝",
+  "src": "自建PSIRT",
+  "orgs": [
+   "Toshiba"
+  ],
+  "unverified": [],
+  "note": "Toshiba Corporation 官方组织"
+ },
+ {
+  "vendor": "富士通",
+  "src": "自建PSIRT",
+  "orgs": [
+   "fujitsu"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "日立",
+  "src": "自建PSIRT",
+  "orgs": [
+   "hitachi",
+   "pentaho"
+  ],
+  "unverified": [],
+  "note": "pentaho 为日立 Vantara 旗下组织"
+ },
+ {
+  "vendor": "夏普",
+  "src": "自建PSIRT",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub"
+ },
+ {
+  "vendor": "诺基亚",
+  "src": "自建PSIRT",
+  "orgs": [
+   "nokia"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "爱立信",
+  "src": "自建PSIRT",
+  "orgs": [
+   "ericsson"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "西门子",
+  "src": "自建PSIRT（Siemens ProductCERT）",
+  "orgs": [
+   "siemens"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "博世",
+  "src": "自建PSIRT（Bosch）",
+  "orgs": [
+   "bosch",
+   "boschresearch",
+   "bosch-io"
+  ],
+  "unverified": [],
+  "note": "bosch = Robert Bosch GmbH 官方组织"
+ },
+ {
+  "vendor": "飞利浦",
+  "src": "自建PSIRT（Philips）",
+  "orgs": [
+   "philips",
+   "PhilipsHue"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "ABB",
+  "src": "自建PSIRT",
+  "orgs": [],
+  "unverified": [],
+  "note": "企业 SSO 受限（enterprises/abb-emu），匿名访问跳登录页，组织确实存在 无公开GitHub组织(github.com/ABB 为404)"
+ },
+ {
+  "vendor": "施耐德",
+  "src": "自建PSIRT",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（schneiderelectric 为同名个人账号）"
+ },
+ {
+  "vendor": "特斯拉",
+  "src": "Bugcrowd（Tesla）",
+  "orgs": [
+   "teslamotors"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "SpaceX",
+  "src": "自建",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（spacex 为同名个人账号）"
+ },
+ {
+  "vendor": "Rivian",
+  "src": "Bugcrowd（Rivian）",
+  "orgs": [
+   "rivian"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "丰田",
+  "src": "自建PSIRT",
+  "orgs": [
+   "toyota"
+  ],
+  "unverified": [],
+  "note": "TOYOTA MOTOR CORPORATION 官方组织"
+ },
+ {
+  "vendor": "本田",
+  "src": "自建PSIRT",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（honda 为同名个人账号）"
+ },
+ {
+  "vendor": "现代",
+  "src": "自建PSIRT",
+  "orgs": [],
+  "unverified": [],
+  "note": "无公开GitHub（hyundai 为同名个人账号）"
+ },
+ {
+  "vendor": "宝马",
+  "src": "自建（BMW Product Security）",
+  "orgs": [
+   "bmw"
+  ],
+  "unverified": [],
+  "note": "bmw-carit 页面 404，已排除"
+ },
+ {
+  "vendor": "奔驰/戴姆勒",
+  "src": "自建PSIRT（Mercedes-Benz Group）",
+  "orgs": [
+   "mercedes-benz"
+  ],
+  "unverified": [],
+  "note": "daimler 为同名个人账号已排除；mercedes-benz = Mercedes-Benz Group 官方"
+ },
+ {
+  "vendor": "大众",
+  "src": "自建PSIRT",
+  "orgs": [
+   "volkswagen"
+  ],
+  "unverified": [],
+  "note": "volkswagenag 为未认证空组织已排除"
+ },
+ {
+  "vendor": "空中客车",
+  "src": "自建（Airbus Vulnerability Disclosure）",
+  "orgs": [
+   "airbus"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "波音",
+  "src": "自建PSIRT",
+  "orgs": [
+   "boeing"
+  ],
+  "unverified": [],
+  "note": "Boeing 官方组织（38 仓库）"
+ },
+ {
+  "vendor": "Unity",
+  "src": "自建（Unity Security）",
+  "orgs": [
+   "Unity-Technologies"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "EpicGames",
+  "src": "自建（Epic Games Security）",
+  "orgs": [
+   "EpicGames"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Roblox",
+  "src": "自建（Roblox Bug Bounty）",
+  "orgs": [
+   "Roblox"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Discord",
+  "src": "自建（Discord Bug Bounty）",
+  "orgs": [
+   "discord"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Snap",
+  "src": "HackerOne（Snap）",
+  "orgs": [
+   "snapchat"
+  ],
+  "unverified": [],
+  "note": "Snap Inc 官方组织名为 snapchat"
+ },
+ {
+  "vendor": "Pinterest",
+  "src": "HackerOne（Pinterest）",
+  "orgs": [
+   "pinterest"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "LinkedIn",
+  "src": "自建PSIRT（LinkedIn）",
+  "orgs": [
+   "linkedin"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Slack",
+  "src": "自建（Slack VDP）",
+  "orgs": [
+   "slackhq",
+   "slackapi"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Zoom",
+  "src": "Bugcrowd（Zoom）",
+  "orgs": [
+   "zoom"
+  ],
+  "unverified": [],
+  "note": "Zoom Video Communications 官方组织"
+ },
+ {
+  "vendor": "Atlassian",
+  "src": "Bugcrowd（Atlassian）",
+  "orgs": [
+   "atlassian",
+   "atlassian-labs"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "JetBrains",
+  "src": "自建（JetBrains Bug Bounty）",
+  "orgs": [
+   "JetBrains"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "GitLab",
+  "src": "HackerOne（GitLab）",
+  "orgs": [
+   "gitlabhq",
+   "gitlab-org"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "GitHub",
+  "src": "HackerOne（GitHub Security Bug Bounty）",
+  "orgs": [
+   "github"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Docker",
+  "src": "HackerOne（Docker）",
+  "orgs": [
+   "docker",
+   "moby"
+  ],
+  "unverified": [],
+  "note": "moby 为 Docker 官方引擎项目组织"
+ },
+ {
+  "vendor": "HashiCorp",
+  "src": "自建（HashiCorp VDP）",
+  "orgs": [
+   "hashicorp"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Elastic",
+  "src": "自建（Elastic Security）",
+  "orgs": [
+   "elastic"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "MongoDB",
+  "src": "自建PSIRT（MongoDB）",
+  "orgs": [
+   "mongodb"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Redis",
+  "src": "自建PSIRT（Redis）",
+  "orgs": [
+   "redis",
+   "RedisLabs"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Cloudflare",
+  "src": "HackerOne（Cloudflare）",
+  "orgs": [
+   "cloudflare"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Fastly",
+  "src": "HackerOne（Fastly）",
+  "orgs": [
+   "fastly"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Akamai",
+  "src": "自建（Akamai VDP）",
+  "orgs": [
+   "akamai"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Datadog",
+  "src": "HackerOne（Datadog）",
+  "orgs": [
+   "DataDog"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Splunk",
+  "src": "自建（Splunk Security）",
+  "orgs": [
+   "splunk"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "New Relic",
+  "src": "自建（New Relic Security）",
+  "orgs": [
+   "newrelic"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Sentry",
+  "src": "自建（Sentry Security）",
+  "orgs": [
+   "getsentry"
+  ],
+  "unverified": [],
+  "note": "sentry 为同名个人账号，官方组织为 getsentry"
+ },
+ {
+  "vendor": "Grafana",
+  "src": "自建（Grafana Labs Security）",
+  "orgs": [
+   "grafana"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Canonical",
+  "src": "自建（Ubuntu/Canonical Security）",
+  "orgs": [
+   "canonical"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "SUSE",
+  "src": "自建PSIRT（SUSE）",
+  "orgs": [
+   "SUSE",
+   "rancher"
+  ],
+  "unverified": [],
+  "note": "rancher 现属 SUSE"
+ },
+ {
+  "vendor": "Mozilla",
+  "src": "自建（Mozilla Bug Bounty）",
+  "orgs": [
+   "mozilla"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "DuckDuckGo",
+  "src": "自建（DuckDuckGo VDP）",
+  "orgs": [
+   "duckduckgo"
+  ],
+  "unverified": [],
+  "note": ""
+ },
+ {
+  "vendor": "Brave",
+  "src": "HackerOne（Brave）",
+  "orgs": [
+   "brave"
+  ],
+  "unverified": [],
+  "note": ""
+ }
+]

@@ -1,0 +1,257 @@
+# Security Threat Model — Apache Axis2/C
+
+## Project Description
+
+Apache Axis2/C is a SOAP and REST web services engine implemented in C.
+It provides HTTP/1.1 and HTTP/2 transports, dual XML parsers (Guththila
+and libxml2), native JSON processing (via json-c), MTOM/XOP attachment
+handling, and hot-deployment of services. It runs as a standalone HTTP
+server or as an Apache httpd module (`mod_axis2`).
+
+Being a C implementation, memory safety vulnerabilities (buffer overflows,
+use-after-free, format strings, integer overflows) are in scope in
+addition to the logical vulnerabilities shared with Axis2/Java.
+
+For detailed deployment hardening guidance, see
+[docs/SECURITY.md](docs/SECURITY.md).
+
+## Roles and Trust Levels
+
+| Role | Trust Level | Description |
+|------|-------------|-------------|
+| **Server Administrator** | Fully trusted | Configures `axis2.xml`, compiles with chosen parser/transport options, manages TLS certificates, deploys services. |
+| **Service Deployer** | Trusted | Deploys shared libraries (`.so`/`.dll`) into the services directory. Has filesystem write access. |
+| **Authenticated Client** | Partially trusted | Identity verified by transport (TLS client cert), WS-Security (via Rampart/C), or application-level auth. |
+| **Anonymous Client** | Untrusted | Remote caller with no credentials. Can reach any HTTP endpoint. All input is hostile. |
+
+## Security Boundaries
+
+### What IS a security issue
+
+- **Remote Code Execution (RCE)** — buffer overflow, format string, or
+  other memory corruption exploitable by a remote attacker through the
+  Axis2/C framework.
+- **Memory safety violations** — heap/stack buffer overflows,
+  use-after-free, double-free, or null pointer dereferences reachable
+  from untrusted input.
+- **XML External Entity (XXE) injection** — the XML parser resolves
+  external entities from untrusted input, enabling file read or SSRF.
+  (Guththila is inherently immune; libxml2 requires hardening.)
+- **Server-Side Request Forgery (SSRF)** — the server makes requests to
+  arbitrary hosts due to attacker-controlled URLs in WSDL imports,
+  external entities, or client-side HTTP transport.
+- **Denial of Service via parser abuse** — XML bombs, deeply nested
+  JSON (>64 levels), or payloads exceeding size limits (>10MB) that
+  crash the process or exhaust memory.
+- **Integer overflow** — size calculations in buffer allocation or
+  payload processing that wrap around, leading to undersized buffers
+  and subsequent overflows.
+- **Format string vulnerabilities** — user-controlled data passed as
+  the format argument to `printf`-family functions or logging macros.
+- **Information disclosure** — stack traces, internal paths, or
+  configuration details leaked in SOAP faults or HTTP error responses.
+- **TLS/SSL vulnerabilities** — acceptance of deprecated protocols
+  (SSLv2, SSLv3, TLS 1.0/1.1) or weak cipher suites in the HTTP
+  client transport.
+
+### What is NOT a security issue
+
+- **Vulnerabilities in user-written services.** Input validation,
+  SQL injection, and business logic flaws in deployed service
+  implementations are the service author's responsibility.
+- **Missing authentication.** Axis2/C does not ship built-in
+  authentication. Securing endpoints is the responsibility of
+  Rampart/C, the web server (Apache httpd), or a reverse proxy.
+- **Hot-deployment with weak filesystem permissions.** If an attacker
+  can write to the services directory, they can deploy arbitrary shared
+  libraries. This is an OS-level access control issue.
+- **Denial of service at the network level.** SYN floods, slowloris,
+  and connection exhaustion are mitigated by Apache httpd or the
+  network infrastructure, not by Axis2/C.
+- **Vulnerabilities in optional, external modules.** Rampart/C
+  (WS-Security) is a separate project.
+- **The standalone HTTP server in production.** It is intended for
+  development/testing. Production deployments should use `mod_axis2`
+  behind a reverse proxy.
+
+## Architecture and Attack Surface
+
+### Message Processing Pipeline
+
+```
+Remote Client (untrusted input)
+    |
+    v
+Apache httpd (TLS, connection limits, WAF)
+  or standalone axis2_http_server (dev only)
+    |
+    v
+mod_axis2 / HTTP request processor
+    |
+    v
+Content-Type routing:
+  JSON → json-c parser (HTTP/2) or JSON→AXIOM reader (HTTP/1.1)
+  XML  → Guththila (default) or libxml2
+    |
+    v
+AXIOM object model
+    |
+    v
+Dispatchers → route to service/operation
+    |
+    v
+Handler phases (Rampart/C security module executes here)
+    |
+    v
+Message Receiver → invoke service function
+    |
+    v
+Response serialization → transport out
+```
+
+### Attack Surface by Component
+
+| Component | Threats | Mitigations |
+|-----------|---------|-------------|
+| **Guththila XML parser** | Malformed XML causing crashes; deep nesting stack exhaustion | Inherently XXE-safe (no entity processing); fuzz-tested via OSS-Fuzz |
+| **libxml2 parser** (optional) | XXE, SSRF, billion laughs, entity expansion | `XML_PARSE_NONET`; custom entity loader blocks all external resolution; depth limit (256); attribute limit (256); namespace limit (64) |
+| **HTTP header parsing** | Header injection (CRLF); malformed header parsing | `sprintf()` in `http_header.c` writes to a heap buffer sized from measured input lengths; fuzz-tested via OSS-Fuzz |
+| **JSON parser** (json-c, HTTP/2) | Deep nesting stack exhaustion; integer overflow (CVE-2020-12762 pattern); large payload DoS | Depth limit (64 levels); payload size limit (10MB); fuzz-tested |
+| **JSON-to-AXIOM reader** (HTTP/1.1) | Deep nesting; memory exhaustion during conversion | Fuzz-tested (`fuzz_json_reader`); size limits inherited from transport |
+| **HTTP request/status line parsing** | Oversized lines; malformed methods/URIs | Status line limit (512 bytes); request line parsed by delimiter |
+| **MTOM/XOP attachments** | Large attachment DoS; temp file exhaustion | Chunked transfer max (100MB default) |
+| **WSDL/XSD parsing** | XXE in imported schemas; recursive schema DoS | Uses chosen XML parser with its hardening for XXE. **No explicit limits on schema complexity or recursion depth during validation — potential DoS risk.** |
+| **HTTP client transport** (outbound) | TLS downgrade; weak ciphers; hostname bypass | TLS 1.2+ enforced; SSLv2/SSLv3/TLS 1.0-1.1 disabled; AEAD ciphers only; hostname validation enabled |
+| **mod_axis2** (Apache httpd) | Shared memory corruption; configuration injection | apr_pool allocation; apr_global_mutex for thread safety |
+
+### Transports
+
+| Transport | Security Notes |
+|-----------|----------------|
+| HTTP/HTTPS (mod_axis2) | Production transport. TLS handled by Apache httpd. Recommended behind reverse proxy. |
+| HTTP/HTTPS (standalone) | Development only. Single-threaded. No production-grade connection limits. |
+| HTTP/2 (nghttp2) | Stream multiplexing. CVE-2023-44487 (rapid reset) mitigated by nghttp2 version. |
+
+## Memory Safety Profile
+
+As a C codebase, memory safety is a primary concern:
+
+This table carried a per-category risk rating until it was checked against an
+external review. Every rating said Low and none of them survived. A rating is
+not a property of the code — nobody can test it, and it decays silently as the
+code moves underneath it. What the review did engage with was the second
+column, because a claim that names a mechanism can be shown false. So the
+ratings are gone and the mechanisms stay, each with the ground it does not
+cover. Add a row here only if you can say both halves.
+
+| Category | What holds it | What it does not cover |
+|----------|---------------|------------------------|
+| **Buffer overflow** | Heap allocations for formatted output are sized from the value being formatted; `snprintf()` elsewhere | Fixed-size stack buffers remain on the fault and header-formatting paths. Each is bounded at its own site; no general rule covers them |
+| **Use-after-free** | Allocator-based memory management (`axutil_allocator_t`); `--enable-asan` builds detect it | ASan is not run in CI. The gtest suite, which is what exercises the SOAP paths, is only built when `--with-gtest` is given, so a default `make check` does not reach them |
+| **Format string** | `-Wformat-security` is in `CFLAGS` by default and the tree compiles clean under it | Nothing, on this axis — it is a compiler-enforced property rather than the outcome of a review, so it holds for code written after this was documented |
+| **Integer overflow** | Length arithmetic on the parser paths compares operands before subtracting, rather than subtracting and testing the result | `axis2_ssize_t` is signed, but a `size_t` or unsigned operand on the other side of a comparison still converts a `-1` error return to a large positive value and hides it (see below) |
+| **Null dereference** | Untrusted input is null-checked on the paths that parse it | `env` is **not** systematically validated: `AXIS2_ENV_CHECK` expands to nothing (see below), so the ~620 entry points that appear to use it do not check. `env` is supplied by the framework rather than by a caller across the trust boundary, so a NULL one is a programming error and not remotely reachable |
+
+#### `axis2_ssize_t` and testing the sign
+
+`axis2_ssize_t` is `typedef int`. It was `unsigned int`, which meant the `-1`
+that `axutil_strlen` and `axutil_string_get_length` document for failure
+arrived as `UINT_MAX`, and every `< 0` test written against one was
+unreachable — the checks compiled and could never fire.
+
+Making it signed is not enough on its own, and this is the part worth
+remembering: an unsigned *other operand* re-hides the error return. Comparing a
+length against `sizeof(...)`, a `size_t`, or an unsigned constant converts the
+signed value to a large positive one, so `-1` reads as "long enough" and the
+guard passes. Compare against a plain signed constant, or test for the error
+value explicitly.
+
+`-Wsign-compare` is in `CFLAGS` for exactly this, and the tree compiles clean
+under it. Note it is part of `-Wextra` rather than `-Wall` for C, so it is off
+by default and had to be asked for. It cannot see every case — a length
+assigned into a `size_t` variable before being compared converts silently, with
+nothing left for the compiler to warn about — so a length that can be `-1`
+should be tested while it is still signed.
+
+#### `AXIS2_ENV_CHECK` is a no-op
+
+`AXIS2_ENV_CHECK(env, return_value)` is defined empty in
+`util/include/axutil_env.h`. It reads like a guard and sits at the top of
+several hundred functions, but it compiles to nothing, so none of those
+functions reject a NULL `env`.
+
+It cannot simply be switched back on: 24 call sites pass `void` as the return
+value, which would expand to `return void;` and fail to compile. Enabling it
+would mean giving those sites a void-specific form and accepting an early
+return at roughly 620 entry points.
+
+Treat it as documentation of intent, not as a check. Where a NULL `env` needs
+handling, write the check explicitly — `axutil_strdup` does, because a test
+asserts it.
+
+### Build-Time Hardening
+
+Production builds should use:
+```
+CFLAGS="-fstack-protector-strong -D_FORTIFY_SOURCE=2 -fPIE -Wformat -Wformat-security"
+LDFLAGS="-pie -Wl,-z,relro,-z,now"
+```
+
+AddressSanitizer is available for development via `--enable-asan`.
+
+## Security Hardening History
+
+### Features Removed (AXIS2C-1708, January 2026)
+
+| Feature | Reason for Removal |
+|---------|-------------------|
+| NTLM authentication | Pass-the-hash vulnerabilities; Microsoft deprecating |
+| TCP transport | No encryption, no authentication, incompatible with HTTP infrastructure |
+| CGI transport | Obsolete deployment model |
+| libcurl HTTP backend | Redundant with native client; MTOM broken; HTTP/2 uses nghttp2 |
+
+### Hardening Applied (January-February 2026)
+
+- TLS 1.0/1.1 completely disabled in client transport
+- Strong cipher suites enforced (AEAD + forward secrecy)
+- JSON payload size limits (10MB) and depth limits (64 levels) added
+- libxml2 entity loader override blocks all external entity resolution
+- OSS-Fuzz integration with 5 fuzz targets (XML, JSON x2, HTTP headers, URLs)
+- Integer overflow and size_t consistency fixes from Gemini code review
+
+## Fuzz Testing and OSS-Fuzz
+
+Axis2/C has an active OSS-Fuzz integration with 5 fuzz targets:
+
+| Target | Coverage |
+|--------|----------|
+| `fuzz_xml_parser` | Guththila AXIOM parsing |
+| `fuzz_json_parser` | json-c direct parsing (HTTP/2 path) |
+| `fuzz_json_reader` | JSON-to-AXIOM conversion (HTTP/1.1 path) |
+| `fuzz_http_header` | HTTP header parsing |
+| `fuzz_url_parser` | URL parsing and SSRF detection |
+
+| `fuzz_finbench` | FinancialBenchmarkService sample: `portfolioVariance`, `composeCovariance`, `covarianceFromReturns`, `monteCarlo` request → compute → response, with its own seed corpus and key dictionary |
+
+Local fuzzing validated with 8M+ iterations and zero ASAN errors.
+See [docs/OSS-FUZZ.md](docs/OSS-FUZZ.md) for details.
+
+## Dependency Security
+
+| Dependency | Minimum Version | Key CVEs Tracked |
+|-----------|----------------|------------------|
+| OpenSSL | 3.5.9+ (3.5 LTS) | June and September 2026 batches; 1.1.1 and 3.0 are EOL |
+| libxml2 | 2.15.4+ | CVE-2026-86140, CVE-2026-11979, CVE-2024-25062 |
+| json-c | 0.18+ | CVE-2020-12762 (integer overflow) |
+| nghttp2 | 1.61.0+ | CVE-2024-28182, CVE-2023-44487 (HTTP/2 rapid reset) |
+| Apache httpd | 2.4.68+ | CVE-2026-23918, CVE-2026-48913, CVE-2026-49975 |
+
+Full table with fixed-in versions: [docs/SECURITY.md](docs/SECURITY.md#minimum-secure-versions).
+
+Monthly CVE checks run via GitHub Actions (`.github/workflows/cve-check.yml`).
+
+## Reporting Security Issues
+
+Report vulnerabilities to: **security@apache.org**
+
+Follow the [Apache Security Policy](https://www.apache.org/security/).

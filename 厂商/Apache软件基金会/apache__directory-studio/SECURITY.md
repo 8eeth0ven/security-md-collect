@@ -1,0 +1,27 @@
+<!--
+SPDX-License-Identifier: Apache-2.0
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+# Security Policy
+
+## Reporting a Vulnerability
+
+Apache Directory follows the [ASF security process](https://www.apache.org/security/). Report privately to
+`security@apache.org` (PMC: `private@directory.apache.org`); do not open public issues/PRs for security reports.
+
+## Threat Model
+
+`apache/directory-studio` is the Eclipse-based LDAP client tool (desktop) within the Apache Directory project. Its security context is covered by the Apache
+Directory umbrella threat model (client-tooling note): https://github.com/apache/directory-server/blob/master/THREAT_MODEL.md

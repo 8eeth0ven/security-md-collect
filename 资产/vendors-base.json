@@ -1,0 +1,44 @@
+[
+  {
+    "vendor": "Apache软件基金会",
+    "src": "无(开源基金会)",
+    "orgs": ["apache"],
+    "unverified": [],
+    "note": "加分扇面：全球最大开源基金会，SECURITY.md 覆盖率高"
+  },
+  {
+    "vendor": "CNCF云原生基金会",
+    "src": "无(开源基金会)",
+    "orgs": ["kubernetes", "prometheus", "etcd-io", "grpc", "containerd", "cilium", "istio", "envoyproxy", "argoproj"],
+    "unverified": [],
+    "note": "加分扇面：云原生大厂御用基础设施"
+  },
+  {
+    "vendor": "深度求索DeepSeek",
+    "src": "无",
+    "orgs": ["deepseek-ai"],
+    "unverified": [],
+    "note": "国产大模型头部"
+  },
+  {
+    "vendor": "智谱AI",
+    "src": "无",
+    "orgs": ["THUDM", "zai-org"],
+    "unverified": [],
+    "note": "GLM 系列，THUDM 为清华系主组织"
+  },
+  {
+    "vendor": "月之暗面",
+    "src": "无",
+    "orgs": ["MoonshotAI"],
+    "unverified": [],
+    "note": "Kimi"
+  },
+  {
+    "vendor": "面壁智能",
+    "src": "无",
+    "orgs": ["OpenBMB"],
+    "unverified": [],
+    "note": "MiniCPM"
+  }
+]

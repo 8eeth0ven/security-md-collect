@@ -1,0 +1,12 @@
+{
+  "proxy": "http://127.0.0.1:7897",
+  "port": 8899,
+  "threads_probe": 12,
+  "threads_download": 12,
+  "threads_listing": 4,
+  "run_budget_sec": 1500,
+  "org_resweep_hours": 6,
+  "html_sleep_sec": 0.4,
+  "page_cap_profile": 700,
+  "page_cap_org": 260
+}

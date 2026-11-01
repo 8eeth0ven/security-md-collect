@@ -1,0 +1,576 @@
+[
+  {
+    "vendor": "Tesla",
+    "src": "Bugcrowd",
+    "orgs": ["teslamotors"],
+    "unverified": ["tesla"],
+    "note": "赏金现托管 Bugcrowd（曾用 HackerOne）；开源主组织 teslamotors；github.com/tesla 同名组织身份未确认"
+  },
+  {
+    "vendor": "Coinbase",
+    "src": "HackerOne",
+    "orgs": ["coinbase", "base-org"],
+    "unverified": [],
+    "note": "H1 与 Bugcrowd 均有公开项目；base-org 为其 L2 链 Base"
+  },
+  {
+    "vendor": "Uber",
+    "src": "HackerOne",
+    "orgs": ["uber"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Airbnb",
+    "src": "HackerOne",
+    "orgs": ["airbnb"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Twitter/X",
+    "src": "HackerOne",
+    "orgs": ["twitter"],
+    "unverified": [],
+    "note": "组织仍为 twitter（页面显示 X (fka Twitter)）；github.com/x 为无关用户页"
+  },
+  {
+    "vendor": "Snap (Snapchat)",
+    "src": "HackerOne",
+    "orgs": ["snapchat"],
+    "unverified": [],
+    "note": "页面显示名 Snap Inc."
+  },
+  {
+    "vendor": "Pinterest",
+    "src": "HackerOne",
+    "orgs": ["pinterest"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Shopify",
+    "src": "HackerOne",
+    "orgs": ["shopify"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "GitHub",
+    "src": "HackerOne",
+    "orgs": ["github"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "GitLab",
+    "src": "HackerOne",
+    "orgs": ["gitlab-org", "gitlabhq"],
+    "unverified": [],
+    "note": "gitlab-org 为主组织，gitlabhq 为历史组织"
+  },
+  {
+    "vendor": "Goldman Sachs",
+    "src": "HackerOne",
+    "orgs": ["goldmansachs"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "JPMorgan Chase",
+    "src": "HackerOne",
+    "orgs": ["jpmorganchase"],
+    "unverified": ["jpmorgan-chase"],
+    "note": "官方组织为 jpmorganchase（品牌 JPMorganChase）；github.com/jpmorgan 与 github.com/jpmorgan-chase 均为同名非官方页"
+  },
+  {
+    "vendor": "American Express",
+    "src": "HackerOne",
+    "orgs": ["americanexpress"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Citi",
+    "src": "HackerOne",
+    "orgs": ["citi"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Capital One",
+    "src": "HackerOne",
+    "orgs": ["capitalone"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Robinhood",
+    "src": "HackerOne",
+    "orgs": ["robinhood", "robinhoodmarkets"],
+    "unverified": [],
+    "note": "两个组织页面显示名均为 Robinhood/Robinhood Markets"
+  },
+  {
+    "vendor": "Revolut",
+    "src": "HackerOne",
+    "orgs": ["revolut", "revolut-engineering"],
+    "unverified": [],
+    "note": "revolut-code 404 已弃"
+  },
+  {
+    "vendor": "Wise (TransferWise)",
+    "src": "HackerOne",
+    "orgs": ["transferwise"],
+    "unverified": [],
+    "note": "GitHub 登录名仍为 transferwise（页面显示 Wise）；github.com/wise 为无关用户页"
+  },
+  {
+    "vendor": "Kraken",
+    "src": "自建BB",
+    "orgs": ["krakenfx"],
+    "unverified": ["kraken"],
+    "note": "官方组织 krakenfx（自建赏金，任务清单曾标注 H1）；github.com/kraken 同名组织身份未确认"
+  },
+  {
+    "vendor": "Gemini",
+    "src": "HackerOne",
+    "orgs": ["gemini"],
+    "unverified": [],
+    "note": "组织显示名 Gemini，按加密交易所 Gemini 采信"
+  },
+  {
+    "vendor": "Blockchain.com",
+    "src": "HackerOne",
+    "orgs": ["blockchain"],
+    "unverified": [],
+    "note": "页面显示 Blockchain.com / Blockchain.info"
+  },
+  {
+    "vendor": "Circle",
+    "src": "HackerOne",
+    "orgs": ["circlefin"],
+    "unverified": ["circle"],
+    "note": "官方组织 circlefin（Circle Internet Financial）；github.com/circle 同名组织未采用"
+  },
+  {
+    "vendor": "OKX",
+    "src": "HackerOne",
+    "orgs": ["okx", "okex"],
+    "unverified": [],
+    "note": "okex 为 OKEx 旧名组织"
+  },
+  {
+    "vendor": "Bybit",
+    "src": "HackerOne",
+    "orgs": ["bybit-exchange"],
+    "unverified": [],
+    "note": "github.com/bybit 为无关用户页，官方组织 bybit-exchange"
+  },
+  {
+    "vendor": "USAA",
+    "src": "HackerOne",
+    "orgs": ["usaa"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "PayPal",
+    "src": "自建BB",
+    "orgs": ["paypal"],
+    "unverified": [],
+    "note": "自建赏金为主"
+  },
+  {
+    "vendor": "DigitalOcean",
+    "src": "HackerOne",
+    "orgs": ["digitalocean"],
+    "unverified": [],
+    "note": "自行补充的 H1 长期公开厂商"
+  },
+  {
+    "vendor": "Canva",
+    "src": "Bugcrowd",
+    "orgs": ["canva"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Atlassian",
+    "src": "Bugcrowd",
+    "orgs": ["atlassian"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Palo Alto Networks",
+    "src": "Bugcrowd",
+    "orgs": ["paloaltonetworks"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "NETGEAR",
+    "src": "Bugcrowd",
+    "orgs": ["netgear"],
+    "unverified": [],
+    "note": "组织显示名 NETGEAR CTO ORG"
+  },
+  {
+    "vendor": "Okta",
+    "src": "Bugcrowd",
+    "orgs": ["okta"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Zscaler",
+    "src": "Bugcrowd",
+    "orgs": ["zscaler"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "CyberArk",
+    "src": "Bugcrowd",
+    "orgs": ["cyberark"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "F5",
+    "src": "Bugcrowd",
+    "orgs": ["F5Networks"],
+    "unverified": [],
+    "note": "组织登录名 F5Networks"
+  },
+  {
+    "vendor": "Dropbox",
+    "src": "自建BB",
+    "orgs": ["dropbox"],
+    "unverified": [],
+    "note": "自建赏金（任务清单曾标注 Bugcrowd 待核）"
+  },
+  {
+    "vendor": "Stripe",
+    "src": "自建BB",
+    "orgs": ["stripe"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Block (Square/Cash App)",
+    "src": "自建BB",
+    "orgs": ["block", "square", "cashapp"],
+    "unverified": [],
+    "note": "block 组织显示 Block Open Source，square 与 cashapp 为旗下产品组织"
+  },
+  {
+    "vendor": "Klarna",
+    "src": "自建BB",
+    "orgs": ["klarna"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Adyen",
+    "src": "自建BB",
+    "orgs": ["adyen"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Visa",
+    "src": "自建BB",
+    "orgs": ["visa"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Mastercard",
+    "src": "自建BB",
+    "orgs": ["mastercard"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Morgan Stanley",
+    "src": "自建BB",
+    "orgs": ["morganstanley"],
+    "unverified": [],
+    "note": "赏金平台未确认，GitHub 组织已验证"
+  },
+  {
+    "vendor": "BlackRock",
+    "src": "自建BB",
+    "orgs": ["blackrock"],
+    "unverified": [],
+    "note": "赏金平台未确认，GitHub 组织已验证"
+  },
+  {
+    "vendor": "Lyft",
+    "src": "自建BB",
+    "orgs": ["lyft"],
+    "unverified": [],
+    "note": "赏金平台未确认（早年曾见 HackerOne 公开项目）"
+  },
+  {
+    "vendor": "DoorDash",
+    "src": "自建BB",
+    "orgs": ["doordash"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Instacart",
+    "src": "自建BB",
+    "orgs": ["instacart"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Grubhub",
+    "src": "自建BB",
+    "orgs": ["grubhub"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Deliveroo",
+    "src": "自建BB",
+    "orgs": ["deliveroo"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Bolt",
+    "src": "自建BB",
+    "orgs": [],
+    "unverified": ["bolt"],
+    "note": "github.com/bolt 为同名组织但无法确认归属（出行 Bolt 或支付 Bolt），orgs 留空"
+  },
+  {
+    "vendor": "Grab",
+    "src": "自建BB",
+    "orgs": ["grab"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Gojek",
+    "src": "自建BB",
+    "orgs": ["gojek"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Shopee",
+    "src": "自建BB",
+    "orgs": ["shopee"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Lazada",
+    "src": "自建BB",
+    "orgs": ["lazada"],
+    "unverified": [],
+    "note": "组织显示名 Lazada Tech Hub"
+  },
+  {
+    "vendor": "Walmart",
+    "src": "自建BB",
+    "orgs": ["walmart", "walmartlabs"],
+    "unverified": [],
+    "note": "walmartlabs 组织现显示 Walmart Global Tech，两个组织均有效"
+  },
+  {
+    "vendor": "Target",
+    "src": "自建BB",
+    "orgs": ["target"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Starbucks",
+    "src": "自建BB",
+    "orgs": ["starbucks"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Nike",
+    "src": "自建BB",
+    "orgs": ["NikeInc"],
+    "unverified": [],
+    "note": "官方组织为 NikeInc；github.com/nike 为无关用户页"
+  },
+  {
+    "vendor": "Adidas",
+    "src": "自建BB",
+    "orgs": ["adidas"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Comcast",
+    "src": "自建BB",
+    "orgs": ["comcast"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Disney",
+    "src": "自建BB",
+    "orgs": ["disney"],
+    "unverified": [],
+    "note": "组织显示名 The Walt Disney Company"
+  },
+  {
+    "vendor": "Deutsche Telekom",
+    "src": "自建BB",
+    "orgs": ["telekom"],
+    "unverified": [],
+    "note": "组织显示名 Telekom Open Source Software"
+  },
+  {
+    "vendor": "Vodafone",
+    "src": "自建BB",
+    "orgs": ["vodafone"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Verizon",
+    "src": "自建BB",
+    "orgs": ["verizon"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "AT&T",
+    "src": "自建BB",
+    "orgs": ["att"],
+    "unverified": [],
+    "note": "组织显示名 AT&T Open Source"
+  },
+  {
+    "vendor": "T-Mobile",
+    "src": "自建BB",
+    "orgs": ["tmobile"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Telstra",
+    "src": "自建BB",
+    "orgs": ["telstra"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Rogers",
+    "src": "无",
+    "orgs": [],
+    "unverified": ["rogers"],
+    "note": "github.com/rogers 为同名组织但身份未确认（非明确 Rogers 通信官方），未见公开赏金计划"
+  },
+  {
+    "vendor": "CrowdStrike",
+    "src": "自建BB",
+    "orgs": ["crowdstrike"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Fortinet",
+    "src": "自建BB",
+    "orgs": ["fortinet"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Juniper Networks",
+    "src": "自建BB",
+    "orgs": ["Juniper"],
+    "unverified": [],
+    "note": "组织登录名 Juniper"
+  },
+  {
+    "vendor": "Trend Micro",
+    "src": "自建BB",
+    "orgs": ["trendmicro"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Kaspersky",
+    "src": "自建BB",
+    "orgs": ["kasperskylab"],
+    "unverified": [],
+    "note": "组织显示名 Kaspersky Lab"
+  },
+  {
+    "vendor": "Bitdefender",
+    "src": "自建BB",
+    "orgs": ["bitdefender"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Avast",
+    "src": "自建BB",
+    "orgs": ["avast"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Check Point",
+    "src": "自建BB",
+    "orgs": ["CheckPointSW"],
+    "unverified": [],
+    "note": "官方组织 CheckPointSW；github.com/checkpoint 为无关用户页"
+  },
+  {
+    "vendor": "Binance",
+    "src": "自建BB",
+    "orgs": ["binance"],
+    "unverified": [],
+    "note": ""
+  },
+  {
+    "vendor": "Nubank",
+    "src": "自建BB",
+    "orgs": ["nubank"],
+    "unverified": [],
+    "note": "拉美最大数字银行，自行补充"
+  },
+  {
+    "vendor": "Mercado Libre",
+    "src": "自建BB",
+    "orgs": ["mercadolibre"],
+    "unverified": [],
+    "note": "拉美最大电商，自行补充"
+  },
+  {
+    "vendor": "Zalando",
+    "src": "自建BB",
+    "orgs": ["zalando"],
+    "unverified": [],
+    "note": "欧洲头部电商（自建赏金确认），自行补充"
+  },
+  {
+    "vendor": "Spotify",
+    "src": "自建BB",
+    "orgs": ["spotify"],
+    "unverified": [],
+    "note": "自建赏金确认，自行补充"
+  },
+  {
+    "vendor": "Netflix",
+    "src": "自建BB",
+    "orgs": ["netflix"],
+    "unverified": [],
+    "note": "自建赏金确认，自行补充"
+  }
+]

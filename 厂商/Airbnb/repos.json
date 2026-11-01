@@ -1,0 +1,90 @@
+[
+ {
+  "vendor": "Airbnb",
+  "org": "airbnb",
+  "full_name": "airbnb/viaduct",
+  "url": "https://github.com/airbnb/viaduct",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Viaduct is a GraphQL-based system that provides a unified interface for accessing and interacting with any data source.",
+  "first_seen": "2026-11-01 17:47:46"
+ },
+ {
+  "vendor": "Airbnb",
+  "org": "airbnb",
+  "full_name": "airbnb/istio",
+  "url": "https://github.com/airbnb/istio",
+  "sec_path": ".github/SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Connect, secure, control, and observe services.",
+  "first_seen": "2026-11-01 17:47:46"
+ },
+ {
+  "vendor": "Airbnb",
+  "org": "airbnb",
+  "full_name": "airbnb/copybara-action",
+  "url": "https://github.com/airbnb/copybara-action",
+  "sec_path": "docs/SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Transform and move code between repositories. Start with ZERO config and 100% customizable.",
+  "first_seen": "2026-11-01 17:47:46"
+ },
+ {
+  "vendor": "Airbnb",
+  "org": "airbnb",
+  "full_name": "airbnb/.github",
+  "url": "https://github.com/airbnb/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": ".github files that are inherited by all org repos unless specifically included in a repo",
+  "first_seen": "2026-11-01 17:47:46"
+ },
+ {
+  "vendor": "Airbnb",
+  "org": "airbnb",
+  "full_name": "airbnb/cortex",
+  "url": "https://github.com/airbnb/cortex",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+  "first_seen": "2026-11-01 17:47:46"
+ },
+ {
+  "vendor": "Airbnb",
+  "org": "airbnb",
+  "full_name": "airbnb/prometheus",
+  "url": "https://github.com/airbnb/prometheus",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "The Prometheus monitoring system and time series database.",
+  "first_seen": "2026-11-01 17:47:46"
+ },
+ {
+  "vendor": "Airbnb",
+  "org": "airbnb",
+  "full_name": "airbnb/coredns",
+  "url": "https://github.com/airbnb/coredns",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "CoreDNS is a DNS server that chains plugins",
+  "first_seen": "2026-11-01 17:47:46"
+ },
+ {
+  "vendor": "Airbnb",
+  "org": "airbnb",
+  "full_name": "airbnb/etcd",
+  "url": "https://github.com/airbnb/etcd",
+  "sec_path": ".github/SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "first_seen": "2026-11-01 17:47:46"
+ }
+]
