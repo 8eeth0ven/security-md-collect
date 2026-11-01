@@ -372,16 +372,15 @@ def _norm_org_react(d, fallback_owner):
     elif isinstance(ow, str):
         owner = ow
     owner = owner or d.get("ownerLogin") or fallback_owner
-    lang = d.get("language")
-    if isinstance(lang, dict):
-        lang = lang.get("name")
-    stars = d.get("stargazerCount", d.get("stargazers_count"))
+    pl = d.get("primaryLanguage")
+    lang = (pl.get("name") if isinstance(pl, dict) else None) or d.get("language")
+    stars = d.get("starsCount", d.get("stargazerCount", d.get("stargazers_count")))
     try:
         stars = int(stars) if stars is not None else None
     except Exception:
         stars = None
     return {"full": "%s/%s" % (owner, name), "stars": stars, "language": lang,
-            "description": d.get("description")}
+            "description": d.get("description"), "license": d.get("license")}
 
 
 def list_profile(name):
@@ -503,7 +502,8 @@ def probe_and_record(state, org, vendor, names_meta, deadline):
                             "vendor": vendor, "org": org, "full_name": full,
                             "url": "https://github.com/%s" % full, "sec_path": path,
                             "stars": meta.get("stars"), "language": meta.get("language"),
-                            "description": meta.get("description"), "first_seen": nows,
+                            "description": meta.get("description"), "license": meta.get("license"),
+                            "first_seen": nows,
                         }
                         found += 1
                     elif path is None:
@@ -554,6 +554,14 @@ def sweep_html(state, org2vendor, deadline, force):
                 ent.update({"last_swept": time.time(), "repo_count": len(items), "kind": kind,
                             "fail_count": 0})
                 names_meta = items
+                # 元数据回填：已收录仓库补/更新星数、语言、描述、license
+                for full, meta in items.items():
+                    rec = state["repos_data"].get(full)
+                    if rec is not None and meta:
+                        for k in ("stars", "language", "description", "license"):
+                            v = meta.get(k)
+                            if v and rec.get(k) != v:
+                                rec[k] = v
                 log("[列表] %s(%s) via %s：%d 个仓库" % (org, vendor, kind, len(items)))
             probe_and_record(state, org, vendor, names_meta, deadline)
             ent["pending"] = [f for f in names_meta if f not in state["repos_checked"]]
@@ -674,7 +682,7 @@ def write_outputs(state, mode):
             "- GitHub 组织：%s" % ("、".join(v["orgs"]) or "（无）"),
             "- 更新时间：%s" % now,
             "",
-            "| 仓库 | 星数 | 语言 | SECURITY.md | 项目链接 |",
+            "| 仓库（GitHub 项目页） | 星数 | 语言 | SECURITY.md（本地文本） | 项目链接 |",
             "|---|---:|---|---|---|",
         ]
         for r in repos:
@@ -761,7 +769,7 @@ tr:hover td{background:#161b22}
 </div>
 %(failed_note)s
 <input id=q placeholder="搜索：厂商 / 仓库 / 语言 …（本表共 REPOCOUNT 条）">
-<table id=t><thead><tr><th>厂商</th><th>仓库</th><th>星</th><th>语言</th><th>SECURITY.md本地</th><th>GitHub</th></tr></thead><tbody id=b></tbody></table>
+<table id=t><thead><tr><th>厂商</th><th>仓库（GitHub 项目页）</th><th>星</th><th>语言</th><th>SECURITY.md 本地文本</th><th>在线打开</th></tr></thead><tbody id=b></tbody></table>
 <h3>厂商汇总</h3>
 <table><thead><tr><th>厂商</th><th>SRC</th><th>收录数</th><th>入口</th></tr></thead><tbody>%(rows)s</tbody></table>
 <script>

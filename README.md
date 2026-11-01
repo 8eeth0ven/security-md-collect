@@ -8,6 +8,15 @@
 - **数据**：243 个厂商 → 306 个 GitHub 组织，收录数千个含 SECURITY.md 的仓库（每仓库存 SECURITY.md 原文 + 星数/语言元数据）。
 - **本仓库内容**：收集器脚本（双模式：GitHub token code search / 无 token HTML 抓取）、厂商映射、收录清单快照、静态看板（`index.html`）。
 
+## 内容分类
+
+| 类别 | 位置 | 说明 |
+|---|---|---|
+| 【服务网站】 | `index.html`（本仓库根，GitHub Pages 可直开）+ `脚本/serve.py` | 静态看板：全部收录仓库可搜索、直达 GitHub 项目页 |
+| 【本地文本】 | `厂商/{厂商}/`（清单.md、repos.json、各仓库 SECURITY.md 原文）、`索引/总表.csv`、`索引/统计.json` | 收录数据：含 星数/语言/许可/SECURITY.md 路径 元数据 |
+| 【本地脚本】 | `脚本/collect.py`（收集器）、`serve.py`（局域网看板）、`sync_github.py`（同步推送本仓库） | 定时任务每次收集后调用 sync_github.py 实时 push |
+| 【厂商映射】 | `资产/vendors*.json` | 厂商→GitHub 组织映射，新增 `资产/厂商映射-自加.json` 即扩展 |
+
 ## 目录结构
 
 ```

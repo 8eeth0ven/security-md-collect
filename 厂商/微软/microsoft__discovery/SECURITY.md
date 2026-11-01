@@ -1,0 +1,105 @@
+<!-- BEGIN MICROSOFT SECURITY.MD V0.0.9 BLOCK -->
+
+## Security
+
+Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet) and [Xamarin](https://github.com/xamarin).
+
+If you believe you have found a security vulnerability in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://aka.ms/security.md/definition), please report it to us as described below.
+
+## Reporting Security Issues
+
+**Please do not report security vulnerabilities through public GitHub issues.**
+
+Instead, please report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report).
+
+If you prefer to submit without logging in, send email to [secure@microsoft.com](mailto:secure@microsoft.com). If possible, encrypt your message with our PGP key; please download it from the [Microsoft Security Response Center PGP Key page](https://aka.ms/security.md/msrc/pgp).
+
+You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Additional information can be found at [microsoft.com/msrc](https://www.microsoft.com/msrc).
+
+Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
+
+  * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
+  * Full paths of source file(s) related to the manifestation of the issue
+  * The location of the affected source code (tag/branch/commit or direct URL)
+  * Any special configuration required to reproduce the issue
+  * Step-by-step instructions to reproduce the issue
+  * Proof-of-concept or exploit code (if possible)
+  * Impact of the issue, including how an attacker might exploit the issue
+
+This information will help us triage your report more quickly.
+
+If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://aka.ms/security.md/msrc/bounty) page for more details about our active programs.
+
+## Preferred Languages
+
+We prefer all communications to be in English.
+
+## Policy
+
+Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/security.md/cvd).
+
+<!-- END MICROSOFT SECURITY.MD BLOCK -->
+
+## Repository security process
+
+Catalog changes pass through layered automated checks and maintainer review. The
+detailed rule definitions and remediation guidance are in
+[`docs/validation-rules.md`](docs/validation-rules.md) and
+[`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+| Layer | Policy inventory |
+| --- | --- |
+| Trust boundary | PR Review and agent-removal validation use read-only `pull_request` jobs, trusted base-SHA code, and separate exact-head data checkouts without persisted credentials. PR feedback is published by a separate `workflow_run` job executing only trusted default-branch code. No workflow uses `pull_request_target`. |
+| Diagnostic feedback | The reporter verifies source identity, current-head freshness, expected jobs, and bounded data-only artifacts before writing. Labels and `COMMENT` reviews are diagnostics, not merge gates; removal feedback cannot change PR Review labels. Reporting never approves, dismisses reviews, or merges. |
+| Structure and schemas | `STR-*`, `SCH-*`, `AS-*`, and `SKT-*` validate required files, JSON/YAML schemas, names, references, and starter-kit composition. Concrete schema nodes require a type or reference plus size, count, or range bounds; semantic strings use patterns or formats, and objects are closed or use bounded extension maps. `MET-*`, `DOC-*`, and `DEP-*` validate metadata, documentation, and dependency declarations. |
+| Catalog content | `POL-004` and `POL-005` enforce description and README minimums; `POL-008`, `POL-009`, `POL-010`, `POL-011`, and `POL-012` restrict binaries, validate model weights, and block hidden artifacts, generated-registry edits, and deployer scratch data; `POL-014`, `POL-015`, `POL-016`, `POL-017`, `POL-018`, and `POL-019` govern base-image provenance and pinning, file types, small Markdown-referenced image safety, reachable public webpages, and mail-capable contact domains. `SKT-POL-001` requires new starter kits to be active. |
+| Classification | `TAG-001` and `TAG-002` enforce the reviewed tag vocabulary and reserve CI-computed tag namespaces. |
+| Security scanning | Verified-secret findings block PRs. Unverified secret candidates, CodeQL, DevSkim, and Microsoft Application Inspector results are report-only inputs for reviewers. |
+| Review and merge | CODEOWNERS and branch protection govern checks and human approval. Agent-removal checks protect active starter-kit references. Generated registries are rebuilt/schema-validated by automation and proposed in separate PRs; maintainers control merging. Automatic approval and auto-merge enrollment are retired. |
+| After merge | The weekly catalog audit reruns all modular rules and Microsoft Security DevOps across the catalog. URLhaus/PhishTank reputation lookups and Docker Scout image-CVE scans are staged but disabled pending validated credentials, provider access, and representative runs. |
+
+The [workflow trust boundary and rollout guide](docs/actions-execution-policy.md)
+documents artifact validation, the non-fork-only maintainer removal override,
+trusted-base preparation, and retirement of any previously deployed event
+exception. Local tests are not evidence of live GitHub settings or event delivery.
+
+Policy configuration is review-controlled under [`.github/policy/`](.github/policy/):
+approved base images, source-file allowlists, network validation limits, and tag
+taxonomy. Content-rule exceptions require an expiring CODEOWNER-approved waiver; the ratchet
+baseline records legacy findings but does not permit new violations.
+
+### Security automation promotion and response
+
+The Discovery catalog CODEOWNERS own scanner triage and promotion. The required
+dependency review and verified-secret scan are blocking today. CodeQL, DevSkim,
+and Microsoft Security DevOps remain report-only while their existing findings
+are triaged; they will block new **high** and **critical** findings no later than
+**December 31, 2026**, after two consecutive representative runs complete
+without unowned high-severity debt. Application Inspector is a capability
+inventory rather than a severity-bearing vulnerability scanner, so it remains
+mandatory reviewer evidence rather than an automated merge gate.
+
+Scanner findings use these response targets:
+
+| Severity or condition | Owner response target |
+| --- | --- |
+| Critical finding or verified credential | Triage within 1 business day; remediate, disable the affected catalog item, or obtain an expiring CODEOWNER-approved waiver within 24 hours of triage. |
+| High severity | Triage within 2 business days; remediate or obtain an expiring CODEOWNER-approved waiver within 7 calendar days. |
+| Medium severity | Triage within 5 business days; remediate or record a disposition within 30 calendar days. |
+| Scanner failure / missing SARIF | Triage within 2 business days and restore the scan before promotion criteria can advance. |
+
+The scheduled catalog audit fails when rule drift, stale generated controls,
+security findings, or scanner errors require triage. A red scheduled run remains
+the system of record until a clean rerun succeeds; GitHub Issues are disabled in
+this repository.
+
+### Ratchet baseline governance
+
+The ratchet baseline is controlled migration debt, not a permanent allowlist.
+Every entry requires a CODEOWNER, a repository-tracked removal reference, and a
+future removal date. CI compares the proposed baseline with the PR base and
+rejects additions; only removals or CODEOWNER-reviewed metadata updates are
+allowed.
+Current entries and their remediation checklist are tracked in
+[`docs/validation-baseline-debt.md`](docs/validation-baseline-debt.md) and are
+targeted for removal before scanner enforcement promotion.
