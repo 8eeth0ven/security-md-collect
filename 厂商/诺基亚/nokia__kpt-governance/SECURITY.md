@@ -1,0 +1,84 @@
+# Security Policy for the kpt organization
+
+We're extremely grateful for users and security researchers that report vulnerabilities to the kpt open source
+community. 
+All reports are thoroughly investigated by a set of community volunteers.
+
+The kpt community has adopted the security disclosures and response policy below to respond to security issues.
+
+Please do not report security vulnerabilities through public GitHub issues.
+
+## Supported Versions
+
+All fixes are fixed forward, meaning that no branches of older releases are supported.
+
+## Reporting a Vulnerability
+
+### When should you report?
+
+- You think you discovered a potential security vulnerability in kpt.
+- You are unsure how a vulnerability affects kpt.
+- You think you discovered a vulnerability in a dependency of kpt. For those projects, please leverage their reporting
+  policy.
+
+### When you should not report?
+
+- You need assistance in configuring kpt for security - please discuss this on one of the
+  [kpt communication channels](https://kpt.dev/#communication).
+- You need help applying security related updates.
+- Your issue is not security related.
+
+### Please use the process below to report a vulnerability for the repositories in the kpt organization
+
+Vulnerabilities should be reported as a new security advisory in the repository affected by the vulnerability.
+
+| Repository | Advisory Reporting |
+|------------|--------------------|
+| kpt | [In the kpt repository](https://github.com/kptdev/kpt/security/advisories/) |
+| porch | [In the porch repository](https://github.com/kptdev/porch/security/advisories/) |
+| krm-functions-catalog | [In the krm-functions-catalog repository](https://github.com/kptdev/krm-functions-catalog/security/advisories/) |
+| krm-functions-sdk | [In the krm-functions-sdk repository](https://github.com/kptdev/krm-functions-sdk/security/advisories/) |
+| kpt-samples | [In the kpt-samples repository](https://github.com/kptdev/kpt-samples/security/advisories/) |
+| kpt-backstage-plugins | [In the kpt-backstage-plugins repository](https://github.com/kptdev/kpt-backstage-plugins/security/advisories) |
+| governance | [In the governance repository](https://github.com/kptdev/governance/security/advisories/) |
+| .github | [In the .github repository](https://github.com/kptdev/.github/security/advisories) |
+| .project | [In the .project repository](https://github.com/kptdev/.project/security/advisories) |
+
+
+1. Open a new Security Advisory 
+
+    * Please include the information listed below (as much as you can provide) to help us better understand the nature
+      and scope of the possible issue:
+
+        * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
+        * Versions of all components (kpt, porch, KRM functions)
+        * Full paths of the source file(s) related to the manifestation of the issue
+        * Location of the affected source code (tag/branch/commit or direct URL) 
+        * Any special configuration required to reproduce the issue
+        * Step-by-step instructions to reproduce the issue
+        * Proof-of-concept or exploit code (if possible)
+        * Impact of the issue, including how an attacker might exploit the issue
+        * Mark if the vulnerability is actively exploited
+
+    * This information will help us triage your report more quickly.
+
+2. The project security team will send an initial response to the disclosure in 3-5 days. Once the vulnerability and fix
+   are confirmed, the team will plan to release the fix based on the severity and complexity.
+
+3. You may be contacted by a project maintainer to further discuss the reported item. Please bear with us as we seek to
+   understand the breadth and scope of the reported problem, recreate it, and confirm if there is a vulnerability
+   present.
+
+## Security bulletins
+
+For information regarding the security of this project please join our
+[kpt communication channels](https://kpt.dev/#communication).
+
+## Public Disclosure Timing
+
+A public disclosure date is negotiated by the kpt project maintainers and the bug submitter. We prefer to fully disclose
+the bug as soon as possible once a fix or an user mitigation is available. It is reasonable to delay disclosure when the 
+bug or the fix is not yet fully understood, the solution is not well-tested, or for vendor coordination. The timeframe
+for disclosure is from immediate (especially if it's already publicly known) to a few weeks. For a vulnerability with a
+straightforward mitigation, we expect report date to disclosure date to be on the order of 7 days. The kpt project
+maintainer team holds the final say when setting a disclosure date.
