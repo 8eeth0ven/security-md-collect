@@ -133,6 +133,17 @@
  },
  {
   "vendor": "IBM",
+  "org": "ibm-security",
+  "full_name": "IBM-Security/ibmsecurity",
+  "url": "https://github.com/IBM-Security/ibmsecurity",
+  "sec_path": "SECURITY.md",
+  "stars": 53,
+  "language": "Python",
+  "description": "Idempotent functions for IBM Security Appliance REST APIs. Currently covering ISAM and ISDS Appliances.",
+  "first_seen": "2026-11-01 21:49:24"
+ },
+ {
+  "vendor": "IBM",
   "org": "IBM",
   "full_name": "IBM/aihwkit-lightning",
   "url": "https://github.com/IBM/aihwkit-lightning",
@@ -1663,22 +1674,11 @@
  {
   "vendor": "IBM",
   "org": "ibm-security",
-  "full_name": "IBM-Security/ibmsecurity",
-  "url": "https://github.com/IBM-Security/ibmsecurity",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Idempotent functions for IBM Security Appliance REST APIs. Currently covering ISAM and ISDS Appliances.",
-  "first_seen": "2026-11-01 21:49:24"
- },
- {
-  "vendor": "IBM",
-  "org": "ibm-security",
   "full_name": "IBM-Security/iviadc-aries-askar",
   "url": "https://github.com/IBM-Security/iviadc-aries-askar",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Rust",
   "description": "Private fork of the aries-askar project so that support for DB2 can be added.",
   "first_seen": "2026-11-01 21:49:24"
  }

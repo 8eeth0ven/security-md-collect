@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-02 04:23:49",
+ "generated_at": "2026-11-02 04:53:36",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 9951,
-  "negative_cached": 47085
+  "sec_repos": 10067,
+  "negative_cached": 47276
  },
  "vendors": [
   {
@@ -689,7 +689,7 @@
     "ms-iot",
     "nuget"
    ],
-   "sec_repos": 2583
+   "sec_repos": 2592
   },
   {
    "vendor": "谷歌",
@@ -1304,7 +1304,7 @@
    "orgs": [
     "getsentry"
    ],
-   "sec_repos": 18
+   "sec_repos": 110
   },
   {
    "vendor": "Grafana",
@@ -1617,7 +1617,7 @@
    "orgs": [
     "stripe"
    ],
-   "sec_repos": 0
+   "sec_repos": 13
   },
   {
    "vendor": "Block (Square/Cash App)",
@@ -1850,7 +1850,7 @@
    "orgs": [
     "tmobile"
    ],
-   "sec_repos": 0
+   "sec_repos": 2
   },
   {
    "vendor": "Telstra",

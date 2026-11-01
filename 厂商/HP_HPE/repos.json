@@ -56,6 +56,17 @@
  },
  {
   "vendor": "HP/HPE",
+  "org": "hpe",
+  "full_name": "HPE/torch-hammer",
+  "url": "https://github.com/HPE/torch-hammer",
+  "sec_path": "SECURITY.md",
+  "stars": 17,
+  "language": "Python",
+  "description": "Torch Hammer: Strike while the GPU is hot",
+  "first_seen": "2026-11-01 21:47:59"
+ },
+ {
+  "vendor": "HP/HPE",
   "org": "HewlettPackard",
   "full_name": "HewlettPackard/shs-ccl-docs",
   "url": "https://github.com/HewlettPackard/shs-ccl-docs",
@@ -122,6 +133,28 @@
  },
  {
   "vendor": "HP/HPE",
+  "org": "hpe",
+  "full_name": "HPE/gather_cxi_counters",
+  "url": "https://github.com/HPE/gather_cxi_counters",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "C++",
+  "description": "Utility that gathers statistics on a large system for Slingsho",
+  "first_seen": "2026-11-01 21:47:59"
+ },
+ {
+  "vendor": "HP/HPE",
+  "org": "hpe",
+  "full_name": "HPE/access-manager",
+  "url": "https://github.com/HPE/access-manager",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Go",
+  "description": "",
+  "first_seen": "2026-11-01 21:47:59"
+ },
+ {
+  "vendor": "HP/HPE",
   "org": "HewlettPackard",
   "full_name": "HewlettPackard/Mithril",
   "url": "https://github.com/HewlettPackard/Mithril",
@@ -130,6 +163,17 @@
   "language": "Shell",
   "description": "",
   "first_seen": "2026-11-01 16:41:45"
+ },
+ {
+  "vendor": "HP/HPE",
+  "org": "hpe",
+  "full_name": "HPE/terraform-provider-opsramp",
+  "url": "https://github.com/HPE/terraform-provider-opsramp",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Go",
+  "description": "",
+  "first_seen": "2026-11-01 21:47:59"
  },
  {
   "vendor": "HP/HPE",
@@ -152,6 +196,17 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 16:41:45"
+ },
+ {
+  "vendor": "HP/HPE",
+  "org": "hpe",
+  "full_name": "HPE/ompi",
+  "url": "https://github.com/HPE/ompi",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C",
+  "description": "Open MPI main development repository",
+  "first_seen": "2026-11-01 21:47:59"
  },
  {
   "vendor": "HP/HPE",
@@ -185,60 +240,5 @@
   "language": "Go",
   "description": "Connect, secure, control, and observe services.",
   "first_seen": "2026-11-01 16:42:50"
- },
- {
-  "vendor": "HP/HPE",
-  "org": "hpe",
-  "full_name": "HPE/ompi",
-  "url": "https://github.com/HPE/ompi",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Open MPI main development repository",
-  "first_seen": "2026-11-01 21:47:59"
- },
- {
-  "vendor": "HP/HPE",
-  "org": "hpe",
-  "full_name": "HPE/torch-hammer",
-  "url": "https://github.com/HPE/torch-hammer",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Torch Hammer: Strike while the GPU is hot",
-  "first_seen": "2026-11-01 21:47:59"
- },
- {
-  "vendor": "HP/HPE",
-  "org": "hpe",
-  "full_name": "HPE/terraform-provider-opsramp",
-  "url": "https://github.com/HPE/terraform-provider-opsramp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:47:59"
- },
- {
-  "vendor": "HP/HPE",
-  "org": "hpe",
-  "full_name": "HPE/gather_cxi_counters",
-  "url": "https://github.com/HPE/gather_cxi_counters",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Utility that gathers statistics on a large system for Slingsho",
-  "first_seen": "2026-11-01 21:47:59"
- },
- {
-  "vendor": "HP/HPE",
-  "org": "hpe",
-  "full_name": "HPE/access-manager",
-  "url": "https://github.com/HPE/access-manager",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:47:59"
  }
 ]

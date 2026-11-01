@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "vendor": "T-Mobile",
+  "org": "tmobile",
+  "full_name": "tmobile/magtape",
+  "url": "https://github.com/tmobile/magtape",
+  "sec_path": "SECURITY.md",
+  "stars": 152,
+  "language": "Python",
+  "description": "MagTape Policy-as-Code for Kubernetes",
+  "license": null,
+  "first_seen": "2026-11-02 04:53:07"
+ },
+ {
+  "vendor": "T-Mobile",
+  "org": "tmobile",
+  "full_name": "tmobile/DevEdge-IoTDevKit-ZephyrRTOS",
+  "url": "https://github.com/tmobile/DevEdge-IoTDevKit-ZephyrRTOS",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 14,
+  "language": "C",
+  "description": "T-Mobile Zephyr OS is a fork of zephyrproject-rtos/zephyr that is shipped on the DevKit and used for contributing upstream.",
+  "license": null,
+  "first_seen": "2026-11-02 04:53:07"
+ }
+]

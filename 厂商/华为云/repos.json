@@ -2,12 +2,89 @@
  {
   "vendor": "华为云",
   "org": "huaweicloud",
+  "full_name": "huaweicloud/huaweicloud-sdk-java-obs",
+  "url": "https://github.com/huaweicloud/huaweicloud-sdk-java-obs",
+  "sec_path": "SECURITY.md",
+  "stars": 153,
+  "language": "Java",
+  "description": "The OBS SDK for Java, which is used for accessing Object Storage Service",
+  "first_seen": "2026-11-01 21:48:23"
+ },
+ {
+  "vendor": "华为云",
+  "org": "huaweicloud",
+  "full_name": "huaweicloud/huaweicloud-sdk-python-obs",
+  "url": "https://github.com/huaweicloud/huaweicloud-sdk-python-obs",
+  "sec_path": "SECURITY.md",
+  "stars": 86,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 21:48:23"
+ },
+ {
+  "vendor": "华为云",
+  "org": "huaweicloud",
   "full_name": "huaweicloud/huaweicloud-devkit",
   "url": "https://github.com/huaweicloud/huaweicloud-devkit",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 70,
+  "language": "JavaScript",
   "description": " Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Clo…",
+  "first_seen": "2026-11-01 21:48:23"
+ },
+ {
+  "vendor": "华为云",
+  "org": "huaweicloud",
+  "full_name": "huaweicloud/huaweicloud-sdk-c-obs",
+  "url": "https://github.com/huaweicloud/huaweicloud-sdk-c-obs",
+  "sec_path": "SECURITY.md",
+  "stars": 58,
+  "language": "C",
+  "description": "",
+  "first_seen": "2026-11-01 21:48:23"
+ },
+ {
+  "vendor": "华为云",
+  "org": "huaweicloud",
+  "full_name": "huaweicloud/agentarts-sdk-java",
+  "url": "https://github.com/huaweicloud/agentarts-sdk-java",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "华为云agentarts-sdk-java是一个专为华为云AgentArts平台设计的面向开发者的Java开发工具包。该SDK支持使用AgentScope等开源高码Agent框架开发的智能体，实现一键部署到华为云，从而实现零基础设施管理及完全可控的云端部署。它通过本地代码开发Agent和能力增强（沙箱工具、记忆库、网关…",
+  "first_seen": "2026-11-01 21:48:23"
+ },
+ {
+  "vendor": "华为云",
+  "org": "huaweicloud",
+  "full_name": "huaweicloud/cloudrobo-sdk-client",
+  "url": "https://github.com/huaweicloud/cloudrobo-sdk-client",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 21:48:23"
+ },
+ {
+  "vendor": "华为云",
+  "org": "huaweicloud",
+  "full_name": "huaweicloud/aishell-dsh-plugins",
+  "url": "https://github.com/huaweicloud/aishell-dsh-plugins",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "Huawei Cloud AI Shell Plugins Based on DSH.",
+  "first_seen": "2026-11-01 21:48:23"
+ },
+ {
+  "vendor": "华为云",
+  "org": "huaweicloud",
+  "full_name": "huaweicloud/repository-requests",
+  "url": "https://github.com/huaweicloud/repository-requests",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "huaweicloud 组织建仓机器人：提交建仓申请 Issue → 校验 → 审批 → 自动创建仓库",
   "first_seen": "2026-11-01 21:48:23"
  },
  {
@@ -24,22 +101,11 @@
  {
   "vendor": "华为云",
   "org": "huaweicloud",
-  "full_name": "huaweicloud/cloudrobo-sdk-client",
-  "url": "https://github.com/huaweicloud/cloudrobo-sdk-client",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:48:23"
- },
- {
-  "vendor": "华为云",
-  "org": "huaweicloud",
   "full_name": "huaweicloud/.github",
   "url": "https://github.com/huaweicloud/.github",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "huaweicloud 组织治理配置中心（Issue/PR 模板、工作流、脚本、规则）",
   "first_seen": "2026-11-01 21:48:23"
  },
@@ -50,7 +116,7 @@
   "url": "https://github.com/huaweicloud/huaweicloud-mcp",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Huawei Cloud MCPs",
   "first_seen": "2026-11-01 21:48:23"
  },
@@ -63,72 +129,6 @@
   "stars": null,
   "language": null,
   "description": "用于对外开源提供华为云mcp项目",
-  "first_seen": "2026-11-01 21:48:23"
- },
- {
-  "vendor": "华为云",
-  "org": "huaweicloud",
-  "full_name": "huaweicloud/huaweicloud-sdk-java-obs",
-  "url": "https://github.com/huaweicloud/huaweicloud-sdk-java-obs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The OBS SDK for Java, which is used for accessing Object Storage Service",
-  "first_seen": "2026-11-01 21:48:23"
- },
- {
-  "vendor": "华为云",
-  "org": "huaweicloud",
-  "full_name": "huaweicloud/agentarts-sdk-java",
-  "url": "https://github.com/huaweicloud/agentarts-sdk-java",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "华为云agentarts-sdk-java是一个专为华为云AgentArts平台设计的面向开发者的Java开发工具包。该SDK支持使用AgentScope等开源高码Agent框架开发的智能体，实现一键部署到华为云，从而实现零基础设施管理及完全可控的云端部署。它通过本地代码开发Agent和能力增强（沙箱工具、记忆库、网关…",
-  "first_seen": "2026-11-01 21:48:23"
- },
- {
-  "vendor": "华为云",
-  "org": "huaweicloud",
-  "full_name": "huaweicloud/aishell-dsh-plugins",
-  "url": "https://github.com/huaweicloud/aishell-dsh-plugins",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Huawei Cloud AI Shell Plugins Based on DSH.",
-  "first_seen": "2026-11-01 21:48:23"
- },
- {
-  "vendor": "华为云",
-  "org": "huaweicloud",
-  "full_name": "huaweicloud/huaweicloud-sdk-python-obs",
-  "url": "https://github.com/huaweicloud/huaweicloud-sdk-python-obs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:48:23"
- },
- {
-  "vendor": "华为云",
-  "org": "huaweicloud",
-  "full_name": "huaweicloud/huaweicloud-sdk-c-obs",
-  "url": "https://github.com/huaweicloud/huaweicloud-sdk-c-obs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:48:23"
- },
- {
-  "vendor": "华为云",
-  "org": "huaweicloud",
-  "full_name": "huaweicloud/repository-requests",
-  "url": "https://github.com/huaweicloud/repository-requests",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "huaweicloud 组织建仓机器人：提交建仓申请 Issue → 校验 → 审批 → 自动创建仓库",
   "first_seen": "2026-11-01 21:48:23"
  }
 ]
