@@ -1,1 +1,86 @@
-[]
+[
+ {
+  "vendor": "Wise (TransferWise)",
+  "org": "transferwise",
+  "full_name": "transferwise/envoy",
+  "url": "https://github.com/transferwise/envoy",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "C++",
+  "description": "Cloud-native high-performance edge/middle/service proxy",
+  "license": null,
+  "first_seen": "2026-11-02 00:47:45"
+ },
+ {
+  "vendor": "Wise (TransferWise)",
+  "org": "transferwise",
+  "full_name": "transferwise/atlantis",
+  "url": "https://github.com/transferwise/atlantis",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "Terraform Pull Request Automation",
+  "license": null,
+  "first_seen": "2026-11-02 00:47:45"
+ },
+ {
+  "vendor": "Wise (TransferWise)",
+  "org": "transferwise",
+  "full_name": "transferwise/yet-another-cloudwatch-exporter",
+  "url": "https://github.com/transferwise/yet-another-cloudwatch-exporter",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags…",
+  "license": null,
+  "first_seen": "2026-11-02 00:47:45"
+ },
+ {
+  "vendor": "Wise (TransferWise)",
+  "org": "transferwise",
+  "full_name": "transferwise/openchat-ui",
+  "url": "https://github.com/transferwise/openchat-ui",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "TypeScript",
+  "description": "An open source ChatGPT UI. (for OpenChat models)",
+  "license": null,
+  "first_seen": "2026-11-02 00:47:45"
+ },
+ {
+  "vendor": "Wise (TransferWise)",
+  "org": "transferwise",
+  "full_name": "transferwise/.github",
+  "url": "https://github.com/transferwise/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "Default community health files for TransferWise GitHub organization",
+  "license": null,
+  "first_seen": "2026-11-02 00:47:45"
+ },
+ {
+  "vendor": "Wise (TransferWise)",
+  "org": "transferwise",
+  "full_name": "transferwise/spire",
+  "url": "https://github.com/transferwise/spire",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "The SPIFFE Runtime Environment",
+  "license": null,
+  "first_seen": "2026-11-02 00:47:45"
+ },
+ {
+  "vendor": "Wise (TransferWise)",
+  "org": "transferwise",
+  "full_name": "transferwise/elasticsearch_exporter",
+  "url": "https://github.com/transferwise/elasticsearch_exporter",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Elasticsearch stats exporter for Prometheus",
+  "license": null,
+  "first_seen": "2026-11-02 00:47:45"
+ }
+]
