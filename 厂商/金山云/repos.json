@@ -1,1 +1,74 @@
-[]
+[
+ {
+  "vendor": "金山云",
+  "org": "kingsoftcloud",
+  "full_name": "kingsoftcloud/ksadk-python",
+  "url": "https://github.com/kingsoftcloud/ksadk-python",
+  "sec_path": "SECURITY.md",
+  "stars": 22,
+  "language": "Python",
+  "description": "Kingsoft Cloud Agent Development Kit for Python",
+  "license": null,
+  "first_seen": "2026-11-01 22:28:03"
+ },
+ {
+  "vendor": "金山云",
+  "org": "kingsoftcloud",
+  "full_name": "kingsoftcloud/agentkit-studio",
+  "url": "https://github.com/kingsoftcloud/agentkit-studio",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "面向代码、资料与自动化任务的开放式 Agent 工作台：DSH 插件 + macOS/Windows 桌面端，覆盖 Agent 编排、资源管理、部署与自动化。An open Agent workbench for code, docs and automation — a DeepSeek Harness plugin…",
+  "license": null,
+  "first_seen": "2026-11-01 22:28:03"
+ },
+ {
+  "vendor": "金山云",
+  "org": "kingsoftcloud",
+  "full_name": "kingsoftcloud/ksadk-web",
+  "url": "https://github.com/kingsoftcloud/ksadk-web",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "KSADK Web developer UI",
+  "license": null,
+  "first_seen": "2026-11-01 22:28:03"
+ },
+ {
+  "vendor": "金山云",
+  "org": "kingsoftcloud",
+  "full_name": "kingsoftcloud/agentkit-personal-assistant",
+  "url": "https://github.com/kingsoftcloud/agentkit-personal-assistant",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "JavaScript",
+  "description": "AgentKit personal assistant plugin for DeepSeek Harness",
+  "license": null,
+  "first_seen": "2026-11-01 22:28:03"
+ },
+ {
+  "vendor": "金山云",
+  "org": "kingsoftcloud",
+  "full_name": "kingsoftcloud/ksadk-harness",
+  "url": "https://github.com/kingsoftcloud/ksadk-harness",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "JavaScript",
+  "description": "Open-source Native Harness packages for durable Agent execution, Node adapters, and React task UI",
+  "license": null,
+  "first_seen": "2026-11-01 22:28:03"
+ },
+ {
+  "vendor": "金山云",
+  "org": "kingsoftcloud",
+  "full_name": "kingsoftcloud/sandbox-operator",
+  "url": "https://github.com/kingsoftcloud/sandbox-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "A Kubernetes operator that manages Kingsoft Cloud Sandbox templates and instances through custom resources.",
+  "license": null,
+  "first_seen": "2026-11-01 22:28:03"
+ }
+]

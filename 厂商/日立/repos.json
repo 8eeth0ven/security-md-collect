@@ -130,5 +130,29 @@
   "language": null,
   "description": "Location for shared common files in github.com/containers repos.",
   "first_seen": "2026-11-01 21:47:37"
+ },
+ {
+  "vendor": "日立",
+  "org": "pentaho",
+  "full_name": "pentaho/commons-jxpath",
+  "url": "https://github.com/pentaho/commons-jxpath",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Java",
+  "description": "Apache Commons JXPath",
+  "license": null,
+  "first_seen": "2026-11-01 23:23:10"
+ },
+ {
+  "vendor": "日立",
+  "org": "pentaho",
+  "full_name": "pentaho/jackson-dataformats-text",
+  "url": "https://github.com/pentaho/jackson-dataformats-text",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Java",
+  "description": "Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)",
+  "license": null,
+  "first_seen": "2026-11-01 23:23:10"
  }
 ]

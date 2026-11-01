@@ -1,1 +1,62 @@
-[]
+[
+ {
+  "vendor": "Target",
+  "org": "target",
+  "full_name": "target/grid",
+  "url": "https://github.com/target/grid",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Rust",
+  "description": "Hyperledger Grid",
+  "license": null,
+  "first_seen": "2026-11-02 00:19:22"
+ },
+ {
+  "vendor": "Target",
+  "org": "target",
+  "full_name": "target/sonic-swss-common",
+  "url": "https://github.com/target/sonic-swss-common",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C++",
+  "description": "Common components for SONiC switch state service",
+  "license": null,
+  "first_seen": "2026-11-02 00:19:22"
+ },
+ {
+  "vendor": "Target",
+  "org": "target",
+  "full_name": "target/sonic-utilities",
+  "url": "https://github.com/target/sonic-utilities",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Command line utilities for the SONiC project",
+  "license": null,
+  "first_seen": "2026-11-02 00:19:22"
+ },
+ {
+  "vendor": "Target",
+  "org": "target",
+  "full_name": "target/.github",
+  "url": "https://github.com/target/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-02 00:19:22"
+ },
+ {
+  "vendor": "Target",
+  "org": "target",
+  "full_name": "target/grid-rfcs",
+  "url": "https://github.com/target/grid-rfcs",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "Feature proposal RFCs for Hyperledger Grid",
+  "license": null,
+  "first_seen": "2026-11-02 00:19:22"
+ }
+]

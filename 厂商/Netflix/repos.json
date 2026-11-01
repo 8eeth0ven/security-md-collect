@@ -1,6 +1,66 @@
 [
  {
   "vendor": "Netflix",
+  "org": "netflix",
+  "full_name": "Netflix/conductor",
+  "url": "https://github.com/Netflix/conductor",
+  "sec_path": "SECURITY.md",
+  "stars": 12752,
+  "language": "Java",
+  "description": "Conductor is a microservices orchestration engine.",
+  "license": null,
+  "first_seen": "2026-11-01 22:54:28"
+ },
+ {
+  "vendor": "Netflix",
+  "org": "netflix",
+  "full_name": "Netflix/metaflow",
+  "url": "https://github.com/Netflix/metaflow",
+  "sec_path": "SECURITY.md",
+  "stars": 10334,
+  "language": "Python",
+  "description": "Build, Manage and Deploy AI/ML Systems",
+  "license": null,
+  "first_seen": "2026-11-01 22:54:28"
+ },
+ {
+  "vendor": "Netflix",
+  "org": "netflix",
+  "full_name": "Netflix/dgs-framework",
+  "url": "https://github.com/Netflix/dgs-framework",
+  "sec_path": "SECURITY.md",
+  "stars": 3401,
+  "language": "Kotlin",
+  "description": "GraphQL for Java with Spring Boot made easy.",
+  "license": null,
+  "first_seen": "2026-11-01 22:54:28"
+ },
+ {
+  "vendor": "Netflix",
+  "org": "netflix",
+  "full_name": "Netflix/spark",
+  "url": "https://github.com/Netflix/spark",
+  "sec_path": "docs/security.md",
+  "stars": 11,
+  "language": "Scala",
+  "description": "Netflix branches of Apache Spark",
+  "license": null,
+  "first_seen": "2026-11-01 22:54:28"
+ },
+ {
+  "vendor": "Netflix",
+  "org": "netflix",
+  "full_name": "Netflix/asf-rez-fork",
+  "url": "https://github.com/Netflix/asf-rez-fork",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "An integrated package configuration, build and deployment system for software",
+  "license": null,
+  "first_seen": "2026-11-01 22:54:28"
+ },
+ {
+  "vendor": "Netflix",
   "org": "Netflix-Skunkworks",
   "full_name": "Netflix-Skunkworks/LightGBM",
   "url": "https://github.com/Netflix-Skunkworks/LightGBM",

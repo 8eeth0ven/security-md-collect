@@ -1,1 +1,110 @@
-[]
+[
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/nrdot-collector-releases",
+  "url": "https://github.com/newrelic/nrdot-collector-releases",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Go",
+  "description": "Handle the configuration files for the OpenTelemetry New Relic distributions.",
+  "license": null,
+  "first_seen": "2026-11-01 22:56:23"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/yakaa",
+  "url": "https://github.com/newrelic/yakaa",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "JavaScript",
+  "description": "Yet Another Keep Alive Agent for Node",
+  "license": null,
+  "first_seen": "2026-11-01 22:57:40"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/nr-skills-hub",
+  "url": "https://github.com/newrelic/nr-skills-hub",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": null,
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 22:56:23"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/.github",
+  "url": "https://github.com/newrelic/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": null,
+  "description": "Standard policy and procedure across the New Relic GitHub organization",
+  "license": null,
+  "first_seen": "2026-11-01 22:56:23"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/opentelemetry-collector-components",
+  "url": "https://github.com/newrelic/opentelemetry-collector-components",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Go",
+  "description": "This repository will be used to store the Otel components that contain changes not pushed to upstream yet or whole components that weren’t accepted by the commu…",
+  "license": null,
+  "first_seen": "2026-11-01 22:56:23"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/k8s-agents-release-toolkit",
+  "url": "https://github.com/newrelic/k8s-agents-release-toolkit",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 22:56:23"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/nri-collectd",
+  "url": "https://github.com/newrelic/nri-collectd",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "New Relic On Host Integration for collectd",
+  "license": null,
+  "first_seen": "2026-11-01 22:57:40"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/nri-zookeeper",
+  "url": "https://github.com/newrelic/nri-zookeeper",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "New Relic On Host Integration for Apache Zookeeper",
+  "license": null,
+  "first_seen": "2026-11-01 22:57:40"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/newrelic-grafana-plugin",
+  "url": "https://github.com/newrelic/newrelic-grafana-plugin",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 22:56:23"
+ }
+]

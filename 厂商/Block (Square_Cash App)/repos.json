@@ -1,6 +1,78 @@
 [
  {
   "vendor": "Block (Square/Cash App)",
+  "org": "square",
+  "full_name": "square/wire",
+  "url": "https://github.com/square/wire",
+  "sec_path": "SECURITY.md",
+  "stars": 4439,
+  "language": "Kotlin",
+  "description": "gRPC and protocol buffers for Android, Kotlin, Swift and Java.",
+  "license": null,
+  "first_seen": "2026-11-01 23:51:47"
+ },
+ {
+  "vendor": "Block (Square/Cash App)",
+  "org": "square",
+  "full_name": "square/subzero",
+  "url": "https://github.com/square/subzero",
+  "sec_path": "SECURITY.md",
+  "stars": 693,
+  "language": "C",
+  "description": "Block's Bitcoin Cold Storage solution.",
+  "license": null,
+  "first_seen": "2026-11-01 23:51:47"
+ },
+ {
+  "vendor": "Block (Square/Cash App)",
+  "org": "square",
+  "full_name": "square/web-payments-quickstart",
+  "url": "https://github.com/square/web-payments-quickstart",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 103,
+  "language": "HTML",
+  "description": "Quickstart for using Square's Web Payments SDK",
+  "license": null,
+  "first_seen": "2026-11-01 23:51:47"
+ },
+ {
+  "vendor": "Block (Square/Cash App)",
+  "org": "square",
+  "full_name": "square/pyfu-usb",
+  "url": "https://github.com/square/pyfu-usb",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 28,
+  "language": "Python",
+  "description": "Python USB firmware update library",
+  "license": null,
+  "first_seen": "2026-11-01 23:51:47"
+ },
+ {
+  "vendor": "Block (Square/Cash App)",
+  "org": "square",
+  "full_name": "square/web-sdk",
+  "url": "https://github.com/square/web-sdk",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 21,
+  "language": "TypeScript",
+  "description": "Square Web SDK",
+  "license": null,
+  "first_seen": "2026-11-01 23:51:47"
+ },
+ {
+  "vendor": "Block (Square/Cash App)",
+  "org": "square",
+  "full_name": "square/swift-keyboard-observer",
+  "url": "https://github.com/square/swift-keyboard-observer",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 1,
+  "language": "Swift",
+  "description": "A package for observing the frame of the on-screen keyboard",
+  "license": null,
+  "first_seen": "2026-11-01 23:51:47"
+ },
+ {
+  "vendor": "Block (Square/Cash App)",
   "org": "block",
   "full_name": "block/buzz",
   "url": "https://github.com/block/buzz",

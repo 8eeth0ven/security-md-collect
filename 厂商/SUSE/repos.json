@@ -1,6 +1,54 @@
 [
  {
   "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/ingress-nginx",
+  "url": "https://github.com/rancher/ingress-nginx",
+  "sec_path": "SECURITY.md",
+  "stars": 29,
+  "language": "Go",
+  "description": "Ingress controller for nginx",
+  "license": null,
+  "first_seen": "2026-11-01 23:29:37"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/PushProx",
+  "url": "https://github.com/rancher/PushProx",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Go",
+  "description": "Proxy to allow Prometheus to scrape through NAT etc.",
+  "license": null,
+  "first_seen": "2026-11-01 23:29:37"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/opni-monitoring",
+  "url": "https://github.com/rancher/opni-monitoring",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Go",
+  "description": "Multi-cluster Monitoring for Kubernetes (moved to rancher/opni)",
+  "license": null,
+  "first_seen": "2026-11-01 23:30:50"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/ui-plugin-server",
+  "url": "https://github.com/rancher/ui-plugin-server",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Shell",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 23:30:50"
+ },
+ {
+  "vendor": "SUSE",
   "org": "SUSE",
   "full_name": "SUSE/authentik",
   "url": "https://github.com/SUSE/authentik",
@@ -229,5 +277,113 @@
   "language": null,
   "description": "Cloud Foundry buildpack for running Java applications",
   "first_seen": "2026-11-01 17:17:58"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/harbor",
+  "url": "https://github.com/rancher/harbor",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 23:29:37"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/azure-service-operator",
+  "url": "https://github.com/rancher/azure-service-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Azure Service Operator allows you to create Azure resources using kubectl",
+  "license": null,
+  "first_seen": "2026-11-01 23:29:37"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/.github",
+  "url": "https://github.com/rancher/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 23:29:37"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/etcd",
+  "url": "https://github.com/rancher/etcd",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "license": null,
+  "first_seen": "2026-11-01 23:30:50"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/coredns",
+  "url": "https://github.com/rancher/coredns",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "CoreDNS is a DNS server that chains plugins",
+  "license": null,
+  "first_seen": "2026-11-01 23:30:50"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/calico",
+  "url": "https://github.com/rancher/calico",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Cloud native networking and network security",
+  "license": null,
+  "first_seen": "2026-11-01 23:30:50"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/cilium",
+  "url": "https://github.com/rancher/cilium",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "eBPF-based Networking, Security, and Observability",
+  "license": null,
+  "first_seen": "2026-11-01 23:30:50"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/traefik",
+  "url": "https://github.com/rancher/traefik",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "The Cloud Native Application Proxy",
+  "license": null,
+  "first_seen": "2026-11-01 23:30:50"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/kubevirt-client-go",
+  "url": "https://github.com/rancher/kubevirt-client-go",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Go client for kubevirt",
+  "license": null,
+  "first_seen": "2026-11-01 23:30:50"
  }
 ]

@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "vendor": "Rivian",
+  "org": "rivian",
+  "full_name": "rivian/ai-sast",
+  "url": "https://github.com/rivian/ai-sast",
+  "sec_path": "SECURITY.md",
+  "stars": 93,
+  "language": "Python",
+  "description": "AI-powered SAST accelerator built to speed up secure development.",
+  "license": null,
+  "first_seen": "2026-11-01 23:33:22"
+ },
+ {
+  "vendor": "Rivian",
+  "org": "rivian",
+  "full_name": "rivian/odxtools",
+  "url": "https://github.com/rivian/odxtools",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "Set of utilities to interact with automotive diagnostic descriptions of electronic control units",
+  "license": null,
+  "first_seen": "2026-11-01 23:33:22"
+ }
+]

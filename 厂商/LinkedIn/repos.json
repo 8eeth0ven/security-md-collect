@@ -1,1 +1,50 @@
-[]
+[
+ {
+  "vendor": "LinkedIn",
+  "org": "linkedin",
+  "full_name": "linkedin/kafka-monitor",
+  "url": "https://github.com/linkedin/kafka-monitor",
+  "sec_path": "SECURITY.md",
+  "stars": 2067,
+  "language": "Java",
+  "description": "Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E …",
+  "license": null,
+  "first_seen": "2026-11-01 22:30:44"
+ },
+ {
+  "vendor": "LinkedIn",
+  "org": "linkedin",
+  "full_name": "linkedin/openhouse",
+  "url": "https://github.com/linkedin/openhouse",
+  "sec_path": "SECURITY.md",
+  "stars": 403,
+  "language": "Java",
+  "description": "Open Control Plane for Tables in Data Lakehouse",
+  "license": null,
+  "first_seen": "2026-11-01 22:30:44"
+ },
+ {
+  "vendor": "LinkedIn",
+  "org": "linkedin",
+  "full_name": "linkedin/spark",
+  "url": "https://github.com/linkedin/spark",
+  "sec_path": "docs/security.md",
+  "stars": 15,
+  "language": "Scala",
+  "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+  "license": null,
+  "first_seen": "2026-11-01 22:30:44"
+ },
+ {
+  "vendor": "LinkedIn",
+  "org": "linkedin",
+  "full_name": "linkedin/li-langchain",
+  "url": "https://github.com/linkedin/li-langchain",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "🦜🔗 Build context-aware reasoning applications",
+  "license": null,
+  "first_seen": "2026-11-01 22:30:44"
+ }
+]

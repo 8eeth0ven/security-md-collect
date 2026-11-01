@@ -1,6 +1,42 @@
 [
  {
   "vendor": "旷视",
+  "org": "megvii-research",
+  "full_name": "megvii-research/megfile",
+  "url": "https://github.com/megvii-research/megfile",
+  "sec_path": "SECURITY.md",
+  "stars": 179,
+  "language": "Python",
+  "description": "Megvii FILE Library - Working with Files in Python same as the standard library",
+  "license": null,
+  "first_seen": "2026-11-01 22:34:35"
+ },
+ {
+  "vendor": "旷视",
+  "org": "megvii-research",
+  "full_name": "megvii-research/megstore",
+  "url": "https://github.com/megvii-research/megstore",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "Common Formats. Uncommon Speed.",
+  "license": null,
+  "first_seen": "2026-11-01 22:34:35"
+ },
+ {
+  "vendor": "旷视",
+  "org": "megvii-research",
+  "full_name": "megvii-research/aiomegfile",
+  "url": "https://github.com/megvii-research/aiomegfile",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 22:34:35"
+ },
+ {
+  "vendor": "旷视",
   "org": "MegEngine",
   "full_name": "MegEngine/flatbuffers",
   "url": "https://github.com/MegEngine/flatbuffers",

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-01 21:55:05",
+ "generated_at": "2026-11-02 00:24:02",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
-  "orgs_swept": 190,
-  "sec_repos": 6792,
-  "negative_cached": 29784
+  "orgs_swept": 276,
+  "sec_repos": 9516,
+  "negative_cached": 42748
  },
  "vendors": [
   {
@@ -31,7 +31,7 @@
     "envoyproxy",
     "argoproj"
    ],
-   "sec_repos": 41
+   "sec_repos": 151
   },
   {
    "vendor": "深度求索DeepSeek",
@@ -78,7 +78,7 @@
     "Tencent-Hunyuan",
     "wechat-miniprogram"
    ],
-   "sec_repos": 33
+   "sec_repos": 34
   },
   {
    "vendor": "阿里巴巴",
@@ -100,7 +100,7 @@
     "antvis",
     "sofastack"
    ],
-   "sec_repos": 19
+   "sec_repos": 28
   },
   {
    "vendor": "字节跳动",
@@ -136,7 +136,7 @@
     "jdcloud",
     "jd-opensource"
    ],
-   "sec_repos": 0
+   "sec_repos": 6
   },
   {
    "vendor": "京东云",
@@ -165,7 +165,7 @@
     "openEuler",
     "openharmony"
    ],
-   "sec_repos": 7
+   "sec_repos": 49
   },
   {
    "vendor": "华为云",
@@ -224,7 +224,7 @@
    "orgs": [
     "lenovo"
    ],
-   "sec_repos": 0
+   "sec_repos": 1
   },
   {
    "vendor": "中兴",
@@ -346,7 +346,7 @@
    "orgs": [
     "kingsoftcloud"
    ],
-   "sec_repos": 0
+   "sec_repos": 6
   },
   {
    "vendor": "用友",
@@ -360,7 +360,7 @@
    "orgs": [
     "kingdee"
    ],
-   "sec_repos": 0
+   "sec_repos": 1
   },
   {
    "vendor": "浪潮",
@@ -427,7 +427,7 @@
     "netease",
     "NetEaseGame"
    ],
-   "sec_repos": 0
+   "sec_repos": 2
   },
   {
    "vendor": "滴滴",
@@ -606,7 +606,7 @@
     "MegEngine",
     "megvii-research"
    ],
-   "sec_repos": 1
+   "sec_repos": 4
   },
   {
    "vendor": "云从",
@@ -658,7 +658,7 @@
    "orgs": [
     "stepfun-ai"
    ],
-   "sec_repos": 0
+   "sec_repos": 3
   },
   {
    "vendor": "微众银行",
@@ -689,7 +689,7 @@
     "ms-iot",
     "nuget"
    ],
-   "sec_repos": 1277
+   "sec_repos": 2583
   },
   {
    "vendor": "谷歌",
@@ -704,7 +704,7 @@
     "angular",
     "firebase"
    ],
-   "sec_repos": 123
+   "sec_repos": 132
   },
   {
    "vendor": "Meta",
@@ -716,7 +716,7 @@
     "pytorch",
     "Meta"
    ],
-   "sec_repos": 66
+   "sec_repos": 70
   },
   {
    "vendor": "亚马逊",
@@ -737,7 +737,7 @@
     "WebKit",
     "swiftlang"
    ],
-   "sec_repos": 32
+   "sec_repos": 34
   },
   {
    "vendor": "Netflix",
@@ -746,7 +746,7 @@
     "netflix",
     "Netflix-Skunkworks"
    ],
-   "sec_repos": 5
+   "sec_repos": 10
   },
   {
    "vendor": "Adobe",
@@ -766,7 +766,7 @@
     "graalvm",
     "mysql"
    ],
-   "sec_repos": 11
+   "sec_repos": 235
   },
   {
    "vendor": "IBM",
@@ -786,7 +786,7 @@
     "oneapi-src",
     "intel-iot-devkit"
    ],
-   "sec_repos": 861
+   "sec_repos": 912
   },
   {
    "vendor": "AMD",
@@ -815,7 +815,7 @@
     "quic",
     "qualcomm"
    ],
-   "sec_repos": 0
+   "sec_repos": 95
   },
   {
    "vendor": "ARM",
@@ -879,7 +879,7 @@
     "RedHatOfficial",
     "ansible"
    ],
-   "sec_repos": 45
+   "sec_repos": 118
   },
   {
    "vendor": "VMware",
@@ -956,7 +956,7 @@
     "hitachi",
     "pentaho"
    ],
-   "sec_repos": 12
+   "sec_repos": 14
   },
   {
    "vendor": "夏普",
@@ -970,7 +970,7 @@
    "orgs": [
     "nokia"
    ],
-   "sec_repos": 0
+   "sec_repos": 64
   },
   {
    "vendor": "爱立信",
@@ -986,7 +986,7 @@
    "orgs": [
     "siemens"
    ],
-   "sec_repos": 0
+   "sec_repos": 54
   },
   {
    "vendor": "博世",
@@ -1005,7 +1005,7 @@
     "philips",
     "PhilipsHue"
    ],
-   "sec_repos": 0
+   "sec_repos": 3
   },
   {
    "vendor": "ABB",
@@ -1025,7 +1025,7 @@
    "orgs": [
     "teslamotors"
    ],
-   "sec_repos": 0
+   "sec_repos": 7
   },
   {
    "vendor": "SpaceX",
@@ -1039,7 +1039,7 @@
    "orgs": [
     "rivian"
    ],
-   "sec_repos": 0
+   "sec_repos": 2
   },
   {
    "vendor": "丰田",
@@ -1075,7 +1075,7 @@
    "orgs": [
     "mercedes-benz"
    ],
-   "sec_repos": 0
+   "sec_repos": 99
   },
   {
    "vendor": "大众",
@@ -1139,7 +1139,7 @@
    "orgs": [
     "snapchat"
    ],
-   "sec_repos": 0
+   "sec_repos": 7
   },
   {
    "vendor": "Pinterest",
@@ -1147,7 +1147,7 @@
    "orgs": [
     "pinterest"
    ],
-   "sec_repos": 0
+   "sec_repos": 17
   },
   {
    "vendor": "LinkedIn",
@@ -1155,7 +1155,7 @@
    "orgs": [
     "linkedin"
    ],
-   "sec_repos": 0
+   "sec_repos": 4
   },
   {
    "vendor": "Slack",
@@ -1164,7 +1164,7 @@
     "slackhq",
     "slackapi"
    ],
-   "sec_repos": 0
+   "sec_repos": 53
   },
   {
    "vendor": "Zoom",
@@ -1215,7 +1215,7 @@
     "docker",
     "moby"
    ],
-   "sec_repos": 49
+   "sec_repos": 54
   },
   {
    "vendor": "HashiCorp",
@@ -1239,7 +1239,7 @@
    "orgs": [
     "mongodb"
    ],
-   "sec_repos": 0
+   "sec_repos": 20
   },
   {
    "vendor": "Redis",
@@ -1248,7 +1248,7 @@
     "redis",
     "RedisLabs"
    ],
-   "sec_repos": 5
+   "sec_repos": 20
   },
   {
    "vendor": "Cloudflare",
@@ -1288,7 +1288,7 @@
    "orgs": [
     "splunk"
    ],
-   "sec_repos": 0
+   "sec_repos": 19
   },
   {
    "vendor": "New Relic",
@@ -1296,7 +1296,7 @@
    "orgs": [
     "newrelic"
    ],
-   "sec_repos": 0
+   "sec_repos": 9
   },
   {
    "vendor": "Sentry",
@@ -1329,7 +1329,7 @@
     "SUSE",
     "rancher"
    ],
-   "sec_repos": 21
+   "sec_repos": 34
   },
   {
    "vendor": "Mozilla",
@@ -1337,7 +1337,7 @@
    "orgs": [
     "mozilla"
    ],
-   "sec_repos": 0
+   "sec_repos": 55
   },
   {
    "vendor": "DuckDuckGo",
@@ -1406,7 +1406,7 @@
    "orgs": [
     "shopify"
    ],
-   "sec_repos": 0
+   "sec_repos": 94
   },
   {
    "vendor": "Goldman Sachs",
@@ -1422,7 +1422,7 @@
    "orgs": [
     "jpmorganchase"
    ],
-   "sec_repos": 0
+   "sec_repos": 1
   },
   {
    "vendor": "American Express",
@@ -1455,7 +1455,7 @@
     "robinhood",
     "robinhoodmarkets"
    ],
-   "sec_repos": 0
+   "sec_repos": 1
   },
   {
    "vendor": "Revolut",
@@ -1464,7 +1464,7 @@
     "revolut",
     "revolut-engineering"
    ],
-   "sec_repos": 0
+   "sec_repos": 5
   },
   {
    "vendor": "Wise (TransferWise)",
@@ -1480,7 +1480,7 @@
    "orgs": [
     "krakenfx"
    ],
-   "sec_repos": 0
+   "sec_repos": 1
   },
   {
    "vendor": "Gemini",
@@ -1513,7 +1513,7 @@
     "okx",
     "okex"
    ],
-   "sec_repos": 0
+   "sec_repos": 26
   },
   {
    "vendor": "Bybit",
@@ -1537,7 +1537,7 @@
    "orgs": [
     "paypal"
    ],
-   "sec_repos": 0
+   "sec_repos": 13
   },
   {
    "vendor": "DigitalOcean",
@@ -1561,7 +1561,7 @@
    "orgs": [
     "paloaltonetworks"
    ],
-   "sec_repos": 0
+   "sec_repos": 8
   },
   {
    "vendor": "NETGEAR",
@@ -1569,7 +1569,7 @@
    "orgs": [
     "netgear"
    ],
-   "sec_repos": 0
+   "sec_repos": 1
   },
   {
    "vendor": "Okta",
@@ -1577,7 +1577,7 @@
    "orgs": [
     "okta"
    ],
-   "sec_repos": 0
+   "sec_repos": 33
   },
   {
    "vendor": "Zscaler",
@@ -1627,7 +1627,7 @@
     "square",
     "cashapp"
    ],
-   "sec_repos": 14
+   "sec_repos": 20
   },
   {
    "vendor": "Klarna",
@@ -1635,7 +1635,7 @@
    "orgs": [
     "klarna"
    ],
-   "sec_repos": 0
+   "sec_repos": 1
   },
   {
    "vendor": "Adyen",
@@ -1659,7 +1659,7 @@
    "orgs": [
     "mastercard"
    ],
-   "sec_repos": 0
+   "sec_repos": 2
   },
   {
    "vendor": "Morgan Stanley",
@@ -1667,7 +1667,7 @@
    "orgs": [
     "morganstanley"
    ],
-   "sec_repos": 0
+   "sec_repos": 2
   },
   {
    "vendor": "BlackRock",
@@ -1683,7 +1683,7 @@
    "orgs": [
     "lyft"
    ],
-   "sec_repos": 0
+   "sec_repos": 14
   },
   {
    "vendor": "DoorDash",
@@ -1770,7 +1770,7 @@
    "orgs": [
     "target"
    ],
-   "sec_repos": 0
+   "sec_repos": 5
   },
   {
    "vendor": "Starbucks",
@@ -1818,7 +1818,7 @@
    "orgs": [
     "telekom"
    ],
-   "sec_repos": 0
+   "sec_repos": 64
   },
   {
    "vendor": "Vodafone",
@@ -1944,7 +1944,7 @@
    "orgs": [
     "nubank"
    ],
-   "sec_repos": 0
+   "sec_repos": 18
   },
   {
    "vendor": "Mercado Libre",
@@ -1952,7 +1952,7 @@
    "orgs": [
     "mercadolibre"
    ],
-   "sec_repos": 0
+   "sec_repos": 3
   },
   {
    "vendor": "Zalando",
@@ -1968,7 +1968,7 @@
    "orgs": [
     "spotify"
    ],
-   "sec_repos": 0
+   "sec_repos": 25
   }
  ],
  "orgs_failed": []

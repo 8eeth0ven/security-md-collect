@@ -1,1 +1,86 @@
-[]
+[
+ {
+  "vendor": "Snap",
+  "org": "snapchat",
+  "full_name": "Snapchat/Valdi",
+  "url": "https://github.com/Snapchat/Valdi",
+  "sec_path": "SECURITY.md",
+  "stars": 16384,
+  "language": "C++",
+  "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:00"
+ },
+ {
+  "vendor": "Snap",
+  "org": "snapchat",
+  "full_name": "Snapchat/GiGL",
+  "url": "https://github.com/Snapchat/GiGL",
+  "sec_path": "SECURITY.md",
+  "stars": 86,
+  "language": "Python",
+  "description": "Gigantic Graph Learning (GiGL) Framework: Large-scale training and inference for Graph Neural Networks",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:00"
+ },
+ {
+  "vendor": "Snap",
+  "org": "snapchat",
+  "full_name": "Snapchat/SnapRHI",
+  "url": "https://github.com/Snapchat/SnapRHI",
+  "sec_path": "SECURITY.md",
+  "stars": 47,
+  "language": "C++",
+  "description": "A lightweight, modern Render Hardware Interface (RHI) abstraction layer for C++ SnapRHI provides a clean, unified API that abstracts away the complexity of mode…",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:00"
+ },
+ {
+  "vendor": "Snap",
+  "org": "snapchat",
+  "full_name": "Snapchat/Valdi_Widgets",
+  "url": "https://github.com/Snapchat/Valdi_Widgets",
+  "sec_path": "SECURITY.md",
+  "stars": 45,
+  "language": "TypeScript",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:00"
+ },
+ {
+  "vendor": "Snap",
+  "org": "snapchat",
+  "full_name": "Snapchat/react-camera-kit",
+  "url": "https://github.com/Snapchat/react-camera-kit",
+  "sec_path": "SECURITY.md",
+  "stars": 25,
+  "language": "TypeScript",
+  "description": "Official React bindings for Snap Camera Kit — create interactive, lens-powered AR experiences on the web.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:00"
+ },
+ {
+  "vendor": "Snap",
+  "org": "snapchat",
+  "full_name": "Snapchat/KeyDB-docs",
+  "url": "https://github.com/Snapchat/KeyDB-docs",
+  "sec_path": "docs/security.md",
+  "stars": 21,
+  "language": "JavaScript",
+  "description": "KeyDB's official documentation repo",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:00"
+ },
+ {
+  "vendor": "Snap",
+  "org": "snapchat",
+  "full_name": "Snapchat/pyOCD",
+  "url": "https://github.com/Snapchat/pyOCD",
+  "sec_path": "docs/security.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Open source Python library for programming and debugging Arm Cortex-M microcontrollers",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:00"
+ }
+]

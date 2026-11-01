@@ -1,6 +1,54 @@
 [
  {
   "vendor": "Meta",
+  "org": "pytorch",
+  "full_name": "pytorch/pytorch",
+  "url": "https://github.com/pytorch/pytorch",
+  "sec_path": "SECURITY.md",
+  "stars": 105061,
+  "language": "Python",
+  "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+  "license": null,
+  "first_seen": "2026-11-01 23:27:19"
+ },
+ {
+  "vendor": "Meta",
+  "org": "pytorch",
+  "full_name": "pytorch/serve",
+  "url": "https://github.com/pytorch/serve",
+  "sec_path": "SECURITY.md",
+  "stars": 4344,
+  "language": "Java",
+  "description": "Serve, optimize and scale PyTorch models in production",
+  "license": null,
+  "first_seen": "2026-11-01 23:27:19"
+ },
+ {
+  "vendor": "Meta",
+  "org": "pytorch",
+  "full_name": "pytorch/gloo",
+  "url": "https://github.com/pytorch/gloo",
+  "sec_path": "SECURITY.md",
+  "stars": 1463,
+  "language": "C++",
+  "description": "Collective communications library with various primitives for multi-machine training.",
+  "license": null,
+  "first_seen": "2026-11-01 23:27:19"
+ },
+ {
+  "vendor": "Meta",
+  "org": "pytorch",
+  "full_name": "pytorch/tensordict",
+  "url": "https://github.com/pytorch/tensordict",
+  "sec_path": "SECURITY.md",
+  "stars": 1042,
+  "language": "Python",
+  "description": "A dict[str, torch.Tensor] that behaves like one tensor, and TensorClass: typed, batched dataclasses that compile.",
+  "license": null,
+  "first_seen": "2026-11-01 23:27:19"
+ },
+ {
+  "vendor": "Meta",
   "org": "Meta",
   "full_name": "meta/astryx",
   "url": "https://github.com/meta/astryx",

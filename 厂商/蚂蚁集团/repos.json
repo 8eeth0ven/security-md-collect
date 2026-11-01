@@ -1,6 +1,90 @@
 [
  {
   "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-boot",
+  "url": "https://github.com/sofastack/sofa-boot",
+  "sec_path": "SECURITY.md",
+  "stars": 5077,
+  "language": "Java",
+  "description": "SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-rpc",
+  "url": "https://github.com/sofastack/sofa-rpc",
+  "sec_path": "SECURITY.md",
+  "stars": 3919,
+  "language": "Java",
+  "description": "SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-jraft",
+  "url": "https://github.com/sofastack/sofa-jraft",
+  "sec_path": "SECURITY.md",
+  "stars": 3821,
+  "language": "Java",
+  "description": "A production-grade java implementation of RAFT consensus algorithm.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-bolt",
+  "url": "https://github.com/sofastack/sofa-bolt",
+  "sec_path": "SECURITY.md",
+  "stars": 2505,
+  "language": "Java",
+  "description": "SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-ark",
+  "url": "https://github.com/sofastack/sofa-ark",
+  "sec_path": "SECURITY.md",
+  "stars": 1642,
+  "language": "Java",
+  "description": "SOFAArk is a light-weight，java based classloader isolation framework.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-registry",
+  "url": "https://github.com/sofastack/sofa-registry",
+  "sec_path": "SECURITY.md",
+  "stars": 661,
+  "language": "Java",
+  "description": "SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial. ",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-jakarta-transformer",
+  "url": "https://github.com/sofastack/sofa-jakarta-transformer",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Java",
+  "description": "Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping chang…",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
   "org": "alipay",
   "full_name": "alipay/onnx",
   "url": "https://github.com/alipay/onnx",
@@ -207,5 +291,29 @@
   "language": null,
   "description": "G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.",
   "first_seen": "2026-11-01 18:01:55"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-rpc-1",
+  "url": "https://github.com/sofastack/sofa-rpc-1",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Java",
+  "description": "SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
+ },
+ {
+  "vendor": "蚂蚁集团",
+  "org": "sofastack",
+  "full_name": "sofastack/sofa-boot-3",
+  "url": "https://github.com/sofastack/sofa-boot-3",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Java",
+  "description": "SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.",
+  "license": null,
+  "first_seen": "2026-11-01 23:44:20"
  }
 ]
