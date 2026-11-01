@@ -12,6 +12,39 @@
  },
  {
   "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/TheRock",
+  "url": "https://github.com/ROCm/TheRock",
+  "sec_path": "SECURITY.md",
+  "stars": 1419,
+  "language": "Python",
+  "description": "The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/HIPIFY",
+  "url": "https://github.com/ROCm/HIPIFY",
+  "sec_path": "SECURITY.md",
+  "stars": 735,
+  "language": "C++",
+  "description": "HIPIFY: Convert CUDA to Portable C++ Code",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/tensorflow-upstream",
+  "url": "https://github.com/ROCm/tensorflow-upstream",
+  "sec_path": "SECURITY.md",
+  "stars": 707,
+  "language": "C++",
+  "description": "TensorFlow ROCm port",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
   "org": "AMD",
   "full_name": "amd/skills",
   "url": "https://github.com/amd/skills",
@@ -20,6 +53,72 @@
   "language": "Python",
   "description": "Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.",
   "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/AMDMIGraphX",
+  "url": "https://github.com/ROCm/AMDMIGraphX",
+  "sec_path": "SECURITY.md",
+  "stars": 337,
+  "language": "C++",
+  "description": "AMD's graph optimization engine.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-examples",
+  "url": "https://github.com/ROCm/rocm-examples",
+  "sec_path": "SECURITY.md",
+  "stars": 329,
+  "language": "C++",
+  "description": "A collection of examples for the ROCm software stack",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/pytorch",
+  "url": "https://github.com/ROCm/pytorch",
+  "sec_path": "SECURITY.md",
+  "stars": 261,
+  "language": "Python",
+  "description": "Tensors and Dynamic neural networks in Python  with strong GPU acceleration. To use PyTorch with latest ROCm releases, see: https://rocm.docs.amd.com/en/latest/…",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/llvm-project",
+  "url": "https://github.com/ROCm/llvm-project",
+  "sec_path": "SECURITY.md",
+  "stars": 244,
+  "language": "LLVM",
+  "description": "This is the AMD-maintained fork of the LLVM git repository. This repository accepts pull requests and issues related to AMD fork-specific topics (amd/*). For al…",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/iris",
+  "url": "https://github.com/ROCm/iris",
+  "sec_path": "SECURITY.md",
+  "stars": 203,
+  "language": "Python",
+  "description": "AMD RAD's multi-GPU Triton-based framework for seamless multi-GPU programming",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocMLIR",
+  "url": "https://github.com/ROCm/rocMLIR",
+  "sec_path": "SECURITY.md",
+  "stars": 195,
+  "language": "MLIR",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
  },
  {
   "vendor": "AMD",
@@ -34,6 +133,259 @@
  },
  {
   "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/spur",
+  "url": "https://github.com/ROCm/spur",
+  "sec_path": "SECURITY.md",
+  "stars": 137,
+  "language": "Rust",
+  "description": "spur your compute",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/vllm",
+  "url": "https://github.com/ROCm/vllm",
+  "sec_path": "SECURITY.md",
+  "stars": 124,
+  "language": "Python",
+  "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/ROCmValidationSuite",
+  "url": "https://github.com/ROCm/ROCmValidationSuite",
+  "sec_path": "SECURITY.md",
+  "stars": 110,
+  "language": "C++",
+  "description": "A system validation and diagnostics tool for monitoring, stress testing, detecting, and troubleshooting issues impacting AMD GPUs in high-performance computing …",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm_bandwidth_test",
+  "url": "https://github.com/ROCm/rocm_bandwidth_test",
+  "sec_path": "SECURITY.md",
+  "stars": 90,
+  "language": "C++",
+  "description": "Bandwidth test for ROCm",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocprof-compute-viewer",
+  "url": "https://github.com/ROCm/rocprof-compute-viewer",
+  "sec_path": "SECURITY.md",
+  "stars": 79,
+  "language": "C++",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/TransformerEngine",
+  "url": "https://github.com/ROCm/TransformerEngine",
+  "sec_path": "SECURITY.md",
+  "stars": 77,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-xio",
+  "url": "https://github.com/ROCm/rocm-xio",
+  "sec_path": "SECURITY.md",
+  "stars": 72,
+  "language": "HIP",
+  "description": "A ROCm library for GPU-Initiated IO. This provides support for initiating IO from a ROCm-capable GPU against a range of targets including RDMA NICs, NVMe SSDs a…",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/gfx950-gluon-tutorials",
+  "url": "https://github.com/ROCm/gfx950-gluon-tutorials",
+  "sec_path": "SECURITY.md",
+  "stars": 57,
+  "language": "Python",
+  "description": "A practical guide to high-performance gluon kernel development on AMD GFX9 GPUs.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-cli",
+  "url": "https://github.com/ROCm/rocm-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 49,
+  "language": "Rust",
+  "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model serving, and chat.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/container-toolkit",
+  "url": "https://github.com/ROCm/container-toolkit",
+  "sec_path": "SECURITY.md",
+  "stars": 47,
+  "language": "Go",
+  "description": "Offers tools that streamline the use of AMD GPUs with containers.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/Megatron-LM",
+  "url": "https://github.com/ROCm/Megatron-LM",
+  "sec_path": "SECURITY.md",
+  "stars": 44,
+  "language": "Python",
+  "description": "Ongoing research training transformer models at scale",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/roc-optiq",
+  "url": "https://github.com/ROCm/roc-optiq",
+  "sec_path": "SECURITY.md",
+  "stars": 33,
+  "language": "C++",
+  "description": "A visualizer for the ROCm Profiler Tools ",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/jax",
+  "url": "https://github.com/ROCm/jax",
+  "sec_path": "docs/security.md",
+  "stars": 32,
+  "language": "Python",
+  "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-ernic",
+  "url": "https://github.com/ROCm/rocm-ernic",
+  "sec_path": "SECURITY.md",
+  "stars": 30,
+  "language": "C",
+  "description": "A vfio-user based emulated AMD Pensando RDMA NIC.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/libhipcxx",
+  "url": "https://github.com/ROCm/libhipcxx",
+  "sec_path": "SECURITY.md",
+  "stars": 30,
+  "language": "C++",
+  "description": "The C++ Standard Library for your entire system.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/omnistat",
+  "url": "https://github.com/ROCm/omnistat",
+  "sec_path": "SECURITY.md",
+  "stars": 27,
+  "language": "Python",
+  "description": "Scale-out system monitoring",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/hipFile",
+  "url": "https://github.com/ROCm/hipFile",
+  "sec_path": "SECURITY.md",
+  "stars": 26,
+  "language": "C++",
+  "description": "[DEPRECATED] Moved to ROCm/rocm-systems repo",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/torch_migraphx",
+  "url": "https://github.com/ROCm/torch_migraphx",
+  "sec_path": "SECURITY.md",
+  "stars": 22,
+  "language": "Python",
+  "description": "Torch-MIGraphX integrates AMD's graph inference engine with the PyTorch ecosystem.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/hip-ep",
+  "url": "https://github.com/ROCm/hip-ep",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "C++",
+  "description": "ROCm Execution Provider for ONNX Runtime on AMD GPUs. Compiles ONNX models through MLIR to LLVM bitcode, JIT-loads them at session creation, and dispatches to h…",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/cvs",
+  "url": "https://github.com/ROCm/cvs",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/hipObject",
+  "url": "https://github.com/ROCm/hipObject",
+  "sec_path": "SECURITY.md",
+  "stars": 16,
+  "language": "C++",
+  "description": "A ROCm library for RDMA-based object storage with Direct-to-VRAM DMA support on AMD GPUs.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/hipCOMP-core",
+  "url": "https://github.com/ROCm/hipCOMP-core",
+  "sec_path": "SECURITY.md",
+  "stars": 15,
+  "language": "C++",
+  "description": "hipCOMP is a library for fast lossless compression/decompression on the GPU. This repository contains the algorithms.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/RIXL",
+  "url": "https://github.com/ROCm/RIXL",
+  "sec_path": "SECURITY.md",
+  "stars": 15,
+  "language": "C++",
+  "description": "DEPRECATED  REPOSITORY. ROCm Inference Transfer Library (RIXL) is a port of the NIXL library for AMD GPUs. See README_rocm.md for AMD specific instructions for …",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
   "org": "AMD",
   "full_name": "amd/ZenDNN-onnxruntime",
   "url": "https://github.com/amd/ZenDNN-onnxruntime",
@@ -42,6 +394,17 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/FastFlow-SDK",
+  "url": "https://github.com/ROCm/FastFlow-SDK",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "Python",
+  "description": "FastFlow-SDK is a software stack for running and developing applications on AMD XDNA Neural Processing Engines (NPUs).",
+  "first_seen": "2026-11-01 17:11:17"
  },
  {
   "vendor": "AMD",
@@ -56,6 +419,28 @@
  },
  {
   "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/gpu-cluster-networking",
+  "url": "https://github.com/ROCm/gpu-cluster-networking",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "Python",
+  "description": "Cluster networking documentation for AMD Instinct accelerators",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/hipCollections",
+  "url": "https://github.com/ROCm/hipCollections",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "C++",
+  "description": "Header-only library of GPU-accelerated, concurrent data structures.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
   "org": "AMD",
   "full_name": "amd/ZenDNN-tensorflow-plugin",
   "url": "https://github.com/amd/ZenDNN-tensorflow-plugin",
@@ -64,6 +449,28 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/aorta",
+  "url": "https://github.com/ROCm/aorta",
+  "sec_path": "SECURITY.md",
+  "stars": 11,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/onnxruntime",
+  "url": "https://github.com/ROCm/onnxruntime",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "C++",
+  "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
+  "first_seen": "2026-11-01 17:12:10"
  },
  {
   "vendor": "AMD",
@@ -78,6 +485,39 @@
  },
  {
   "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocmlirTriton",
+  "url": "https://github.com/ROCm/rocmlirTriton",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "C++",
+  "description": "MLIR kernel generator for AMD GPUs (GEMM, conv, attention, fused), built on a Triton compilation backend.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/instinct-docs",
+  "url": "https://github.com/ROCm/instinct-docs",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": null,
+  "description": "AMD Instinct Data Center GPU docs",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/Paddle",
+  "url": "https://github.com/ROCm/Paddle",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "C++",
+  "description": "PArallel Distributed Deep LEarning",
+  "first_seen": "2026-11-01 17:12:10"
+ },
+ {
+  "vendor": "AMD",
   "org": "AMD",
   "full_name": "amd/spack",
   "url": "https://github.com/amd/spack",
@@ -86,6 +526,28 @@
   "language": "Python",
   "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
   "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/axis",
+  "url": "https://github.com/ROCm/axis",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Rust",
+  "description": "AXIS: Agent eXecution Isolation Substrate — secure sandbox runtime for AI agents",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/formal-models",
+  "url": "https://github.com/ROCm/formal-models",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
  },
  {
   "vendor": "AMD",
@@ -100,6 +562,39 @@
  },
  {
   "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/DeepSpeed",
+  "url": "https://github.com/ROCm/DeepSpeed",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Python",
+  "description": "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.",
+  "first_seen": "2026-11-01 17:12:10"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/AMDiffusionBenchmark",
+  "url": "https://github.com/ROCm/AMDiffusionBenchmark",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "Benchmarking training throughput of contemporary diffusion models on AMD's GPU hardware.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/transformers",
+  "url": "https://github.com/ROCm/transformers",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+  "first_seen": "2026-11-01 17:12:10"
+ },
+ {
+  "vendor": "AMD",
   "org": "AMD",
   "full_name": "amd/dotnet-runtime",
   "url": "https://github.com/amd/dotnet-runtime",
@@ -111,6 +606,83 @@
  },
  {
   "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-docs",
+  "url": "https://github.com/ROCm/rocm-docs",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "Source for the ROCm documentation website (rocm.docs.amd.com)",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocprofiler-systems-skills",
+  "url": "https://github.com/ROCm/rocprofiler-systems-skills",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "A collection of skills used by the rocprof-sys team",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-tests",
+  "url": "https://github.com/ROCm/rocm-tests",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Python",
+  "description": "A pytest based system test framework that validates the full AMD ROCm stack across diverse environments.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/cm",
+  "url": "https://github.com/ROCm/cm",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Rust",
+  "description": "Frontend for configuring/building/testing CMake projects",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/amd-anp",
+  "url": "https://github.com/ROCm/amd-anp",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "C++",
+  "description": "AINIC Network Plugin",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-spack",
+  "url": "https://github.com/ROCm/rocm-spack",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Python",
+  "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+  "first_seen": "2026-11-01 17:12:10"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/horovod",
+  "url": "https://github.com/ROCm/horovod",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Python",
+  "description": "Distributed training framework for TensorFlow, Keras, and PyTorch.",
+  "first_seen": "2026-11-01 17:12:10"
+ },
+ {
+  "vendor": "AMD",
   "org": "AMD",
   "full_name": "amd/ZenDNN-tensorflow",
   "url": "https://github.com/amd/ZenDNN-tensorflow",
@@ -119,6 +691,39 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocjitsu-test-corpus",
+  "url": "https://github.com/ROCm/rocjitsu-test-corpus",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Assembly",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/maxtext",
+  "url": "https://github.com/ROCm/maxtext",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "A simple, performant and scalable Jax LLM!",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-installer-runfile",
+  "url": "https://github.com/ROCm/rocm-installer-runfile",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Shell",
+  "description": "Code for the ROCm runfile installer which is one method users can install ROCm and the AMDGPU driver on Linux",
+  "first_seen": "2026-11-01 17:11:17"
  },
  {
   "vendor": "AMD",
@@ -166,6 +771,39 @@
  },
  {
   "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/triton-inference-server-vllm_backend-legacy",
+  "url": "https://github.com/ROCm/triton-inference-server-vllm_backend-legacy",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/system-acceptance-docs",
+  "url": "https://github.com/ROCm/system-acceptance-docs",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/pytorch-lightning",
+  "url": "https://github.com/ROCm/pytorch-lightning",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+  "first_seen": "2026-11-01 17:12:10"
+ },
+ {
+  "vendor": "AMD",
   "org": "AMD",
   "full_name": "amd/oneDNN-Zen",
   "url": "https://github.com/amd/oneDNN-Zen",
@@ -185,6 +823,116 @@
   "language": "Rust",
   "description": "A secure embedded operating system for microcontrollers",
   "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/Quartz",
+  "url": "https://github.com/ROCm/Quartz",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Central CI/CD Data Hub for the ROCm Ecosystem",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/ggml-staging-automation",
+  "url": "https://github.com/ROCm/ggml-staging-automation",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Release management repo for AMD staging ggml project branches (prior to upstreaming).",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/hip-verbs-acceptance",
+  "url": "https://github.com/ROCm/hip-verbs-acceptance",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C++",
+  "description": "Acceptance suite for the HIP runtime and RDMA Verbs: functional and performance tests for GPU, NIC and GPU+NIC paths, gated by per-platform policies.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/fuzz-fill",
+  "url": "https://github.com/ROCm/fuzz-fill",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Fuzzing to fill test suite gaps",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/amd-rocm-optimization-guide",
+  "url": "https://github.com/ROCm/amd-rocm-optimization-guide",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "CMake",
+  "description": "Performance optimization techniques and tutorials for AMD GPUs using HIP and ROCm",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/triton-inference-server-server-legacy",
+  "url": "https://github.com/ROCm/triton-inference-server-server-legacy",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/nixl",
+  "url": "https://github.com/ROCm/nixl",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C++",
+  "description": "AMD maintained fork of the NIXL repository",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/DeepSpeedExamples",
+  "url": "https://github.com/ROCm/DeepSpeedExamples",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Example models using DeepSpeed",
+  "first_seen": "2026-11-01 17:12:10"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/DeepSpeed-MII",
+  "url": "https://github.com/ROCm/DeepSpeed-MII",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.",
+  "first_seen": "2026-11-01 17:12:10"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/superbenchmark",
+  "url": "https://github.com/ROCm/superbenchmark",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Provide hardware and software benchmarks for AI systems",
+  "first_seen": "2026-11-01 17:12:10"
  },
  {
   "vendor": "AMD",
@@ -244,232 +992,12 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
-  "full_name": "ROCm/hip-ep",
-  "url": "https://github.com/ROCm/hip-ep",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ROCm Execution Provider for ONNX Runtime on AMD GPUs. Compiles ONNX models through MLIR to LLVM bitcode, JIT-loads them at session creation, and dispatches to h…",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/Quartz",
-  "url": "https://github.com/ROCm/Quartz",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Central CI/CD Data Hub for the ROCm Ecosystem",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/TheRock",
-  "url": "https://github.com/ROCm/TheRock",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
   "full_name": "ROCm/rocm-fortran-generator",
   "url": "https://github.com/ROCm/rocm-fortran-generator",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Julia",
   "description": "Generates the Fortran bindings of HIP, ROCTx and the ROCm math libraries from their C headers",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/spur",
-  "url": "https://github.com/ROCm/spur",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "spur your compute",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/llvm-project",
-  "url": "https://github.com/ROCm/llvm-project",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "This is the AMD-maintained fork of the LLVM git repository. This repository accepts pull requests and issues related to AMD fork-specific topics (amd/*). For al…",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-ernic",
-  "url": "https://github.com/ROCm/rocm-ernic",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A vfio-user based emulated AMD Pensando RDMA NIC.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/ggml-staging-automation",
-  "url": "https://github.com/ROCm/ggml-staging-automation",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Release management repo for AMD staging ggml project branches (prior to upstreaming).",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/AMDMIGraphX",
-  "url": "https://github.com/ROCm/AMDMIGraphX",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AMD's graph optimization engine.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/pytorch",
-  "url": "https://github.com/ROCm/pytorch",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Tensors and Dynamic neural networks in Python  with strong GPU acceleration. To use PyTorch with latest ROCm releases, see: https://rocm.docs.amd.com/en/latest/…",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/aorta",
-  "url": "https://github.com/ROCm/aorta",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/iris",
-  "url": "https://github.com/ROCm/iris",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AMD RAD's multi-GPU Triton-based framework for seamless multi-GPU programming",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/TransformerEngine",
-  "url": "https://github.com/ROCm/TransformerEngine",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-xio",
-  "url": "https://github.com/ROCm/rocm-xio",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A ROCm library for GPU-Initiated IO. This provides support for initiating IO from a ROCm-capable GPU against a range of targets including RDMA NICs, NVMe SSDs a…",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/cvs",
-  "url": "https://github.com/ROCm/cvs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/ROCmValidationSuite",
-  "url": "https://github.com/ROCm/ROCmValidationSuite",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A system validation and diagnostics tool for monitoring, stress testing, detecting, and troubleshooting issues impacting AMD GPUs in high-performance computing …",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/vllm",
-  "url": "https://github.com/ROCm/vllm",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/omnistat",
-  "url": "https://github.com/ROCm/omnistat",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Scale-out system monitoring",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/roc-optiq",
-  "url": "https://github.com/ROCm/roc-optiq",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A visualizer for the ROCm Profiler Tools ",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-examples",
-  "url": "https://github.com/ROCm/rocm-examples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A collection of examples for the ROCm software stack",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/tensorflow-upstream",
-  "url": "https://github.com/ROCm/tensorflow-upstream",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "TensorFlow ROCm port",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -479,41 +1007,8 @@
   "url": "https://github.com/ROCm/dnn-benchmarking",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Benchmarking and validation tool for hipDNN graphs.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocmlirTriton",
-  "url": "https://github.com/ROCm/rocmlirTriton",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "MLIR kernel generator for AMD GPUs (GEMM, conv, attention, fused), built on a Triton compilation backend.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-cli",
-  "url": "https://github.com/ROCm/rocm-cli",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model serving, and chat.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-docs",
-  "url": "https://github.com/ROCm/rocm-docs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Source for the ROCm documentation website (rocm.docs.amd.com)",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -523,85 +1018,8 @@
   "url": "https://github.com/ROCm/kernel-module-management",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/hip-verbs-acceptance",
-  "url": "https://github.com/ROCm/hip-verbs-acceptance",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Acceptance suite for the HIP runtime and RDMA Verbs: functional and performance tests for GPU, NIC and GPU+NIC paths, gated by per-platform policies.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocjitsu-test-corpus",
-  "url": "https://github.com/ROCm/rocjitsu-test-corpus",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocprofiler-systems-skills",
-  "url": "https://github.com/ROCm/rocprofiler-systems-skills",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A collection of skills used by the rocprof-sys team",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/FastFlow-SDK",
-  "url": "https://github.com/ROCm/FastFlow-SDK",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "FastFlow-SDK is a software stack for running and developing applications on AMD XDNA Neural Processing Engines (NPUs).",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/libhipcxx",
-  "url": "https://github.com/ROCm/libhipcxx",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The C++ Standard Library for your entire system.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/maxtext",
-  "url": "https://github.com/ROCm/maxtext",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A simple, performant and scalable Jax LLM!",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/axis",
-  "url": "https://github.com/ROCm/axis",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AXIS: Agent eXecution Isolation Substrate — secure sandbox runtime for AI agents",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -611,63 +1029,8 @@
   "url": "https://github.com/ROCm/rocm-docs-style",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocMLIR",
-  "url": "https://github.com/ROCm/rocMLIR",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-installer-runfile",
-  "url": "https://github.com/ROCm/rocm-installer-runfile",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Code for the ROCm runfile installer which is one method users can install ROCm and the AMDGPU driver on Linux",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/jax",
-  "url": "https://github.com/ROCm/jax",
-  "sec_path": "docs/security.md",
-  "stars": null,
-  "language": null,
-  "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-tests",
-  "url": "https://github.com/ROCm/rocm-tests",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A pytest based system test framework that validates the full AMD ROCm stack across diverse environments.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/hipCOMP-core",
-  "url": "https://github.com/ROCm/hipCOMP-core",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "hipCOMP is a library for fast lossless compression/decompression on the GPU. This repository contains the algorithms.",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -677,41 +1040,8 @@
   "url": "https://github.com/ROCm/common-infra-operator",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Shared CI/CD workflows, pytest test framework, and utilities for ROCm GPU Operator components",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/HIPIFY",
-  "url": "https://github.com/ROCm/HIPIFY",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "HIPIFY: Convert CUDA to Portable C++ Code",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/torch_migraphx",
-  "url": "https://github.com/ROCm/torch_migraphx",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Torch-MIGraphX integrates AMD's graph inference engine with the PyTorch ecosystem.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/fuzz-fill",
-  "url": "https://github.com/ROCm/fuzz-fill",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Fuzzing to fill test suite gaps",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -721,7 +1051,7 @@
   "url": "https://github.com/ROCm/ROCgdb-docs",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "This repository contains the documentation for AMD ROCm Debugger (ROCgdb) on Linux, AMD’s source-level debugger based on the GNU Debugger (GDB). ROCgdb enables …",
   "first_seen": "2026-11-01 17:11:17"
  },
@@ -732,85 +1062,8 @@
   "url": "https://github.com/ROCm/rocm-security-gh",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "This Repo provides Security baseline files, scan tools, branch protection rules etc., to use by the ROCm org repositories",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocprof-compute-viewer",
-  "url": "https://github.com/ROCm/rocprof-compute-viewer",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/container-toolkit",
-  "url": "https://github.com/ROCm/container-toolkit",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Offers tools that streamline the use of AMD GPUs with containers.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/hipObject",
-  "url": "https://github.com/ROCm/hipObject",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A ROCm library for RDMA-based object storage with Direct-to-VRAM DMA support on AMD GPUs.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/gfx950-gluon-tutorials",
-  "url": "https://github.com/ROCm/gfx950-gluon-tutorials",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A practical guide to high-performance gluon kernel development on AMD GFX9 GPUs.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/Megatron-LM",
-  "url": "https://github.com/ROCm/Megatron-LM",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Ongoing research training transformer models at scale",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/formal-models",
-  "url": "https://github.com/ROCm/formal-models",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/amd-rocm-optimization-guide",
-  "url": "https://github.com/ROCm/amd-rocm-optimization-guide",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Performance optimization techniques and tutorials for AMD GPUs using HIP and ROCm",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -827,105 +1080,6 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
-  "full_name": "ROCm/cm",
-  "url": "https://github.com/ROCm/cm",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Frontend for configuring/building/testing CMake projects",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/gpu-cluster-networking",
-  "url": "https://github.com/ROCm/gpu-cluster-networking",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Cluster networking documentation for AMD Instinct accelerators",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/amd-anp",
-  "url": "https://github.com/ROCm/amd-anp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AINIC Network Plugin",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/instinct-docs",
-  "url": "https://github.com/ROCm/instinct-docs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AMD Instinct Data Center GPU docs",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/RIXL",
-  "url": "https://github.com/ROCm/RIXL",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "DEPRECATED  REPOSITORY. ROCm Inference Transfer Library (RIXL) is a port of the NIXL library for AMD GPUs. See README_rocm.md for AMD specific instructions for …",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/AMDiffusionBenchmark",
-  "url": "https://github.com/ROCm/AMDiffusionBenchmark",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Benchmarking training throughput of contemporary diffusion models on AMD's GPU hardware.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/triton-inference-server-vllm_backend-legacy",
-  "url": "https://github.com/ROCm/triton-inference-server-vllm_backend-legacy",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm_bandwidth_test",
-  "url": "https://github.com/ROCm/rocm_bandwidth_test",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Bandwidth test for ROCm",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/triton-inference-server-server-legacy",
-  "url": "https://github.com/ROCm/triton-inference-server-server-legacy",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
   "full_name": "ROCm/quartz-sandbox-downstream",
   "url": "https://github.com/ROCm/quartz-sandbox-downstream",
   "sec_path": "SECURITY.md",
@@ -937,56 +1091,12 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
-  "full_name": "ROCm/hipCollections",
-  "url": "https://github.com/ROCm/hipCollections",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Header-only library of GPU-accelerated, concurrent data structures.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/hipFile",
-  "url": "https://github.com/ROCm/hipFile",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "[DEPRECATED] Moved to ROCm/rocm-systems repo",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/nixl",
-  "url": "https://github.com/ROCm/nixl",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AMD maintained fork of the NIXL repository",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
   "full_name": "ROCm/jax-lab",
   "url": "https://github.com/ROCm/jax-lab",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "A JAX benchmarking framework for reproducible and comparable evaluation of configurable workloads on AMD GPUs.",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/system-acceptance-docs",
-  "url": "https://github.com/ROCm/system-acceptance-docs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -1018,30 +1128,8 @@
   "url": "https://github.com/ROCm/quartz-sandbox",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Sandbox/Development environment for Quartz to test the entire data flow.",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-spack",
-  "url": "https://github.com/ROCm/rocm-spack",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/onnxruntime",
-  "url": "https://github.com/ROCm/onnxruntime",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
   "first_seen": "2026-11-01 17:12:10"
  },
  {
@@ -1051,41 +1139,8 @@
   "url": "https://github.com/ROCm/llama-cpp-temp-fork",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C++",
   "description": "This is a temporary fork of llama.cpp to support AMD development efforts while we are migrating GitHub organizations. Final location: https://github.com/AMD-Eco…",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/transformers",
-  "url": "https://github.com/ROCm/transformers",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/DeepSpeed",
-  "url": "https://github.com/ROCm/DeepSpeed",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/Paddle",
-  "url": "https://github.com/ROCm/Paddle",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "PArallel Distributed Deep LEarning",
   "first_seen": "2026-11-01 17:12:10"
  },
  {
@@ -1095,30 +1150,8 @@
   "url": "https://github.com/ROCm/SPIRV-Headers",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C++",
   "description": "SPIRV-Headers",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/horovod",
-  "url": "https://github.com/ROCm/horovod",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Distributed training framework for TensorFlow, Keras, and PyTorch.",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/DeepSpeedExamples",
-  "url": "https://github.com/ROCm/DeepSpeedExamples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Example models using DeepSpeed",
   "first_seen": "2026-11-01 17:12:10"
  },
  {
@@ -1128,19 +1161,8 @@
   "url": "https://github.com/ROCm/OpenLLM",
   "sec_path": ".github/SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Operating LLMs in production",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/pytorch-lightning",
-  "url": "https://github.com/ROCm/pytorch-lightning",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
   "first_seen": "2026-11-01 17:12:10"
  },
  {
@@ -1157,33 +1179,11 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
-  "full_name": "ROCm/DeepSpeed-MII",
-  "url": "https://github.com/ROCm/DeepSpeed-MII",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/superbenchmark",
-  "url": "https://github.com/ROCm/superbenchmark",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Provide hardware and software benchmarks for AI systems",
-  "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
   "full_name": "ROCm/onnxruntime-training-examples",
   "url": "https://github.com/ROCm/onnxruntime-training-examples",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "Examples for using ONNX Runtime for model training.",
   "first_seen": "2026-11-01 17:12:10"
  }

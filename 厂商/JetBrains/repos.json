@@ -2,12 +2,111 @@
  {
   "vendor": "JetBrains",
   "org": "JetBrains",
+  "full_name": "JetBrains/kotlin",
+  "url": "https://github.com/JetBrains/kotlin",
+  "sec_path": "SECURITY.md",
+  "stars": 53533,
+  "language": "Kotlin",
+  "description": "The Kotlin Programming Language. ",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
   "full_name": "JetBrains/intellij-community",
   "url": "https://github.com/JetBrains/intellij-community",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 20695,
+  "language": "Java",
   "description": "IntelliJ IDEA & IntelliJ Platform",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/compose-multiplatform",
+  "url": "https://github.com/JetBrains/compose-multiplatform",
+  "sec_path": "SECURITY.md",
+  "stars": 19462,
+  "language": "Kotlin",
+  "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/skiko",
+  "url": "https://github.com/JetBrains/skiko",
+  "sec_path": "SECURITY.md",
+  "stars": 2196,
+  "language": "Kotlin",
+  "description": "Kotlin Multiplatform bindings to Skia",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/JetBrainsRuntime",
+  "url": "https://github.com/JetBrains/JetBrainsRuntime",
+  "sec_path": "SECURITY.md",
+  "stars": 2018,
+  "language": "Java",
+  "description": "Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/kotlin-web-site",
+  "url": "https://github.com/JetBrains/kotlin-web-site",
+  "sec_path": "SECURITY.md",
+  "stars": 1629,
+  "language": "TypeScript",
+  "description": "The Kotlin programming language website",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/jewel",
+  "url": "https://github.com/JetBrains/jewel",
+  "sec_path": "SECURITY.md",
+  "stars": 861,
+  "language": "Kotlin",
+  "description": "[MOVED TO IJ PLATFORM] An implementation of the IntelliJ look and feels in Compose for Desktop",
+  "first_seen": "2026-11-01 16:55:11"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/youtrackdb",
+  "url": "https://github.com/JetBrains/youtrackdb",
+  "sec_path": "docs/security.md",
+  "stars": 442,
+  "language": "Java",
+  "description": "YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID tr…",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/Qodana",
+  "url": "https://github.com/JetBrains/Qodana",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 402,
+  "language": null,
+  "description": "📝 Source repository of Qodana Help",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/qodana-action",
+  "url": "https://github.com/JetBrains/qodana-action",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 314,
+  "language": "JavaScript",
+  "description": "⚙️ Scan your Go, Java, Kotlin, PHP, Python, JavaScript, TypeScript, .NET projects at GitHub with Qodana. This repository contains Qodana for Azure, GitHub, Circ…",
   "first_seen": "2026-11-01 16:54:08"
  },
  {
@@ -16,8 +115,8 @@
   "full_name": "JetBrains/qodana-cli",
   "url": "https://github.com/JetBrains/qodana-cli",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 241,
+  "language": "Go",
   "description": "🔧 JetBrains Qodana’s official command line tool",
   "first_seen": "2026-11-01 16:54:08"
  },
@@ -27,163 +126,9 @@
   "full_name": "JetBrains/teamcity-cli",
   "url": "https://github.com/JetBrains/teamcity-cli",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 130,
+  "language": "Go",
   "description": "TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/youtrackdb",
-  "url": "https://github.com/JetBrains/youtrackdb",
-  "sec_path": "docs/security.md",
-  "stars": null,
-  "language": null,
-  "description": "YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID tr…",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/JetBrainsRuntime",
-  "url": "https://github.com/JetBrains/JetBrainsRuntime",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/kotlin",
-  "url": "https://github.com/JetBrains/kotlin",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The Kotlin Programming Language. ",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/compose-multiplatform",
-  "url": "https://github.com/JetBrains/compose-multiplatform",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/youtrack-cli",
-  "url": "https://github.com/JetBrains/youtrack-cli",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Official command-line client for YouTrack, covering the day-to-day – issues, commands, projects, users — plus the odd jobs: knowledge-base articles, agile board…",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/kotlin-web-site",
-  "url": "https://github.com/JetBrains/kotlin-web-site",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "The Kotlin programming language website",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/teamcity-skills",
-  "url": "https://github.com/JetBrains/teamcity-skills",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "AI skills related to the TeamCity",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/teamcity-mcp",
-  "url": "https://github.com/JetBrains/teamcity-mcp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/teamcity-s3-artifacts-api-plugin",
-  "url": "https://github.com/JetBrains/teamcity-s3-artifacts-api-plugin",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "TeamCity server-side plugin exposing build artifacts over an S3-compatible HTTP API",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/qodana-action",
-  "url": "https://github.com/JetBrains/qodana-action",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "⚙️ Scan your Go, Java, Kotlin, PHP, Python, JavaScript, TypeScript, .NET projects at GitHub with Qodana. This repository contains Qodana for Azure, GitHub, Circ…",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/Qodana",
-  "url": "https://github.com/JetBrains/Qodana",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "📝 Source repository of Qodana Help",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/skiko",
-  "url": "https://github.com/JetBrains/skiko",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Kotlin Multiplatform bindings to Skia",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/permify",
-  "url": "https://github.com/JetBrains/permify",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any appl…",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/typescript-go",
-  "url": "https://github.com/JetBrains/typescript-go",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Unofficial fork maintained by JetBrains.",
   "first_seen": "2026-11-01 16:54:08"
  },
  {
@@ -192,10 +137,120 @@
   "full_name": "JetBrains/azure-tools-for-intellij",
   "url": "https://github.com/JetBrains/azure-tools-for-intellij",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 51,
+  "language": "Java",
   "description": "Azure Toolkit for JetBrains Rider.",
   "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/typescript-go",
+  "url": "https://github.com/JetBrains/typescript-go",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "Go",
+  "description": "Unofficial fork maintained by JetBrains.",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/qodana-docker",
+  "url": "https://github.com/JetBrains/qodana-docker",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 14,
+  "language": "Dockerfile",
+  "description": "⚠️ DEPRECATED, migrated to JetBrains/qodana-cli repository for 2026.1+ releases:",
+  "first_seen": "2026-11-01 16:55:11"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/youtrack-cli",
+  "url": "https://github.com/JetBrains/youtrack-cli",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 7,
+  "language": "Go",
+  "description": "Official command-line client for YouTrack, covering the day-to-day – issues, commands, projects, users — plus the odd jobs: knowledge-base articles, agile board…",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/teamcity-mcp",
+  "url": "https://github.com/JetBrains/teamcity-mcp",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Kotlin",
+  "description": "",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/SharpZipLib",
+  "url": "https://github.com/JetBrains/SharpZipLib",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "C#",
+  "description": "#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/permify",
+  "url": "https://github.com/JetBrains/permify",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Go",
+  "description": "An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any appl…",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/xstream",
+  "url": "https://github.com/JetBrains/xstream",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Java",
+  "description": "Serialize Java objects to XML and back again.",
+  "first_seen": "2026-11-01 16:56:14"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/teamcity-skills",
+  "url": "https://github.com/JetBrains/teamcity-skills",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "AI skills related to the TeamCity",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/terraform-aws-kubernetes",
+  "url": "https://github.com/JetBrains/terraform-aws-kubernetes",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "HCL",
+  "description": "This repository contains a Terraform Module that implements an architectural blueprint for EKS.",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/kotlin-web-site-jetsites-internship-2026",
+  "url": "https://github.com/JetBrains/kotlin-web-site-jetsites-internship-2026",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 16:55:11"
  },
  {
   "vendor": "JetBrains",
@@ -203,9 +258,119 @@
   "full_name": "JetBrains/clrmd",
   "url": "https://github.com/JetBrains/clrmd",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
+  "stars": 2,
+  "language": "C#",
   "description": "Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/NuGet.Client",
+  "url": "https://github.com/JetBrains/NuGet.Client",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "C#",
+  "description": "Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)",
+  "first_seen": "2026-11-01 16:54:08"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/helm-charts",
+  "url": "https://github.com/JetBrains/helm-charts",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Mustache",
+  "description": "JetBrains Helm Charts",
+  "first_seen": "2026-11-01 16:55:11"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/intellij-deps-jgit",
+  "url": "https://github.com/JetBrains/intellij-deps-jgit",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Java",
+  "description": "Fork of jgit library with some extra features (logging, ability to ignore gitconfig)",
+  "first_seen": "2026-11-01 16:55:11"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/winforms",
+  "url": "https://github.com/JetBrains/winforms",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "C#",
+  "description": "Windows Forms is a .NET UI framework for building Windows desktop applications.",
+  "first_seen": "2026-11-01 16:55:11"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/react-buddy-create-react-app",
+  "url": "https://github.com/JetBrains/react-buddy-create-react-app",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "JavaScript",
+  "description": "Set up a modern web app by running one command.",
+  "first_seen": "2026-11-01 16:56:14"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/jSerialComm",
+  "url": "https://github.com/JetBrains/jSerialComm",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C",
+  "description": "Platform-independent serial port access for Java",
+  "first_seen": "2026-11-01 16:55:11"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/terraform-aws-s3-bucket-configuration",
+  "url": "https://github.com/JetBrains/terraform-aws-s3-bucket-configuration",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Makefile",
+  "description": "A Terraform module to manage in code configurations for a given bucket or create a new bucket and apply a desired configuration set to it",
+  "first_seen": "2026-11-01 16:55:11"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/wcf",
+  "url": "https://github.com/JetBrains/wcf",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C#",
+  "description": "This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services.",
+  "first_seen": "2026-11-01 16:56:14"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/jitsi-meet",
+  "url": "https://github.com/JetBrains/jitsi-meet",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "JavaScript",
+  "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+  "first_seen": "2026-11-01 16:57:19"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/teamcity-s3-artifacts-api-plugin",
+  "url": "https://github.com/JetBrains/teamcity-s3-artifacts-api-plugin",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": "Kotlin",
+  "description": "TeamCity server-side plugin exposing build artifacts over an S3-compatible HTTP API",
   "first_seen": "2026-11-01 16:54:08"
  },
  {
@@ -215,7 +380,7 @@
   "url": "https://github.com/JetBrains/modelcontextprotocol-csharp-sdk",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C#",
   "description": "The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.",
   "first_seen": "2026-11-01 16:54:08"
  },
@@ -226,19 +391,8 @@
   "url": "https://github.com/JetBrains/azure-artifacts-credprovider",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C#",
   "description": "The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds.",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/NuGet.Client",
-  "url": "https://github.com/JetBrains/NuGet.Client",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)",
   "first_seen": "2026-11-01 16:54:08"
  },
  {
@@ -248,30 +402,8 @@
   "url": "https://github.com/JetBrains/hermes-agent",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Python",
   "description": "The agent that grows with you",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/terraform-aws-kubernetes",
-  "url": "https://github.com/JetBrains/terraform-aws-kubernetes",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "This repository contains a Terraform Module that implements an architectural blueprint for EKS.",
-  "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/SharpZipLib",
-  "url": "https://github.com/JetBrains/SharpZipLib",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.",
   "first_seen": "2026-11-01 16:54:08"
  },
  {
@@ -281,31 +413,9 @@
   "url": "https://github.com/JetBrains/permify-go",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Permify Go Client",
   "first_seen": "2026-11-01 16:54:08"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/helm-charts",
-  "url": "https://github.com/JetBrains/helm-charts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "JetBrains Helm Charts",
-  "first_seen": "2026-11-01 16:55:11"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/jSerialComm",
-  "url": "https://github.com/JetBrains/jSerialComm",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Platform-independent serial port access for Java",
-  "first_seen": "2026-11-01 16:55:11"
  },
  {
   "vendor": "JetBrains",
@@ -314,30 +424,8 @@
   "url": "https://github.com/JetBrains/sysbox-cri-o",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Temporary CRI-O fork with minor changes required to work with Sysbox on K8s v1.21+. We will work with the CRI-O team to add these to the official CRI-O repo ver…",
-  "first_seen": "2026-11-01 16:55:11"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/qodana-docker",
-  "url": "https://github.com/JetBrains/qodana-docker",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "⚠️ DEPRECATED, migrated to JetBrains/qodana-cli repository for 2026.1+ releases:",
-  "first_seen": "2026-11-01 16:55:11"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/kotlin-web-site-jetsites-internship-2026",
-  "url": "https://github.com/JetBrains/kotlin-web-site-jetsites-internship-2026",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 16:55:11"
  },
  {
@@ -347,52 +435,8 @@
   "url": "https://github.com/JetBrains/sysbox-runc",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Sysbox-runc repository",
-  "first_seen": "2026-11-01 16:55:11"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/terraform-aws-s3-bucket-configuration",
-  "url": "https://github.com/JetBrains/terraform-aws-s3-bucket-configuration",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A Terraform module to manage in code configurations for a given bucket or create a new bucket and apply a desired configuration set to it",
-  "first_seen": "2026-11-01 16:55:11"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/intellij-deps-jgit",
-  "url": "https://github.com/JetBrains/intellij-deps-jgit",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Fork of jgit library with some extra features (logging, ability to ignore gitconfig)",
-  "first_seen": "2026-11-01 16:55:11"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/winforms",
-  "url": "https://github.com/JetBrains/winforms",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Windows Forms is a .NET UI framework for building Windows desktop applications.",
-  "first_seen": "2026-11-01 16:55:11"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/jewel",
-  "url": "https://github.com/JetBrains/jewel",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "[MOVED TO IJ PLATFORM] An implementation of the IntelliJ look and feels in Compose for Desktop",
   "first_seen": "2026-11-01 16:55:11"
  },
  {
@@ -402,7 +446,7 @@
   "url": "https://github.com/JetBrains/bun",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Zig",
   "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
   "first_seen": "2026-11-01 16:55:11"
  },
@@ -413,7 +457,7 @@
   "url": "https://github.com/JetBrains/external-annotations-dotnet-runtime",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C#",
   "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
   "first_seen": "2026-11-01 16:55:11"
  },
@@ -424,30 +468,8 @@
   "url": "https://github.com/JetBrains/templating",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "C#",
   "description": "This repo contains the Template Engine which is used by dotnet new",
-  "first_seen": "2026-11-01 16:56:14"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/xstream",
-  "url": "https://github.com/JetBrains/xstream",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Serialize Java objects to XML and back again.",
-  "first_seen": "2026-11-01 16:56:14"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/wcf",
-  "url": "https://github.com/JetBrains/wcf",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services.",
   "first_seen": "2026-11-01 16:56:14"
  },
  {
@@ -457,30 +479,8 @@
   "url": "https://github.com/JetBrains/react-buddy-react",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "JavaScript",
   "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
   "first_seen": "2026-11-01 16:56:14"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/react-buddy-create-react-app",
-  "url": "https://github.com/JetBrains/react-buddy-create-react-app",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Set up a modern web app by running one command.",
-  "first_seen": "2026-11-01 16:56:14"
- },
- {
-  "vendor": "JetBrains",
-  "org": "JetBrains",
-  "full_name": "JetBrains/jitsi-meet",
-  "url": "https://github.com/JetBrains/jitsi-meet",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
-  "first_seen": "2026-11-01 16:57:19"
  }
 ]

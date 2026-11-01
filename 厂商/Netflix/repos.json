@@ -49,6 +49,17 @@
  },
  {
   "vendor": "Netflix",
+  "org": "Netflix-Skunkworks",
+  "full_name": "Netflix-Skunkworks/LightGBM",
+  "url": "https://github.com/Netflix-Skunkworks/LightGBM",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C++",
+  "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classifica…",
+  "first_seen": "2026-11-01 17:07:58"
+ },
+ {
+  "vendor": "Netflix",
   "org": "netflix",
   "full_name": "Netflix/asf-rez-fork",
   "url": "https://github.com/Netflix/asf-rez-fork",
@@ -62,22 +73,11 @@
  {
   "vendor": "Netflix",
   "org": "Netflix-Skunkworks",
-  "full_name": "Netflix-Skunkworks/LightGBM",
-  "url": "https://github.com/Netflix-Skunkworks/LightGBM",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classifica…",
-  "first_seen": "2026-11-01 17:07:58"
- },
- {
-  "vendor": "Netflix",
-  "org": "Netflix-Skunkworks",
   "full_name": "Netflix-Skunkworks/moby",
   "url": "https://github.com/Netflix-Skunkworks/moby",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
   "first_seen": "2026-11-01 17:07:58"
  },
@@ -88,7 +88,7 @@
   "url": "https://github.com/Netflix-Skunkworks/kinvolk-kubernetes",
   "sec_path": ".github/SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Container Cluster Manager from Google",
   "first_seen": "2026-11-01 17:07:58"
  },
@@ -99,7 +99,7 @@
   "url": "https://github.com/Netflix-Skunkworks/etcd",
   "sec_path": ".github/SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "Go",
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
   "first_seen": "2026-11-01 17:07:58"
  },
@@ -110,7 +110,7 @@
   "url": "https://github.com/Netflix-Skunkworks/makara",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": null,
+  "language": "JavaScript",
   "description": "An i18n module for Dust.js.",
   "first_seen": "2026-11-01 17:07:58"
  }

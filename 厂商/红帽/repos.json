@@ -61,6 +61,17 @@
  },
  {
   "vendor": "红帽",
+  "org": "RedHatOfficial",
+  "full_name": "RedHatOfficial/aap-demo",
+  "url": "https://github.com/RedHatOfficial/aap-demo",
+  "sec_path": "SECURITY.md",
+  "stars": 24,
+  "language": "Shell",
+  "description": "Local cluster infrastructure for Ansible Automation Platform deployment, powered by OpenShift Local. Deploy AAP in minutes on macOS, Linux, or Windows.",
+  "first_seen": "2026-11-01 17:13:03"
+ },
+ {
+  "vendor": "红帽",
   "org": "openshift",
   "full_name": "openshift/ocp-release-operator-sdk",
   "url": "https://github.com/openshift/ocp-release-operator-sdk",
@@ -166,6 +177,17 @@
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
   "license": null,
   "first_seen": "2026-11-01 23:12:46"
+ },
+ {
+  "vendor": "红帽",
+  "org": "RedHatOfficial",
+  "full_name": "RedHatOfficial/aap-containerized-add-node",
+  "url": "https://github.com/RedHatOfficial/aap-containerized-add-node",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Jinja",
+  "description": "Code for adding hop and execution nodes into a containerized AAP installation without running the full installer",
+  "first_seen": "2026-11-01 17:13:03"
  },
  {
   "vendor": "红帽",
@@ -706,28 +728,6 @@
   "description": "Kubernetes OpenAPI spec generation & serving",
   "license": null,
   "first_seen": "2026-11-01 23:15:07"
- },
- {
-  "vendor": "红帽",
-  "org": "RedHatOfficial",
-  "full_name": "RedHatOfficial/aap-demo",
-  "url": "https://github.com/RedHatOfficial/aap-demo",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Local cluster infrastructure for Ansible Automation Platform deployment, powered by OpenShift Local. Deploy AAP in minutes on macOS, Linux, or Windows.",
-  "first_seen": "2026-11-01 17:13:03"
- },
- {
-  "vendor": "红帽",
-  "org": "RedHatOfficial",
-  "full_name": "RedHatOfficial/aap-containerized-add-node",
-  "url": "https://github.com/RedHatOfficial/aap-containerized-add-node",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Code for adding hop and execution nodes into a containerized AAP installation without running the full installer",
-  "first_seen": "2026-11-01 17:13:03"
  },
  {
   "vendor": "红帽",

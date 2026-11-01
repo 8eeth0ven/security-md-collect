@@ -25,6 +25,17 @@
  },
  {
   "vendor": "华为",
+  "org": "Huawei",
+  "full_name": "Huawei/eSDK_K8S_Plugin",
+  "url": "https://github.com/Huawei/eSDK_K8S_Plugin",
+  "sec_path": "SECURITY.md",
+  "stars": 121,
+  "language": "Go",
+  "description": "Container-Storage-Interface (CSI) for Huawei storage",
+  "first_seen": "2026-11-01 16:44:09"
+ },
+ {
+  "vendor": "华为",
   "org": "Ascend",
   "full_name": "Ascend/MindIE-LLM",
   "url": "https://github.com/Ascend/MindIE-LLM",
@@ -208,17 +219,6 @@
   "language": "LLVM",
   "description": "",
   "first_seen": "2026-11-01 16:22:52"
- },
- {
-  "vendor": "华为",
-  "org": "Huawei",
-  "full_name": "Huawei/eSDK_K8S_Plugin",
-  "url": "https://github.com/Huawei/eSDK_K8S_Plugin",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "Container-Storage-Interface (CSI) for Huawei storage",
-  "first_seen": "2026-11-01 16:44:09"
  },
  {
   "vendor": "华为",
