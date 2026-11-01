@@ -277,6 +277,18 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/terraform-k8s",
+  "url": "https://github.com/hashicorp/terraform-k8s",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 448,
+  "language": "Go",
+  "description": "Terraform Cloud Operator for Kubernetes",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/terraform-provider-scaffolding-framework",
   "url": "https://github.com/hashicorp/terraform-provider-scaffolding-framework",
   "sec_path": "error",
@@ -328,6 +340,18 @@
   "language": "Go",
   "description": "IP Address/UNIX Socket convenience functions for Go",
   "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/consul-haproxy",
+  "url": "https://github.com/hashicorp/consul-haproxy",
+  "sec_path": "error",
+  "stars": 276,
+  "language": "Go",
+  "description": "Consul HAProxy connector for real-time configuration",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
  },
  {
   "vendor": "HashiCorp",
@@ -394,6 +418,18 @@
   "language": "Go",
   "description": "Generates UUID-format strings using purely high quality random bytes",
   "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/hcp-terraform-operator",
+  "url": "https://github.com/hashicorp/hcp-terraform-operator",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 184,
+  "language": "Go",
+  "description": "Kubernetes Operator allows managing HCP Terraform resources via Kubernetes Custom Resources.",
+  "license": null,
+  "first_seen": "2026-11-02 05:20:46"
  },
  {
   "vendor": "HashiCorp",
@@ -563,6 +599,18 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/microservices-architecture-on-aws",
+  "url": "https://github.com/hashicorp/microservices-architecture-on-aws",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 60,
+  "language": "HCL",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-02 05:20:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/sentinel-sdk",
   "url": "https://github.com/hashicorp/sentinel-sdk",
   "sec_path": "error",
@@ -651,6 +699,18 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/terraform-provider-assert",
+  "url": "https://github.com/hashicorp/terraform-provider-assert",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 44,
+  "language": "Go",
+  "description": "Offers functions to validate and assert values within Terraform configurations, simplifying variable validation and custom conditions.",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/go-eventlogger",
   "url": "https://github.com/hashicorp/go-eventlogger",
   "sec_path": "error",
@@ -658,6 +718,18 @@
   "language": "Go",
   "description": "a flexible event system library implemented as a pub/sub model supporting middleware.",
   "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/cluster-api-provider-terraform-cloud",
+  "url": "https://github.com/hashicorp/cluster-api-provider-terraform-cloud",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 37,
+  "language": "Go",
+  "description": "Kubernetes Cluster API Provider for Terraform Cloud",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46"
  },
  {
   "vendor": "HashiCorp",
@@ -706,6 +778,18 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/docker-base",
+  "url": "https://github.com/hashicorp/docker-base",
+  "sec_path": "error",
+  "stars": 31,
+  "language": "Shell",
+  "description": "Base images for releasing HashiCorp products as Docker containers.",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/packer-plugin-openstack",
   "url": "https://github.com/hashicorp/packer-plugin-openstack",
   "sec_path": "error",
@@ -746,6 +830,18 @@
   "language": "Go",
   "description": "The slug package provides functions to create slug archives",
   "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/otto-getting-started",
+  "url": "https://github.com/hashicorp/otto-getting-started",
+  "sec_path": "error",
+  "stars": 27,
+  "language": "HTML",
+  "description": "The repository used for Otto getting started guide.",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
  },
  {
   "vendor": "HashiCorp",
@@ -827,6 +923,18 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/consul-migrate",
+  "url": "https://github.com/hashicorp/consul-migrate",
+  "sec_path": "error",
+  "stars": 20,
+  "language": "Go",
+  "description": "Consul server data migrator",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/ghaction-terraform-provider-release",
   "url": "https://github.com/hashicorp/ghaction-terraform-provider-release",
   "sec_path": "error",
@@ -845,6 +953,18 @@
   "language": "TypeScript",
   "description": "",
   "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/otto-example-app-plugin",
+  "url": "https://github.com/hashicorp/otto-example-app-plugin",
+  "sec_path": "error",
+  "stars": 19,
+  "language": "Go",
+  "description": "Example app type plugin for Otto (ottoproject.io)",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
  },
  {
   "vendor": "HashiCorp",
@@ -959,6 +1079,30 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/vagrant-docs-old",
+  "url": "https://github.com/hashicorp/vagrant-docs-old",
+  "sec_path": "error",
+  "stars": 10,
+  "language": null,
+  "description": "This is a temporary repository with the old Vagrant documentation.",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/.github",
+  "url": "https://github.com/hashicorp/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": null,
+  "description": "HashiCorp Default Community Health Files",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/go-rate",
   "url": "https://github.com/hashicorp/go-rate",
   "sec_path": "error",
@@ -977,6 +1121,18 @@
   "language": "Go",
   "description": "HCP SCADA Provider",
   "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/magic-modules",
+  "url": "https://github.com/hashicorp/magic-modules",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 8,
+  "language": "Go",
+  "description": "Automatically generate Google Cloud Platform support for OSS IaaC Projects",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46"
  },
  {
   "vendor": "HashiCorp",
@@ -1010,6 +1166,30 @@
   "language": "HCL",
   "description": "Pre-written Sentinel policies are ready to use compliance checks for NIST SP 800-53 Revision 5 to help enable your AWS resources meet industry security standard…",
   "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/terraform-provider-ultradns",
+  "url": "https://github.com/hashicorp/terraform-provider-ultradns",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 7,
+  "language": "Go",
+  "description": "Terraform UltraDNS provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.…",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/photon-vagrant",
+  "url": "https://github.com/hashicorp/photon-vagrant",
+  "sec_path": "error",
+  "stars": 7,
+  "language": null,
+  "description": "Vagrantfile to experiment with Project Photon",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
  },
  {
   "vendor": "HashiCorp",
@@ -1179,6 +1359,54 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/azure-sdk-for-go",
+  "url": "https://github.com/hashicorp/azure-sdk-for-go",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "Microsoft Azure SDK for Go",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/terraform-provider-azuredevops",
+  "url": "https://github.com/hashicorp/terraform-provider-azuredevops",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "This has moved to https://github.com/microsoft/terraform-provider-azuredevops",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/rtmo-consul",
+  "url": "https://github.com/hashicorp/rtmo-consul",
+  "sec_path": "error",
+  "stars": 3,
+  "language": "Ruby",
+  "description": "Repository for the Consul lesson of Road to Modern Ops",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/rtmo-terraform",
+  "url": "https://github.com/hashicorp/rtmo-terraform",
+  "sec_path": "error",
+  "stars": 3,
+  "language": "HCL",
+  "description": "terraform config for deploying let's chat to AWS",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/boundary-plugin-minio",
   "url": "https://github.com/hashicorp/boundary-plugin-minio",
   "sec_path": "error",
@@ -1278,6 +1506,30 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/hcp-link",
+  "url": "https://github.com/hashicorp/hcp-link",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Go",
+  "description": "HCP Link",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/rtmo-packer",
+  "url": "https://github.com/hashicorp/rtmo-packer",
+  "sec_path": "error",
+  "stars": 2,
+  "language": "Ruby",
+  "description": "Packer and Terraform config for deploying Let's Chat to AWS",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/go-pgmultiauth",
   "url": "https://github.com/hashicorp/go-pgmultiauth",
   "sec_path": "error",
@@ -1344,6 +1596,54 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/microservices-architecture-on-aws-sentinel",
+  "url": "https://github.com/hashicorp/microservices-architecture-on-aws-sentinel",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 1,
+  "language": "HCL",
+  "description": "Sentinel policy sets for the microservices-architecture-on-aws repo",
+  "license": null,
+  "first_seen": "2026-11-02 05:20:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/microservices-architecture-on-aws-consul",
+  "url": "https://github.com/hashicorp/microservices-architecture-on-aws-consul",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 1,
+  "language": "HCL",
+  "description": "Terraform Consul configuration for the microservices-architecture-on-aws repo",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/terraform-provider-github",
+  "url": "https://github.com/hashicorp/terraform-provider-github",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "Moved to https://github.com/integrations/terraform-provider-github",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/packer-list-all-files",
+  "url": "https://github.com/hashicorp/packer-list-all-files",
+  "sec_path": "error",
+  "stars": 1,
+  "language": null,
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/setup-sentinel",
   "url": "https://github.com/hashicorp/setup-sentinel",
   "sec_path": "error",
@@ -1384,5 +1684,41 @@
   "language": "Go",
   "description": "Stepwise package used in some Vault tests",
   "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/rtmo-pipeline",
+  "url": "https://github.com/hashicorp/rtmo-pipeline",
+  "sec_path": "error",
+  "stars": 0,
+  "language": "Ruby",
+  "description": "Road To Modern Ops: Automated Operations",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/rtmo-lesson-2",
+  "url": "https://github.com/hashicorp/rtmo-lesson-2",
+  "sec_path": "error",
+  "stars": 0,
+  "language": "Ruby",
+  "description": "Vagrant environment for lesson 2",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/rtmo-lesson-1",
+  "url": "https://github.com/hashicorp/rtmo-lesson-1",
+  "sec_path": "error",
+  "stars": 0,
+  "language": "Ruby",
+  "description": "Road to Modern Ops - Lesson 1: Manual Operations",
+  "license": null,
+  "first_seen": "2026-11-02 05:22:45"
  }
 ]

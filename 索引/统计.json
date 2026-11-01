@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-02 04:53:36",
+ "generated_at": "2026-11-02 05:23:37",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10067,
-  "negative_cached": 47276
+  "sec_repos": 10095,
+  "negative_cached": 47954
  },
  "vendors": [
   {
@@ -1223,7 +1223,7 @@
    "orgs": [
     "hashicorp"
    ],
-   "sec_repos": 126
+   "sec_repos": 154
   },
   {
    "vendor": "Elastic",
@@ -1971,5 +1971,8 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": []
+ "orgs_failed": [
+  "okex",
+  "openEuler"
+ ]
 }

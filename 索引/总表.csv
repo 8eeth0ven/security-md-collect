@@ -4185,12 +4185,12 @@ Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/onboarding_
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/openwhisk,https://github.com/adobe/openwhisk,,Scala,docs/security.md,Apache OpenWhisk is an open source serverless cloud platform
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/react,https://github.com/adobe/react,,JavaScript,SECURITY.md,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graal,https://github.com/oracle/graal,21749,Java,SECURITY.md,"GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀"
-Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-server,https://github.com/mysql/mysql-server,12491,C++,SECURITY.md,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
+Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-server,https://github.com/mysql/mysql-server,12492,C++,SECURITY.md,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/docker-images,https://github.com/oracle/docker-images,7006,Shell,SECURITY.md,"Official source of container configurations, images, and examples for Oracle products and projects"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/opengrok,https://github.com/oracle/opengrok,5026,Java,SECURITY.md,"OpenGrok is a fast and usable source code search and cross reference engine, written in Java"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/visualvm,https://github.com/oracle/visualvm,3277,Java,SECURITY.md,VisualVM is an All-in-One Java Troubleshooting Tool
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/node-oracledb,https://github.com/oracle/node-oracledb,2377,JavaScript,SECURITY.md,Oracle Database driver for Node.js maintained by Oracle Corporation. Connect your JavaScript and TypeScript applications instantly to Oracle Database.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graaljs,https://github.com/oracle/graaljs,2042,C++,SECURITY.md,"GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graaljs,https://github.com/oracle/graaljs,2043,C++,SECURITY.md,"GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/bpftune,https://github.com/oracle/bpftune,1892,C,SECURITY.md,bpftune uses BPF to auto-tune Linux systems
 Oracle,自建（Oracle Vulnerability Reporting Program）,graalvm,graalvm/graalvm-ce-builds,https://github.com/graalvm/graalvm-ce-builds,1757,,SECURITY.md,GraalVM CE binaires built by the GraalVM community
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graalpython,https://github.com/oracle/graalpython,1656,Python,SECURITY.md,GraalPy – A high-performance embeddable Python 3 runtime for Java
@@ -4203,7 +4203,7 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-oper
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/skills,https://github.com/oracle/skills,909,Python,SECURITY.md,"Oracle Skills is a curated, open-source collection of practical, installable skills for working with Oracle technologies. It provides developers, administrators…"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/python-cx_Oracle,https://github.com/oracle/python-cx_Oracle,885,C,SECURITY.md,"Obsolete Python interface to Oracle Database, now superseded by python-oracledb"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/terraform-provider-oci,https://github.com/oracle/terraform-provider-oci,878,Go,SECURITY.md,Terraform Oracle Cloud Infrastructure provider
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusion-ai-studio,https://github.com/oracle/fusion-ai-studio,713,JavaScript,SECURITY.md,
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusion-ai-studio,https://github.com/oracle/fusion-ai-studio,715,JavaScript,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-cpp,https://github.com/mysql/mysql-connector-cpp,710,C++,SECURITY.md,MySQL Connector/C++ is a MySQL database connector for C++. It lets you develop C++ and C applications that connect to MySQL Server.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-cli,https://github.com/oracle/oci-cli,681,Python,SECURITY.md,Command Line Interface for Oracle Cloud Infrastructure
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-docker,https://github.com/mysql/mysql-docker,678,Shell,SECURITY.md,Dockerfiles and scripts for MySQL products
@@ -4213,7 +4213,7 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracleje
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graalvm-reachability-metadata,https://github.com/oracle/graalvm-reachability-metadata,485,Java,docs/SECURITY.md,Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/coherence,https://github.com/oracle/coherence,474,Java,SECURITY.md,Oracle Coherence Community Edition
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-python-sdk,https://github.com/oracle/oci-python-sdk,474,Python,SECURITY.md,Oracle Cloud Infrastructure SDK for Python
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/mcp,https://github.com/oracle/mcp,470,Python,SECURITY.md,Repository containing MCP (Model Context Protocol) servers that provides a suite of tools for managing and interacting with Oracle products.
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/mcp,https://github.com/oracle/mcp,471,Python,SECURITY.md,Repository containing MCP (Model Context Protocol) servers that provides a suite of tools for managing and interacting with Oracle products.
 Oracle,自建（Oracle Vulnerability Reporting Program）,graalvm,graalvm/mandrel,https://github.com/graalvm/mandrel,456,,SECURITY.md,Mandrel is a downstream distribution of the GraalVM community edition. Mandrel's main goal is to provide a native-image release specifically to support Quarkus.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/python-oracledb,https://github.com/oracle/python-oracledb,456,Python,SECURITY.md,"Python driver for Oracle Database conforming to the Python DB API 2.0 specification with many advanced features. Fast, small, portable. Enterprise ready."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/agent-spec,https://github.com/oracle/agent-spec,448,Python,SECURITY.md,Open Agent Spec (Agent Spec) is a framework-agnostic declarative language for defining agentic systems. It defines building blocks for standalone agents and str…
@@ -4259,9 +4259,9 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-conn
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/cloudtestdrive,https://github.com/oracle/cloudtestdrive,95,HTML,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/microservices-backend,https://github.com/oracle/microservices-backend,94,Java,SECURITY.md,Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-grafana-metrics,https://github.com/oracle/oci-grafana-metrics,94,Go,SECURITY.md,Grafana datasource plugin for OCI metrics
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/free,https://github.com/oracle/free,75,HTML,SECURITY.md,Free Oracle technologies for Developers
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/yo,https://github.com/oracle/yo,75,Python,SECURITY.md,A fast and simple command line OCI client
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/solaris-ips,https://github.com/oracle/solaris-ips,74,Python,SECURITY.md,Solaris IPS: Image Packaging System
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/free,https://github.com/oracle/free,74,HTML,SECURITY.md,Free Oracle technologies for Developers
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/soda-for-java,https://github.com/oracle/soda-for-java,74,Java,SECURITY.md,SODA (Simple Oracle Document Access) for Java is an Oracle library for writing Java apps that work with JSON (and not only JSON!) in the Oracle Database. SODA a…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/vecdb-python-sdk,https://github.com/oracle/vecdb-python-sdk,72,Python,SECURITY.md,"Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/hiq,https://github.com/oracle/hiq,72,Python,SECURITY.md,HiQ - Observability And Optimization In Modern AI Era
@@ -7643,17 +7643,20 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-azure
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/cap,https://github.com/hashicorp/cap,484,Go,error,"A collection of authentication Go packages related to OIDC, JWKs, Distributed Claims, LDAP"
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/errwrap,https://github.com/hashicorp/errwrap,458,Go,error,Errwrap is a Go (golang) library for wrapping and querying errors.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-cleanhttp,https://github.com/hashicorp/go-cleanhttp,448,Go,error,
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-k8s,https://github.com/hashicorp/terraform-k8s,448,Go,.github/SECURITY.md,Terraform Cloud Operator for Kubernetes
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-scaffolding-framework,https://github.com/hashicorp/terraform-provider-scaffolding-framework,441,Go,error,Quick start repository for creating a Terraform provider using terraform-plugin-framework
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hil,https://github.com/hashicorp/hil,406,Go,error,HIL is a small embedded language for string interpolations.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-framework,https://github.com/hashicorp/terraform-plugin-framework,385,Go,error,A next-generation framework for building Terraform providers.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-hclog,https://github.com/hashicorp/go-hclog,349,Go,error,A common logging package for HashiCorp tools
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-sockaddr,https://github.com/hashicorp/go-sockaddr,290,Go,error,IP Address/UNIX Socket convenience functions for Go
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/consul-haproxy,https://github.com/hashicorp/consul-haproxy,276,Go,error,Consul HAProxy connector for real-time configuration
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-local,https://github.com/hashicorp/terraform-provider-local,246,Go,error,"Utility provider used to manage local resources, such as creating files."
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-random,https://github.com/hashicorp/terraform-provider-random,239,Go,error,Utility provider that supports the use of randomness within Terraform configurations.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-tls,https://github.com/hashicorp/terraform-provider-tls,234,Go,error,"Utility provider that works with Transport Layer Security keys and certificates. It provides resources that allow private keys, certificates and certficate requ…"
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-external,https://github.com/hashicorp/terraform-provider-external,221,Go,error,Utility provider that exists to provide an interface between Terraform and external programs. Useful for integrating Terraform with a system for which a first-c…
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-null,https://github.com/hashicorp/terraform-provider-null,213,Go,error,"Utility provider that provides constructs that intentionally do nothing, useful in various situations to help orchestrate tricky behavior or work around limitat…"
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-uuid,https://github.com/hashicorp/go-uuid,186,Go,error,Generates UUID-format strings using purely high quality random bytes
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcp-terraform-operator,https://github.com/hashicorp/hcp-terraform-operator,184,Go,.github/SECURITY.md,Kubernetes Operator allows managing HCP Terraform resources via Kubernetes Custom Resources.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-time,https://github.com/hashicorp/terraform-provider-time,137,Go,error,Utility provider that provides Time-Based Resources
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-cloudinit,https://github.com/hashicorp/terraform-provider-cloudinit,131,Go,error,Utility provider that exposes the cloudinit_config data source which renders a multipart MIME configuration for use with cloud-init (previously available as the…
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-bexpr,https://github.com/hashicorp/go-bexpr,123,Go,error,Generic boolean expression evaluation in Go
@@ -7669,6 +7672,7 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-testing
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vault-mcp-server,https://github.com/hashicorp/vault-mcp-server,65,Go,error,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/net-rpc-msgpackrpc,https://github.com/hashicorp/net-rpc-msgpackrpc,62,Go,error,Library for creating Go RPC client/server.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/tfctl-cli,https://github.com/hashicorp/tfctl-cli,60,Go,error,Manage HCP Terraform and Terraform Enterprise from the command line.
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/microservices-architecture-on-aws,https://github.com/hashicorp/microservices-architecture-on-aws,60,HCL,.github/SECURITY.md,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/sentinel-sdk,https://github.com/hashicorp/sentinel-sdk,59,Go,error,This SDK allows developers to extend Sentinel to source external information for use in their policies.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/tfc-workflows-tooling,https://github.com/hashicorp/tfc-workflows-tooling,58,Go,error,Tooling to automate HCP Terraform API Runs
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-aws-consul-ecs,https://github.com/hashicorp/terraform-aws-consul-ecs,55,HCL,error,Consul Service Mesh on AWS ECS (Elastic Container Service)
@@ -7677,15 +7681,19 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-connlimit,https://git
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/packer-plugin-scaffolding,https://github.com/hashicorp/packer-plugin-scaffolding,49,Go,error,Quick start repository for creating a Packer plugin.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/packer-plugin-sdk,https://github.com/hashicorp/packer-plugin-sdk,44,Go,error," Packer Plugin SDK enables building Packer plugins (builders, provisioners, or post-processors) to manage any service providers or custom in-house solutions "
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-checkpoint,https://github.com/hashicorp/go-checkpoint,44,Go,error,
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-assert,https://github.com/hashicorp/terraform-provider-assert,44,Go,.github/SECURITY.md,"Offers functions to validate and assert values within Terraform configurations, simplifying variable validation and custom conditions."
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-eventlogger,https://github.com/hashicorp/go-eventlogger,42,Go,error,a flexible event system library implemented as a pub/sub model supporting middleware.
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/cluster-api-provider-terraform-cloud,https://github.com/hashicorp/cluster-api-provider-terraform-cloud,37,Go,.github/SECURITY.md,Kubernetes Cluster API Provider for Terraform Cloud
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-mux,https://github.com/hashicorp/terraform-plugin-mux,35,Go,error,A router for Terraform's RPC protocol.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/nomad-device-nvidia,https://github.com/hashicorp/nomad-device-nvidia,35,Go,error,Nomad device driver for Nvidia GPU
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/nomad-driver-virt,https://github.com/hashicorp/nomad-driver-virt,33,Go,error,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/syntax,https://github.com/hashicorp/syntax,31,HCL,error,"TextMate grammars for highlighting HCL, HCL-based languages and Sentinel."
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/docker-base,https://github.com/hashicorp/docker-base,31,Shell,error,Base images for releasing HashiCorp products as Docker containers.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/packer-plugin-openstack,https://github.com/hashicorp/packer-plugin-openstack,29,Go,error,Packer plugin for OpenStack Builder
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-framework-validators,https://github.com/hashicorp/terraform-plugin-framework-validators,28,Go,error,Common Use Case Validators for terraform-plugin-framework
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/enos,https://github.com/hashicorp/enos,27,Go,error,"A tool for powering Software Quality as Code by writing Terraform-based quality requirement scenarios using a composable, modular, and declarative language"
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-slug,https://github.com/hashicorp/go-slug,27,Go,error,The slug package provides functions to create slug archives
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/otto-getting-started,https://github.com/hashicorp/otto-getting-started,27,HTML,error,The repository used for Otto getting started guide.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-log,https://github.com/hashicorp/terraform-plugin-log,24,Go,error,Module for logging from Terraform plugins.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-corner,https://github.com/hashicorp/terraform-provider-corner,22,Go,error,"A Terraform provider of corner cases, used for testing Terraform and its SDK."
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-tfcoremock,https://github.com/hashicorp/terraform-provider-tfcoremock,21,Go,.github/SECURITY.md,Terraform mock provider - Used to configure and test Terraform configuration edge cases and output.
@@ -7693,8 +7701,10 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-aws-terraform-
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vault-plugin-secrets-openldap,https://github.com/hashicorp/vault-plugin-secrets-openldap,20,Go,error,OpenLDAP secret engine for Vault 
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/dbassert,https://github.com/hashicorp/dbassert,20,Go,error,Go database assert package
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcp,https://github.com/hashicorp/hcp,20,Go,error,HCP Command-Line Interface
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/consul-migrate,https://github.com/hashicorp/consul-migrate,20,Go,error,Consul server data migrator
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/ghaction-terraform-provider-release,https://github.com/hashicorp/ghaction-terraform-provider-release,19,HCL,error,"Reusable GitHub Action Workflows for releasing HashiCorp, partner, and community Terraform Providers"
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/lineal,https://github.com/hashicorp/lineal,19,TypeScript,error,
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/otto-example-app-plugin,https://github.com/hashicorp/otto-example-app-plugin,19,Go,error,Example app type plugin for Otto (ottoproject.io)
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/python-tfe,https://github.com/hashicorp/python-tfe,18,Python,error,HCP Terraform/Enterprise API Client/SDK in Python
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/policy-library-fsbp-policy-set-for-aws-terraform,https://github.com/hashicorp/policy-library-fsbp-policy-set-for-aws-terraform,16,HCL,error,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/packer-plugin-alicloud,https://github.com/hashicorp/packer-plugin-alicloud,16,Go,error,Packer plugin for Alibaba Cloud Image Builder
@@ -7705,11 +7715,16 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vault-plugin-secrets-gcp
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-framework-timeouts,https://github.com/hashicorp/terraform-plugin-framework-timeouts,11,Go,error,"Convenience functions and types for timeouts, for use with terraform-plugin-framework"
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-raftchunking,https://github.com/hashicorp/go-raftchunking,10,Go,error,Chunking middleware for use by Raft clients
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/actions-go-build,https://github.com/hashicorp/actions-go-build,10,Go,error,Define a reproducible Go build.
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vagrant-docs-old,https://github.com/hashicorp/vagrant-docs-old,10,,error,This is a temporary repository with the old Vagrant documentation.
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/.github,https://github.com/hashicorp/.github,9,,SECURITY.md,HashiCorp Default Community Health Files
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-rate,https://github.com/hashicorp/go-rate,8,Go,error,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcp-scada-provider,https://github.com/hashicorp/hcp-scada-provider,8,Go,error,HCP SCADA Provider
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/magic-modules,https://github.com/hashicorp/magic-modules,8,Go,.github/SECURITY.md,Automatically generate Google Cloud Platform support for OSS IaaC Projects
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/raft-snapshot,https://github.com/hashicorp/raft-snapshot,7,Go,error,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-framework-jsontypes,https://github.com/hashicorp/terraform-plugin-framework-jsontypes,7,Go,error,JSON String Custom Types for Terraform Plugin Framework
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/policy-library-nist-policy-set-for-aws-terraform,https://github.com/hashicorp/policy-library-nist-policy-set-for-aws-terraform,7,HCL,error,Pre-written Sentinel policies are ready to use compliance checks for NIST SP 800-53 Revision 5 to help enable your AWS resources meet industry security standard…
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-ultradns,https://github.com/hashicorp/terraform-provider-ultradns,7,Go,.github/SECURITY.md,Terraform UltraDNS provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.…
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/photon-vagrant,https://github.com/hashicorp/photon-vagrant,7,,error,Vagrantfile to experiment with Project Photon
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-equivalence-testing,https://github.com/hashicorp/terraform-equivalence-testing,6,Go,.github/SECURITY.md,Terraform Equivalence Testing - Used to test and monitor changes to Terraform execution and output.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/aws-cloudformation-resource-schema-sdk-go,https://github.com/hashicorp/aws-cloudformation-resource-schema-sdk-go,6,Go,error,This package provides AWS CloudFormation Resource Schema functionality in Go
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-framework-timetypes,https://github.com/hashicorp/terraform-plugin-framework-timetypes,6,Go,error,Timestamp Custom Types for Terraform Plugin Framework
@@ -7725,6 +7740,10 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-azurerm-vault-
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-framework-nettypes,https://github.com/hashicorp/terraform-plugin-framework-nettypes,3,Go,error,Networking Custom Types for Terraform Plugin Framework
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-policy-plugin-framework,https://github.com/hashicorp/terraform-policy-plugin-framework,3,Go,error,terraform-policy-plugin-framework is a module for building Terraform Policy plugins.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/gorm-cursor-paginator,https://github.com/hashicorp/gorm-cursor-paginator,3,Go,error,A paginator doing cursor-based pagination based on GORM
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/azure-sdk-for-go,https://github.com/hashicorp/azure-sdk-for-go,3,Go,SECURITY.md,Microsoft Azure SDK for Go
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-azuredevops,https://github.com/hashicorp/terraform-provider-azuredevops,3,Go,SECURITY.md,This has moved to https://github.com/microsoft/terraform-provider-azuredevops
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/rtmo-consul,https://github.com/hashicorp/rtmo-consul,3,Ruby,error,Repository for the Consul lesson of Road to Modern Ops
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/rtmo-terraform,https://github.com/hashicorp/rtmo-terraform,3,HCL,error,terraform config for deploying let's chat to AWS
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/boundary-plugin-minio,https://github.com/hashicorp/boundary-plugin-minio,2,Go,error,Boundary storage plugin for MinIO
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/consul-awsauth,https://github.com/hashicorp/consul-awsauth,2,Go,error,AWS auth method implementation for use by Consul
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-azurerm-boundary-enterprise-controller-hvd,https://github.com/hashicorp/terraform-azurerm-boundary-enterprise-controller-hvd,2,HCL,error,A Terraform module for provisioning and installing Boundary Enterprise Controller on Azure virtual machines as described in HashiCorp Validated Designs
@@ -7734,16 +7753,25 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-azure-infragra
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vault-servicenow-credential-resolver,https://github.com/hashicorp/vault-servicenow-credential-resolver,2,Java,error,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/boundary-controller-helm,https://github.com/hashicorp/boundary-controller-helm,2,Shell,error,Boundary Controller Helm Chart
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-aws-nomad-enterprise-hvd,https://github.com/hashicorp/terraform-aws-nomad-enterprise-hvd,2,HCL,error,A Terraform module for provisioning and installing Nomad Enterprise on AWS EC2 as described in HashiCorp Validated Designs
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcp-link,https://github.com/hashicorp/hcp-link,2,Go,SECURITY.md,HCP Link
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/rtmo-packer,https://github.com/hashicorp/rtmo-packer,2,Ruby,error,Packer and Terraform config for deploying Let's Chat to AWS
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-pgmultiauth,https://github.com/hashicorp/go-pgmultiauth,1,Go,error,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/boundary-plugin-gcp,https://github.com/hashicorp/boundary-plugin-gcp,1,Go,error,Dynamic host catalog plugin for Boundary
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-azurerm-nomad-enterprise-hvd,https://github.com/hashicorp/terraform-azurerm-nomad-enterprise-hvd,1,HCL,error,A Terraform module for provisioning and installing Nomad Enterprise on Azure virtual machines as described in HashiCorp Validated Designs
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-azurerm-boundary-enterprise-worker-hvd,https://github.com/hashicorp/terraform-azurerm-boundary-enterprise-worker-hvd,1,HCL,error,A Terraform module for provisioning and installing Boundary Enterprise Worker on Azure virtual machines as described in HashiCorp Validated Designs
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vault-pki-cieps-example,https://github.com/hashicorp/vault-pki-cieps-example,1,Go,error,Example Certificate Issuance External Policy Service (CIEPS) implementation
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/boundary-worker-helm,https://github.com/hashicorp/boundary-worker-helm,1,Shell,error,
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/microservices-architecture-on-aws-sentinel,https://github.com/hashicorp/microservices-architecture-on-aws-sentinel,1,HCL,.github/SECURITY.md,Sentinel policy sets for the microservices-architecture-on-aws repo
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/microservices-architecture-on-aws-consul,https://github.com/hashicorp/microservices-architecture-on-aws-consul,1,HCL,.github/SECURITY.md,Terraform Consul configuration for the microservices-architecture-on-aws repo
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-github,https://github.com/hashicorp/terraform-provider-github,1,Go,SECURITY.md,Moved to https://github.com/integrations/terraform-provider-github
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/packer-list-all-files,https://github.com/hashicorp/packer-list-all-files,1,,error,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/setup-sentinel,https://github.com/hashicorp/setup-sentinel,,TypeScript,error,Run HashiCorp Sentinel as part of your GitHub Actions Workflow
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vault-hcp-lib,https://github.com/hashicorp/vault-hcp-lib,,Go,error,HCP Vault Library
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-gin-gorm-opencensus,https://github.com/hashicorp/go-gin-gorm-opencensus,,Go,error,OpenCensus instrumentation for Gin and Gorm
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vault-testing-stepwise,https://github.com/hashicorp/vault-testing-stepwise,,Go,error,Stepwise package used in some Vault tests
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/rtmo-pipeline,https://github.com/hashicorp/rtmo-pipeline,0,Ruby,error,Road To Modern Ops: Automated Operations
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/rtmo-lesson-2,https://github.com/hashicorp/rtmo-lesson-2,0,Ruby,error,Vagrant environment for lesson 2
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/rtmo-lesson-1,https://github.com/hashicorp/rtmo-lesson-1,0,Ruby,error,Road to Modern Ops - Lesson 1: Manual Operations
 Elastic,自建（Elastic Security）,elastic,elastic/kibana,https://github.com/elastic/kibana,21353,TypeScript,SECURITY.md,Your window into all of your data
 Elastic,自建（Elastic Security）,elastic,elastic/elasticsearch-js,https://github.com/elastic/elasticsearch-js,5290,TypeScript,SECURITY.md,Official Elasticsearch client library for Node.js
 Elastic,自建（Elastic Security）,elastic,elastic/elasticsearch-dsl-py,https://github.com/elastic/elasticsearch-dsl-py,3868,Python,error,High level Python client for Elasticsearch
