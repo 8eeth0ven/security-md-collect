@@ -5,7 +5,7 @@
   "full_name": "canonical/multipass",
   "url": "https://github.com/canonical/multipass",
   "sec_path": "SECURITY.md",
-  "stars": 9323,
+  "stars": 9329,
   "language": "C++",
   "description": "Multipass orchestrates virtual Ubuntu instances",
   "first_seen": "2026-11-01 18:39:48"
@@ -16,7 +16,7 @@
   "full_name": "canonical/lxd",
   "url": "https://github.com/canonical/lxd",
   "sec_path": "SECURITY.md",
-  "stars": 4845,
+  "stars": 4847,
   "language": "Go",
   "description": "Powerful system container and virtual machine manager",
   "first_seen": "2026-11-01 18:40:27"
@@ -27,7 +27,7 @@
   "full_name": "canonical/dqlite",
   "url": "https://github.com/canonical/dqlite",
   "sec_path": "SECURITY.md",
-  "stars": 4418,
+  "stars": 4420,
   "language": "C",
   "description": "Embeddable, replicated and fault-tolerant SQL engine.",
   "first_seen": "2026-11-01 18:40:27"
@@ -38,7 +38,7 @@
   "full_name": "canonical/cloud-init",
   "url": "https://github.com/canonical/cloud-init",
   "sec_path": "SECURITY.md",
-  "stars": 3851,
+  "stars": 3852,
   "language": "Python",
   "description": "Official upstream for the cloud-init: cloud instance initialization",
   "first_seen": "2026-11-01 18:41:08"
@@ -71,7 +71,7 @@
   "full_name": "canonical/netplan",
   "url": "https://github.com/canonical/netplan",
   "sec_path": "SECURITY.md",
-  "stars": 855,
+  "stars": 856,
   "language": "Python",
   "description": "Declarative network configuration for various backends",
   "first_seen": "2026-11-01 18:41:50"
@@ -104,7 +104,7 @@
   "full_name": "canonical/microcloud",
   "url": "https://github.com/canonical/microcloud",
   "sec_path": "SECURITY.md",
-  "stars": 545,
+  "stars": 547,
   "language": "Go",
   "description": "Automated private cloud based on LXD, Ceph and OVN",
   "first_seen": "2026-11-01 18:40:27"
@@ -233,6 +233,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/k8s-dqlite",
+  "url": "https://github.com/canonical/k8s-dqlite",
+  "sec_path": "SECURITY.md",
+  "stars": 140,
+  "language": "Go",
+  "description": "Dqlite for Kubernetes",
+  "first_seen": "2026-11-01 18:42:38"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/firmware-updater",
   "url": "https://github.com/canonical/firmware-updater",
   "sec_path": "SECURITY.md",
@@ -244,21 +255,10 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/k8s-dqlite",
-  "url": "https://github.com/canonical/k8s-dqlite",
-  "sec_path": "SECURITY.md",
-  "stars": 138,
-  "language": "Go",
-  "description": "Dqlite for Kubernetes",
-  "first_seen": "2026-11-01 18:42:38"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/workshop",
   "url": "https://github.com/canonical/workshop",
   "sec_path": "docs/security.md",
-  "stars": 126,
+  "stars": 127,
   "language": "Go",
   "description": "Workshops are secure, fast, and composable development environments that come agent-ready.",
   "first_seen": "2026-11-01 18:39:48"
@@ -335,7 +335,7 @@
   "full_name": "canonical/checkbox",
   "url": "https://github.com/canonical/checkbox",
   "sec_path": "SECURITY.md",
-  "stars": 53,
+  "stars": 54,
   "language": "Python",
   "description": "Checkbox is a testing framework used to validate device compatibility with Ubuntu Linux. It’s the testing tool developed for the purposes of the Ubuntu Certific…",
   "first_seen": "2026-11-01 18:40:27"
@@ -412,7 +412,7 @@
   "full_name": "canonical/testflinger",
   "url": "https://github.com/canonical/testflinger",
   "sec_path": "SECURITY.md",
-  "stars": 28,
+  "stars": 29,
   "language": "Python",
   "description": "A system for orchestrating the time-sharing of access to a pool of target machines.",
   "first_seen": "2026-11-01 18:40:27"
@@ -585,6 +585,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/mlflow-operator",
+  "url": "https://github.com/canonical/mlflow-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "Python",
+  "description": "MLFlow Operators",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/craft-parts",
   "url": "https://github.com/canonical/craft-parts",
   "sec_path": "SECURITY.md",
@@ -607,23 +618,12 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/mlflow-operator",
-  "url": "https://github.com/canonical/mlflow-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 18,
-  "language": "Python",
-  "description": "MLFlow Operators",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/opensearch-operator",
   "url": "https://github.com/canonical/opensearch-operator",
   "sec_path": "SECURITY.md",
   "stars": 18,
   "language": "HCL",
-  "description": "OpenSearch operator",
+  "description": "Operator charms for OpenSearch Dashboards on VM and K8s",
   "first_seen": "2026-11-01 18:39:48"
  },
  {
@@ -893,6 +893,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/hardware-api",
+  "url": "https://github.com/canonical/hardware-api",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "Python",
+  "description": "API server, library, and CLI tool for retrieving hardware information",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/landscape-ui",
   "url": "https://github.com/canonical/landscape-ui",
   "sec_path": "SECURITY.md",
@@ -922,17 +933,6 @@
   "language": "Python",
   "description": "A charmed operator for running Temporal Server on Kubernetes. ",
   "first_seen": "2026-11-01 18:41:08"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/hardware-api",
-  "url": "https://github.com/canonical/hardware-api",
-  "sec_path": "SECURITY.md",
-  "stars": 11,
-  "language": "Python",
-  "description": "API server, library, and CLI tool for retrieving hardware information",
-  "first_seen": "2026-11-01 18:39:48"
  },
  {
   "vendor": "Canonical",
@@ -1234,6 +1234,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/ubuntu-core-desktop-snapd",
+  "url": "https://github.com/canonical/ubuntu-core-desktop-snapd",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Go",
+  "description": "A branch of snapd containing experimental Core Desktop changes that have not yet been merged to snapd master",
+  "first_seen": "2026-11-01 18:40:27"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/awsmp",
   "url": "https://github.com/canonical/awsmp",
   "sec_path": "SECURITY.md",
@@ -1416,17 +1427,6 @@
   "stars": 5,
   "language": "Shell",
   "description": "PostgreSQL Snap",
-  "first_seen": "2026-11-01 18:40:27"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/ubuntu-core-desktop-snapd",
-  "url": "https://github.com/canonical/ubuntu-core-desktop-snapd",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Go",
-  "description": "A branch of snapd containing experimental Core Desktop changes that have not yet been merged to snapd master",
   "first_seen": "2026-11-01 18:40:27"
  },
  {
@@ -2098,6 +2098,17 @@
   "stars": 3,
   "language": "Python",
   "description": "Juju-doctor is a pypi package which helps validate Juju deployments using probes.",
+  "first_seen": "2026-11-01 18:41:08"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/microcloud-operator",
+  "url": "https://github.com/canonical/microcloud-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Charm for MicroCloud, the automated private cloud based on LXD, Ceph and OVN",
   "first_seen": "2026-11-01 18:41:08"
  },
  {
@@ -2879,17 +2890,6 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:41:08"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/microcloud-operator",
-  "url": "https://github.com/canonical/microcloud-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "Charm for MicroCloud, the automated private cloud based on LXD, Ceph and OVN",
   "first_seen": "2026-11-01 18:41:08"
  },
  {
@@ -4198,7 +4198,7 @@
   "sec_path": "SECURITY.md",
   "stars": 1,
   "language": "Shell",
-  "description": "Snaps and rocks for the Canonical offering of Valkey ",
+  "description": "Repo containing all the Valkey artifacts (snaps / rocks)",
   "first_seen": "2026-11-01 18:41:08"
  },
  {
@@ -4363,7 +4363,7 @@
   "sec_path": "SECURITY.md",
   "stars": 1,
   "language": "Shell",
-  "description": "Repo for regrouping all opensearch related artifacts",
+  "description": "Repo containing all the OpenSearch and OpenSearch Dashboards artifacts (snaps / rocks)",
   "first_seen": "2026-11-01 18:41:50"
  },
  {

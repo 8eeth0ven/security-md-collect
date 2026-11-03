@@ -60,7 +60,7 @@
   "full_name": "awslabs/cli-agent-orchestrator",
   "url": "https://github.com/awslabs/cli-agent-orchestrator",
   "sec_path": "SECURITY.md",
-  "stars": 1499,
+  "stars": 1506,
   "language": "Python",
   "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
   "first_seen": "2026-11-01 18:22:43"
@@ -170,7 +170,7 @@
   "full_name": "awslabs/landing-zone-accelerator-on-aws",
   "url": "https://github.com/awslabs/landing-zone-accelerator-on-aws",
   "sec_path": "SECURITY.md",
-  "stars": 832,
+  "stars": 834,
   "language": "TypeScript",
   "description": "Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.",
   "first_seen": "2026-11-01 18:22:43"
@@ -369,7 +369,7 @@
   "full_name": "awslabs/amazon-s3-find-and-forget",
   "url": "https://github.com/awslabs/amazon-s3-find-and-forget",
   "sec_path": "docs/SECURITY.md",
-  "stars": 247,
+  "stars": 248,
   "language": "Python",
   "description": "Amazon S3 Find and Forget is a solution to handle data erasure requests from data lakes stored on Amazon S3, for example, pursuant to the European General Data …",
   "first_seen": "2026-11-01 18:22:43"
@@ -468,7 +468,7 @@
   "full_name": "aws-samples/sample-autonomous-cloud-coding-agents",
   "url": "https://github.com/aws-samples/sample-autonomous-cloud-coding-agents",
   "sec_path": ".github/SECURITY.md",
-  "stars": 168,
+  "stars": 169,
   "language": "TypeScript",
   "description": "Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance.",
   "first_seen": "2026-11-01 18:18:41"
@@ -534,7 +534,7 @@
   "full_name": "aws-samples/sample-spec-driven-presentation-maker",
   "url": "https://github.com/aws-samples/sample-spec-driven-presentation-maker",
   "sec_path": "SECURITY.md",
-  "stars": 133,
+  "stars": 134,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:18:41"
@@ -545,7 +545,7 @@
   "full_name": "aws-samples/sample-collaborative-ai-dlc",
   "url": "https://github.com/aws-samples/sample-collaborative-ai-dlc",
   "sec_path": "SECURITY.md",
-  "stars": 118,
+  "stars": 119,
   "language": "JavaScript",
   "description": "AI-DLC: Collaborative AI-Driven Development Lifecycle",
   "first_seen": "2026-11-01 18:18:41"
@@ -567,7 +567,7 @@
   "full_name": "aws-samples/sample-agent-cost-bench",
   "url": "https://github.com/aws-samples/sample-agent-cost-bench",
   "sec_path": "SECURITY.md",
-  "stars": 104,
+  "stars": 106,
   "language": "Python",
   "description": "Benchmark framework that measures cost, quality, and duration of coding agents across any AI Coding Assistant CLI, any model, and any use case — with pluggable …",
   "first_seen": "2026-11-01 18:20:27"
@@ -578,7 +578,7 @@
   "full_name": "aws-samples/sample-serverless-architecture-cimd-with-cognito",
   "url": "https://github.com/aws-samples/sample-serverless-architecture-cimd-with-cognito",
   "sec_path": "SECURITY.md",
-  "stars": 103,
+  "stars": 104,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:19:35"
@@ -641,6 +641,17 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
+  "full_name": "aws-samples/sample-genai-on-eks-starter-kit",
+  "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 99,
+  "language": "JavaScript",
+  "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configured components for:  🚀 AI Gateway (LiteLL…",
+  "first_seen": "2026-11-01 18:18:41"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
   "full_name": "aws-samples/aws-hpc-recipes",
   "url": "https://github.com/aws-samples/aws-hpc-recipes",
   "sec_path": ".github/SECURITY.md",
@@ -649,17 +660,6 @@
   "description": "Contains example recipes that demonstrate how to build HPC systems using AWS services and solutions.",
   "license": null,
   "first_seen": "2026-11-02 02:49:05"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-genai-on-eks-starter-kit",
-  "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit",
-  "sec_path": "docs/SECURITY.md",
-  "stars": 98,
-  "language": "JavaScript",
-  "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configured components for:  🚀 AI Gateway (LiteLL…",
-  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
@@ -678,7 +678,7 @@
   "full_name": "aws-samples/sample-codex-agent-team",
   "url": "https://github.com/aws-samples/sample-codex-agent-team",
   "sec_path": "SECURITY.md",
-  "stars": 90,
+  "stars": 91,
   "language": "Python",
   "description": "Team of Codex agents that collaborate through a spec-driven development process. Full Stack Developer parent orchestrates dynamically sized pools of specialists…",
   "license": null,
@@ -778,7 +778,7 @@
   "full_name": "aws-samples/sample-claude-code-agent-team",
   "url": "https://github.com/aws-samples/sample-claude-code-agent-team",
   "sec_path": "SECURITY.md",
-  "stars": 70,
+  "stars": 72,
   "language": "Python",
   "description": "Team of specialized AI agents that collaborate through a spec-driven development process. Full Stack Developer parent orchestrates dynamically sized pools of sp…",
   "license": null,
@@ -790,7 +790,7 @@
   "full_name": "aws-samples/sample-agentic-value-accelerator",
   "url": "https://github.com/aws-samples/sample-agentic-value-accelerator",
   "sec_path": "SECURITY.md",
-  "stars": 69,
+  "stars": 70,
   "language": "TypeScript",
   "description": "A platfrom to Plan, Build, Operate, Secure, and Govern AI Systems for Financial Services on AWS ",
   "license": null,
@@ -817,6 +817,17 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 18:16:12"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/filemoverexpress",
+  "url": "https://github.com/awslabs/filemoverexpress",
+  "sec_path": "SECURITY.md",
+  "stars": 66,
+  "language": "TypeScript",
+  "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
+  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -990,7 +1001,7 @@
   "full_name": "aws-samples/sample-Agentic-Ai-Data-Operations",
   "url": "https://github.com/aws-samples/sample-Agentic-Ai-Data-Operations",
   "sec_path": "docs/security.md",
-  "stars": 37,
+  "stars": 38,
   "language": "Python",
   "description": "Agentic Data Onboarding Platform(ADOP) — an AI-driven system that automates Silver→Bronze→Gold data pipeline lifecycle (ETL scripts, quality checks, Airflow DAG…",
   "first_seen": "2026-11-01 18:18:41"
@@ -1001,7 +1012,7 @@
   "full_name": "awslabs/unified-kg-rag-on-aws",
   "url": "https://github.com/awslabs/unified-kg-rag-on-aws",
   "sec_path": "SECURITY.md",
-  "stars": 37,
+  "stars": 38,
   "language": "Python",
   "description": "AWS-native knowledge graph RAG framework unifying two graph-retrieval methodologies — Microsoft GraphRAG community summarization and LightRAG dual-level keyword…",
   "first_seen": "2026-11-01 18:22:43"
@@ -1060,17 +1071,6 @@
   "language": "C",
   "description": "Client library for using AWS IoT Shadow service on embedded devices",
   "first_seen": "2026-11-01 18:16:12"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/filemoverexpress",
-  "url": "https://github.com/awslabs/filemoverexpress",
-  "sec_path": "SECURITY.md",
-  "stars": 29,
-  "language": "TypeScript",
-  "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -1174,6 +1174,17 @@
  {
   "vendor": "亚马逊",
   "org": "awslabs",
+  "full_name": "awslabs/knfsd-file-cache",
+  "url": "https://github.com/awslabs/knfsd-file-cache",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 26,
+  "language": "Go",
+  "description": "A set of utilities for building, deploying and operating a high performance NFS Cache in Amazon Web Services. This is designed to be used for certain HPC and bu…",
+  "first_seen": "2026-11-01 18:22:43"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "awslabs",
   "full_name": "awslabs/keys_values",
   "url": "https://github.com/awslabs/keys_values",
   "sec_path": "SECURITY.md",
@@ -1192,17 +1203,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:19:35"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/knfsd-file-cache",
-  "url": "https://github.com/awslabs/knfsd-file-cache",
-  "sec_path": "docs/SECURITY.md",
-  "stars": 25,
-  "language": "Go",
-  "description": "A set of utilities for building, deploying and operating a high performance NFS Cache in Amazon Web Services. This is designed to be used for certain HPC and bu…",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -1261,6 +1261,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-agentic-coding-harness-benchmarks",
+  "url": "https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks",
+  "sec_path": "SECURITY.md",
+  "stars": 21,
+  "language": "Python",
+  "description": "Run Claude Code with any foundation model on Amazon Bedrock (43 models) or a self-hosted model on EC2. Includes a HumanEval benchmark.",
+  "first_seen": "2026-11-01 18:18:41"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "awslabs",
   "full_name": "awslabs/aurora-dsql-orms",
   "url": "https://github.com/awslabs/aurora-dsql-orms",
@@ -1302,17 +1313,6 @@
   "language": "Rust",
   "description": "",
   "first_seen": "2026-11-01 18:23:38"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-agentic-coding-harness-benchmarks",
-  "url": "https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks",
-  "sec_path": "SECURITY.md",
-  "stars": 20,
-  "language": "Python",
-  "description": "Run Claude Code with any foundation model on Amazon Bedrock (43 models) or a self-hosted model on EC2. Includes a HumanEval benchmark.",
-  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
@@ -1383,12 +1383,23 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
+  "full_name": "aws-samples/sample-agentcore-launchpad",
+  "url": "https://github.com/aws-samples/sample-agentcore-launchpad",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 18:18:41"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
   "full_name": "aws-samples/sample-badgers",
   "url": "https://github.com/aws-samples/sample-badgers",
   "sec_path": "SECURITY.md",
   "stars": 18,
   "language": "Python",
-  "description": "Generative AI document analysis on Amazon Bedrock AgentCore: a Strands agent routes pages through 27 vision specialists via an MCP Gateway, then correlates resu…",
+  "description": "Vision-aware document analysis on Amazon Bedrock AgentCore. BADGERS routes PDFs, Office files, images, and handwritten records through selective OCR and AI spec…",
   "first_seen": "2026-11-01 18:18:41"
  },
  {
@@ -1455,17 +1466,6 @@
   "stars": 17,
   "language": "Rust",
   "description": "Peer-Accelerated Cache with EFA Replication — a node-local, S3-compatible caching proxy for Amazon EKS, in Rust. Unmodified S3 clients (boto3, AWS CLI, s5cmd, P…",
-  "first_seen": "2026-11-01 18:18:41"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-agentcore-launchpad",
-  "url": "https://github.com/aws-samples/sample-agentcore-launchpad",
-  "sec_path": "SECURITY.md",
-  "stars": 17,
-  "language": "Python",
-  "description": "",
   "first_seen": "2026-11-01 18:18:41"
  },
  {
@@ -1570,6 +1570,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/world-models-inference",
+  "url": "https://github.com/awslabs/world-models-inference",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 14,
+  "language": "Python",
+  "description": "One-command deployment of open-source world models on AWS. Each model is a self-contained cartridge served behind a uniform API on EC2 or SageMaker — real-time …",
+  "first_seen": "2026-11-01 18:22:43"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws-samples",
   "full_name": "aws-samples/sample-bedrock-spend-budget-guardrails",
   "url": "https://github.com/aws-samples/sample-bedrock-spend-budget-guardrails",
@@ -1603,6 +1614,18 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-GEDD",
+  "url": "https://github.com/aws-samples/sample-GEDD",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 13,
+  "language": "Python",
+  "description": "Find what your AI agent gets wrong — before you have a rubric. Qualitative eval for PMs.",
+  "license": null,
+  "first_seen": "2026-11-04 00:02:43"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws",
   "full_name": "aws/SigV4-for-AWS-IoT-embedded-sdk",
   "url": "https://github.com/aws/SigV4-for-AWS-IoT-embedded-sdk",
@@ -1633,17 +1656,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:18:41"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/world-models-inference",
-  "url": "https://github.com/awslabs/world-models-inference",
-  "sec_path": "docs/SECURITY.md",
-  "stars": 12,
-  "language": "Python",
-  "description": "One-command deployment of open-source world models on AWS. Each model is a self-contained cartridge served behind a uniform API on EC2 or SageMaker — real-time …",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -1693,6 +1705,17 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
+  "full_name": "aws-samples/sample-rcs-messaging-demo-app",
+  "url": "https://github.com/aws-samples/sample-rcs-messaging-demo-app",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 18:20:27"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
   "full_name": "aws-samples/sample-agentic-readiness-analysis-orchestrator",
   "url": "https://github.com/aws-samples/sample-agentic-readiness-analysis-orchestrator",
   "sec_path": "SECURITY.md",
@@ -1700,6 +1723,17 @@
   "language": "Python",
   "description": "Evaluate your service portfolio's readiness for agentic AI adoption and modernization",
   "first_seen": "2026-11-01 18:21:18"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/synthetically_engineered_evaluation_data",
+  "url": "https://github.com/awslabs/synthetically_engineered_evaluation_data",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "Python",
+  "description": "Create synthetic Document data using Agentic AI",
+  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -1744,6 +1778,18 @@
   "stars": 10,
   "language": "Python",
   "description": "",
+  "license": null,
+  "first_seen": "2026-11-02 02:49:05"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-eks-upgrade-skill",
+  "url": "https://github.com/aws-samples/sample-eks-upgrade-skill",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "Python",
+  "description": "A Claude Code skill that performs automated, read-only EKS cluster upgrade readiness assessments. Know what will break before you upgrade.",
   "license": null,
   "first_seen": "2026-11-02 02:49:05"
  },
@@ -1806,24 +1852,13 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
-  "full_name": "aws-samples/sample-rcs-messaging-demo-app",
-  "url": "https://github.com/aws-samples/sample-rcs-messaging-demo-app",
+  "full_name": "aws-samples/sample-grants-genai-assistant",
+  "url": "https://github.com/aws-samples/sample-grants-genai-assistant",
   "sec_path": "SECURITY.md",
   "stars": 9,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:20:27"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/synthetically_engineered_evaluation_data",
-  "url": "https://github.com/awslabs/synthetically_engineered_evaluation_data",
-  "sec_path": "SECURITY.md",
-  "stars": 9,
-  "language": "Python",
-  "description": "Create synthetic Document data using Agentic AI",
-  "first_seen": "2026-11-01 18:22:43"
+  "first_seen": "2026-11-01 18:21:18"
  },
  {
   "vendor": "亚马逊",
@@ -1861,13 +1896,13 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
-  "full_name": "aws-samples/sample-grants-genai-assistant",
-  "url": "https://github.com/aws-samples/sample-grants-genai-assistant",
+  "full_name": "aws-samples/sample-evaluating-agents-on-aws-with-strands-and-agentcore",
+  "url": "https://github.com/aws-samples/sample-evaluating-agents-on-aws-with-strands-and-agentcore",
   "sec_path": "SECURITY.md",
   "stars": 8,
   "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 18:21:18"
+  "description": "Universal three-layer evaluation SDK for AI agents, with a reference deployment on Amazon Bedrock AgentCore and Strands.",
+  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
@@ -1905,18 +1940,6 @@
  },
  {
   "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-eks-upgrade-skill",
-  "url": "https://github.com/aws-samples/sample-eks-upgrade-skill",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": "Python",
-  "description": "A Claude Code skill that performs automated, read-only EKS cluster upgrade readiness assessments. Know what will break before you upgrade.",
-  "license": null,
-  "first_seen": "2026-11-02 02:49:05"
- },
- {
-  "vendor": "亚马逊",
   "org": "aws",
   "full_name": "aws/sagemaker-training-sessions-cookbook",
   "url": "https://github.com/aws/sagemaker-training-sessions-cookbook",
@@ -1936,17 +1959,6 @@
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 18:16:12"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-evaluating-agents-on-aws-with-strands-and-agentcore",
-  "url": "https://github.com/aws-samples/sample-evaluating-agents-on-aws-with-strands-and-agentcore",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": "Python",
-  "description": "Universal three-layer evaluation SDK for AI agents, with a reference deployment on Amazon Bedrock AgentCore and Strands.",
-  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
@@ -2073,6 +2085,17 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
+  "full_name": "aws-samples/sample-agentcore-and-multitenancy-blog",
+  "url": "https://github.com/aws-samples/sample-agentcore-and-multitenancy-blog",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 18:20:27"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
   "full_name": "aws-samples/sample-agentic-maintenance-assistant",
   "url": "https://github.com/aws-samples/sample-agentic-maintenance-assistant",
   "sec_path": "SECURITY.md",
@@ -2126,6 +2149,18 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 02:49:05"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-devops-orchestrated-security-investigation",
+  "url": "https://github.com/aws-samples/sample-devops-orchestrated-security-investigation",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Shell",
+  "description": "Sandbox sample showing the AWS DevOps Agent investigating a live incident and delegating a differential code review to the AWS Security Agent over the Agent-to-…",
+  "license": null,
+  "first_seen": "2026-11-04 00:02:43"
  },
  {
   "vendor": "亚马逊",
@@ -2203,17 +2238,6 @@
   "language": "Python",
   "description": "Production security-operations agents built as configuration on Amazon Bedrock AgentCore — a harness for defining, testing, and running SecOps agents.",
   "first_seen": "2026-11-01 18:19:35"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-agentcore-and-multitenancy-blog",
-  "url": "https://github.com/aws-samples/sample-agentcore-and-multitenancy-blog",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 18:20:27"
  },
  {
   "vendor": "亚马逊",
@@ -2461,6 +2485,18 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/ai-eval-studio",
+  "url": "https://github.com/awslabs/ai-eval-studio",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-04 00:03:55"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws",
   "full_name": "aws/aws-iot-core-mqtt-file-streams-embedded-c",
   "url": "https://github.com/aws/aws-iot-core-mqtt-file-streams-embedded-c",
@@ -2546,6 +2582,17 @@
   "language": "Python",
   "description": "Run the official Open WebUI experience on AWS, preserve the signed-in user at a shared Amazon Bedrock AgentCore inference boundary, and present Bedrock models t…",
   "first_seen": "2026-11-01 18:19:35"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-agentstorming",
+  "url": "https://github.com/aws-samples/sample-agentstorming",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "A protocol and reference implementation for governed multi-agent deliberation - agents and humans from different operators join a shared signed-event discussion…",
+  "first_seen": "2026-11-01 18:20:27"
  },
  {
   "vendor": "亚马逊",
@@ -2724,17 +2771,6 @@
   "language": "Python",
   "description": "A sample implementation that automates the distribution of managed entitlements for Amazon Bedrock across your AWS Organization. Deploy this in your management …",
   "first_seen": "2026-11-01 18:19:35"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-agentstorming",
-  "url": "https://github.com/aws-samples/sample-agentstorming",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "A protocol and reference implementation for governed multi-agent deliberation - agents and humans from different operators join a shared signed-event discussion…",
-  "first_seen": "2026-11-01 18:20:27"
  },
  {
   "vendor": "亚马逊",
@@ -4205,5 +4241,53 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 02:49:58"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-aws-transform-mainframe-refactor-performance-optimization",
+  "url": "https://github.com/aws-samples/sample-aws-transform-mainframe-refactor-performance-optimization",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Java",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-04 00:02:43"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-responsible-ai-healthcare",
+  "url": "https://github.com/aws-samples/sample-responsible-ai-healthcare",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "Sample Application on Responsible AI",
+  "license": null,
+  "first_seen": "2026-11-04 00:02:43"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-hyperscale-agent-meta-harness",
+  "url": "https://github.com/aws-samples/sample-hyperscale-agent-meta-harness",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Rust",
+  "description": "Hyperscale Agent Meta Harness - A remote multi-harness coding system runs on Amazon Bedrock AgentCore, full omni-control plane from your terminal. ",
+  "license": null,
+  "first_seen": "2026-11-04 00:02:43"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-agentcore-delphi",
+  "url": "https://github.com/aws-samples/sample-agentcore-delphi",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "Learned cross-model router on Amazon Bedrock AgentCore Runtime that picks a foundation model per request, with an offline pipeline and tests that check whether …",
+  "license": null,
+  "first_seen": "2026-11-04 00:02:43"
  }
 ]
