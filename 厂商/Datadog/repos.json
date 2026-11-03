@@ -5,7 +5,7 @@
   "full_name": "DataDog/stratus-red-team",
   "url": "https://github.com/DataDog/stratus-red-team",
   "sec_path": "SECURITY.md",
-  "stars": 2442,
+  "stars": 2444,
   "language": "Go",
   "description": ":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud",
   "first_seen": "2026-11-01 16:28:50"
@@ -16,7 +16,7 @@
   "full_name": "DataDog/guarddog",
   "url": "https://github.com/DataDog/guarddog",
   "sec_path": "SECURITY.md",
-  "stars": 1239,
+  "stars": 1241,
   "language": "Python",
   "description": ":snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages",
   "first_seen": "2026-11-01 16:28:50"
@@ -93,7 +93,7 @@
   "full_name": "DataDog/dd-trace-dotnet",
   "url": "https://github.com/DataDog/dd-trace-dotnet",
   "sec_path": "docs/SECURITY.md",
-  "stars": 573,
+  "stars": 572,
   "language": "C#",
   "description": ".NET Client Library for Datadog APM",
   "first_seen": "2026-11-01 16:28:50"
@@ -137,7 +137,7 @@
   "full_name": "DataDog/supply-chain-firewall",
   "url": "https://github.com/DataDog/supply-chain-firewall",
   "sec_path": "SECURITY.md",
-  "stars": 402,
+  "stars": 403,
   "language": "Go",
   "description": "Supply Chain Firewall (SCFW) is a tool for preventing the installation of malicious npm and PyPI packages :fire:",
   "first_seen": "2026-11-01 16:28:50"
@@ -159,7 +159,7 @@
   "full_name": "DataDog/java-reggie",
   "url": "https://github.com/DataDog/java-reggie",
   "sec_path": "SECURITY.md",
-  "stars": 56,
+  "stars": 57,
   "language": "Java",
   "description": "A novel, bytecode generation based Java regular expression library",
   "first_seen": "2026-11-01 16:29:52"
@@ -468,7 +468,7 @@
   "url": "https://github.com/DataDog/rules_test_optimization",
   "sec_path": "SECURITY.md",
   "stars": 1,
-  "language": "Python",
+  "language": "Starlark",
   "description": "A Bazel extension for Test Optimization product",
   "first_seen": "2026-11-01 16:28:50"
  },
@@ -1285,5 +1285,17 @@
   "language": "Go",
   "description": "AMQP 1.0 client library for Go.",
   "first_seen": "2026-11-01 16:33:04"
+ },
+ {
+  "vendor": "Datadog",
+  "org": "DataDog",
+  "full_name": "DataDog/redis-cluster-kubernetes-operator",
+  "url": "https://github.com/DataDog/redis-cluster-kubernetes-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "A Kubernetes operator for deploying and managing Redis clusters. - Repository managed by GRM",
+  "license": null,
+  "first_seen": "2026-11-04 03:02:26"
  }
 ]

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-04 02:38:26",
+ "generated_at": "2026-11-04 03:07:52",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10251,
-  "negative_cached": 48024
+  "sec_repos": 10257,
+  "negative_cached": 48029
  },
  "vendors": [
   {
@@ -776,7 +776,7 @@
     "IBM-Cloud",
     "ibm-security"
    ],
-   "sec_repos": 153
+   "sec_repos": 155
   },
   {
    "vendor": "Intel",
@@ -806,7 +806,7 @@
     "NVIDIA-AI-IOT",
     "NVIDIA-Omniverse"
    ],
-   "sec_repos": 377
+   "sec_repos": 380
   },
   {
    "vendor": "高通",
@@ -1280,7 +1280,7 @@
    "orgs": [
     "DataDog"
    ],
-   "sec_repos": 117
+   "sec_repos": 118
   },
   {
    "vendor": "Splunk",
@@ -1971,7 +1971,5 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": [
-  "walmart"
- ]
+ "orgs_failed": []
 }

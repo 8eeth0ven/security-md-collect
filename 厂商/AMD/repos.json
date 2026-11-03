@@ -16,7 +16,7 @@
   "full_name": "ROCm/TheRock",
   "url": "https://github.com/ROCm/TheRock",
   "sec_path": "SECURITY.md",
-  "stars": 1419,
+  "stars": 1424,
   "language": "Python",
   "description": "The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm",
   "first_seen": "2026-11-01 17:11:17"
@@ -27,7 +27,7 @@
   "full_name": "ROCm/HIPIFY",
   "url": "https://github.com/ROCm/HIPIFY",
   "sec_path": "SECURITY.md",
-  "stars": 735,
+  "stars": 736,
   "language": "C++",
   "description": "HIPIFY: Convert CUDA to Portable C++ Code",
   "first_seen": "2026-11-01 17:11:17"
@@ -60,7 +60,7 @@
   "full_name": "ROCm/AMDMIGraphX",
   "url": "https://github.com/ROCm/AMDMIGraphX",
   "sec_path": "SECURITY.md",
-  "stars": 337,
+  "stars": 338,
   "language": "C++",
   "description": "AMD's graph optimization engine.",
   "first_seen": "2026-11-01 17:11:17"
@@ -137,7 +137,7 @@
   "full_name": "ROCm/spur",
   "url": "https://github.com/ROCm/spur",
   "sec_path": "SECURITY.md",
-  "stars": 137,
+  "stars": 139,
   "language": "Rust",
   "description": "spur your compute",
   "first_seen": "2026-11-01 17:11:17"
@@ -159,7 +159,7 @@
   "full_name": "ROCm/ROCmValidationSuite",
   "url": "https://github.com/ROCm/ROCmValidationSuite",
   "sec_path": "SECURITY.md",
-  "stars": 110,
+  "stars": 111,
   "language": "C++",
   "description": "A system validation and diagnostics tool for monitoring, stress testing, detecting, and troubleshooting issues impacting AMD GPUs in high-performance computing …",
   "first_seen": "2026-11-01 17:11:17"
@@ -183,7 +183,7 @@
   "sec_path": "SECURITY.md",
   "stars": 79,
   "language": "C++",
-  "description": "",
+  "description": "ROCprof Compute Viewer (RCV) is a tool for visualizing and analyzing GPU thread trace data collected using rocprofv3",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -225,7 +225,7 @@
   "full_name": "ROCm/rocm-cli",
   "url": "https://github.com/ROCm/rocm-cli",
   "sec_path": "SECURITY.md",
-  "stars": 49,
+  "stars": 50,
   "language": "Rust",
   "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model serving, and chat.",
   "first_seen": "2026-11-01 17:11:17"
@@ -335,7 +335,7 @@
   "full_name": "ROCm/hip-ep",
   "url": "https://github.com/ROCm/hip-ep",
   "sec_path": "SECURITY.md",
-  "stars": 19,
+  "stars": 20,
   "language": "C++",
   "description": "ROCm Execution Provider for ONNX Runtime on AMD GPUs. Compiles ONNX models through MLIR to LLVM bitcode, JIT-loads them at session creation, and dispatches to h…",
   "first_seen": "2026-11-01 17:11:17"
@@ -464,6 +464,17 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
+  "full_name": "ROCm/rocmlirTriton",
+  "url": "https://github.com/ROCm/rocmlirTriton",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "C++",
+  "description": "MLIR kernel generator for AMD GPUs (GEMM, conv, attention, fused), built on a Triton compilation backend.",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
   "full_name": "ROCm/onnxruntime",
   "url": "https://github.com/ROCm/onnxruntime",
   "sec_path": "SECURITY.md",
@@ -482,17 +493,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 16:16:00"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocmlirTriton",
-  "url": "https://github.com/ROCm/rocmlirTriton",
-  "sec_path": "SECURITY.md",
-  "stars": 9,
-  "language": "C++",
-  "description": "MLIR kernel generator for AMD GPUs (GEMM, conv, attention, fused), built on a Triton compilation backend.",
-  "first_seen": "2026-11-01 17:11:17"
  },
  {
   "vendor": "AMD",
@@ -629,6 +629,17 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
+  "full_name": "ROCm/rocm-installer-runfile",
+  "url": "https://github.com/ROCm/rocm-installer-runfile",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Shell",
+  "description": "Code for the ROCm runfile installer which is one method users can install ROCm and the AMDGPU driver on Linux",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
   "full_name": "ROCm/rocm-tests",
   "url": "https://github.com/ROCm/rocm-tests",
   "sec_path": "SECURITY.md",
@@ -716,17 +727,6 @@
  },
  {
   "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-installer-runfile",
-  "url": "https://github.com/ROCm/rocm-installer-runfile",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": "Shell",
-  "description": "Code for the ROCm runfile installer which is one method users can install ROCm and the AMDGPU driver on Linux",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
   "org": "AMD",
   "full_name": "amd/opencv",
   "url": "https://github.com/amd/opencv",
@@ -768,6 +768,17 @@
   "language": "C",
   "description": "Zstandard - Fast real-time compression algorithm",
   "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/ggml-staging-automation",
+  "url": "https://github.com/ROCm/ggml-staging-automation",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "Release management repo for AMD staging ggml project branches (prior to upstreaming).",
+  "first_seen": "2026-11-01 17:11:17"
  },
  {
   "vendor": "AMD",
@@ -833,17 +844,6 @@
   "stars": 1,
   "language": "Python",
   "description": "Central CI/CD Data Hub for the ROCm Ecosystem",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/ggml-staging-automation",
-  "url": "https://github.com/ROCm/ggml-staging-automation",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "Release management repo for AMD staging ggml project branches (prior to upstreaming).",
   "first_seen": "2026-11-01 17:11:17"
  },
  {

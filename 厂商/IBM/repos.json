@@ -16,7 +16,7 @@
   "full_name": "IBM/mcp-context-forge",
   "url": "https://github.com/IBM/mcp-context-forge",
   "sec_path": "SECURITY.md",
-  "stars": 4738,
+  "stars": 4749,
   "language": "Python",
   "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and…",
   "first_seen": "2026-11-01 16:45:41"
@@ -38,7 +38,7 @@
   "full_name": "IBM/aihwkit",
   "url": "https://github.com/IBM/aihwkit",
   "sec_path": ".github/SECURITY.md",
-  "stars": 524,
+  "stars": 526,
   "language": "Jupyter Notebook",
   "description": "IBM Analog Hardware Acceleration Kit",
   "first_seen": "2026-11-01 16:45:41"
@@ -49,7 +49,7 @@
   "full_name": "IBM-Cloud/terraform-provider-ibm",
   "url": "https://github.com/IBM-Cloud/terraform-provider-ibm",
   "sec_path": "SECURITY.md",
-  "stars": 362,
+  "stars": 363,
   "language": "Go",
   "description": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs",
   "first_seen": "2026-11-01 16:51:13"
@@ -93,7 +93,7 @@
   "full_name": "IBM/tnz",
   "url": "https://github.com/IBM/tnz",
   "sec_path": "SECURITY.md",
-  "stars": 94,
+  "stars": 95,
   "language": "Python",
   "description": "Tn3270 to Z Python library",
   "first_seen": "2026-11-01 16:45:41"
@@ -915,6 +915,17 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/ibm-bob-plugin-marketplace",
+  "url": "https://github.com/IBM/ibm-bob-plugin-marketplace",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": null,
+  "description": "ibm-bob-plugin-marketplace",
+  "first_seen": "2026-11-01 16:48:44"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/NL2ESQL-with-watsonx",
   "url": "https://github.com/IBM/NL2ESQL-with-watsonx",
   "sec_path": "SECURITY.md",
@@ -1025,6 +1036,17 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/docling-ibm-examples",
+  "url": "https://github.com/IBM/docling-ibm-examples",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Docling for IBM watsonx: examples",
+  "first_seen": "2026-11-01 16:45:41"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/terraform-guardium-gdp",
   "url": "https://github.com/IBM/terraform-guardium-gdp",
   "sec_path": "SECURITY.md",
@@ -1076,17 +1098,6 @@
   "language": "Python",
   "description": "Data Scout",
   "first_seen": "2026-11-01 16:47:40"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
-  "full_name": "IBM/ibm-bob-plugin-marketplace",
-  "url": "https://github.com/IBM/ibm-bob-plugin-marketplace",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": null,
-  "description": "ibm-bob-plugin-marketplace",
-  "first_seen": "2026-11-01 16:48:44"
  },
  {
   "vendor": "IBM",
@@ -1196,17 +1207,6 @@
   "stars": null,
   "language": "Python",
   "description": "txc26-docling",
-  "first_seen": "2026-11-01 16:45:41"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
-  "full_name": "IBM/docling-ibm-examples",
-  "url": "https://github.com/IBM/docling-ibm-examples",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "Python",
-  "description": "Docling for IBM watsonx: examples",
   "first_seen": "2026-11-01 16:45:41"
  },
  {
@@ -1681,5 +1681,29 @@
   "language": "Rust",
   "description": "Private fork of the aries-askar project so that support for DB2 can be added.",
   "first_seen": "2026-11-01 21:49:24"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/Datastax-Vector-Search-demos",
+  "url": "https://github.com/IBM/Datastax-Vector-Search-demos",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "Completed watsonx.data vector search demos",
+  "license": null,
+  "first_seen": "2026-11-04 03:04:08"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/ibm-smc-operator",
+  "url": "https://github.com/IBM/ibm-smc-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "IBM SMC Operator for OpenShift on IBM Z and LinuxONE",
+  "license": null,
+  "first_seen": "2026-11-04 03:04:08"
  }
 ]
