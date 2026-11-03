@@ -5,7 +5,7 @@
   "full_name": "atlassian/atlassian-mcp-server",
   "url": "https://github.com/atlassian/atlassian-mcp-server",
   "sec_path": "SECURITY.md",
-  "stars": 1139,
+  "stars": 1142,
   "language": "JavaScript",
   "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code…",
   "first_seen": "2026-11-01 18:10:46"
@@ -27,7 +27,7 @@
   "full_name": "atlassian/twg-cli",
   "url": "https://github.com/atlassian/twg-cli",
   "sec_path": "SECURITY.md",
-  "stars": 25,
+  "stars": 28,
   "language": "JavaScript",
   "description": "Public home for Atlassian Teamwork Graph CLI users, release notes, issue tracking, agent skills, and marketplace plugin integration notes.",
   "first_seen": "2026-11-01 18:10:46"
@@ -38,7 +38,7 @@
   "full_name": "atlassian-labs/roving-office",
   "url": "https://github.com/atlassian-labs/roving-office",
   "sec_path": "SECURITY.md",
-  "stars": 11,
+  "stars": 12,
   "language": "JavaScript",
   "description": "An office full of characters, and the characters are your AI agents. A soft-3D isometric room that renders live agent sessions as people who walk in, sit down, …",
   "first_seen": "2026-11-01 18:12:40"
@@ -86,5 +86,17 @@
   "language": "Python",
   "description": "Data Visualization Skill based on plotly",
   "first_seen": "2026-11-01 18:12:40"
+ },
+ {
+  "vendor": "Atlassian",
+  "org": "atlassian-labs",
+  "full_name": "atlassian-labs/atlassian-agent-plugins-beta",
+  "url": "https://github.com/atlassian-labs/atlassian-agent-plugins-beta",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "JavaScript",
+  "description": "Jira plugin for Claude Code and Codex: read, create and work on Jira work items from your coding agent. (Early access )",
+  "license": null,
+  "first_seen": "2026-11-04 04:03:55"
  }
 ]

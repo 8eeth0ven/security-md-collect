@@ -38,7 +38,7 @@
   "full_name": "arm/metis",
   "url": "https://github.com/arm/metis",
   "sec_path": "SECURITY.md",
-  "stars": 888,
+  "stars": 889,
   "language": "Python",
   "description": "Metis is an open-source, AI-driven tool for deep security code review",
   "first_seen": "2026-11-01 18:09:23"
@@ -71,7 +71,7 @@
   "full_name": "arm/arm-toolchain",
   "url": "https://github.com/arm/arm-toolchain",
   "sec_path": "SECURITY.md",
-  "stars": 260,
+  "stars": 261,
   "language": "LLVM",
   "description": "A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.",
   "first_seen": "2026-11-01 18:09:23"
@@ -474,6 +474,17 @@
  },
  {
   "vendor": "ARM",
+  "org": "arm",
+  "full_name": "arm/composable-ai-runtimes",
+  "url": "https://github.com/arm/composable-ai-runtimes",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Rust",
+  "description": "",
+  "first_seen": "2026-11-01 18:09:23"
+ },
+ {
+  "vendor": "ARM",
   "org": "ARM-software",
   "full_name": "ARM-software/VectorSimilarity-for-Arm",
   "url": "https://github.com/ARM-software/VectorSimilarity-for-Arm",
@@ -482,17 +493,6 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 16:16:44"
- },
- {
-  "vendor": "ARM",
-  "org": "arm",
-  "full_name": "arm/composable-ai-runtimes",
-  "url": "https://github.com/arm/composable-ai-runtimes",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 18:09:23"
  },
  {
   "vendor": "ARM",

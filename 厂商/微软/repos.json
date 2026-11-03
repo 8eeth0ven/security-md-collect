@@ -2972,7 +2972,7 @@
   "full_name": "aspnet/Benchmarks",
   "url": "https://github.com/aspnet/Benchmarks",
   "sec_path": "SECURITY.md",
-  "stars": 1192,
+  "stars": 1191,
   "language": "C#",
   "description": "Benchmarks for ASP.NET Core",
   "first_seen": "2026-11-01 18:09:57"
@@ -9195,7 +9195,7 @@
   "full_name": "aspnet/MicrosoftConfigurationBuilders",
   "url": "https://github.com/aspnet/MicrosoftConfigurationBuilders",
   "sec_path": "SECURITY.md",
-  "stars": 134,
+  "stars": 133,
   "language": "C#",
   "description": "Microsoft.Configuration.Builders",
   "first_seen": "2026-11-01 18:09:57"
@@ -20912,6 +20912,18 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/Azure-kusto-opentelemetry-demo",
+  "url": "https://github.com/Azure/Azure-kusto-opentelemetry-demo",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "TypeScript",
+  "description": "This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in…",
+  "license": null,
+  "first_seen": "2026-11-04 04:04:42"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/template-reference-generator",
   "url": "https://github.com/Azure/template-reference-generator",
   "sec_path": "SECURITY.md",
@@ -26861,6 +26873,18 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/lza-oracle",
+  "url": "https://github.com/Azure/lza-oracle",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "HCL",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-04 04:04:42"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/bicep-shared-tools",
   "url": "https://github.com/Azure/bicep-shared-tools",
   "sec_path": "SECURITY.md",
@@ -31505,5 +31529,17 @@
   "description": "BMC Redfish Simulator",
   "license": null,
   "first_seen": "2026-11-04 01:33:52"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/ZED-Agent",
+  "url": "https://github.com/Azure/ZED-Agent",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "HTML",
+  "description": "ZED (Zero Effort Deployment) — a Copilot agent that runs Azure Backup (MAB) services' monthly production releases end to end: branch cut, build, canary + BVT va…",
+  "license": null,
+  "first_seen": "2026-11-04 04:04:42"
  }
 ]
