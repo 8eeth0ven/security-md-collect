@@ -173,7 +173,7 @@
   "full_name": "dotnet/aspnetcore",
   "url": "https://github.com/dotnet/aspnetcore",
   "sec_path": "SECURITY.md",
-  "stars": 38495,
+  "stars": 38496,
   "language": "C#",
   "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
   "first_seen": "2026-11-01 19:06:45"
@@ -443,7 +443,7 @@
   "full_name": "dotnet/efcore",
   "url": "https://github.com/dotnet/efcore",
   "sec_path": ".github/SECURITY.md",
-  "stars": 14815,
+  "stars": 14816,
   "language": "C#",
   "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
   "first_seen": "2026-11-01 19:06:45"
@@ -880,7 +880,7 @@
   "full_name": "dotnet/skills",
   "url": "https://github.com/dotnet/skills",
   "sec_path": "SECURITY.md",
-  "stars": 5803,
+  "stars": 5811,
   "language": "C#",
   "description": "Repository for skills to assist AI coding agents with .NET and C#",
   "first_seen": "2026-11-01 19:06:45"
@@ -985,7 +985,7 @@
   "full_name": "dotnet/winforms",
   "url": "https://github.com/dotnet/winforms",
   "sec_path": "SECURITY.md",
-  "stars": 4878,
+  "stars": 4879,
   "language": "C#",
   "description": "Windows Forms is a .NET UI framework for building Windows desktop applications.",
   "first_seen": "2026-11-01 19:06:45"
@@ -1053,7 +1053,7 @@
   "full_name": "dotnet/docs",
   "url": "https://github.com/dotnet/docs",
   "sec_path": "SECURITY.md",
-  "stars": 4777,
+  "stars": 4778,
   "language": null,
   "description": "This repository contains .NET Documentation.",
   "first_seen": "2026-11-01 19:06:45"
@@ -1289,7 +1289,7 @@
   "full_name": "dotnet/samples",
   "url": "https://github.com/dotnet/samples",
   "sec_path": "SECURITY.md",
-  "stars": 3749,
+  "stars": 3748,
   "language": "C#",
   "description": "Sample code referenced by the .NET documentation",
   "first_seen": "2026-11-01 19:06:45"
@@ -1909,7 +1909,7 @@
   "full_name": "dotnet/android",
   "url": "https://github.com/dotnet/android",
   "sec_path": "SECURITY.md",
-  "stars": 2144,
+  "stars": 2143,
   "language": "C#",
   "description": ".NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#",
   "first_seen": "2026-11-01 19:06:45"
@@ -2625,7 +2625,7 @@
   "full_name": "dotnet/ResXResourceManager",
   "url": "https://github.com/dotnet/ResXResourceManager",
   "sec_path": "SECURITY.md",
-  "stars": 1460,
+  "stars": 1461,
   "language": "C#",
   "description": "Manage localization of all ResX-Based resources in one central place.",
   "first_seen": "2026-11-01 19:06:45"
@@ -3292,7 +3292,7 @@
   "full_name": "dotnet/SqlClient",
   "url": "https://github.com/dotnet/SqlClient",
   "sec_path": "SECURITY.md",
-  "stars": 1002,
+  "stars": 1003,
   "language": "C#",
   "description": "Microsoft.Data.SqlClient provides database connectivity to SQL Server for .NET applications.",
   "first_seen": "2026-11-01 19:06:45"
@@ -3628,7 +3628,7 @@
   "full_name": "dotnet/ai-samples",
   "url": "https://github.com/dotnet/ai-samples",
   "sec_path": "SECURITY.md",
-  "stars": 877,
+  "stars": 876,
   "language": "C#",
   "description": "",
   "first_seen": "2026-11-01 19:06:45"
@@ -3687,7 +3687,7 @@
   "full_name": "dotnet/dev-proxy",
   "url": "https://github.com/dotnet/dev-proxy",
   "sec_path": "SECURITY.md",
-  "stars": 841,
+  "stars": 840,
   "language": "C#",
   "description": "Simulate API failures, throttling, and chaos — all from your command line.",
   "first_seen": "2026-11-01 19:06:45"
@@ -4104,7 +4104,7 @@
   "full_name": "dotnet/HttpRepl",
   "url": "https://github.com/dotnet/HttpRepl",
   "sec_path": "SECURITY.md",
-  "stars": 709,
+  "stars": 708,
   "language": "C#",
   "description": "The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for makin…",
   "first_seen": "2026-11-01 19:06:45"
@@ -4656,6 +4656,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/sign",
+  "url": "https://github.com/dotnet/sign",
+  "sec_path": "SECURITY.md",
+  "stars": 584,
+  "language": "C#",
+  "description": "Code Signing CLI tool supporting Authenticode, NuGet, VSIX, and ClickOnce",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/AzureStack-QuickStart-Templates",
   "url": "https://github.com/Azure/AzureStack-QuickStart-Templates",
@@ -4664,17 +4675,6 @@
   "language": "PowerShell",
   "description": "Quick start ARM templates that deploy on Microsoft Azure Stack",
   "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/sign",
-  "url": "https://github.com/dotnet/sign",
-  "sec_path": "SECURITY.md",
-  "stars": 583,
-  "language": "C#",
-  "description": "Code Signing CLI tool supporting Authenticode, NuGet, VSIX, and ClickOnce",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -7135,7 +7135,7 @@
   "full_name": "dotnet/maui-labs",
   "url": "https://github.com/dotnet/maui-labs",
   "sec_path": ".github/SECURITY.md",
-  "stars": 232,
+  "stars": 234,
   "language": "C#",
   "description": "Experimental and pre-release tools for .NET MAUI",
   "first_seen": "2026-11-01 19:06:45"
@@ -15428,6 +15428,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/dnceng",
+  "url": "https://github.com/dotnet/dnceng",
+  "sec_path": "SECURITY.md",
+  "stars": 32,
+  "language": "C#",
+  "description": ".NET Engineering Services",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/mu_feature_ipmi",
   "url": "https://github.com/microsoft/mu_feature_ipmi",
@@ -15541,17 +15552,6 @@
   "stars": 31,
   "language": "C++",
   "description": "Mono's patches for the LLVM repository: https://www.mono-project.com/docs/advanced/runtime/docs/llvm-backend/#the-llvm-mono-branch",
-  "first_seen": "2026-11-01 19:06:45"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/dnceng",
-  "url": "https://github.com/dotnet/dnceng",
-  "sec_path": "SECURITY.md",
-  "stars": 31,
-  "language": "C#",
-  "description": ".NET Engineering Services",
   "first_seen": "2026-11-01 19:06:45"
  },
  {

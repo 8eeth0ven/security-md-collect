@@ -317,5 +317,29 @@
   "language": "Python",
   "description": "Ansible collection for Dell ObjectScale",
   "first_seen": "2026-11-01 18:58:28"
+ },
+ {
+  "vendor": "戴尔",
+  "org": "dell",
+  "full_name": "dell/dell-harness-plugin",
+  "url": "https://github.com/dell/dell-harness-plugin",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "Dell Harness Plugins",
+  "license": null,
+  "first_seen": "2026-11-04 07:04:03"
+ },
+ {
+  "vendor": "戴尔",
+  "org": "dell",
+  "full_name": "dell/powerscale-csd",
+  "url": "https://github.com/dell/powerscale-csd",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 0,
+  "language": "Shell",
+  "description": "PowerScale CSD",
+  "license": null,
+  "first_seen": "2026-11-04 07:04:03"
  }
 ]
