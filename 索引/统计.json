@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-04 00:38:20",
+ "generated_at": "2026-11-04 01:08:30",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10105,
-  "negative_cached": 48007
+  "sec_repos": 10107,
+  "negative_cached": 48012
  },
  "vendors": [
   {
@@ -834,7 +834,7 @@
     "Salesforce",
     "forcedotcom"
    ],
-   "sec_repos": 495
+   "sec_repos": 496
   },
   {
    "vendor": "SAP",
@@ -1304,7 +1304,7 @@
    "orgs": [
     "getsentry"
    ],
-   "sec_repos": 110
+   "sec_repos": 111
   },
   {
    "vendor": "Grafana",
@@ -1971,11 +1971,5 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": [
-  "NikeInc",
-  "PlayStation",
-  "SamsungSDS",
-  "bosch",
-  "facebook"
- ]
+ "orgs_failed": []
 }

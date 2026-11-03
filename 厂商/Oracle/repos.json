@@ -360,17 +360,6 @@
  },
  {
   "vendor": "Oracle",
-  "org": "graalvm",
-  "full_name": "graalvm/mandrel",
-  "url": "https://github.com/graalvm/mandrel",
-  "sec_path": "SECURITY.md",
-  "stars": 456,
-  "language": null,
-  "description": "Mandrel is a downstream distribution of the GraalVM community edition. Mandrel's main goal is to provide a native-image release specifically to support Quarkus.",
-  "first_seen": "2026-11-01 21:17:31"
- },
- {
-  "vendor": "Oracle",
   "org": "oracle",
   "full_name": "oracle/python-oracledb",
   "url": "https://github.com/oracle/python-oracledb",
@@ -380,6 +369,17 @@
   "description": "Python driver for Oracle Database conforming to the Python DB API 2.0 specification with many advanced features. Fast, small, portable. Enterprise ready.",
   "license": null,
   "first_seen": "2026-11-01 23:17:46"
+ },
+ {
+  "vendor": "Oracle",
+  "org": "graalvm",
+  "full_name": "graalvm/mandrel",
+  "url": "https://github.com/graalvm/mandrel",
+  "sec_path": "SECURITY.md",
+  "stars": 455,
+  "language": null,
+  "description": "Mandrel is a downstream distribution of the GraalVM community edition. Mandrel's main goal is to provide a native-image release specifically to support Quarkus.",
+  "first_seen": "2026-11-01 21:17:31"
  },
  {
   "vendor": "Oracle",

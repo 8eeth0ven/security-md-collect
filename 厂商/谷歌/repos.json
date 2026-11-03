@@ -17,7 +17,7 @@
   "full_name": "golang/go",
   "url": "https://github.com/golang/go",
   "sec_path": "SECURITY.md",
-  "stars": 139727,
+  "stars": 139548,
   "language": "Go",
   "description": "The Go programming language",
   "first_seen": "2026-11-01 20:51:25"
@@ -62,7 +62,7 @@
   "full_name": "google/zx",
   "url": "https://github.com/google/zx",
   "sec_path": ".github/SECURITY.md",
-  "stars": 45829,
+  "stars": 45831,
   "language": "JavaScript",
   "description": "A tool for writing better scripts",
   "license": null,
@@ -74,7 +74,7 @@
   "full_name": "google/googletest",
   "url": "https://github.com/google/googletest",
   "sec_path": "error",
-  "stars": 39687,
+  "stars": 39699,
   "language": "C++",
   "description": "GoogleTest - Google Testing and Mocking Framework",
   "first_seen": "2026-11-01 20:53:27"
@@ -85,7 +85,7 @@
   "full_name": "google/langextract",
   "url": "https://github.com/google/langextract",
   "sec_path": "error",
-  "stars": 39225,
+  "stars": 39258,
   "language": "Python",
   "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
   "first_seen": "2026-11-01 20:53:27"
@@ -107,7 +107,7 @@
   "full_name": "google/flatbuffers",
   "url": "https://github.com/google/flatbuffers",
   "sec_path": "error",
-  "stars": 26601,
+  "stars": 26609,
   "language": "C++",
   "description": "FlatBuffers: Memory Efficient Serialization Library",
   "first_seen": "2026-11-01 20:53:27"
@@ -141,9 +141,9 @@
   "full_name": "google/filament",
   "url": "https://github.com/google/filament",
   "sec_path": "SECURITY.md",
-  "stars": 20681,
+  "stars": 20685,
   "language": "C++",
-  "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+  "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -152,7 +152,7 @@
   "full_name": "google/gvisor",
   "url": "https://github.com/google/gvisor",
   "sec_path": "SECURITY.md",
-  "stars": 19845,
+  "stars": 19861,
   "language": "Go",
   "description": "Application Kernel for Containers",
   "first_seen": "2026-11-01 20:53:27"
@@ -163,7 +163,7 @@
   "full_name": "google/magika",
   "url": "https://github.com/google/magika",
   "sec_path": "SECURITY.md",
-  "stars": 18756,
+  "stars": 18761,
   "language": "Rust",
   "description": "Fast and accurate AI powered file content types detection ",
   "first_seen": "2026-11-01 20:53:27"
@@ -185,7 +185,7 @@
   "full_name": "google/brotli",
   "url": "https://github.com/google/brotli",
   "sec_path": "SECURITY.md",
-  "stars": 15073,
+  "stars": 15081,
   "language": "TypeScript",
   "description": "Brotli compression format",
   "license": null,
@@ -197,7 +197,7 @@
   "full_name": "google/ax",
   "url": "https://github.com/google/ax",
   "sec_path": "SECURITY.md",
-  "stars": 14433,
+  "stars": 14497,
   "language": "Go",
   "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
   "first_seen": "2026-11-01 20:53:27"
@@ -208,7 +208,7 @@
   "full_name": "google/or-tools",
   "url": "https://github.com/google/or-tools",
   "sec_path": "error",
-  "stars": 14308,
+  "stars": 14321,
   "language": "C++",
   "description": "Google's Operations Research tools:",
   "first_seen": "2026-11-01 20:53:27"
@@ -219,7 +219,7 @@
   "full_name": "google/oss-fuzz",
   "url": "https://github.com/google/oss-fuzz",
   "sec_path": "error",
-  "stars": 12834,
+  "stars": 12907,
   "language": "Shell",
   "description": "OSS-Fuzz - continuous fuzzing for open source software.",
   "first_seen": "2026-11-01 20:53:27"
@@ -230,7 +230,7 @@
   "full_name": "google/sanitizers",
   "url": "https://github.com/google/sanitizers",
   "sec_path": "error",
-  "stars": 12515,
+  "stars": 12518,
   "language": "C",
   "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
   "first_seen": "2026-11-01 20:53:27"
@@ -249,10 +249,21 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/elephant-goldfish-model",
+  "url": "https://github.com/google/elephant-goldfish-model",
+  "sec_path": "error",
+  "stars": 11158,
+  "language": "Python",
+  "description": "Open-source skills for designing and reviewing software with AI agents",
+  "first_seen": "2026-11-01 20:53:27"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/auto",
   "url": "https://github.com/google/auto",
   "sec_path": "error",
-  "stars": 10559,
+  "stars": 10561,
   "language": "Java",
   "description": "A collection of source code generators for Java.",
   "first_seen": "2026-11-01 20:53:27"
@@ -275,20 +286,9 @@
   "full_name": "google/adk-go",
   "url": "https://github.com/google/adk-go",
   "sec_path": "error",
-  "stars": 8916,
+  "stars": 8925,
   "language": "Go",
   "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/elephant-goldfish-model",
-  "url": "https://github.com/google/elephant-goldfish-model",
-  "sec_path": "error",
-  "stars": 8821,
-  "language": "Python",
-  "description": "Open-source skills for designing and reviewing software with AI agents",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -308,7 +308,7 @@
   "full_name": "google/draco",
   "url": "https://github.com/google/draco",
   "sec_path": "SECURITY.md",
-  "stars": 7537,
+  "stars": 7540,
   "language": "C++",
   "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics…",
   "license": null,
@@ -332,7 +332,7 @@
   "full_name": "google/j2objc",
   "url": "https://github.com/google/j2objc",
   "sec_path": "error",
-  "stars": 6036,
+  "stars": 6037,
   "language": "Java",
   "description": "A Java to iOS Objective-C translation tool and runtime.",
   "first_seen": "2026-11-01 20:53:27"
@@ -354,7 +354,7 @@
   "full_name": "google/security-research",
   "url": "https://github.com/google/security-research",
   "sec_path": "error",
-  "stars": 4725,
+  "stars": 4726,
   "language": "C",
   "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
   "first_seen": "2026-11-01 20:53:27"
@@ -365,7 +365,7 @@
   "full_name": "google/go-cmp",
   "url": "https://github.com/google/go-cmp",
   "sec_path": "error",
-  "stars": 4682,
+  "stars": 4683,
   "language": "Go",
   "description": "Package for comparing Go values in tests",
   "first_seen": "2026-11-01 20:53:27"
@@ -388,7 +388,7 @@
   "full_name": "golang/vscode-go",
   "url": "https://github.com/golang/vscode-go",
   "sec_path": "SECURITY.md",
-  "stars": 4268,
+  "stars": 4267,
   "language": "TypeScript",
   "description": "Go extension for Visual Studio Code",
   "first_seen": "2026-11-01 20:51:25"
@@ -411,7 +411,7 @@
   "full_name": "google/oboe",
   "url": "https://github.com/google/oboe",
   "sec_path": "error",
-  "stars": 4127,
+  "stars": 4129,
   "language": "C++",
   "description": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
   "first_seen": "2026-11-01 20:53:27"
@@ -422,7 +422,7 @@
   "full_name": "google/go-containerregistry",
   "url": "https://github.com/google/go-containerregistry",
   "sec_path": "SECURITY.md",
-  "stars": 4105,
+  "stars": 4107,
   "language": "Go",
   "description": "Go library and CLIs for working with container registries",
   "license": null,
@@ -445,7 +445,7 @@
   "full_name": "google/OpenSK",
   "url": "https://github.com/google/OpenSK",
   "sec_path": "error",
-  "stars": 3472,
+  "stars": 3476,
   "language": "Rust",
   "description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
   "first_seen": "2026-11-01 20:53:27"
@@ -468,7 +468,7 @@
   "full_name": "google/mozc",
   "url": "https://github.com/google/mozc",
   "sec_path": "error",
-  "stars": 3031,
+  "stars": 3033,
   "language": "C++",
   "description": "Mozc - a Japanese Input Method Editor designed for multi-platform",
   "first_seen": "2026-11-01 20:53:27"
@@ -479,7 +479,7 @@
   "full_name": "google/mantis",
   "url": "https://github.com/google/mantis",
   "sec_path": "error",
-  "stars": 2689,
+  "stars": 2702,
   "language": "Python",
   "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
   "first_seen": "2026-11-01 20:53:27"
@@ -490,7 +490,7 @@
   "full_name": "google/boringssl",
   "url": "https://github.com/google/boringssl",
   "sec_path": "SECURITY.md",
-  "stars": 2292,
+  "stars": 2294,
   "language": "C++",
   "description": "Mirror of BoringSSL",
   "first_seen": "2026-11-01 20:53:27"
@@ -513,7 +513,7 @@
   "full_name": "google/shaderc",
   "url": "https://github.com/google/shaderc",
   "sec_path": "error",
-  "stars": 2199,
+  "stars": 2198,
   "language": "C++",
   "description": "A collection of tools, libraries, and tests for Vulkan shader compilation.",
   "first_seen": "2026-11-01 20:53:27"
@@ -535,7 +535,7 @@
   "full_name": "golang/geo",
   "url": "https://github.com/golang/geo",
   "sec_path": "SECURITY.md",
-  "stars": 1853,
+  "stars": 1854,
   "language": "Go",
   "description": "S2 geometry library in Go",
   "first_seen": "2026-11-01 20:51:25"
@@ -579,7 +579,7 @@
   "full_name": "google/GNM",
   "url": "https://github.com/google/GNM",
   "sec_path": "error",
-  "stars": 1620,
+  "stars": 1624,
   "language": "Python",
   "description": "An open ecosystem of parametric human models and perception stacks, starting with GNM Head.",
   "first_seen": "2026-11-01 20:53:27"
@@ -613,7 +613,7 @@
   "full_name": "google/tensorstore",
   "url": "https://github.com/google/tensorstore",
   "sec_path": "error",
-  "stars": 1550,
+  "stars": 1551,
   "language": "C++",
   "description": "Library for reading and writing large multi-dimensional arrays.",
   "first_seen": "2026-11-01 20:53:27"
@@ -624,7 +624,7 @@
   "full_name": "google/adk-js",
   "url": "https://github.com/google/adk-js",
   "sec_path": "error",
-  "stars": 1464,
+  "stars": 1465,
   "language": "TypeScript",
   "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
   "first_seen": "2026-11-01 20:53:27"
@@ -646,7 +646,7 @@
   "full_name": "google/certificate-transparency-go",
   "url": "https://github.com/google/certificate-transparency-go",
   "sec_path": "error",
-  "stars": 1203,
+  "stars": 1206,
   "language": "Go",
   "description": "Auditing for TLS certificates (Go code)",
   "first_seen": "2026-11-01 20:53:27"
@@ -702,7 +702,7 @@
   "full_name": "google/paranoid_crypto",
   "url": "https://github.com/google/paranoid_crypto",
   "sec_path": "error",
-  "stars": 840,
+  "stars": 883,
   "language": "Python",
   "description": "Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.",
   "first_seen": "2026-11-01 20:53:27"
@@ -759,7 +759,7 @@
   "full_name": "google/openhtf",
   "url": "https://github.com/google/openhtf",
   "sec_path": "error",
-  "stars": 728,
+  "stars": 729,
   "language": "Python",
   "description": "The open-source hardware testing framework.",
   "first_seen": "2026-11-01 20:53:27"
@@ -825,7 +825,7 @@
   "full_name": "google/go-attestation",
   "url": "https://github.com/google/go-attestation",
   "sec_path": "error",
-  "stars": 449,
+  "stars": 450,
   "language": "Go",
   "description": "Libraries to abstract aspects of working with TPMs for the purposes of attestation",
   "first_seen": "2026-11-01 20:53:27"
@@ -871,7 +871,7 @@
   "full_name": "google/Xee",
   "url": "https://github.com/google/Xee",
   "sec_path": "error",
-  "stars": 378,
+  "stars": 379,
   "language": "Python",
   "description": "An Xarray extension for Google Earth Engine",
   "first_seen": "2026-11-01 20:53:27"
@@ -882,7 +882,7 @@
   "full_name": "google/libultrahdr",
   "url": "https://github.com/google/libultrahdr",
   "sec_path": "error",
-  "stars": 349,
+  "stars": 350,
   "language": "C++",
   "description": "Ultra HDR is a true HDR image format, and is backcompatible.  libultrahdr is the reference codec for the Ultra HDR format.  The codecs that support the format c…",
   "first_seen": "2026-11-01 20:53:27"
@@ -893,7 +893,7 @@
   "full_name": "google/password-alert",
   "url": "https://github.com/google/password-alert",
   "sec_path": "SECURITY.md",
-  "stars": 325,
+  "stars": 324,
   "language": "JavaScript",
   "description": "A Chrome Extension to help protect against phishing attacks.",
   "license": null,
@@ -983,7 +983,7 @@
   "full_name": "google/wasefire",
   "url": "https://github.com/google/wasefire",
   "sec_path": "SECURITY.md",
-  "stars": 192,
+  "stars": 193,
   "language": "Rust",
   "description": "Secure firmware framework focusing on developer experience",
   "license": null,
@@ -995,7 +995,7 @@
   "full_name": "google/capsem",
   "url": "https://github.com/google/capsem",
   "sec_path": "SECURITY.md",
-  "stars": 170,
+  "stars": 176,
   "language": "Rust",
   "description": "",
   "first_seen": "2026-11-01 20:53:27"
@@ -1030,7 +1030,7 @@
   "full_name": "google/.github",
   "url": "https://github.com/google/.github",
   "sec_path": "SECURITY.md",
-  "stars": 141,
+  "stars": 142,
   "language": null,
   "description": "default configuration for @google repos",
   "license": null,
@@ -1086,7 +1086,7 @@
   "full_name": "google/ink",
   "url": "https://github.com/google/ink",
   "sec_path": "SECURITY.md",
-  "stars": 105,
+  "stars": 106,
   "language": "C++",
   "description": "Google Ink",
   "first_seen": "2026-11-01 20:53:27"
@@ -1116,23 +1116,23 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/kernel-research",
+  "url": "https://github.com/google/kernel-research",
+  "sec_path": "error",
+  "stars": 97,
+  "language": "C++",
+  "description": "",
+  "first_seen": "2026-11-01 20:53:27"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/guava-beta-checker",
   "url": "https://github.com/google/guava-beta-checker",
   "sec_path": "error",
   "stars": 97,
   "language": "Java",
   "description": "Error Prone plugin to check for usages of @Beta APIs",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/kernel-research",
-  "url": "https://github.com/google/kernel-research",
-  "sec_path": "error",
-  "stars": 96,
-  "language": "C++",
-  "description": "",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -1339,23 +1339,23 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/meridian-geox",
+  "url": "https://github.com/google/meridian-geox",
+  "sec_path": "error",
+  "stars": 46,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 20:53:27"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/aarch64-paging",
   "url": "https://github.com/google/aarch64-paging",
   "sec_path": "error",
   "stars": 46,
   "language": "Rust",
   "description": "A Rust library to manipulate AArch64 VMSA EL1 page tables.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/meridian-geox",
-  "url": "https://github.com/google/meridian-geox",
-  "sec_path": "error",
-  "stars": 44,
-  "language": "Python",
-  "description": "",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -1394,23 +1394,23 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/migration-planner",
+  "url": "https://github.com/google/migration-planner",
+  "sec_path": "error",
+  "stars": 35,
+  "language": "Python",
+  "description": "The Migration Planner is a desktop application designed to help deployment partners and IT administrators assess a Microsoft tenant before migration. ",
+  "first_seen": "2026-11-01 20:53:27"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/mpact-riscv",
   "url": "https://github.com/google/mpact-riscv",
   "sec_path": "error",
   "stars": 35,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/migration-planner",
-  "url": "https://github.com/google/migration-planner",
-  "sec_path": "error",
-  "stars": 34,
-  "language": "Python",
-  "description": "The Migration Planner is a desktop application designed to help deployment partners and IT administrators assess a Microsoft tenant before migration. ",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -1565,7 +1565,7 @@
   "full_name": "google/abfs",
   "url": "https://github.com/google/abfs",
   "sec_path": "error",
-  "stars": 16,
+  "stars": 17,
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 20:53:27"
@@ -1792,6 +1792,18 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/agent-security-cli",
+  "url": "https://github.com/google/agent-security-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-02 04:18:39"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/skyline_rl_lab",
   "url": "https://github.com/google/skyline_rl_lab",
   "sec_path": "SECURITY.md",
@@ -1800,18 +1812,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 04:21:32"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/agent-security-cli",
-  "url": "https://github.com/google/agent-security-cli",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "Python",
-  "description": "",
-  "license": null,
-  "first_seen": "2026-11-02 04:18:39"
  },
  {
   "vendor": "谷歌",

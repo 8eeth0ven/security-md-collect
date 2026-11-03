@@ -16,7 +16,7 @@
   "full_name": "hashicorp/raft",
   "url": "https://github.com/hashicorp/raft",
   "sec_path": "error",
-  "stars": 9159,
+  "stars": 9162,
   "language": "Go",
   "description": "Golang implementation of the Raft consensus protocol",
   "first_seen": "2026-11-01 21:24:21"
@@ -27,7 +27,7 @@
   "full_name": "hashicorp/go-plugin",
   "url": "https://github.com/hashicorp/go-plugin",
   "sec_path": "error",
-  "stars": 6115,
+  "stars": 6116,
   "language": "Go",
   "description": "Golang plugin system over RPC.",
   "first_seen": "2026-11-01 21:24:21"
@@ -49,7 +49,7 @@
   "full_name": "hashicorp/hcl",
   "url": "https://github.com/hashicorp/hcl",
   "sec_path": "SECURITY.md",
-  "stars": 5828,
+  "stars": 5830,
   "language": "Go",
   "description": "HCL is the HashiCorp configuration language.",
   "first_seen": "2026-11-01 21:24:21"
@@ -82,7 +82,7 @@
   "full_name": "hashicorp/memberlist",
   "url": "https://github.com/hashicorp/memberlist",
   "sec_path": "error",
-  "stars": 4128,
+  "stars": 4130,
   "language": "Go",
   "description": "Golang package for gossip based membership and failure detection",
   "first_seen": "2026-11-01 21:24:21"
@@ -104,7 +104,7 @@
   "full_name": "hashicorp/yamux",
   "url": "https://github.com/hashicorp/yamux",
   "sec_path": "error",
-  "stars": 2707,
+  "stars": 2708,
   "language": "Go",
   "description": "Golang connection multiplexing library",
   "first_seen": "2026-11-01 21:24:21"
@@ -115,7 +115,7 @@
   "full_name": "hashicorp/go-multierror",
   "url": "https://github.com/hashicorp/go-multierror",
   "sec_path": "error",
-  "stars": 2591,
+  "stars": 2590,
   "language": "Go",
   "description": "A Go (golang) package for representing a list of errors as a single error.",
   "first_seen": "2026-11-01 21:24:21"
@@ -148,7 +148,7 @@
   "full_name": "hashicorp/mdns",
   "url": "https://github.com/hashicorp/mdns",
   "sec_path": "error",
-  "stars": 1395,
+  "stars": 1396,
   "language": "Go",
   "description": "Simple mDNS client/server library in Golang",
   "first_seen": "2026-11-01 21:24:21"
@@ -492,7 +492,7 @@
   "full_name": "hashicorp/hcl-lang",
   "url": "https://github.com/hashicorp/hcl-lang",
   "sec_path": "error",
-  "stars": 100,
+  "stars": 101,
   "language": "Go",
   "description": "Schema and decoder to be used as building blocks for an HCL2-based language server.",
   "first_seen": "2026-11-01 21:24:21"
@@ -569,7 +569,7 @@
   "full_name": "hashicorp/vault-mcp-server",
   "url": "https://github.com/hashicorp/vault-mcp-server",
   "sec_path": "error",
-  "stars": 65,
+  "stars": 66,
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 21:24:21"
@@ -1238,6 +1238,17 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/prewritten-terraform-policy-library",
+  "url": "https://github.com/hashicorp/prewritten-terraform-policy-library",
+  "sec_path": "error",
+  "stars": 4,
+  "language": "HCL",
+  "description": "Enforce cloud compliance best practices with prewritten Terraform policies.",
+  "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/boundary-plugin-azure",
   "url": "https://github.com/hashicorp/boundary-plugin-azure",
   "sec_path": "error",
@@ -1299,17 +1310,6 @@
   "stars": 3,
   "language": "HCL",
   "description": "A Terraform module for provisioning and installing Consul Enterprise on Azure virtual machines as described in HashiCorp Validated Designs",
-  "first_seen": "2026-11-01 21:24:21"
- },
- {
-  "vendor": "HashiCorp",
-  "org": "hashicorp",
-  "full_name": "hashicorp/prewritten-terraform-policy-library",
-  "url": "https://github.com/hashicorp/prewritten-terraform-policy-library",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "HCL",
-  "description": "Enforce cloud compliance best practices with prewritten Terraform policies.",
   "first_seen": "2026-11-01 21:24:21"
  },
  {
