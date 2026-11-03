@@ -104,7 +104,7 @@
   "full_name": "intel/auto-round",
   "url": "https://github.com/intel/auto-round",
   "sec_path": "SECURITY.md",
-  "stars": 1699,
+  "stars": 1700,
   "language": "Python",
   "description": "PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度",
   "first_seen": "2026-11-01 21:52:33"
@@ -126,7 +126,7 @@
   "full_name": "intel/compute-runtime",
   "url": "https://github.com/intel/compute-runtime",
   "sec_path": "Security.md",
-  "stars": 1464,
+  "stars": 1465,
   "language": "C++",
   "description": "Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver",
   "first_seen": "2026-11-01 21:52:33"
@@ -1899,6 +1899,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/ethernet-linux-ice",
+  "url": "https://github.com/intel/ethernet-linux-ice",
+  "sec_path": "security.md",
+  "stars": 66,
+  "language": "C",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/intel-extension-for-openxla",
   "url": "https://github.com/intel/intel-extension-for-openxla",
   "sec_path": "security.md",
@@ -1921,12 +1932,12 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/ethernet-linux-ice",
-  "url": "https://github.com/intel/ethernet-linux-ice",
-  "sec_path": "security.md",
+  "full_name": "intel/SDM",
+  "url": "https://github.com/intel/SDM",
+  "sec_path": "SECURITY.md",
   "stars": 65,
-  "language": "C",
-  "description": "",
+  "language": "HTML",
+  "description": "Website for viewing the executable IA specification (external view). This combines data from the SDM and XED with a new executable specifiation.",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -1972,17 +1983,6 @@
   "stars": 64,
   "language": "C++",
   "description": "MLIR-based toolkit targeting intel heterogeneous hardware",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/SDM",
-  "url": "https://github.com/intel/SDM",
-  "sec_path": "SECURITY.md",
-  "stars": 64,
-  "language": "HTML",
-  "description": "Website for viewing the executable IA specification (external view). This combines data from the SDM and XED with a new executable specifiation.",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -2430,6 +2430,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/vtpm-td",
+  "url": "https://github.com/intel/vtpm-td",
+  "sec_path": "security.md",
+  "stars": 45,
+  "language": "Rust",
+  "description": "",
+  "first_seen": "2026-11-01 21:53:13"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/meta-de10-nano",
   "url": "https://github.com/intel/meta-de10-nano",
   "sec_path": "error",
@@ -2471,17 +2482,6 @@
   "language": "TypeScript",
   "description": "Documentation",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/vtpm-td",
-  "url": "https://github.com/intel/vtpm-td",
-  "sec_path": "security.md",
-  "stars": 44,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 21:53:13"
  },
  {
   "vendor": "Intel",
@@ -7912,6 +7912,18 @@
   "description": "AI Starter Kit for Intelligent Indexing of Incoming Correspondence using Intel® Extension for Scikit-learn*",
   "license": null,
   "first_seen": "2026-11-01 23:05:44"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/full-system-monitoring",
+  "url": "https://github.com/intel/full-system-monitoring",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": null,
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-04 07:37:20"
  },
  {
   "vendor": "Intel",

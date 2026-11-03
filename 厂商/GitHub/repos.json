@@ -5,7 +5,7 @@
   "full_name": "github/spec-kit",
   "url": "https://github.com/github/spec-kit",
   "sec_path": "SECURITY.md",
-  "stars": 146446,
+  "stars": 146628,
   "language": "Python",
   "description": "💫 Toolkit to help you get started with SDD or any other process!",
   "first_seen": "2026-11-01 20:47:55"
@@ -16,7 +16,7 @@
   "full_name": "github/awesome-copilot",
   "url": "https://github.com/github/awesome-copilot",
   "sec_path": "SECURITY.md",
-  "stars": 40759,
+  "stars": 40767,
   "language": "JavaScript",
   "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
   "first_seen": "2026-11-01 20:47:55"
@@ -27,7 +27,7 @@
   "full_name": "github/github-mcp-server",
   "url": "https://github.com/github/github-mcp-server",
   "sec_path": "SECURITY.md",
-  "stars": 34193,
+  "stars": 34201,
   "language": "Go",
   "description": "GitHub's official MCP Server",
   "first_seen": "2026-11-01 20:47:55"
@@ -49,7 +49,7 @@
   "full_name": "github/copilot-sdk",
   "url": "https://github.com/github/copilot-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 10655,
+  "stars": 10654,
   "language": "Java",
   "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
   "first_seen": "2026-11-01 20:47:55"
@@ -71,7 +71,7 @@
   "full_name": "github/CopilotForXcode",
   "url": "https://github.com/github/CopilotForXcode",
   "sec_path": "SECURITY.md",
-  "stars": 6362,
+  "stars": 6363,
   "language": "Swift",
   "description": "AI coding assistant for Xcode",
   "first_seen": "2026-11-01 20:47:55"
@@ -82,7 +82,7 @@
   "full_name": "github/gh-aw",
   "url": "https://github.com/github/gh-aw",
   "sec_path": "SECURITY.md",
-  "stars": 5567,
+  "stars": 5572,
   "language": "Go",
   "description": "GitHub Agentic Workflows",
   "first_seen": "2026-11-01 20:47:55"
@@ -126,7 +126,7 @@
   "full_name": "github/hubot-sans",
   "url": "https://github.com/github/hubot-sans",
   "sec_path": "SECURITY.md",
-  "stars": 1967,
+  "stars": 1966,
   "language": "Shell",
   "description": "Hubot Sans, a variable font from GitHub",
   "first_seen": "2026-11-01 20:48:42"
@@ -137,7 +137,7 @@
   "full_name": "github/gh-stack",
   "url": "https://github.com/github/gh-stack",
   "sec_path": "SECURITY.md",
-  "stars": 1740,
+  "stars": 1741,
   "language": "Go",
   "description": "GitHub Stacked PRs",
   "first_seen": "2026-11-01 20:47:55"
@@ -203,7 +203,7 @@
   "full_name": "github/brasil",
   "url": "https://github.com/github/brasil",
   "sec_path": "SECURITY.md",
-  "stars": 784,
+  "stars": 785,
   "language": "Ruby",
   "description": "Recursos e informações do GitHub para a comunidade tech do Brasil.",
   "first_seen": "2026-11-01 20:48:42"
@@ -291,7 +291,7 @@
   "full_name": "github/copilot-plugins",
   "url": "https://github.com/github/copilot-plugins",
   "sec_path": "SECURITY.md",
-  "stars": 380,
+  "stars": 381,
   "language": "PowerShell",
   "description": "The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.",
   "first_seen": "2026-11-01 20:47:55"
@@ -324,7 +324,7 @@
   "full_name": "github/copilot-language-server-release",
   "url": "https://github.com/github/copilot-language-server-release",
   "sec_path": "SECURITY.md",
-  "stars": 292,
+  "stars": 293,
   "language": null,
   "description": "Feedback for the GitHub Copilot Language Server",
   "first_seen": "2026-11-01 20:47:55"
@@ -335,7 +335,7 @@
   "full_name": "github/gh-actions-lock",
   "url": "https://github.com/github/gh-actions-lock",
   "sec_path": "SECURITY.md",
-  "stars": 288,
+  "stars": 290,
   "language": "Go",
   "description": "A gh CLI extension that generates and verifies the GitHub Actions dependency lockfile, pinning every action your workflows use to an exact commit.",
   "first_seen": "2026-11-01 20:47:55"
@@ -390,7 +390,7 @@
   "full_name": "github/github-app-js-sample",
   "url": "https://github.com/github/github-app-js-sample",
   "sec_path": "SECURITY.md",
-  "stars": 208,
+  "stars": 209,
   "language": "JavaScript",
   "description": "Sample of a GitHub App that comments new pull requests",
   "first_seen": "2026-11-01 20:47:55"
@@ -442,17 +442,6 @@
  {
   "vendor": "GitHub",
   "org": "github",
-  "full_name": "github/super-linter",
-  "url": "https://github.com/github/super-linter",
-  "sec_path": "SECURITY.md",
-  "stars": 158,
-  "language": "Shell",
-  "description": "Combination of multiple linters to install as a GitHub Action",
-  "first_seen": "2026-11-01 20:47:55"
- },
- {
-  "vendor": "GitHub",
-  "org": "github",
   "full_name": "github/gh-aw-firewall",
   "url": "https://github.com/github/gh-aw-firewall",
   "sec_path": "docs/security.md",
@@ -464,10 +453,21 @@
  {
   "vendor": "GitHub",
   "org": "github",
+  "full_name": "github/super-linter",
+  "url": "https://github.com/github/super-linter",
+  "sec_path": "SECURITY.md",
+  "stars": 157,
+  "language": "Shell",
+  "description": "Combination of multiple linters to install as a GitHub Action",
+  "first_seen": "2026-11-01 20:47:55"
+ },
+ {
+  "vendor": "GitHub",
+  "org": "github",
   "full_name": "github/replica",
   "url": "https://github.com/github/replica",
   "sec_path": "SECURITY.md",
-  "stars": 154,
+  "stars": 156,
   "language": "TypeScript",
   "description": "Interactive prototyping tools for your team.",
   "first_seen": "2026-11-01 20:47:55"
