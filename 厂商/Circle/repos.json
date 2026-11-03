@@ -5,7 +5,7 @@
   "full_name": "circlefin/stablecoin-evm",
   "url": "https://github.com/circlefin/stablecoin-evm",
   "sec_path": "SECURITY.md",
-  "stars": 811,
+  "stars": 812,
   "language": "TypeScript",
   "description": "Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains",
   "first_seen": "2026-11-01 19:19:37"
@@ -277,6 +277,17 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
+  "full_name": "circlefin/arc-remote-signer",
+  "url": "https://github.com/circlefin/arc-remote-signer",
+  "sec_path": "SECURITY.md",
+  "stars": 17,
+  "language": "Go",
+  "description": "Secure remote signing service for Arc Network using AWS Nitro Enclaves",
+  "first_seen": "2026-11-01 19:19:37"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
   "full_name": "circlefin/w3s-pw-web-sdk",
   "url": "https://github.com/circlefin/w3s-pw-web-sdk",
   "sec_path": "SECURITY.md",
@@ -305,17 +316,6 @@
   "stars": 16,
   "language": "Move",
   "description": "Official repository for Sui smart contracts used by the Cross-Chain Transfer Protocol",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/arc-remote-signer",
-  "url": "https://github.com/circlefin/arc-remote-signer",
-  "sec_path": "SECURITY.md",
-  "stars": 16,
-  "language": "Go",
-  "description": "Secure remote signing service for Arc Network using AWS Nitro Enclaves",
   "first_seen": "2026-11-01 19:19:37"
  },
  {

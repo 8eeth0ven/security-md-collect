@@ -5,7 +5,7 @@
   "full_name": "cisco/openh264",
   "url": "https://github.com/cisco/openh264",
   "sec_path": "SECURITY.md",
-  "stars": 6166,
+  "stars": 6167,
   "language": "C++",
   "description": "Open Source H.264 Codec ",
   "first_seen": "2026-11-01 19:19:58"
@@ -16,7 +16,7 @@
   "full_name": "cisco-open/network-sketcher",
   "url": "https://github.com/cisco-open/network-sketcher",
   "sec_path": "SECURITY.md",
-  "stars": 416,
+  "stars": 417,
   "language": "Python",
   "description": "Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offline editions for creating network designs and exporting PowerPoint diagrams …",
   "first_seen": "2026-11-01 19:20:37"
@@ -38,7 +38,7 @@
   "full_name": "cisco-open/pase",
   "url": "https://github.com/cisco-open/pase",
   "sec_path": "SECURITY.md",
-  "stars": 104,
+  "stars": 105,
   "language": "Python",
   "description": "PASE: Phonologically Anchored Speech Enhancer ",
   "first_seen": "2026-11-01 19:20:37"
@@ -60,7 +60,7 @@
   "full_name": "cisco-open/sdwan-lab-deployment-tool",
   "url": "https://github.com/cisco-open/sdwan-lab-deployment-tool",
   "sec_path": "SECURITY.md",
-  "stars": 77,
+  "stars": 78,
   "language": "Python",
   "description": "This tool automates Cisco Catalyst SD-WAN lab deployment inside Cisco Modeling Labs (CML).",
   "first_seen": "2026-11-01 19:20:37"
@@ -321,6 +321,17 @@
  {
   "vendor": "思科",
   "org": "cisco-open",
+  "full_name": "cisco-open/cisco-virtual-kubelet",
+  "url": "https://github.com/cisco-open/cisco-virtual-kubelet",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Go",
+  "description": "Production-ready Virtual Kubelet provider for Cisco devices with Application Hosting capabilities.",
+  "first_seen": "2026-11-01 19:20:37"
+ },
+ {
+  "vendor": "思科",
+  "org": "cisco-open",
   "full_name": "cisco-open/grabit",
   "url": "https://github.com/cisco-open/grabit",
   "sec_path": "SECURITY.md",
@@ -338,17 +349,6 @@
   "stars": 8,
   "language": "Rust",
   "description": " Rust Read and AsyncRead wrapper that calculates digest::Digest checksums",
-  "first_seen": "2026-11-01 19:20:37"
- },
- {
-  "vendor": "思科",
-  "org": "cisco-open",
-  "full_name": "cisco-open/cisco-virtual-kubelet",
-  "url": "https://github.com/cisco-open/cisco-virtual-kubelet",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": "Go",
-  "description": "Production-ready Virtual Kubelet provider for Cisco devices with Application Hosting capabilities.",
   "first_seen": "2026-11-01 19:20:37"
  },
  {

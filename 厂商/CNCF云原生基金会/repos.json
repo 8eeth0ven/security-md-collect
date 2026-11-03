@@ -29,7 +29,7 @@
   "full_name": "etcd-io/etcd",
   "url": "https://github.com/etcd-io/etcd",
   "sec_path": ".github/SECURITY.md",
-  "stars": 52437,
+  "stars": 52443,
   "language": "Go",
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
   "first_seen": "2026-11-01 19:49:09"
@@ -75,7 +75,7 @@
   "full_name": "envoyproxy/envoy",
   "url": "https://github.com/envoyproxy/envoy",
   "sec_path": "SECURITY.md",
-  "stars": 29162,
+  "stars": 29172,
   "language": "C++",
   "description": "Cloud-native high-performance edge/middle/service proxy",
   "first_seen": "2026-11-01 19:47:48"
@@ -86,7 +86,7 @@
   "full_name": "cilium/cilium",
   "url": "https://github.com/cilium/cilium",
   "sec_path": "SECURITY.md",
-  "stars": 25750,
+  "stars": 25766,
   "language": "Go",
   "description": "eBPF-based Networking, Security, and Observability",
   "first_seen": "2026-11-01 19:18:45"
@@ -212,7 +212,7 @@
   "full_name": "containerd/nerdctl",
   "url": "https://github.com/containerd/nerdctl",
   "sec_path": "SECURITY.md",
-  "stars": 10460,
+  "stars": 10462,
   "language": "Go",
   "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
   "first_seen": "2026-11-01 18:53:52"
@@ -306,7 +306,7 @@
   "full_name": "cilium/tetragon",
   "url": "https://github.com/cilium/tetragon",
   "sec_path": "SECURITY.md",
-  "stars": 5138,
+  "stars": 5148,
   "language": "C",
   "description": "eBPF-based Security Observability and Runtime Enforcement",
   "first_seen": "2026-11-01 19:18:45"
@@ -446,7 +446,7 @@
   "full_name": "envoyproxy/gateway",
   "url": "https://github.com/envoyproxy/gateway",
   "sec_path": "SECURITY.md",
-  "stars": 3123,
+  "stars": 3126,
   "language": "Go",
   "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
   "first_seen": "2026-11-01 19:47:48"
@@ -562,7 +562,7 @@
   "full_name": "containerd/runwasi",
   "url": "https://github.com/containerd/runwasi",
   "sec_path": "SECURITY.md",
-  "stars": 1347,
+  "stars": 1346,
   "language": "Rust",
   "description": "Facilitates running Wasm / WASI workloads managed by containerd",
   "first_seen": "2026-11-01 18:53:52"
@@ -774,7 +774,7 @@
   "full_name": "cilium/cilium-cli",
   "url": "https://github.com/cilium/cilium-cli",
   "sec_path": "SECURITY.md",
-  "stars": 608,
+  "stars": 609,
   "language": "Makefile",
   "description": "CLI to install, manage & troubleshoot Kubernetes clusters running Cilium",
   "first_seen": "2026-11-01 19:18:45"
