@@ -5,7 +5,7 @@
   "full_name": "Tencent/WeKnora",
   "url": "https://github.com/Tencent/WeKnora",
   "sec_path": "SECURITY.md",
-  "stars": 36183,
+  "stars": 36379,
   "language": "Go",
   "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
   "first_seen": "2026-11-01 17:23:13"
@@ -16,7 +16,7 @@
   "full_name": "Tencent/MMKV",
   "url": "https://github.com/Tencent/MMKV",
   "sec_path": "SECURITY.md",
-  "stars": 18770,
+  "stars": 18773,
   "language": "C++",
   "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",
   "first_seen": "2026-11-01 17:23:13"
@@ -27,7 +27,7 @@
   "full_name": "TencentCloud/Octop",
   "url": "https://github.com/TencentCloud/Octop",
   "sec_path": "SECURITY.md",
-  "stars": 11422,
+  "stars": 11522,
   "language": "Python",
   "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
   "first_seen": "2026-11-01 17:25:37"
@@ -38,7 +38,7 @@
   "full_name": "Tencent/AI-Infra-Guard",
   "url": "https://github.com/Tencent/AI-Infra-Guard",
   "sec_path": "SECURITY.md",
-  "stars": 7290,
+  "stars": 7366,
   "language": "Python",
   "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
   "first_seen": "2026-11-01 17:23:13"
@@ -49,7 +49,7 @@
   "full_name": "Tencent/cherry-markdown",
   "url": "https://github.com/Tencent/cherry-markdown",
   "sec_path": "SECURITY.md",
-  "stars": 4914,
+  "stars": 4916,
   "language": "TypeScript",
   "description": "✨ A Markdown Editor",
   "first_seen": "2026-11-01 17:23:13"
@@ -60,7 +60,7 @@
   "full_name": "Tencent/cloudbase-framework",
   "url": "https://github.com/Tencent/cloudbase-framework",
   "sec_path": "SECURITY.md",
-  "stars": 1995,
+  "stars": 1996,
   "language": "JavaScript",
   "description": " 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构",
   "first_seen": "2026-11-01 17:23:13"
@@ -71,7 +71,7 @@
   "full_name": "Tencent-Hunyuan/Hy-Memory",
   "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
   "sec_path": "SECURITY.md",
-  "stars": 1906,
+  "stars": 1933,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:24:54"
@@ -104,7 +104,7 @@
   "full_name": "Tencent/YOLO-Master",
   "url": "https://github.com/Tencent/YOLO-Master",
   "sec_path": "SECURITY.md",
-  "stars": 774,
+  "stars": 775,
   "language": "Python",
   "description": "[CVPR2026]🚀🚀🚀Official code for the paper   \"YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection.\"   *(YOLO = You Only Lo…",
   "first_seen": "2026-11-01 17:23:13"
@@ -123,6 +123,17 @@
  },
  {
   "vendor": "腾讯",
+  "org": "Tencent-Hunyuan",
+  "full_name": "Tencent-Hunyuan/Hy-Nomas",
+  "url": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
+  "sec_path": "SECURITY.md",
+  "stars": 474,
+  "language": "Python",
+  "description": "Hy-Nomas: Towards Free-form Interactive World Generation",
+  "first_seen": "2026-11-01 17:24:54"
+ },
+ {
+  "vendor": "腾讯",
   "org": "Tencent",
   "full_name": "Tencent/TencentKonaSMSuite",
   "url": "https://github.com/Tencent/TencentKonaSMSuite",
@@ -131,17 +142,6 @@
   "language": "Java",
   "description": "Tencent Kona SM Suite contains a set of Java security providers, which support algorithms SM2, SM3 and SM4, and protocols TLCP/GMSSL, TLS 1.3 (with RFC 8998) an…",
   "first_seen": "2026-11-01 17:23:13"
- },
- {
-  "vendor": "腾讯",
-  "org": "Tencent-Hunyuan",
-  "full_name": "Tencent-Hunyuan/Hy-Nomas",
-  "url": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
-  "sec_path": "SECURITY.md",
-  "stars": 443,
-  "language": "Python",
-  "description": "Hy-Nomas: Towards Free-form Interactive World Generation",
-  "first_seen": "2026-11-01 17:24:54"
  },
  {
   "vendor": "腾讯",
@@ -160,7 +160,7 @@
   "full_name": "TencentCloud/tencentmeeting-cli",
   "url": "https://github.com/TencentCloud/tencentmeeting-cli",
   "sec_path": "SECURITY.md",
-  "stars": 248,
+  "stars": 247,
   "language": "Go",
   "description": "腾讯会议命令行工具（CLI），基于腾讯会议开放平台 OAuth2 授权，支持会议管理、录制管理、参会报告等功能。",
   "first_seen": "2026-11-01 17:25:37"
@@ -182,7 +182,7 @@
   "full_name": "Tencent/SkillHone",
   "url": "https://github.com/Tencent/SkillHone",
   "sec_path": "SECURITY.md",
-  "stars": 171,
+  "stars": 172,
   "language": "TypeScript",
   "description": "Continual agent skill evolution through persistent decision history. Whole-skill optimisation (SKILL.md + scripts + references) with every decision landing as a…",
   "first_seen": "2026-11-01 17:23:13"
@@ -193,7 +193,7 @@
   "full_name": "TencentCloud/octop-harness",
   "url": "https://github.com/TencentCloud/octop-harness",
   "sec_path": "SECURITY.md",
-  "stars": 132,
+  "stars": 135,
   "language": "Python",
   "description": "A production-grade agent runtime engineered from the Harness Engineering philosophy.",
   "first_seen": "2026-11-01 17:25:37"
@@ -204,7 +204,7 @@
   "full_name": "TencentCloud/octop-memory",
   "url": "https://github.com/TencentCloud/octop-memory",
   "sec_path": "SECURITY.md",
-  "stars": 86,
+  "stars": 87,
   "language": "Python",
   "description": "Help your agent remember what matters. Keep preferences, carry context across sessions, and bring your memory to the next agent.",
   "first_seen": "2026-11-01 17:25:37"
@@ -215,7 +215,7 @@
   "full_name": "TencentCloud/octop-gateway",
   "url": "https://github.com/TencentCloud/octop-gateway",
   "sec_path": "SECURITY.md",
-  "stars": 81,
+  "stars": 83,
   "language": "Python",
   "description": "Multi-platform IM channel bridge with unified message abstraction for AI agents and bots",
   "first_seen": "2026-11-01 17:25:37"
@@ -226,7 +226,7 @@
   "full_name": "Tencent/LoopForge",
   "url": "https://github.com/Tencent/LoopForge",
   "sec_path": "SECURITY.md",
-  "stars": 74,
+  "stars": 76,
   "language": "Go",
   "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows fo…",
   "first_seen": "2026-11-01 17:23:13"
@@ -237,7 +237,7 @@
   "full_name": "TencentCloud/octop-browser",
   "url": "https://github.com/TencentCloud/octop-browser",
   "sec_path": "SECURITY.md",
-  "stars": 68,
+  "stars": 69,
   "language": "Python",
   "description": "Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable.",
   "first_seen": "2026-11-01 17:25:37"

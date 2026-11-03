@@ -5,7 +5,7 @@
   "full_name": "salesforce/LAVIS",
   "url": "https://github.com/salesforce/LAVIS",
   "sec_path": "SECURITY.md",
-  "stars": 11257,
+  "stars": 11256,
   "language": "Jupyter Notebook",
   "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
   "first_seen": "2026-11-01 17:19:30"
@@ -27,7 +27,7 @@
   "full_name": "salesforce/CodeGen",
   "url": "https://github.com/salesforce/CodeGen",
   "sec_path": "SECURITY.md",
-  "stars": 5183,
+  "stars": 5181,
   "language": "Python",
   "description": "CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
   "first_seen": "2026-11-01 17:19:30"
@@ -49,7 +49,7 @@
   "full_name": "salesforce/akita",
   "url": "https://github.com/salesforce/akita",
   "sec_path": "SECURITY.md",
-  "stars": 3662,
+  "stars": 3661,
   "language": "TypeScript",
   "description": "🚀 State Management Tailored-Made for JS Applications",
   "first_seen": "2026-11-01 17:19:44"
@@ -60,7 +60,7 @@
   "full_name": "salesforce/CodeT5",
   "url": "https://github.com/salesforce/CodeT5",
   "sec_path": "SECURITY.md",
-  "stars": 3087,
+  "stars": 3086,
   "language": "Python",
   "description": "Home of CodeT5: Open Code LLMs for Code Understanding and Generation",
   "first_seen": "2026-11-01 17:19:30"
@@ -82,7 +82,7 @@
   "full_name": "salesforce/cloudsplaining",
   "url": "https://github.com/salesforce/cloudsplaining",
   "sec_path": "SECURITY.md",
-  "stars": 2256,
+  "stars": 2257,
   "language": "JavaScript",
   "description": "Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.",
   "first_seen": "2026-11-01 17:19:30"
@@ -126,7 +126,7 @@
   "full_name": "salesforce/ALBEF",
   "url": "https://github.com/salesforce/ALBEF",
   "sec_path": "SECURITY.md",
-  "stars": 1753,
+  "stars": 1754,
   "language": "Python",
   "description": "Code for ALBEF: a new vision-language pre-training method",
   "first_seen": "2026-11-01 17:19:44"
@@ -159,7 +159,7 @@
   "full_name": "salesforce/jarm",
   "url": "https://github.com/salesforce/jarm",
   "sec_path": "SECURITY.md",
-  "stars": 1328,
+  "stars": 1329,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:30"
@@ -181,7 +181,7 @@
   "full_name": "salesforce/tough-cookie",
   "url": "https://github.com/salesforce/tough-cookie",
   "sec_path": "SECURITY.md",
-  "stars": 1066,
+  "stars": 1067,
   "language": "TypeScript",
   "description": "RFC6265 Cookies and CookieJar for Node.js",
   "first_seen": "2026-11-01 17:19:30"
@@ -258,7 +258,7 @@
   "full_name": "salesforce/UniControl",
   "url": "https://github.com/salesforce/UniControl",
   "sec_path": "SECURITY.md",
-  "stars": 665,
+  "stars": 664,
   "language": "Python",
   "description": "Unified Controllable Visual Generation Model",
   "first_seen": "2026-11-01 17:19:30"
@@ -452,6 +452,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "Salesforce",
+  "full_name": "salesforce/agentscript",
+  "url": "https://github.com/salesforce/agentscript",
+  "sec_path": "SECURITY.md",
+  "stars": 275,
+  "language": "TypeScript",
+  "description": "An open, schema-driven language for configuring agent orchestration systems",
+  "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "forcedotcom",
   "full_name": "forcedotcom/wsc",
   "url": "https://github.com/forcedotcom/wsc",
@@ -460,17 +471,6 @@
   "language": "Java",
   "description": "",
   "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "Salesforce",
-  "full_name": "salesforce/agentscript",
-  "url": "https://github.com/salesforce/agentscript",
-  "sec_path": "SECURITY.md",
-  "stars": 274,
-  "language": "TypeScript",
-  "description": "An open, schema-driven language for configuring agent orchestration systems",
-  "first_seen": "2026-11-01 17:19:30"
  },
  {
   "vendor": "Salesforce",
@@ -1839,23 +1839,23 @@
  {
   "vendor": "Salesforce",
   "org": "Salesforce",
-  "full_name": "salesforce/cantor",
-  "url": "https://github.com/salesforce/cantor",
-  "sec_path": "SECURITY.md",
-  "stars": 38,
-  "language": "Java",
-  "description": "Data abstraction, storage, discovery, and serving system",
-  "first_seen": "2026-11-01 17:19:30"
- },
- {
-  "vendor": "Salesforce",
-  "org": "Salesforce",
   "full_name": "salesforce/ConvSumm",
   "url": "https://github.com/salesforce/ConvSumm",
   "sec_path": "SECURITY.md",
   "stars": 38,
   "language": "Python",
   "description": "",
+  "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "Salesforce",
+  "full_name": "salesforce/cantor",
+  "url": "https://github.com/salesforce/cantor",
+  "sec_path": "SECURITY.md",
+  "stars": 37,
+  "language": "Java",
+  "description": "Data abstraction, storage, discovery, and serving system",
   "first_seen": "2026-11-01 17:19:30"
  },
  {
@@ -2234,17 +2234,6 @@
  },
  {
   "vendor": "Salesforce",
-  "org": "Salesforce",
-  "full_name": "salesforce/dr-cla",
-  "url": "https://github.com/salesforce/dr-cla",
-  "sec_path": "SECURITY.md",
-  "stars": 22,
-  "language": "Scala",
-  "description": "Contributor License Agreement Bot for Validating GitHub Pull Requests",
-  "first_seen": "2026-11-01 17:19:30"
- },
- {
-  "vendor": "Salesforce",
   "org": "forcedotcom",
   "full_name": "forcedotcom/SalesforceMobileSDK-Package",
   "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Package",
@@ -2267,6 +2256,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "Salesforce",
+  "full_name": "salesforce/dr-cla",
+  "url": "https://github.com/salesforce/dr-cla",
+  "sec_path": "SECURITY.md",
+  "stars": 21,
+  "language": "Scala",
+  "description": "Contributor License Agreement Bot for Validating GitHub Pull Requests",
+  "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "forcedotcom",
   "full_name": "forcedotcom/codey-midnight",
   "url": "https://github.com/forcedotcom/codey-midnight",
@@ -2275,6 +2275,17 @@
   "language": null,
   "description": "Dark theme for VS Code configured for accessibility and Salesforce development",
   "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "Salesforce",
+  "full_name": "salesforce/salesforce-skills",
+  "url": "https://github.com/salesforce/salesforce-skills",
+  "sec_path": "SECURITY.md",
+  "stars": 20,
+  "language": "HTML",
+  "description": "",
+  "first_seen": "2026-11-01 17:19:30"
  },
  {
   "vendor": "Salesforce",
@@ -2330,17 +2341,6 @@
   "language": "Java",
   "description": "",
   "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "Salesforce",
-  "full_name": "salesforce/salesforce-skills",
-  "url": "https://github.com/salesforce/salesforce-skills",
-  "sec_path": "SECURITY.md",
-  "stars": 19,
-  "language": "HTML",
-  "description": "",
-  "first_seen": "2026-11-01 17:19:30"
  },
  {
   "vendor": "Salesforce",

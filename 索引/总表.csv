@@ -444,28 +444,28 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 面壁智能,无,OpenBMB,OpenBMB/UltraRAG,https://github.com/OpenBMB/UltraRAG,5738,Python,.github/SECURITY.md,A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 面壁智能,无,OpenBMB,OpenBMB/EdgeClaw,https://github.com/OpenBMB/EdgeClaw,1187,TypeScript,SECURITY.md,EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
 面壁智能,无,OpenBMB,OpenBMB/llama.cpp-omni,https://github.com/OpenBMB/llama.cpp-omni,41,C++,SECURITY.md,Omni inference in C/C++
-腾讯,TSRC,Tencent,Tencent/WeKnora,https://github.com/Tencent/WeKnora,36183,Go,SECURITY.md,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-腾讯,TSRC,Tencent,Tencent/MMKV,https://github.com/Tencent/MMKV,18770,C++,SECURITY.md,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS."
-腾讯,TSRC,TencentCloud,TencentCloud/Octop,https://github.com/TencentCloud/Octop,11422,Python,SECURITY.md,"A smarter, self-hosted AI assistant — multi-user, multi-agent."
-腾讯,TSRC,Tencent,Tencent/AI-Infra-Guard,https://github.com/Tencent/AI-Infra-Guard,7290,Python,SECURITY.md,"A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
-腾讯,TSRC,Tencent,Tencent/cherry-markdown,https://github.com/Tencent/cherry-markdown,4914,TypeScript,SECURITY.md,✨ A Markdown Editor
-腾讯,TSRC,Tencent,Tencent/cloudbase-framework,https://github.com/Tencent/cloudbase-framework,1995,JavaScript,SECURITY.md, 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
-腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Memory,https://github.com/Tencent-Hunyuan/Hy-Memory,1906,Python,SECURITY.md,
+腾讯,TSRC,Tencent,Tencent/WeKnora,https://github.com/Tencent/WeKnora,36379,Go,SECURITY.md,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+腾讯,TSRC,Tencent,Tencent/MMKV,https://github.com/Tencent/MMKV,18773,C++,SECURITY.md,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS."
+腾讯,TSRC,TencentCloud,TencentCloud/Octop,https://github.com/TencentCloud/Octop,11522,Python,SECURITY.md,"A smarter, self-hosted AI assistant — multi-user, multi-agent."
+腾讯,TSRC,Tencent,Tencent/AI-Infra-Guard,https://github.com/Tencent/AI-Infra-Guard,7366,Python,SECURITY.md,"A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
+腾讯,TSRC,Tencent,Tencent/cherry-markdown,https://github.com/Tencent/cherry-markdown,4916,TypeScript,SECURITY.md,✨ A Markdown Editor
+腾讯,TSRC,Tencent,Tencent/cloudbase-framework,https://github.com/Tencent/cloudbase-framework,1996,JavaScript,SECURITY.md, 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
+腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Memory,https://github.com/Tencent-Hunyuan/Hy-Memory,1933,Python,SECURITY.md,
 腾讯,TSRC,Tencent,Tencent/tquic,https://github.com/Tencent/tquic,1443,Rust,SECURITY.md,"A high-performance, lightweight, and cross-platform QUIC library"
 腾讯,TSRC,Tencent,Tencent/TencentKona-8,https://github.com/Tencent/TencentKona-8,1006,Java,SECURITY.md,"Tencent Kona is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-term support(LTS) with quarterly updates. Tencent Kona…"
-腾讯,TSRC,Tencent,Tencent/YOLO-Master,https://github.com/Tencent/YOLO-Master,774,Python,SECURITY.md,"[CVPR2026]🚀🚀🚀Official code for the paper   ""YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection.""   *(YOLO = You Only Lo…"
+腾讯,TSRC,Tencent,Tencent/YOLO-Master,https://github.com/Tencent/YOLO-Master,775,Python,SECURITY.md,"[CVPR2026]🚀🚀🚀Official code for the paper   ""YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection.""   *(YOLO = You Only Lo…"
 腾讯,TSRC,wechat-miniprogram,wechat-miniprogram/sm-crypto,https://github.com/wechat-miniprogram/sm-crypto,479,JavaScript,SECURITY.md,miniprogram sm crypto library
+腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Nomas,https://github.com/Tencent-Hunyuan/Hy-Nomas,474,Python,SECURITY.md,Hy-Nomas: Towards Free-form Interactive World Generation
 腾讯,TSRC,Tencent,Tencent/TencentKonaSMSuite,https://github.com/Tencent/TencentKonaSMSuite,461,Java,SECURITY.md,"Tencent Kona SM Suite contains a set of Java security providers, which support algorithms SM2, SM3 and SM4, and protocols TLCP/GMSSL, TLS 1.3 (with RFC 8998) an…"
-腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Nomas,https://github.com/Tencent-Hunyuan/Hy-Nomas,443,Python,SECURITY.md,Hy-Nomas: Towards Free-form Interactive World Generation
 腾讯,TSRC,Tencent,Tencent/TencentKona-11,https://github.com/Tencent/TencentKona-11,346,Java,SECURITY.md,"Tencent Kona JDK11 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…"
-腾讯,TSRC,TencentCloud,TencentCloud/tencentmeeting-cli,https://github.com/TencentCloud/tencentmeeting-cli,248,Go,SECURITY.md,腾讯会议命令行工具（CLI），基于腾讯会议开放平台 OAuth2 授权，支持会议管理、录制管理、参会报告等功能。
+腾讯,TSRC,TencentCloud,TencentCloud/tencentmeeting-cli,https://github.com/TencentCloud/tencentmeeting-cli,247,Go,SECURITY.md,腾讯会议命令行工具（CLI），基于腾讯会议开放平台 OAuth2 授权，支持会议管理、录制管理、参会报告等功能。
 腾讯,TSRC,Tencent,Tencent/TencentKona-17,https://github.com/Tencent/TencentKona-17,193,Java,SECURITY.md,"Tencent Kona JDK17 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…"
-腾讯,TSRC,Tencent,Tencent/SkillHone,https://github.com/Tencent/SkillHone,171,TypeScript,SECURITY.md,Continual agent skill evolution through persistent decision history. Whole-skill optimisation (SKILL.md + scripts + references) with every decision landing as a…
-腾讯,TSRC,TencentCloud,TencentCloud/octop-harness,https://github.com/TencentCloud/octop-harness,132,Python,SECURITY.md,A production-grade agent runtime engineered from the Harness Engineering philosophy.
-腾讯,TSRC,TencentCloud,TencentCloud/octop-memory,https://github.com/TencentCloud/octop-memory,86,Python,SECURITY.md,"Help your agent remember what matters. Keep preferences, carry context across sessions, and bring your memory to the next agent."
-腾讯,TSRC,TencentCloud,TencentCloud/octop-gateway,https://github.com/TencentCloud/octop-gateway,81,Python,SECURITY.md,Multi-platform IM channel bridge with unified message abstraction for AI agents and bots
-腾讯,TSRC,Tencent,Tencent/LoopForge,https://github.com/Tencent/LoopForge,74,Go,SECURITY.md,"Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows fo…"
-腾讯,TSRC,TencentCloud,TencentCloud/octop-browser,https://github.com/TencentCloud/octop-browser,68,Python,SECURITY.md,"Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable."
+腾讯,TSRC,Tencent,Tencent/SkillHone,https://github.com/Tencent/SkillHone,172,TypeScript,SECURITY.md,Continual agent skill evolution through persistent decision history. Whole-skill optimisation (SKILL.md + scripts + references) with every decision landing as a…
+腾讯,TSRC,TencentCloud,TencentCloud/octop-harness,https://github.com/TencentCloud/octop-harness,135,Python,SECURITY.md,A production-grade agent runtime engineered from the Harness Engineering philosophy.
+腾讯,TSRC,TencentCloud,TencentCloud/octop-memory,https://github.com/TencentCloud/octop-memory,87,Python,SECURITY.md,"Help your agent remember what matters. Keep preferences, carry context across sessions, and bring your memory to the next agent."
+腾讯,TSRC,TencentCloud,TencentCloud/octop-gateway,https://github.com/TencentCloud/octop-gateway,83,Python,SECURITY.md,Multi-platform IM channel bridge with unified message abstraction for AI agents and bots
+腾讯,TSRC,Tencent,Tencent/LoopForge,https://github.com/Tencent/LoopForge,76,Go,SECURITY.md,"Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows fo…"
+腾讯,TSRC,TencentCloud,TencentCloud/octop-browser,https://github.com/TencentCloud/octop-browser,69,Python,SECURITY.md,"Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable."
 腾讯,TSRC,wechat-miniprogram,wechat-miniprogram/mobx,https://github.com/wechat-miniprogram/mobx,61,TypeScript,SECURITY.md,mobx-miniprogram - 适用于微信小程序的 MobX 构建版
 腾讯,TSRC,Tencent,Tencent/TencentKona-21,https://github.com/Tencent/TencentKona-21,57,Java,SECURITY.md,"Tencent Kona JDK21 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…"
 腾讯,TSRC,Tencent,Tencent/PlayCoder,https://github.com/Tencent/PlayCoder,49,Python,SECURITY.md,[FSE'2026] PlayCoder: Making LLM-Generated GUI Code Playable
@@ -480,30 +480,30 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 腾讯,TSRC,TencentCloud,TencentCloud/ssm-rotation-sdk-java,https://github.com/TencentCloud/ssm-rotation-sdk-java,1,Java,SECURITY.md,
 腾讯,TSRC,TencentCloud,TencentCloud/ssm-rotation-sdk-python,https://github.com/TencentCloud/ssm-rotation-sdk-python,,Python,SECURITY.md,ssm(凭据管理服务）凭据轮转功能的客户端 lib 和 使用demo。
 腾讯,TSRC,tencentyun,tencentyun/etcd,https://github.com/tencentyun/etcd,0,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
-阿里巴巴,ASRC,alibaba,alibaba/open-code-review,https://github.com/alibaba/open-code-review,49239,Go,.github/SECURITY.md,"Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comment…"
-阿里巴巴,ASRC,alibaba,alibaba/canal,https://github.com/alibaba/canal,29740,Java,SECURITY.md,阿里巴巴 MySQL binlog 增量订阅&消费组件 
-阿里巴巴,ASRC,alibaba,alibaba/page-agent,https://github.com/alibaba/page-agent,29616,TypeScript,docs/SECURITY.md,JavaScript in-page GUI agent. Control web interfaces with natural language.
-阿里巴巴,ASRC,alibaba,alibaba/druid,https://github.com/alibaba/druid,28154,Java,SECURITY.md,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
+阿里巴巴,ASRC,alibaba,alibaba/open-code-review,https://github.com/alibaba/open-code-review,49357,Go,.github/SECURITY.md,"Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comment…"
+阿里巴巴,ASRC,alibaba,alibaba/canal,https://github.com/alibaba/canal,29743,Java,SECURITY.md,阿里巴巴 MySQL binlog 增量订阅&消费组件 
+阿里巴巴,ASRC,alibaba,alibaba/page-agent,https://github.com/alibaba/page-agent,29626,TypeScript,docs/SECURITY.md,JavaScript in-page GUI agent. Control web interfaces with natural language.
+阿里巴巴,ASRC,alibaba,alibaba/druid,https://github.com/alibaba/druid,28155,Java,SECURITY.md,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 阿里巴巴,ASRC,alibaba,alibaba/fastjson,https://github.com/alibaba/fastjson,25561,Java,SECURITY.md,"FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade."
-阿里巴巴,ASRC,alibaba,alibaba/Sentinel,https://github.com/alibaba/Sentinel,23150,Java,SECURITY.md,"A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)"
-阿里巴巴,ASRC,alibaba,alibaba/MNN,https://github.com/alibaba/MNN,16332,C++,SECURITY.md,"MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
-阿里巴巴,ASRC,alibaba,alibaba/hooks,https://github.com/alibaba/hooks,14976,TypeScript,SECURITY.md,A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
-阿里巴巴,ASRC,alibaba,alibaba/spring-ai-alibaba,https://github.com/alibaba/spring-ai-alibaba,11090,Java,SECURITY.md,Agentic AI Framework for Java Developers
+阿里巴巴,ASRC,alibaba,alibaba/Sentinel,https://github.com/alibaba/Sentinel,23148,Java,SECURITY.md,"A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)"
+阿里巴巴,ASRC,alibaba,alibaba/MNN,https://github.com/alibaba/MNN,16347,C++,SECURITY.md,"MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
+阿里巴巴,ASRC,alibaba,alibaba/hooks,https://github.com/alibaba/hooks,14975,TypeScript,SECURITY.md,A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
+阿里巴巴,ASRC,alibaba,alibaba/spring-ai-alibaba,https://github.com/alibaba/spring-ai-alibaba,11100,Java,SECURITY.md,Agentic AI Framework for Java Developers
 阿里巴巴,ASRC,alibaba,alibaba/transmittable-thread-local,https://github.com/alibaba/transmittable-thread-local,8305,Java,SECURITY.md,"📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even …"
 阿里巴巴,ASRC,alibaba,alibaba/rax,https://github.com/alibaba/rax,8013,JavaScript,SECURITY.md,🐰 Rax is a progressive framework for building universal application. https://rax.js.org
-阿里巴巴,ASRC,alibaba,alibaba/BizCharts,https://github.com/alibaba/BizCharts,6184,TypeScript,SECURITY.md,Powerful data visualization library based on G2 and React.
+阿里巴巴,ASRC,alibaba,alibaba/BizCharts,https://github.com/alibaba/BizCharts,6183,TypeScript,SECURITY.md,Powerful data visualization library based on G2 and React.
 阿里巴巴,ASRC,alibaba,alibaba/AliSQL,https://github.com/alibaba/AliSQL,5993,C++,SECURITY.md,AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
-阿里巴巴,ASRC,alibaba,alibaba/fastjson2,https://github.com/alibaba/fastjson2,4430,Java,SECURITY.md,🚄 FASTJSON2 is a Java JSON  library with excellent performance.
+阿里巴巴,ASRC,alibaba,alibaba/fastjson2,https://github.com/alibaba/fastjson2,4433,Java,SECURITY.md,🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 阿里巴巴,ASRC,alibaba,alibaba/compileflow,https://github.com/alibaba/compileflow,1988,Java,SECURITY.md,"🎨 core business process engine of Alibaba Halo platform, best process engine for trade scenes. | 一个高性能流程编排引擎"
 阿里巴巴,ASRC,alibaba,alibaba/xquic,https://github.com/alibaba/xquic,1931,C,SECURITY.md,XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
-阿里巴巴,ASRC,alibaba,alibaba/skill-up,https://github.com/alibaba/skill-up,1407,Go,SECURITY.md,An evaluation and evolution tool for Agent Skills.
+阿里巴巴,ASRC,alibaba,alibaba/skill-up,https://github.com/alibaba/skill-up,1412,Go,SECURITY.md,An evaluation and evolution tool for Agent Skills.
 阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/minikube,https://github.com/AliyunContainerService/minikube,1268,Go,SECURITY.md,普大喜奔，官方Minikube提供了完整对国内用户支持，完美支持Addon组件。 建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.24…
-阿里巴巴,ASRC,aliyun,aliyun/aliyun-cli,https://github.com/aliyun/aliyun-cli,1129,Go,SECURITY.md,Alibaba Cloud CLI
-阿里巴巴,ASRC,alibaba,alibaba/alibaba-rsocket-broker,https://github.com/alibaba/alibaba-rsocket-broker,759,Java,SECURITY.md,"Alibaba RSocket Broker: Mesh, Streaming & IoT"
+阿里巴巴,ASRC,aliyun,aliyun/aliyun-cli,https://github.com/aliyun/aliyun-cli,1132,Go,SECURITY.md,Alibaba Cloud CLI
+阿里巴巴,ASRC,alibaba,alibaba/alibaba-rsocket-broker,https://github.com/alibaba/alibaba-rsocket-broker,758,Java,SECURITY.md,"Alibaba RSocket Broker: Mesh, Streaming & IoT"
 阿里巴巴,ASRC,alibaba,alibaba/kubeskoop,https://github.com/alibaba/kubeskoop,702,Go,SECURITY.md,Network monitoring & diagnosis suite for Kubernetes
 阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/terway,https://github.com/AliyunContainerService/terway,618,Go,SECURITY.md,CNI plugin for Alibaba Cloud VPC/ENI
-阿里巴巴,ASRC,alibaba,alibaba/UnifiedModel,https://github.com/alibaba/UnifiedModel,443,Go,SECURITY.md,"The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry…"
-阿里巴巴,ASRC,alibaba,alibaba/neug,https://github.com/alibaba/neug,175,C++,SECURITY.md,The one data index for your agentic applications
+阿里巴巴,ASRC,alibaba,alibaba/UnifiedModel,https://github.com/alibaba/UnifiedModel,446,Go,SECURITY.md,"The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry…"
+阿里巴巴,ASRC,alibaba,alibaba/neug,https://github.com/alibaba/neug,176,C++,SECURITY.md,The one data index for your agentic applications
 阿里巴巴,ASRC,aliyun,aliyun/alibabacloud-ack-mcp-server,https://github.com/aliyun/alibabacloud-ack-mcp-server,121,Python,SECURITY.md,"Alibaba Cloud's ack-mcp-server unifies container operations capabilities, enabling AI assistants and third-party AI agents to perform complex tasks via natural …"
 阿里巴巴,ASRC,alibaba,alibaba/rax-map,https://github.com/alibaba/rax-map,108,JavaScript,SECURITY.md,基于 rax 与高德地图，快速开发无线地图类业务需求
 阿里巴巴,ASRC,alibaba,alibaba/open-agent-auth,https://github.com/alibaba/open-agent-auth,87,Java,SECURITY.md,"An enterprise framework implementing the Agent Operation Authorization protocol with cryptographic identity binding, fine-grained authorization, and semantic au…"
@@ -4254,7 +4254,7 @@ Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/moby,https:/
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/kinvolk-kubernetes,https://github.com/Netflix-Skunkworks/kinvolk-kubernetes,,Go,.github/SECURITY.md,Container Cluster Manager from Google
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/etcd,https://github.com/Netflix-Skunkworks/etcd,,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/makara,https://github.com/Netflix-Skunkworks/makara,,JavaScript,SECURITY.md,An i18n module for Dust.js.
-Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/S3Mock,https://github.com/adobe/S3Mock,1174,Kotlin,.github/SECURITY.md,"A mock implementation of the AWS S3 API startable as Docker image, TestContainer, JUnit Jupiter extension or TestNG listener"
+Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/S3Mock,https://github.com/adobe/S3Mock,1176,Kotlin,.github/SECURITY.md,"A mock implementation of the AWS S3 API startable as Docker image, TestContainer, JUnit Jupiter extension or TestNG listener"
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aem-project-archetype,https://github.com/adobe/aem-project-archetype,596,Groovy,error,Maven template to create best-practice websites on AEM.
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aem-guides-wknd,https://github.com/adobe/aem-guides-wknd,321,JavaScript,error,Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/rules_gitops,https://github.com/adobe/rules_gitops,210,Starlark,error,"This repository contains rules for continuous, GitOps driven Kubernetes deployments."
@@ -4266,14 +4266,14 @@ Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/xmp-toolkit
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/commerce-integration-starter-kit,https://github.com/adobe/commerce-integration-starter-kit,41,JavaScript,SECURITY.md,Adobe's integration starter kit uses Adobe Developer App Builder to improve real-time connection reliability and reduce the time-to-market for integrations betw…
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aem-eclipse-developer-tools,https://github.com/adobe/aem-eclipse-developer-tools,37,Java,error,"The Eclipse plugin that brings you the full connection to the Adobe Experience Manager, with auto-sync and project creation wizard."
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/log-parser,https://github.com/adobe/log-parser,29,Java,error,"An SDK and Tool that allows you to analyse, sort, filter, and search your logs. The added value is that all data is stored in Java objects that can be used for …"
-Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/koperator,https://github.com/adobe/koperator,22,Go,SECURITY.md,Oh no! Yet another Kafka operator for Kubernetes
+Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/koperator,https://github.com/adobe/koperator,23,Go,SECURITY.md,Oh no! Yet another Kafka operator for Kubernetes
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aepsdk-rulesengine-ios,https://github.com/adobe/aepsdk-rulesengine-ios,20,Swift,error,"A simple, generic, extensible Rules Engine in Swift"
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/helix-deploy,https://github.com/adobe/helix-deploy,18,JavaScript,error,"A multi-cloud deployment tool for serverless functions running on AWS Lambda, Adobe I/O Runtime, Azure Functions, and Google Cloud Functions. Write once, run ev…"
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aepsdk-core-android,https://github.com/adobe/aepsdk-core-android,18,Kotlin,error,Adobe Experience Platform Mobile Core SDK 
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aepsdk-edge-ios,https://github.com/adobe/aepsdk-edge-ios,17,Swift,SECURITY.md,Adobe Experience Platform Edge Network mobile extension in Swift
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/commerce-checkout-starter-kit,https://github.com/adobe/commerce-checkout-starter-kit,17,JavaScript,.github/SECURITY.md,An AppBuilder starter kit that provides the scaffolding for checkout integration patterns with Adobe Commerce.
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/css-for-shadow-dom,https://github.com/adobe/css-for-shadow-dom,16,JavaScript,error,"Tracking the state of support for CSS features within and across the shadow DOM to provide visibility into feature parity, usage details, and outstanding issues…"
-Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/imscli,https://github.com/adobe/imscli,14,Go,error,A small CLI tool to interact with the Adobe IMS API.
+Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/imscli,https://github.com/adobe/imscli,15,Go,error,A small CLI tool to interact with the Adobe IMS API.
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/zdw,https://github.com/adobe/zdw,14,C++,error,"ZDW is an archival format for row-level, well-structured data (specifically, TSV with associated schema file, as from a MySQL dump), used in conjunction with st…"
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aio-commerce-sdk,https://github.com/adobe/aio-commerce-sdk,13,TypeScript,.github/SECURITY.md,Provides a collection of packages designed for use with Adobe App Builder together with Adobe Commerce.
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/dc-acrobat-sdk-docs,https://github.com/adobe/dc-acrobat-sdk-docs,13,,error,
@@ -6272,30 +6272,30 @@ ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/SPIRV-Tools,
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/SPIRV-Headers,https://github.com/arm/SPIRV-Headers,,C++,SECURITY.md,
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/NXDelegate,https://github.com/arm/NXDelegate,,C++,SECURITY.md,
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/.github,https://github.com/arm/.github,,,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/LAVIS,https://github.com/salesforce/LAVIS,11257,Jupyter Notebook,SECURITY.md,LAVIS - A One-stop Library for Language-Vision Intelligence
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/LAVIS,https://github.com/salesforce/LAVIS,11256,Jupyter Notebook,SECURITY.md,LAVIS - A One-stop Library for Language-Vision Intelligence
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/BLIP,https://github.com/salesforce/BLIP,5703,Jupyter Notebook,SECURITY.md,PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeGen,https://github.com/salesforce/CodeGen,5183,Python,SECURITY.md,CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeGen,https://github.com/salesforce/CodeGen,5181,Python,SECURITY.md,CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/Merlion,https://github.com/salesforce/Merlion,4488,Python,SECURITY.md,Merlion: A Machine Learning Framework for Time Series Intelligence
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/akita,https://github.com/salesforce/akita,3662,TypeScript,SECURITY.md,🚀 State Management Tailored-Made for JS Applications
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeT5,https://github.com/salesforce/CodeT5,3087,Python,SECURITY.md,Home of CodeT5: Open Code LLMs for Code Understanding and Generation
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/akita,https://github.com/salesforce/akita,3661,TypeScript,SECURITY.md,🚀 State Management Tailored-Made for JS Applications
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeT5,https://github.com/salesforce/CodeT5,3086,Python,SECURITY.md,Home of CodeT5: Open Code LLMs for Code Understanding and Generation
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/TransmogrifAI,https://github.com/salesforce/TransmogrifAI,2280,Scala,SECURITY.md,"TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with m…"
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/cloudsplaining,https://github.com/salesforce/cloudsplaining,2256,JavaScript,SECURITY.md,Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/cloudsplaining,https://github.com/salesforce/cloudsplaining,2257,JavaScript,SECURITY.md,Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/policy_sentry,https://github.com/salesforce/policy_sentry,2176,Python,SECURITY.md,IAM Least Privilege Policy Generator
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ctrl,https://github.com/salesforce/ctrl,1877,Python,SECURITY.md,Conditional Transformer Language Model for Controllable Generation
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/lwc,https://github.com/salesforce/lwc,1799,JavaScript,SECURITY.md,"⚡️ LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation"
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ALBEF,https://github.com/salesforce/ALBEF,1753,Python,SECURITY.md,Code for ALBEF: a new vision-language pre-training method
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ALBEF,https://github.com/salesforce/ALBEF,1754,Python,SECURITY.md,Code for ALBEF: a new vision-language pre-training method
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/sloop,https://github.com/salesforce/sloop,1586,Go,SECURITY.md,Kubernetes History Visualization
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeTF,https://github.com/salesforce/CodeTF,1476,Python,SECURITY.md,CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/jarm,https://github.com/salesforce/jarm,1328,Python,SECURITY.md,
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/jarm,https://github.com/salesforce/jarm,1329,Python,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/sf-skills,https://github.com/forcedotcom/sf-skills,1140,Python,SECURITY.md,"Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools."
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/tough-cookie,https://github.com/salesforce/tough-cookie,1066,TypeScript,SECURITY.md,RFC6265 Cookies and CookieJar for Node.js
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/tough-cookie,https://github.com/salesforce/tough-cookie,1067,TypeScript,SECURITY.md,RFC6265 Cookies and CookieJar for Node.js
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/salesforcedx-vscode,https://github.com/forcedotcom/salesforcedx-vscode,1040,TypeScript,SECURITY.md,Salesforce Extensions for VS Code
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/design-system-react,https://github.com/salesforce/design-system-react,988,JavaScript,SECURITY.md,Salesforce Lightning Design System for React
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/OmniXAI,https://github.com/salesforce/OmniXAI,975,Jupyter Notebook,SECURITY.md,OmniXAI: A Library for eXplainable AI
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/reactive-grpc,https://github.com/salesforce/reactive-grpc,838,Java,SECURITY.md,Reactive stubs for gRPC
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/xgen,https://github.com/salesforce/xgen,727,Python,SECURITY.md,Salesforce open-source LLMs with 8k sequence length.
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/progen,https://github.com/salesforce/progen,708,Python,SECURITY.md,Official release of the ProGen models
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/UniControl,https://github.com/salesforce/UniControl,665,Python,SECURITY.md,Unified Controllable Visual Generation Model
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/UniControl,https://github.com/salesforce/UniControl,664,Python,SECURITY.md,Unified Controllable Visual Generation Model
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ULIP,https://github.com/salesforce/ULIP,612,Python,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeRL,https://github.com/salesforce/CodeRL,579,Python,SECURITY.md,This is the official code for the paper CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning (NeurIPS22).
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/cli,https://github.com/forcedotcom/cli,575,,SECURITY.md,Salesforce CLI - Issues and Discussions only
@@ -6313,8 +6313,8 @@ Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/EDICT,https://github.
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ETSformer,https://github.com/salesforce/ETSformer,311,Python,SECURITY.md,PyTorch code for ETSformer: Exponential Smoothing Transformers for Time-series Forecasting
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/provis,https://github.com/salesforce/provis,305,Python,SECURITY.md,"Official code repository of ""BERTology Meets Biology: Interpreting Attention in Protein Language Models."""
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/jaxformer,https://github.com/salesforce/jaxformer,300,Python,SECURITY.md,Minimal library to train LLMs on TPU in JAX with pjit().
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/agentscript,https://github.com/salesforce/agentscript,275,TypeScript,SECURITY.md,"An open, schema-driven language for configuring agent orchestration systems"
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/wsc,https://github.com/forcedotcom/wsc,275,Java,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/agentscript,https://github.com/salesforce/agentscript,274,TypeScript,SECURITY.md,"An open, schema-driven language for configuring agent orchestration systems"
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeGen2,https://github.com/salesforce/CodeGen2,268,Python,SECURITY.md,CodeGen2 models for program synthesis
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/rules_spring,https://github.com/salesforce/rules_spring,257,Starlark,SECURITY.md,Bazel rule for building Spring Boot apps as a deployable jar
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/code-analyzer,https://github.com/forcedotcom/code-analyzer,242,TypeScript,SECURITY.md,
@@ -6439,8 +6439,8 @@ Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/einstein-platform,htt
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/apex-tmLanguage,https://github.com/forcedotcom/apex-tmLanguage,40,TypeScript,SECURITY.md,Salesforce Apex Language syntax grammar used for colorization
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/creativity_eval,https://github.com/salesforce/creativity_eval,39,Jupyter Notebook,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/salesforcedx-actions,https://github.com/forcedotcom/salesforcedx-actions,39,Shell,SECURITY.md,(Unofficial) GitHub Actions for SalesforceDX using the Salesforce CLI
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/cantor,https://github.com/salesforce/cantor,38,Java,SECURITY.md,"Data abstraction, storage, discovery, and serving system"
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ConvSumm,https://github.com/salesforce/ConvSumm,38,Python,SECURITY.md,
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/cantor,https://github.com/salesforce/cantor,37,Java,SECURITY.md,"Data abstraction, storage, discovery, and serving system"
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ImageOptimization,https://github.com/salesforce/ImageOptimization,37,Java,SECURITY.md,ImageOptimization is a JAVA batch program / service used to optimize images by reducing the size (less bytes) of images without changing the quality of the imag…
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/commerce-extensibility,https://github.com/forcedotcom/commerce-extensibility,36,Apex,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/code-builder-feedback,https://github.com/forcedotcom/code-builder-feedback,36,,SECURITY.md,This repository is used to collect feedback for the Code Builder beta.
@@ -6475,16 +6475,16 @@ Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/soql-tooling,https:
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/utam-java-recipes,https://github.com/salesforce/utam-java-recipes,23,Java,SECURITY.md,Examples of testing with UTAM Java
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/simplification,https://github.com/salesforce/simplification,22,Jupyter Notebook,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/Overture,https://github.com/salesforce/Overture,22,Python,SECURITY.md,Library for soft prompt tuning
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/dr-cla,https://github.com/salesforce/dr-cla,22,Scala,SECURITY.md,Contributor License Agreement Bot for Validating GitHub Pull Requests
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/SalesforceMobileSDK-Package,https://github.com/forcedotcom/SalesforceMobileSDK-Package,22,JavaScript,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/prompt-leakage,https://github.com/salesforce/prompt-leakage,21,Python,SECURITY.md,Code and datasets for the salesforce AI research paper on prompt leakage and multi-turn threats against LLMs 
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/dr-cla,https://github.com/salesforce/dr-cla,21,Scala,SECURITY.md,Contributor License Agreement Bot for Validating GitHub Pull Requests
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/codey-midnight,https://github.com/forcedotcom/codey-midnight,21,,SECURITY.md,Dark theme for VS Code configured for accessibility and Salesforce development
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/salesforce-skills,https://github.com/salesforce/salesforce-skills,20,HTML,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/lwc-codemod,https://github.com/salesforce/lwc-codemod,20,JavaScript,SECURITY.md,Codemods for Lightning Web Components
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/QueryBlazer,https://github.com/salesforce/QueryBlazer,20,C++,SECURITY.md,Official source code repository for QueryBlazer: Efficient Query Autocompletion Framework
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/pygsheetsorm,https://github.com/salesforce/pygsheetsorm,20,Python,SECURITY.md,Google Sheets Python library which maps worksheets into objects with properties based on row header.
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/RRL,https://github.com/salesforce/RRL,20,Python,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/d360-mcp-server,https://github.com/forcedotcom/d360-mcp-server,20,Java,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/salesforce-skills,https://github.com/salesforce/salesforce-skills,19,HTML,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/salesforce-risk,https://github.com/salesforce/salesforce-risk,19,JavaScript,SECURITY.md,Risk measurement and management framework
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CAST,https://github.com/salesforce/CAST,19,Python,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/lightning-inspector,https://github.com/forcedotcom/lightning-inspector,19,JavaScript,SECURITY.md,Salesforce Lightning Inspector
@@ -6771,14 +6771,14 @@ Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/o11y-reporter,https
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/SapMachine,https://github.com/SAP/SapMachine,627,Java,SECURITY.md,An OpenJDK release maintained and supported by SAP
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/architecture-center,https://github.com/SAP/architecture-center,191,TypeScript,SECURITY.md,"The SAP Architecture Center provides solution reference architectures, helping businesses adopt SAP solutions to turn data into valuable business insights."
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/project-foxhound,https://github.com/SAP/project-foxhound,183,JavaScript,SECURITY.md,"A web browser with dynamic data-flow tracking enabled in the Javascript engine and DOM, based on Mozilla Firefox (https://github.com/mozilla-firefox/firefox). I…"
-SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/open-ux-tools,https://github.com/SAP/open-ux-tools,161,TypeScript,SECURITY.md,Enable community collaboration to jointly promote and facilitate best in class tooling capabilities
+SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/open-ux-tools,https://github.com/SAP/open-ux-tools,162,TypeScript,SECURITY.md,Enable community collaboration to jointly promote and facilitate best in class tooling capabilities
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/cloud-sdk-ios-fiori,https://github.com/SAP/cloud-sdk-ios-fiori,134,Swift,SECURITY.md,SwiftUI implementation of the SAP Fiori for iOS Design Language.
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/cf-java-logging-support,https://github.com/SAP/cf-java-logging-support,81,Java,SECURITY.md,The Java Logging Support for Cloud Foundry supports the creation of structured log messages and the collection of request metrics
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/cf-html5-apps-repo-cli-plugin,https://github.com/SAP/cf-html5-apps-repo-cli-plugin,45,Go,SECURITY.md,Cloud Foundry CLI plugin to work with SAP Cloud HTML5 Applications Repository
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/less-openui5,https://github.com/SAP/less-openui5,32,JavaScript,SECURITY.md,Build OpenUI5 themes with Less.js.
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/terraform-exporter-btp,https://github.com/SAP/terraform-exporter-btp,32,Go,docs/security.md,The Terraform Exporter for SAP BTP is a tool that helps export resources from a SAP BTP account.  It generates Terraform scripts for the import of resources and…
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/data-attribute-recommendation-python-sdk,https://github.com/SAP/data-attribute-recommendation-python-sdk,21,Jupyter Notebook,SECURITY.md,A client SDK for the Data Attribute Recommendation service on SAP Business Technology Platform (SAP BTP). Part of SAP AI Business Services.
-SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/automation-pilot-agent-skills,https://github.com/SAP/automation-pilot-agent-skills,13,,SECURITY.md,"AI agent skills for SAP Automation Pilot content development, enabling automated code generation and review workflows."
+SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/automation-pilot-agent-skills,https://github.com/SAP/automation-pilot-agent-skills,13,Go,SECURITY.md,"AI agent skills for SAP Automation Pilot content development, enabling automated code generation and review workflows."
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/.github,https://github.com/SAP/.github,10,,SECURITY.md,Default community health files for the SAP organization
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/fsm-shell,https://github.com/SAP/fsm-shell,7,TypeScript,docs/security.md,Client library for applications rendered in FSM shell host
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/async-profiler,https://github.com/SAP/async-profiler,3,C++,SECURITY.md,Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
@@ -7420,11 +7420,11 @@ EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/lore-python,https:
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/lore-go,https://github.com/EpicGames/lore-go,42,Go,SECURITY.md,"Go SDK for Lore, a next-generation, open source version control system"
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/tk-config-unreal,https://github.com/EpicGames/tk-config-unreal,37,Python,SECURITY.md,Unreal Integration based on tk-config-default2
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/tk-config-unrealbasic,https://github.com/EpicGames/tk-config-unrealbasic,6,Python,SECURITY.md,
-Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/cube,https://github.com/Roblox/cube,1305,Jupyter Notebook,SECURITY.md,Roblox Foundation Model for 3D Intelligence
+Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/cube,https://github.com/Roblox/cube,1308,Jupyter Notebook,SECURITY.md,Roblox Foundation Model for 3D Intelligence
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/gear,https://github.com/Roblox/gear,55,Luau,SECURITY.md,Source representation of all Roblox gear
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/libmp,https://github.com/Roblox/libmp,40,NASL,SECURITY.md,Performance data processing engine
-Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/cla-signature-bot,https://github.com/Roblox/cla-signature-bot,21,TypeScript,SECURITY.md,GitHub Action for self-contained handling of CLA signatures
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/data-stores-batch-processor-cli,https://github.com/Roblox/data-stores-batch-processor-cli,20,Luau,SECURITY.md,A CLI tool to execute arbitrary Luau code across your data
+Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/cla-signature-bot,https://github.com/Roblox/cla-signature-bot,20,TypeScript,SECURITY.md,GitHub Action for self-contained handling of CLA signatures
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/cilium,https://github.com/Roblox/cilium,5,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability. https://github.com/cilium/cilium"
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/portscanner,https://github.com/Roblox/portscanner,4,Python,SECURITY.md,OSS Port Scanner to monitor network exposure in hybrid cloud environment
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/traefik,https://github.com/Roblox/traefik,4,Go,SECURITY.md,The Cloud Native Application Proxy
@@ -9280,7 +9280,7 @@ Uber,HackerOne,uber,uber/jaeger-ui,https://github.com/uber/jaeger-ui,0,JavaScrip
 Uber,HackerOne,uber,uber/velociraptor,https://github.com/uber/velociraptor,0,Go,security.md,"Uber Fork of Velociraptor - for contribution use only, not for production"
 Uber,HackerOne,uber,uber/kubernetes-website,https://github.com/uber/kubernetes-website,0,HTML,SECURITY.md,Uber fork of kubernetes website - for contribution use only
 Uber,HackerOne,uber,uber/kubernetes-enhancements,https://github.com/uber/kubernetes-enhancements,0,Go,SECURITY.md,Uber Fork of kubernetes-enhancements - for contribution use only
-Airbnb,HackerOne,airbnb,airbnb/viaduct,https://github.com/airbnb/viaduct,177,Kotlin,SECURITY.md,Viaduct is a GraphQL-based system that provides a unified interface for accessing and interacting with any data source.
+Airbnb,HackerOne,airbnb,airbnb/viaduct,https://github.com/airbnb/viaduct,178,Kotlin,SECURITY.md,Viaduct is a GraphQL-based system that provides a unified interface for accessing and interacting with any data source.
 Airbnb,HackerOne,airbnb,airbnb/istio,https://github.com/airbnb/istio,13,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
 Airbnb,HackerOne,airbnb,airbnb/.github,https://github.com/airbnb/.github,5,,SECURITY.md,.github files that are inherited by all org repos unless specifically included in a repo
 Airbnb,HackerOne,airbnb,airbnb/cortex,https://github.com/airbnb/cortex,3,Go,SECURITY.md,"A horizontally scalable, highly available, multi-tenant, long term Prometheus."
@@ -9856,7 +9856,7 @@ Adyen,自建BB,adyen,Adyen/adyen-pos-mobile-ios,https://github.com/Adyen/adyen-p
 Adyen,自建BB,adyen,Adyen/adyen-platform-experience-web,https://github.com/Adyen/adyen-platform-experience-web,7,TypeScript,SECURITY.md,Adyen Platform Experience components
 Adyen,自建BB,adyen,Adyen/adyen-pos-mobile-ios-test,https://github.com/Adyen/adyen-pos-mobile-ios-test,5,Swift,SECURITY.md,Adyen POS Mobile SDK for iOS enabling the integration of TapToPay and the NYC1 card reader.
 Adyen,自建BB,adyen,Adyen/.github,https://github.com/Adyen/.github,4,,SECURITY.md,Organization-wide community health files in the @adyen organization
-Adyen,自建BB,adyen,Adyen/adyen-issuing-ios,https://github.com/Adyen/adyen-issuing-ios,,,SECURITY.md,
+Adyen,自建BB,adyen,Adyen/adyen-issuing-ios,https://github.com/Adyen/adyen-issuing-ios,,,SECURITY.md,"Adyen Issuing SDK for iOS: Apple Wallet provisioning, card reveal, PIN management."
 Visa,自建BB,visa,visa/visa-vulnerability-agentic-harness,https://github.com/visa/visa-vulnerability-agentic-harness,3043,Python,SECURITY.md,Visa Vulnerability Agentic Harness
 Mastercard,自建BB,mastercard,Mastercard/terraform-provider-restapi,https://github.com/Mastercard/terraform-provider-restapi,933,Go,SECURITY.md,A terraform provider to manage objects in a RESTful API
 Mastercard,自建BB,mastercard,Mastercard/karate,https://github.com/Mastercard/karate,0,Java,SECURITY.md,Test Automation Made Simple
