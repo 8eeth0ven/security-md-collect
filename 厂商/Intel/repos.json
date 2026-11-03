@@ -159,7 +159,7 @@
   "full_name": "oneapi-src/oneAPI-samples",
   "url": "https://github.com/oneapi-src/oneAPI-samples",
   "sec_path": "SECURITY.md",
-  "stars": 1169,
+  "stars": 1170,
   "language": "C++",
   "description": "Samples for Intel® oneAPI Toolkits",
   "license": null,
@@ -578,7 +578,7 @@
   "full_name": "oneapi-src/level-zero",
   "url": "https://github.com/oneapi-src/level-zero",
   "sec_path": "SECURITY.md",
-  "stars": 341,
+  "stars": 342,
   "language": "C++",
   "description": "oneAPI Level Zero Specification Headers and Loader",
   "license": null,
@@ -1953,6 +1953,18 @@
  },
  {
   "vendor": "Intel",
+  "org": "oneapi-src",
+  "full_name": "oneapi-src/level-zero-tests",
+  "url": "https://github.com/oneapi-src/level-zero-tests",
+  "sec_path": "SECURITY.md",
+  "stars": 65,
+  "language": "C++",
+  "description": "oneAPI Level Zero Conformance & Performance test content",
+  "license": null,
+  "first_seen": "2026-11-01 23:05:44"
+ },
+ {
+  "vendor": "Intel",
   "org": "intel",
   "full_name": "intel/graph-compiler",
   "url": "https://github.com/intel/graph-compiler",
@@ -1983,18 +1995,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "oneapi-src",
-  "full_name": "oneapi-src/level-zero-tests",
-  "url": "https://github.com/oneapi-src/level-zero-tests",
-  "sec_path": "SECURITY.md",
-  "stars": 64,
-  "language": "C++",
-  "description": "oneAPI Level Zero Conformance & Performance test content",
-  "license": null,
-  "first_seen": "2026-11-01 23:05:44"
  },
  {
   "vendor": "Intel",

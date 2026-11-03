@@ -766,5 +766,65 @@
   "description": "systemd System and Service Manager",
   "license": null,
   "first_seen": "2026-11-01 23:01:14"
+ },
+ {
+  "vendor": "诺基亚",
+  "org": "nokia",
+  "full_name": "nokia/kubernetes-kube-state-metrics",
+  "url": "https://github.com/nokia/kubernetes-kube-state-metrics",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Add-on agent to generate and expose cluster-level metrics.",
+  "license": null,
+  "first_seen": "2026-11-04 02:02:40"
+ },
+ {
+  "vendor": "诺基亚",
+  "org": "nokia",
+  "full_name": "nokia/prometheus-alertmanager",
+  "url": "https://github.com/nokia/prometheus-alertmanager",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Prometheus Alertmanager",
+  "license": null,
+  "first_seen": "2026-11-04 02:02:40"
+ },
+ {
+  "vendor": "诺基亚",
+  "org": "nokia",
+  "full_name": "nokia/prometheus-exporter-toolkit",
+  "url": "https://github.com/nokia/prometheus-exporter-toolkit",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Utility package to build exporters",
+  "license": null,
+  "first_seen": "2026-11-04 02:02:40"
+ },
+ {
+  "vendor": "诺基亚",
+  "org": "nokia",
+  "full_name": "nokia/prometheus-pushgateway",
+  "url": "https://github.com/nokia/prometheus-pushgateway",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Push acceptor for ephemeral and batch jobs.",
+  "license": null,
+  "first_seen": "2026-11-04 02:02:40"
+ },
+ {
+  "vendor": "诺基亚",
+  "org": "nokia",
+  "full_name": "nokia/prometheus-node_exporter",
+  "url": "https://github.com/nokia/prometheus-node_exporter",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Exporter for machine metrics",
+  "license": null,
+  "first_seen": "2026-11-04 02:02:40"
  }
 ]
