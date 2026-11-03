@@ -432,7 +432,7 @@
   "full_name": "Azure/azure-quickstart-templates",
   "url": "https://github.com/Azure/azure-quickstart-templates",
   "sec_path": "SECURITY.md",
-  "stars": 14897,
+  "stars": 14898,
   "language": "Bicep",
   "description": "Azure Quickstart Templates",
   "first_seen": "2026-11-01 16:24:27"
@@ -810,8 +810,8 @@
   "full_name": "Azure/Azure-Sentinel",
   "url": "https://github.com/Azure/Azure-Sentinel",
   "sec_path": "SECURITY.md",
-  "stars": 6233,
-  "language": "Python",
+  "stars": 6237,
+  "language": "HTML",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
   "first_seen": "2026-11-01 16:24:27"
  },
@@ -1019,7 +1019,7 @@
   "full_name": "Azure/azure-powershell",
   "url": "https://github.com/Azure/azure-powershell",
   "sec_path": "SECURITY.md",
-  "stars": 4806,
+  "stars": 4807,
   "language": "C#",
   "description": "Microsoft Azure PowerShell",
   "first_seen": "2026-11-01 16:24:27"
@@ -1112,7 +1112,7 @@
   "full_name": "Azure/azure-cli",
   "url": "https://github.com/Azure/azure-cli",
   "sec_path": "SECURITY.md",
-  "stars": 4662,
+  "stars": 4665,
   "language": "Python",
   "description": "Azure Command-Line Interface",
   "first_seen": "2026-11-01 16:24:27"
@@ -1335,7 +1335,7 @@
   "full_name": "Azure/bicep",
   "url": "https://github.com/Azure/bicep",
   "sec_path": "SECURITY.md",
-  "stars": 3661,
+  "stars": 3660,
   "language": "Bicep",
   "description": "Bicep is a declarative language for describing and deploying Azure resources",
   "first_seen": "2026-11-01 16:24:27"
@@ -1545,7 +1545,7 @@
   "full_name": "Azure/azure-rest-api-specs",
   "url": "https://github.com/Azure/azure-rest-api-specs",
   "sec_path": "SECURITY.md",
-  "stars": 3111,
+  "stars": 3112,
   "language": "TypeSpec",
   "description": "The source for REST API specifications for Microsoft Azure.",
   "first_seen": "2026-11-01 16:24:27"
@@ -1722,7 +1722,7 @@
   "full_name": "Azure/azure-sdk-for-java",
   "url": "https://github.com/Azure/azure-sdk-for-java",
   "sec_path": "SECURITY.md",
-  "stars": 2565,
+  "stars": 2564,
   "language": "Java",
   "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.mi…",
   "first_seen": "2026-11-01 16:24:27"
@@ -1851,7 +1851,7 @@
   "full_name": "Azure/Azurite",
   "url": "https://github.com/Azure/Azurite",
   "sec_path": "SECURITY.md",
-  "stars": 2285,
+  "stars": 2287,
   "language": "TypeScript",
   "description": "A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies",
   "first_seen": "2026-11-01 16:24:27"
@@ -1980,7 +1980,7 @@
   "full_name": "Azure/azureml-examples",
   "url": "https://github.com/Azure/azureml-examples",
   "sec_path": "SECURITY.md",
-  "stars": 2030,
+  "stars": 2033,
   "language": "Jupyter Notebook",
   "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
   "first_seen": "2026-11-01 16:24:27"
@@ -2074,7 +2074,7 @@
   "full_name": "Azure/Enterprise-Scale",
   "url": "https://github.com/Azure/Enterprise-Scale",
   "sec_path": "SECURITY.md",
-  "stars": 1967,
+  "stars": 1968,
   "language": "PowerShell",
   "description": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles acros…",
   "first_seen": "2026-11-01 16:24:42"
@@ -2556,7 +2556,7 @@
   "full_name": "Azure/data-api-builder",
   "url": "https://github.com/Azure/data-api-builder",
   "sec_path": "SECURITY.md",
-  "stars": 1535,
+  "stars": 1537,
   "language": "C#",
   "description": "Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.",
   "first_seen": "2026-11-01 16:24:27"
@@ -2903,7 +2903,7 @@
   "full_name": "Azure/AzurePublicDataset",
   "url": "https://github.com/Azure/AzurePublicDataset",
   "sec_path": "SECURITY.md",
-  "stars": 1220,
+  "stars": 1222,
   "language": "Jupyter Notebook",
   "description": "Microsoft Azure Traces",
   "first_seen": "2026-11-01 16:25:10"
@@ -2925,7 +2925,7 @@
   "full_name": "Azure/agent-landing-zone",
   "url": "https://github.com/Azure/agent-landing-zone",
   "sec_path": "SECURITY.md",
-  "stars": 1204,
+  "stars": 1203,
   "language": "Python",
   "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Microsoft Foundry and Micr…",
   "first_seen": "2026-11-01 16:24:27"
@@ -3385,7 +3385,7 @@
   "full_name": "Azure/Azure-Network-Security",
   "url": "https://github.com/Azure/Azure-Network-Security",
   "sec_path": "SECURITY.md",
-  "stars": 943,
+  "stars": 944,
   "language": "PowerShell",
   "description": "Resources for improving Customer Experience with Azure Network Security",
   "first_seen": "2026-11-01 16:24:27"
@@ -3431,7 +3431,7 @@
   "full_name": "Azure/terraform",
   "url": "https://github.com/Azure/terraform",
   "sec_path": "SECURITY.md",
-  "stars": 928,
+  "stars": 929,
   "language": "HCL",
   "description": "Source code for the Azure Marketplace Terraform development VM package.",
   "first_seen": "2026-11-01 16:24:27"
@@ -4137,7 +4137,7 @@
   "full_name": "Azure/azure-storage-azcopy",
   "url": "https://github.com/Azure/azure-storage-azcopy",
   "sec_path": "SECURITY.md",
-  "stars": 700,
+  "stars": 701,
   "language": "Go",
   "description": "The new Azure Storage data transfer utility - AzCopy v10",
   "first_seen": "2026-11-01 16:24:27"
@@ -4704,7 +4704,7 @@
   "full_name": "Azure/azure-dev",
   "url": "https://github.com/Azure/azure-dev",
   "sec_path": "SECURITY.md",
-  "stars": 571,
+  "stars": 572,
   "language": "Go",
   "description": "A developer CLI for working with Azure resources to build and deploy AI applications. Commands map to key workflow stages: code, build, deploy, and monitor.",
   "first_seen": "2026-11-01 16:24:27"
@@ -4739,7 +4739,7 @@
   "full_name": "Azure/login",
   "url": "https://github.com/Azure/login",
   "sec_path": "SECURITY.md",
-  "stars": 566,
+  "stars": 567,
   "language": "TypeScript",
   "description": "Connect to Azure",
   "first_seen": "2026-11-01 16:24:54"
@@ -4769,6 +4769,17 @@
  },
  {
   "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/enterprise-azure-policy-as-code",
+  "url": "https://github.com/Azure/enterprise-azure-policy-as-code",
+  "sec_path": "SECURITY.md",
+  "stars": 556,
+  "language": "PowerShell",
+  "description": "Enterprise Azure Policy-as-Code (EPAC) solution",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/RPG-ZeroRepo",
   "url": "https://github.com/microsoft/RPG-ZeroRepo",
@@ -4778,17 +4789,6 @@
   "description": "[ICLR 2026] RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation",
   "license": null,
   "first_seen": "2026-11-01 22:39:49"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/enterprise-azure-policy-as-code",
-  "url": "https://github.com/Azure/enterprise-azure-policy-as-code",
-  "sec_path": "SECURITY.md",
-  "stars": 555,
-  "language": "PowerShell",
-  "description": "Enterprise Azure Policy-as-Code (EPAC) solution",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -5757,7 +5757,7 @@
   "full_name": "Azure/api-management-policy-snippets",
   "url": "https://github.com/Azure/api-management-policy-snippets",
   "sec_path": "SECURITY.md",
-  "stars": 401,
+  "stars": 402,
   "language": null,
   "description": "Re-usable examples of Azure API Management policies",
   "first_seen": "2026-11-01 16:25:27"
@@ -7494,7 +7494,7 @@
   "full_name": "Azure/azure-sdk-for-cpp",
   "url": "https://github.com/Azure/azure-sdk-for-cpp",
   "sec_path": "SECURITY.md",
-  "stars": 206,
+  "stars": 207,
   "language": "C++",
   "description": "This repository is for active development of the Azure SDK for C++.  For consumers of the SDK we recommend visiting our versioned developer docs at https://azur…",
   "first_seen": "2026-11-01 16:24:27"
@@ -7505,7 +7505,7 @@
   "full_name": "Azure/alz-terraform-accelerator",
   "url": "https://github.com/Azure/alz-terraform-accelerator",
   "sec_path": "SECURITY.md",
-  "stars": 205,
+  "stars": 206,
   "language": "HCL",
   "description": "Azure Landing Zones Terraform Accelerator",
   "first_seen": "2026-11-01 16:24:54"
@@ -8468,6 +8468,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/AgentBaker",
+  "url": "https://github.com/Azure/AgentBaker",
+  "sec_path": "SECURITY.md",
+  "stars": 159,
+  "language": "Go",
+  "description": "Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binari…",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/WellArchitected-Tools",
   "url": "https://github.com/Azure/WellArchitected-Tools",
   "sec_path": "SECURITY.md",
@@ -8486,17 +8497,6 @@
   "language": null,
   "description": "Hands on experience on Azure Data Explorer and Kusto Query Languages(KQL)",
   "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/AgentBaker",
-  "url": "https://github.com/Azure/AgentBaker",
-  "sec_path": "SECURITY.md",
-  "stars": 158,
-  "language": "Go",
-  "description": "Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binari…",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -10481,6 +10481,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/azure-api-management-policy-toolkit",
+  "url": "https://github.com/Azure/azure-api-management-policy-toolkit",
+  "sec_path": "SECURITY.md",
+  "stars": 97,
+  "language": "C#",
+  "description": "Azure API Management policy toolkit is a set of libraries and tools to help managing and testing policies.",
+  "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/azure-functions-vs-build-sdk",
   "url": "https://github.com/Azure/azure-functions-vs-build-sdk",
   "sec_path": "SECURITY.md",
@@ -10548,17 +10559,6 @@
   "description": "Visual Studio Team Services (VSTS) extension for performing continuous delivery to the Google Play store from your automated CI builds",
   "license": null,
   "first_seen": "2026-11-04 01:33:52"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-api-management-policy-toolkit",
-  "url": "https://github.com/Azure/azure-api-management-policy-toolkit",
-  "sec_path": "SECURITY.md",
-  "stars": 96,
-  "language": "C#",
-  "description": "Azure API Management policy toolkit is a set of libraries and tools to help managing and testing policies.",
-  "first_seen": "2026-11-01 16:24:54"
  },
  {
   "vendor": "微软",
@@ -10726,6 +10726,17 @@
  },
  {
   "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-cli-dev-tools",
+  "url": "https://github.com/Azure/azure-cli-dev-tools",
+  "sec_path": "SECURITY.md",
+  "stars": 92,
+  "language": "Python",
+  "description": "Developer utilities for Azure CLI command module and extension developers.",
+  "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/repo-templates",
   "url": "https://github.com/microsoft/repo-templates",
@@ -10747,17 +10758,6 @@
   "description": "This repository is for active development of the Microsoft 365 Agent SDK components for JavaScript",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-cli-dev-tools",
-  "url": "https://github.com/Azure/azure-cli-dev-tools",
-  "sec_path": "SECURITY.md",
-  "stars": 91,
-  "language": "Python",
-  "description": "Developer utilities for Azure CLI command module and extension developers.",
-  "first_seen": "2026-11-01 16:24:54"
  },
  {
   "vendor": "微软",
@@ -12695,6 +12695,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/arc_jumpstart_docs",
+  "url": "https://github.com/Azure/arc_jumpstart_docs",
+  "sec_path": "SECURITY.md",
+  "stars": 57,
+  "language": "Python",
+  "description": "A public repo for hosting the Arc Jumpstart docs",
+  "first_seen": "2026-11-01 16:25:10"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/reliable-web-app-pattern-java",
   "url": "https://github.com/Azure/reliable-web-app-pattern-java",
   "sec_path": "SECURITY.md",
@@ -12747,17 +12758,6 @@
   "stars": 56,
   "language": "JavaScript",
   "description": "Spectral rules to check conformance to Azure API Guidelines",
-  "first_seen": "2026-11-01 16:25:10"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/arc_jumpstart_docs",
-  "url": "https://github.com/Azure/arc_jumpstart_docs",
-  "sec_path": "SECURITY.md",
-  "stars": 56,
-  "language": "Python",
-  "description": "A public repo for hosting the Arc Jumpstart docs",
   "first_seen": "2026-11-01 16:25:10"
  },
  {
@@ -14060,17 +14060,6 @@
  },
  {
   "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/msrest-for-python",
-  "url": "https://github.com/Azure/msrest-for-python",
-  "sec_path": "SECURITY.md",
-  "stars": 42,
-  "language": "Python",
-  "description": "The runtime library \"msrest\" for AutoRest generated Python clients.",
-  "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/mu_devops",
   "url": "https://github.com/microsoft/mu_devops",
@@ -14218,6 +14207,17 @@
   "stars": 41,
   "language": "Python",
   "description": "Azure CLI extension for building rapid prototypes on Azure using GitHub Copilot or Open Ai",
+  "first_seen": "2026-11-01 16:25:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/msrest-for-python",
+  "url": "https://github.com/Azure/msrest-for-python",
+  "sec_path": "SECURITY.md",
+  "stars": 41,
+  "language": "Python",
+  "description": "The runtime library \"msrest\" for AutoRest generated Python clients.",
   "first_seen": "2026-11-01 16:25:27"
  },
  {
@@ -14579,6 +14579,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/apiops-cli",
+  "url": "https://github.com/Azure/apiops-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 38,
+  "language": "TypeScript",
+  "description": "Command line interface for Azure API Management",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/AppConfiguration-Emulator",
   "url": "https://github.com/Azure/AppConfiguration-Emulator",
   "sec_path": "SECURITY.md",
@@ -14736,17 +14747,6 @@
   "description": "Microsoft Graph SDK for Objective-C",
   "license": null,
   "first_seen": "2026-11-01 22:40:24"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/apiops-cli",
-  "url": "https://github.com/Azure/apiops-cli",
-  "sec_path": "SECURITY.md",
-  "stars": 37,
-  "language": "TypeScript",
-  "description": "Command line interface for Azure API Management",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -16458,6 +16458,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/terraform-azurerm-avm-ptn-alz-management",
+  "url": "https://github.com/Azure/terraform-azurerm-avm-ptn-alz-management",
+  "sec_path": "SECURITY.md",
+  "stars": 25,
+  "language": "HCL",
+  "description": "Terraform Azure Verified Pattern Module for ALZ Management",
+  "first_seen": "2026-11-01 16:24:42"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/APICenter-Analyzer",
   "url": "https://github.com/Azure/APICenter-Analyzer",
   "sec_path": "SECURITY.md",
@@ -16582,17 +16593,6 @@
   "language": "Go",
   "description": "gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM",
   "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/terraform-azurerm-avm-ptn-alz-management",
-  "url": "https://github.com/Azure/terraform-azurerm-avm-ptn-alz-management",
-  "sec_path": "SECURITY.md",
-  "stars": 24,
-  "language": "HCL",
-  "description": "Terraform Azure Verified Pattern Module for ALZ Management",
-  "first_seen": "2026-11-01 16:24:42"
  },
  {
   "vendor": "微软",
@@ -17147,7 +17147,7 @@
   "url": "https://github.com/Azure/agent-app-mcp",
   "sec_path": "SECURITY.md",
   "stars": 22,
-  "language": "PowerShell",
+  "language": "Python",
   "description": "gpt-rag-mcp",
   "license": null,
   "first_seen": "2026-11-02 07:49:56"
@@ -17974,6 +17974,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/ArcEnabledServersGroupPolicy",
+  "url": "https://github.com/Azure/ArcEnabledServersGroupPolicy",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "PowerShell",
+  "description": "Guidance and sample code to perform at-scale onboarding of servers to Arc via Group Policy",
+  "first_seen": "2026-11-01 16:25:10"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/Databricks360",
   "url": "https://github.com/Azure/Databricks360",
   "sec_path": "SECURITY.md",
@@ -18201,17 +18212,6 @@
   "language": "HCL",
   "description": "Terraform Azure Verified Resource Module for Log Analytics workspace",
   "first_seen": "2026-11-01 16:24:42"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/ArcEnabledServersGroupPolicy",
-  "url": "https://github.com/Azure/ArcEnabledServersGroupPolicy",
-  "sec_path": "SECURITY.md",
-  "stars": 17,
-  "language": "PowerShell",
-  "description": "Guidance and sample code to perform at-scale onboarding of servers to Arc via Group Policy",
-  "first_seen": "2026-11-01 16:25:10"
  },
  {
   "vendor": "微软",
@@ -19003,12 +19003,34 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/dacs",
+  "url": "https://github.com/Azure/dacs",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "C++",
+  "description": "Distributed Accelerator for Cloud Storage",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/kusto-copy",
   "url": "https://github.com/Azure/kusto-copy",
   "sec_path": "SECURITY.md",
   "stars": 14,
   "language": "C#",
   "description": "Tool enabling Azure Data Explorer / Kusto cluster replication",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/terraform-azurerm-avm-res-resources-resourcegroup",
+  "url": "https://github.com/Azure/terraform-azurerm-avm-res-resources-resourcegroup",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "HCL",
+  "description": "Terraform Azure Verified Resource Module for Resource Group",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -19440,17 +19462,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/dacs",
-  "url": "https://github.com/Azure/dacs",
-  "sec_path": "SECURITY.md",
-  "stars": 13,
-  "language": "C++",
-  "description": "Distributed Accelerator for Cloud Storage",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/aaz",
   "url": "https://github.com/Azure/aaz",
   "sec_path": "SECURITY.md",
@@ -19468,17 +19479,6 @@
   "stars": 13,
   "language": "Go",
   "description": "Shared libraries for reading and writing Bicep type definitions",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/terraform-azurerm-avm-res-resources-resourcegroup",
-  "url": "https://github.com/Azure/terraform-azurerm-avm-res-resources-resourcegroup",
-  "sec_path": "SECURITY.md",
-  "stars": 13,
-  "language": "HCL",
-  "description": "Terraform Azure Verified Resource Module for Resource Group",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -19725,6 +19725,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/logicapps-migration-agent",
+  "url": "https://github.com/Azure/logicapps-migration-agent",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "TypeScript",
+  "description": "VS Code Extension for migrating BizTalk, MuleSoft, and other integration platforms to Azure Logic Apps Standard",
+  "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/partnercenter-cli-extension",
   "url": "https://github.com/Azure/partnercenter-cli-extension",
   "sec_path": "SECURITY.md",
@@ -19742,6 +19753,17 @@
   "stars": 12,
   "language": "Python",
   "description": "Microsoft Azure VM Guest Linux Patch Extension",
+  "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/terraform-ai-gateway-landing-zone",
+  "url": "https://github.com/Azure/terraform-ai-gateway-landing-zone",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "Jupyter Notebook",
+  "description": "",
   "first_seen": "2026-11-01 16:24:54"
  },
  {
@@ -20115,34 +20137,12 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/logicapps-migration-agent",
-  "url": "https://github.com/Azure/logicapps-migration-agent",
-  "sec_path": "SECURITY.md",
-  "stars": 11,
-  "language": "TypeScript",
-  "description": "VS Code Extension for migrating BizTalk, MuleSoft, and other integration platforms to Azure Logic Apps Standard",
-  "first_seen": "2026-11-01 16:24:54"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/sap-automation-bootstrap",
   "url": "https://github.com/Azure/sap-automation-bootstrap",
   "sec_path": "SECURITY.md",
   "stars": 11,
   "language": null,
   "description": "Bootstrap repo for SDAF",
-  "first_seen": "2026-11-01 16:24:54"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/terraform-ai-gateway-landing-zone",
-  "url": "https://github.com/Azure/terraform-ai-gateway-landing-zone",
-  "sec_path": "SECURITY.md",
-  "stars": 11,
-  "language": "Jupyter Notebook",
-  "description": "",
   "first_seen": "2026-11-01 16:24:54"
  },
  {
@@ -20443,17 +20443,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-04 01:33:52"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/homebrew-bicep",
-  "url": "https://github.com/Azure/homebrew-bicep",
-  "sec_path": "SECURITY.md",
-  "stars": 10,
-  "language": "Ruby",
-  "description": "Homebrew formula for bicep",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -20934,6 +20923,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/typespec-rust",
+  "url": "https://github.com/Azure/typespec-rust",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Rust",
+  "description": "",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/terraform-azurerm-avm-res-network-bastionhost",
   "url": "https://github.com/Azure/terraform-azurerm-avm-res-network-bastionhost",
   "sec_path": "SECURITY.md",
@@ -21384,19 +21384,19 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/GuestProxyAgent",
-  "url": "https://github.com/Azure/GuestProxyAgent",
+  "full_name": "Azure/homebrew-bicep",
+  "url": "https://github.com/Azure/homebrew-bicep",
   "sec_path": "SECURITY.md",
   "stars": 8,
-  "language": "Rust",
-  "description": "",
+  "language": "Ruby",
+  "description": "Homebrew formula for bicep",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/typespec-rust",
-  "url": "https://github.com/Azure/typespec-rust",
+  "full_name": "Azure/GuestProxyAgent",
+  "url": "https://github.com/Azure/GuestProxyAgent",
   "sec_path": "SECURITY.md",
   "stars": 8,
   "language": "Rust",
@@ -22029,6 +22029,17 @@
   "stars": 7,
   "language": "JavaScript",
   "description": "GPT-RAG Avatar integrates Generative AI responses, real-time streaming, and advanced voice interactions into a dynamic avatar interface—ideal for enterprise app…",
+  "first_seen": "2026-11-01 16:25:10"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/sre-agent-plugins",
+  "url": "https://github.com/Azure/sre-agent-plugins",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": null,
+  "description": "Azure SRE Agent Plugins",
   "first_seen": "2026-11-01 16:25:10"
  },
  {
@@ -22707,17 +22718,6 @@
   "stars": 6,
   "language": "Go",
   "description": "Inspect and push SBOMs (such as SPDX documents) to an OCI registry as an OCI artifact",
-  "first_seen": "2026-11-01 16:25:10"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/sre-agent-plugins",
-  "url": "https://github.com/Azure/sre-agent-plugins",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": null,
-  "description": "Azure SRE Agent Plugins",
   "first_seen": "2026-11-01 16:25:10"
  },
  {
