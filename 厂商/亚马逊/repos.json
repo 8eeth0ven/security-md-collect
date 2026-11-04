@@ -104,7 +104,7 @@
   "full_name": "aws/context-ontology-accelerator",
   "url": "https://github.com/aws/context-ontology-accelerator",
   "sec_path": "SECURITY.md",
-  "stars": 1073,
+  "stars": 1074,
   "language": "Python",
   "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
   "first_seen": "2026-11-01 18:15:10"
@@ -291,7 +291,7 @@
   "full_name": "aws/agentcore-cli",
   "url": "https://github.com/aws/agentcore-cli",
   "sec_path": "SECURITY.md",
-  "stars": 325,
+  "stars": 326,
   "language": "TypeScript",
   "description": "The terminal experience for AgentCore!",
   "first_seen": "2026-11-01 18:15:10"
@@ -853,6 +853,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "aws",
+  "full_name": "aws/amazon-q-developer-cli-autocomplete",
+  "url": "https://github.com/aws/amazon-q-developer-cli-autocomplete",
+  "sec_path": "SECURITY.md",
+  "stars": 58,
+  "language": "Rust",
+  "description": "",
+  "first_seen": "2026-11-01 18:16:12"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "awslabs",
   "full_name": "awslabs/swift-aws-lambda-events",
   "url": "https://github.com/awslabs/swift-aws-lambda-events",
@@ -861,17 +872,6 @@
   "language": "Swift",
   "description": "Swift implementation of AWS Lambda Events",
   "first_seen": "2026-11-01 18:23:38"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws",
-  "full_name": "aws/amazon-q-developer-cli-autocomplete",
-  "url": "https://github.com/aws/amazon-q-developer-cli-autocomplete",
-  "sec_path": "SECURITY.md",
-  "stars": 57,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 18:16:12"
  },
  {
   "vendor": "亚马逊",
