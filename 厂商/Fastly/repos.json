@@ -167,23 +167,23 @@
  {
   "vendor": "Fastly",
   "org": "fastly",
+  "full_name": "fastly/compute-starter-kit-rust-static-content",
+  "url": "https://github.com/fastly/compute-starter-kit-rust-static-content",
+  "sec_path": "SECURITY.md",
+  "stars": 24,
+  "language": "Rust",
+  "description": "Static content starter kit for Rust based Fastly Compute projects. Speed up your websites with a Compute application serving content from a static bucket, redir…",
+  "first_seen": "2026-11-01 20:17:39"
+ },
+ {
+  "vendor": "Fastly",
+  "org": "fastly",
   "full_name": "fastly/remix-compute-js",
   "url": "https://github.com/fastly/remix-compute-js",
   "sec_path": "SECURITY.md",
   "stars": 23,
   "language": "TypeScript",
   "description": "Remix for Fastly Compute JavaScript",
-  "first_seen": "2026-11-01 20:17:39"
- },
- {
-  "vendor": "Fastly",
-  "org": "fastly",
-  "full_name": "fastly/compute-starter-kit-rust-static-content",
-  "url": "https://github.com/fastly/compute-starter-kit-rust-static-content",
-  "sec_path": "SECURITY.md",
-  "stars": 23,
-  "language": "Rust",
-  "description": "Static content starter kit for Rust based Fastly Compute projects. Speed up your websites with a Compute application serving content from a static bucket, redir…",
   "first_seen": "2026-11-01 20:17:39"
  },
  {
@@ -379,7 +379,7 @@
   "full_name": "fastly/fastly-log-analytics",
   "url": "https://github.com/fastly/fastly-log-analytics",
   "sec_path": "SECURITY.md",
-  "stars": 7,
+  "stars": 8,
   "language": "Python",
   "description": "Combine Fastly Real-Time Log Streaming and Fastly Object Storage to search, filter, and visualize request-level data through an interactive web UI.",
   "first_seen": "2026-11-01 20:17:39"

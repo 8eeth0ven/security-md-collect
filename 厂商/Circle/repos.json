@@ -38,7 +38,7 @@
   "full_name": "circlefin/arc-node",
   "url": "https://github.com/circlefin/arc-node",
   "sec_path": "SECURITY.md",
-  "stars": 206,
+  "stars": 207,
   "language": "Rust",
   "description": "The Economic OS for the internet",
   "first_seen": "2026-11-01 19:19:37"
@@ -266,23 +266,23 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
+  "full_name": "circlefin/arc-remote-signer",
+  "url": "https://github.com/circlefin/arc-remote-signer",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "Go",
+  "description": "Secure remote signing service for Arc Network using AWS Nitro Enclaves",
+  "first_seen": "2026-11-01 19:19:37"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
   "full_name": "circlefin/w3s-entity-secret-sample-code",
   "url": "https://github.com/circlefin/w3s-entity-secret-sample-code",
   "sec_path": "SECURITY.md",
   "stars": 18,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/arc-remote-signer",
-  "url": "https://github.com/circlefin/arc-remote-signer",
-  "sec_path": "SECURITY.md",
-  "stars": 17,
-  "language": "Go",
-  "description": "Secure remote signing service for Arc Network using AWS Nitro Enclaves",
   "first_seen": "2026-11-01 19:19:37"
  },
  {

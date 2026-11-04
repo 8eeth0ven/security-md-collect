@@ -17,7 +17,7 @@
   "full_name": "docker/compose",
   "url": "https://github.com/docker/compose",
   "sec_path": ".github/SECURITY.md",
-  "stars": 38597,
+  "stars": 38596,
   "language": "Go",
   "description": "Define and run multi-container applications with Docker",
   "first_seen": "2026-11-01 19:05:16"
@@ -40,7 +40,7 @@
   "full_name": "docker/cli",
   "url": "https://github.com/docker/cli",
   "sec_path": "SECURITY.md",
-  "stars": 6120,
+  "stars": 6121,
   "language": "Go",
   "description": "The Docker CLI",
   "first_seen": "2026-11-01 19:05:16"
@@ -51,7 +51,7 @@
   "full_name": "docker/build-push-action",
   "url": "https://github.com/docker/build-push-action",
   "sec_path": ".github/SECURITY.md",
-  "stars": 5429,
+  "stars": 5430,
   "language": "TypeScript",
   "description": "GitHub Action to build and push Docker images with Buildx",
   "first_seen": "2026-11-01 19:05:16"
@@ -62,7 +62,7 @@
   "full_name": "docker/docker-agent",
   "url": "https://github.com/docker/docker-agent",
   "sec_path": "SECURITY.md",
-  "stars": 4651,
+  "stars": 4653,
   "language": "Go",
   "description": "AI Agent Builder and Runtime by Docker Engineering",
   "first_seen": "2026-11-01 19:05:16"
@@ -106,7 +106,7 @@
   "full_name": "docker/mcp-gateway",
   "url": "https://github.com/docker/mcp-gateway",
   "sec_path": ".github/SECURITY.md",
-  "stars": 1622,
+  "stars": 1623,
   "language": "Go",
   "description": "docker mcp CLI plugin / MCP Gateway",
   "first_seen": "2026-11-01 19:05:16"
@@ -183,7 +183,7 @@
   "full_name": "docker/mcp-registry",
   "url": "https://github.com/docker/mcp-registry",
   "sec_path": ".github/SECURITY.md",
-  "stars": 579,
+  "stars": 580,
   "language": "Go",
   "description": "Official Docker MCP registry ",
   "first_seen": "2026-11-01 19:05:16"
@@ -194,7 +194,7 @@
   "full_name": "docker/sbx-releases",
   "url": "https://github.com/docker/sbx-releases",
   "sec_path": "SECURITY.md",
-  "stars": 491,
+  "stars": 492,
   "language": null,
   "description": "Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure",
   "first_seen": "2026-11-01 19:05:16"
@@ -227,7 +227,7 @@
   "full_name": "docker/sbx-kits-contrib",
   "url": "https://github.com/docker/sbx-kits-contrib",
   "sec_path": "SECURITY.md",
-  "stars": 199,
+  "stars": 200,
   "language": "Go",
   "description": "Community repository for sbx kits",
   "first_seen": "2026-11-01 19:05:16"
@@ -249,7 +249,7 @@
   "full_name": "docker/sandbox-kit-spec",
   "url": "https://github.com/docker/sandbox-kit-spec",
   "sec_path": ".github/SECURITY.md",
-  "stars": 174,
+  "stars": 175,
   "language": "Go",
   "description": "Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites",
   "first_seen": "2026-11-01 19:05:16"

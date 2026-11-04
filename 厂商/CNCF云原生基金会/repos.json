@@ -75,7 +75,7 @@
   "full_name": "envoyproxy/envoy",
   "url": "https://github.com/envoyproxy/envoy",
   "sec_path": "SECURITY.md",
-  "stars": 29179,
+  "stars": 29180,
   "language": "C++",
   "description": "Cloud-native high-performance edge/middle/service proxy",
   "first_seen": "2026-11-01 19:47:48"
@@ -86,7 +86,7 @@
   "full_name": "cilium/cilium",
   "url": "https://github.com/cilium/cilium",
   "sec_path": "SECURITY.md",
-  "stars": 25772,
+  "stars": 25773,
   "language": "Go",
   "description": "eBPF-based Networking, Security, and Observability",
   "first_seen": "2026-11-01 19:18:45"
@@ -446,7 +446,7 @@
   "full_name": "envoyproxy/gateway",
   "url": "https://github.com/envoyproxy/gateway",
   "sec_path": "SECURITY.md",
-  "stars": 3127,
+  "stars": 3129,
   "language": "Go",
   "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
   "first_seen": "2026-11-01 19:47:48"
@@ -1714,6 +1714,17 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "envoyproxy",
+  "full_name": "envoyproxy/envoy-windows",
+  "url": "https://github.com/envoyproxy/envoy-windows",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C++",
+  "description": "Windows build of Envoy",
+  "first_seen": "2026-11-01 19:47:48"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "grpc",
   "full_name": "grpc/.project",
   "url": "https://github.com/grpc/.project",
@@ -1746,17 +1757,6 @@
   "description": "GitHub Actions for artifact persistence between jobs",
   "license": null,
   "first_seen": "2026-11-01 23:27:06"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "envoyproxy",
-  "full_name": "envoyproxy/envoy-windows",
-  "url": "https://github.com/envoyproxy/envoy-windows",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "C++",
-  "description": "Windows build of Envoy",
-  "first_seen": "2026-11-01 19:47:48"
  },
  {
   "vendor": "CNCF云原生基金会",
