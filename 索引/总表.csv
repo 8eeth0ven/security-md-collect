@@ -439,33 +439,33 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promci-artifac
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-windows,https://github.com/envoyproxy/envoy-windows,,C++,SECURITY.md,Windows build of Envoy
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https://github.com/prometheus/.project,0,,SECURITY.md,Project metadata for prometheus - CNCF .project automation
 深度求索DeepSeek,无,deepseek-ai,deepseek-ai/dsh-node-addon-require-builtin,https://github.com/deepseek-ai/dsh-node-addon-require-builtin,22,C++,SECURITY.md,An internal component used by DeepSeek Harness
-智谱AI,无,THUDM,THUDM/INFTY,https://github.com/THUDM/INFTY,576,Python,SECURITY.md,INFTY Engine: An Optimization Toolkit to Support Continual AI
+智谱AI,无,THUDM,THUDM/INFTY,https://github.com/THUDM/INFTY,577,Python,SECURITY.md,INFTY Engine: An Optimization Toolkit to Support Continual AI
 智谱AI,无,zai-org,zai-org/feedback,https://github.com/zai-org/feedback,39,,SECURITY.md,ZCode 用户建议与反馈收集，处理状态全程公开
 月之暗面,无,MoonshotAI,MoonshotAI/kimi-cli,https://github.com/MoonshotAI/kimi-cli,11422,Python,SECURITY.md,"[Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code"
 月之暗面,无,MoonshotAI,MoonshotAI/kimi-code,https://github.com/MoonshotAI/kimi-code,8126,TypeScript,SECURITY.md,Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 面壁智能,无,OpenBMB,OpenBMB/UltraRAG,https://github.com/OpenBMB/UltraRAG,5738,Python,.github/SECURITY.md,A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 面壁智能,无,OpenBMB,OpenBMB/EdgeClaw,https://github.com/OpenBMB/EdgeClaw,1187,TypeScript,SECURITY.md,EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
 面壁智能,无,OpenBMB,OpenBMB/llama.cpp-omni,https://github.com/OpenBMB/llama.cpp-omni,41,C++,SECURITY.md,Omni inference in C/C++
-腾讯,TSRC,Tencent,Tencent/WeKnora,https://github.com/Tencent/WeKnora,36389,Go,SECURITY.md,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+腾讯,TSRC,Tencent,Tencent/WeKnora,https://github.com/Tencent/WeKnora,36442,Go,SECURITY.md,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
 腾讯,TSRC,Tencent,Tencent/MMKV,https://github.com/Tencent/MMKV,18773,C++,SECURITY.md,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS."
-腾讯,TSRC,TencentCloud,TencentCloud/Octop,https://github.com/TencentCloud/Octop,11547,Python,SECURITY.md,"A smarter, self-hosted AI assistant — multi-user, multi-agent."
-腾讯,TSRC,Tencent,Tencent/AI-Infra-Guard,https://github.com/Tencent/AI-Infra-Guard,7370,Python,SECURITY.md,"A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
-腾讯,TSRC,Tencent,Tencent/cherry-markdown,https://github.com/Tencent/cherry-markdown,4916,TypeScript,SECURITY.md,✨ A Markdown Editor
+腾讯,TSRC,TencentCloud,TencentCloud/Octop,https://github.com/TencentCloud/Octop,11606,Python,SECURITY.md,"A smarter, self-hosted AI assistant — multi-user, multi-agent."
+腾讯,TSRC,Tencent,Tencent/AI-Infra-Guard,https://github.com/Tencent/AI-Infra-Guard,7377,Python,SECURITY.md,"A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
+腾讯,TSRC,Tencent,Tencent/cherry-markdown,https://github.com/Tencent/cherry-markdown,4917,TypeScript,SECURITY.md,✨ A Markdown Editor
 腾讯,TSRC,Tencent,Tencent/cloudbase-framework,https://github.com/Tencent/cloudbase-framework,1996,JavaScript,SECURITY.md, 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
-腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Memory,https://github.com/Tencent-Hunyuan/Hy-Memory,1934,Python,SECURITY.md,
+腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Memory,https://github.com/Tencent-Hunyuan/Hy-Memory,1943,Python,SECURITY.md,
 腾讯,TSRC,Tencent,Tencent/tquic,https://github.com/Tencent/tquic,1443,Rust,SECURITY.md,"A high-performance, lightweight, and cross-platform QUIC library"
 腾讯,TSRC,Tencent,Tencent/TencentKona-8,https://github.com/Tencent/TencentKona-8,1006,Java,SECURITY.md,"Tencent Kona is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-term support(LTS) with quarterly updates. Tencent Kona…"
-腾讯,TSRC,Tencent,Tencent/YOLO-Master,https://github.com/Tencent/YOLO-Master,775,Python,SECURITY.md,"[CVPR2026]🚀🚀🚀Official code for the paper   ""YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection.""   *(YOLO = You Only Lo…"
+腾讯,TSRC,Tencent,Tencent/YOLO-Master,https://github.com/Tencent/YOLO-Master,776,Python,SECURITY.md,"[CVPR2026]🚀🚀🚀Official code for the paper   ""YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection.""   *(YOLO = You Only Lo…"
+腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Nomas,https://github.com/Tencent-Hunyuan/Hy-Nomas,480,Python,SECURITY.md,Hy-Nomas: Towards Free-form Interactive World Generation
 腾讯,TSRC,wechat-miniprogram,wechat-miniprogram/sm-crypto,https://github.com/wechat-miniprogram/sm-crypto,479,JavaScript,SECURITY.md,miniprogram sm crypto library
-腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Nomas,https://github.com/Tencent-Hunyuan/Hy-Nomas,477,Python,SECURITY.md,Hy-Nomas: Towards Free-form Interactive World Generation
 腾讯,TSRC,Tencent,Tencent/TencentKonaSMSuite,https://github.com/Tencent/TencentKonaSMSuite,461,Java,SECURITY.md,"Tencent Kona SM Suite contains a set of Java security providers, which support algorithms SM2, SM3 and SM4, and protocols TLCP/GMSSL, TLS 1.3 (with RFC 8998) an…"
 腾讯,TSRC,Tencent,Tencent/TencentKona-11,https://github.com/Tencent/TencentKona-11,346,Java,SECURITY.md,"Tencent Kona JDK11 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…"
 腾讯,TSRC,TencentCloud,TencentCloud/tencentmeeting-cli,https://github.com/TencentCloud/tencentmeeting-cli,247,Go,SECURITY.md,腾讯会议命令行工具（CLI），基于腾讯会议开放平台 OAuth2 授权，支持会议管理、录制管理、参会报告等功能。
 腾讯,TSRC,Tencent,Tencent/TencentKona-17,https://github.com/Tencent/TencentKona-17,193,Java,SECURITY.md,"Tencent Kona JDK17 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…"
 腾讯,TSRC,Tencent,Tencent/SkillHone,https://github.com/Tencent/SkillHone,172,TypeScript,SECURITY.md,Continual agent skill evolution through persistent decision history. Whole-skill optimisation (SKILL.md + scripts + references) with every decision landing as a…
-腾讯,TSRC,TencentCloud,TencentCloud/octop-harness,https://github.com/TencentCloud/octop-harness,135,Python,SECURITY.md,A production-grade agent runtime engineered from the Harness Engineering philosophy.
+腾讯,TSRC,TencentCloud,TencentCloud/octop-harness,https://github.com/TencentCloud/octop-harness,136,Python,SECURITY.md,A production-grade agent runtime engineered from the Harness Engineering philosophy.
 腾讯,TSRC,TencentCloud,TencentCloud/octop-memory,https://github.com/TencentCloud/octop-memory,87,Python,SECURITY.md,"Help your agent remember what matters. Keep preferences, carry context across sessions, and bring your memory to the next agent."
-腾讯,TSRC,TencentCloud,TencentCloud/octop-gateway,https://github.com/TencentCloud/octop-gateway,83,Python,SECURITY.md,Multi-platform IM channel bridge with unified message abstraction for AI agents and bots
+腾讯,TSRC,TencentCloud,TencentCloud/octop-gateway,https://github.com/TencentCloud/octop-gateway,84,Python,SECURITY.md,Multi-platform IM channel bridge with unified message abstraction for AI agents and bots
 腾讯,TSRC,Tencent,Tencent/LoopForge,https://github.com/Tencent/LoopForge,76,Go,SECURITY.md,"Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows fo…"
 腾讯,TSRC,TencentCloud,TencentCloud/octop-browser,https://github.com/TencentCloud/octop-browser,69,Python,SECURITY.md,"Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable."
 腾讯,TSRC,wechat-miniprogram,wechat-miniprogram/mobx,https://github.com/wechat-miniprogram/mobx,61,TypeScript,SECURITY.md,mobx-miniprogram - 适用于微信小程序的 MobX 构建版
@@ -4286,7 +4286,7 @@ Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/moby,https:/
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/kinvolk-kubernetes,https://github.com/Netflix-Skunkworks/kinvolk-kubernetes,,Go,.github/SECURITY.md,Container Cluster Manager from Google
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/etcd,https://github.com/Netflix-Skunkworks/etcd,,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/makara,https://github.com/Netflix-Skunkworks/makara,,JavaScript,SECURITY.md,An i18n module for Dust.js.
-Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/S3Mock,https://github.com/adobe/S3Mock,1176,Kotlin,.github/SECURITY.md,"A mock implementation of the AWS S3 API startable as Docker image, TestContainer, JUnit Jupiter extension or TestNG listener"
+Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/S3Mock,https://github.com/adobe/S3Mock,1177,Kotlin,.github/SECURITY.md,"A mock implementation of the AWS S3 API startable as Docker image, TestContainer, JUnit Jupiter extension or TestNG listener"
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aem-project-archetype,https://github.com/adobe/aem-project-archetype,596,Groovy,error,Maven template to create best-practice websites on AEM.
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aem-guides-wknd,https://github.com/adobe/aem-guides-wknd,321,JavaScript,error,Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/rules_gitops,https://github.com/adobe/rules_gitops,210,Starlark,error,"This repository contains rules for continuous, GitOps driven Kubernetes deployments."
@@ -5678,7 +5678,7 @@ AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/llvm-project,https://github.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/iris,https://github.com/ROCm/iris,203,Python,SECURITY.md,AMD RAD's multi-GPU Triton-based framework for seamless multi-GPU programming
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocMLIR,https://github.com/ROCm/rocMLIR,195,MLIR,SECURITY.md,
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/mini-isp,https://github.com/amd/mini-isp,148,SystemVerilog,SECURITY.md,"A minimal, open-source Image Signal Processor (ISP) for AMD FPGA, implemented in Verilog."
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/spur,https://github.com/ROCm/spur,139,Rust,SECURITY.md,spur your compute
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/spur,https://github.com/ROCm/spur,138,Rust,SECURITY.md,spur your compute
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/vllm,https://github.com/ROCm/vllm,124,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/ROCmValidationSuite,https://github.com/ROCm/ROCmValidationSuite,111,C++,SECURITY.md,"A system validation and diagnostics tool for monitoring, stress testing, detecting, and troubleshooting issues impacting AMD GPUs in high-performance computing …"
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm_bandwidth_test,https://github.com/ROCm/rocm_bandwidth_test,90,C++,SECURITY.md,Bandwidth test for ROCm
@@ -6313,8 +6313,8 @@ Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/Merlion,https://githu
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/akita,https://github.com/salesforce/akita,3661,TypeScript,SECURITY.md,🚀 State Management Tailored-Made for JS Applications
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeT5,https://github.com/salesforce/CodeT5,3086,Python,SECURITY.md,Home of CodeT5: Open Code LLMs for Code Understanding and Generation
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/TransmogrifAI,https://github.com/salesforce/TransmogrifAI,2280,Scala,SECURITY.md,"TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with m…"
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/cloudsplaining,https://github.com/salesforce/cloudsplaining,2257,JavaScript,SECURITY.md,Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/policy_sentry,https://github.com/salesforce/policy_sentry,2176,Python,SECURITY.md,IAM Least Privilege Policy Generator
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/cloudsplaining,https://github.com/salesforce/cloudsplaining,2258,JavaScript,SECURITY.md,Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/policy_sentry,https://github.com/salesforce/policy_sentry,2177,Python,SECURITY.md,IAM Least Privilege Policy Generator
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ctrl,https://github.com/salesforce/ctrl,1877,Python,SECURITY.md,Conditional Transformer Language Model for Controllable Generation
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/lwc,https://github.com/salesforce/lwc,1799,JavaScript,SECURITY.md,"⚡️ LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation"
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ALBEF,https://github.com/salesforce/ALBEF,1754,Python,SECURITY.md,Code for ALBEF: a new vision-language pre-training method
@@ -7098,7 +7098,7 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 三星,自建（Samsung Mobile/TV VRP）,Samsung,Samsung/mTower,https://github.com/Samsung/mTower,78,C,.github/SECURITY.md,"mTower is Trusted Execution Environment specially designed to be used on MicroController Units (MCUs) supporting ARM TrustZone technology (e.g., Cortex-M23/33/3…"
 三星,自建（Samsung Mobile/TV VRP）,Samsung,Samsung/qaboard,https://github.com/Samsung/qaboard,55,JavaScript,SECURITY.md,"Experiment tracker: organize, visualize, compare and share runs. Removes toil from algorithm/performance R&D and tuning."
 三星,自建（Samsung Mobile/TV VRP）,Samsung,Samsung/LPVS,https://github.com/Samsung/LPVS,29,Java,.github/SECURITY.md,License Pre-Validation Service analyzes which open source components and licenses are used in every patch. It returns the list of restricted licenses and the po…
-三星,自建（Samsung Mobile/TV VRP）,Samsung,Samsung/tizen-agent-skills,https://github.com/Samsung/tizen-agent-skills,15,JavaScript,SECURITY.md,"Tizen development skills & plugins for AI coding agents: install the Tizen SDK, create, build, debug and test Tizen Web, Native, .NET, RPK and RPM packages and …"
+三星,自建（Samsung Mobile/TV VRP）,Samsung,Samsung/tizen-agent-skills,https://github.com/Samsung/tizen-agent-skills,16,JavaScript,SECURITY.md,"Tizen development skills & plugins for AI coding agents: install the Tizen SDK, create, build, debug and test Tizen Web, Native, .NET, RPK and RPM packages and …"
 三星,自建（Samsung Mobile/TV VRP）,Samsung,Samsung/Azure-Sentinel,https://github.com/Samsung/Azure-Sentinel,3,Python,SECURITY.md,Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 三星,自建（Samsung Mobile/TV VRP）,Samsung,Samsung/Security,https://github.com/Samsung/Security,3,,SECURITY.md,Samsung Security Advisory
 东芝,自建PSIRT,Toshiba,toshiba/sw360,https://github.com/toshiba/sw360,3,Java,SECURITY.md,Toshiba Group SW360 project
