@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-05 01:08:42",
+ "generated_at": "2026-11-05 01:38:45",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10303,
-  "negative_cached": 48082
+  "sec_repos": 10304,
+  "negative_cached": 48094
  },
  "vendors": [
   {
@@ -727,7 +727,7 @@
     "aws-samples",
     "aws-amplify"
    ],
-   "sec_repos": 387
+   "sec_repos": 388
   },
   {
    "vendor": "苹果",
@@ -1971,7 +1971,5 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": [
-  "walmart"
- ]
+ "orgs_failed": []
 }

@@ -475,6 +475,17 @@
  {
   "vendor": "CrowdStrike",
   "org": "crowdstrike",
+  "full_name": "CrowdStrike/agentworks-skills",
+  "url": "https://github.com/CrowdStrike/agentworks-skills",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "AI coding assistant skills for building CrowdStrike Falcon Agent Works Agents",
+  "first_seen": "2026-11-01 18:54:21"
+ },
+ {
+  "vendor": "CrowdStrike",
+  "org": "crowdstrike",
   "full_name": "CrowdStrike/foundry-container-registry",
   "url": "https://github.com/CrowdStrike/foundry-container-registry",
   "sec_path": "docs/SECURITY.md",
@@ -547,17 +558,6 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "Insider Risk SailPoint sample Foundry app",
-  "first_seen": "2026-11-01 18:54:21"
- },
- {
-  "vendor": "CrowdStrike",
-  "org": "crowdstrike",
-  "full_name": "CrowdStrike/agentworks-skills",
-  "url": "https://github.com/CrowdStrike/agentworks-skills",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "AI coding assistant skills for building CrowdStrike Falcon Agent Works Agents",
   "first_seen": "2026-11-01 18:54:21"
  },
  {

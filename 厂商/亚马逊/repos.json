@@ -38,10 +38,21 @@
   "full_name": "aws/amazon-q-developer-cli",
   "url": "https://github.com/aws/amazon-q-developer-cli",
   "sec_path": "SECURITY.md",
-  "stars": 1986,
+  "stars": 1987,
   "language": "Rust",
   "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
   "first_seen": "2026-11-01 18:16:12"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/cli-agent-orchestrator",
+  "url": "https://github.com/awslabs/cli-agent-orchestrator",
+  "sec_path": "SECURITY.md",
+  "stars": 1512,
+  "language": "Python",
+  "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -53,17 +64,6 @@
   "language": "Python",
   "description": "Tools and sample code provided by AWS Premium Support.",
   "first_seen": "2026-11-01 18:23:38"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/cli-agent-orchestrator",
-  "url": "https://github.com/awslabs/cli-agent-orchestrator",
-  "sec_path": "SECURITY.md",
-  "stars": 1510,
-  "language": "Python",
-  "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -104,7 +104,7 @@
   "full_name": "aws/context-ontology-accelerator",
   "url": "https://github.com/aws/context-ontology-accelerator",
   "sec_path": "SECURITY.md",
-  "stars": 1075,
+  "stars": 1077,
   "language": "Python",
   "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
   "first_seen": "2026-11-01 18:15:10"
@@ -137,7 +137,7 @@
   "full_name": "awslabs/agent-plugins",
   "url": "https://github.com/awslabs/agent-plugins",
   "sec_path": ".github/SECURITY.md",
-  "stars": 934,
+  "stars": 936,
   "language": "Python",
   "description": "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.",
   "first_seen": "2026-11-01 18:22:43"
@@ -357,7 +357,7 @@
   "full_name": "aws-samples/sample-specship",
   "url": "https://github.com/aws-samples/sample-specship",
   "sec_path": "SECURITY.md",
-  "stars": 256,
+  "stars": 257,
   "language": "Shell",
   "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quali…",
   "license": null,
@@ -468,7 +468,7 @@
   "full_name": "aws-samples/sample-autonomous-cloud-coding-agents",
   "url": "https://github.com/aws-samples/sample-autonomous-cloud-coding-agents",
   "sec_path": ".github/SECURITY.md",
-  "stars": 170,
+  "stars": 171,
   "language": "TypeScript",
   "description": "Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance.",
   "first_seen": "2026-11-01 18:18:41"
@@ -567,7 +567,7 @@
   "full_name": "aws-samples/sample-agent-cost-bench",
   "url": "https://github.com/aws-samples/sample-agent-cost-bench",
   "sec_path": "SECURITY.md",
-  "stars": 107,
+  "stars": 108,
   "language": "Python",
   "description": "Benchmark framework that measures cost, quality, and duration of coding agents across any AI Coding Assistant CLI, any model, and any use case — with pluggable …",
   "first_seen": "2026-11-01 18:20:27"
@@ -776,6 +776,17 @@
  {
   "vendor": "亚马逊",
   "org": "awslabs",
+  "full_name": "awslabs/filemoverexpress",
+  "url": "https://github.com/awslabs/filemoverexpress",
+  "sec_path": "SECURITY.md",
+  "stars": 72,
+  "language": "TypeScript",
+  "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
+  "first_seen": "2026-11-01 18:22:43"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "awslabs",
   "full_name": "awslabs/homomorphic-implementors-toolkit",
   "url": "https://github.com/awslabs/homomorphic-implementors-toolkit",
   "sec_path": "SECURITY.md",
@@ -783,17 +794,6 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 18:24:36"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/filemoverexpress",
-  "url": "https://github.com/awslabs/filemoverexpress",
-  "sec_path": "SECURITY.md",
-  "stars": 71,
-  "language": "TypeScript",
-  "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -1427,6 +1427,17 @@
  {
   "vendor": "亚马逊",
   "org": "aws",
+  "full_name": "aws/capability-insights-for-aws",
+  "url": "https://github.com/aws/capability-insights-for-aws",
+  "sec_path": "SECURITY.md",
+  "stars": 17,
+  "language": "TypeScript",
+  "description": "Deploy a regional availability dashboard into your own AWS account, powered by data from AWS Capabilities By Region.",
+  "first_seen": "2026-11-01 18:15:10"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws",
   "full_name": "aws/Device-Defender-for-AWS-IoT-embedded-sdk",
   "url": "https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk",
   "sec_path": "SECURITY.md",
@@ -1477,17 +1488,6 @@
   "stars": 16,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:15:10"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws",
-  "full_name": "aws/capability-insights-for-aws",
-  "url": "https://github.com/aws/capability-insights-for-aws",
-  "sec_path": "SECURITY.md",
-  "stars": 16,
-  "language": "TypeScript",
-  "description": "Deploy a regional availability dashboard into your own AWS account, powered by data from AWS Capabilities By Region.",
   "first_seen": "2026-11-01 18:15:10"
  },
  {
@@ -1728,6 +1728,17 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
+  "full_name": "aws-samples/sample-architecture-diagram-mcp-server",
+  "url": "https://github.com/aws-samples/sample-architecture-diagram-mcp-server",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "JavaScript",
+  "description": "MCP server that turns a described AWS architecture into a self-contained interactive HTML diagram (official AWS icons, walkthroughs, UML sequence tabs, .drawio/…",
+  "first_seen": "2026-11-01 18:18:41"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
   "full_name": "aws-samples/sample-rcs-messaging-demo-app",
   "url": "https://github.com/aws-samples/sample-rcs-messaging-demo-app",
   "sec_path": "SECURITY.md",
@@ -1825,17 +1836,6 @@
   "stars": 9,
   "language": "Python",
   "description": "Agentic Data Ingestion is an intelligent ETL pipeline automation system that uses AI to generate, test, and deploy data transformation code. It combines AWS Bed…",
-  "first_seen": "2026-11-01 18:18:41"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-architecture-diagram-mcp-server",
-  "url": "https://github.com/aws-samples/sample-architecture-diagram-mcp-server",
-  "sec_path": "SECURITY.md",
-  "stars": 9,
-  "language": "JavaScript",
-  "description": "MCP server that turns a described AWS architecture into a self-contained interactive HTML diagram (official AWS icons, walkthroughs, UML sequence tabs, .drawio/…",
   "first_seen": "2026-11-01 18:18:41"
  },
  {
@@ -2019,6 +2019,18 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/ai-eval-studio",
+  "url": "https://github.com/awslabs/ai-eval-studio",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-04 00:03:55"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws",
   "full_name": "aws/lex-helper",
   "url": "https://github.com/aws/lex-helper",
@@ -2161,18 +2173,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 02:49:05"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/ai-eval-studio",
-  "url": "https://github.com/awslabs/ai-eval-studio",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": "Python",
-  "description": "",
-  "license": null,
-  "first_seen": "2026-11-04 00:03:55"
  },
  {
   "vendor": "亚马逊",
@@ -4313,5 +4313,17 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-04 06:32:40"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-sql-dynamodb-design",
+  "url": "https://github.com/aws-samples/sample-sql-dynamodb-design",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-05 01:34:41"
  }
 ]

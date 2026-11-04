@@ -5,7 +5,7 @@
   "full_name": "canonical/multipass",
   "url": "https://github.com/canonical/multipass",
   "sec_path": "SECURITY.md",
-  "stars": 9330,
+  "stars": 9331,
   "language": "C++",
   "description": "Multipass orchestrates virtual Ubuntu instances",
   "first_seen": "2026-11-01 18:39:48"
@@ -60,7 +60,7 @@
   "full_name": "canonical/snapcraft",
   "url": "https://github.com/canonical/snapcraft",
   "sec_path": "SECURITY.md",
-  "stars": 1292,
+  "stars": 1291,
   "language": "Python",
   "description": "Package, distribute, and update any app for Linux and IoT.",
   "first_seen": "2026-11-01 18:39:48"
@@ -233,6 +233,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/firmware-updater",
+  "url": "https://github.com/canonical/firmware-updater",
+  "sec_path": "SECURITY.md",
+  "stars": 140,
+  "language": "Dart",
+  "description": "A firmware updater UI based on fwupd",
+  "first_seen": "2026-11-01 18:41:08"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/k8s-dqlite",
   "url": "https://github.com/canonical/k8s-dqlite",
   "sec_path": "SECURITY.md",
@@ -240,17 +251,6 @@
   "language": "Go",
   "description": "Dqlite for Kubernetes",
   "first_seen": "2026-11-01 18:42:38"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/firmware-updater",
-  "url": "https://github.com/canonical/firmware-updater",
-  "sec_path": "SECURITY.md",
-  "stars": 139,
-  "language": "Dart",
-  "description": "A firmware updater UI based on fwupd",
-  "first_seen": "2026-11-01 18:41:08"
  },
  {
   "vendor": "Canonical",
@@ -865,7 +865,7 @@
   "sec_path": "SECURITY.md",
   "stars": 13,
   "language": "Python",
-  "description": "This charmed operator automates the operational procedures of running Grafana Loki, an open-source logs backend, in monolithic mode",
+  "description": "This charmed operator automates the operational procedures of ryunning Grafana Loki, an open-source logs backend, in monolithic mode",
   "first_seen": "2026-11-01 18:41:50"
  },
  {
