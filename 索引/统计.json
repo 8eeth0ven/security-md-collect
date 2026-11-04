@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-04 23:39:26",
+ "generated_at": "2026-11-05 00:08:26",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
   "sec_repos": 10303,
-  "negative_cached": 48081
+  "negative_cached": 48082
  },
  "vendors": [
   {
@@ -1971,8 +1971,5 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": [
-  "revolut",
-  "starbucks"
- ]
+ "orgs_failed": []
 }

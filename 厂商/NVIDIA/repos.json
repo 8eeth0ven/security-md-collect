@@ -137,7 +137,7 @@
   "full_name": "NVIDIA-Omniverse/PhysX",
   "url": "https://github.com/NVIDIA-Omniverse/PhysX",
   "sec_path": "SECURITY.md",
-  "stars": 4827,
+  "stars": 4828,
   "language": "C++",
   "description": "NVIDIA PhysX SDK",
   "first_seen": "2026-11-01 17:07:29"
@@ -313,7 +313,7 @@
   "full_name": "NVIDIA-Omniverse/usd-brep",
   "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
   "sec_path": "SECURITY.md",
-  "stars": 1987,
+  "stars": 1992,
   "language": "C++",
   "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
   "first_seen": "2026-11-01 17:07:29"
@@ -863,7 +863,7 @@
   "full_name": "NVIDIA-Omniverse/ovrtx",
   "url": "https://github.com/NVIDIA-Omniverse/ovrtx",
   "sec_path": "SECURITY.md",
-  "stars": 258,
+  "stars": 259,
   "language": "Python",
   "description": "A C and Python library for physically accurate, real-time, sensor simulation and visualization using NVIDIA Omniverse RTX",
   "first_seen": "2026-11-01 17:07:29"
@@ -1816,6 +1816,17 @@
  },
  {
   "vendor": "NVIDIA",
+  "org": "NVIDIA-Omniverse",
+  "full_name": "NVIDIA-Omniverse/simready-central",
+  "url": "https://github.com/NVIDIA-Omniverse/simready-central",
+  "sec_path": "SECURITY.md",
+  "stars": 47,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 17:07:29"
+ },
+ {
+  "vendor": "NVIDIA",
   "org": "NVIDIA",
   "full_name": "NVIDIA/daqiri",
   "url": "https://github.com/NVIDIA/daqiri",
@@ -1835,17 +1846,6 @@
   "language": "Python",
   "description": "A declarative workflow orchestrator for massive GPU clusters of any kind, including slurm, K8S and docker. Topology-aware node and GPU placement, multi-node rep…",
   "first_seen": "2026-11-01 17:04:22"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA-Omniverse",
-  "full_name": "NVIDIA-Omniverse/simready-central",
-  "url": "https://github.com/NVIDIA-Omniverse/simready-central",
-  "sec_path": "SECURITY.md",
-  "stars": 45,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 17:07:29"
  },
  {
   "vendor": "NVIDIA",
@@ -2686,6 +2686,17 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA-Omniverse",
+  "full_name": "NVIDIA-Omniverse/ovxr",
+  "url": "https://github.com/NVIDIA-Omniverse/ovxr",
+  "sec_path": "SECURITY.md",
+  "stars": 11,
+  "language": "Python",
+  "description": "A C and Python library for presenting NVIDIA Omniverse RTX scenes on OpenXR headsets in VR and AR",
+  "first_seen": "2026-11-01 17:07:29"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA-Omniverse",
   "full_name": "NVIDIA-Omniverse/kit-app-template-launchable",
   "url": "https://github.com/NVIDIA-Omniverse/kit-app-template-launchable",
   "sec_path": "SECURITY.md",
@@ -2825,17 +2836,6 @@
   "language": "Go",
   "description": "The NGC Provider enables Terraform to manage NGC (NVIDIA GPU Cloud) resources.",
   "first_seen": "2026-11-01 17:04:22"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA-Omniverse",
-  "full_name": "NVIDIA-Omniverse/ovxr",
-  "url": "https://github.com/NVIDIA-Omniverse/ovxr",
-  "sec_path": "SECURITY.md",
-  "stars": 10,
-  "language": "Python",
-  "description": "A C and Python library for presenting NVIDIA Omniverse RTX scenes on OpenXR headsets in VR and AR",
-  "first_seen": "2026-11-01 17:07:29"
  },
  {
   "vendor": "NVIDIA",

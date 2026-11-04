@@ -93,7 +93,7 @@
   "full_name": "salesforce/policy_sentry",
   "url": "https://github.com/salesforce/policy_sentry",
   "sec_path": "SECURITY.md",
-  "stars": 2177,
+  "stars": 2178,
   "language": "Python",
   "description": "IAM Least Privilege Policy Generator",
   "first_seen": "2026-11-01 17:19:30"
@@ -665,7 +665,7 @@
   "full_name": "salesforce/kafka-junit",
   "url": "https://github.com/salesforce/kafka-junit",
   "sec_path": "SECURITY.md",
-  "stars": 173,
+  "stars": 172,
   "language": "Java",
   "description": "This library wraps Kafka's embedded test cluster, allowing you to more easily create and run integration tests using JUnit against a \"real\" kafka server running…",
   "first_seen": "2026-11-01 17:19:30"
@@ -1157,6 +1157,17 @@
  {
   "vendor": "Salesforce",
   "org": "Salesforce",
+  "full_name": "salesforce/multicloudj",
+  "url": "https://github.com/salesforce/multicloudj",
+  "sec_path": "SECURITY.md",
+  "stars": 84,
+  "language": "Java",
+  "description": "MultiCloudJ: A Cloud Agnostic SDK for enabling open cloud development in Java",
+  "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "Salesforce",
   "full_name": "salesforce/QAConv",
   "url": "https://github.com/salesforce/QAConv",
   "sec_path": "SECURITY.md",
@@ -1175,17 +1186,6 @@
   "language": "TypeScript",
   "description": "An SFDX Plugin to setup a B2C or B2B Store",
   "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "Salesforce",
-  "full_name": "salesforce/multicloudj",
-  "url": "https://github.com/salesforce/multicloudj",
-  "sec_path": "SECURITY.md",
-  "stars": 83,
-  "language": "Java",
-  "description": "MultiCloudJ: A Cloud Agnostic SDK for enabling open cloud development in Java",
-  "first_seen": "2026-11-01 17:19:30"
  },
  {
   "vendor": "Salesforce",
@@ -1234,23 +1234,23 @@
  {
   "vendor": "Salesforce",
   "org": "Salesforce",
+  "full_name": "salesforce/lwc-rfcs",
+  "url": "https://github.com/salesforce/lwc-rfcs",
+  "sec_path": "SECURITY.md",
+  "stars": 77,
+  "language": null,
+  "description": "LWC - Request for comment proposals",
+  "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "Salesforce",
   "full_name": "salesforce/handlebars-php",
   "url": "https://github.com/salesforce/handlebars-php",
   "sec_path": "SECURITY.md",
   "stars": 77,
   "language": "PHP",
   "description": "A simple, logic-less, yet powerful templating engine for PHP",
-  "first_seen": "2026-11-01 17:19:30"
- },
- {
-  "vendor": "Salesforce",
-  "org": "Salesforce",
-  "full_name": "salesforce/lwc-rfcs",
-  "url": "https://github.com/salesforce/lwc-rfcs",
-  "sec_path": "SECURITY.md",
-  "stars": 76,
-  "language": null,
-  "description": "LWC - Request for comment proposals",
   "first_seen": "2026-11-01 17:19:30"
  },
  {
@@ -2246,6 +2246,17 @@
  {
   "vendor": "Salesforce",
   "org": "Salesforce",
+  "full_name": "salesforce/salesforce-skills",
+  "url": "https://github.com/salesforce/salesforce-skills",
+  "sec_path": "SECURITY.md",
+  "stars": 21,
+  "language": "HTML",
+  "description": "",
+  "first_seen": "2026-11-01 17:19:30"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "Salesforce",
   "full_name": "salesforce/prompt-leakage",
   "url": "https://github.com/salesforce/prompt-leakage",
   "sec_path": "SECURITY.md",
@@ -2275,17 +2286,6 @@
   "language": null,
   "description": "Dark theme for VS Code configured for accessibility and Salesforce development",
   "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "Salesforce",
-  "full_name": "salesforce/salesforce-skills",
-  "url": "https://github.com/salesforce/salesforce-skills",
-  "sec_path": "SECURITY.md",
-  "stars": 20,
-  "language": "HTML",
-  "description": "",
-  "first_seen": "2026-11-01 17:19:30"
  },
  {
   "vendor": "Salesforce",

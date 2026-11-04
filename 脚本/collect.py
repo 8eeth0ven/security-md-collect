@@ -551,6 +551,7 @@ def sweep_html(state, org2vendor, deadline, force):
                 if items is None:
                     ent["fail_count"] = ent.get("fail_count", 0) + 1
                     ent["failed_at"] = time.strftime("%Y-%m-%d %H:%M:%S")
+                    ent["failed_at_ts"] = time.time()
                     state["orgs"][org] = ent
                     save_state(state)
                     log("[失败] %s 列表抓取失败(第%d次)，下轮重试" % (org, ent["fail_count"]))
@@ -710,7 +711,8 @@ def write_outputs(state, mode):
         w.writerows(csv_rows)
     swept = sum(1 for o, e in state["orgs"].items() if e.get("last_swept"))
     failed = sorted(o for o, e in state["orgs"].items()
-                    if e.get("fail_count") and not e.get("repo_count"))
+                    if e.get("fail_count") and not e.get("repo_count")
+                    and (time.time() - e.get("failed_at_ts", 0) < 2700))
     stats = {
         "generated_at": now,
         "mode": mode,
