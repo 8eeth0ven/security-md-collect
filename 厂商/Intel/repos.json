@@ -137,7 +137,7 @@
   "full_name": "intel/confidential-computing.sgx",
   "url": "https://github.com/intel/confidential-computing.sgx",
   "sec_path": "SECURITY.md",
-  "stars": 1460,
+  "stars": 1461,
   "language": "C++",
   "description": "Intel® Software Guard Extensions (Intel® SGX)",
   "first_seen": "2026-11-01 21:52:54"
@@ -182,7 +182,7 @@
   "full_name": "intel/AI-Playground",
   "url": "https://github.com/intel/AI-Playground",
   "sec_path": "SECURITY.md",
-  "stars": 1035,
+  "stars": 1037,
   "language": "TypeScript",
   "description": "AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.",
   "first_seen": "2026-11-01 21:52:33"
@@ -237,7 +237,7 @@
   "full_name": "intel/openvino-ai-plugins-gimp",
   "url": "https://github.com/intel/openvino-ai-plugins-gimp",
   "sec_path": "security.md",
-  "stars": 806,
+  "stars": 805,
   "language": "Python",
   "description": "GIMP AI plugins with OpenVINO Backend",
   "first_seen": "2026-11-01 21:52:33"
@@ -391,7 +391,7 @@
   "full_name": "intel/ARM_NEON_2_x86_SSE",
   "url": "https://github.com/intel/ARM_NEON_2_x86_SSE",
   "sec_path": "SECURITY.md",
-  "stars": 495,
+  "stars": 496,
   "language": "C",
   "description": "The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsi…",
   "first_seen": "2026-11-01 21:52:33"
@@ -457,7 +457,7 @@
   "full_name": "intel/perfmon",
   "url": "https://github.com/intel/perfmon",
   "sec_path": "security.md",
-  "stars": 408,
+  "stars": 409,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -4305,6 +4305,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/oneapi-cli",
+  "url": "https://github.com/intel/oneapi-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "Go",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/rohd-bridge",
   "url": "https://github.com/intel/rohd-bridge",
   "sec_path": "SECURITY.md",
@@ -4399,17 +4410,6 @@
   "stars": 13,
   "language": "Rust",
   "description": "Reference implementation for decoding and extracting Intel® Crash Log Technology records.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/oneapi-cli",
-  "url": "https://github.com/intel/oneapi-cli",
-  "sec_path": "SECURITY.md",
-  "stars": 13,
-  "language": "Go",
-  "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
  {

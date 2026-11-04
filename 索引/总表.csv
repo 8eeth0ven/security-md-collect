@@ -291,7 +291,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,htt
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66933,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52443,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45419,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38488,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
+CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38487,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32223,Go,SECURITY.md,Run Kubernetes locally
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29179,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25772,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
@@ -345,7 +345,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exp
 CNCF云原生基金会,无(开源基金会),istio,istio/proxy,https://github.com/istio/proxy,915,Go,.github/SECURITY.md,The Istio proxy components.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dart,https://github.com/grpc/grpc-dart,891,Dart,SECURITY.md,The Dart language implementation of gRPC.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/procfs,https://github.com/prometheus/procfs,886,Go,SECURITY.md,"procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc."
-CNCF云原生基金会,无(开源基金会),istio,istio/istio.io,https://github.com/istio/istio.io,820,HTML,.github/SECURITY.md,Source for the istio.io site
+CNCF云原生基金会,无(开源基金会),istio,istio/istio.io,https://github.com/istio/istio.io,821,HTML,.github/SECURITY.md,Source for the istio.io site
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argoproj,https://github.com/argoproj/argoproj,763,Python,SECURITY.md,Common project repo for all Argo Projects
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/docs,https://github.com/prometheus/docs,725,TypeScript,SECURITY.md,Prometheus documentation: content and static site generator
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-openstack,https://github.com/kubernetes/cloud-provider-openstack,724,Go,SECURITY.md,
@@ -824,7 +824,7 @@ UCloud,无,ucloud,ucloud/spark,https://github.com/ucloud/spark,0,Scala,docs/secu
 科大讯飞,无,iflytek,iflytek/AutoSpark,https://github.com/iflytek/AutoSpark,50,Python,SECURITY.md,基于SuperAGI 专注中文领域的大模型AI应用框架
 科大讯飞,无,iflytek,iflytek/memflywheel,https://github.com/iflytek/memflywheel,42,TypeScript,SECURITY.md,"Agent-native long-term memory that learns after every run. File-native, auditable, and integrated with Pi, Hermes, OpenCode, and OpenClaw."
 科大讯飞,无,iflytek,iflytek/domux,https://github.com/iflytek/domux,33,Python,SECURITY.md,"A lightweight low-latency model converting natural home commands into structured data, fine-tuned via SFT and GRPO."
-科大讯飞,无,iflytek,iflytek/dolphin-mcp-pilot,https://github.com/iflytek/dolphin-mcp-pilot,23,Python,SECURITY.md,"Production-ready MCP server for Apache DolphinScheduler (小海豚) — lets AI agents build, schedule, run and recover workflows"
+科大讯飞,无,iflytek,iflytek/dolphin-mcp-pilot,https://github.com/iflytek/dolphin-mcp-pilot,22,Python,SECURITY.md,"Production-ready MCP server for Apache DolphinScheduler (小海豚) — lets AI agents build, schedule, run and recover workflows"
 科大讯飞,无,iflytek,iflytek/website,https://github.com/iflytek/website,3,Astro,SECURITY.md,Official website for iflytek opensource
 科大讯飞,无,iflytek,iflytek/community,https://github.com/iflytek/community,2,Makefile,SECURITY.md,Welcome to iflytek AI opensource community
 科大讯飞,无,iflytek,iflytek/proposals,https://github.com/iflytek/proposals,1,HTML,SECURITY.md,Opensource proposal and shedule
@@ -4765,16 +4765,16 @@ Intel,自建（Intel Bug Bounty）,intel,intel/intel-extension-for-pytorch,https
 Intel,自建（Intel Bug Bounty）,intel,intel/auto-round,https://github.com/intel/auto-round,1700,Python,SECURITY.md,"PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度"
 Intel,自建（Intel Bug Bounty）,intel,intel/llvm,https://github.com/intel/llvm,1550,LLVM,SECURITY.md,Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 Intel,自建（Intel Bug Bounty）,intel,intel/compute-runtime,https://github.com/intel/compute-runtime,1465,C++,Security.md,Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
-Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.sgx,https://github.com/intel/confidential-computing.sgx,1460,C++,SECURITY.md,Intel® Software Guard Extensions (Intel® SGX)
+Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.sgx,https://github.com/intel/confidential-computing.sgx,1461,C++,SECURITY.md,Intel® Software Guard Extensions (Intel® SGX)
 Intel,自建（Intel Bug Bounty）,intel,intel/media-driver,https://github.com/intel/media-driver,1255,C,security.md,"Intel Graphics Media Driver to support hardware decode, encode and video processing."
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/oneAPI-samples,https://github.com/oneapi-src/oneAPI-samples,1170,C++,SECURITY.md,Samples for Intel® oneAPI Toolkits
 Intel,自建（Intel Bug Bounty）,intel,intel/isa-l,https://github.com/intel/isa-l,1107,C,SECURITY.md,Intelligent Storage Acceleration Library
-Intel,自建（Intel Bug Bounty）,intel,intel/AI-Playground,https://github.com/intel/AI-Playground,1035,TypeScript,SECURITY.md,"AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU."
+Intel,自建（Intel Bug Bounty）,intel,intel/AI-Playground,https://github.com/intel/AI-Playground,1037,TypeScript,SECURITY.md,"AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU."
 Intel,自建（Intel Bug Bounty）,intel,intel/xess,https://github.com/intel/xess,1022,C,SECURITY.md,Intel XeSS SDK
 Intel,自建（Intel Bug Bounty）,intel,intel/caffe,https://github.com/intel/caffe,848,C++,error,"This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, in particular Intel® Xeon processors."
 Intel,自建（Intel Bug Bounty）,intel,intel/gprofiler,https://github.com/intel/gprofiler,840,Python,SECURITY.md,"gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on."
 Intel,自建（Intel Bug Bounty）,intel,intel/Intel-Linux-Processor-Microcode-Data-Files,https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files,831,,security.md,
-Intel,自建（Intel Bug Bounty）,intel,intel/openvino-ai-plugins-gimp,https://github.com/intel/openvino-ai-plugins-gimp,806,Python,security.md,GIMP AI plugins with OpenVINO Backend
+Intel,自建（Intel Bug Bounty）,intel,intel/openvino-ai-plugins-gimp,https://github.com/intel/openvino-ai-plugins-gimp,805,Python,security.md,GIMP AI plugins with OpenVINO Backend
 Intel,自建（Intel Bug Bounty）,intel,intel/libva,https://github.com/intel/libva,799,C,security.md,Libva is an implementation for VA-API (Video Acceleration API)
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-cmt-cat,https://github.com/intel/intel-cmt-cat,755,C,SECURITY.md,User space software for Intel(R) Resource Director Technology
 Intel,自建（Intel Bug Bounty）,intel,intel/libipt,https://github.com/intel/libipt,743,C,SECURITY.md,libipt - an Intel(R) Processor Trace decoder library
@@ -4788,13 +4788,13 @@ Intel,自建（Intel Bug Bounty）,intel,intel/llm-scaler,https://github.com/int
 Intel,自建（Intel Bug Bounty）,intel,intel/yarpgen,https://github.com/intel/yarpgen,578,C++,SECURITY.md,Yet Another Random Program Generator
 Intel,自建（Intel Bug Bounty）,intel,intel/wds,https://github.com/intel/wds,518,C++,error,Wireless Display Software For Linux OS (WDS)
 Intel,自建（Intel Bug Bounty）,intel,intel/rohd,https://github.com/intel/rohd,496,Dart,SECURITY.md,The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language.
-Intel,自建（Intel Bug Bounty）,intel,intel/ARM_NEON_2_x86_SSE,https://github.com/intel/ARM_NEON_2_x86_SSE,495,C,SECURITY.md,The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsi…
+Intel,自建（Intel Bug Bounty）,intel,intel/ARM_NEON_2_x86_SSE,https://github.com/intel/ARM_NEON_2_x86_SSE,496,C,SECURITY.md,The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsi…
 Intel,自建（Intel Bug Bounty）,intel,intel/linux-npu-driver,https://github.com/intel/linux-npu-driver,474,C++,security.md,Intel® NPU (Neural Processing Unit) Driver
 Intel,自建（Intel Bug Bounty）,intel,intel/kernel-fuzzer-for-xen-project,https://github.com/intel/kernel-fuzzer-for-xen-project,474,C,security.md,"Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL"
 Intel,自建（Intel Bug Bounty）,intel,intel/PerfSpect,https://github.com/intel/PerfSpect,461,Go,SECURITY.md,Open-source Linux performance suite for engineers—profiling and tuning workloads and system configurations.
 Intel,自建（Intel Bug Bounty）,intel,intel/QAT_Engine,https://github.com/intel/QAT_Engine,445,C,SECURITY.md,Intel QuickAssist Technology( QAT) OpenSSL Engine and Provider which provides cryptographic acceleration for both hardware and optimized software using Intel Qu…
 Intel,自建（Intel Bug Bounty）,intel,intel/xFasterTransformer,https://github.com/intel/xFasterTransformer,435,C++,SECURITY.md,
-Intel,自建（Intel Bug Bounty）,intel,intel/perfmon,https://github.com/intel/perfmon,408,Python,security.md,
+Intel,自建（Intel Bug Bounty）,intel,intel/perfmon,https://github.com/intel/perfmon,409,Python,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/cryptography-primitives,https://github.com/intel/cryptography-primitives,392,C,SECURITY.md,"Intel® Cryptography Primitives Library is a secure, fast and lightweight library of building blocks for cryptography, highly-optimized for various Intel® CPUs"
 Intel,自建（Intel Bug Bounty）,intel,intel/safestringlib,https://github.com/intel/safestringlib,386,C,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/libvpl,https://github.com/intel/libvpl,372,C++,SECURITY.md,"Intel® Video Processing Library (Intel® VPL) API, dispatcher, and examples"
@@ -5143,6 +5143,7 @@ Intel,自建（Intel Bug Bounty）,intel,intel/ethernet-linux-ixgbevf,https://gi
 Intel,自建（Intel Bug Bounty）,intel,intel/ethernet-linux-iavf,https://github.com/intel/ethernet-linux-iavf,14,C,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/ipu7-drivers,https://github.com/intel/ipu7-drivers,14,C,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/powertelemetry,https://github.com/intel/powertelemetry,14,Go,security.md,Internal sources of Power Telemetry Library. Power Telemetry Library is a golang library that provides power-related CPU info.
+Intel,自建（Intel Bug Bounty）,intel,intel/oneapi-cli,https://github.com/intel/oneapi-cli,14,Go,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/rohd-bridge,https://github.com/intel/rohd-bridge,14,Dart,SECURITY.md,A ROHD-based framework for connectivity and assembly of hardware designs.
 Intel,自建（Intel Bug Bounty）,intel,intel/Intel-affected-processor-list,https://github.com/intel/Intel-affected-processor-list,14,,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/dream-textures-openvino,https://github.com/intel/dream-textures-openvino,14,Python,security.md,
@@ -5152,7 +5153,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/hpc-speedometer,https://github.co
 Intel,自建（Intel Bug Bounty）,intel,intel/HFAV,https://github.com/intel/HFAV,14,Python,error,
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-xpu-smartune,https://github.com/intel/intel-xpu-smartune,13,Python,SECURITY.md,"Resource governance and system tuning toolkit for AI NAS platforms — PSI-based pressure monitoring, cgroup-based app limiting, diagnostics, and OpenVINO benchma…"
 Intel,自建（Intel Bug Bounty）,intel,intel/crashlog,https://github.com/intel/crashlog,13,Rust,SECURITY.md,Reference implementation for decoding and extracting Intel® Crash Log Technology records.
-Intel,自建（Intel Bug Bounty）,intel,intel/oneapi-cli,https://github.com/intel/oneapi-cli,13,Go,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/hal-intel,https://github.com/intel/hal-intel,13,C,SECURITY.md,This module provides a low level Hardware Abstraction Layer for Intel specific hardware.
 Intel,自建（Intel Bug Bounty）,intel,intel/vision-drivers,https://github.com/intel/vision-drivers,13,C,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/usbio-drivers,https://github.com/intel/usbio-drivers,13,C,SECURITY.md,"USBIO drivers for Intel's Meteor Lake, Arrow Lake, Lunar Lake and Panther Lake platforms"
@@ -7820,17 +7820,17 @@ Docker,HackerOne（Docker）,docker,docker/winget-pkgs,https://github.com/docker
 Docker,HackerOne（Docker）,moby,moby/octoguard,https://github.com/moby/octoguard,1,,.github/SECURITY.md,"Reusable GitHub Actions workflows for security scanning, auditing, and compliance"
 Docker,HackerOne（Docker）,docker,docker/dockside-releases,https://github.com/docker/dockside-releases,,,SECURITY.md,"Dockside releases (CLI + console for MCP Gateway Enterprise), owned by @docker/relok8s-maintainers"
 Docker,HackerOne（Docker）,docker,docker/docs-toolkit,https://github.com/docker/docs-toolkit,,Shell,SECURITY.md,
-HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vagrant,https://github.com/hashicorp/vagrant,27219,Ruby,error,Vagrant is a tool for building and distributing development environments.
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/vagrant,https://github.com/hashicorp/vagrant,27220,Ruby,error,Vagrant is a tool for building and distributing development environments.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/raft,https://github.com/hashicorp/raft,9162,Go,error,Golang implementation of the Raft consensus protocol
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-plugin,https://github.com/hashicorp/go-plugin,6116,Go,error,Golang plugin system over RPC.
-HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/serf,https://github.com/hashicorp/serf,6081,Go,error,Service orchestration and management tool.
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/serf,https://github.com/hashicorp/serf,6080,Go,error,Service orchestration and management tool.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcl,https://github.com/hashicorp/hcl,5831,Go,SECURITY.md,HCL is the HashiCorp configuration language.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/golang-lru,https://github.com/hashicorp/golang-lru,5133,Go,error,Golang LRU cache
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/consul-template,https://github.com/hashicorp/consul-template,4817,Go,error,"Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data."
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/memberlist,https://github.com/hashicorp/memberlist,4129,Go,error,Golang package for gossip based membership and failure detection
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/boundary,https://github.com/hashicorp/boundary,4065,Go,error,Boundary enables identity-based access management for dynamic infrastructure. 
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/yamux,https://github.com/hashicorp/yamux,2708,Go,error,Golang connection multiplexing library
-HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-multierror,https://github.com/hashicorp/go-multierror,2590,Go,error,A Go (golang) package for representing a list of errors as a single error.
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-multierror,https://github.com/hashicorp/go-multierror,2591,Go,error,A Go (golang) package for representing a list of errors as a single error.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/envconsul,https://github.com/hashicorp/envconsul,2073,Go,error,Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-version,https://github.com/hashicorp/go-version,1777,Go,error,A Go (golang) library for parsing and verifying versions and version constraints.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/mdns,https://github.com/hashicorp/mdns,1396,Go,error,Simple mDNS client/server library in Golang
