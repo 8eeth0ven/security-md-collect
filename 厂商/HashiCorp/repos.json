@@ -38,7 +38,7 @@
   "full_name": "hashicorp/serf",
   "url": "https://github.com/hashicorp/serf",
   "sec_path": "error",
-  "stars": 6080,
+  "stars": 6081,
   "language": "Go",
   "description": "Service orchestration and management tool.",
   "first_seen": "2026-11-01 21:24:21"
@@ -60,7 +60,7 @@
   "full_name": "hashicorp/golang-lru",
   "url": "https://github.com/hashicorp/golang-lru",
   "sec_path": "error",
-  "stars": 5133,
+  "stars": 5134,
   "language": "Go",
   "description": "Golang LRU cache",
   "first_seen": "2026-11-01 21:24:21"
@@ -82,7 +82,7 @@
   "full_name": "hashicorp/memberlist",
   "url": "https://github.com/hashicorp/memberlist",
   "sec_path": "error",
-  "stars": 4129,
+  "stars": 4130,
   "language": "Go",
   "description": "Golang package for gossip based membership and failure detection",
   "first_seen": "2026-11-01 21:24:21"
@@ -115,7 +115,7 @@
   "full_name": "hashicorp/go-multierror",
   "url": "https://github.com/hashicorp/go-multierror",
   "sec_path": "error",
-  "stars": 2591,
+  "stars": 2590,
   "language": "Go",
   "description": "A Go (golang) package for representing a list of errors as a single error.",
   "first_seen": "2026-11-01 21:24:21"
@@ -181,7 +181,7 @@
   "full_name": "hashicorp/agent-skills",
   "url": "https://github.com/hashicorp/agent-skills",
   "sec_path": "SECURITY.md",
-  "stars": 911,
+  "stars": 913,
   "language": "HCL",
   "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
   "first_seen": "2026-11-01 21:24:21"
@@ -266,17 +266,6 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
-  "full_name": "hashicorp/go-cleanhttp",
-  "url": "https://github.com/hashicorp/go-cleanhttp",
-  "sec_path": "error",
-  "stars": 448,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 21:24:21"
- },
- {
-  "vendor": "HashiCorp",
-  "org": "hashicorp",
   "full_name": "hashicorp/terraform-k8s",
   "url": "https://github.com/hashicorp/terraform-k8s",
   "sec_path": ".github/SECURITY.md",
@@ -285,6 +274,17 @@
   "description": "Terraform Cloud Operator for Kubernetes",
   "license": null,
   "first_seen": "2026-11-02 05:21:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/go-cleanhttp",
+  "url": "https://github.com/hashicorp/go-cleanhttp",
+  "sec_path": "error",
+  "stars": 447,
+  "language": "Go",
+  "description": "",
+  "first_seen": "2026-11-01 21:24:21"
  },
  {
   "vendor": "HashiCorp",

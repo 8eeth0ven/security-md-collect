@@ -17,7 +17,7 @@
   "full_name": "golang/go",
   "url": "https://github.com/golang/go",
   "sec_path": "SECURITY.md",
-  "stars": 139564,
+  "stars": 139563,
   "language": "Go",
   "description": "The Go programming language",
   "first_seen": "2026-11-01 20:51:25"
@@ -62,7 +62,7 @@
   "full_name": "google/zx",
   "url": "https://github.com/google/zx",
   "sec_path": ".github/SECURITY.md",
-  "stars": 45832,
+  "stars": 45831,
   "language": "JavaScript",
   "description": "A tool for writing better scripts",
   "license": null,
@@ -74,7 +74,7 @@
   "full_name": "google/googletest",
   "url": "https://github.com/google/googletest",
   "sec_path": "error",
-  "stars": 39703,
+  "stars": 39705,
   "language": "C++",
   "description": "GoogleTest - Google Testing and Mocking Framework",
   "first_seen": "2026-11-01 20:53:27"
@@ -85,7 +85,7 @@
   "full_name": "google/langextract",
   "url": "https://github.com/google/langextract",
   "sec_path": "error",
-  "stars": 39261,
+  "stars": 39264,
   "language": "Python",
   "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
   "first_seen": "2026-11-01 20:53:27"
@@ -107,7 +107,7 @@
   "full_name": "google/flatbuffers",
   "url": "https://github.com/google/flatbuffers",
   "sec_path": "error",
-  "stars": 26609,
+  "stars": 26610,
   "language": "C++",
   "description": "FlatBuffers: Memory Efficient Serialization Library",
   "first_seen": "2026-11-01 20:53:27"
@@ -141,7 +141,7 @@
   "full_name": "google/filament",
   "url": "https://github.com/google/filament",
   "sec_path": "SECURITY.md",
-  "stars": 20688,
+  "stars": 20689,
   "language": "C++",
   "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2",
   "first_seen": "2026-11-01 20:53:27"
@@ -152,7 +152,7 @@
   "full_name": "google/gvisor",
   "url": "https://github.com/google/gvisor",
   "sec_path": "SECURITY.md",
-  "stars": 19865,
+  "stars": 19866,
   "language": "Go",
   "description": "Application Kernel for Containers",
   "first_seen": "2026-11-01 20:53:27"
@@ -197,7 +197,7 @@
   "full_name": "google/ax",
   "url": "https://github.com/google/ax",
   "sec_path": "SECURITY.md",
-  "stars": 14517,
+  "stars": 14521,
   "language": "Go",
   "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
   "first_seen": "2026-11-01 20:53:27"
@@ -219,7 +219,7 @@
   "full_name": "google/oss-fuzz",
   "url": "https://github.com/google/oss-fuzz",
   "sec_path": "error",
-  "stars": 12917,
+  "stars": 12919,
   "language": "Shell",
   "description": "OSS-Fuzz - continuous fuzzing for open source software.",
   "first_seen": "2026-11-01 20:53:27"
@@ -241,7 +241,7 @@
   "full_name": "google/elephant-goldfish-model",
   "url": "https://github.com/google/elephant-goldfish-model",
   "sec_path": "error",
-  "stars": 11509,
+  "stars": 11649,
   "language": "Python",
   "description": "Open-source skills for designing and reviewing software with AI agents",
   "first_seen": "2026-11-01 20:53:27"
@@ -274,7 +274,7 @@
   "full_name": "google/re2",
   "url": "https://github.com/google/re2",
   "sec_path": "SECURITY.md",
-  "stars": 9842,
+  "stars": 9841,
   "language": "C++",
   "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
   "license": null,
@@ -286,7 +286,7 @@
   "full_name": "google/adk-go",
   "url": "https://github.com/google/adk-go",
   "sec_path": "error",
-  "stars": 8931,
+  "stars": 8934,
   "language": "Go",
   "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
   "first_seen": "2026-11-01 20:53:27"
@@ -308,7 +308,7 @@
   "full_name": "google/draco",
   "url": "https://github.com/google/draco",
   "sec_path": "SECURITY.md",
-  "stars": 7541,
+  "stars": 7542,
   "language": "C++",
   "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics…",
   "license": null,
@@ -332,7 +332,7 @@
   "full_name": "google/j2objc",
   "url": "https://github.com/google/j2objc",
   "sec_path": "error",
-  "stars": 6039,
+  "stars": 6037,
   "language": "Java",
   "description": "A Java to iOS Objective-C translation tool and runtime.",
   "first_seen": "2026-11-01 20:53:27"
@@ -354,7 +354,7 @@
   "full_name": "google/security-research",
   "url": "https://github.com/google/security-research",
   "sec_path": "error",
-  "stars": 4727,
+  "stars": 4728,
   "language": "C",
   "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
   "first_seen": "2026-11-01 20:53:27"
@@ -365,7 +365,7 @@
   "full_name": "google/go-cmp",
   "url": "https://github.com/google/go-cmp",
   "sec_path": "error",
-  "stars": 4683,
+  "stars": 4684,
   "language": "Go",
   "description": "Package for comparing Go values in tests",
   "first_seen": "2026-11-01 20:53:27"
@@ -411,7 +411,7 @@
   "full_name": "google/oboe",
   "url": "https://github.com/google/oboe",
   "sec_path": "error",
-  "stars": 4128,
+  "stars": 4129,
   "language": "C++",
   "description": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
   "first_seen": "2026-11-01 20:53:27"
@@ -445,7 +445,7 @@
   "full_name": "google/OpenSK",
   "url": "https://github.com/google/OpenSK",
   "sec_path": "error",
-  "stars": 3476,
+  "stars": 3475,
   "language": "Rust",
   "description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
   "first_seen": "2026-11-01 20:53:27"
@@ -624,7 +624,7 @@
   "full_name": "google/adk-js",
   "url": "https://github.com/google/adk-js",
   "sec_path": "error",
-  "stars": 1466,
+  "stars": 1467,
   "language": "TypeScript",
   "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
   "first_seen": "2026-11-01 20:53:27"
@@ -759,7 +759,7 @@
   "full_name": "google/openhtf",
   "url": "https://github.com/google/openhtf",
   "sec_path": "error",
-  "stars": 729,
+  "stars": 728,
   "language": "Python",
   "description": "The open-source hardware testing framework.",
   "first_seen": "2026-11-01 20:53:27"
@@ -859,7 +859,7 @@
   "full_name": "google/RB-Modulation",
   "url": "https://github.com/google/RB-Modulation",
   "sec_path": "SECURITY.md",
-  "stars": 403,
+  "stars": 401,
   "language": "Jupyter Notebook",
   "description": "Official code for \"RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control\"",
   "license": null,
@@ -1551,6 +1551,18 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/three-live",
+  "url": "https://github.com/google/three-live",
+  "sec_path": "SECURITY.md",
+  "stars": 21,
+  "language": "TypeScript",
+  "description": "AI-first 3D & spatial computing runtime and native JIT compiler for WebGL2/WebXR, Android (Filament & Jetpack XR), and iOS/visionOS (RealityKit)",
+  "license": null,
+  "first_seen": "2026-11-02 04:18:39"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/rbrotli-enc",
   "url": "https://github.com/google/rbrotli-enc",
   "sec_path": "error",
@@ -1569,18 +1581,6 @@
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/three-live",
-  "url": "https://github.com/google/three-live",
-  "sec_path": "SECURITY.md",
-  "stars": 15,
-  "language": "TypeScript",
-  "description": "AI-first 3D & spatial computing runtime and native JIT compiler for WebGL2/WebXR, Android (Filament & Jetpack XR), and iOS/visionOS (RealityKit)",
-  "license": null,
-  "first_seen": "2026-11-02 04:18:39"
  },
  {
   "vendor": "谷歌",

@@ -5,7 +5,7 @@
   "full_name": "intel/intel-one-mono",
   "url": "https://github.com/intel/intel-one-mono",
   "sec_path": "security.md",
-  "stars": 10202,
+  "stars": 10203,
   "language": null,
   "description": "Intel One Mono font repository",
   "first_seen": "2026-11-01 21:52:33"
@@ -82,7 +82,7 @@
   "full_name": "intel/openvino-plugins-ai-audacity",
   "url": "https://github.com/intel/openvino-plugins-ai-audacity",
   "sec_path": "security.md",
-  "stars": 2155,
+  "stars": 2156,
   "language": "C++",
   "description": "A set of AI-enabled effects, generators, and analyzers for Audacity®.",
   "first_seen": "2026-11-01 21:52:33"
@@ -93,7 +93,7 @@
   "full_name": "intel/intel-extension-for-pytorch",
   "url": "https://github.com/intel/intel-extension-for-pytorch",
   "sec_path": "SECURITY.md",
-  "stars": 2009,
+  "stars": 2008,
   "language": "Python",
   "description": "A Python package for extending the official PyTorch that can easily obtain performance on Intel platform",
   "first_seen": "2026-11-01 21:52:54"
@@ -104,7 +104,7 @@
   "full_name": "intel/auto-round",
   "url": "https://github.com/intel/auto-round",
   "sec_path": "SECURITY.md",
-  "stars": 1700,
+  "stars": 1699,
   "language": "Python",
   "description": "PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度",
   "first_seen": "2026-11-01 21:52:33"
@@ -115,7 +115,7 @@
   "full_name": "intel/llvm",
   "url": "https://github.com/intel/llvm",
   "sec_path": "SECURITY.md",
-  "stars": 1550,
+  "stars": 1551,
   "language": "LLVM",
   "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
   "first_seen": "2026-11-01 21:52:33"
@@ -148,7 +148,7 @@
   "full_name": "intel/media-driver",
   "url": "https://github.com/intel/media-driver",
   "sec_path": "security.md",
-  "stars": 1255,
+  "stars": 1256,
   "language": "C",
   "description": "Intel Graphics Media Driver to support hardware decode, encode and video processing.",
   "first_seen": "2026-11-01 21:52:33"
@@ -248,7 +248,7 @@
   "full_name": "intel/libva",
   "url": "https://github.com/intel/libva",
   "sec_path": "security.md",
-  "stars": 799,
+  "stars": 800,
   "language": "C",
   "description": "Libva is an implementation for VA-API (Video Acceleration API)",
   "first_seen": "2026-11-01 21:52:33"
@@ -292,7 +292,7 @@
   "full_name": "intel/intel-graphics-compiler",
   "url": "https://github.com/intel/intel-graphics-compiler",
   "sec_path": "SECURITY.md",
-  "stars": 723,
+  "stars": 724,
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -833,7 +833,7 @@
   "full_name": "intel/intel-lpmd",
   "url": "https://github.com/intel/intel-lpmd",
   "sec_path": "security.md",
-  "stars": 236,
+  "stars": 237,
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -874,6 +874,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/xpumanager",
+  "url": "https://github.com/intel/xpumanager",
+  "sec_path": "SECURITY.md",
+  "stars": 206,
+  "language": "C++",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/ipmctl",
   "url": "https://github.com/intel/ipmctl",
   "sec_path": "SECURITY.md",
@@ -881,17 +892,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/xpumanager",
-  "url": "https://github.com/intel/xpumanager",
-  "sec_path": "SECURITY.md",
-  "stars": 205,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1240,7 +1240,7 @@
   "full_name": "intel/optimization-zone",
   "url": "https://github.com/intel/optimization-zone",
   "sec_path": "SECURITY.md",
-  "stars": 135,
+  "stars": 136,
   "language": "Shell",
   "description": "Data Center and Client workload and software optimizations for Intel hardware.",
   "first_seen": "2026-11-01 21:52:33"
@@ -1690,6 +1690,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/AI-PC-Samples",
+  "url": "https://github.com/intel/AI-PC-Samples",
+  "sec_path": "Security.md",
+  "stars": 78,
+  "language": "Jupyter Notebook",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/ethernet-linux-ixgbe",
   "url": "https://github.com/intel/ethernet-linux-ixgbe",
   "sec_path": "security.md",
@@ -1730,17 +1741,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/AI-PC-Samples",
-  "url": "https://github.com/intel/AI-PC-Samples",
-  "sec_path": "Security.md",
-  "stars": 77,
-  "language": "Jupyter Notebook",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1910,6 +1910,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/SDM",
+  "url": "https://github.com/intel/SDM",
+  "sec_path": "SECURITY.md",
+  "stars": 66,
+  "language": "HTML",
+  "description": "Website for viewing the executable IA specification (external view). This combines data from the SDM and XED with a new executable specifiation.",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/intel-extension-for-openxla",
   "url": "https://github.com/intel/intel-extension-for-openxla",
   "sec_path": "security.md",
@@ -1940,17 +1951,6 @@
   "description": "oneAPI Level Zero Conformance & Performance test content",
   "license": null,
   "first_seen": "2026-11-01 23:05:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/SDM",
-  "url": "https://github.com/intel/SDM",
-  "sec_path": "SECURITY.md",
-  "stars": 65,
-  "language": "HTML",
-  "description": "Website for viewing the executable IA specification (external view). This combines data from the SDM and XED with a new executable specifiation.",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
