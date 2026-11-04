@@ -16,7 +16,7 @@
   "full_name": "ROCm/TheRock",
   "url": "https://github.com/ROCm/TheRock",
   "sec_path": "SECURITY.md",
-  "stars": 1426,
+  "stars": 1428,
   "language": "Python",
   "description": "The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm",
   "first_seen": "2026-11-01 17:11:17"
@@ -1198,5 +1198,17 @@
   "description": "Vendor-neutral GPU kernels for geometry-aware neural nets (triangle/folding ops)",
   "license": null,
   "first_seen": "2026-11-04 09:36:03"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/amdgpu-isa-spec",
+  "url": "https://github.com/ROCm/amdgpu-isa-spec",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "This repo holds documentations that describe the syntax of AMDGPU instructions.",
+  "license": null,
+  "first_seen": "2026-11-05 07:32:15"
  }
 ]

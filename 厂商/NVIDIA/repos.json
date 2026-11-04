@@ -137,7 +137,7 @@
   "full_name": "NVIDIA-Omniverse/PhysX",
   "url": "https://github.com/NVIDIA-Omniverse/PhysX",
   "sec_path": "SECURITY.md",
-  "stars": 4828,
+  "stars": 4829,
   "language": "C++",
   "description": "NVIDIA PhysX SDK",
   "first_seen": "2026-11-01 17:07:29"
@@ -313,7 +313,7 @@
   "full_name": "NVIDIA-Omniverse/usd-brep",
   "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
   "sec_path": "SECURITY.md",
-  "stars": 1992,
+  "stars": 1997,
   "language": "C++",
   "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
   "first_seen": "2026-11-01 17:07:29"
@@ -863,7 +863,7 @@
   "full_name": "NVIDIA-Omniverse/ovrtx",
   "url": "https://github.com/NVIDIA-Omniverse/ovrtx",
   "sec_path": "SECURITY.md",
-  "stars": 259,
+  "stars": 261,
   "language": "Python",
   "description": "A C and Python library for physically accurate, real-time, sensor simulation and visualization using NVIDIA Omniverse RTX",
   "first_seen": "2026-11-01 17:07:29"
@@ -3390,12 +3390,34 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA-Omniverse",
+  "full_name": "NVIDIA-Omniverse/omniverse-kit",
+  "url": "https://github.com/NVIDIA-Omniverse/omniverse-kit",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": null,
+  "description": "NVIDIA Omniverse Kit",
+  "first_seen": "2026-11-01 17:07:29"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA-Omniverse",
   "full_name": "NVIDIA-Omniverse/ovnewton",
   "url": "https://github.com/NVIDIA-Omniverse/ovnewton",
   "sec_path": "SECURITY.md",
   "stars": 4,
   "language": "Python",
   "description": "ovnewton Library",
+  "first_seen": "2026-11-01 17:07:29"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA-Omniverse",
+  "full_name": "NVIDIA-Omniverse/kit-sample-extensions",
+  "url": "https://github.com/NVIDIA-Omniverse/kit-sample-extensions",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Python",
+  "description": "This is the public kit sample extension repository",
   "first_seen": "2026-11-01 17:07:29"
  },
  {
@@ -4072,17 +4094,6 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA-Omniverse",
-  "full_name": "NVIDIA-Omniverse/kit-sample-extensions",
-  "url": "https://github.com/NVIDIA-Omniverse/kit-sample-extensions",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "This is the public kit sample extension repository",
-  "first_seen": "2026-11-01 17:07:29"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA-Omniverse",
   "full_name": "NVIDIA-Omniverse/omniverse-performance",
   "url": "https://github.com/NVIDIA-Omniverse/omniverse-performance",
   "sec_path": "SECURITY.md",
@@ -4158,17 +4169,6 @@
   "language": "Python",
   "description": "Guarded USB network diagnosis and recovery prototype for Jetson Orin Nano",
   "first_seen": "2026-11-01 17:06:40"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA-Omniverse",
-  "full_name": "NVIDIA-Omniverse/omniverse-kit",
-  "url": "https://github.com/NVIDIA-Omniverse/omniverse-kit",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": "NVIDIA Omniverse Kit",
-  "first_seen": "2026-11-01 17:07:29"
  },
  {
   "vendor": "NVIDIA",
