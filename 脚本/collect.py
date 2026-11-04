@@ -447,10 +447,12 @@ def list_repos_any(name):
                     return {}, kind
             except Exception:
                 pass
-        elif st == 404 and kind == "empty-org":
+            break  # 组织/用户存在且有仓库，但页面解析为空：按解析失败处理
+        if st in (403, 429):
+            return None, "skip"  # API 匿名配额限流：无法判别，本轮跳过不计失败
+        if st == 404 and kind == "empty-org":
             continue  # 不是组织，再查 user
-        else:
-            break
+        break
     return None, None
 
 
@@ -543,6 +545,9 @@ def sweep_html(state, org2vendor, deadline, force):
                 log("[跳过重列] %s(%s) 处理遗留待探测 %d 个" % (org, vendor, len(pending)))
             else:
                 items, kind = list_repos_any(org)
+                if items is None and kind == "skip":
+                    log("[限流跳过] %s API 配额不足，本轮不计失败，下轮重试" % org)
+                    continue
                 if items is None:
                     ent["fail_count"] = ent.get("fail_count", 0) + 1
                     ent["failed_at"] = time.strftime("%Y-%m-%d %H:%M:%S")

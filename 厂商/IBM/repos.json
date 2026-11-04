@@ -16,7 +16,7 @@
   "full_name": "IBM/mcp-context-forge",
   "url": "https://github.com/IBM/mcp-context-forge",
   "sec_path": "SECURITY.md",
-  "stars": 4749,
+  "stars": 4751,
   "language": "Python",
   "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and…",
   "first_seen": "2026-11-01 16:45:41"
@@ -783,6 +783,17 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/codehelm",
+  "url": "https://github.com/IBM/codehelm",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "CodeHelm",
+  "first_seen": "2026-11-01 16:46:39"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/md-to-pdf",
   "url": "https://github.com/IBM/md-to-pdf",
   "sec_path": "SECURITY.md",
@@ -867,17 +878,6 @@
   "language": "Python",
   "description": "A DBT adapter for integrating DBT with watsonx.data Presto",
   "first_seen": "2026-11-01 16:45:41"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
-  "full_name": "IBM/codehelm",
-  "url": "https://github.com/IBM/codehelm",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "CodeHelm",
-  "first_seen": "2026-11-01 16:46:39"
  },
  {
   "vendor": "IBM",
