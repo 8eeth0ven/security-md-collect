@@ -444,7 +444,7 @@
   "full_name": "Azure/azure-quickstart-templates",
   "url": "https://github.com/Azure/azure-quickstart-templates",
   "sec_path": "SECURITY.md",
-  "stars": 14898,
+  "stars": 14899,
   "language": "Bicep",
   "description": "Azure Quickstart Templates",
   "first_seen": "2026-11-01 16:24:27"
@@ -822,7 +822,7 @@
   "full_name": "Azure/Azure-Sentinel",
   "url": "https://github.com/Azure/Azure-Sentinel",
   "sec_path": "SECURITY.md",
-  "stars": 6237,
+  "stars": 6238,
   "language": "HTML",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
   "first_seen": "2026-11-01 16:24:27"
@@ -1863,7 +1863,7 @@
   "full_name": "Azure/Azurite",
   "url": "https://github.com/Azure/Azurite",
   "sec_path": "SECURITY.md",
-  "stars": 2287,
+  "stars": 2288,
   "language": "TypeScript",
   "description": "A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies",
   "first_seen": "2026-11-01 16:24:27"
@@ -2357,7 +2357,7 @@
   "full_name": "Azure/durabletask",
   "url": "https://github.com/Azure/durabletask",
   "sec_path": "SECURITY.md",
-  "stars": 1743,
+  "stars": 1744,
   "language": "C#",
   "description": "Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.",
   "first_seen": "2026-11-01 16:24:27"
@@ -2937,7 +2937,7 @@
   "full_name": "Azure/agent-landing-zone",
   "url": "https://github.com/Azure/agent-landing-zone",
   "sec_path": "SECURITY.md",
-  "stars": 1203,
+  "stars": 1204,
   "language": "Python",
   "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Microsoft Foundry and Micr…",
   "first_seen": "2026-11-01 16:24:27"
@@ -4793,6 +4793,17 @@
  },
  {
   "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/enterprise-azure-policy-as-code",
+  "url": "https://github.com/Azure/enterprise-azure-policy-as-code",
+  "sec_path": "SECURITY.md",
+  "stars": 557,
+  "language": "PowerShell",
+  "description": "Enterprise Azure Policy-as-Code (EPAC) solution",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/component-detection",
   "url": "https://github.com/microsoft/component-detection",
@@ -4802,17 +4813,6 @@
   "description": "Scans your project to determine what components you use",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/enterprise-azure-policy-as-code",
-  "url": "https://github.com/Azure/enterprise-azure-policy-as-code",
-  "sec_path": "SECURITY.md",
-  "stars": 556,
-  "language": "PowerShell",
-  "description": "Enterprise Azure Policy-as-Code (EPAC) solution",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -5496,6 +5496,17 @@
  },
  {
   "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-container-networking",
+  "url": "https://github.com/Azure/azure-container-networking",
+  "sec_path": "SECURITY.md",
+  "stars": 438,
+  "language": "Go",
+  "description": "Azure Container Networking Solutions for Linux and Windows Containers",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/minecraft-samples",
   "url": "https://github.com/microsoft/minecraft-samples",
@@ -5529,17 +5540,6 @@
   "description": "The language service that powers VS Code's Markdown support, extracted so that it can be reused by other editors and tools",
   "license": null,
   "first_seen": "2026-11-01 22:39:34"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-container-networking",
-  "url": "https://github.com/Azure/azure-container-networking",
-  "sec_path": "SECURITY.md",
-  "stars": 437,
-  "language": "Go",
-  "description": "Azure Container Networking Solutions for Linux and Windows Containers",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -6997,7 +6997,7 @@
   "full_name": "Azure/azure-iot-explorer",
   "url": "https://github.com/Azure/azure-iot-explorer",
   "sec_path": "SECURITY.md",
-  "stars": 253,
+  "stars": 254,
   "language": "TypeScript",
   "description": "Cross-platform UI for interacting with devices attached to Azure IoT Hub. This tool is meant for learning and testing, not for production environment.",
   "first_seen": "2026-11-01 16:24:27"
@@ -11840,6 +11840,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/Microsoft.Extensions.Caching.Postgres",
+  "url": "https://github.com/Azure/Microsoft.Extensions.Caching.Postgres",
+  "sec_path": "SECURITY.md",
+  "stars": 69,
+  "language": "C#",
+  "description": "Distributed cache implemented with Postgres",
+  "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/Integration-Services-Landing-Zone-Accelerator",
   "url": "https://github.com/Azure/Integration-Services-Landing-Zone-Accelerator",
   "sec_path": "SECURITY.md",
@@ -11931,17 +11942,6 @@
   "description": "마이크로소프트 기술 블로그 한국어판 | Microsoft tech blogs in Korean",
   "license": null,
   "first_seen": "2026-11-01 22:39:49"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/Microsoft.Extensions.Caching.Postgres",
-  "url": "https://github.com/Azure/Microsoft.Extensions.Caching.Postgres",
-  "sec_path": "SECURITY.md",
-  "stars": 68,
-  "language": "C#",
-  "description": "Distributed cache implemented with Postgres",
-  "first_seen": "2026-11-01 16:24:54"
  },
  {
   "vendor": "微软",
@@ -24701,6 +24701,18 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/fiberd",
+  "url": "https://github.com/Azure/fiberd",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Go",
+  "description": "Many fast instances of one workload, each a fork or snapshot restore of one warm copy, inside Kubernetes, Slurm or any scheduler.",
+  "license": null,
+  "first_seen": "2026-11-04 09:06:53"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/multi-region-platform",
   "url": "https://github.com/Azure/multi-region-platform",
   "sec_path": "SECURITY.md",
@@ -26105,6 +26117,17 @@
   "stars": 2,
   "language": "HCL",
   "description": "Terraform Azure Verified Pattern Module for AKS economy",
+  "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/AppConfiguration-JavaScriptImporter",
+  "url": "https://github.com/Azure/AppConfiguration-JavaScriptImporter",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "TypeScript",
+  "description": "A JavaScript library designed to streamline the process of importing configurations from various sources, such as local files, into Azure App Configuration.",
   "first_seen": "2026-11-01 16:24:54"
  },
  {
@@ -27584,17 +27607,6 @@
   "stars": 1,
   "language": "HCL",
   "description": "Terraform Azure Verified Utility Module for AVM SKU Finder ",
-  "first_seen": "2026-11-01 16:24:54"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/AppConfiguration-JavaScriptImporter",
-  "url": "https://github.com/Azure/AppConfiguration-JavaScriptImporter",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "TypeScript",
-  "description": "A JavaScript library designed to streamline the process of importing configurations from various sources, such as local files, into Azure App Configuration.",
   "first_seen": "2026-11-01 16:24:54"
  },
  {
@@ -31697,5 +31709,29 @@
   "description": "Korean Clone of new-copilot-studio-tech-guide",
   "license": null,
   "first_seen": "2026-11-04 08:04:01"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/osdu-spi-storage",
+  "url": "https://github.com/Azure/osdu-spi-storage",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Java",
+  "description": "OSDU upstream fork for Azure SPI Storage service",
+  "license": null,
+  "first_seen": "2026-11-04 09:06:53"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-sdk-vcpkg-partner-feed",
+  "url": "https://github.com/Azure/azure-sdk-vcpkg-partner-feed",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "CMake",
+  "description": "Vcpkg registry for a select set of Azure SDK releases.",
+  "license": null,
+  "first_seen": "2026-11-04 09:06:53"
  }
 ]
