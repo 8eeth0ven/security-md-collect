@@ -60,7 +60,7 @@
   "full_name": "awslabs/cli-agent-orchestrator",
   "url": "https://github.com/awslabs/cli-agent-orchestrator",
   "sec_path": "SECURITY.md",
-  "stars": 1508,
+  "stars": 1510,
   "language": "Python",
   "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
   "first_seen": "2026-11-01 18:22:43"
@@ -813,7 +813,7 @@
   "full_name": "awslabs/filemoverexpress",
   "url": "https://github.com/awslabs/filemoverexpress",
   "sec_path": "SECURITY.md",
-  "stars": 67,
+  "stars": 68,
   "language": "TypeScript",
   "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
   "first_seen": "2026-11-01 18:22:43"
@@ -1140,6 +1140,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/knfsd-file-cache",
+  "url": "https://github.com/awslabs/knfsd-file-cache",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 27,
+  "language": "Go",
+  "description": "A set of utilities for building, deploying and operating a high performance NFS Cache in Amazon Web Services. This is designed to be used for certain HPC and bu…",
+  "first_seen": "2026-11-01 18:22:43"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws",
   "full_name": "aws/aws-advanced-ruby-driver-wrapper",
   "url": "https://github.com/aws/aws-advanced-ruby-driver-wrapper",
@@ -1169,17 +1180,6 @@
   "stars": 26,
   "language": "Python",
   "description": "Operational Readiness Review (ORR) custom lens for the AWS Well-Architected Tool",
-  "first_seen": "2026-11-01 18:22:43"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/knfsd-file-cache",
-  "url": "https://github.com/awslabs/knfsd-file-cache",
-  "sec_path": "docs/SECURITY.md",
-  "stars": 26,
-  "language": "Go",
-  "description": "A set of utilities for building, deploying and operating a high performance NFS Cache in Amazon Web Services. This is designed to be used for certain HPC and bu…",
   "first_seen": "2026-11-01 18:22:43"
  },
  {
@@ -1706,6 +1706,17 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
+  "full_name": "aws-samples/sample-agentic-ai-control-plane",
+  "url": "https://github.com/aws-samples/sample-agentic-ai-control-plane",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 18:18:41"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
   "full_name": "aws-samples/sample-sop-mcp",
   "url": "https://github.com/aws-samples/sample-sop-mcp",
   "sec_path": "SECURITY.md",
@@ -1804,17 +1815,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 02:49:05"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-agentic-ai-control-plane",
-  "url": "https://github.com/aws-samples/sample-agentic-ai-control-plane",
-  "sec_path": "SECURITY.md",
-  "stars": 9,
-  "language": "TypeScript",
-  "description": "",
-  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
@@ -2686,6 +2686,18 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
+  "full_name": "aws-samples/sample-ai-ready-data-assessment",
+  "url": "https://github.com/aws-samples/sample-ai-ready-data-assessment",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "A 45-question, bilingual (EN/中文) self-assessment that scores enterprise AI-readiness of data across 6 dimensions, with an N/A-aware Python scoring tool that nee…",
+  "license": null,
+  "first_seen": "2026-11-02 02:49:58"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
   "full_name": "aws-samples/sample-ddos-guardian-skills",
   "url": "https://github.com/aws-samples/sample-ddos-guardian-skills",
   "sec_path": "SECURITY.md",
@@ -2985,18 +2997,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 02:49:05"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-ai-ready-data-assessment",
-  "url": "https://github.com/aws-samples/sample-ai-ready-data-assessment",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "A 45-question, bilingual (EN/中文) self-assessment that scores enterprise AI-readiness of data across 6 dimensions, with an N/A-aware Python scoring tool that nee…",
-  "license": null,
-  "first_seen": "2026-11-02 02:49:58"
  },
  {
   "vendor": "亚马逊",
