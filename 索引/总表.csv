@@ -288,7 +288,7 @@ Apache软件基金会,无(开源基金会),apache,apache/cloudberry-go-libs,http
 Apache软件基金会,无(开源基金会),apache,apache/hadoop-cloudstore,https://github.com/apache/hadoop-cloudstore,3,Java,SECURITY.md,Apache hadoop
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,128647,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66931,Go,SECURITY.md,The Prometheus monitoring system and time series database.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66933,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52443,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45418,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38488,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
@@ -307,10 +307,10 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.c
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kompose,https://github.com/kubernetes/kompose,10642,Go,SECURITY.md,Convert Compose to Kubernetes
 CNCF云原生基金会,无(开源基金会),containerd,containerd/nerdctl,https://github.com/containerd/nerdctl,10464,Go,SECURITY.md,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-web,https://github.com/grpc/grpc-web,9260,JavaScript,SECURITY.md,gRPC for Web Clients
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,https://github.com/prometheus/alertmanager,8678,Go,SECURITY.md,Prometheus Alertmanager
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,https://github.com/prometheus/alertmanager,8679,Go,SECURITY.md,Prometheus Alertmanager
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/examples,https://github.com/kubernetes/examples,6829,Shell,SECURITY.md,Kubernetes application example tutorials
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kube-state-metrics,https://github.com/kubernetes/kube-state-metrics,6235,Go,SECURITY.md,Add-on agent to generate and expose cluster-level metrics.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6043,Go,SECURITY.md,Prometheus instrumentation library for Go applications
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6044,Go,SECURITY.md,Prometheus instrumentation library for Go applications
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5930,Go,SECURITY.md,Blackbox prober exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/website,https://github.com/kubernetes/website,5418,HTML,SECURITY.md,Kubernetes website and documentation repo: 
 CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5150,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
@@ -555,7 +555,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 蚂蚁集团,蚂蚁SRC,antvis,antvis/X6,https://github.com/antvis/X6,6751,TypeScript,SECURITY.md,🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-boot,https://github.com/sofastack/sofa-boot,5078,Java,SECURITY.md,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc."
 蚂蚁集团,蚂蚁SRC,ant-design,ant-design/pro-components,https://github.com/ant-design/pro-components,4853,TypeScript,SECURITY.md,🏆 Use Ant Design like a Pro!
-蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-rpc,https://github.com/sofastack/sofa-rpc,3920,Java,SECURITY.md,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework."
+蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-rpc,https://github.com/sofastack/sofa-rpc,3919,Java,SECURITY.md,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework."
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-jraft,https://github.com/sofastack/sofa-jraft,3820,Java,SECURITY.md,A production-grade java implementation of RAFT consensus algorithm.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-bolt,https://github.com/sofastack/sofa-bolt,2505,Java,SECURITY.md,"SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty."
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-ark,https://github.com/sofastack/sofa-ark,1642,Java,SECURITY.md,SOFAArk is a light-weight，java based classloader isolation framework.
@@ -842,7 +842,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/MSA,https://github.com/MiniMax-AI/MSA,434,Pyth
 MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-MiniApps,https://github.com/MiniMax-AI/MiniMax-Code-MiniApps,69,JavaScript,docs/security.md,"We believe the Agent is evolving into the next-generation operating system (OS). In this paradigm shift, a plugin is no longer just a feature extension: a plugi…"
 MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-Plugins,https://github.com/MiniMax-AI/MiniMax-Code-Plugins,23,JavaScript,SECURITY.md,Community registry and contribution toolkit for MiniMax Code plugins.
 MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
-阶跃星辰,无,stepfun-ai,stepfun-ai/Step-Code,https://github.com/stepfun-ai/Step-Code,1025,TypeScript,SECURITY.md,
+阶跃星辰,无,stepfun-ai,stepfun-ai/Step-Code,https://github.com/stepfun-ai/Step-Code,1027,TypeScript,SECURITY.md,
 阶跃星辰,无,stepfun-ai,stepfun-ai/vllm,https://github.com/stepfun-ai/vllm,46,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 阶跃星辰,无,stepfun-ai,stepfun-ai/llama.cpp,https://github.com/stepfun-ai/llama.cpp,7,C++,SECURITY.md,LLM inference in C/C++
 微众银行,无,WeDataSphere,WeDataSphere/metabase,https://github.com/WeDataSphere/metabase,,Clojure,SECURITY.md,"The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:"
@@ -3607,10 +3607,10 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/SPARROW-Model-Zoo-Uploader,https://github.com/microsoft/SPARROW-Model-Zoo-Uploader,0,Python,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/agentic-support-guide,https://github.com/microsoft/agentic-support-guide,0,Python,SECURITY.md,Agentic support planning and signal-driven recommendation workflows using modular architecture and synthetic data.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/fabric-warehouse-training-lab,https://github.com/microsoft/fabric-warehouse-training-lab,0,TSQL,SECURITY.md,The Fabric Warehouse training lab jump start
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201292,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201293,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/go,https://github.com/golang/go,139561,Go,SECURITY.md,The Go programming language
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101101,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77637,Python,SECURITY.md,Models and examples built with TensorFlow
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77634,Python,SECURITY.md,Models and examples built with TensorFlow
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular.js,https://github.com/angular/angular.js,58452,JavaScript,SECURITY.md,AngularJS - HTML enhanced for web apps!
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/zx,https://github.com/google/zx,45832,JavaScript,.github/SECURITY.md,A tool for writing better scripts
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/googletest,https://github.com/google/googletest,39701,C++,error,GoogleTest - Google Testing and Mocking Framework
@@ -3635,7 +3635,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/adk-go,https://github.com/google/adk-go,8930,Go,error,"An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angularfire,https://github.com/angular/angularfire,7793,TypeScript,SECURITY.md,Angular + Firebase = ❤️
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/draco,https://github.com/google/draco,7541,C++,SECURITY.md,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics…
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorboard,https://github.com/tensorflow/tensorboard,7242,TypeScript,SECURITY.md,TensorFlow's Visualization Toolkit
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorboard,https://github.com/tensorflow/tensorboard,7241,TypeScript,SECURITY.md,TensorFlow's Visualization Toolkit
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/j2objc,https://github.com/google/j2objc,6038,Java,error,A Java to iOS Objective-C translation tool and runtime.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/EarlGrey,https://github.com/google/EarlGrey,5700,Objective-C,error,:tea: iOS UI Automation Test Framework
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/security-research,https://github.com/google/security-research,4727,C,error,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
@@ -3647,11 +3647,11 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-containerregistry,https://github.com/google/go-containerregistry,4107,Go,SECURITY.md,Go library and CLIs for working with container registries
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/universal,https://github.com/angular/universal,3984,TypeScript,SECURITY.md,Server-side rendering and Prerendering for Angular
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/OpenSK,https://github.com/google/OpenSK,3476,Rust,error,OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3143,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3144,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mozc,https://github.com/google/mozc,3033,C++,error,Mozc - a Japanese Input Method Editor designed for multi-platform
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mantis,https://github.com/google/mantis,2705,Python,error,"A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/boringssl,https://github.com/google/boringssl,2294,C++,SECURITY.md,Mirror of BoringSSL
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/quantum,https://github.com/tensorflow/quantum,2203,Python,.github/SECURITY.md,An open-source Python framework for hybrid quantum-classical machine learning.
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/quantum,https://github.com/tensorflow/quantum,2202,Python,.github/SECURITY.md,An open-source Python framework for hybrid quantum-classical machine learning.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/shaderc,https://github.com/google/shaderc,2198,C++,error,"A collection of tools, libraries, and tests for Vulkan shader compilation."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-querystring,https://github.com/google/go-querystring,2145,Go,error,go-querystring is Go library for encoding structs into URL query strings.
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/geo,https://github.com/golang/geo,1854,Go,SECURITY.md,S2 geometry library in Go
@@ -3783,7 +3783,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/chisel,https://github.com/google/chisel,1,Go,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/x-edr-eigenmath_tf2,https://github.com/google/x-edr-eigenmath_tf2,1,C++,SECURITY.md,Port of ROS/TF2 to eigenmath library.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105114,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105118,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/fairseq,https://github.com/facebookresearch/fairseq,32210,Python,error,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28155,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
 Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18680,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
@@ -3792,7 +3792,7 @@ Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/AnimatedDrawi
 Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-ios-sdk,https://github.com/meta/facebook-ios-sdk,8116,Swift,SECURITY.md,Used to integrate the Facebook Platform with your iOS & tvOS apps.
 Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-android-sdk,https://github.com/meta/facebook-android-sdk,6465,Kotlin,SECURITY.md,Used to integrate Android apps with Facebook Platform.
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/lingua,https://github.com/facebookresearch/lingua,4771,Python,error,"Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs."
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/serve,https://github.com/pytorch/serve,4344,Java,SECURITY.md,"Serve, optimize and scale PyTorch models in production"
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/serve,https://github.com/pytorch/serve,4343,Java,SECURITY.md,"Serve, optimize and scale PyTorch models in production"
 Meta,自建（Meta Bug Bounty）,pytorch,pytorch/gloo,https://github.com/pytorch/gloo,1465,C++,SECURITY.md,Collective communications library with various primitives for multi-machine training.
 Meta,自建（Meta Bug Bounty）,pytorch,pytorch/tensordict,https://github.com/pytorch/tensordict,1042,Python,SECURITY.md,"A dict[str, torch.Tensor] that behaves like one tensor, and TensorClass: typed, batched dataclasses that compile."
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/SONAR,https://github.com/facebookresearch/SONAR,916,Python,error,"SONAR, a new multilingual and multimodal fixed-size sentence embedding space, with a full suite of speech and text encoders and decoders."
@@ -6155,7 +6155,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/pingpong,https://github.com/NVIDIA/pi
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-AI-IOT,NVIDIA-AI-IOT/jetson-usb-network-recovery,https://github.com/NVIDIA-AI-IOT/jetson-usb-network-recovery,,Python,SECURITY.md,Guarded USB network diagnosis and recovery prototype for Jetson Orin Nano
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/omniverse-kit,https://github.com/NVIDIA-Omniverse/omniverse-kit,,,SECURITY.md,NVIDIA Omniverse Kit
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovannotators,https://github.com/NVIDIA-Omniverse/ovannotators,0,Python,SECURITY.md,NVIDIA ovannotators library for writing datasets from Omniverse 
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8490,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8492,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-mlir,https://github.com/qualcomm/hexagon-mlir,278,C++,SECURITY.md,Hexagon-MLIR is a compiler toolchain for compiling and executing AI kernels and models on Qualcomm Hexagon Neural Processing Units (NPUs).
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/efficient-transformers,https://github.com/qualcomm/efficient-transformers,102,Python,SECURITY.md,This library empowers users to seamlessly port pretrained models and checkpoints on the HuggingFace (HF) hub (developed using HF transformers library) into infe…
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cloud-ai-sdk,https://github.com/qualcomm/cloud-ai-sdk,85,Jupyter Notebook,SECURITY.md,Qualcomm Cloud AI SDK (Platform and Apps) enable high performance deep learning inference on Qualcomm Cloud AI platforms delivering high throughput and low late…
@@ -6214,6 +6214,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovannotators,http
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/snapdragon-compute-samples,https://github.com/qualcomm/snapdragon-compute-samples,2,Jupyter Notebook,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/bt-rviz,https://github.com/qualcomm/bt-rviz,2,C++,SECURITY.md,Behavior Tree visualisation and monitoring plugin for RVIZ
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/opencl-intercept-layer,https://github.com/qualcomm/opencl-intercept-layer,2,C++,SECURITY.md,Intercept Layer for Debugging and Analyzing OpenCL Applications
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qemu-profiler,https://github.com/qualcomm/qemu-profiler,1,Rust,SECURITY.md,QEMU TCG plugin for profiling
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qualcomm-ui-utils,https://github.com/qualcomm/qualcomm-ui-utils,1,TypeScript,SECURITY.md,Qualcomm UI Utilities 
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/kleidiai,https://github.com/qualcomm/kleidiai,1,C++,SECURITY.md,This repository is a read-only mirror of https://gitlab.arm.com/kleidi/kleidiai
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cpu-mlir,https://github.com/qualcomm/cpu-mlir,1,C++,SECURITY.md,A MLIR-based compilation stack targeting ARM64 ISA for high performance AI/ML kernel and models.
@@ -6231,7 +6232,6 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovannotators,http
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/OpenBLAS,https://github.com/qualcomm/OpenBLAS,1,C,SECURITY.md,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/vllm,https://github.com/qualcomm/vllm,1,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qualcomm-ui-templates,https://github.com/qualcomm/qualcomm-ui-templates,0,TypeScript,SECURITY.md,Qualcomm UI Template Applications
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qemu-profiler,https://github.com/qualcomm/qemu-profiler,0,Rust,SECURITY.md,QEMU TCG plugin for profiling
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/gst-qti-oss-patches,https://github.com/qualcomm/gst-qti-oss-patches,0,,SECURITY.md,"Contains patch files for GStreamer opensource plugins, introducing enhancements, fixes and support for Qualcomm specific pixel formats."
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/commit-msg-check-action,https://github.com/qualcomm/commit-msg-check-action,0,Python,SECURITY.md,A GitHub Action for Qualcomm projects that validates commit message formatting
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/repo-policy-action,https://github.com/qualcomm/repo-policy-action,0,Python,SECURITY.md,GitHub action to enforce repository policy
@@ -7207,10 +7207,10 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ros-sharp,https://github.com/siemens/ros-sharp,1201,C#,SECURITY.md,"ROS# is a set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity3D"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/kas,https://github.com/siemens/kas,609,Python,SECURITY.md,Setup tool for bitbake based projects
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/edgeshark,https://github.com/siemens/edgeshark,592,Markdown,SECURITY.md,"Discover and capture container network traffic from your comfy desktop Wireshark, using a containerized service and a Wireshark plugin."
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix,https://github.com/siemens/ix,388,TypeScript,SECURITY.md,"Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…"
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix,https://github.com/siemens/ix,389,TypeScript,SECURITY.md,"Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/efibootguard,https://github.com/siemens/efibootguard,140,C,SECURITY.md,Simple UEFI boot loader with support for safely switching between current and updated partition sets
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/element,https://github.com/siemens/element,83,TypeScript,SECURITY.md,"Siemens Element is a design system for products and digital experiences, grounded in the Siemens Design Language."
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/wfx,https://github.com/siemens/wfx,77,Go,SECURITY.md,"a lightweight, general-purpose workflow executor"
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/wfx,https://github.com/siemens/wfx,78,Go,SECURITY.md,"a lightweight, general-purpose workflow executor"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/cshargextcap,https://github.com/siemens/cshargextcap,71,Go,SECURITY.md,[Edgeshark] Wireshark extcap plugin for container traffic capture live streaming.
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/tia-portal-openness-code-snippets,https://github.com/siemens/tia-portal-openness-code-snippets,71,C#,SECURITY.md,A collection of practical code snippets demonstrating TIA Portal Openness API (V21) implementation with easy-to-understand examples. Designed to help developers…
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix-icons,https://github.com/siemens/ix-icons,52,HTML,SECURITY.md,Icon library for @siemens/ix
@@ -7295,7 +7295,7 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 飞利浦,自建PSIRT（Philips）,philips,philips/libsignal,https://github.com/philips/libsignal,,Rust,SECURITY.md,> Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 飞利浦,自建PSIRT（Philips）,philips,philips/k8s.io,https://github.com/philips/k8s.io,,Shell,SECURITY.md,
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/fleet-telemetry,https://github.com/teslamotors/fleet-telemetry,900,Go,SECURITY.md,
-特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/vehicle-command,https://github.com/teslamotors/vehicle-command,720,Go,SECURITY.md,
+特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/vehicle-command,https://github.com/teslamotors/vehicle-command,721,Go,SECURITY.md,
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/liblithium,https://github.com/teslamotors/liblithium,330,C,SECURITY.md,A lightweight and portable cryptography library
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/zephyr,https://github.com/teslamotors/zephyr,19,C,.github/SECURITY.md,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures."
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/kubernetes,https://github.com/teslamotors/kubernetes,1,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
@@ -7482,14 +7482,14 @@ Discord,自建（Discord Bug Bounty）,discord,discord/terraform-google-gcr-clea
 Discord,自建（Discord Bug Bounty）,discord,discord/dd-otel-host-profiler,https://github.com/discord/dd-otel-host-profiler,,Go,SECURITY.md,The opentelemetry profiler by Datadog
 Discord,自建（Discord Bug Bounty）,discord,discord/ExoPlayer,https://github.com/discord/ExoPlayer,,Java,SECURITY.md,An extensible media player for Android
 Discord,自建（Discord Bug Bounty）,discord,discord/distroless,https://github.com/discord/distroless,0,Starlark,SECURITY.md,"🥑  Language focused docker images, minus the operating system.  "
-Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi,https://github.com/Snapchat/Valdi,16384,C++,SECURITY.md,Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi,https://github.com/Snapchat/Valdi,16383,C++,SECURITY.md,Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 Snap,HackerOne（Snap）,snapchat,Snapchat/GiGL,https://github.com/Snapchat/GiGL,86,Python,SECURITY.md,Gigantic Graph Learning (GiGL) Framework: Large-scale training and inference for Graph Neural Networks
 Snap,HackerOne（Snap）,snapchat,Snapchat/SnapRHI,https://github.com/Snapchat/SnapRHI,48,C++,SECURITY.md,"A lightweight, modern Render Hardware Interface (RHI) abstraction layer for C++ SnapRHI provides a clean, unified API that abstracts away the complexity of mode…"
 Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi_Widgets,https://github.com/Snapchat/Valdi_Widgets,45,TypeScript,SECURITY.md,
 Snap,HackerOne（Snap）,snapchat,Snapchat/react-camera-kit,https://github.com/Snapchat/react-camera-kit,25,TypeScript,SECURITY.md,"Official React bindings for Snap Camera Kit — create interactive, lens-powered AR experiences on the web."
 Snap,HackerOne（Snap）,snapchat,Snapchat/KeyDB-docs,https://github.com/Snapchat/KeyDB-docs,21,JavaScript,docs/security.md,KeyDB's official documentation repo
 Snap,HackerOne（Snap）,snapchat,Snapchat/pyOCD,https://github.com/Snapchat/pyOCD,1,Python,docs/security.md,Open source Python library for programming and debugging Arm Cortex-M microcontrollers
-Pinterest,HackerOne（Pinterest）,pinterest,pinterest/querybook,https://github.com/pinterest/querybook,2300,TypeScript,SECURITY.md,"Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface."
+Pinterest,HackerOne（Pinterest）,pinterest,pinterest/querybook,https://github.com/pinterest/querybook,2301,TypeScript,SECURITY.md,"Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/psc,https://github.com/pinterest/psc,122,Java,SECURITY.md,PubSubClient (PSC) 
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/orion,https://github.com/pinterest/orion,113,Java,SECURITY.md,Management and automation platform for Stateful Distributed Systems
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/api-description,https://github.com/pinterest/api-description,29,,SECURITY.md,OpenAPI descriptions for Pinterest's REST API
@@ -8166,15 +8166,15 @@ MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-cli,https://github.com/
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/atlas-cli-plugin-kubernetes,https://github.com/mongodb/atlas-cli-plugin-kubernetes,6,Go,SECURITY.md,Kubernetes plugin for the AtlasCLI
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/tines-claude,https://github.com/mongodb/tines-claude,2,Python,SECURITY.md,A Claude Skill and MCP server for Tines
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-atlas-cli-2,https://github.com/mongodb/mongodb-atlas-cli-2,2,Go,SECURITY.md,MongoDB Atlas CLI and MongoDB CLI enable you to manage your MongoDB in the Cloud
-Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77170,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
+Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77172,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
 Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22285,Go,SECURITY.md,Redis Go client
 Redis,自建PSIRT（Redis）,redis,redis/node-redis,https://github.com/redis/node-redis,17594,TypeScript,SECURITY.md,Redis Node.js client
-Redis,自建PSIRT（Redis）,redis,redis/ioredis,https://github.com/redis/ioredis,15354,TypeScript,SECURITY.md,"🚀 A robust, performance-focused, and full-featured Redis client for Node.js."
-Redis,自建PSIRT（Redis）,redis,redis/jedis,https://github.com/redis/jedis,12373,Java,SECURITY.md,Redis Java client
+Redis,自建PSIRT（Redis）,redis,redis/ioredis,https://github.com/redis/ioredis,15355,TypeScript,SECURITY.md,"🚀 A robust, performance-focused, and full-featured Redis client for Node.js."
+Redis,自建PSIRT（Redis）,redis,redis/jedis,https://github.com/redis/jedis,12372,Java,SECURITY.md,Redis Java client
 Redis,自建PSIRT（Redis）,redis,redis/hiredis,https://github.com/redis/hiredis,6689,C,SECURITY.md,Minimalistic C client for Redis >= 1.2
 Redis,自建PSIRT（Redis）,redis,redis/lettuce,https://github.com/redis/lettuce,5786,Java,.github/SECURITY.md,Redis Java client
 Redis,自建PSIRT（Redis）,redis,redis/hiredis-py,https://github.com/redis/hiredis-py,523,C,SECURITY.md,Python wrapper for hiredis
-Redis,自建PSIRT（Redis）,redis,redis/fastapi-redis-sdk,https://github.com/redis/fastapi-redis-sdk,410,Python,SECURITY.md,FastAPI SDK for Redis
+Redis,自建PSIRT（Redis）,redis,redis/fastapi-redis-sdk,https://github.com/redis/fastapi-redis-sdk,411,Python,SECURITY.md,FastAPI SDK for Redis
 Redis,自建PSIRT（Redis）,redis,redis/NRedisStack,https://github.com/redis/NRedisStack,332,C#,SECURITY.md,Redis Stack .Net client
 Redis,自建PSIRT（Redis）,redis,redis/redis-debian,https://github.com/redis/redis-debian,46,Shell,SECURITY.md,Debian packaging
 Redis,自建PSIRT（Redis）,redis,redis/redisctl,https://github.com/redis/redisctl,18,Rust,SECURITY.md,Unified CLI for Redis Cloud and Enterprise management
@@ -8476,7 +8476,7 @@ Datadog,HackerOne（Datadog）,DataDog,DataDog/got,https://github.com/DataDog/go
 Datadog,HackerOne（Datadog）,DataDog,DataDog/winget-pkgs,https://github.com/DataDog/winget-pkgs,,PowerShell,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
 Datadog,HackerOne（Datadog）,DataDog,DataDog/go-amqp,https://github.com/DataDog/go-amqp,,Go,SECURITY.md,AMQP 1.0 client library for Go.
 Datadog,HackerOne（Datadog）,DataDog,DataDog/redis-cluster-kubernetes-operator,https://github.com/DataDog/redis-cluster-kubernetes-operator,0,Go,SECURITY.md,A Kubernetes operator for deploying and managing Redis clusters. - Repository managed by GRM
-Splunk,自建（Splunk Security）,splunk,splunk/security_content,https://github.com/splunk/security_content,1726,Python,SECURITY.md,Splunk Security Content
+Splunk,自建（Splunk Security）,splunk,splunk/security_content,https://github.com/splunk/security_content,1727,Python,SECURITY.md,Splunk Security Content
 Splunk,自建（Splunk Security）,splunk,splunk/docker-splunk,https://github.com/splunk/docker-splunk,555,Python,docs/SECURITY.md,Splunk Docker GitHub Repository
 Splunk,自建（Splunk Security）,splunk,splunk/splunk-connect-for-syslog,https://github.com/splunk/splunk-connect-for-syslog,184,Python,SECURITY.md,Splunk Connect for Syslog
 Splunk,自建（Splunk Security）,splunk,splunk/kafka-connect-splunk,https://github.com/splunk/kafka-connect-splunk,100,Java,docs/security.md,Kafka connector for Splunk
@@ -9857,7 +9857,7 @@ Dropbox,自建BB,dropbox,dropbox/incubator-superset-internal,https://github.com/
 Dropbox,自建BB,dropbox,dropbox/agent-filesystem-samples,https://github.com/dropbox/agent-filesystem-samples,1,TypeScript,SECURITY.md,Sample apps and services for DBX Agent Filesystem
 Dropbox,自建BB,dropbox,dropbox/amundsen,https://github.com/dropbox/amundsen,1,HTML,SECURITY.md,"Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data."
 Dropbox,自建BB,dropbox,dropbox/libseccomp,https://github.com/dropbox/libseccomp,1,C,SECURITY.md,The main libseccomp repository
-Stripe,自建BB,stripe,stripe/ai,https://github.com/stripe/ai,2035,TypeScript,SECURITY.md,One-stop shop for building AI-powered products and businesses with Stripe.
+Stripe,自建BB,stripe,stripe/ai,https://github.com/stripe/ai,2038,TypeScript,SECURITY.md,One-stop shop for building AI-powered products and businesses with Stripe.
 Stripe,自建BB,stripe,stripe/stripe-apps,https://github.com/stripe/stripe-apps,178,TypeScript,SECURITY.md,Stripe Apps lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API.
 Stripe,自建BB,stripe,stripe/ft3,https://github.com/stripe/ft3,118,,SECURITY.md,"FT3: Fraud Tools, Tactics, and Techniques Framework"
 Stripe,自建BB,stripe,stripe/stripe-postman,https://github.com/stripe/stripe-postman,90,,SECURITY.md,Postman collection for Stripe's API
@@ -10045,7 +10045,7 @@ Comcast,自建BB,comcast,Comcast/.github,https://github.com/Comcast/.github,1,,S
 Comcast,自建BB,comcast,Comcast/OpenPlate,https://github.com/Comcast/OpenPlate,,Python,SECURITY.md,A tool for building and managing reusable project templates and standardized developer workflows.
 Deutsche Telekom,自建BB,telekom,telekom/testerra,https://github.com/telekom/testerra,38,Java,SECURITY.md,Testerra is an integrated framework for automating tests for (web) applications. 
 Deutsche Telekom,自建BB,telekom,telekom/k8s-breakglass,https://github.com/telekom/k8s-breakglass,34,Go,SECURITY.md,Temporary privilege elevation for Kubernetes.
-Deutsche Telekom,自建BB,telekom,telekom/sutura,https://github.com/telekom/sutura,15,Rust,SECURITY.md,sutura is a secure multiplayer chatting with data experience which is pluggable for data and semantics
+Deutsche Telekom,自建BB,telekom,telekom/sutura,https://github.com/telekom/sutura,16,Rust,SECURITY.md,sutura is a secure multiplayer chatting with data experience which is pluggable for data and semantics
 Deutsche Telekom,自建BB,telekom,telekom/sysrepo-plugin-interfaces,https://github.com/telekom/sysrepo-plugin-interfaces,11,C,SECURITY.md,
 Deutsche Telekom,自建BB,telekom,telekom/sysrepo-plugins,https://github.com/telekom/sysrepo-plugins,8,C++,SECURITY.md,
 Deutsche Telekom,自建BB,telekom,telekom/sysrepo-plugin-system,https://github.com/telekom/sysrepo-plugin-system,7,C,SECURITY.md,

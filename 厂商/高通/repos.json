@@ -5,7 +5,7 @@
   "full_name": "qualcomm/GenieX",
   "url": "https://github.com/qualcomm/GenieX",
   "sec_path": "SECURITY.md",
-  "stars": 8490,
+  "stars": 8492,
   "language": "Go",
   "description": "Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code",
   "license": null,
@@ -710,6 +710,18 @@
  {
   "vendor": "高通",
   "org": "qualcomm",
+  "full_name": "qualcomm/qemu-profiler",
+  "url": "https://github.com/qualcomm/qemu-profiler",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Rust",
+  "description": "QEMU TCG plugin for profiling",
+  "license": null,
+  "first_seen": "2026-11-01 23:27:54"
+ },
+ {
+  "vendor": "高通",
+  "org": "qualcomm",
   "full_name": "qualcomm/qualcomm-ui-utils",
   "url": "https://github.com/qualcomm/qualcomm-ui-utils",
   "sec_path": "SECURITY.md",
@@ -908,18 +920,6 @@
   "stars": 0,
   "language": "TypeScript",
   "description": "Qualcomm UI Template Applications",
-  "license": null,
-  "first_seen": "2026-11-01 23:27:54"
- },
- {
-  "vendor": "高通",
-  "org": "qualcomm",
-  "full_name": "qualcomm/qemu-profiler",
-  "url": "https://github.com/qualcomm/qemu-profiler",
-  "sec_path": "SECURITY.md",
-  "stars": 0,
-  "language": "Rust",
-  "description": "QEMU TCG plugin for profiling",
   "license": null,
   "first_seen": "2026-11-01 23:27:54"
  },
