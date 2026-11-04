@@ -293,8 +293,8 @@ CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45418,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38488,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32223,Go,SECURITY.md,Run Kubernetes locally
-CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29177,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
-CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25768,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
+CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29179,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
+CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25772,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24535,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23102,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19437,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
@@ -313,7 +313,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kube-state-met
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6044,Go,SECURITY.md,Prometheus instrumentation library for Go applications
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5930,Go,SECURITY.md,Blackbox prober exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/website,https://github.com/kubernetes/website,5418,HTML,SECURITY.md,Kubernetes website and documentation repo: 
-CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5150,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
+CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5153,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-node,https://github.com/grpc/grpc-node,4842,TypeScript,SECURITY.md,gRPC for Node.js
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dotnet,https://github.com/grpc/grpc-dotnet,4488,C#,SECURITY.md,gRPC for .NET
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_python,https://github.com/prometheus/client_python,4384,Python,SECURITY.md,Prometheus instrumentation library for Python applications
@@ -382,7 +382,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes-tem
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-wasm,https://github.com/envoyproxy/envoy-wasm,207,C++,SECURITY.md,*ATTENTION!: The content of this repo is merged into https://github.com/envoyproxy/envoy and future development is happening there.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/memcached_exporter,https://github.com/prometheus/memcached_exporter,207,Go,SECURITY.md,Exports metrics from memcached servers for consumption by Prometheus.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/committee-security-response,https://github.com/kubernetes/committee-security-response,181,Shell,SECURITY.md,Kubernetes Security Process and Security Committee docs
-CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd-operator,https://github.com/etcd-io/etcd-operator,169,Go,SECURITY.md,The official Kubernetes operator for etcd.
+CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd-operator,https://github.com/etcd-io/etcd-operator,170,Go,SECURITY.md,The official Kubernetes operator for etcd.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/test-infra,https://github.com/prometheus/test-infra,166,Go,SECURITY.md,Prometheus E2E benchmarking tool
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/compliance,https://github.com/prometheus/compliance,159,Go,SECURITY.md,A set of tests to check compliance with various Prometheus interfaces
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-swift-2,https://github.com/grpc/grpc-swift-2,153,Swift,SECURITY.md,
@@ -806,7 +806,7 @@ UCloud,无,ucloud,ucloud/spark,https://github.com/ucloud/spark,0,Scala,docs/secu
 网易,网易SRC,netease,NetEase/spark,https://github.com/NetEase/spark,6,Scala,docs/security.md,Apache Spark - A unified analytics engine for large-scale data processing
 网易,网易SRC,netease,NetEase/gluten,https://github.com/NetEase/gluten,2,Scala,SECURITY.md,
 滴滴,DSRC,didi,didi/mpx,https://github.com/didi/mpx,3951,JavaScript,SECURITY.md,Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
-滴滴,DSRC,didi,didi/helixharness,https://github.com/didi/helixharness,299,Python,SECURITY.md,HelixHarness 提供完整的 AI Coding 工程化基础能力，还支持不同企业和团队结合自身的业务知识、工程规范和研发流程，持续构建和演进属于自己的专属 Harness
+滴滴,DSRC,didi,didi/helixharness,https://github.com/didi/helixharness,303,Python,SECURITY.md,HelixHarness 提供完整的 AI Coding 工程化基础能力，还支持不同企业和团队结合自身的业务知识、工程规范和研发流程，持续构建和演进属于自己的专属 Harness
 携程,携程SRC,ctripcorp,ctripcorp/Garfield,https://github.com/ctripcorp/Garfield,7,Java,SECURITY.md,"Multi-storage orchestration framework — configuration-driven leader/follower writes across multiple storage media, adaptable to any storage technology via SPI, …"
 同程旅行,无,TongchengOpenSource,TongchengOpenSource/volcano,https://github.com/TongchengOpenSource/volcano,,Go,SECURITY.md,A Cloud Native Batch System (Project under CNCF)
 同程旅行,无,TongchengOpenSource,TongchengOpenSource/celeborn-website,https://github.com/TongchengOpenSource/celeborn-website,,Shell,docs/security.md,Apache Celeborn Site
@@ -862,21 +862,21 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/qlib,https://github.com/microsoft/qlib,49982,Python,SECURITY.md,"Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supp…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/monaco-editor,https://github.com/microsoft/monaco-editor,46949,JavaScript,SECURITY.md,A browser based code editor
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/playwright-mcp,https://github.com/microsoft/playwright-mcp,39149,TypeScript,SECURITY.md,Playwright MCP server
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/aspnetcore,https://github.com/dotnet/aspnetcore,38499,C#,SECURITY.md,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/aspnetcore,https://github.com/dotnet/aspnetcore,38501,C#,SECURITY.md,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/graphrag,https://github.com/microsoft/graphrag,36550,Python,SECURITY.md,A modular graph-based Retrieval-Augmented Generation (RAG) system
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/WSL,https://github.com/microsoft/WSL,34296,C++,SECURITY.md,Windows Subsystem for Linux
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/semantic-kernel,https://github.com/microsoft/semantic-kernel,28731,C#,SECURITY.md,Integrate cutting-edge LLM technology quickly and easily into your apps
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vcpkg,https://github.com/microsoft/vcpkg,27569,CMake,SECURITY.md,"C++ Library Manager for Windows, Linux, and MacOS"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/winget-cli,https://github.com/microsoft/winget-cli,26560,C++,SECURITY.md,"WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Applica…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/api-guidelines,https://github.com/microsoft/api-guidelines,23343,,SECURITY.md,Microsoft REST API Guidelines
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/maui,https://github.com/dotnet/maui,23327,C#,.github/SECURITY.md,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/maui,https://github.com/dotnet/maui,23325,C#,.github/SECURITY.md,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/onnxruntime,https://github.com/microsoft/onnxruntime,22218,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/core,https://github.com/dotnet/core,22066,PowerShell,SECURITY.md,".NET news, announcements, release notes, and more!"
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/roslyn,https://github.com/dotnet/roslyn,20760,C#,SECURITY.md,The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/roslyn,https://github.com/dotnet/roslyn,20762,C#,SECURITY.md,The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/fluentui,https://github.com/microsoft/fluentui,20388,TypeScript,SECURITY.md,"Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/agent-lightning,https://github.com/microsoft/agent-lightning,18893,Python,SECURITY.md,The absolute trainer to light up AI agents.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/SkillOpt,https://github.com/microsoft/SkillOpt,18876,Python,SECURITY.md,"SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates,…"
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/runtime,https://github.com/dotnet/runtime,18405,C#,SECURITY.md,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/runtime,https://github.com/dotnet/runtime,18404,C#,SECURITY.md,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/data-formulator,https://github.com/microsoft/data-formulator,17657,Python,SECURITY.md,"🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/mcp-for-beginners,https://github.com/microsoft/mcp-for-beginners,17596,Jupyter Notebook,SECURITY.md,"This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, J…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/react-native-windows,https://github.com/microsoft/react-native-windows,17371,C++,.github/security.md,A framework for building native Windows apps with React.
@@ -885,7 +885,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/RustTraining,https://github.com/microsoft/RustTraining,14993,Rust,SECURITY.md,"Beginner, advanced, expert level Rust training material"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/playwright-cli,https://github.com/microsoft/playwright-cli,14939,TypeScript,SECURITY.md,"CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates,14901,Bicep,SECURITY.md,Azure Quickstart Templates
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/efcore,https://github.com/dotnet/efcore,14817,C#,.github/SECURITY.md,"EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/efcore,https://github.com/dotnet/efcore,14815,C#,.github/SECURITY.md,"EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/edit,https://github.com/microsoft/edit,14750,Rust,SECURITY.md,We all edit.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/agent-framework,https://github.com/microsoft/agent-framework,14527,Python,SECURITY.md,"A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/TRELLIS,https://github.com/microsoft/TRELLIS,14167,Python,SECURITY.md,"Official repo for paper ""Structured 3D Latents for Scalable and Versatile 3D Generation"" (CVPR'25 Spotlight)."
@@ -902,8 +902,8 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/WSL2-Linux-Kernel,https://github.com/microsoft/WSL2-Linux-Kernel,10598,C,SECURITY.md,The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/UFO,https://github.com/microsoft/UFO,10170,Python,SECURITY.md,UFO³: Weaving the Digital Agent Galaxy
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/fast,https://github.com/microsoft/fast,9688,TypeScript,SECURITY.md,The adaptive interface system for modern web experiences.
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/yarp,https://github.com/dotnet/yarp,9649,C#,SECURITY.md,A toolkit for developing high-performance HTTP reverse proxy applications.
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/machinelearning,https://github.com/dotnet/machinelearning,9360,C#,SECURITY.md,ML.NET is an open source and cross-platform machine learning framework for .NET.
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/yarp,https://github.com/dotnet/yarp,9650,C#,SECURITY.md,A toolkit for developing high-performance HTTP reverse proxy applications.
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/machinelearning,https://github.com/dotnet/machinelearning,9359,C#,SECURITY.md,ML.NET is an open source and cross-platform machine learning framework for .NET.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/blazor,https://github.com/dotnet/blazor,9248,PowerShell,SECURITY.md,Blazor moved to https://github.com/dotnet/aspnetcore
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/TypeChat,https://github.com/microsoft/TypeChat,8692,JavaScript,SECURITY.md,TypeChat is a library that makes it easy to build natural language interfaces using types.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/microsoft-ui-xaml,https://github.com/microsoft/microsoft-ui-xaml,8578,C++,SECURITY.md,WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
@@ -922,7 +922,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/CUAWright,https://github.com/microsoft/CUAWright,6079,Python,SECURITY.md,A simple SWE-style browser+desktop agent framework that achieves SOTA results on long-horizon CUA tasks
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-sdk-for-net,https://github.com/Azure/azure-sdk-for-net,6076,C#,SECURITY.md,This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.m…
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/typespec,https://github.com/microsoft/typespec,5924,Java,SECURITY.md,
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/skills,https://github.com/dotnet/skills,5813,C#,SECURITY.md,Repository for skills to assist AI coding agents with .NET and C#
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/skills,https://github.com/dotnet/skills,5818,C#,SECURITY.md,Repository for skills to assist AI coding agents with .NET and C#
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/WPF-Samples,https://github.com/microsoft/WPF-Samples,5746,C#,SECURITY.md,Repository for WPF related samples
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/skill-recorder,https://github.com/microsoft/skill-recorder,5676,TypeScript,SECURITY.md,"Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skil…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-sdk-for-python,https://github.com/Azure/azure-sdk-for-python,5623,Python,SECURITY.md,This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn…
@@ -6821,7 +6821,7 @@ SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/ui5-flexibility-uti
 思科,HackerOne（Cisco）,cisco,cisco/openh264,https://github.com/cisco/openh264,6167,C++,SECURITY.md,Open Source H.264 Codec 
 思科,HackerOne（Cisco）,cisco-open,cisco-open/network-sketcher,https://github.com/cisco-open/network-sketcher,417,Python,SECURITY.md,"Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offline editions for creating network designs and exporting PowerPoint diagrams …"
 思科,HackerOne（Cisco）,cisco-open,cisco-open/forge,https://github.com/cisco-open/forge,213,HCL,SECURITY.md,ForgeMT is a multi-tenant platform for self-hosted GitHub Actions runners on AWS. It gives platform teams an IaC-driven way to operate ephemeral EC2 runners and…
-思科,HackerOne（Cisco）,cisco-open,cisco-open/pase,https://github.com/cisco-open/pase,105,Python,SECURITY.md,PASE: Phonologically Anchored Speech Enhancer 
+思科,HackerOne（Cisco）,cisco-open,cisco-open/pase,https://github.com/cisco-open/pase,106,Python,SECURITY.md,PASE: Phonologically Anchored Speech Enhancer 
 思科,HackerOne（Cisco）,cisco-open,cisco-open/otelify.sh,https://github.com/cisco-open/otelify.sh,98,Shell,SECURITY.md,Zero-code instrumentation for every application 
 思科,HackerOne（Cisco）,cisco-open,cisco-open/sdwan-lab-deployment-tool,https://github.com/cisco-open/sdwan-lab-deployment-tool,78,Python,SECURITY.md,This tool automates Cisco Catalyst SD-WAN lab deployment inside Cisco Modeling Labs (CML).
 思科,HackerOne（Cisco）,cisco-open,cisco-open/ai-deep-sast,https://github.com/cisco-open/ai-deep-sast,64,Python,SECURITY.md,"AI Deep SAST - LLM-powered deep static analysis for CI/CD. Combines Semgrep, tree-sitter code indexing and frontier LLMs (e.g. GPT-4o, Claude) for fast and deep…"
@@ -7766,10 +7766,10 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/evals-action,http
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/evals,https://github.com/github/evals,0,,SECURITY.md,"Explore, evaluate, and improve GitHub Copilot customizations with repeatable evals and saved results."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/plugin-marketplace-starter,https://github.com/github/plugin-marketplace-starter,0,JavaScript,SECURITY.md,"A starter for building a GitHub Copilot plugin marketplace with skills, agents, MCP tools, and evals."
 Docker,HackerOne（Docker）,moby,moby/moby,https://github.com/moby/moby,72237,Go,SECURITY.md,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-Docker,HackerOne（Docker）,docker,docker/compose,https://github.com/docker/compose,38595,Go,.github/SECURITY.md,Define and run multi-container applications with Docker
+Docker,HackerOne（Docker）,docker,docker/compose,https://github.com/docker/compose,38597,Go,.github/SECURITY.md,Define and run multi-container applications with Docker
 Docker,HackerOne（Docker）,moby,moby/buildkit,https://github.com/moby/buildkit,10358,Go,.github/SECURITY.md,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
 Docker,HackerOne（Docker）,docker,docker/cli,https://github.com/docker/cli,6120,Go,SECURITY.md,The Docker CLI
-Docker,HackerOne（Docker）,docker,docker/build-push-action,https://github.com/docker/build-push-action,5428,TypeScript,.github/SECURITY.md,GitHub Action to build and push Docker images with Buildx
+Docker,HackerOne（Docker）,docker,docker/build-push-action,https://github.com/docker/build-push-action,5429,TypeScript,.github/SECURITY.md,GitHub Action to build and push Docker images with Buildx
 Docker,HackerOne（Docker）,docker,docker/docker-agent,https://github.com/docker/docker-agent,4651,Go,SECURITY.md,AI Agent Builder and Runtime by Docker Engineering
 Docker,HackerOne（Docker）,docker,docker/buildx,https://github.com/docker/buildx,4538,Go,.github/SECURITY.md,Docker CLI plugin for extended build capabilities with BuildKit
 Docker,HackerOne（Docker）,docker,docker/for-mac,https://github.com/docker/for-mac,2527,,security.md,Bug reports for Docker Desktop for Mac
@@ -7782,7 +7782,7 @@ Docker,HackerOne（Docker）,docker,docker/metadata-action,https://github.com/do
 Docker,HackerOne（Docker）,docker,docker/skills,https://github.com/docker/skills,613,Python,SECURITY.md,"A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows."
 Docker,HackerOne（Docker）,docker,docker/setup-qemu-action,https://github.com/docker/setup-qemu-action,599,TypeScript,.github/SECURITY.md,GitHub Action to install QEMU static binaries
 Docker,HackerOne（Docker）,docker,docker/mcp-registry,https://github.com/docker/mcp-registry,579,Go,.github/SECURITY.md,Official Docker MCP registry 
-Docker,HackerOne（Docker）,docker,docker/sbx-releases,https://github.com/docker/sbx-releases,490,,SECURITY.md,Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
+Docker,HackerOne（Docker）,docker,docker/sbx-releases,https://github.com/docker/sbx-releases,491,,SECURITY.md,Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
 Docker,HackerOne（Docker）,docker,docker/bake-action,https://github.com/docker/bake-action,304,TypeScript,.github/SECURITY.md,GitHub Action to use Docker Buildx Bake as a high-level build command
 Docker,HackerOne（Docker）,docker,docker/hub-feedback,https://github.com/docker/hub-feedback,249,,SECURITY.md,Feedback and bug reports for the Docker Hub
 Docker,HackerOne（Docker）,docker,docker/sbx-kits-contrib,https://github.com/docker/sbx-kits-contrib,199,Go,SECURITY.md,Community repository for sbx kits
@@ -7977,7 +7977,7 @@ Elastic,自建（Elastic Security）,elastic,elastic/kibana,https://github.com/e
 Elastic,自建（Elastic Security）,elastic,elastic/elasticsearch-js,https://github.com/elastic/elasticsearch-js,5290,TypeScript,SECURITY.md,Official Elasticsearch client library for Node.js
 Elastic,自建（Elastic Security）,elastic,elastic/elasticsearch-dsl-py,https://github.com/elastic/elasticsearch-dsl-py,3868,Python,error,High level Python client for Elasticsearch
 Elastic,自建（Elastic Security）,elastic,elastic/elasticsearch-rails,https://github.com/elastic/elasticsearch-rails,3082,Ruby,error,Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-Elastic,自建（Elastic Security）,elastic,elastic/supply-chain-monitor,https://github.com/elastic/supply-chain-monitor,534,Python,SECURITY.md,
+Elastic,自建（Elastic Security）,elastic,elastic/supply-chain-monitor,https://github.com/elastic/supply-chain-monitor,533,Python,SECURITY.md,
 Elastic,自建（Elastic Security）,elastic,elastic/apm-agent-php,https://github.com/elastic/apm-agent-php,269,PHP,SECURITY.md,
 Elastic,自建（Elastic Security）,elastic,elastic/anonymize-it,https://github.com/elastic/anonymize-it,127,Python,error,a general utility for anonymizing data
 Elastic,自建（Elastic Security）,elastic,elastic/gemini-cli-elasticsearch,https://github.com/elastic/gemini-cli-elasticsearch,117,JavaScript,error,Official Elasticsearch extension for Gemini CLI
@@ -8186,19 +8186,19 @@ Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/statsd_exporter,https://github.
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/node_exporter,https://github.com/RedisLabs/node_exporter,,Go,SECURITY.md,Exporter for machine metrics
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/exporter-toolkit,https://github.com/RedisLabs/exporter-toolkit,,Go,SECURITY.md,Utility package to build exporters
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/discourse,https://github.com/RedisLabs/discourse,,JavaScript,docs/SECURITY.md,"A platform for community discussion. Free, open, simple."
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/computer,https://github.com/cloudflare/computer,9794,TypeScript,.github/SECURITY.md,Give your agent a computer 👾
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/vinext,https://github.com/cloudflare/vinext,9299,TypeScript,SECURITY.md,Vite plugin that reimplements the Next.js API surface — deploy anywhere
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workerd,https://github.com/cloudflare/workerd,9129,C++,SECURITY.md,The JavaScript / Wasm runtime that powers Cloudflare Workers
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workers-sdk,https://github.com/cloudflare/workers-sdk,4703,TypeScript,SECURITY.md,"⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/computer,https://github.com/cloudflare/computer,9801,TypeScript,.github/SECURITY.md,Give your agent a computer 👾
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/vinext,https://github.com/cloudflare/vinext,9300,TypeScript,SECURITY.md,Vite plugin that reimplements the Next.js API surface — deploy anywhere
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workerd,https://github.com/cloudflare/workerd,9130,C++,SECURITY.md,The JavaScript / Wasm runtime that powers Cloudflare Workers
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workers-sdk,https://github.com/cloudflare/workers-sdk,4704,TypeScript,SECURITY.md,"⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/capnweb,https://github.com/cloudflare/capnweb,4030,TypeScript,SECURITY.md,"JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system"
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/wrangler-legacy,https://github.com/cloudflare/wrangler-legacy,3188,Rust,SECURITY.md,🤠  Home to Wrangler v1 (deprecated)
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/wildebeest,https://github.com/cloudflare/wildebeest,2116,TypeScript,SECURITY.md,Wildebeest is an ActivityPub and Mastodon-compatible server
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-go,https://github.com/cloudflare/cloudflare-go,2111,Go,SECURITY.md,The official Go library for the Cloudflare API
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workers-oauth-provider,https://github.com/cloudflare/workers-oauth-provider,1891,TypeScript,SECURITY.md,OAuth provider library for Cloudflare Workers
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/nimbus,https://github.com/cloudflare/nimbus,1715,TypeScript,SECURITY.md,"Docs for humans and agents, built on Astro"
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/nimbus,https://github.com/cloudflare/nimbus,1727,TypeScript,SECURITY.md,"Docs for humans and agents, built on Astro"
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/terraform-provider-cloudflare,https://github.com/cloudflare/terraform-provider-cloudflare,1353,Go,SECURITY.md,Cloudflare Terraform Provider
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cf-ui,https://github.com/cloudflare/cf-ui,1289,JavaScript,error,:gem: Cloudflare UI Framework
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cf,https://github.com/cloudflare/cf,993,TypeScript,.github/SECURITY.md,The agentic CLI for the entire Cloudflare API
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cf,https://github.com/cloudflare/cf,994,TypeScript,.github/SECURITY.md,The agentic CLI for the entire Cloudflare API
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-typescript,https://github.com/cloudflare/cloudflare-typescript,830,TypeScript,SECURITY.md,The official TypeScript library for the Cloudflare API
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-python,https://github.com/cloudflare/cloudflare-python,516,Python,SECURITY.md,The official Python library for the Cloudflare API
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/go,https://github.com/cloudflare/go,370,Go,SECURITY.md,Go with Cloudflare experimental patches
@@ -9723,11 +9723,11 @@ Zscaler,Bugcrowd,zscaler,zscaler/Guardrails,https://github.com/zscaler/Guardrail
 Zscaler,Bugcrowd,zscaler,zscaler/mcp-registry,https://github.com/zscaler/mcp-registry,0,Go,.github/SECURITY.md,Official Docker MCP registry 
 Zscaler,Bugcrowd,zscaler,zscaler/gateway,https://github.com/zscaler/gateway,0,TypeScript,.github/SECURITY.md,"A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API."
 Zscaler,Bugcrowd,zscaler,zscaler/awesome-copilot,https://github.com/zscaler/awesome-copilot,0,JavaScript,SECURITY.md,"Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot."
-CyberArk,Bugcrowd,cyberark,cyberark/summon,https://github.com/cyberark/summon,762,Go,SECURITY.md,CLI that provides on-demand secrets access for common DevOps tools
+CyberArk,Bugcrowd,cyberark,cyberark/summon,https://github.com/cyberark/summon,763,Go,SECURITY.md,CLI that provides on-demand secrets access for common DevOps tools
 CyberArk,Bugcrowd,cyberark,cyberark/bash-lib,https://github.com/cyberark/bash-lib,672,Shell,SECURITY.md,Library for bash utility methods and tools
 CyberArk,Bugcrowd,cyberark,cyberark/secretless-broker,https://github.com/cyberark/secretless-broker,396,Go,SECURITY.md,Secure your apps by making them Secretless
 CyberArk,Bugcrowd,cyberark,cyberark/Vulnhalla,https://github.com/cyberark/Vulnhalla,207,Python,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/agent-guard,https://github.com/cyberark/agent-guard,100,Python,SECURITY.md,A toolset repository for AI agents
+CyberArk,Bugcrowd,cyberark,cyberark/agent-guard,https://github.com/cyberark/agent-guard,101,Python,SECURITY.md,A toolset repository for AI agents
 CyberArk,Bugcrowd,cyberark,cyberark/simple-llm-eval,https://github.com/cyberark/simple-llm-eval,68,Python,SECURITY.md,Simple LLM Evaluation Using LLM As a Judge 👩‍⚖️
 CyberArk,Bugcrowd,cyberark,cyberark/ByteCodeLLM,https://github.com/cyberark/ByteCodeLLM,63,Python,Security.md,
 CyberArk,Bugcrowd,cyberark,cyberark/summon-aws-secrets,https://github.com/cyberark/summon-aws-secrets,49,Smarty,SECURITY.md,Summon provider for AWS Secrets Manager
@@ -9739,8 +9739,8 @@ CyberArk,Bugcrowd,cyberark,cyberark/sidecar-injector,https://github.com/cyberark
 CyberArk,Bugcrowd,cyberark,cyberark/ark-sdk-golang,https://github.com/cyberark/ark-sdk-golang,31,Go,SECURITY.md,CyberArk's Official SDK and CLI - https://cyberark.github.io/ark-sdk-golang/
 CyberArk,Bugcrowd,cyberark,cyberark/secrets-provider-for-k8s,https://github.com/cyberark/secrets-provider-for-k8s,31,Go,SECURITY.md,Cyberark secrets provider for k8s
 CyberArk,Bugcrowd,cyberark,cyberark/QuicDrawH3,https://github.com/cyberark/QuicDrawH3,26,Python,SECURITY.md,QuicDraw(H3) is A security research tool designed for fuzzing and racing HTTP/3 servers. QuicDraw implements the `Quic-Fin-Sync` on HTTP/3 (over QUIC) for race-…
+CyberArk,Bugcrowd,cyberark,cyberark/ark-sdk-python,https://github.com/cyberark/ark-sdk-python,24,Python,SECURITY.md,CyberArk's Official SDK and CLI - https://cyberark.github.io/ark-sdk-python/
 CyberArk,Bugcrowd,cyberark,cyberark/terraform-provider-conjur,https://github.com/cyberark/terraform-provider-conjur,24,Go,SECURITY.md,Terraform provider for CyberArk Secrets Manager
-CyberArk,Bugcrowd,cyberark,cyberark/ark-sdk-python,https://github.com/cyberark/ark-sdk-python,23,Python,SECURITY.md,CyberArk's Official SDK and CLI - https://cyberark.github.io/ark-sdk-python/
 CyberArk,Bugcrowd,cyberark,cyberark/conjur-api-java,https://github.com/cyberark/conjur-api-java,22,Java,SECURITY.md,Java client for the CyberArk Secrets Manager API
 CyberArk,Bugcrowd,cyberark,cyberark/conjur-api-go,https://github.com/cyberark/conjur-api-go,21,Go,SECURITY.md,Go client for the CyberArk Secrets Manager API
 CyberArk,Bugcrowd,cyberark,cyberark/summon-keyring,https://github.com/cyberark/summon-keyring,19,Python,SECURITY.md,Cross-platform provider for Summon that talks to keyrings.

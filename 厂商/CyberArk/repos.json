@@ -5,7 +5,7 @@
   "full_name": "cyberark/summon",
   "url": "https://github.com/cyberark/summon",
   "sec_path": "SECURITY.md",
-  "stars": 762,
+  "stars": 763,
   "language": "Go",
   "description": "CLI that provides on-demand secrets access for common DevOps tools",
   "first_seen": "2026-11-01 18:56:00"
@@ -49,7 +49,7 @@
   "full_name": "cyberark/agent-guard",
   "url": "https://github.com/cyberark/agent-guard",
   "sec_path": "SECURITY.md",
-  "stars": 100,
+  "stars": 101,
   "language": "Python",
   "description": "A toolset repository for AI agents",
   "first_seen": "2026-11-01 18:56:00"
@@ -178,23 +178,23 @@
  {
   "vendor": "CyberArk",
   "org": "cyberark",
+  "full_name": "cyberark/ark-sdk-python",
+  "url": "https://github.com/cyberark/ark-sdk-python",
+  "sec_path": "SECURITY.md",
+  "stars": 24,
+  "language": "Python",
+  "description": "CyberArk's Official SDK and CLI - https://cyberark.github.io/ark-sdk-python/",
+  "first_seen": "2026-11-01 18:56:00"
+ },
+ {
+  "vendor": "CyberArk",
+  "org": "cyberark",
   "full_name": "cyberark/terraform-provider-conjur",
   "url": "https://github.com/cyberark/terraform-provider-conjur",
   "sec_path": "SECURITY.md",
   "stars": 24,
   "language": "Go",
   "description": "Terraform provider for CyberArk Secrets Manager",
-  "first_seen": "2026-11-01 18:56:00"
- },
- {
-  "vendor": "CyberArk",
-  "org": "cyberark",
-  "full_name": "cyberark/ark-sdk-python",
-  "url": "https://github.com/cyberark/ark-sdk-python",
-  "sec_path": "SECURITY.md",
-  "stars": 23,
-  "language": "Python",
-  "description": "CyberArk's Official SDK and CLI - https://cyberark.github.io/ark-sdk-python/",
   "first_seen": "2026-11-01 18:56:00"
  },
  {
