@@ -288,7 +288,7 @@ Apache软件基金会,无(开源基金会),apache,apache/cloudberry-go-libs,http
 Apache软件基金会,无(开源基金会),apache,apache/hadoop-cloudstore,https://github.com/apache/hadoop-cloudstore,3,Java,SECURITY.md,Apache hadoop
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,128651,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66933,Go,SECURITY.md,The Prometheus monitoring system and time series database.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66935,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52443,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45419,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38487,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
@@ -300,7 +300,7 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19437,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17080,Go,SECURITY.md,Workflow Engine for Kubernetes
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16696,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13893,Go,SECURITY.md,Exporter for machine metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13894,Go,SECURITY.md,Exporter for machine metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13054,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12524,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12076,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
@@ -332,7 +332,7 @@ CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-events,https:
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/OpenMetrics,https://github.com/prometheus/OpenMetrics,2541,Go,SECURITY.md,Evolving the Prometheus exposition format into a standard.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/mysqld_exporter,https://github.com/prometheus/mysqld_exporter,2469,Go,SECURITY.md,Exporter for MySQL server metrics
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-helm,https://github.com/argoproj/argo-helm,2390,Mustache,SECURITY.md,ArgoProj Helm Charts
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_java,https://github.com/prometheus/client_java,2291,Java,SECURITY.md,Prometheus instrumentation library for JVM applications
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_java,https://github.com/prometheus/client_java,2290,Java,SECURITY.md,Prometheus instrumentation library for JVM applications
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-swift,https://github.com/grpc/grpc-swift,2249,Swift,SECURITY.md,The Swift language implementation of gRPC.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/snmp_exporter,https://github.com/prometheus/snmp_exporter,2193,Go,SECURITY.md,SNMP Exporter for Prometheus
 CNCF云原生基金会,无(开源基金会),containerd,containerd/runwasi,https://github.com/containerd/runwasi,1346,Rust,SECURITY.md,Facilitates running Wasm / WASI workloads managed by containerd
@@ -842,7 +842,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/MSA,https://github.com/MiniMax-AI/MSA,434,Pyth
 MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-MiniApps,https://github.com/MiniMax-AI/MiniMax-Code-MiniApps,69,JavaScript,docs/security.md,"We believe the Agent is evolving into the next-generation operating system (OS). In this paradigm shift, a plugin is no longer just a feature extension: a plugi…"
 MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-Plugins,https://github.com/MiniMax-AI/MiniMax-Code-Plugins,23,JavaScript,SECURITY.md,Community registry and contribution toolkit for MiniMax Code plugins.
 MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
-阶跃星辰,无,stepfun-ai,stepfun-ai/Step-Code,https://github.com/stepfun-ai/Step-Code,1027,TypeScript,SECURITY.md,
+阶跃星辰,无,stepfun-ai,stepfun-ai/Step-Code,https://github.com/stepfun-ai/Step-Code,1028,TypeScript,SECURITY.md,
 阶跃星辰,无,stepfun-ai,stepfun-ai/vllm,https://github.com/stepfun-ai/vllm,46,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 阶跃星辰,无,stepfun-ai,stepfun-ai/llama.cpp,https://github.com/stepfun-ai/llama.cpp,7,C++,SECURITY.md,LLM inference in C/C++
 微众银行,无,WeDataSphere,WeDataSphere/metabase,https://github.com/WeDataSphere/metabase,,Clojure,SECURITY.md,"The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:"
@@ -3783,7 +3783,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/chisel,https://github.com/google/chisel,1,Go,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/x-edr-eigenmath_tf2,https://github.com/google/x-edr-eigenmath_tf2,1,C++,SECURITY.md,Port of ROS/TF2 to eigenmath library.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105118,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105121,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/fairseq,https://github.com/facebookresearch/fairseq,32210,Python,error,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28157,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
 Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18680,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
@@ -6155,12 +6155,12 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/pingpong,https://github.com/NVIDIA/pi
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-AI-IOT,NVIDIA-AI-IOT/jetson-usb-network-recovery,https://github.com/NVIDIA-AI-IOT/jetson-usb-network-recovery,,Python,SECURITY.md,Guarded USB network diagnosis and recovery prototype for Jetson Orin Nano
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/omniverse-kit,https://github.com/NVIDIA-Omniverse/omniverse-kit,,,SECURITY.md,NVIDIA Omniverse Kit
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovannotators,https://github.com/NVIDIA-Omniverse/ovannotators,0,Python,SECURITY.md,NVIDIA ovannotators library for writing datasets from Omniverse 
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8492,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-mlir,https://github.com/qualcomm/hexagon-mlir,278,C++,SECURITY.md,Hexagon-MLIR is a compiler toolchain for compiling and executing AI kernels and models on Qualcomm Hexagon Neural Processing Units (NPUs).
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8493,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-mlir,https://github.com/qualcomm/hexagon-mlir,279,C++,SECURITY.md,Hexagon-MLIR is a compiler toolchain for compiling and executing AI kernels and models on Qualcomm Hexagon Neural Processing Units (NPUs).
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/efficient-transformers,https://github.com/qualcomm/efficient-transformers,102,Python,SECURITY.md,This library empowers users to seamlessly port pretrained models and checkpoints on the HuggingFace (HF) hub (developed using HF transformers library) into infe…
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cloud-ai-sdk,https://github.com/qualcomm/cloud-ai-sdk,85,Jupyter Notebook,SECURITY.md,Qualcomm Cloud AI SDK (Platform and Apps) enable high performance deep learning inference on Qualcomm Cloud AI platforms delivering high throughput and low late…
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qdlrs,https://github.com/qualcomm/qdlrs,85,Rust,SECURITY.md,Device flashing utility and library
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-usb-kernel-drivers,https://github.com/qualcomm/qcom-usb-kernel-drivers,59,C,SECURITY.md,"Qualcomm kernel drivers provide logical representations of Qualcomm chipset-enabled mobile devices over USB connections. This repository includes source code, b…"
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-usb-kernel-drivers,https://github.com/qualcomm/qcom-usb-kernel-drivers,60,C,SECURITY.md,"Qualcomm kernel drivers provide logical representations of Qualcomm chipset-enabled mobile devices over USB connections. This repository includes source code, b…"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/PatchWise,https://github.com/qualcomm/PatchWise,52,Python,SECURITY.md,"PatchWise automates patch review and static analysis for the Linux kernel, streamlining upstream contributions and ensuring code quality."
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/crash-plugins,https://github.com/qualcomm/crash-plugins,52,C++,SECURITY.md,The plugins of crash-utility
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/QAIC,https://github.com/qualcomm/QAIC,26,Haskell,SECURITY.md,
@@ -7513,7 +7513,7 @@ LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/spark,https://github.com/li
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/li-langchain,https://github.com/linkedin/li-langchain,1,Python,SECURITY.md,🦜🔗 Build context-aware reasoning applications
 Slack,自建（Slack VDP）,slackhq,slackhq/nebula,https://github.com/slackhq/nebula,18501,Go,SECURITY.md,"A scalable overlay networking tool with a focus on performance, simplicity and security"
 Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-sdk,https://github.com/slackapi/python-slack-sdk,4016,Python,SECURITY.md,Slack Developer Kit for Python
-Slack,自建（Slack VDP）,slackapi,slackapi/node-slack-sdk,https://github.com/slackapi/node-slack-sdk,3380,TypeScript,SECURITY.md,Slack Developer Kit for Node.js
+Slack,自建（Slack VDP）,slackapi,slackapi/node-slack-sdk,https://github.com/slackapi/node-slack-sdk,3379,TypeScript,SECURITY.md,Slack Developer Kit for Node.js
 Slack,自建（Slack VDP）,slackapi,slackapi/bolt-js,https://github.com/slackapi/bolt-js,2952,TypeScript,SECURITY.md,A framework to build Slack apps using JavaScript
 Slack,自建（Slack VDP）,slackhq,slackhq/circuit,https://github.com/slackhq/circuit,1861,Kotlin,SECURITY.md,⚡️ A Compose-driven architecture for Kotlin and Android applications.
 Slack,自建（Slack VDP）,slackhq,slackhq/go-audit,https://github.com/slackhq/go-audit,1665,Go,SECURITY.md,go-audit is an alternative to the auditd daemon that ships with many distros
@@ -7521,10 +7521,10 @@ Slack,自建（Slack VDP）,slackapi,slackapi/slack-github-action,https://github
 Slack,自建（Slack VDP）,slackapi,slackapi/bolt-python,https://github.com/slackapi/bolt-python,1332,Python,SECURITY.md,A framework to build Slack apps using Python
 Slack,自建（Slack VDP）,slackhq,slackhq/EitherNet,https://github.com/slackhq/EitherNet,790,Kotlin,SECURITY.md,"A multiplatform, pluggable, and sealed API result type for modeling network API responses."
 Slack,自建（Slack VDP）,slackapi,slackapi/java-slack-sdk,https://github.com/slackapi/java-slack-sdk,602,Java,SECURITY.md,Slack Developer Kit (including Bolt for Java) for any JVM language
-Slack,自建（Slack VDP）,slackhq,slackhq/compose-lints,https://github.com/slackhq/compose-lints,521,Kotlin,SECURITY.md,Lint checks to aid with a healthy adoption of Compose
+Slack,自建（Slack VDP）,slackhq,slackhq/compose-lints,https://github.com/slackhq/compose-lints,522,Kotlin,SECURITY.md,Lint checks to aid with a healthy adoption of Compose
 Slack,自建（Slack VDP）,slackhq,slackhq/foundry,https://github.com/slackhq/foundry,479,Kotlin,SECURITY.md,Gradle and IntelliJ build tooling used in Slack's Android repo
 Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-events-api,https://github.com/slackapi/python-slack-events-api,340,Python,SECURITY.md,Slack Events API adapter for Python (Flask required)
-Slack,自建（Slack VDP）,slackapi,slackapi/slack-cli,https://github.com/slackapi/slack-cli,313,Go,SECURITY.md,"Create, develop, and deploy Slack apps from the command-line ✨"
+Slack,自建（Slack VDP）,slackapi,slackapi/slack-cli,https://github.com/slackapi/slack-cli,314,Go,SECURITY.md,"Create, develop, and deploy Slack apps from the command-line ✨"
 Slack,自建（Slack VDP）,slackhq,slackhq/keeper,https://github.com/slackhq/keeper,270,Kotlin,SECURITY.md,A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
 Slack,自建（Slack VDP）,slackhq,slackhq/slack-lints,https://github.com/slackhq/slack-lints,250,Kotlin,SECURITY.md,A collection of custom Android/Kotlin lint checks we use in our Android and Kotlin code bases at Slack.
 Slack,自建（Slack VDP）,slackapi,slackapi/deno-slack-sdk,https://github.com/slackapi/deno-slack-sdk,228,TypeScript,SECURITY.md,SDK for building Run on Slack apps using Deno
@@ -8167,15 +8167,15 @@ MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-cli,https://github.com/
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/atlas-cli-plugin-kubernetes,https://github.com/mongodb/atlas-cli-plugin-kubernetes,6,Go,SECURITY.md,Kubernetes plugin for the AtlasCLI
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/tines-claude,https://github.com/mongodb/tines-claude,2,Python,SECURITY.md,A Claude Skill and MCP server for Tines
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-atlas-cli-2,https://github.com/mongodb/mongodb-atlas-cli-2,2,Go,SECURITY.md,MongoDB Atlas CLI and MongoDB CLI enable you to manage your MongoDB in the Cloud
-Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77172,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
+Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77174,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
 Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22285,Go,SECURITY.md,Redis Go client
 Redis,自建PSIRT（Redis）,redis,redis/node-redis,https://github.com/redis/node-redis,17594,TypeScript,SECURITY.md,Redis Node.js client
-Redis,自建PSIRT（Redis）,redis,redis/ioredis,https://github.com/redis/ioredis,15355,TypeScript,SECURITY.md,"🚀 A robust, performance-focused, and full-featured Redis client for Node.js."
-Redis,自建PSIRT（Redis）,redis,redis/jedis,https://github.com/redis/jedis,12372,Java,SECURITY.md,Redis Java client
+Redis,自建PSIRT（Redis）,redis,redis/ioredis,https://github.com/redis/ioredis,15354,TypeScript,SECURITY.md,"🚀 A robust, performance-focused, and full-featured Redis client for Node.js."
+Redis,自建PSIRT（Redis）,redis,redis/jedis,https://github.com/redis/jedis,12373,Java,SECURITY.md,Redis Java client
 Redis,自建PSIRT（Redis）,redis,redis/hiredis,https://github.com/redis/hiredis,6689,C,SECURITY.md,Minimalistic C client for Redis >= 1.2
 Redis,自建PSIRT（Redis）,redis,redis/lettuce,https://github.com/redis/lettuce,5786,Java,.github/SECURITY.md,Redis Java client
-Redis,自建PSIRT（Redis）,redis,redis/hiredis-py,https://github.com/redis/hiredis-py,523,C,SECURITY.md,Python wrapper for hiredis
-Redis,自建PSIRT（Redis）,redis,redis/fastapi-redis-sdk,https://github.com/redis/fastapi-redis-sdk,411,Python,SECURITY.md,FastAPI SDK for Redis
+Redis,自建PSIRT（Redis）,redis,redis/hiredis-py,https://github.com/redis/hiredis-py,524,C,SECURITY.md,Python wrapper for hiredis
+Redis,自建PSIRT（Redis）,redis,redis/fastapi-redis-sdk,https://github.com/redis/fastapi-redis-sdk,412,Python,SECURITY.md,FastAPI SDK for Redis
 Redis,自建PSIRT（Redis）,redis,redis/NRedisStack,https://github.com/redis/NRedisStack,332,C#,SECURITY.md,Redis Stack .Net client
 Redis,自建PSIRT（Redis）,redis,redis/redis-debian,https://github.com/redis/redis-debian,46,Shell,SECURITY.md,Debian packaging
 Redis,自建PSIRT（Redis）,redis,redis/redisctl,https://github.com/redis/redisctl,18,Rust,SECURITY.md,Unified CLI for Redis Cloud and Enterprise management
@@ -8183,6 +8183,7 @@ Redis,自建PSIRT（Redis）,redis,redis/redis-vl-golang,https://github.com/redi
 Redis,自建PSIRT（Redis）,redis,redis/rdi-cloud-automation,https://github.com/redis/rdi-cloud-automation,2,HCL,.github/SECURITY.md,
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/envoy,https://github.com/RedisLabs/envoy,1,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 Redis,自建PSIRT（Redis）,redis,redis/redis--bot--fork,https://github.com/redis/redis--bot--fork,1,C,SECURITY.md,Used by automation (GH app)
+Redis,自建PSIRT（Redis）,redis,redis/n8n-nodes-agent-memory,https://github.com/redis/n8n-nodes-agent-memory,1,TypeScript,SECURITY.md,
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/statsd_exporter,https://github.com/RedisLabs/statsd_exporter,,Go,SECURITY.md,StatsD to Prometheus metrics exporter
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/node_exporter,https://github.com/RedisLabs/node_exporter,,Go,SECURITY.md,Exporter for machine metrics
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/exporter-toolkit,https://github.com/RedisLabs/exporter-toolkit,,Go,SECURITY.md,Utility package to build exporters
@@ -9340,7 +9341,7 @@ Shopify,HackerOne,shopify,Shopify/themekit,https://github.com/Shopify/themekit,1
 Shopify,HackerOne,shopify,Shopify/shopify-api-ruby,https://github.com/Shopify/shopify-api-ruby,1112,Ruby,SECURITY.md,ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.
 Shopify,HackerOne,shopify,Shopify/shopify-cli,https://github.com/Shopify/shopify-cli,1054,Ruby,SECURITY.md,Shopify CLI helps you build against the Shopify platform faster.
 Shopify,HackerOne,shopify,Shopify/shopify-app-template-node,https://github.com/Shopify/shopify-app-template-node,1020,JavaScript,SECURITY.md,
-Shopify,HackerOne,shopify,Shopify/web-configs,https://github.com/Shopify/web-configs,493,JavaScript,SECURITY.md,Common configurations for building web apps at Shopify
+Shopify,HackerOne,shopify,Shopify/web-configs,https://github.com/Shopify/web-configs,492,JavaScript,SECURITY.md,Common configurations for building web apps at Shopify
 Shopify,HackerOne,shopify,Shopify/shopify-demo-app-node-react,https://github.com/Shopify/shopify-demo-app-node-react,443,JavaScript,SECURITY.md,
 Shopify,HackerOne,shopify,Shopify/product-reviews-sample-app,https://github.com/Shopify/product-reviews-sample-app,378,JavaScript,SECURITY.md,"A sample Shopify application that creates and stores product reviews for a store, written in Node.js"
 Shopify,HackerOne,shopify,Shopify/node-themekit,https://github.com/Shopify/node-themekit,113,JavaScript,SECURITY.md,Theme asset interaction library and management tools written in Node.js
@@ -9858,7 +9859,7 @@ Dropbox,自建BB,dropbox,dropbox/incubator-superset-internal,https://github.com/
 Dropbox,自建BB,dropbox,dropbox/agent-filesystem-samples,https://github.com/dropbox/agent-filesystem-samples,1,TypeScript,SECURITY.md,Sample apps and services for DBX Agent Filesystem
 Dropbox,自建BB,dropbox,dropbox/amundsen,https://github.com/dropbox/amundsen,1,HTML,SECURITY.md,"Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data."
 Dropbox,自建BB,dropbox,dropbox/libseccomp,https://github.com/dropbox/libseccomp,1,C,SECURITY.md,The main libseccomp repository
-Stripe,自建BB,stripe,stripe/ai,https://github.com/stripe/ai,2038,TypeScript,SECURITY.md,One-stop shop for building AI-powered products and businesses with Stripe.
+Stripe,自建BB,stripe,stripe/ai,https://github.com/stripe/ai,2040,TypeScript,SECURITY.md,One-stop shop for building AI-powered products and businesses with Stripe.
 Stripe,自建BB,stripe,stripe/stripe-apps,https://github.com/stripe/stripe-apps,178,TypeScript,SECURITY.md,Stripe Apps lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API.
 Stripe,自建BB,stripe,stripe/ft3,https://github.com/stripe/ft3,118,,SECURITY.md,"FT3: Fraud Tools, Tactics, and Techniques Framework"
 Stripe,自建BB,stripe,stripe/stripe-postman,https://github.com/stripe/stripe-postman,90,,SECURITY.md,Postman collection for Stripe's API
@@ -10275,7 +10276,7 @@ Zalando,自建BB,zalando,zalando/backstage-plugin-api-linter,https://github.com/
 Zalando,自建BB,zalando,zalando/lightstep-uql-to-promql-translator,https://github.com/zalando/lightstep-uql-to-promql-translator,9,Go,SECURITY.md,
 Zalando,自建BB,zalando,zalando/otelcol-lightstep-receiver,https://github.com/zalando/otelcol-lightstep-receiver,8,Go,SECURITY.md,
 Spotify,自建BB,spotify,spotify/luigi,https://github.com/spotify/luigi,18782,Python,SECURITY.md,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also…"
-Spotify,自建BB,spotify,spotify/basic-pitch,https://github.com/spotify/basic-pitch,6019,Python,SECURITY.md,A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
+Spotify,自建BB,spotify,spotify/basic-pitch,https://github.com/spotify/basic-pitch,6021,Python,SECURITY.md,A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 Spotify,自建BB,spotify,spotify/scio,https://github.com/spotify/scio,2631,Scala,SECURITY.md,A Scala API for Apache Beam and Google Cloud Dataflow.
 Spotify,自建BB,spotify,spotify/spotify-web-api-ts-sdk,https://github.com/spotify/spotify-web-api-ts-sdk,475,TypeScript,SECURITY.md,A Typescript SDK for the Spotify Web API with types for returned data.
 Spotify,自建BB,spotify,spotify/sourcekit-bazel-bsp,https://github.com/spotify/sourcekit-bazel-bsp,440,Swift,SECURITY.md,"iOS Development (and more) in alternative IDEs like Cursor / VSCode, for Bazel projects"
