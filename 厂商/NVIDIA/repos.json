@@ -5,7 +5,7 @@
   "full_name": "NVIDIA/SkillSpector",
   "url": "https://github.com/NVIDIA/SkillSpector",
   "sec_path": "SECURITY.md",
-  "stars": 24186,
+  "stars": 24216,
   "language": "Python",
   "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in…",
   "first_seen": "2026-11-01 17:03:48"
@@ -27,7 +27,7 @@
   "full_name": "NVIDIA/OpenShell",
   "url": "https://github.com/NVIDIA/OpenShell",
   "sec_path": "SECURITY.md",
-  "stars": 21036,
+  "stars": 21051,
   "language": "Rust",
   "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
   "first_seen": "2026-11-01 17:03:48"
@@ -38,7 +38,7 @@
   "full_name": "NVIDIA/Megatron-LM",
   "url": "https://github.com/NVIDIA/Megatron-LM",
   "sec_path": "SECURITY.md",
-  "stars": 18321,
+  "stars": 18323,
   "language": "Python",
   "description": "Ongoing research training transformer models at scale",
   "first_seen": "2026-11-01 17:03:48"
@@ -49,7 +49,7 @@
   "full_name": "NVIDIA/open-gpu-kernel-modules",
   "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
   "sec_path": "SECURITY.md",
-  "stars": 17547,
+  "stars": 17549,
   "language": "C",
   "description": "NVIDIA Linux open GPU kernel module source",
   "first_seen": "2026-11-01 17:03:48"
@@ -71,7 +71,7 @@
   "full_name": "NVIDIA/cosmos",
   "url": "https://github.com/NVIDIA/cosmos",
   "sec_path": "SECURITY.md",
-  "stars": 12242,
+  "stars": 12244,
   "language": null,
   "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infra…",
   "first_seen": "2026-11-01 17:03:48"
@@ -82,7 +82,7 @@
   "full_name": "NVIDIA/garak",
   "url": "https://github.com/NVIDIA/garak",
   "sec_path": "SECURITY.md",
-  "stars": 9847,
+  "stars": 9849,
   "language": "Python",
   "description": "the LLM vulnerability scanner",
   "first_seen": "2026-11-01 17:03:48"
@@ -93,7 +93,7 @@
   "full_name": "NVIDIA/cudf",
   "url": "https://github.com/NVIDIA/cudf",
   "sec_path": "SECURITY.md",
-  "stars": 9789,
+  "stars": 9791,
   "language": "C++",
   "description": "cuDF - GPU DataFrame Library ",
   "first_seen": "2026-11-01 17:03:48"
@@ -115,7 +115,7 @@
   "full_name": "NVIDIA/Model-Optimizer",
   "url": "https://github.com/NVIDIA/Model-Optimizer",
   "sec_path": "SECURITY.md",
-  "stars": 5502,
+  "stars": 5505,
   "language": "Python",
   "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It comp…",
   "first_seen": "2026-11-01 17:03:48"
@@ -170,7 +170,7 @@
   "full_name": "NVIDIA/cuda-rust",
   "url": "https://github.com/NVIDIA/cuda-rust",
   "sec_path": "SECURITY.md",
-  "stars": 3970,
+  "stars": 3973,
   "language": "Rust",
   "description": "NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.",
   "first_seen": "2026-11-01 17:03:48"
@@ -214,7 +214,7 @@
   "full_name": "NVIDIA/physicsnemo",
   "url": "https://github.com/NVIDIA/physicsnemo",
   "sec_path": "SECURITY.md",
-  "stars": 3413,
+  "stars": 3415,
   "language": "Python",
   "description": "Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods",
   "first_seen": "2026-11-01 17:03:48"
@@ -236,9 +236,20 @@
   "full_name": "NVIDIA/NeMo-Retriever",
   "url": "https://github.com/NVIDIA/NeMo-Retriever",
   "sec_path": "SECURITY.md",
-  "stars": 3007,
+  "stars": 3008,
   "language": "Python",
   "description": "NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever Library uses specialized NVIDIA…",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
+  "full_name": "NVIDIA/auto-ontology",
+  "url": "https://github.com/NVIDIA/auto-ontology",
+  "sec_path": "SECURITY.md",
+  "stars": 2972,
+  "language": "Python",
+  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context ret…",
   "first_seen": "2026-11-01 17:03:48"
  },
  {
@@ -277,21 +288,10 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
-  "full_name": "NVIDIA/auto-ontology",
-  "url": "https://github.com/NVIDIA/auto-ontology",
-  "sec_path": "SECURITY.md",
-  "stars": 2459,
-  "language": "Python",
-  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context ret…",
-  "first_seen": "2026-11-01 17:03:48"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
   "full_name": "NVIDIA/cutile-python",
   "url": "https://github.com/NVIDIA/cutile-python",
   "sec_path": "SECURITY.md",
-  "stars": 2168,
+  "stars": 2167,
   "language": "Python",
   "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
   "first_seen": "2026-11-01 17:03:48"
@@ -302,7 +302,7 @@
   "full_name": "NVIDIA/accelerated-computing-hub",
   "url": "https://github.com/NVIDIA/accelerated-computing-hub",
   "sec_path": "SECURITY.md",
-  "stars": 2154,
+  "stars": 2155,
   "language": "Jupyter Notebook",
   "description": "NVIDIA curated collection of educational resources related to general purpose GPU programming.",
   "first_seen": "2026-11-01 17:03:48"
@@ -313,7 +313,7 @@
   "full_name": "NVIDIA-Omniverse/usd-brep",
   "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
   "sec_path": "SECURITY.md",
-  "stars": 1979,
+  "stars": 1981,
   "language": "C++",
   "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
   "first_seen": "2026-11-01 17:07:29"
@@ -379,7 +379,7 @@
   "full_name": "NVIDIA/cuda-quantum",
   "url": "https://github.com/NVIDIA/cuda-quantum",
   "sec_path": "SECURITY.md",
-  "stars": 1179,
+  "stars": 1180,
   "language": "C++",
   "description": "C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows",
   "first_seen": "2026-11-01 17:03:48"
@@ -511,7 +511,7 @@
   "full_name": "NVIDIA/spark-local-inference",
   "url": "https://github.com/NVIDIA/spark-local-inference",
   "sec_path": "SECURITY.md",
-  "stars": 757,
+  "stars": 761,
   "language": "Rust",
   "description": "",
   "first_seen": "2026-11-01 17:03:48"
@@ -533,7 +533,7 @@
   "full_name": "NVIDIA/soma-retargeter",
   "url": "https://github.com/NVIDIA/soma-retargeter",
   "sec_path": "SECURITY.md",
-  "stars": 698,
+  "stars": 699,
   "language": "Python",
   "description": "SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp",
   "first_seen": "2026-11-01 17:04:22"
@@ -555,7 +555,7 @@
   "full_name": "NVIDIA/SkillEvaluator",
   "url": "https://github.com/NVIDIA/SkillEvaluator",
   "sec_path": "SECURITY.md",
-  "stars": 626,
+  "stars": 628,
   "language": "Python",
   "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent eval…",
   "first_seen": "2026-11-01 17:03:48"
@@ -588,7 +588,7 @@
   "full_name": "NVIDIA/cosmos-framework",
   "url": "https://github.com/NVIDIA/cosmos-framework",
   "sec_path": "SECURITY.md",
-  "stars": 596,
+  "stars": 599,
   "language": "Python",
   "description": "Our inference and training framework to run on the Cosmos Models",
   "first_seen": "2026-11-01 17:03:48"
@@ -629,23 +629,23 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/aicr",
+  "url": "https://github.com/NVIDIA/aicr",
+  "sec_path": "SECURITY.md",
+  "stars": 458,
+  "language": "Go",
+  "description": "Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/structured-data-models",
   "url": "https://github.com/NVIDIA/structured-data-models",
   "sec_path": "SECURITY.md",
   "stars": 458,
   "language": "Python",
   "description": "Foundation Models for Structured Data",
-  "first_seen": "2026-11-01 17:03:48"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/aicr",
-  "url": "https://github.com/NVIDIA/aicr",
-  "sec_path": "SECURITY.md",
-  "stars": 457,
-  "language": "Go",
-  "description": "Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes",
   "first_seen": "2026-11-01 17:03:48"
  },
  {
@@ -940,7 +940,7 @@
   "full_name": "NVIDIA/NeMo-Speech.cpp",
   "url": "https://github.com/NVIDIA/NeMo-Speech.cpp",
   "sec_path": "SECURITY.md",
-  "stars": 232,
+  "stars": 234,
   "language": "C++",
   "description": "NeMo-Speech.cpp is a lightweight C++ inference runtime for Speech models ",
   "first_seen": "2026-11-01 17:03:48"
@@ -1116,7 +1116,7 @@
   "full_name": "NVIDIA/nemoclaw-community",
   "url": "https://github.com/NVIDIA/nemoclaw-community",
   "sec_path": "SECURITY.md",
-  "stars": 140,
+  "stars": 141,
   "language": "Python",
   "description": "Our repository of community driven examples, showcases, and integrations",
   "first_seen": "2026-11-01 17:03:48"
@@ -1200,6 +1200,17 @@
  },
  {
   "vendor": "NVIDIA",
+  "org": "NVIDIA",
+  "full_name": "NVIDIA/elements",
+  "url": "https://github.com/NVIDIA/elements",
+  "sec_path": "SECURITY.md",
+  "stars": 112,
+  "language": "TypeScript",
+  "description": "The UI SDK and agent-ready developer toolkit for AI factories, robotics, and autonomous vehicles.",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
   "org": "NVIDIA-Omniverse",
   "full_name": "NVIDIA-Omniverse/OpenUSD-plugin-samples",
   "url": "https://github.com/NVIDIA-Omniverse/OpenUSD-plugin-samples",
@@ -1208,17 +1219,6 @@
   "language": "C++",
   "description": "OpenUSD schema extension samples, build tools, and sample Kit extensions that use those schema extensions.",
   "first_seen": "2026-11-01 17:07:29"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/elements",
-  "url": "https://github.com/NVIDIA/elements",
-  "sec_path": "SECURITY.md",
-  "stars": 110,
-  "language": "TypeScript",
-  "description": "The UI SDK and agent-ready developer toolkit for AI factories, robotics, and autonomous vehicles.",
-  "first_seen": "2026-11-01 17:03:48"
  },
  {
   "vendor": "NVIDIA",
@@ -1248,7 +1248,7 @@
   "full_name": "NVIDIA/k8s-test-infra",
   "url": "https://github.com/NVIDIA/k8s-test-infra",
   "sec_path": "SECURITY.md",
-  "stars": 104,
+  "stars": 105,
   "language": "Go",
   "description": ":coffee:️ Simulate NVIDIA GPU infrastructure on CPU nodes in Kubernetes",
   "first_seen": "2026-11-01 17:03:48"
@@ -1520,6 +1520,17 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/NeMo-Fabric",
+  "url": "https://github.com/NVIDIA/NeMo-Fabric",
+  "sec_path": "SECURITY.md",
+  "stars": 69,
+  "language": "Python",
+  "description": "NVIDIA NeMo Fabric",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/boro",
   "url": "https://github.com/NVIDIA/boro",
   "sec_path": "SECURITY.md",
@@ -1538,17 +1549,6 @@
   "language": null,
   "description": "This a open source collection of USD materials and textures using MaterialX",
   "first_seen": "2026-11-01 17:07:29"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/NeMo-Fabric",
-  "url": "https://github.com/NVIDIA/NeMo-Fabric",
-  "sec_path": "SECURITY.md",
-  "stars": 68,
-  "language": "Python",
-  "description": "NVIDIA NeMo Fabric",
-  "first_seen": "2026-11-01 17:03:48"
  },
  {
   "vendor": "NVIDIA",
@@ -1839,12 +1839,34 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/auto-ontology-eval",
+  "url": "https://github.com/NVIDIA/auto-ontology-eval",
+  "sec_path": "SECURITY.md",
+  "stars": 44,
+  "language": "Python",
+  "description": "LLM-powered Text-to-SQL evaluation toolkit: schema ingestion, retrieval eval, and standalone SQL judge/re-scorer.",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/OpenShell-Research",
   "url": "https://github.com/NVIDIA/OpenShell-Research",
   "sec_path": "SECURITY.md",
   "stars": 44,
   "language": "Python",
   "description": "🧪 OpenShell's Research Journal",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
+  "full_name": "NVIDIA/kumo-engine",
+  "url": "https://github.com/NVIDIA/kumo-engine",
+  "sec_path": "SECURITY.md",
+  "stars": 40,
+  "language": "Python",
+  "description": "Kumo Engine is an accelerator for context generation over structured data, designed for teams building and running predictive models in production at scale.",
   "first_seen": "2026-11-01 17:03:48"
  },
  {
@@ -1857,28 +1879,6 @@
   "language": null,
   "description": "AI Agent Skill for converting CAD models to OpenUSD. Enables autonomous agents to translate 3D CAD assets into USD/USDA/USDC by leveraging the usd-convert-cad P…",
   "first_seen": "2026-11-01 17:07:29"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/kumo-engine",
-  "url": "https://github.com/NVIDIA/kumo-engine",
-  "sec_path": "SECURITY.md",
-  "stars": 39,
-  "language": "Python",
-  "description": "Kumo Engine is an accelerator for context generation over structured data, designed for teams building and running predictive models in production at scale.",
-  "first_seen": "2026-11-01 17:03:48"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/auto-ontology-eval",
-  "url": "https://github.com/NVIDIA/auto-ontology-eval",
-  "sec_path": "SECURITY.md",
-  "stars": 38,
-  "language": "Python",
-  "description": "LLM-powered Text-to-SQL evaluation toolkit: schema ingestion, retrieval eval, and standalone SQL judge/re-scorer.",
-  "first_seen": "2026-11-01 17:03:48"
  },
  {
   "vendor": "NVIDIA",
@@ -2279,6 +2279,17 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/NuRec",
+  "url": "https://github.com/NVIDIA/NuRec",
+  "sec_path": "SECURITY.md",
+  "stars": 20,
+  "language": "Python",
+  "description": "NVIDIA Omniverse NuRec provides neural reconstruction APIs and libraries to reconstruct and render interactive simulations from real-world data.",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/cdf-anomalygen",
   "url": "https://github.com/NVIDIA/cdf-anomalygen",
   "sec_path": "SECURITY.md",
@@ -2297,17 +2308,6 @@
   "language": "Rust",
   "description": "Client-side library for backend-neutral storage access across local, HTTP, cloud and Omniverse storage, plus an OpenUSD ArResolver plugin that opens and saves r…",
   "first_seen": "2026-11-01 17:07:29"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/NuRec",
-  "url": "https://github.com/NVIDIA/NuRec",
-  "sec_path": "SECURITY.md",
-  "stars": 19,
-  "language": "Python",
-  "description": "NVIDIA Omniverse NuRec provides neural reconstruction APIs and libraries to reconstruct and render interactive simulations from real-world data.",
-  "first_seen": "2026-11-01 17:03:48"
  },
  {
   "vendor": "NVIDIA",
@@ -4095,6 +4095,18 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/nvperf-core",
+  "url": "https://github.com/NVIDIA/nvperf-core",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "C",
+  "description": "Core NVIDIA Nsight Perf SDK APIs and libraries for collecting and analyzing GPU performance data directly from application code.",
+  "license": null,
+  "first_seen": "2026-11-04 03:06:44"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/confidential-computing-docs",
   "url": "https://github.com/NVIDIA/confidential-computing-docs",
   "sec_path": "SECURITY.md",
@@ -4157,18 +4169,6 @@
   "language": null,
   "description": "NVIDIA Omniverse Kit",
   "first_seen": "2026-11-01 17:07:29"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/nvperf-core",
-  "url": "https://github.com/NVIDIA/nvperf-core",
-  "sec_path": "SECURITY.md",
-  "stars": 0,
-  "language": "C",
-  "description": "Core NVIDIA Nsight Perf SDK APIs and libraries for collecting and analyzing GPU performance data directly from application code.",
-  "license": null,
-  "first_seen": "2026-11-04 03:06:44"
  },
  {
   "vendor": "NVIDIA",

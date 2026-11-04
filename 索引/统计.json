@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-04 09:08:47",
+ "generated_at": "2026-11-04 09:38:11",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10285,
+  "sec_repos": 10286,
   "negative_cached": 48065
  },
  "vendors": [
@@ -795,7 +795,7 @@
     "AMD",
     "ROCm"
    ],
-   "sec_repos": 108
+   "sec_repos": 109
   },
   {
    "vendor": "NVIDIA",
@@ -1971,7 +1971,5 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": [
-  "walmart"
- ]
+ "orgs_failed": []
 }
