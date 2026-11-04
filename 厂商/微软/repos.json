@@ -444,7 +444,7 @@
   "full_name": "Azure/azure-quickstart-templates",
   "url": "https://github.com/Azure/azure-quickstart-templates",
   "sec_path": "SECURITY.md",
-  "stars": 14901,
+  "stars": 14900,
   "language": "Bicep",
   "description": "Azure Quickstart Templates",
   "first_seen": "2026-11-01 16:24:27"
@@ -822,7 +822,7 @@
   "full_name": "Azure/Azure-Sentinel",
   "url": "https://github.com/Azure/Azure-Sentinel",
   "sec_path": "SECURITY.md",
-  "stars": 6238,
+  "stars": 6240,
   "language": "HTML",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
   "first_seen": "2026-11-01 16:24:27"
@@ -927,7 +927,7 @@
   "full_name": "Azure/azure-sdk-for-python",
   "url": "https://github.com/Azure/azure-sdk-for-python",
   "sec_path": "SECURITY.md",
-  "stars": 5624,
+  "stars": 5623,
   "language": "Python",
   "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn…",
   "first_seen": "2026-11-01 16:24:27"
@@ -1054,7 +1054,7 @@
   "full_name": "Azure/autorest",
   "url": "https://github.com/Azure/autorest",
   "sec_path": "SECURITY.md",
-  "stars": 4790,
+  "stars": 4789,
   "language": "TypeSpec",
   "description": "OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python",
   "first_seen": "2026-11-01 16:25:10"
@@ -1355,6 +1355,17 @@
  },
  {
   "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/bicep",
+  "url": "https://github.com/Azure/bicep",
+  "sec_path": "SECURITY.md",
+  "stars": 3660,
+  "language": "Bicep",
+  "description": "Bicep is a declarative language for describing and deploying Azure resources",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
   "org": "dotnet",
   "full_name": "dotnet/maui-samples",
   "url": "https://github.com/dotnet/maui-samples",
@@ -1363,17 +1374,6 @@
   "language": "C#",
   "description": "Samples for .NET Multi-Platform App UI (.NET MAUI)",
   "first_seen": "2026-11-01 19:06:45"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/bicep",
-  "url": "https://github.com/Azure/bicep",
-  "sec_path": "SECURITY.md",
-  "stars": 3659,
-  "language": "Bicep",
-  "description": "Bicep is a declarative language for describing and deploying Azure resources",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -2004,7 +2004,7 @@
   "full_name": "Azure/azureml-examples",
   "url": "https://github.com/Azure/azureml-examples",
   "sec_path": "SECURITY.md",
-  "stars": 2033,
+  "stars": 2034,
   "language": "Jupyter Notebook",
   "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
   "first_seen": "2026-11-01 16:24:27"
@@ -6114,6 +6114,17 @@
  },
  {
   "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/AI-Landing-Zones",
+  "url": "https://github.com/Azure/AI-Landing-Zones",
+  "sec_path": "SECURITY.md",
+  "stars": 353,
+  "language": "Python",
+  "description": "The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/redux-micro-frontend",
   "url": "https://github.com/microsoft/redux-micro-frontend",
@@ -6123,17 +6134,6 @@
   "description": "This is a library for using Redux to manage state for self-contained apps in a Micro-Frontend architecture. Each self-contained isolated app can have its own is…",
   "license": null,
   "first_seen": "2026-11-01 22:39:34"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/AI-Landing-Zones",
-  "url": "https://github.com/Azure/AI-Landing-Zones",
-  "sec_path": "SECURITY.md",
-  "stars": 352,
-  "language": "Python",
-  "description": "The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -9962,17 +9962,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/enterprise-azureai",
-  "url": "https://github.com/Azure/enterprise-azureai",
-  "sec_path": "SECURITY.md",
-  "stars": 113,
-  "language": "TypeScript",
-  "description": "Unleash the power of Azure AI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI.",
-  "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/sovereign-landing-zone",
   "url": "https://github.com/Azure/sovereign-landing-zone",
   "sec_path": "SECURITY.md",
@@ -10064,6 +10053,17 @@
   "description": "The Microsoft Graph Client Beta Library for .NET supports the Microsoft Graph /beta endpoint. (preview)",
   "license": null,
   "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/enterprise-azureai",
+  "url": "https://github.com/Azure/enterprise-azureai",
+  "sec_path": "SECURITY.md",
+  "stars": 112,
+  "language": "TypeScript",
+  "description": "Unleash the power of Azure AI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI.",
+  "first_seen": "2026-11-01 16:25:27"
  },
  {
   "vendor": "微软",
@@ -17605,6 +17605,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/AKSFlexNode",
+  "url": "https://github.com/Azure/AKSFlexNode",
+  "sec_path": "SECURITY.md",
+  "stars": 20,
+  "language": "Go",
+  "description": "Connecting a node to AKS cluster from anywhere",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/terraform-azurerm-avm-res-network-networksecuritygroup",
   "url": "https://github.com/Azure/terraform-azurerm-avm-res-network-networksecuritygroup",
   "sec_path": "SECURITY.md",
@@ -17886,17 +17897,6 @@
   "stars": 19,
   "language": "PowerShell",
   "description": "A complete Azure Virtual Desktop deployment solution focused on compatibility across all clouds used by US Government customers.",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/AKSFlexNode",
-  "url": "https://github.com/Azure/AKSFlexNode",
-  "sec_path": "SECURITY.md",
-  "stars": 19,
-  "language": "Go",
-  "description": "Connecting a node to AKS cluster from anywhere",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -27244,6 +27244,18 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/fiberd-k8s-controller",
+  "url": "https://github.com/Azure/fiberd-k8s-controller",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Go",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-05 06:32:43"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/bicep-shared-tools",
   "url": "https://github.com/Azure/bicep-shared-tools",
   "sec_path": "SECURITY.md",
@@ -31937,5 +31949,17 @@
   "description": "The Fabric Warehouse training lab jump start",
   "license": null,
   "first_seen": "2026-11-04 14:36:44"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/US-SLED-AzureLandingZone-TF",
+  "url": "https://github.com/Azure/US-SLED-AzureLandingZone-TF",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "Usage examples gathered by the US SLED CSAs for the Terraform Azure Verified Modules to deploy Landing Zones",
+  "license": null,
+  "first_seen": "2026-11-05 06:32:43"
  }
 ]
