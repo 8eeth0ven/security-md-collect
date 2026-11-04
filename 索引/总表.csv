@@ -3607,10 +3607,10 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/SPARROW-Model-Zoo-Uploader,https://github.com/microsoft/SPARROW-Model-Zoo-Uploader,0,Python,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/agentic-support-guide,https://github.com/microsoft/agentic-support-guide,0,Python,SECURITY.md,Agentic support planning and signal-driven recommendation workflows using modular architecture and synthetic data.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/fabric-warehouse-training-lab,https://github.com/microsoft/fabric-warehouse-training-lab,0,TSQL,SECURITY.md,The Fabric Warehouse training lab jump start
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201293,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201297,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/go,https://github.com/golang/go,139564,Go,SECURITY.md,The Go programming language
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101103,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77634,Python,SECURITY.md,Models and examples built with TensorFlow
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77633,Python,SECURITY.md,Models and examples built with TensorFlow
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular.js,https://github.com/angular/angular.js,58452,JavaScript,SECURITY.md,AngularJS - HTML enhanced for web apps!
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/zx,https://github.com/google/zx,45832,JavaScript,.github/SECURITY.md,A tool for writing better scripts
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/googletest,https://github.com/google/googletest,39703,C++,error,GoogleTest - Google Testing and Mocking Framework
@@ -3647,7 +3647,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-containerregistry,https://github.com/google/go-containerregistry,4108,Go,SECURITY.md,Go library and CLIs for working with container registries
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/universal,https://github.com/angular/universal,3984,TypeScript,SECURITY.md,Server-side rendering and Prerendering for Angular
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/OpenSK,https://github.com/google/OpenSK,3476,Rust,error,OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3144,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3143,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mozc,https://github.com/google/mozc,3032,C++,error,Mozc - a Japanese Input Method Editor designed for multi-platform
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mantis,https://github.com/google/mantis,2706,Python,error,"A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/boringssl,https://github.com/google/boringssl,2294,C++,SECURITY.md,Mirror of BoringSSL
@@ -9308,7 +9308,7 @@ Coinbase,HackerOne,coinbase,coinbase/prime_sdk_rs,https://github.com/coinbase/pr
 Coinbase,HackerOne,coinbase,coinbase/core-java,https://github.com/coinbase/core-java,,Java,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/core-ts,https://github.com/coinbase/core-ts,,TypeScript,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/core-dotnet,https://github.com/coinbase/core-dotnet,,C#,SECURITY.md,Coinbase .Net Core is a library that is used by other C# samples
-Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6039,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
+Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6040,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
 Uber,HackerOne,uber,uber/uber-poet,https://github.com/uber/uber-poet,98,Python,SECURITY.md,A mock swift project generator & build runner to help benchmark various module dependency graphs.
 Uber,HackerOne,uber,uber/jaeger,https://github.com/uber/jaeger,11,Go,SECURITY.md,"Uber fork of CNCF Jaeger, a Distributed Tracing Platform - for Pull Requests"
 Uber,HackerOne,uber,uber/uGroup,https://github.com/uber/uGroup,4,Java,SECURITY.md, uGroup is a Kafka consumer lag monitoring service that reads the consumer offset topic to calculate and expose real-time lag metrics via Prometheus and REST AP…
