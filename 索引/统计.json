@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-04 13:39:01",
+ "generated_at": "2026-11-04 14:07:45",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10287,
+  "sec_repos": 10290,
   "negative_cached": 48071
  },
  "vendors": [
@@ -1206,7 +1206,7 @@
    "orgs": [
     "github"
    ],
-   "sec_repos": 143
+   "sec_repos": 146
   },
   {
    "vendor": "Docker",
@@ -1972,6 +1972,7 @@
   }
  ],
  "orgs_failed": [
-  "NikeInc"
+  "NikeInc",
+  "PlayStation"
  ]
 }

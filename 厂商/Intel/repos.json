@@ -93,7 +93,7 @@
   "full_name": "intel/intel-extension-for-pytorch",
   "url": "https://github.com/intel/intel-extension-for-pytorch",
   "sec_path": "SECURITY.md",
-  "stars": 2010,
+  "stars": 2009,
   "language": "Python",
   "description": "A Python package for extending the official PyTorch that can easily obtain performance on Intel platform",
   "first_seen": "2026-11-01 21:52:54"
@@ -115,7 +115,7 @@
   "full_name": "intel/llvm",
   "url": "https://github.com/intel/llvm",
   "sec_path": "SECURITY.md",
-  "stars": 1549,
+  "stars": 1550,
   "language": "LLVM",
   "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
   "first_seen": "2026-11-01 21:52:33"
@@ -137,7 +137,7 @@
   "full_name": "intel/confidential-computing.sgx",
   "url": "https://github.com/intel/confidential-computing.sgx",
   "sec_path": "SECURITY.md",
-  "stars": 1459,
+  "stars": 1460,
   "language": "C++",
   "description": "Intel® Software Guard Extensions (Intel® SGX)",
   "first_seen": "2026-11-01 21:52:54"
@@ -182,7 +182,7 @@
   "full_name": "intel/AI-Playground",
   "url": "https://github.com/intel/AI-Playground",
   "sec_path": "SECURITY.md",
-  "stars": 1034,
+  "stars": 1035,
   "language": "TypeScript",
   "description": "AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.",
   "first_seen": "2026-11-01 21:52:33"
@@ -377,23 +377,23 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/ARM_NEON_2_x86_SSE",
-  "url": "https://github.com/intel/ARM_NEON_2_x86_SSE",
-  "sec_path": "SECURITY.md",
-  "stars": 497,
-  "language": "C",
-  "description": "The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsi…",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/rohd",
   "url": "https://github.com/intel/rohd",
   "sec_path": "SECURITY.md",
   "stars": 496,
   "language": "Dart",
   "description": "The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language.",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/ARM_NEON_2_x86_SSE",
+  "url": "https://github.com/intel/ARM_NEON_2_x86_SSE",
+  "sec_path": "SECURITY.md",
+  "stars": 495,
+  "language": "C",
+  "description": "The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsi…",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -767,7 +767,7 @@
   "full_name": "intel/linux-intel-lts",
   "url": "https://github.com/intel/linux-intel-lts",
   "sec_path": "security.md",
-  "stars": 251,
+  "stars": 250,
   "language": null,
   "description": "Intel LTS kernel, the kernel tree is a reference tree that contains enabling for Intel CPU's that may be up-streamed in a newer kernel version. ",
   "first_seen": "2026-11-01 21:52:33"

@@ -62,7 +62,7 @@
   "full_name": "google/zx",
   "url": "https://github.com/google/zx",
   "sec_path": ".github/SECURITY.md",
-  "stars": 45833,
+  "stars": 45832,
   "language": "JavaScript",
   "description": "A tool for writing better scripts",
   "license": null,
@@ -74,7 +74,7 @@
   "full_name": "google/googletest",
   "url": "https://github.com/google/googletest",
   "sec_path": "error",
-  "stars": 39700,
+  "stars": 39701,
   "language": "C++",
   "description": "GoogleTest - Google Testing and Mocking Framework",
   "first_seen": "2026-11-01 20:53:27"
@@ -85,7 +85,7 @@
   "full_name": "google/langextract",
   "url": "https://github.com/google/langextract",
   "sec_path": "error",
-  "stars": 39262,
+  "stars": 39261,
   "language": "Python",
   "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
   "first_seen": "2026-11-01 20:53:27"
@@ -107,7 +107,7 @@
   "full_name": "google/flatbuffers",
   "url": "https://github.com/google/flatbuffers",
   "sec_path": "error",
-  "stars": 26610,
+  "stars": 26609,
   "language": "C++",
   "description": "FlatBuffers: Memory Efficient Serialization Library",
   "first_seen": "2026-11-01 20:53:27"
@@ -129,7 +129,7 @@
   "full_name": "google/ExoPlayer",
   "url": "https://github.com/google/ExoPlayer",
   "sec_path": "SECURITY.md",
-  "stars": 21936,
+  "stars": 21935,
   "language": "Java",
   "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media",
   "license": null,
@@ -152,7 +152,7 @@
   "full_name": "google/gvisor",
   "url": "https://github.com/google/gvisor",
   "sec_path": "SECURITY.md",
-  "stars": 19863,
+  "stars": 19864,
   "language": "Go",
   "description": "Application Kernel for Containers",
   "first_seen": "2026-11-01 20:53:27"
@@ -197,7 +197,7 @@
   "full_name": "google/ax",
   "url": "https://github.com/google/ax",
   "sec_path": "SECURITY.md",
-  "stars": 14506,
+  "stars": 14510,
   "language": "Go",
   "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
   "first_seen": "2026-11-01 20:53:27"
@@ -208,7 +208,7 @@
   "full_name": "google/or-tools",
   "url": "https://github.com/google/or-tools",
   "sec_path": "error",
-  "stars": 14323,
+  "stars": 14326,
   "language": "C++",
   "description": "Google's Operations Research tools:",
   "first_seen": "2026-11-01 20:53:27"
@@ -219,7 +219,7 @@
   "full_name": "google/oss-fuzz",
   "url": "https://github.com/google/oss-fuzz",
   "sec_path": "error",
-  "stars": 12912,
+  "stars": 12916,
   "language": "Shell",
   "description": "OSS-Fuzz - continuous fuzzing for open source software.",
   "first_seen": "2026-11-01 20:53:27"
@@ -230,9 +230,20 @@
   "full_name": "google/sanitizers",
   "url": "https://github.com/google/sanitizers",
   "sec_path": "error",
-  "stars": 12518,
+  "stars": 12517,
   "language": "C",
   "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
+  "first_seen": "2026-11-01 20:53:27"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
+  "full_name": "google/elephant-goldfish-model",
+  "url": "https://github.com/google/elephant-goldfish-model",
+  "sec_path": "error",
+  "stars": 11398,
+  "language": "Python",
+  "description": "Open-source skills for designing and reviewing software with AI agents",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -245,17 +256,6 @@
   "language": "Dart",
   "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
   "first_seen": "2026-11-01 18:56:43"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/elephant-goldfish-model",
-  "url": "https://github.com/google/elephant-goldfish-model",
-  "sec_path": "error",
-  "stars": 11281,
-  "language": "Python",
-  "description": "Open-source skills for designing and reviewing software with AI agents",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -286,7 +286,7 @@
   "full_name": "google/adk-go",
   "url": "https://github.com/google/adk-go",
   "sec_path": "error",
-  "stars": 8927,
+  "stars": 8930,
   "language": "Go",
   "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
   "first_seen": "2026-11-01 20:53:27"
@@ -354,7 +354,7 @@
   "full_name": "google/security-research",
   "url": "https://github.com/google/security-research",
   "sec_path": "error",
-  "stars": 4726,
+  "stars": 4727,
   "language": "C",
   "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
   "first_seen": "2026-11-01 20:53:27"
@@ -411,7 +411,7 @@
   "full_name": "google/oboe",
   "url": "https://github.com/google/oboe",
   "sec_path": "error",
-  "stars": 4129,
+  "stars": 4128,
   "language": "C++",
   "description": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
   "first_seen": "2026-11-01 20:53:27"
@@ -479,7 +479,7 @@
   "full_name": "google/mantis",
   "url": "https://github.com/google/mantis",
   "sec_path": "error",
-  "stars": 2704,
+  "stars": 2705,
   "language": "Python",
   "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
   "first_seen": "2026-11-01 20:53:27"
@@ -702,7 +702,7 @@
   "full_name": "google/paranoid_crypto",
   "url": "https://github.com/google/paranoid_crypto",
   "sec_path": "error",
-  "stars": 890,
+  "stars": 891,
   "language": "Python",
   "description": "Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.",
   "first_seen": "2026-11-01 20:53:27"
@@ -1322,7 +1322,7 @@
   "sec_path": "error",
   "stars": 56,
   "language": "Python",
-  "description": "Ultra-Wideband (UWB) hardware simulation in Rust",
+  "description": "Ultra-Wideband (UWB) and FiRa UCI spatial simulator in Rust",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -1619,6 +1619,18 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/three-live",
+  "url": "https://github.com/google/three-live",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "TypeScript",
+  "description": "AI-first 3D & spatial computing runtime and native JIT compiler for WebGL2/WebXR, Android (Filament & Jetpack XR), and iOS/visionOS (RealityKit)",
+  "license": null,
+  "first_seen": "2026-11-02 04:18:39"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/chrome-enterprise-premium-mcp",
   "url": "https://github.com/google/chrome-enterprise-premium-mcp",
   "sec_path": "SECURITY.md",
@@ -1741,18 +1753,6 @@
   "language": "C++",
   "description": "P4 infra utility library",
   "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/three-live",
-  "url": "https://github.com/google/three-live",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": "TypeScript",
-  "description": "AI-first 3D & spatial computing runtime and native JIT compiler for WebGL2/WebXR, Android (Filament & Jetpack XR), and iOS/visionOS (RealityKit)",
-  "license": null,
-  "first_seen": "2026-11-02 04:18:39"
  },
  {
   "vendor": "谷歌",

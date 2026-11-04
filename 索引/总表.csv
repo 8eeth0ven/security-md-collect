@@ -290,19 +290,19 @@ Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https:
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,128643,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66931,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52443,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45415,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38486,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45418,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38488,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32222,Go,SECURITY.md,Run Kubernetes locally
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29177,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25768,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24532,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23103,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23102,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19437,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17080,Go,SECURITY.md,Workflow Engine for Kubernetes
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16696,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13893,Go,SECURITY.md,Exporter for machine metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13053,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12524,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12525,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12075,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kompose,https://github.com/kubernetes/kompose,10642,Go,SECURITY.md,Convert Compose to Kubernetes
 CNCF云原生基金会,无(开源基金会),containerd,containerd/nerdctl,https://github.com/containerd/nerdctl,10464,Go,SECURITY.md,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
@@ -326,7 +326,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/node-problem-d
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/pushgateway,https://github.com/prometheus/pushgateway,3375,Go,SECURITY.md,Push acceptor for ephemeral and batch jobs.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/jmx_exporter,https://github.com/prometheus/jmx_exporter,3334,Java,SECURITY.md,A process for collecting metrics using JMX MBeans for Prometheus consumption
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/gateway,https://github.com/envoyproxy/gateway,3127,Go,SECURITY.md,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
-CNCF云原生基金会,无(开源基金会),istio,istio/community,https://github.com/istio/community,3117,Go,.github/SECURITY.md,Istio governance material.
+CNCF云原生基金会,无(开源基金会),istio,istio/community,https://github.com/istio/community,3118,Go,.github/SECURITY.md,Istio governance material.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/git-sync,https://github.com/kubernetes/git-sync,2745,Shell,SECURITY.md,A sidecar app which clones a git repo and keeps it in sync with the upstream.
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-events,https://github.com/argoproj/argo-events,2710,Go,SECURITY.md,Event-driven Automation Framework for Kubernetes
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/OpenMetrics,https://github.com/prometheus/OpenMetrics,2541,Go,SECURITY.md,Evolving the Prometheus exposition format into a standard.
@@ -779,7 +779,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/huaweicloud-devkit,https://github.com/huaweicloud/huaweicloud-devkit,71,JavaScript,SECURITY.md," Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Clo…"
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/huaweicloud-sdk-c-obs,https://github.com/huaweicloud/huaweicloud-sdk-c-obs,58,C,SECURITY.md,
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/agentarts-sdk-java,https://github.com/huaweicloud/agentarts-sdk-java,3,Java,SECURITY.md,华为云agentarts-sdk-java是一个专为华为云AgentArts平台设计的面向开发者的Java开发工具包。该SDK支持使用AgentScope等开源高码Agent框架开发的智能体，实现一键部署到华为云，从而实现零基础设施管理及完全可控的云端部署。它通过本地代码开发Agent和能力增强（沙箱工具、记忆库、网关…
-华为云,Huawei PSIRT,huaweicloud,huaweicloud/cloudrobo-sdk-client,https://github.com/huaweicloud/cloudrobo-sdk-client,1,Python,SECURITY.md,
+华为云,Huawei PSIRT,huaweicloud,huaweicloud/cloudrobo-sdk-client,https://github.com/huaweicloud/cloudrobo-sdk-client,2,Python,SECURITY.md,
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/aishell-dsh-plugins,https://github.com/huaweicloud/aishell-dsh-plugins,1,,SECURITY.md,Huawei Cloud AI Shell Plugins Based on DSH.
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/repository-requests,https://github.com/huaweicloud/repository-requests,1,Python,SECURITY.md,huaweicloud 组织建仓机器人：提交建仓申请 Issue → 校验 → 审批 → 自动创建仓库
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/devspace-devbox,https://github.com/huaweicloud/devspace-devbox,,,SECURITY.md,开发者环境沙箱端侧项目，包含SDK、CLI
@@ -820,7 +820,7 @@ UCloud,无,ucloud,ucloud/spark,https://github.com/ucloud/spark,0,Scala,docs/secu
 唯品会,VSRC,vipshop,vipshop/kubeblocks,https://github.com/vipshop/kubeblocks,0,Go,SECURITY.md,"KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s."
 唯品会,VSRC,vipshop,vipshop/higress,https://github.com/vipshop/higress,0,Go,SECURITY.md,🤖 AI Gateway | AI Native API Gateway
 唯品会,VSRC,vipshop,vipshop/istio,https://github.com/vipshop/istio,0,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
-科大讯飞,无,iflytek,iflytek/astron-rpa,https://github.com/iflytek/astron-rpa,5284,Python,SECURITY.md,Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
+科大讯飞,无,iflytek,iflytek/astron-rpa,https://github.com/iflytek/astron-rpa,5283,Python,SECURITY.md,Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 科大讯飞,无,iflytek,iflytek/AutoSpark,https://github.com/iflytek/AutoSpark,50,Python,SECURITY.md,基于SuperAGI 专注中文领域的大模型AI应用框架
 科大讯飞,无,iflytek,iflytek/memflywheel,https://github.com/iflytek/memflywheel,42,TypeScript,SECURITY.md,"Agent-native long-term memory that learns after every run. File-native, auditable, and integrated with Pi, Hermes, OpenCode, and OpenClaw."
 科大讯飞,无,iflytek,iflytek/domux,https://github.com/iflytek/domux,33,Python,SECURITY.md,"A lightweight low-latency model converting natural home commands into structured data, fine-tuned via SFT and GRPO."
@@ -3603,44 +3603,44 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101101,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77637,Python,SECURITY.md,Models and examples built with TensorFlow
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular.js,https://github.com/angular/angular.js,58452,JavaScript,SECURITY.md,AngularJS - HTML enhanced for web apps!
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/zx,https://github.com/google/zx,45833,JavaScript,.github/SECURITY.md,A tool for writing better scripts
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/googletest,https://github.com/google/googletest,39700,C++,error,GoogleTest - Google Testing and Mocking Framework
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/langextract,https://github.com/google/langextract,39262,Python,error,A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/zx,https://github.com/google/zx,45832,JavaScript,.github/SECURITY.md,A tool for writing better scripts
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/googletest,https://github.com/google/googletest,39701,C++,error,GoogleTest - Google Testing and Mocking Framework
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/langextract,https://github.com/google/langextract,39261,Python,error,A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular-cli,https://github.com/angular/angular-cli,27018,TypeScript,SECURITY.md,CLI tool for Angular
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/flatbuffers,https://github.com/google/flatbuffers,26610,C++,error,FlatBuffers: Memory Efficient Serialization Library
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/flatbuffers,https://github.com/google/flatbuffers,26609,C++,error,FlatBuffers: Memory Efficient Serialization Library
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/components,https://github.com/angular/components,25041,TypeScript,SECURITY.md,Component infrastructure and Material Design components for Angular
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/ExoPlayer,https://github.com/google/ExoPlayer,21936,Java,SECURITY.md,This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/ExoPlayer,https://github.com/google/ExoPlayer,21935,Java,SECURITY.md,This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/filament,https://github.com/google/filament,20688,C++,SECURITY.md,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2"
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/gvisor,https://github.com/google/gvisor,19863,Go,SECURITY.md,Application Kernel for Containers
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/gvisor,https://github.com/google/gvisor,19864,Go,SECURITY.md,Application Kernel for Containers
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/magika,https://github.com/google/magika,18762,Rust,SECURITY.md,Fast and accurate AI powered file content types detection 
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/material,https://github.com/angular/material,16383,JavaScript,SECURITY.md,Material design for AngularJS
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/brotli,https://github.com/google/brotli,15083,TypeScript,SECURITY.md,Brotli compression format
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/ax,https://github.com/google/ax,14506,Go,SECURITY.md,Agent Executor (AX) is Google's open agentic orchestration runtime
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/or-tools,https://github.com/google/or-tools,14323,C++,error,Google's Operations Research tools:
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/oss-fuzz,https://github.com/google/oss-fuzz,12912,Shell,error,OSS-Fuzz - continuous fuzzing for open source software.
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/sanitizers,https://github.com/google/sanitizers,12518,C,error,"AddressSanitizer, ThreadSanitizer, MemorySanitizer"
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/ax,https://github.com/google/ax,14510,Go,SECURITY.md,Agent Executor (AX) is Google's open agentic orchestration runtime
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/or-tools,https://github.com/google/or-tools,14326,C++,error,Google's Operations Research tools:
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/oss-fuzz,https://github.com/google/oss-fuzz,12916,Shell,error,OSS-Fuzz - continuous fuzzing for open source software.
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/sanitizers,https://github.com/google/sanitizers,12517,C,error,"AddressSanitizer, ThreadSanitizer, MemorySanitizer"
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/elephant-goldfish-model,https://github.com/google/elephant-goldfish-model,11398,Python,error,Open-source skills for designing and reviewing software with AI agents
 谷歌,"自建（Google VRP, bughunters.google.com）",dart-lang,dart-lang/sdk,https://github.com/dart-lang/sdk,11334,Dart,SECURITY.md,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more."
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/elephant-goldfish-model,https://github.com/google/elephant-goldfish-model,11281,Python,error,Open-source skills for designing and reviewing software with AI agents
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/auto,https://github.com/google/auto,10561,Java,error,A collection of source code generators for Java.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/re2,https://github.com/google/re2,9842,C++,SECURITY.md,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library."
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/adk-go,https://github.com/google/adk-go,8927,Go,error,"An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/adk-go,https://github.com/google/adk-go,8930,Go,error,"An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angularfire,https://github.com/angular/angularfire,7793,TypeScript,SECURITY.md,Angular + Firebase = ❤️
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/draco,https://github.com/google/draco,7541,C++,SECURITY.md,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics…
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorboard,https://github.com/tensorflow/tensorboard,7242,TypeScript,SECURITY.md,TensorFlow's Visualization Toolkit
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/j2objc,https://github.com/google/j2objc,6038,Java,error,A Java to iOS Objective-C translation tool and runtime.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/EarlGrey,https://github.com/google/EarlGrey,5700,Objective-C,error,:tea: iOS UI Automation Test Framework
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/security-research,https://github.com/google/security-research,4726,C,error,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/security-research,https://github.com/google/security-research,4727,C,error,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-cmp,https://github.com/google/go-cmp,4683,Go,error,Package for comparing Go values in tests
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/santa,https://github.com/google/santa,4497,Objective-C++,SECURITY.md,A binary authorization and monitoring system for macOS
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/vscode-go,https://github.com/golang/vscode-go,4268,TypeScript,SECURITY.md,Go extension for Visual Studio Code
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/tamperchrome,https://github.com/google/tamperchrome,4228,TypeScript,SECURITY.md,Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all …
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/oboe,https://github.com/google/oboe,4129,C++,error,Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/oboe,https://github.com/google/oboe,4128,C++,error,Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-containerregistry,https://github.com/google/go-containerregistry,4107,Go,SECURITY.md,Go library and CLIs for working with container registries
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/universal,https://github.com/angular/universal,3984,TypeScript,SECURITY.md,Server-side rendering and Prerendering for Angular
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/OpenSK,https://github.com/google/OpenSK,3476,Rust,error,OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3143,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mozc,https://github.com/google/mozc,3033,C++,error,Mozc - a Japanese Input Method Editor designed for multi-platform
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mantis,https://github.com/google/mantis,2704,Python,error,"A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities."
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mantis,https://github.com/google/mantis,2705,Python,error,"A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/boringssl,https://github.com/google/boringssl,2294,C++,SECURITY.md,Mirror of BoringSSL
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/quantum,https://github.com/tensorflow/quantum,2203,Python,.github/SECURITY.md,An open-source Python framework for hybrid quantum-classical machine learning.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/shaderc,https://github.com/google/shaderc,2198,C++,error,"A collection of tools, libraries, and tests for Vulkan shader compilation."
@@ -3660,7 +3660,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/kati,https://github.com/google/kati,1027,Rust,error,An experimental GNU make clone
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/fhir,https://github.com/google/fhir,963,C++,error,FHIR Protocol Buffers
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/gousb,https://github.com/google/gousb,935,Go,error,gousb provides low-level interface for accessing USB devices
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/paranoid_crypto,https://github.com/google/paranoid_crypto,890,Python,error,Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/paranoid_crypto,https://github.com/google/paranoid_crypto,891,Python,error,Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/kctf,https://github.com/google/kctf,794,Go,SECURITY.md,"kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see"
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/vscode-ng-language-service,https://github.com/angular/vscode-ng-language-service,792,TypeScript,SECURITY.md,Angular extension for Visual Studio Code
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mobly,https://github.com/google/mobly,759,Python,error,E2E test framework for tests with complex environment requirements.
@@ -3715,7 +3715,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mpact-sim,https://github.com/google/mpact-sim,61,C++,error,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/fresnel,https://github.com/google/fresnel,61,Go,error,A cross platform solution for remote OS provisioning.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/dwh-migration-tools,https://github.com/google/dwh-migration-tools,60,Java,error,
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/pica,https://github.com/google/pica,56,Python,error,Ultra-Wideband (UWB) hardware simulation in Rust
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/pica,https://github.com/google/pica,56,Python,error,Ultra-Wideband (UWB) and FiRa UCI spatial simulator in Rust
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/material-tools,https://github.com/angular/material-tools,48,TypeScript,SECURITY.md,Tools for AngularJS Material
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/meridian-geox,https://github.com/google/meridian-geox,46,Python,error,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/aarch64-paging,https://github.com/google/aarch64-paging,46,Rust,error,A Rust library to manipulate AArch64 VMSA EL1 page tables.
@@ -3742,6 +3742,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",firebase,firebase/firebase-studio-examples,https://github.com/firebase/firebase-studio-examples,14,TypeScript,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/intellij-community,https://github.com/google/intellij-community,14,Java,SECURITY.md,IntelliJ IDEA Community Edition & IntelliJ Platform
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/torq,https://github.com/google/torq,13,Python,error,
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/three-live,https://github.com/google/three-live,12,TypeScript,SECURITY.md,"AI-first 3D & spatial computing runtime and native JIT compiler for WebGL2/WebXR, Android (Filament & Jetpack XR), and iOS/visionOS (RealityKit)"
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/chrome-enterprise-premium-mcp,https://github.com/google/chrome-enterprise-premium-mcp,12,JavaScript,SECURITY.md,Reference implementation for a Chrome Enterprise Premium MCP server
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/exposure-notifications-private-analytics-ingestion,https://github.com/google/exposure-notifications-private-analytics-ingestion,12,Java,SECURITY.md,This repository contains implementation to process private data shares collected according to the Exposure Notification Private Analytics protocol. It assumes p…
 谷歌,"自建（Google VRP, bughunters.google.com）",dart-lang,dart-lang/.github,https://github.com/dart-lang/.github,11,,SECURITY.md,GitHub default community health file for dart-lang repos
@@ -3753,7 +3754,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/TPM,https://github.com/google/TPM,9,C,SECURITY.md,Google's fork of the TPM reference code. Tracks https://github.com/TrustedComputingGroup/TPM  for v1.83 onward. Tracked https://github.com/microsoft/ms-tpm-20-r…
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/.github,https://github.com/angular/.github,8,,SECURITY.md,default community health files
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/p4-infra,https://github.com/google/p4-infra,8,C++,error,P4 infra utility library
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/three-live,https://github.com/google/three-live,8,TypeScript,SECURITY.md,"AI-first 3D & spatial computing runtime and native JIT compiler for WebGL2/WebXR, Android (Filament & Jetpack XR), and iOS/visionOS (RealityKit)"
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mpact-cheriot,https://github.com/google/mpact-cheriot,8,C++,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/ninja-to-soong,https://github.com/google/ninja-to-soong,7,Rust,error,Generate Soong files from Ninja
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tf-build-actions,https://github.com/tensorflow/tf-build-actions,6,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
@@ -4752,15 +4752,15 @@ Intel,自建（Intel Bug Bounty）,intel,intel/neural-compressor,https://github.
 Intel,自建（Intel Bug Bounty）,intel,intel/BigDL,https://github.com/intel/BigDL,2698,Jupyter Notebook,SECURITY.md,"BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray"
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-extension-for-transformers,https://github.com/intel/intel-extension-for-transformers,2174,Python,SECURITY.md,⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 Intel,自建（Intel Bug Bounty）,intel,intel/openvino-plugins-ai-audacity,https://github.com/intel/openvino-plugins-ai-audacity,2155,C++,security.md,"A set of AI-enabled effects, generators, and analyzers for Audacity®."
-Intel,自建（Intel Bug Bounty）,intel,intel/intel-extension-for-pytorch,https://github.com/intel/intel-extension-for-pytorch,2010,Python,SECURITY.md,A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
+Intel,自建（Intel Bug Bounty）,intel,intel/intel-extension-for-pytorch,https://github.com/intel/intel-extension-for-pytorch,2009,Python,SECURITY.md,A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 Intel,自建（Intel Bug Bounty）,intel,intel/auto-round,https://github.com/intel/auto-round,1700,Python,SECURITY.md,"PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度"
-Intel,自建（Intel Bug Bounty）,intel,intel/llvm,https://github.com/intel/llvm,1549,LLVM,SECURITY.md,Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
+Intel,自建（Intel Bug Bounty）,intel,intel/llvm,https://github.com/intel/llvm,1550,LLVM,SECURITY.md,Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 Intel,自建（Intel Bug Bounty）,intel,intel/compute-runtime,https://github.com/intel/compute-runtime,1465,C++,Security.md,Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
-Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.sgx,https://github.com/intel/confidential-computing.sgx,1459,C++,SECURITY.md,Intel® Software Guard Extensions (Intel® SGX)
+Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.sgx,https://github.com/intel/confidential-computing.sgx,1460,C++,SECURITY.md,Intel® Software Guard Extensions (Intel® SGX)
 Intel,自建（Intel Bug Bounty）,intel,intel/media-driver,https://github.com/intel/media-driver,1255,C,security.md,"Intel Graphics Media Driver to support hardware decode, encode and video processing."
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/oneAPI-samples,https://github.com/oneapi-src/oneAPI-samples,1170,C++,SECURITY.md,Samples for Intel® oneAPI Toolkits
 Intel,自建（Intel Bug Bounty）,intel,intel/isa-l,https://github.com/intel/isa-l,1107,C,SECURITY.md,Intelligent Storage Acceleration Library
-Intel,自建（Intel Bug Bounty）,intel,intel/AI-Playground,https://github.com/intel/AI-Playground,1034,TypeScript,SECURITY.md,"AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU."
+Intel,自建（Intel Bug Bounty）,intel,intel/AI-Playground,https://github.com/intel/AI-Playground,1035,TypeScript,SECURITY.md,"AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU."
 Intel,自建（Intel Bug Bounty）,intel,intel/xess,https://github.com/intel/xess,1022,C,SECURITY.md,Intel XeSS SDK
 Intel,自建（Intel Bug Bounty）,intel,intel/caffe,https://github.com/intel/caffe,848,C++,error,"This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, in particular Intel® Xeon processors."
 Intel,自建（Intel Bug Bounty）,intel,intel/gprofiler,https://github.com/intel/gprofiler,840,Python,SECURITY.md,"gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on."
@@ -4778,8 +4778,8 @@ Intel,自建（Intel Bug Bounty）,intel,intel/tinycbor,https://github.com/intel
 Intel,自建（Intel Bug Bounty）,intel,intel/llm-scaler,https://github.com/intel/llm-scaler,587,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/yarpgen,https://github.com/intel/yarpgen,578,C++,SECURITY.md,Yet Another Random Program Generator
 Intel,自建（Intel Bug Bounty）,intel,intel/wds,https://github.com/intel/wds,518,C++,error,Wireless Display Software For Linux OS (WDS)
-Intel,自建（Intel Bug Bounty）,intel,intel/ARM_NEON_2_x86_SSE,https://github.com/intel/ARM_NEON_2_x86_SSE,497,C,SECURITY.md,The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsi…
 Intel,自建（Intel Bug Bounty）,intel,intel/rohd,https://github.com/intel/rohd,496,Dart,SECURITY.md,The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language.
+Intel,自建（Intel Bug Bounty）,intel,intel/ARM_NEON_2_x86_SSE,https://github.com/intel/ARM_NEON_2_x86_SSE,495,C,SECURITY.md,The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsi…
 Intel,自建（Intel Bug Bounty）,intel,intel/linux-npu-driver,https://github.com/intel/linux-npu-driver,474,C++,security.md,Intel® NPU (Neural Processing Unit) Driver
 Intel,自建（Intel Bug Bounty）,intel,intel/kernel-fuzzer-for-xen-project,https://github.com/intel/kernel-fuzzer-for-xen-project,474,C,security.md,"Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL"
 Intel,自建（Intel Bug Bounty）,intel,intel/PerfSpect,https://github.com/intel/PerfSpect,461,Go,SECURITY.md,Open-source Linux performance suite for engineers—profiling and tuning workloads and system configurations.
@@ -4813,7 +4813,7 @@ Intel,自建（Intel Bug Bounty）,intel,intel/iaprof,https://github.com/intel/i
 Intel,自建（Intel Bug Bounty）,intel,intel/dffml,https://github.com/intel/dffml,260,Python,SECURITY.md,The easiest way to use Machine Learning. Mix and match underlying ML libraries and data set sources. Generate new datasets or modify existing ones with ease.
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-ai-builder,https://github.com/intel/intel-ai-builder,259,JavaScript,SECURITY.md,"Intel® AI Builder (SuperClaw, SuperBuilder)"
 Intel,自建（Intel Bug Bounty）,intel,intel/ipu6-drivers,https://github.com/intel/ipu6-drivers,254,C,SECURITY.md,
-Intel,自建（Intel Bug Bounty）,intel,intel/linux-intel-lts,https://github.com/intel/linux-intel-lts,251,,security.md,"Intel LTS kernel, the kernel tree is a reference tree that contains enabling for Intel CPU's that may be up-streamed in a newer kernel version. "
+Intel,自建（Intel Bug Bounty）,intel,intel/linux-intel-lts,https://github.com/intel/linux-intel-lts,250,,security.md,"Intel LTS kernel, the kernel tree is a reference tree that contains enabling for Intel CPU's that may be up-streamed in a newer kernel version. "
 Intel,自建（Intel Bug Bounty）,intel,intel/userspace-cni-network-plugin,https://github.com/intel/userspace-cni-network-plugin,248,Go,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-sgx-ssl,https://github.com/intel/intel-sgx-ssl,245,Assembly,SECURITY.md,Intel® Software Guard Extensions SSL
 Intel,自建（Intel Bug Bounty）,intel,intel/libva-utils,https://github.com/intel/libva-utils,244,C,security.md,Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)
@@ -7610,19 +7610,19 @@ JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/external-annotati
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/templating,https://github.com/JetBrains/templating,,C#,SECURITY.md,This repo contains the Template Engine which is used by dotnet new
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/react-buddy-react,https://github.com/JetBrains/react-buddy-react,,JavaScript,SECURITY.md,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
 GitLab,HackerOne（GitLab）,gitlabhq,gitlabhq/cli,https://github.com/gitlabhq/cli,51,Go,SECURITY.md,Read only mirror of https://gitlab.com/gitlab-org/cli
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/spec-kit,https://github.com/github/spec-kit,146628,Python,SECURITY.md,💫 Toolkit to help you get started with SDD or any other process!
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/awesome-copilot,https://github.com/github/awesome-copilot,40767,JavaScript,SECURITY.md,"Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/github-mcp-server,https://github.com/github/github-mcp-server,34201,Go,SECURITY.md,GitHub's official MCP Server
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot.vim,https://github.com/github/copilot.vim,11704,Vim Script,SECURITY.md,Neovim plugin for GitHub Copilot
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-sdk,https://github.com/github/copilot-sdk,10654,Java,SECURITY.md,Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/roadmap,https://github.com/github/roadmap,8957,,SECURITY.md,GitHub public roadmap
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/spec-kit,https://github.com/github/spec-kit,146778,Python,SECURITY.md,💫 Toolkit to help you get started with SDD or any other process!
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/awesome-copilot,https://github.com/github/awesome-copilot,40776,JavaScript,SECURITY.md,"Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/github-mcp-server,https://github.com/github/github-mcp-server,34206,Go,SECURITY.md,GitHub's official MCP Server
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot.vim,https://github.com/github/copilot.vim,11705,Vim Script,SECURITY.md,Neovim plugin for GitHub Copilot
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-sdk,https://github.com/github/copilot-sdk,10656,Java,SECURITY.md,Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/roadmap,https://github.com/github/roadmap,8958,,SECURITY.md,GitHub public roadmap
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/CopilotForXcode,https://github.com/github/CopilotForXcode,6363,Swift,SECURITY.md,AI coding assistant for Xcode
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-aw,https://github.com/github/gh-aw,5572,Go,SECURITY.md,GitHub Agentic Workflows
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/mona-sans,https://github.com/github/mona-sans,4185,Shell,SECURITY.md,"Mona Sans, a variable font from GitHub"
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/mona-sans,https://github.com/github/mona-sans,4186,Shell,SECURITY.md,"Mona Sans, a variable font from GitHub"
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-cli-for-beginners,https://github.com/github/copilot-cli-for-beginners,2906,Tape,SECURITY.md,Learn how to get started using the GitHub Copilot CLI!
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/advisory-database,https://github.com/github/advisory-database,2543,,SECURITY.md,Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/hubot-sans,https://github.com/github/hubot-sans,1966,Shell,SECURITY.md,"Hubot Sans, a variable font from GitHub"
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-stack,https://github.com/github/gh-stack,1741,Go,SECURITY.md,GitHub Stacked PRs
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-stack,https://github.com/github/gh-stack,1743,Go,SECURITY.md,GitHub Stacked PRs
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/rest-api-description,https://github.com/github/rest-api-description,1645,,SECURITY.md,An OpenAPI description for GitHub's REST API
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/catalyst,https://github.com/github/catalyst,1436,TypeScript,SECURITY.md,Catalyst is a set of patterns and techniques for developing components within a complex application.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/.github,https://github.com/github/.github,1240,,SECURITY.md,Community health files for the @GitHub organization
@@ -7633,7 +7633,7 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/innovationgraph,h
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/ruleset-recipes,https://github.com/github/ruleset-recipes,519,,SECURITY.md,Quickstart your use of Repository Rules with prebuilt rulesets ready to import. 
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/codeql-go,https://github.com/github/codeql-go,471,,SECURITY.md,The CodeQL extractor and libraries for Go.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/local-action,https://github.com/github/local-action,459,TypeScript,SECURITY.md,A simple utility for running and debugging a GitHub Action locally
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/entitlements-app,https://github.com/github/entitlements-app,447,Ruby,SECURITY.md,The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/entitlements-app,https://github.com/github/entitlements-app,448,Ruby,SECURITY.md,The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/storybook-addon-performance-panel,https://github.com/github/storybook-addon-performance-panel,426,TypeScript,SECURITY.md,A Storybook Addon for tracking web performance
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/accessibility-scanner,https://github.com/github/accessibility-scanner,392,TypeScript,SECURITY.md,"Finds potential accessibility gaps, files GitHub issues to track them, and attempts to fix them with Copilot."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-plugins,https://github.com/github/copilot-plugins,381,PowerShell,SECURITY.md,"The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot."
@@ -7650,9 +7650,9 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/ruby,https://gith
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-aw-mcpg,https://github.com/github/gh-aw-mcpg,184,Go,SECURITY.md,GitHub Agentic Workflows MCP Gateway
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/custom-element-boilerplate,https://github.com/github/custom-element-boilerplate,178,TypeScript,SECURITY.md,Boilerplate for creating a custom element.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/template-parts,https://github.com/github/template-parts,166,TypeScript,SECURITY.md,An implementation of the Template Parts proposal
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/replica,https://github.com/github/replica,163,TypeScript,SECURITY.md,Interactive prototyping tools for your team.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-aw-firewall,https://github.com/github/gh-aw-firewall,157,TypeScript,docs/security.md,GitHub Agentic Workflows Firewall
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/super-linter,https://github.com/github/super-linter,157,Shell,SECURITY.md,Combination of multiple linters to install as a GitHub Action
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/replica,https://github.com/github/replica,156,TypeScript,SECURITY.md,Interactive prototyping tools for your team.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/stable-socket,https://github.com/github/stable-socket,143,TypeScript,SECURITY.md,A web socket that reconnects.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/dev-days,https://github.com/github/dev-days,138,HTML,SECURITY.md,
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/rust-gems,https://github.com/github/rust-gems,136,Rust,SECURITY.md,A collection of rust algorithms and data structures
@@ -7711,10 +7711,10 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/artifact-attestat
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/TUIKit,https://github.com/github/TUIKit,25,TypeScript,SECURITY.md,A spec-driven system for building TUI components across programming languages
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/models-ai-sdk,https://github.com/github/models-ai-sdk,25,TypeScript,security.md,GitHub Models AI SDK
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/Dynamic-Template-Engine,https://github.com/github/Dynamic-Template-Engine,24,TypeScript,SECURITY.md,A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using template…
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/spec-kit-copilot,https://github.com/github/spec-kit-copilot,23,JavaScript,SECURITY.md,"Copilot-native integrations for Spec Kit across GitHub Copilot CLI, the Copilot App, and VS Code."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-engine-sdk,https://github.com/github/copilot-engine-sdk,23,TypeScript,SECURITY.md,SDK for Copilot Agent Engines
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/spec-kit-copilot,https://github.com/github/spec-kit-copilot,22,JavaScript,SECURITY.md,"Copilot-native integrations for Spec Kit across GitHub Copilot CLI, the Copilot App, and VS Code."
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/actions-lockfile,https://github.com/github/actions-lockfile,21,Go,SECURITY.md,"The authoritative definition of the GitHub Actions dependency lockfile format, plus a Go parser for auditing and verifying the action pins in use across a repo'…"
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/KustoSchemaTools,https://github.com/github/KustoSchemaTools,21,C#,SECURITY.md,This repository contains C# code to synchronize database schemas from Azure Data Explorer (Kusto) to yaml files and back.
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/actions-lockfile,https://github.com/github/actions-lockfile,20,Go,SECURITY.md,"The authoritative definition of the GitHub Actions dependency lockfile format, plus a Go parser for auditing and verifying the action pins in use across a repo'…"
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-advanced-security-plugin,https://github.com/github/copilot-advanced-security-plugin,20,,SECURITY.md,The official GitHub Copilot Advanced Security plugin
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-sdk-server-sample,https://github.com/github/copilot-sdk-server-sample,19,TypeScript,SECURITY.md,Sample of a multiuser system using GitHub Copilot SDK
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/depstubber,https://github.com/github/depstubber,19,Go,SECURITY.md,"Depstubber generates type-correct stubs for Go dependencies, for use in testing"
@@ -7753,6 +7753,9 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/wry,https://githu
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/tauri,https://github.com/github/tauri,,Rust,SECURITY.md,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-elm,https://github.com/github/gh-elm,,Go,SECURITY.md,Enterprise Live Migrations CLI for GHES to GitHub with Data Residency migrations
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-code-review-plugin-dist,https://github.com/github/copilot-code-review-plugin-dist,,,SECURITY.md,Release binaries for the Copilot code review plugin
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/evals-action,https://github.com/github/evals-action,0,TypeScript,SECURITY.md,"GitHub Action for Copilot Evals: lint evaluation definitions, preview execution plans, and run Vally suites in CI with clear results and regression reporting."
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/evals,https://github.com/github/evals,0,,SECURITY.md,"Explore, evaluate, and improve GitHub Copilot customizations with repeatable evals and saved results."
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/plugin-marketplace-starter,https://github.com/github/plugin-marketplace-starter,0,JavaScript,SECURITY.md,"A starter for building a GitHub Copilot plugin marketplace with skills, agents, MCP tools, and evals."
 Docker,HackerOne（Docker）,moby,moby/moby,https://github.com/moby/moby,72241,Go,SECURITY.md,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 Docker,HackerOne（Docker）,docker,docker/compose,https://github.com/docker/compose,38595,Go,.github/SECURITY.md,Define and run multi-container applications with Docker
 Docker,HackerOne（Docker）,moby,moby/buildkit,https://github.com/moby/buildkit,10358,Go,.github/SECURITY.md,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
@@ -7813,8 +7816,8 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-plugin,https://github
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/serf,https://github.com/hashicorp/serf,6081,Go,error,Service orchestration and management tool.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcl,https://github.com/hashicorp/hcl,5831,Go,SECURITY.md,HCL is the HashiCorp configuration language.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/golang-lru,https://github.com/hashicorp/golang-lru,5133,Go,error,Golang LRU cache
-HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/consul-template,https://github.com/hashicorp/consul-template,4818,Go,error,"Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data."
-HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/memberlist,https://github.com/hashicorp/memberlist,4130,Go,error,Golang package for gossip based membership and failure detection
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/consul-template,https://github.com/hashicorp/consul-template,4817,Go,error,"Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data."
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/memberlist,https://github.com/hashicorp/memberlist,4129,Go,error,Golang package for gossip based membership and failure detection
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/boundary,https://github.com/hashicorp/boundary,4065,Go,error,Boundary enables identity-based access management for dynamic infrastructure. 
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/yamux,https://github.com/hashicorp/yamux,2708,Go,error,Golang connection multiplexing library
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/go-multierror,https://github.com/hashicorp/go-multierror,2590,Go,error,A Go (golang) package for representing a list of errors as a single error.
@@ -8493,7 +8496,7 @@ New Relic,自建（New Relic Security）,newrelic,newrelic/nri-collectd,https://
 New Relic,自建（New Relic Security）,newrelic,newrelic/nri-zookeeper,https://github.com/newrelic/nri-zookeeper,1,Go,SECURITY.md,New Relic On Host Integration for Apache Zookeeper
 New Relic,自建（New Relic Security）,newrelic,newrelic/newrelic-grafana-plugin,https://github.com/newrelic/newrelic-grafana-plugin,0,Go,SECURITY.md,
 Sentry,自建（Sentry Security）,getsentry,getsentry/MobileBuildMCP,https://github.com/getsentry/MobileBuildMCP,6536,TypeScript,SECURITY.md,A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
-Sentry,自建（Sentry Security）,getsentry,getsentry/sentry-go,https://github.com/getsentry/sentry-go,1109,Go,.github/SECURITY.md,The official Go SDK for Sentry (sentry.io)
+Sentry,自建（Sentry Security）,getsentry,getsentry/sentry-go,https://github.com/getsentry/sentry-go,1110,Go,.github/SECURITY.md,The official Go SDK for Sentry (sentry.io)
 Sentry,自建（Sentry Security）,getsentry,getsentry/raven-go,https://github.com/getsentry/raven-go,555,Go,error,Sentry client in Go
 Sentry,自建（Sentry Security）,getsentry,getsentry/raven-objc,https://github.com/getsentry/raven-objc,97,Objective-C,error,This SDK is deprecated. Use https://github.com/getsentry/sentry-cocoa
 Sentry,自建（Sentry Security）,getsentry,getsentry/sentry-jira,https://github.com/getsentry/sentry-jira,94,Python,error,A Plugin for sentry that lets you create JIRA issues
