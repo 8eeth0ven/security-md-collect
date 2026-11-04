@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-04 07:37:48",
+ "generated_at": "2026-11-04 08:08:21",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10269,
-  "negative_cached": 48060
+  "sec_repos": 10282,
+  "negative_cached": 48062
  },
  "vendors": [
   {
@@ -689,7 +689,7 @@
     "ms-iot",
     "nuget"
    ],
-   "sec_repos": 2735
+   "sec_repos": 2748
   },
   {
    "vendor": "谷歌",
@@ -1971,11 +1971,5 @@
    "sec_repos": 25
   }
  ],
- "orgs_failed": [
-  "PlayStation",
-  "SamsungSDS",
-  "bosch",
-  "facebook",
-  "inspur"
- ]
+ "orgs_failed": []
 }
