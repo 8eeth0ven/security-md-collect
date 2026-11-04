@@ -5,7 +5,7 @@
   "full_name": "apache/superset",
   "url": "https://github.com/apache/superset",
   "sec_path": "SECURITY.md",
-  "stars": 75400,
+  "stars": 75404,
   "language": "Python",
   "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -16,7 +16,7 @@
   "full_name": "apache/airflow",
   "url": "https://github.com/apache/airflow",
   "sec_path": ".github/SECURITY.md",
-  "stars": 47355,
+  "stars": 47357,
   "language": "Python",
   "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
   "first_seen": "2026-11-01 18:03:32"
@@ -27,7 +27,7 @@
   "full_name": "apache/spark",
   "url": "https://github.com/apache/spark",
   "sec_path": "SECURITY.md",
-  "stars": 44407,
+  "stars": 44409,
   "language": "Scala",
   "description": "Apache Spark - A unified analytics engine for large-scale data processing",
   "first_seen": "2026-11-01 18:03:32"
@@ -49,7 +49,7 @@
   "full_name": "apache/kafka",
   "url": "https://github.com/apache/kafka",
   "sec_path": "SECURITY.md",
-  "stars": 34120,
+  "stars": 34122,
   "language": "Java",
   "description": "Apache Kafka - A distributed event streaming platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -71,7 +71,7 @@
   "full_name": "apache/brpc",
   "url": "https://github.com/apache/brpc",
   "sec_path": "SECURITY.md",
-  "stars": 17639,
+  "stars": 17638,
   "language": "C++",
   "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertis…",
   "first_seen": "2026-11-01 18:03:32"
@@ -93,7 +93,7 @@
   "full_name": "apache/doris",
   "url": "https://github.com/apache/doris",
   "sec_path": "SECURITY.md",
-  "stars": 16175,
+  "stars": 16178,
   "language": "Java",
   "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
   "first_seen": "2026-11-01 18:03:32"
@@ -126,7 +126,7 @@
   "full_name": "apache/dolphinscheduler",
   "url": "https://github.com/apache/dolphinscheduler",
   "sec_path": "SECURITY.md",
-  "stars": 14550,
+  "stars": 14552,
   "language": "Java",
   "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
   "first_seen": "2026-11-01 18:05:02"
@@ -159,7 +159,7 @@
   "full_name": "apache/jmeter",
   "url": "https://github.com/apache/jmeter",
   "sec_path": "SECURITY.md",
-  "stars": 9588,
+  "stars": 9590,
   "language": "Java",
   "description": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services",
   "first_seen": "2026-11-01 18:04:12"
@@ -170,7 +170,7 @@
   "full_name": "apache/datafusion",
   "url": "https://github.com/apache/datafusion",
   "sec_path": "SECURITY.md",
-  "stars": 9566,
+  "stars": 9570,
   "language": "Rust",
   "description": "Apache DataFusion SQL Query Engine",
   "first_seen": "2026-11-01 18:03:32"
@@ -247,7 +247,7 @@
   "full_name": "apache/iotdb",
   "url": "https://github.com/apache/iotdb",
   "sec_path": "SECURITY.md",
-  "stars": 6426,
+  "stars": 6425,
   "language": "Java",
   "description": "Apache IoTDB",
   "first_seen": "2026-11-01 18:04:12"
@@ -269,7 +269,7 @@
   "full_name": "apache/incubator-kie",
   "url": "https://github.com/apache/incubator-kie",
   "sec_path": "SECURITY.md",
-  "stars": 6341,
+  "stars": 6342,
   "language": "Java",
   "description": "Apache KIE (Knowledge Is Everything) is the home of Drools, OptaPlanner, jBPM, and Kogito.",
   "first_seen": "2026-11-01 18:04:12"
@@ -302,7 +302,7 @@
   "full_name": "apache/maka",
   "url": "https://github.com/apache/maka",
   "sec_path": "SECURITY.md",
-  "stars": 5934,
+  "stars": 5936,
   "language": "TypeScript",
   "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
   "first_seen": "2026-11-01 18:03:32"
@@ -368,7 +368,7 @@
   "full_name": "apache/calcite",
   "url": "https://github.com/apache/calcite",
   "sec_path": "SECURITY.md",
-  "stars": 5205,
+  "stars": 5204,
   "language": "Java",
   "description": "Apache Calcite",
   "first_seen": "2026-11-01 18:03:32"
@@ -401,7 +401,7 @@
   "full_name": "apache/shiro",
   "url": "https://github.com/apache/shiro",
   "sec_path": "SECURITY.md",
-  "stars": 4463,
+  "stars": 4464,
   "language": "Java",
   "description": "Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management",
   "first_seen": "2026-11-01 18:04:12"
@@ -412,7 +412,7 @@
   "full_name": "apache/tika",
   "url": "https://github.com/apache/tika",
   "sec_path": "SECURITY.md",
-  "stars": 4125,
+  "stars": 4127,
   "language": "Java",
   "description": "The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",
   "first_seen": "2026-11-01 18:04:12"
@@ -423,7 +423,7 @@
   "full_name": "apache/nuttx",
   "url": "https://github.com/apache/nuttx",
   "sec_path": ".github/SECURITY.md",
-  "stars": 4099,
+  "stars": 4100,
   "language": "C",
   "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
   "first_seen": "2026-11-01 18:03:32"
@@ -445,7 +445,7 @@
   "full_name": "apache/arrow-rs",
   "url": "https://github.com/apache/arrow-rs",
   "sec_path": "SECURITY.md",
-  "stars": 3656,
+  "stars": 3657,
   "language": "Rust",
   "description": "Official Rust implementation of Apache Arrow",
   "first_seen": "2026-11-01 18:03:32"
@@ -544,7 +544,7 @@
   "full_name": "apache/cloudstack",
   "url": "https://github.com/apache/cloudstack",
   "sec_path": "SECURITY.md",
-  "stars": 3126,
+  "stars": 3127,
   "language": "Java",
   "description": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
   "first_seen": "2026-11-01 18:04:12"
@@ -599,7 +599,7 @@
   "full_name": "apache/hamilton",
   "url": "https://github.com/apache/hamilton",
   "sec_path": "SECURITY.md",
-  "stars": 2622,
+  "stars": 2623,
   "language": "Jupyter Notebook",
   "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and sca…",
   "first_seen": "2026-11-01 18:03:32"
@@ -621,7 +621,7 @@
   "full_name": "apache/burr",
   "url": "https://github.com/apache/burr",
   "sec_path": "SECURITY.md",
-  "stars": 2591,
+  "stars": 2592,
   "language": "Python",
   "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.",
   "first_seen": "2026-11-01 18:03:32"
@@ -654,7 +654,7 @@
   "full_name": "apache/poi",
   "url": "https://github.com/apache/poi",
   "sec_path": "SECURITY.md",
-  "stars": 2285,
+  "stars": 2284,
   "language": "Java",
   "description": "Mirror of Apache POI gitbox. The Java API for Microsoft Documents.",
   "first_seen": "2026-11-01 18:03:32"
@@ -665,7 +665,7 @@
   "full_name": "apache/tinkerpop",
   "url": "https://github.com/apache/tinkerpop",
   "sec_path": "SECURITY.md",
-  "stars": 2153,
+  "stars": 2154,
   "language": "Java",
   "description": "Apache TinkerPop - a graph computing framework",
   "first_seen": "2026-11-01 18:04:12"
@@ -775,7 +775,7 @@
   "full_name": "apache/hop",
   "url": "https://github.com/apache/hop",
   "sec_path": "SECURITY.md",
-  "stars": 1518,
+  "stars": 1519,
   "language": "Java",
   "description": "Hop Orchestration Platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -1907,6 +1907,17 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/magpie",
+  "url": "https://github.com/apache/magpie",
+  "sec_path": "SECURITY.md",
+  "stars": 137,
+  "language": "Python",
+  "description": "Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Drafting (agent-authored fixes with human review), and Pairing …",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/commons-crypto",
   "url": "https://github.com/apache/commons-crypto",
   "sec_path": "SECURITY.md",
@@ -1914,17 +1925,6 @@
   "language": "Java",
   "description": "Apache Commons Crypto",
   "first_seen": "2026-11-01 18:04:12"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/magpie",
-  "url": "https://github.com/apache/magpie",
-  "sec_path": "SECURITY.md",
-  "stars": 136,
-  "language": "Python",
-  "description": "Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Drafting (agent-authored fixes with human review), and Pairing …",
-  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -2688,6 +2688,17 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/superset-kubernetes-operator",
+  "url": "https://github.com/apache/superset-kubernetes-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 28,
+  "language": "Go",
+  "description": "Apache Superset Kubernetes Operator",
+  "first_seen": "2026-11-01 18:04:12"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/cxf-fediz",
   "url": "https://github.com/apache/cxf-fediz",
   "sec_path": "SECURITY.md",
@@ -2695,17 +2706,6 @@
   "language": "Java",
   "description": "Mirror of Apache CXF",
   "first_seen": "2026-11-01 18:05:02"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/superset-kubernetes-operator",
-  "url": "https://github.com/apache/superset-kubernetes-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 27,
-  "language": "Go",
-  "description": "Apache Superset Kubernetes Operator",
-  "first_seen": "2026-11-01 18:04:12"
  },
  {
   "vendor": "Apache软件基金会",

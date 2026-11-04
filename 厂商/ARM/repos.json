@@ -409,23 +409,23 @@
  {
   "vendor": "ARM",
   "org": "arm",
+  "full_name": "arm/neural-graphics-data-capture-for-unreal",
+  "url": "https://github.com/arm/neural-graphics-data-capture-for-unreal",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "C++",
+  "description": "Capture datasets for developing Neural Graphics machine learning models.",
+  "first_seen": "2026-11-01 18:09:23"
+ },
+ {
+  "vendor": "ARM",
+  "org": "arm",
   "full_name": "arm/ai-ml-workload-library-for-vulkan",
   "url": "https://github.com/arm/ai-ml-workload-library-for-vulkan",
   "sec_path": "SECURITY.md",
   "stars": 4,
   "language": "C++",
   "description": "C++ library for executing ML workloads through Vulkan.",
-  "first_seen": "2026-11-01 18:09:23"
- },
- {
-  "vendor": "ARM",
-  "org": "arm",
-  "full_name": "arm/neural-graphics-data-capture-for-unreal",
-  "url": "https://github.com/arm/neural-graphics-data-capture-for-unreal",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "C++",
-  "description": "Capture datasets for developing Neural Graphics machine learning models.",
   "first_seen": "2026-11-01 18:09:23"
  },
  {
@@ -474,17 +474,6 @@
  },
  {
   "vendor": "ARM",
-  "org": "arm",
-  "full_name": "arm/composable-ai-runtimes",
-  "url": "https://github.com/arm/composable-ai-runtimes",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 18:09:23"
- },
- {
-  "vendor": "ARM",
   "org": "ARM-software",
   "full_name": "ARM-software/VectorSimilarity-for-Arm",
   "url": "https://github.com/ARM-software/VectorSimilarity-for-Arm",
@@ -493,6 +482,17 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 16:16:44"
+ },
+ {
+  "vendor": "ARM",
+  "org": "arm",
+  "full_name": "arm/composable-ai-runtimes",
+  "url": "https://github.com/arm/composable-ai-runtimes",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Rust",
+  "description": "",
+  "first_seen": "2026-11-01 18:09:23"
  },
  {
   "vendor": "ARM",
