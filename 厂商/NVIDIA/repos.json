@@ -5,7 +5,7 @@
   "full_name": "NVIDIA/SkillSpector",
   "url": "https://github.com/NVIDIA/SkillSpector",
   "sec_path": "SECURITY.md",
-  "stars": 24216,
+  "stars": 24269,
   "language": "Python",
   "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in…",
   "first_seen": "2026-11-01 17:03:48"
@@ -16,7 +16,7 @@
   "full_name": "NVIDIA/NemoClaw",
   "url": "https://github.com/NVIDIA/NemoClaw",
   "sec_path": "SECURITY.md",
-  "stars": 22929,
+  "stars": 22934,
   "language": "TypeScript",
   "description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
   "first_seen": "2026-11-01 17:03:48"
@@ -27,7 +27,7 @@
   "full_name": "NVIDIA/OpenShell",
   "url": "https://github.com/NVIDIA/OpenShell",
   "sec_path": "SECURITY.md",
-  "stars": 21051,
+  "stars": 21062,
   "language": "Rust",
   "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
   "first_seen": "2026-11-01 17:03:48"
@@ -38,7 +38,7 @@
   "full_name": "NVIDIA/Megatron-LM",
   "url": "https://github.com/NVIDIA/Megatron-LM",
   "sec_path": "SECURITY.md",
-  "stars": 18323,
+  "stars": 18325,
   "language": "Python",
   "description": "Ongoing research training transformer models at scale",
   "first_seen": "2026-11-01 17:03:48"
@@ -49,7 +49,7 @@
   "full_name": "NVIDIA/open-gpu-kernel-modules",
   "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
   "sec_path": "SECURITY.md",
-  "stars": 17549,
+  "stars": 17550,
   "language": "C",
   "description": "NVIDIA Linux open GPU kernel module source",
   "first_seen": "2026-11-01 17:03:48"
@@ -60,7 +60,7 @@
   "full_name": "NVIDIA/TensorRT-LLM",
   "url": "https://github.com/NVIDIA/TensorRT-LLM",
   "sec_path": "SECURITY.md",
-  "stars": 15002,
+  "stars": 15000,
   "language": "Python",
   "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inferen…",
   "first_seen": "2026-11-01 17:03:48"
@@ -71,7 +71,7 @@
   "full_name": "NVIDIA/cosmos",
   "url": "https://github.com/NVIDIA/cosmos",
   "sec_path": "SECURITY.md",
-  "stars": 12244,
+  "stars": 12251,
   "language": null,
   "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infra…",
   "first_seen": "2026-11-01 17:03:48"
@@ -82,7 +82,7 @@
   "full_name": "NVIDIA/garak",
   "url": "https://github.com/NVIDIA/garak",
   "sec_path": "SECURITY.md",
-  "stars": 9849,
+  "stars": 9854,
   "language": "Python",
   "description": "the LLM vulnerability scanner",
   "first_seen": "2026-11-01 17:03:48"
@@ -104,7 +104,7 @@
   "full_name": "NVIDIA/warp",
   "url": "https://github.com/NVIDIA/warp",
   "sec_path": "SECURITY.md",
-  "stars": 7266,
+  "stars": 7267,
   "language": "Python",
   "description": "A Python framework for GPU-accelerated simulation, robotics, and machine learning.",
   "first_seen": "2026-11-01 17:03:48"
@@ -115,7 +115,7 @@
   "full_name": "NVIDIA/Model-Optimizer",
   "url": "https://github.com/NVIDIA/Model-Optimizer",
   "sec_path": "SECURITY.md",
-  "stars": 5505,
+  "stars": 5511,
   "language": "Python",
   "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It comp…",
   "first_seen": "2026-11-01 17:03:48"
@@ -137,7 +137,7 @@
   "full_name": "NVIDIA-Omniverse/PhysX",
   "url": "https://github.com/NVIDIA-Omniverse/PhysX",
   "sec_path": "SECURITY.md",
-  "stars": 4826,
+  "stars": 4827,
   "language": "C++",
   "description": "NVIDIA PhysX SDK",
   "first_seen": "2026-11-01 17:07:29"
@@ -170,7 +170,7 @@
   "full_name": "NVIDIA/cuda-rust",
   "url": "https://github.com/NVIDIA/cuda-rust",
   "sec_path": "SECURITY.md",
-  "stars": 3973,
+  "stars": 3976,
   "language": "Rust",
   "description": "NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.",
   "first_seen": "2026-11-01 17:03:48"
@@ -181,7 +181,7 @@
   "full_name": "NVIDIA/k8s-device-plugin",
   "url": "https://github.com/NVIDIA/k8s-device-plugin",
   "sec_path": "SECURITY.md",
-  "stars": 3914,
+  "stars": 3915,
   "language": "Go",
   "description": "NVIDIA device plugin for Kubernetes",
   "first_seen": "2026-11-01 17:03:48"
@@ -192,7 +192,7 @@
   "full_name": "NVIDIA/skills",
   "url": "https://github.com/NVIDIA/skills",
   "sec_path": "SECURITY.md",
-  "stars": 3846,
+  "stars": 3856,
   "language": "Python",
   "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows en…",
   "first_seen": "2026-11-01 17:03:48"
@@ -203,9 +203,20 @@
   "full_name": "NVIDIA/TransformerEngine",
   "url": "https://github.com/NVIDIA/TransformerEngine",
   "sec_path": "SECURITY.md",
-  "stars": 3599,
+  "stars": 3600,
   "language": "Python",
   "description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwel…",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
+  "full_name": "NVIDIA/auto-ontology",
+  "url": "https://github.com/NVIDIA/auto-ontology",
+  "sec_path": "SECURITY.md",
+  "stars": 3472,
+  "language": "Python",
+  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context ret…",
   "first_seen": "2026-11-01 17:03:48"
  },
  {
@@ -214,7 +225,7 @@
   "full_name": "NVIDIA/physicsnemo",
   "url": "https://github.com/NVIDIA/physicsnemo",
   "sec_path": "SECURITY.md",
-  "stars": 3415,
+  "stars": 3416,
   "language": "Python",
   "description": "Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods",
   "first_seen": "2026-11-01 17:03:48"
@@ -225,7 +236,7 @@
   "full_name": "NVIDIA/cuda-python",
   "url": "https://github.com/NVIDIA/cuda-python",
   "sec_path": "SECURITY.md",
-  "stars": 3410,
+  "stars": 3411,
   "language": "Cython",
   "description": "CUDA Python: Performance meets Productivity",
   "first_seen": "2026-11-01 17:03:48"
@@ -239,17 +250,6 @@
   "stars": 3008,
   "language": "Python",
   "description": "NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever Library uses specialized NVIDIA…",
-  "first_seen": "2026-11-01 17:03:48"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/auto-ontology",
-  "url": "https://github.com/NVIDIA/auto-ontology",
-  "sec_path": "SECURITY.md",
-  "stars": 2972,
-  "language": "Python",
-  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context ret…",
   "first_seen": "2026-11-01 17:03:48"
  },
  {
@@ -313,7 +313,7 @@
   "full_name": "NVIDIA-Omniverse/usd-brep",
   "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
   "sec_path": "SECURITY.md",
-  "stars": 1981,
+  "stars": 1987,
   "language": "C++",
   "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
   "first_seen": "2026-11-01 17:07:29"
@@ -346,7 +346,7 @@
   "full_name": "NVIDIA/Personal-AI-Router",
   "url": "https://github.com/NVIDIA/Personal-AI-Router",
   "sec_path": "SECURITY.md",
-  "stars": 1702,
+  "stars": 1703,
   "language": "Go",
   "description": "Router that virtually distributes inference across connected devices in the home.",
   "first_seen": "2026-11-01 17:03:48"
@@ -368,7 +368,7 @@
   "full_name": "NVIDIA/earth2studio",
   "url": "https://github.com/NVIDIA/earth2studio",
   "sec_path": "SECURITY.md",
-  "stars": 1227,
+  "stars": 1229,
   "language": "Python",
   "description": "Open-source deep-learning framework for exploring, building and deploying AI weather/climate workflows.",
   "first_seen": "2026-11-01 17:03:48"
@@ -379,7 +379,7 @@
   "full_name": "NVIDIA/cuda-quantum",
   "url": "https://github.com/NVIDIA/cuda-quantum",
   "sec_path": "SECURITY.md",
-  "stars": 1180,
+  "stars": 1182,
   "language": "C++",
   "description": "C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows",
   "first_seen": "2026-11-01 17:03:48"
@@ -533,7 +533,7 @@
   "full_name": "NVIDIA/soma-retargeter",
   "url": "https://github.com/NVIDIA/soma-retargeter",
   "sec_path": "SECURITY.md",
-  "stars": 699,
+  "stars": 700,
   "language": "Python",
   "description": "SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp",
   "first_seen": "2026-11-01 17:04:22"
@@ -555,7 +555,7 @@
   "full_name": "NVIDIA/SkillEvaluator",
   "url": "https://github.com/NVIDIA/SkillEvaluator",
   "sec_path": "SECURITY.md",
-  "stars": 628,
+  "stars": 633,
   "language": "Python",
   "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent eval…",
   "first_seen": "2026-11-01 17:03:48"
@@ -566,7 +566,7 @@
   "full_name": "NVIDIA/TensorRT-Edge-LLM",
   "url": "https://github.com/NVIDIA/TensorRT-Edge-LLM",
   "sec_path": "SECURITY.md",
-  "stars": 608,
+  "stars": 609,
   "language": "Python",
   "description": "High-performance, light-weight C++ LLM and VLM Inference Software for Physical AI",
   "first_seen": "2026-11-01 17:03:48"
@@ -588,7 +588,7 @@
   "full_name": "NVIDIA/cosmos-framework",
   "url": "https://github.com/NVIDIA/cosmos-framework",
   "sec_path": "SECURITY.md",
-  "stars": 599,
+  "stars": 600,
   "language": "Python",
   "description": "Our inference and training framework to run on the Cosmos Models",
   "first_seen": "2026-11-01 17:03:48"
@@ -632,7 +632,7 @@
   "full_name": "NVIDIA/aicr",
   "url": "https://github.com/NVIDIA/aicr",
   "sec_path": "SECURITY.md",
-  "stars": 458,
+  "stars": 460,
   "language": "Go",
   "description": "Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes",
   "first_seen": "2026-11-01 17:03:48"
@@ -665,7 +665,7 @@
   "full_name": "NVIDIA/IsaacCapture",
   "url": "https://github.com/NVIDIA/IsaacCapture",
   "sec_path": "SECURITY.md",
-  "stars": 432,
+  "stars": 433,
   "language": "Python",
   "description": "Shared capture infrastructure for teleoperation and egocentric data.",
   "first_seen": "2026-11-01 17:03:48"
@@ -676,7 +676,7 @@
   "full_name": "NVIDIA/NVSentinel",
   "url": "https://github.com/NVIDIA/NVSentinel",
   "sec_path": "SECURITY.md",
-  "stars": 425,
+  "stars": 427,
   "language": "Go",
   "description": "NVSentinel detects and remediates GPU faults on Kubernetes nodes",
   "first_seen": "2026-11-01 17:03:48"
@@ -728,24 +728,24 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
-  "full_name": "NVIDIA/nvidia-kaggle",
-  "url": "https://github.com/NVIDIA/nvidia-kaggle",
+  "full_name": "NVIDIA/nvidia-resiliency-ext",
+  "url": "https://github.com/NVIDIA/nvidia-resiliency-ext",
   "sec_path": "SECURITY.md",
-  "stars": 348,
+  "stars": 349,
   "language": "Python",
-  "description": "NVIDIA Kaggle Plugin gives agents end-to-end Kaggle competition workflows through a single skill, nvidia-kaggle-skill. It can gather competition context, study …",
-  "first_seen": "2026-11-01 17:04:22"
+  "description": "NVIDIA Resiliency Extension is a python package for framework developers and users to implement fault-tolerant features. It improves the effective training time…",
+  "first_seen": "2026-11-01 17:03:48"
  },
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
-  "full_name": "NVIDIA/nvidia-resiliency-ext",
-  "url": "https://github.com/NVIDIA/nvidia-resiliency-ext",
+  "full_name": "NVIDIA/nvidia-kaggle",
+  "url": "https://github.com/NVIDIA/nvidia-kaggle",
   "sec_path": "SECURITY.md",
-  "stars": 347,
+  "stars": 349,
   "language": "Python",
-  "description": "NVIDIA Resiliency Extension is a python package for framework developers and users to implement fault-tolerant features. It improves the effective training time…",
-  "first_seen": "2026-11-01 17:03:48"
+  "description": "NVIDIA Kaggle Plugin gives agents end-to-end Kaggle competition workflows through a single skill, nvidia-kaggle-skill. It can gather competition context, study …",
+  "first_seen": "2026-11-01 17:04:22"
  },
  {
   "vendor": "NVIDIA",
@@ -797,7 +797,7 @@
   "full_name": "NVIDIA/DeepStream",
   "url": "https://github.com/NVIDIA/DeepStream",
   "sec_path": "SECURITY.md",
-  "stars": 308,
+  "stars": 309,
   "language": "C++",
   "description": "NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer,…",
   "first_seen": "2026-11-01 17:03:48"
@@ -907,7 +907,7 @@
   "full_name": "NVIDIA/instant-nurec",
   "url": "https://github.com/NVIDIA/instant-nurec",
   "sec_path": "SECURITY.md",
-  "stars": 248,
+  "stars": 249,
   "language": "Python",
   "description": "InstantNuRec: Feed-Forward 3D Gaussian Reconstruction from Driving Logs",
   "first_seen": "2026-11-01 17:04:22"
@@ -929,7 +929,7 @@
   "full_name": "NVIDIA-Omniverse/usd-content-agents",
   "url": "https://github.com/NVIDIA-Omniverse/usd-content-agents",
   "sec_path": "SECURITY.md",
-  "stars": 238,
+  "stars": 239,
   "language": "Python",
   "description": "AI-powered agents for automating 3D content workflows using Vision-Language Models (VLMs). Content Agents analyze 3D assets and automate material assignment, ph…",
   "first_seen": "2026-11-01 17:07:29"
@@ -1784,6 +1784,17 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/auto-ontology-eval",
+  "url": "https://github.com/NVIDIA/auto-ontology-eval",
+  "sec_path": "SECURITY.md",
+  "stars": 49,
+  "language": "Python",
+  "description": "LLM-powered Text-to-SQL evaluation toolkit: schema ingestion, retrieval eval, and standalone SQL judge/re-scorer.",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/cudf-spark-benchmarks",
   "url": "https://github.com/NVIDIA/cudf-spark-benchmarks",
   "sec_path": "SECURITY.md",
@@ -1839,17 +1850,6 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
-  "full_name": "NVIDIA/auto-ontology-eval",
-  "url": "https://github.com/NVIDIA/auto-ontology-eval",
-  "sec_path": "SECURITY.md",
-  "stars": 44,
-  "language": "Python",
-  "description": "LLM-powered Text-to-SQL evaluation toolkit: schema ingestion, retrieval eval, and standalone SQL judge/re-scorer.",
-  "first_seen": "2026-11-01 17:03:48"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
   "full_name": "NVIDIA/OpenShell-Research",
   "url": "https://github.com/NVIDIA/OpenShell-Research",
   "sec_path": "SECURITY.md",
@@ -1864,7 +1864,7 @@
   "full_name": "NVIDIA/kumo-engine",
   "url": "https://github.com/NVIDIA/kumo-engine",
   "sec_path": "SECURITY.md",
-  "stars": 40,
+  "stars": 41,
   "language": "Python",
   "description": "Kumo Engine is an accelerator for context generation over structured data, designed for teams building and running predictive models in production at scale.",
   "first_seen": "2026-11-01 17:03:48"
@@ -1960,6 +1960,17 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/product-security",
+  "url": "https://github.com/NVIDIA/product-security",
+  "sec_path": "SECURITY.md",
+  "stars": 33,
+  "language": "HTML",
+  "description": "Starting October 1, 2026, NVIDIA PSIRT will only publish security bulletins on GitHub in Markdown, CSAF, and CVE formats to meet industry demand for easier inte…",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/TensorRT-RTX-EP-ABI",
   "url": "https://github.com/NVIDIA/TensorRT-RTX-EP-ABI",
   "sec_path": "SECURITY.md",
@@ -1977,17 +1988,6 @@
   "stars": 32,
   "language": "TypeScript",
   "description": "Deploy AI agents to investigate cluster issues and streamline governed AI factory operations.",
-  "first_seen": "2026-11-01 17:03:48"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/product-security",
-  "url": "https://github.com/NVIDIA/product-security",
-  "sec_path": "SECURITY.md",
-  "stars": 32,
-  "language": "HTML",
-  "description": "Starting October 1, 2026, NVIDIA PSIRT will only publish security bulletins on GitHub in Markdown, CSAF, and CVE formats to meet industry demand for easier inte…",
   "first_seen": "2026-11-01 17:03:48"
  },
  {
@@ -2213,6 +2213,17 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/NuRec",
+  "url": "https://github.com/NVIDIA/NuRec",
+  "sec_path": "SECURITY.md",
+  "stars": 22,
+  "language": "Python",
+  "description": "NVIDIA Omniverse NuRec provides neural reconstruction APIs and libraries to reconstruct and render interactive simulations from real-world data.",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/rumpelpod",
   "url": "https://github.com/NVIDIA/rumpelpod",
   "sec_path": "SECURITY.md",
@@ -2278,28 +2289,6 @@
  },
  {
   "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/NuRec",
-  "url": "https://github.com/NVIDIA/NuRec",
-  "sec_path": "SECURITY.md",
-  "stars": 20,
-  "language": "Python",
-  "description": "NVIDIA Omniverse NuRec provides neural reconstruction APIs and libraries to reconstruct and render interactive simulations from real-world data.",
-  "first_seen": "2026-11-01 17:03:48"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/cdf-anomalygen",
-  "url": "https://github.com/NVIDIA/cdf-anomalygen",
-  "sec_path": "SECURITY.md",
-  "stars": 20,
-  "language": "Python",
-  "description": "Diffusion-based pipeline for generating photorealistic, mask-aligned synthetic anomaly images for industrial visual inspection from only a few real examples",
-  "first_seen": "2026-11-01 17:04:22"
- },
- {
-  "vendor": "NVIDIA",
   "org": "NVIDIA-Omniverse",
   "full_name": "NVIDIA-Omniverse/ovstorage",
   "url": "https://github.com/NVIDIA-Omniverse/ovstorage",
@@ -2308,6 +2297,17 @@
   "language": "Rust",
   "description": "Client-side library for backend-neutral storage access across local, HTTP, cloud and Omniverse storage, plus an OpenUSD ArResolver plugin that opens and saves r…",
   "first_seen": "2026-11-01 17:07:29"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
+  "full_name": "NVIDIA/cdf-anomalygen",
+  "url": "https://github.com/NVIDIA/cdf-anomalygen",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "Python",
+  "description": "Diffusion-based pipeline for generating photorealistic, mask-aligned synthetic anomaly images for industrial visual inspection from only a few real examples",
+  "first_seen": "2026-11-01 17:04:22"
  },
  {
   "vendor": "NVIDIA",
@@ -2763,6 +2763,17 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/agent-policy-fabric",
+  "url": "https://github.com/NVIDIA/agent-policy-fabric",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "Rust",
+  "description": "APF is the enterprise policy layer for agentic workloads: one signed policy, enforced at admission and on every request.",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/NsightSystemsPlugins",
   "url": "https://github.com/NVIDIA/NsightSystemsPlugins",
   "sec_path": "SECURITY.md",
@@ -2829,12 +2840,12 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
-  "full_name": "NVIDIA/agent-policy-fabric",
-  "url": "https://github.com/NVIDIA/agent-policy-fabric",
-  "sec_path": "SECURITY.md",
+  "full_name": "NVIDIA/OpenEnterpriseRiskManagementGuidance",
+  "url": "https://github.com/NVIDIA/OpenEnterpriseRiskManagementGuidance",
+  "sec_path": "security.md",
   "stars": 9,
-  "language": "Rust",
-  "description": "APF is the enterprise policy layer for agentic workloads: one signed policy, enforced at admission and on every request.",
+  "language": null,
+  "description": "Companion repository to Risk Management for Open-Weight Models in Enterprise. Hosted in the NVIDIA org; NVIDIA and Microsoft are co-maintainers with parity on r…",
   "first_seen": "2026-11-01 17:03:48"
  },
  {
@@ -2923,17 +2934,6 @@
   "stars": 8,
   "language": "Go",
   "description": "Kubernetes Device Plugin to help cold plug vfio/iommufd GPUs in Kata VMs for Confidential Containers",
-  "first_seen": "2026-11-01 17:03:48"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/OpenEnterpriseRiskManagementGuidance",
-  "url": "https://github.com/NVIDIA/OpenEnterpriseRiskManagementGuidance",
-  "sec_path": "security.md",
-  "stars": 8,
-  "language": null,
-  "description": "Companion repository to Risk Management for Open-Weight Models in Enterprise. Hosted in the NVIDIA org; NVIDIA and Microsoft are co-maintainers with parity on r…",
   "first_seen": "2026-11-01 17:03:48"
  },
  {
@@ -3907,6 +3907,17 @@
  {
   "vendor": "NVIDIA",
   "org": "NVIDIA",
+  "full_name": "NVIDIA/confidential-computing-docs",
+  "url": "https://github.com/NVIDIA/confidential-computing-docs",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "MDX",
+  "description": "",
+  "first_seen": "2026-11-01 17:03:48"
+ },
+ {
+  "vendor": "NVIDIA",
+  "org": "NVIDIA",
   "full_name": "NVIDIA/so101-typing-task",
   "url": "https://github.com/NVIDIA/so101-typing-task",
   "sec_path": "SECURITY.md",
@@ -4103,17 +4114,6 @@
   "description": "Core NVIDIA Nsight Perf SDK APIs and libraries for collecting and analyzing GPU performance data directly from application code.",
   "license": null,
   "first_seen": "2026-11-04 03:06:44"
- },
- {
-  "vendor": "NVIDIA",
-  "org": "NVIDIA",
-  "full_name": "NVIDIA/confidential-computing-docs",
-  "url": "https://github.com/NVIDIA/confidential-computing-docs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "MDX",
-  "description": "",
-  "first_seen": "2026-11-01 17:03:48"
  },
  {
   "vendor": "NVIDIA",
