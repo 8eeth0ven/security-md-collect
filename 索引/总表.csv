@@ -287,8 +287,9 @@ Apache软件基金会,无(开源基金会),apache,apache/ozone-docker-testkrb5,h
 Apache软件基金会,无(开源基金会),apache,apache/cloudberry-go-libs,https://github.com/apache/cloudberry-go-libs,3,Go,SECURITY.md,go-libs for Apache Cloudberry (Incubating)
 Apache软件基金会,无(开源基金会),apache,apache/hadoop-cloudstore,https://github.com/apache/hadoop-cloudstore,3,Java,SECURITY.md,Apache hadoop
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
+Apache软件基金会,无(开源基金会),apache,apache/pulsar-spring,https://github.com/apache/pulsar-spring,0,,SECURITY.md,Apache pulsar
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,128658,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66935,Go,SECURITY.md,The Prometheus monitoring system and time series database.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66941,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52443,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45418,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38487,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
@@ -300,7 +301,7 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19437,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17081,Go,SECURITY.md,Workflow Engine for Kubernetes
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16696,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13894,Go,SECURITY.md,Exporter for machine metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13895,Go,SECURITY.md,Exporter for machine metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13056,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12523,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12075,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
@@ -341,13 +342,13 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-kotlin,https://github
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/perf-tests,https://github.com/kubernetes/perf-tests,992,Go,SECURITY.md,Performance tests and benchmarks
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/statsd_exporter,https://github.com/prometheus/statsd_exporter,990,Go,SECURITY.md,StatsD to Prometheus metrics exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/k8s.io,https://github.com/kubernetes/k8s.io,982,HCL,SECURITY.md,"Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites"
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,979,Java,SECURITY.md,Metrics exporter for Amazon AWS CloudWatch
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,980,Java,SECURITY.md,Metrics exporter for Amazon AWS CloudWatch
 CNCF云原生基金会,无(开源基金会),istio,istio/proxy,https://github.com/istio/proxy,915,Go,.github/SECURITY.md,The Istio proxy components.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dart,https://github.com/grpc/grpc-dart,891,Dart,SECURITY.md,The Dart language implementation of gRPC.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/procfs,https://github.com/prometheus/procfs,886,Go,SECURITY.md,"procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc."
 CNCF云原生基金会,无(开源基金会),istio,istio/istio.io,https://github.com/istio/istio.io,821,HTML,.github/SECURITY.md,Source for the istio.io site
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argoproj,https://github.com/argoproj/argoproj,763,Python,SECURITY.md,Common project repo for all Argo Projects
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/docs,https://github.com/prometheus/docs,725,TypeScript,SECURITY.md,Prometheus documentation: content and static site generator
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/docs,https://github.com/prometheus/docs,726,TypeScript,SECURITY.md,Prometheus documentation: content and static site generator
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-openstack,https://github.com/kubernetes/cloud-provider-openstack,724,Go,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promlens,https://github.com/prometheus/promlens,677,TypeScript,SECURITY.md,"PromLens – The query builder, analyzer, and explainer for PromQL"
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-release,https://github.com/kubernetes/sig-release,641,Shell,SECURITY.md,Repo for SIG release
@@ -3791,7 +3792,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/chisel,https://github.com/google/chisel,1,Go,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/x-edr-eigenmath_tf2,https://github.com/google/x-edr-eigenmath_tf2,1,C++,SECURITY.md,Port of ROS/TF2 to eigenmath library.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105121,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105131,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/fairseq,https://github.com/facebookresearch/fairseq,32211,Python,error,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28160,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
 Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18680,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
@@ -4375,11 +4376,11 @@ Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/react,https
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graal,https://github.com/oracle/graal,21749,Java,SECURITY.md,"GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀"
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-server,https://github.com/mysql/mysql-server,12496,C++,SECURITY.md,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/docker-images,https://github.com/oracle/docker-images,7005,Shell,SECURITY.md,"Official source of container configurations, images, and examples for Oracle products and projects"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/opengrok,https://github.com/oracle/opengrok,5027,Java,SECURITY.md,"OpenGrok is a fast and usable source code search and cross reference engine, written in Java"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/opengrok,https://github.com/oracle/opengrok,5026,Java,SECURITY.md,"OpenGrok is a fast and usable source code search and cross reference engine, written in Java"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/visualvm,https://github.com/oracle/visualvm,3278,Java,SECURITY.md,VisualVM is an All-in-One Java Troubleshooting Tool
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/node-oracledb,https://github.com/oracle/node-oracledb,2377,JavaScript,SECURITY.md,Oracle Database driver for Node.js maintained by Oracle Corporation. Connect your JavaScript and TypeScript applications instantly to Oracle Database.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graaljs,https://github.com/oracle/graaljs,2043,C++,SECURITY.md,"GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/bpftune,https://github.com/oracle/bpftune,1892,C,SECURITY.md,bpftune uses BPF to auto-tune Linux systems
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/bpftune,https://github.com/oracle/bpftune,1893,C,SECURITY.md,bpftune uses BPF to auto-tune Linux systems
 Oracle,自建（Oracle Vulnerability Reporting Program）,graalvm,graalvm/graalvm-ce-builds,https://github.com/graalvm/graalvm-ce-builds,1757,,SECURITY.md,GraalVM CE binaires built by the GraalVM community
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graalpython,https://github.com/oracle/graalpython,1657,Python,SECURITY.md,GraalPy – A high-performance embeddable Python 3 runtime for Java
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/tribuo,https://github.com/oracle/tribuo,1416,Java,SECURITY.md,Tribuo - A Java machine learning library
@@ -4393,7 +4394,7 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/python-c
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/terraform-provider-oci,https://github.com/oracle/terraform-provider-oci,878,Go,SECURITY.md,Terraform Oracle Cloud Infrastructure provider
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusion-ai-studio,https://github.com/oracle/fusion-ai-studio,717,JavaScript,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-cpp,https://github.com/mysql/mysql-connector-cpp,710,C++,SECURITY.md,MySQL Connector/C++ is a MySQL database connector for C++. It lets you develop C++ and C applications that connect to MySQL Server.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-cli,https://github.com/oracle/oci-cli,681,Python,SECURITY.md,Command Line Interface for Oracle Cloud Infrastructure
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-cli,https://github.com/oracle/oci-cli,682,Python,SECURITY.md,Command Line Interface for Oracle Cloud Infrastructure
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-docker,https://github.com/mysql/mysql-docker,678,Shell,SECURITY.md,Dockerfiles and scripts for MySQL products
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/apex,https://github.com/oracle/apex,663,,SECURITY.md,"Official Oracle APEX repo for sample code, starter apps, plug-ins, and more! #orclapex"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fastr,https://github.com/oracle/fastr,649,Java,SECURITY.md,"A high-performance implementation of the R programming language, built on GraalVM."
@@ -4412,7 +4413,7 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-conn
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/javavscode,https://github.com/oracle/javavscode,321,TypeScript,SECURITY.md,Java platform support for Visual Studio Code for full featured Java development (edit-compile-debug & test cycle)
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-db-tools,https://github.com/oracle/oracle-db-tools,311,JavaScript,SECURITY.md,This project is a repository of sample code that will demonstrate various concepts to assist developers in building applications around Oracle Database technolo…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/odpi,https://github.com/oracle/odpi,293,C,SECURITY.md,ODPI-C: Oracle Database Programming Interface for Drivers and Applications
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-kubernetes-operator,https://github.com/oracle/weblogic-kubernetes-operator,268,Java,SECURITY.md,WebLogic Kubernetes Operator
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-kubernetes-operator,https://github.com/oracle/weblogic-kubernetes-operator,267,Java,SECURITY.md,WebLogic Kubernetes Operator
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-db-appdev-monitoring,https://github.com/oracle/oracle-db-appdev-monitoring,265,Go,SECURITY.md,"Oracle AI Database Metrics Exporter: Prometheus Metrics, OpenTelemetry Metrics, and Logs for Oracle AI Database"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/hospitality-api-docs,https://github.com/oracle/hospitality-api-docs,233,HTML,SECURITY.md,This repository stores REST API specifications and accompanying Postman collections for Oracle Hospitality APIs.
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-shell,https://github.com/mysql/mysql-shell,227,C++,SECURITY.md,"MySQL Shell is a command line scriptable shell for MySQL, with support for logical backups, InnoDB Cluster management and more. It supports SQL, JavaScript and …"
@@ -4431,7 +4432,7 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-js,h
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-deploy-tooling,https://github.com/oracle/weblogic-deploy-tooling,167,Python,SECURITY.md,WebLogic Deploy Tooling
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-nodejs,https://github.com/mysql/mysql-connector-nodejs,160,JavaScript,SECURITY.md,"MySQL Connector Node.JS is a MySQL Connector using the X Protocol, which was introduced with MySQL 5.7.12."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-cloud-controller-manager,https://github.com/oracle/oci-cloud-controller-manager,160,Go,SECURITY.md,Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/Fusion-Setup-Configuration-Registry,https://github.com/oracle/Fusion-Setup-Configuration-Registry,141,Python,security.md,"Sample skills, scripts, and reference workflows for AI-assisted planning, setup, and configuration of Oracle Fusion Cloud Applications."
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/Fusion-Setup-Configuration-Registry,https://github.com/oracle/Fusion-Setup-Configuration-Registry,146,Python,security.md,"Sample skills, scripts, and reference workflows for AI-assisted planning, setup, and configuration of Oracle Fusion Cloud Applications."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/cordova-plugin-wkwebview-file-xhr,https://github.com/oracle/cordova-plugin-wkwebview-file-xhr,139,JavaScript,SECURITY.md,Cordova Plugin for WebView File XHR
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/accelerated-data-science,https://github.com/oracle/accelerated-data-science,124,Python,SECURITY.md,"ADS is the Oracle Data Science Cloud Service's python SDK supporting, model ops (train/eval/deploy), along with running workloads on Jobs and Pipeline resources…"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-monitoring-exporter,https://github.com/oracle/weblogic-monitoring-exporter,112,Java,SECURITY.md,WebLogic Monitoring Exporter exposes metrics and monitoring data through REST APIs for consumption by other tools (e.g. Prometheus)
@@ -6185,9 +6186,9 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovannotators,http
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/lite-3Dgsplat-codec,https://github.com/qualcomm/lite-3Dgsplat-codec,14,C++,SECURITY.md,Lightweight 3D Gaussian Splat Codec
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/vllm-qaic,https://github.com/qualcomm/vllm-qaic,13,Python,SECURITY.md,Qaic plugin backend for vllm to utilize Cloud AI accelerators
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qhwi,https://github.com/qualcomm/qhwi,13,C++,SECURITY.md,"QHWI (Qualcomm Hardware Interface) is a modern, high performance graphics API abstraction library over multiple graphics backends"
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-hypervisor,https://github.com/qualcomm/hexagon-hypervisor,13,C,SECURITY.md,Hexagon Hypervisor (AKA h2) is a light weight OS / Hypervisor for the Qualcomm Hexagon processor family
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/android-on-snapdragon,https://github.com/qualcomm/android-on-snapdragon,12,Java,SECURITY.md,Sample code for 3rd party developers working on Android On Snapdragon
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qemu-hexagon-testing,https://github.com/qualcomm/qemu-hexagon-testing,11,C,SECURITY.md,Test programs to exercise QEMU hexagon
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-hypervisor,https://github.com/qualcomm/hexagon-hypervisor,11,C,SECURITY.md,Hexagon Hypervisor (AKA h2) is a light weight OS / Hypervisor for the Qualcomm Hexagon processor family
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/mink-idl-compiler,https://github.com/qualcomm/mink-idl-compiler,11,Rust,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/awesome-qualcomm-developer,https://github.com/qualcomm/awesome-qualcomm-developer,10,JavaScript,SECURITY.md,Catalog of projects that build upon Qualcomm's platforms
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qualcomm-ui,https://github.com/qualcomm/qualcomm-ui,10,TypeScript,SECURITY.md,Qualcomm UI component library 
@@ -7499,7 +7500,7 @@ Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi_Widgets,https://github.com/Snap
 Snap,HackerOne（Snap）,snapchat,Snapchat/react-camera-kit,https://github.com/Snapchat/react-camera-kit,25,TypeScript,SECURITY.md,"Official React bindings for Snap Camera Kit — create interactive, lens-powered AR experiences on the web."
 Snap,HackerOne（Snap）,snapchat,Snapchat/KeyDB-docs,https://github.com/Snapchat/KeyDB-docs,21,JavaScript,docs/security.md,KeyDB's official documentation repo
 Snap,HackerOne（Snap）,snapchat,Snapchat/pyOCD,https://github.com/Snapchat/pyOCD,1,Python,docs/security.md,Open source Python library for programming and debugging Arm Cortex-M microcontrollers
-Pinterest,HackerOne（Pinterest）,pinterest,pinterest/querybook,https://github.com/pinterest/querybook,2301,TypeScript,SECURITY.md,"Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface."
+Pinterest,HackerOne（Pinterest）,pinterest,pinterest/querybook,https://github.com/pinterest/querybook,2302,TypeScript,SECURITY.md,"Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/psc,https://github.com/pinterest/psc,122,Java,SECURITY.md,PubSubClient (PSC) 
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/orion,https://github.com/pinterest/orion,113,Java,SECURITY.md,Management and automation platform for Stateful Distributed Systems
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/api-description,https://github.com/pinterest/api-description,29,,SECURITY.md,OpenAPI descriptions for Pinterest's REST API
@@ -8176,8 +8177,8 @@ MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-cli,https://github.com/
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/atlas-cli-plugin-kubernetes,https://github.com/mongodb/atlas-cli-plugin-kubernetes,6,Go,SECURITY.md,Kubernetes plugin for the AtlasCLI
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/tines-claude,https://github.com/mongodb/tines-claude,2,Python,SECURITY.md,A Claude Skill and MCP server for Tines
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-atlas-cli-2,https://github.com/mongodb/mongodb-atlas-cli-2,2,Go,SECURITY.md,MongoDB Atlas CLI and MongoDB CLI enable you to manage your MongoDB in the Cloud
-Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77174,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
-Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22285,Go,SECURITY.md,Redis Go client
+Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77176,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
+Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22286,Go,SECURITY.md,Redis Go client
 Redis,自建PSIRT（Redis）,redis,redis/node-redis,https://github.com/redis/node-redis,17594,TypeScript,SECURITY.md,Redis Node.js client
 Redis,自建PSIRT（Redis）,redis,redis/ioredis,https://github.com/redis/ioredis,15354,TypeScript,SECURITY.md,"🚀 A robust, performance-focused, and full-featured Redis client for Node.js."
 Redis,自建PSIRT（Redis）,redis,redis/jedis,https://github.com/redis/jedis,12373,Java,SECURITY.md,Redis Java client
@@ -9648,7 +9649,7 @@ PayPal,自建BB,paypal,paypal/junodb,https://github.com/paypal/junodb,2637,Go,SE
 PayPal,自建BB,paypal,paypal/paypal-checkout-components,https://github.com/paypal/paypal-checkout-components,1339,JavaScript,SECURITY.md,please submit Issues about the PayPal JS SDK here: https://github.com/paypal/paypal-js/issues
 PayPal,自建BB,paypal,paypal/paypal-sdk-client,https://github.com/paypal/paypal-sdk-client,78,JavaScript,SECURITY.md,Shared config for PayPal/Braintree client SDKs
 PayPal,自建BB,paypal,paypal/paypal-sdk-release,https://github.com/paypal/paypal-sdk-release,45,JavaScript,SECURITY.md,"Unified SDK wrapper module for tests, shared build config, and deploy"
-PayPal,自建BB,paypal,paypal/AI-Toolkit,https://github.com/paypal/AI-Toolkit,42,,SECURITY.md,"A plugin that integrates PayPal's APIs and MCP server across multiple AI coding agents (Claude Code, Cursor and more) into your development workflow."
+PayPal,自建BB,paypal,paypal/AI-Toolkit,https://github.com/paypal/AI-Toolkit,43,,SECURITY.md,"A plugin that integrates PayPal's APIs and MCP server across multiple AI coding agents (Claude Code, Cursor and more) into your development workflow."
 PayPal,自建BB,paypal,paypal/paypal-sdk-constants,https://github.com/paypal/paypal-sdk-constants,32,JavaScript,SECURITY.md,
 PayPal,自建BB,paypal,paypal/paypal-funding-components,https://github.com/paypal/paypal-funding-components,22,JavaScript,SECURITY.md,PayPal JavaScript SDK Funding Components
 PayPal,自建BB,paypal,paypal/paypal-common-components,https://github.com/paypal/paypal-common-components,18,JavaScript,SECURITY.md,Common components for PayPal JavaScript SDK

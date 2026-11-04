@@ -254,6 +254,18 @@
  {
   "vendor": "高通",
   "org": "qualcomm",
+  "full_name": "qualcomm/hexagon-hypervisor",
+  "url": "https://github.com/qualcomm/hexagon-hypervisor",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "C",
+  "description": "Hexagon Hypervisor (AKA h2) is a light weight OS / Hypervisor for the Qualcomm Hexagon processor family",
+  "license": null,
+  "first_seen": "2026-11-01 23:27:54"
+ },
+ {
+  "vendor": "高通",
+  "org": "qualcomm",
   "full_name": "qualcomm/android-on-snapdragon",
   "url": "https://github.com/qualcomm/android-on-snapdragon",
   "sec_path": "SECURITY.md",
@@ -272,18 +284,6 @@
   "stars": 11,
   "language": "C",
   "description": "Test programs to exercise QEMU hexagon",
-  "license": null,
-  "first_seen": "2026-11-01 23:27:54"
- },
- {
-  "vendor": "高通",
-  "org": "qualcomm",
-  "full_name": "qualcomm/hexagon-hypervisor",
-  "url": "https://github.com/qualcomm/hexagon-hypervisor",
-  "sec_path": "SECURITY.md",
-  "stars": 11,
-  "language": "C",
-  "description": "Hexagon Hypervisor (AKA h2) is a light weight OS / Hypervisor for the Qualcomm Hexagon processor family",
   "license": null,
   "first_seen": "2026-11-01 23:27:54"
  },
