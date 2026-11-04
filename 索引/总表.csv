@@ -598,7 +598,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 字节跳动,字节跳动SRC,bytedance,bytedance/kubevirt,https://github.com/bytedance/kubevirt,,Go,SECURITY.md,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 字节跳动,字节跳动SRC,bytedance,bytedance/systemd,https://github.com/bytedance/systemd,,C,docs/SECURITY.md,The systemd System and Service Manager 
 字节跳动,字节跳动SRC,bytedance,bytedance/onnx,https://github.com/bytedance/onnx,,PureBasic,SECURITY.md,Open standard for machine learning interoperability
-火山引擎,无,volcengine,volcengine/OpenViking,https://github.com/volcengine/OpenViking,41491,Python,SECURITY.md,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+火山引擎,无,volcengine,volcengine/OpenViking,https://github.com/volcengine/OpenViking,41525,Python,SECURITY.md,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
 火山引擎,无,volcengine,volcengine/MineContext,https://github.com/volcengine/MineContext,5543,Python,SECURITY.md,MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 火山引擎,无,volcengine,volcengine/SearchCLI,https://github.com/volcengine/SearchCLI,1190,TypeScript,SECURITY.md,"Open CLI for integrating AI search, recommendation, and conversational retrieval into agent systems and business systems"
 火山引擎,无,volcengine,volcengine/veadk-python,https://github.com/volcengine/veadk-python,349,Python,SECURITY.md,"An open-source kit for agent development, integrated the powerful capabilities of Volcengine."
@@ -654,8 +654,8 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 火山引擎,无,volcengine,volcengine/volcengine-nodejs-sdk,https://github.com/volcengine/volcengine-nodejs-sdk,6,TypeScript,SECURITY.md,
 火山引擎,无,volcengine,volcengine/volcengine-csi-driver,https://github.com/volcengine/volcengine-csi-driver,6,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/RTC_Meeting_Demo,https://github.com/volcengine/RTC_Meeting_Demo,6,C++,SECURITY.md,
+火山引擎,无,volcengine,volcengine/terraform-provider-volcenginecc,https://github.com/volcengine/terraform-provider-volcenginecc,5,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/emr-tutorial,https://github.com/volcengine/emr-tutorial,5,Java,SECURITY.md,
-火山引擎,无,volcengine,volcengine/terraform-provider-volcenginecc,https://github.com/volcengine/terraform-provider-volcenginecc,4,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/tls-grafana-datasource,https://github.com/volcengine/tls-grafana-datasource,4,TypeScript,SECURITY.md,
 火山引擎,无,volcengine,volcengine/datarangers-sdk-go,https://github.com/volcengine/datarangers-sdk-go,4,Go,SECURITY.md,SDK in golang for datarangers products
 火山引擎,无,volcengine,volcengine/BDLiveDemo_iOS,https://github.com/volcengine/BDLiveDemo_iOS,4,Objective-C,SECURITY.md,
@@ -925,7 +925,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/skills,https://github.com/dotnet/skills,5818,C#,SECURITY.md,Repository for skills to assist AI coding agents with .NET and C#
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/WPF-Samples,https://github.com/microsoft/WPF-Samples,5746,C#,SECURITY.md,Repository for WPF related samples
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/skill-recorder,https://github.com/microsoft/skill-recorder,5677,TypeScript,SECURITY.md,"Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skil…"
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-sdk-for-python,https://github.com/Azure/azure-sdk-for-python,5623,Python,SECURITY.md,This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn…
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-sdk-for-python,https://github.com/Azure/azure-sdk-for-python,5624,Python,SECURITY.md,This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn…
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/msbuild,https://github.com/dotnet/msbuild,5552,C#,SECURITY.md,The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/azurelinux,https://github.com/microsoft/azurelinux,5360,Python,SECURITY.md,General purpose Linux OS for Azure
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/SynapseML,https://github.com/microsoft/SynapseML,5252,Scala,SECURITY.md,Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark
@@ -1009,7 +1009,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/DirectXTex,https://github.com/microsoft/DirectXTex,2170,C++,SECURITY.md,DirectXTex texture processing library
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/pylance-release,https://github.com/microsoft/pylance-release,2164,Python,SECURITY.md,Documentation and issues for Pylance
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Microsoft.IO.RecyclableMemoryStream,https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream,2154,C#,SECURITY.md,A library to provide pooling for .NET MemoryStream objects to improve application performance. 
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AKS,https://github.com/Azure/AKS,2146,TypeScript,SECURITY.md,Azure Kubernetes Service
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AKS,https://github.com/Azure/AKS,2145,TypeScript,SECURITY.md,Azure Kubernetes Service
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/android,https://github.com/dotnet/android,2143,C#,SECURITY.md,.NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/intelligent-terminal,https://github.com/microsoft/intelligent-terminal,2106,C++,SECURITY.md,"A fork of Windows Terminal with native agent integration, right in your command line."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/azure-devops-mcp,https://github.com/microsoft/azure-devops-mcp,2080,TypeScript,SECURITY.md,"The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents."
@@ -1070,7 +1070,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/win32metadata,https://github.com/microsoft/win32metadata,1508,C++,SECURITY.md,Tooling to generate metadata for Win32 APIs in the Windows SDK.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/automatic-graph-layout,https://github.com/microsoft/automatic-graph-layout,1503,C#,SECURITY.md,A set of tools for graph layout and viewing
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/waza,https://github.com/microsoft/waza,1500,Go,SECURITY.md,"CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness"
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-functions-core-tools,https://github.com/Azure/azure-functions-core-tools,1465,C#,SECURITY.md,Command line tools for Azure Functions
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-functions-core-tools,https://github.com/Azure/azure-functions-core-tools,1464,C#,SECURITY.md,Command line tools for Azure Functions
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/ResXResourceManager,https://github.com/dotnet/ResXResourceManager,1461,C#,SECURITY.md,Manage localization of all ResX-Based resources in one central place.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/TextWorld,https://github.com/microsoft/TextWorld,1457,Jupyter Notebook,SECURITY.md,​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/corefxlab,https://github.com/dotnet/corefxlab,1452,C#,SECURITY.md,This repo is for experimentation and exploring new ideas that may or may not make it into the main corefx repo.
@@ -1143,7 +1143,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vs-streamjsonrpc,https://github.com/microsoft/vs-streamjsonrpc,942,C#,SECURITY.md,"The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, an…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/fabric-toolbox,https://github.com/microsoft/fabric-toolbox,940,PowerShell,SECURITY.md,"Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/terraform,https://github.com/Azure/terraform,929,HCL,SECURITY.md,Source code for the Azure Marketplace Terraform development VM package.
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-service-operator,https://github.com/Azure/azure-service-operator,915,Go,SECURITY.md,Azure Service Operator allows you to create Azure resources using kubectl
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-service-operator,https://github.com/Azure/azure-service-operator,916,Go,SECURITY.md,Azure Service Operator allows you to create Azure resources using kubectl
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/DataGridExtensions,https://github.com/dotnet/DataGridExtensions,915,C#,.github/SECURITY.md,Modular extensions for the WPF DataGrid control
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/git,https://github.com/microsoft/git,910,C,SECURITY.md,A fork of Git containing Microsoft-specific patches.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-search-vector-samples,https://github.com/Azure/azure-search-vector-samples,909,Jupyter Notebook,SECURITY.md,A repository of code samples for Vector search capabilities in Azure AI Search.
@@ -1215,7 +1215,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/CsWinRT,https://github.com/microsoft/CsWinRT,670,C#,SECURITY.md,C# language projection for the Windows Runtime
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/static-web-apps-cli,https://github.com/Azure/static-web-apps-cli,668,TypeScript,SECURITY.md,Azure Static Web Apps CLI ✨
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoftgraph,microsoftgraph/msgraph-sdk-php,https://github.com/microsoftgraph/msgraph-sdk-php,668,PHP,SECURITY.md,Microsoft Graph Library for PHP.
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/co-op-translator,https://github.com/Azure/co-op-translator,664,Python,SECURITY.md,"Keep Markdown, Jupyter notebooks, and image text translated as your repository changes."
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/co-op-translator,https://github.com/Azure/co-op-translator,665,Python,SECURITY.md,"Keep Markdown, Jupyter notebooks, and image text translated as your repository changes."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/eShopSupport,https://github.com/dotnet/eShopSupport,664,JavaScript,SECURITY.md,A reference .NET application using AI for a customer support ticketing system
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/mu,https://github.com/microsoft/mu,661,Python,SECURITY.md,Project Mu Documentation 
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/agent-framework-go,https://github.com/microsoft/agent-framework-go,660,Go,SECURITY.md,"A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go."
@@ -1246,8 +1246,8 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/semantic-link-labs,https://github.com/microsoft/semantic-link-labs,593,Python,SECURITY.md,Early access to new features for Microsoft Fabric's Semantic Link.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vscode-java-debug,https://github.com/microsoft/vscode-java-debug,592,TypeScript,SECURITY.md,Java Debugger for Visual Studio Code.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/EventLogExpert,https://github.com/microsoft/EventLogExpert,591,C#,SECURITY.md,
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Azure-Verified-Modules,https://github.com/Azure/Azure-Verified-Modules,587,PowerShell,SECURITY.md,Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Modules will then a…
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/kubelogin,https://github.com/Azure/kubelogin,586,Go,SECURITY.md,A Kubernetes credential (exec) plugin implementing azure authentication
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Azure-Verified-Modules,https://github.com/Azure/Azure-Verified-Modules,586,PowerShell,SECURITY.md,Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Modules will then a…
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/sign,https://github.com/dotnet/sign,584,C#,SECURITY.md,"Code Signing CLI tool supporting Authenticode, NuGet, VSIX, and ClickOnce"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AzureStack-QuickStart-Templates,https://github.com/Azure/AzureStack-QuickStart-Templates,583,PowerShell,SECURITY.md,Quick start ARM templates that deploy on Microsoft Azure Stack
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/WALinuxAgent,https://github.com/Azure/WALinuxAgent,580,Python,SECURITY.md,Microsoft Azure Linux Guest Agent 
@@ -1299,6 +1299,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vs-mef,https://github.com/microsoft/vs-mef,469,C#,SECURITY.md,Managed Extensibility Framework (MEF) implementation used by Visual Studio
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-functions-dotnet-worker,https://github.com/Azure/azure-functions-dotnet-worker,467,C#,SECURITY.md,Azure Functions out-of-process .NET language worker
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Qcodes,https://github.com/microsoft/Qcodes,467,Python,SECURITY.md,Modular data acquisition framework
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-devtestlab,https://github.com/Azure/azure-devtestlab,465,PowerShell,SECURITY.md,"Azure DevTestLab artifacts, scripts and samples"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/arm-ttk,https://github.com/Azure/arm-ttk,464,PowerShell,SECURITY.md,Azure Resource Manager Template Toolkit
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/secrets-store-csi-driver-provider-azure,https://github.com/Azure/secrets-store-csi-driver-provider-azure,464,Go,SECURITY.md,Azure Key Vault provider for Secret Store CSI driver allows you to get secret contents stored in Azure Key Vault instance and use the Secret Store CSI driver in…
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/navcontainerhelper,https://github.com/microsoft/navcontainerhelper,464,PowerShell,SECURITY.md,"Official Microsoft repository for BcContainerHelper, a PowerShell module, which makes it easier to work with Business Central Containers on Docker."
@@ -1498,7 +1499,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-iot-sdk-java,https://github.com/Azure/azure-iot-sdk-java,208,Java,SECURITY.md,A Java SDK for connecting devices to Microsoft Azure IoT services
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/python-environment-tools,https://github.com/microsoft/python-environment-tools,208,Rust,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-sdk-for-cpp,https://github.com/Azure/azure-sdk-for-cpp,207,C++,SECURITY.md,This repository is for active development of the Azure SDK for C++.  For consumers of the SDK we recommend visiting our versioned developer docs at https://azur…
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/alz-terraform-accelerator,https://github.com/Azure/alz-terraform-accelerator,206,HCL,SECURITY.md,Azure Landing Zones Terraform Accelerator
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/alz-terraform-accelerator,https://github.com/Azure/alz-terraform-accelerator,207,HCL,SECURITY.md,Azure Landing Zones Terraform Accelerator
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/BatchExplorer,https://github.com/Azure/BatchExplorer,205,TypeScript,SECURITY.md,"A client tool to help create, debug and monitor Azure Batch Applications "
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/azure-devops-extension-tasks,https://github.com/microsoft/azure-devops-extension-tasks,205,TypeScript,.github/SECURITY.md,Pipeline tasks for Azure DevOps Extensions
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-kusto-python,https://github.com/Azure/azure-kusto-python,204,Python,SECURITY.md,Kusto client libraries for Python
@@ -1688,6 +1689,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/service-fabric-explorer,https://github.com/microsoft/service-fabric-explorer,116,TypeScript,SECURITY.md,Service Fabric Explorer is a web based dashboard for visualizing the state of a Service Fabric cluster.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/mttl,https://github.com/microsoft/mttl,116,Python,SECURITY.md,Building modular LMs with parameter-efficient fine-tuning.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoftgraph,microsoftgraph/msgraph-sdk-ruby,https://github.com/microsoftgraph/msgraph-sdk-ruby,116,Ruby,SECURITY.md,Microsoft Graph Ruby client library for v1 APIs
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/aoai-apim,https://github.com/Azure/aoai-apim,116,Python,SECURITY.md,"Scaling AOAI using APIM, PTUs and TPMs"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AppService,https://github.com/Azure/AppService,115,HTML,SECURITY.md,Blog posts from the App Service team
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/aks-desktop,https://github.com/Azure/aks-desktop,115,TypeScript,SECURITY.md,AKS desktop delivers an application focused experience for deploying and managing workloads on Azure Kubernetes Service.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/ALZ-PowerShell-Module,https://github.com/Azure/ALZ-PowerShell-Module,115,PowerShell,SECURITY.md,The Azure Landing Zones Accelerators PowerShell module
@@ -2090,7 +2092,9 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/k8s-create-secret,https://github.com/Azure/k8s-create-secret,40,TypeScript,SECURITY.md,GitHub Action to create Kubernetes cluster secrets
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/ARO-HCP,https://github.com/Azure/ARO-HCP,40,Go,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-rest-api-specs-examples,https://github.com/Azure/azure-rest-api-specs-examples,40,,SECURITY.md,SDK examples for azure-rest-api-specs
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/apiops-cli,https://github.com/Azure/apiops-cli,40,TypeScript,SECURITY.md,Command line interface for Azure API Management
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AI-benchmarking-guide,https://github.com/Azure/AI-benchmarking-guide,40,Python,SECURITY.md,Benchmarking guide for the Azure AI Infrastructure.
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/kubectl-aks,https://github.com/Azure/kubectl-aks,40,Go,SECURITY.md,Azure Kubernetes Service (AKS) kubectl plugin
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/RGCOPY,https://github.com/Azure/RGCOPY,40,PowerShell,SECURITY.md,script for copying an Azure Resource Group
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AzurePolicyAgents,https://github.com/Azure/AzurePolicyAgents,40,PowerShell,SECURITY.md,"Agents for Azure Policy development, testing, and implementation"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/InnovationEngine,https://github.com/Azure/InnovationEngine,40,Go,SECURITY.md,An experiment in simplicity for complex environments
@@ -2104,7 +2108,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/terraform-azurerm-avm-res-storage-storageaccount,https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount,39,HCL,SECURITY.md,Terraform Azure Verified Resource Module for Storage Account
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-functions-mcp-extension,https://github.com/Azure/azure-functions-mcp-extension,39,C#,SECURITY.md,Model Context Protocol extension for Azure Functions.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AAD.fs,https://github.com/Azure/AAD.fs,39,F#,SECURITY.md,F# WebAPI endpoint protection based on Azure AD roles
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/kubectl-aks,https://github.com/Azure/kubectl-aks,39,Go,SECURITY.md,Azure Kubernetes Service (AKS) kubectl plugin
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/az-cgpu-onboarding,https://github.com/Azure/az-cgpu-onboarding,39,Python,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/kubernetes-carbon-intensity-exporter,https://github.com/Azure/kubernetes-carbon-intensity-exporter,39,Go,SECURITY.md,Kubernetes Carbon Intensity Exporter
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vscode-autopep8,https://github.com/microsoft/vscode-autopep8,39,Python,SECURITY.md,Formatting support for python using autopep8.
@@ -2112,7 +2115,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoftgraph,microsoftgraph/msgraph-sample-android,https://github.com/microsoftgraph/msgraph-sample-android,39,Java,SECURITY.md,This sample demonstrates how to use the Microsoft Graph Java SDK to access data in Office 365 from native mobile Android applications.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Aion-Instruct-Preview-Sample,https://github.com/microsoft/Aion-Instruct-Preview-Sample,39,PowerShell,SECURITY.md,Sample app showing on-device language model inference with the Aion Instruct Preview Framework on Windows Copilot+ PCs.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/SLG-Business-Applications,https://github.com/microsoft/SLG-Business-Applications,39,,SECURITY.md,"A collection of Power Platform and Dynamics 365 resources, open-sourced to the State & Local Government community."
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/apiops-cli,https://github.com/Azure/apiops-cli,38,TypeScript,SECURITY.md,Command line interface for Azure API Management
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AppConfiguration-Emulator,https://github.com/Azure/AppConfiguration-Emulator,38,C#,SECURITY.md,"The Azure App Configuration emulator is a tool that allows you to run Azure App Configuration locally, enabling development and testing without needing to conne…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/accelerator-bootstrap-modules,https://github.com/Azure/accelerator-bootstrap-modules,38,HCL,SECURITY.md,Terraform modules that support version control system bootstrapping for the ALZ Accelerators
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AzureGraph,https://github.com/Azure/AzureGraph,38,R,SECURITY.md,R interface to Microsoft Graph REST API
@@ -2499,7 +2501,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/kusto-copy,https://github.com/Azure/kusto-copy,14,C#,SECURITY.md,Tool enabling Azure Data Explorer / Kusto cluster replication
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/terraform-azurerm-avm-res-resources-resourcegroup,https://github.com/Azure/terraform-azurerm-avm-res-resources-resourcegroup,14,HCL,SECURITY.md,Terraform Azure Verified Resource Module for Resource Group
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/terraform-azurerm-avm-res-app-containerapp,https://github.com/Azure/terraform-azurerm-avm-res-app-containerapp,14,HCL,SECURITY.md,Terraform Azure Verified Resource Module for Container App
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-functions-golang-worker,https://github.com/Azure/azure-functions-golang-worker,14,Go,SECURITY.md,Run your Go serverless workloads on Azure Functions with first-class runtime support.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-utpm-c,https://github.com/Azure/azure-utpm-c,14,C,SECURITY.md,TPM C library for use with Azure IoT SDKs
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/ip-masq-agent-v2,https://github.com/Azure/ip-masq-agent-v2,14,Go,SECURITY.md,"ip-masq-agent-v2 aims to solve more complex networking cases, allow for more configuration options, and improve observability compared to the original."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/arc_jumpstart_drops,https://github.com/Azure/arc_jumpstart_drops,14,C++,SECURITY.md,A public repo for hosting the Arc Jumpstart Drops artifacts
@@ -2537,6 +2538,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/osm-azure,https://github.com/Azure/osm-azure,13,Shell,SECURITY.md,Open Service Mesh (OSM) on Azure
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/aaz,https://github.com/Azure/aaz,13,Shell,SECURITY.md,Atomic Azure CLI
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/bicep-types,https://github.com/Azure/bicep-types,13,Go,SECURITY.md,Shared libraries for reading and writing Bicep type definitions
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-functions-golang-worker,https://github.com/Azure/azure-functions-golang-worker,13,Go,SECURITY.md,Run your Go serverless workloads on Azure Functions with first-class runtime support.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Microsoft.AVS.Management,https://github.com/Azure/Microsoft.AVS.Management,13,PowerShell,SECURITY.md,AVS PowerCLI based Automation Tools for Administrators
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Guest-Configuration-Extension,https://github.com/Azure/Guest-Configuration-Extension,13,Go,SECURITY.md,Azure Guest Configuration Virtual Machine Extension for Linux
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/AzRegionSelection,https://github.com/Azure/AzRegionSelection,13,PowerShell,SECURITY.md,This repository is hosting solution that can help end user to select most appropriate region in Azure to host workload.
@@ -2912,6 +2914,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/orgdata_apibasedimport,https://github.com/microsoft/orgdata_apibasedimport,5,PowerShell,SECURITY.md,Sample C# and PowerShell Script for importing organizational Data
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/WSEAutomationTests,https://github.com/microsoft/WSEAutomationTests,5,PowerShell,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vscode-zeromq,https://github.com/microsoft/vscode-zeromq,5,JavaScript,SECURITY.md,For consuming the zeromq binary from microsoft/zeromq-prebuilt in a Node project
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/fiberd,https://github.com/Azure/fiberd,5,Go,SECURITY.md,"Many fast instances of one workload, each a fork or snapshot restore of one warm copy, inside Kubernetes, Slurm or any scheduler."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/microsoft-planetary-computer-pro,https://github.com/Azure/microsoft-planetary-computer-pro,4,Jupyter Notebook,SECURITY.md,Repository for supplementary open-source code and projects for Microsoft Planetary Computer Pro
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/homebrew-azd,https://github.com/Azure/homebrew-azd,4,Ruby,SECURITY.md,Homebrew Tap for Azure Developer CLI (azd)
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/CosmosDBShell,https://github.com/Azure/CosmosDBShell,4,C#,SECURITY.md,Azure Cosmos DB Shell is a powerful command-line interface for Azure Cosmos DB that enables you to interact with your databases using intuitive bash-like comman…
@@ -2982,7 +2985,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-module-loop-basic,https://github.com/microsoft/amplifier-module-loop-basic,4,Python,SECURITY.md,Reference implementation for a basic loop module for Amplifier project
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-distro,https://github.com/microsoft/amplifier-distro,4,Python,SECURITY.md,Amplifier experiences
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/web_replay,https://github.com/microsoft/web_replay,4,Go,SECURITY.md,
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/fiberd,https://github.com/Azure/fiberd,4,Go,SECURITY.md,"Many fast instances of one workload, each a fork or snapshot restore of one warm copy, inside Kubernetes, Slurm or any scheduler."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-bundle-issues,https://github.com/microsoft/amplifier-bundle-issues,4,Python,SECURITY.md,Amplifier issues bundle
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/multi-region-platform,https://github.com/Azure/multi-region-platform,3,HTML,SECURITY.md,"Extending Azure landing zones for adaptable regional placement, qualifying regions, planning by workload archetype, and right-sizing regional platform connectiv…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/appcat-konveyor-rulesets,https://github.com/Azure/appcat-konveyor-rulesets,3,Java,SECURITY.md,This repository contains the rulesets in YAML format for appcat-cli-java static code analysis. 
@@ -6257,7 +6259,7 @@ ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/metis,https:
 ARM,自建PSIRT（Arm Product Security Incident Response）,ARM-software,ARM-software/Tool-Solutions,https://github.com/ARM-software/Tool-Solutions,281,Python,SECURITY.md,"Scripts to build a wheel and a Docker image containing a complete ML framework stack, including dependencies, for AArch64 CPUs, as well as a selection of exampl…"
 ARM,自建PSIRT（Arm Product Security Incident Response）,ARM-software,ARM-software/SCP-firmware,https://github.com/ARM-software/SCP-firmware,263,C,security.md,This System Control Processor (SCP) firmware repository is no longer used and has been set to Read-only for archiving purposes. Please refer to the following ac…
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/arm-toolchain,https://github.com/arm/arm-toolchain,261,LLVM,SECURITY.md,A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.
-ARM,自建PSIRT（Arm Product Security Incident Response）,ARM-software,ARM-software/kleidiai,https://github.com/ARM-software/kleidiai,203,C++,SECURITY.md,This repository is a read-only mirror of https://gitlab.arm.com/kleidi/kleidiai
+ARM,自建PSIRT（Arm Product Security Incident Response）,ARM-software,ARM-software/kleidiai,https://github.com/ARM-software/kleidiai,203,Assembly,SECURITY.md,This repository is a read-only mirror of https://gitlab.arm.com/kleidi/kleidiai
 ARM,自建PSIRT（Arm Product Security Incident Response）,ARM-software,ARM-software/android-nn-driver,https://github.com/ARM-software/android-nn-driver,158,C++,SECURITY.md,
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/accuracy-super-resolution,https://github.com/arm/accuracy-super-resolution,113,,SECURITY.md,Arm® Accuracy Super Resolution™
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/device-connect,https://github.com/arm/device-connect,100,Python,SECURITY.md,"An open-source protocol by Arm for connecting devices, robots, and AI agents"
@@ -8361,8 +8363,8 @@ Fastly,HackerOne（Fastly）,fastly,fastly/graphql-compute-example,https://githu
 Fastly,HackerOne（Fastly）,fastly,fastly/scoop-cli,https://github.com/fastly/scoop-cli,,,SECURITY.md,scoop packaging for the Fastly CLI
 Akamai,自建（Akamai VDP）,akamai,akamai/envoy,https://github.com/akamai/envoy,1,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 Datadog,HackerOne（Datadog）,DataDog,DataDog/stratus-red-team,https://github.com/DataDog/stratus-red-team,2444,Go,SECURITY.md,":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud"
-Datadog,HackerOne（Datadog）,DataDog,DataDog/guarddog,https://github.com/DataDog/guarddog,1241,Python,SECURITY.md,:snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
-Datadog,HackerOne（Datadog）,DataDog,DataDog/KubeHound,https://github.com/DataDog/KubeHound,1017,Go,SECURITY.md,Tool for building Kubernetes attack paths
+Datadog,HackerOne（Datadog）,DataDog,DataDog/guarddog,https://github.com/DataDog/guarddog,1242,Python,SECURITY.md,:snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
+Datadog,HackerOne（Datadog）,DataDog,DataDog/KubeHound,https://github.com/DataDog/KubeHound,1018,Go,SECURITY.md,Tool for building Kubernetes attack paths
 Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-go,https://github.com/DataDog/dd-trace-go,863,Go,SECURITY.md,"Datadog Go Library including APM tracing, profiling, and security monitoring."
 Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-js,https://github.com/DataDog/dd-trace-js,840,JavaScript,SECURITY.md,Datadog APM client for Node.js
 Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-java,https://github.com/DataDog/dd-trace-java,738,Java,SECURITY.md,Datadog APM client for Java

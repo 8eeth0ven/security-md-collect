@@ -927,7 +927,7 @@
   "full_name": "Azure/azure-sdk-for-python",
   "url": "https://github.com/Azure/azure-sdk-for-python",
   "sec_path": "SECURITY.md",
-  "stars": 5623,
+  "stars": 5624,
   "language": "Python",
   "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn…",
   "first_seen": "2026-11-01 16:24:27"
@@ -1910,7 +1910,7 @@
   "full_name": "Azure/AKS",
   "url": "https://github.com/Azure/AKS",
   "sec_path": "SECURITY.md",
-  "stars": 2146,
+  "stars": 2145,
   "language": "TypeScript",
   "description": "Azure Kubernetes Service",
   "first_seen": "2026-11-01 16:24:42"
@@ -2626,7 +2626,7 @@
   "full_name": "Azure/azure-functions-core-tools",
   "url": "https://github.com/Azure/azure-functions-core-tools",
   "sec_path": "SECURITY.md",
-  "stars": 1465,
+  "stars": 1464,
   "language": "C#",
   "description": "Command line tools for Azure Functions",
   "first_seen": "2026-11-01 16:24:27"
@@ -3478,7 +3478,7 @@
   "full_name": "Azure/azure-service-operator",
   "url": "https://github.com/Azure/azure-service-operator",
   "sec_path": "SECURITY.md",
-  "stars": 915,
+  "stars": 916,
   "language": "Go",
   "description": "Azure Service Operator allows you to create Azure resources using kubectl",
   "first_seen": "2026-11-01 16:24:27"
@@ -4314,7 +4314,7 @@
   "full_name": "Azure/co-op-translator",
   "url": "https://github.com/Azure/co-op-translator",
   "sec_path": "SECURITY.md",
-  "stars": 664,
+  "stars": 665,
   "language": "Python",
   "description": "Keep Markdown, Jupyter notebooks, and image text translated as your repository changes.",
   "first_seen": "2026-11-01 16:24:27"
@@ -4671,23 +4671,23 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/Azure-Verified-Modules",
+  "url": "https://github.com/Azure/Azure-Verified-Modules",
+  "sec_path": "SECURITY.md",
+  "stars": 587,
+  "language": "PowerShell",
+  "description": "Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Modules will then a…",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/kubelogin",
   "url": "https://github.com/Azure/kubelogin",
   "sec_path": "SECURITY.md",
   "stars": 586,
   "language": "Go",
   "description": "A Kubernetes credential (exec) plugin implementing azure authentication",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/Azure-Verified-Modules",
-  "url": "https://github.com/Azure/Azure-Verified-Modules",
-  "sec_path": "SECURITY.md",
-  "stars": 586,
-  "language": "PowerShell",
-  "description": "Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Modules will then a…",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -5285,6 +5285,18 @@
   "description": "Modular data acquisition framework",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-devtestlab",
+  "url": "https://github.com/Azure/azure-devtestlab",
+  "sec_path": "SECURITY.md",
+  "stars": 465,
+  "language": "PowerShell",
+  "description": "Azure DevTestLab artifacts, scripts and samples",
+  "license": null,
+  "first_seen": "2026-11-04 23:06:54"
  },
  {
   "vendor": "微软",
@@ -7601,7 +7613,7 @@
   "full_name": "Azure/alz-terraform-accelerator",
   "url": "https://github.com/Azure/alz-terraform-accelerator",
   "sec_path": "SECURITY.md",
-  "stars": 206,
+  "stars": 207,
   "language": "HCL",
   "description": "Azure Landing Zones Terraform Accelerator",
   "first_seen": "2026-11-01 16:24:54"
@@ -9795,6 +9807,18 @@
   "description": "Microsoft Graph Ruby client library for v1 APIs",
   "license": null,
   "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/aoai-apim",
+  "url": "https://github.com/Azure/aoai-apim",
+  "sec_path": "SECURITY.md",
+  "stars": 116,
+  "language": "Python",
+  "description": "Scaling AOAI using APIM, PTUs and TPMs",
+  "license": null,
+  "first_seen": "2026-11-04 23:06:54"
  },
  {
   "vendor": "微软",
@@ -14460,6 +14484,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/apiops-cli",
+  "url": "https://github.com/Azure/apiops-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 40,
+  "language": "TypeScript",
+  "description": "Command line interface for Azure API Management",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/AI-benchmarking-guide",
   "url": "https://github.com/Azure/AI-benchmarking-guide",
   "sec_path": "SECURITY.md",
@@ -14467,6 +14502,17 @@
   "language": "Python",
   "description": "Benchmarking guide for the Azure AI Infrastructure.",
   "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/kubectl-aks",
+  "url": "https://github.com/Azure/kubectl-aks",
+  "sec_path": "SECURITY.md",
+  "stars": 40,
+  "language": "Go",
+  "description": "Azure Kubernetes Service (AKS) kubectl plugin",
+  "first_seen": "2026-11-01 16:24:54"
  },
  {
   "vendor": "微软",
@@ -14618,17 +14664,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/kubectl-aks",
-  "url": "https://github.com/Azure/kubectl-aks",
-  "sec_path": "SECURITY.md",
-  "stars": 39,
-  "language": "Go",
-  "description": "Azure Kubernetes Service (AKS) kubectl plugin",
-  "first_seen": "2026-11-01 16:24:54"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/az-cgpu-onboarding",
   "url": "https://github.com/Azure/az-cgpu-onboarding",
   "sec_path": "SECURITY.md",
@@ -14707,17 +14742,6 @@
   "description": "A collection of Power Platform and Dynamics 365 resources, open-sourced to the State & Local Government community.",
   "license": null,
   "first_seen": "2026-11-04 01:33:52"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/apiops-cli",
-  "url": "https://github.com/Azure/apiops-cli",
-  "sec_path": "SECURITY.md",
-  "stars": 38,
-  "language": "TypeScript",
-  "description": "Command line interface for Azure API Management",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -19203,17 +19227,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/azure-functions-golang-worker",
-  "url": "https://github.com/Azure/azure-functions-golang-worker",
-  "sec_path": "SECURITY.md",
-  "stars": 14,
-  "language": "Go",
-  "description": "Run your Go serverless workloads on Azure Functions with first-class runtime support.",
-  "first_seen": "2026-11-01 16:24:42"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/azure-utpm-c",
   "url": "https://github.com/Azure/azure-utpm-c",
   "sec_path": "SECURITY.md",
@@ -19636,6 +19649,17 @@
   "language": "Go",
   "description": "Shared libraries for reading and writing Bicep type definitions",
   "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-functions-golang-worker",
+  "url": "https://github.com/Azure/azure-functions-golang-worker",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "Go",
+  "description": "Run your Go serverless workloads on Azure Functions with first-class runtime support.",
+  "first_seen": "2026-11-01 16:24:42"
  },
  {
   "vendor": "微软",
@@ -23959,6 +23983,18 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/fiberd",
+  "url": "https://github.com/Azure/fiberd",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Go",
+  "description": "Many fast instances of one workload, each a fork or snapshot restore of one warm copy, inside Kubernetes, Slurm or any scheduler.",
+  "license": null,
+  "first_seen": "2026-11-04 09:06:53"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/microsoft-planetary-computer-pro",
   "url": "https://github.com/Azure/microsoft-planetary-computer-pro",
   "sec_path": "SECURITY.md",
@@ -24757,18 +24793,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-04 01:33:52"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/fiberd",
-  "url": "https://github.com/Azure/fiberd",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "Go",
-  "description": "Many fast instances of one workload, each a fork or snapshot restore of one warm copy, inside Kubernetes, Slurm or any scheduler.",
-  "license": null,
-  "first_seen": "2026-11-04 09:06:53"
  },
  {
   "vendor": "微软",
