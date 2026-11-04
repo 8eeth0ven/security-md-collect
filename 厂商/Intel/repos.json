@@ -1931,6 +1931,18 @@
  },
  {
   "vendor": "Intel",
+  "org": "oneapi-src",
+  "full_name": "oneapi-src/level-zero-tests",
+  "url": "https://github.com/oneapi-src/level-zero-tests",
+  "sec_path": "SECURITY.md",
+  "stars": 66,
+  "language": "C++",
+  "description": "oneAPI Level Zero Conformance & Performance test content",
+  "license": null,
+  "first_seen": "2026-11-01 23:05:44"
+ },
+ {
+  "vendor": "Intel",
   "org": "intel",
   "full_name": "intel/SDM",
   "url": "https://github.com/intel/SDM",
@@ -1961,18 +1973,6 @@
   "language": "C",
   "description": "Multi-Architecture UEFI Environment Driver",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "oneapi-src",
-  "full_name": "oneapi-src/level-zero-tests",
-  "url": "https://github.com/oneapi-src/level-zero-tests",
-  "sec_path": "SECURITY.md",
-  "stars": 65,
-  "language": "C++",
-  "description": "oneAPI Level Zero Conformance & Performance test content",
-  "license": null,
-  "first_seen": "2026-11-01 23:05:44"
  },
  {
   "vendor": "Intel",
