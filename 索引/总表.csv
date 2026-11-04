@@ -577,19 +577,19 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 蚂蚁集团,蚂蚁SRC,antgroup,antgroup/xquic,https://github.com/antgroup/xquic,,C,SECURITY.md,XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-rpc-1,https://github.com/sofastack/sofa-rpc-1,0,Java,SECURITY.md,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework."
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-boot-3,https://github.com/sofastack/sofa-boot-3,0,Java,SECURITY.md,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc."
-字节跳动,字节跳动SRC,bytedance,bytedance/deer-flow,https://github.com/bytedance/deer-flow,84963,Python,SECURITY.md,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga…"
-字节跳动,字节跳动SRC,bytedance,bytedance/UI-TARS-desktop,https://github.com/bytedance/UI-TARS-desktop,39539,TypeScript,SECURITY.md,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+字节跳动,字节跳动SRC,bytedance,bytedance/deer-flow,https://github.com/bytedance/deer-flow,84977,Python,SECURITY.md,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga…"
+字节跳动,字节跳动SRC,bytedance,bytedance/UI-TARS-desktop,https://github.com/bytedance/UI-TARS-desktop,39542,TypeScript,SECURITY.md,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 字节跳动,字节跳动SRC,cloudwego,cloudwego/volo,https://github.com/cloudwego/volo,2634,Rust,SECURITY.md,Rust RPC framework with high-performance and strong-extensibility for building micro-services.
-字节跳动,字节跳动SRC,bytedance,bytedance/bhook,https://github.com/bytedance/bhook,2625,C,SECURITY.md,通用的Android PLT hook库，支持armeabi-v7a，arm64-v8a，x86，x86_64
-字节跳动,字节跳动SRC,bytedance,bytedance/android-inline-hook,https://github.com/bytedance/android-inline-hook,2439,C,SECURITY.md,通用的Android inline hook库，支持thumb，arm32，arm64
-字节跳动,字节跳动SRC,bytedance,bytedance/Lance,https://github.com/bytedance/Lance,1364,Python,SECURITY.md,"A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+字节跳动,字节跳动SRC,bytedance,bytedance/bhook,https://github.com/bytedance/bhook,2624,C,SECURITY.md,通用的Android PLT hook库，支持armeabi-v7a，arm64-v8a，x86，x86_64
+字节跳动,字节跳动SRC,bytedance,bytedance/android-inline-hook,https://github.com/bytedance/android-inline-hook,2440,C,SECURITY.md,通用的Android inline hook库，支持thumb，arm32，arm64
+字节跳动,字节跳动SRC,bytedance,bytedance/Lance,https://github.com/bytedance/Lance,1365,Python,SECURITY.md,"A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
 字节跳动,字节跳动SRC,cloudwego,cloudwego/motore,https://github.com/cloudwego/motore,281,Rust,SECURITY.md,Async middleware abstraction powered by AFIT and RPITIT.
 字节跳动,字节跳动SRC,cloudwego,cloudwego/pilota,https://github.com/cloudwego/pilota,168,Rust,SECURITY.md,A thrift and protobuf implementation in pure rust with high performance and extensibility.
 字节跳动,字节跳动SRC,bytedance,bytedance/CompoundVM,https://github.com/bytedance/CompoundVM,121,Java,SECURITY.md,A high-performance JDK with broad compatibility
 字节跳动,字节跳动SRC,bytedance,bytedance/UniVR,https://github.com/bytedance/UniVR,33,Python,SECURITY.md,Official Codebase For NeurIPS-26 Work: UniVR
 字节跳动,字节跳动SRC,bytedance,bytedance/TableVerse,https://github.com/bytedance/TableVerse,25,,SECURITY.md,
 字节跳动,字节跳动SRC,cloudwego,cloudwego/metainfo,https://github.com/cloudwego/metainfo,22,Rust,SECURITY.md,Transmissing metainfo across components.
-字节跳动,字节跳动SRC,bytedance,bytedance/tango,https://github.com/bytedance/tango,12,Go,SECURITY.md,
+字节跳动,字节跳动SRC,bytedance,bytedance/tango,https://github.com/bytedance/tango,13,Go,SECURITY.md,
 字节跳动,字节跳动SRC,bytedance,bytedance/CARD,https://github.com/bytedance/CARD,8,Python,SECURITY.md,"The official repository for ""CARD: Coarse-to-fine Autoregressive Modeling with Radix-based Decomposition for Transferable Free Energy Estimation"" published in I…"
 字节跳动,字节跳动SRC,bytedance,bytedance/tangollvm,https://github.com/bytedance/tangollvm,7,LLVM,SECURITY.md,"Bring LLVM optimizations (LTO, PGO) to Go — the LLVM side of ByteDance's Tango toolchain."
 字节跳动,字节跳动SRC,bytedance,bytedance/tensorflow,https://github.com/bytedance/tensorflow,7,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
@@ -722,7 +722,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 京东,JSRC,jd-opensource,jd-opensource/joytoken-sdk-ts,https://github.com/jd-opensource/joytoken-sdk-ts,0,TypeScript,SECURITY.md,Production-ready TypeScript client for JoyToken's public developer API.
 京东,JSRC,jd-opensource,jd-opensource/joytoken-sdk-go,https://github.com/jd-opensource/joytoken-sdk-go,0,Go,SECURITY.md,Production-ready Go client for JoyToken's public developer API.
 百度,BSRC,PaddlePaddle,PaddlePaddle/Paddle,https://github.com/PaddlePaddle/Paddle,24133,C++,SECURITY.md,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-百度,BSRC,baidu,baidu/openrasp,https://github.com/baidu/openrasp,2990,C++,SECURITY.md,🔥Open source RASP solution
+百度,BSRC,baidu,baidu/openrasp,https://github.com/baidu/openrasp,2991,C++,SECURITY.md,🔥Open source RASP solution
 百度,BSRC,baidu,baidu/nettools,https://github.com/baidu/nettools,196,Go,SECURITY.md,"A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss loca…"
 百度,BSRC,baidu,baidu/scs-redis,https://github.com/baidu/scs-redis,11,C,SECURITY.md,"Redis-based cloud adaptation powering Baidu AI Cloud's SCS, optimized for large-scale multi-tenant deployments with enhanced HA, reliability and security - batt…"
 华为,Huawei PSIRT,mindspore-ai,mindspore-ai/mindspore,https://github.com/mindspore-ai/mindspore,4716,C++,SECURITY.md,"MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios."
@@ -3861,10 +3861,10 @@ Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/.github,htt
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/amazon-q-developer-cli,https://github.com/aws/amazon-q-developer-cli,1986,Rust,SECURITY.md,✨ Agentic chat experience in your terminal. Build applications using natural language.
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-support-tools,https://github.com/awslabs/aws-support-tools,1511,Python,SECURITY.md,Tools and sample code provided by AWS Premium Support.
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/cli-agent-orchestrator,https://github.com/awslabs/cli-agent-orchestrator,1510,Python,SECURITY.md,"Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions"
-亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/s2n-quic,https://github.com/aws/s2n-quic,1378,Rust,SECURITY.md,An implementation of the IETF QUIC protocol
+亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/s2n-quic,https://github.com/aws/s2n-quic,1379,Rust,SECURITY.md,An implementation of the IETF QUIC protocol
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-solutions-constructs,https://github.com/awslabs/aws-solutions-constructs,1361,TypeScript,SECURITY.md,"The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patter…"
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/swift-aws-lambda-runtime,https://github.com/awslabs/swift-aws-lambda-runtime,1237,Swift,SECURITY.md,Swift implementation of AWS Lambda Runtime
-亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/context-ontology-accelerator,https://github.com/aws/context-ontology-accelerator,1074,Python,SECURITY.md,"An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
+亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/context-ontology-accelerator,https://github.com/aws/context-ontology-accelerator,1075,Python,SECURITY.md,"An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-iot-device-sdk-embedded-C,https://github.com/aws/aws-iot-device-sdk-embedded-C,1061,C,SECURITY.md,SDK for connecting to AWS IoT from a device using embedded C.
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-saas-boost,https://github.com/awslabs/aws-saas-boost,974,Java,SECURITY.md,AWS SaaS Boost is a ready-to-use toolset that removes the complexity of successfully running SaaS workloads in the AWS cloud.
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/agent-plugins,https://github.com/awslabs/agent-plugins,934,Python,.github/SECURITY.md,"Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS."
@@ -3926,9 +3926,9 @@ Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/.github,htt
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-iot-fleetwise-edge,https://github.com/aws/aws-iot-fleetwise-edge,76,C++,SECURITY.md,Reference Implementation for AWS IoT FleetWise
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-claude-code-agent-team,https://github.com/aws-samples/sample-claude-code-agent-team,73,Python,SECURITY.md,Team of specialized AI agents that collaborate through a spec-driven development process. Full Stack Developer parent orchestrates dynamically sized pools of sp…
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/homomorphic-implementors-toolkit,https://github.com/awslabs/homomorphic-implementors-toolkit,72,C++,SECURITY.md,
+亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/filemoverexpress,https://github.com/awslabs/filemoverexpress,71,TypeScript,SECURITY.md,High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-agentic-value-accelerator,https://github.com/aws-samples/sample-agentic-value-accelerator,70,TypeScript,SECURITY.md,"A platfrom to Plan, Build, Operate, Secure, and Govern AI Systems for Financial Services on AWS "
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/lza-universal-configuration,https://github.com/aws/lza-universal-configuration,69,JavaScript,SECURITY.md,
-亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/filemoverexpress,https://github.com/awslabs/filemoverexpress,68,TypeScript,SECURITY.md,High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/ota-for-aws-iot-embedded-sdk,https://github.com/aws/ota-for-aws-iot-embedded-sdk,66,C,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/iam-roles-anywhere-session,https://github.com/awslabs/iam-roles-anywhere-session,63,Python,SECURITY.md,This package provides an easy way to create a refreshable boto3 Session with AWS Roles Anywhere.
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/codecatalyst-blueprints,https://github.com/aws/codecatalyst-blueprints,58,TypeScript,SECURITY.md,
@@ -3955,9 +3955,9 @@ Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/.github,htt
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/actions-dev-kit,https://github.com/aws/actions-dev-kit,28,HTML,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/amazon-neptune-jdbc-driver,https://github.com/aws/amazon-neptune-jdbc-driver,28,Java,SECURITY.md,Amazon Neptune JDBC Driver by Amazon Web Services
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-quick-control,https://github.com/aws-samples/sample-quick-control,28,Python,SECURITY.md,"Drive Amazon Quick on macOS programmatically - desktop app and web, one protocol (Chrome DevTools Protocol). Send messages, read replies, build dashboards and a…"
+亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/config-resource-compliance-dashboard,https://github.com/aws-samples/config-resource-compliance-dashboard,28,Shell,SECURITY.md,"The Amazon Web Services (AWS) Config Resource Compliance Dashboard (CRCD) shows the inventory of your AWS resources, along with their compliance status, across …"
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-service-eol-data,https://github.com/awslabs/aws-service-eol-data,28,,SECURITY.md,"Machine-readable JSON dataset of AWS service version end-of-support and extended-support dates across EKS, RDS, Aurora, Lambda, ElastiCache, OpenSearch, MSK, Am…"
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-msk-iam-sasl-signer-go,https://github.com/aws/aws-msk-iam-sasl-signer-go,27,Go,.github/SECURITY.md,
-亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/config-resource-compliance-dashboard,https://github.com/aws-samples/config-resource-compliance-dashboard,27,Shell,SECURITY.md,"The Amazon Web Services (AWS) Config Resource Compliance Dashboard (CRCD) shows the inventory of your AWS resources, along with their compliance status, across …"
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/knfsd-file-cache,https://github.com/awslabs/knfsd-file-cache,27,Go,docs/SECURITY.md,"A set of utilities for building, deploying and operating a high performance NFS Cache in Amazon Web Services. This is designed to be used for certain HPC and bu…"
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-advanced-ruby-driver-wrapper,https://github.com/aws/aws-advanced-ruby-driver-wrapper,26,Ruby,SECURITY.md,The AWS Advanced Ruby Driver Wrapper is complementary to existing Ruby drivers and adapters and allows an application to take advantage of the features of clust…
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-agentcore-lowcode-nocode,https://github.com/aws-samples/sample-agentcore-lowcode-nocode,26,Python,SECURITY.md,
@@ -4001,7 +4001,7 @@ Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/.github,htt
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-bedrock-spend-budget-guardrails,https://github.com/aws-samples/sample-bedrock-spend-budget-guardrails,13,TypeScript,SECURITY.md,"Near-real-time Amazon Bedrock spend metering per IAM principal, with automatic budget enforcement via customer-managed IAM Deny policies. CDK, Lambda, and a Clo…"
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/tolap,https://github.com/awslabs/tolap,13,TypeScript,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/distributed-multi-agent-collaboration,https://github.com/awslabs/distributed-multi-agent-collaboration,13,Python,SECURITY.md,
-亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-GEDD,https://github.com/aws-samples/sample-GEDD,13,Python,.github/SECURITY.md,Find what your AI agent gets wrong — before you have a rubric. Qualitative eval for PMs.
+亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-GEDD,https://github.com/aws-samples/sample-GEDD,13,Python,.github/SECURITY.md,"GEDD turns domain-expert judgment into one failure codebook, then derives your evaluation, your training reward and your response gate from it."
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/SigV4-for-AWS-IoT-embedded-sdk,https://github.com/aws/SigV4-for-AWS-IoT-embedded-sdk,12,C,SECURITY.md,AWS library to sign AWS HTTP requests with Signature Version 4 Signing Process.
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-msk-iam-sasl-signer-net,https://github.com/aws/aws-msk-iam-sasl-signer-net,12,C#,.github/SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-kiro-cost-analyzer,https://github.com/aws-samples/sample-kiro-cost-analyzer,12,Python,SECURITY.md,
@@ -8656,7 +8656,7 @@ Grafana,自建（Grafana Labs Security）,grafana,grafana/macropro,https://githu
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/multipass,https://github.com/canonical/multipass,9330,C++,SECURITY.md,Multipass orchestrates virtual Ubuntu instances
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/lxd,https://github.com/canonical/lxd,4847,Go,SECURITY.md,Powerful system container and virtual machine manager
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/dqlite,https://github.com/canonical/dqlite,4420,C,SECURITY.md,"Embeddable, replicated and fault-tolerant SQL engine."
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/cloud-init,https://github.com/canonical/cloud-init,3852,Python,SECURITY.md,Official upstream for the cloud-init: cloud instance initialization
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/cloud-init,https://github.com/canonical/cloud-init,3853,Python,SECURITY.md,Official upstream for the cloud-init: cloud instance initialization
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/snapd,https://github.com/canonical/snapd,2054,Go,SECURITY.md,The snapd and snap tools enable systems to work with .snap files.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/snapcraft,https://github.com/canonical/snapcraft,1292,Python,SECURITY.md,"Package, distribute, and update any app for Linux and IoT."
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/netplan,https://github.com/canonical/netplan,856,Python,SECURITY.md,Declarative network configuration for various backends
@@ -8690,7 +8690,7 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/core-base,ht
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/desktop-security-center,https://github.com/canonical/desktop-security-center,36,Dart,SECURITY.md,Flutter-based security center for Ubuntu Desktop
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/microcluster,https://github.com/canonical/microcluster,34,Go,SECURITY.md,dqlite cluster management using go-dqlite
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/juju-dashboard,https://github.com/canonical/juju-dashboard,31,TypeScript,SECURITY.md,View the real-time status of your Juju or JAAS environment.
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/testflinger,https://github.com/canonical/testflinger,29,Python,SECURITY.md,A system for orchestrating the time-sharing of access to a pool of target machines.
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/testflinger,https://github.com/canonical/testflinger,30,Python,SECURITY.md,A system for orchestrating the time-sharing of access to a pool of target machines.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/core20,https://github.com/canonical/core20,27,Shell,SECURITY.md,The core20 base snap
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/starlark,https://github.com/canonical/starlark,25,Go,SECURITY.md,
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/firefox-snap,https://github.com/canonical/firefox-snap,24,Shell,SECURITY.md,Official repository for the source used to build the firefox snap (published by Mozilla)
@@ -9212,8 +9212,8 @@ Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/terraform-provider-heroku
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/temp-aryx-enterprise-firefox,https://github.com/mozilla/temp-aryx-enterprise-firefox,0,JavaScript,SECURITY.md,needed to test pulse messages for merges
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/onnxruntime,https://github.com/mozilla/onnxruntime,0,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/remote-settings-vpn-serverlist-updater,https://github.com/mozilla/remote-settings-vpn-serverlist-updater,0,Python,error,"Automagic updater for the VPN Serverlist, ingesting fastly data."
-Brave,HackerOne（Brave）,brave,brave/brave-core,https://github.com/brave/brave-core,3747,C++,SECURITY.md,Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
-Brave,HackerOne（Brave）,brave,brave/adblock-rust,https://github.com/brave/adblock-rust,2913,Rust,SECURITY.md,Brave's Rust-based adblock engine
+Brave,HackerOne（Brave）,brave,brave/brave-core,https://github.com/brave/brave-core,3748,C++,SECURITY.md,Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
+Brave,HackerOne（Brave）,brave,brave/adblock-rust,https://github.com/brave/adblock-rust,2914,Rust,SECURITY.md,Brave's Rust-based adblock engine
 Brave,HackerOne（Brave）,brave,brave/brave-talk,https://github.com/brave/brave-talk,154,TypeScript,SECURITY.md,Unlimited private video calls with your friends and colleagues
 Brave,HackerOne（Brave）,brave,brave/kuchikiki,https://github.com/brave/kuchikiki,79,Rust,SECURITY.md,(口利き) HTML tree-manipulation library for Rust
 Brave,HackerOne（Brave）,brave,brave/leo,https://github.com/brave/leo,78,Svelte,SECURITY.md,Design tokens for the Brave's design system known as Leo
@@ -9870,7 +9870,7 @@ Stripe,自建BB,stripe,stripe/memlink,https://github.com/stripe/memlink,7,Go,SEC
 Stripe,自建BB,stripe,stripe/sdk-migrator,https://github.com/stripe/sdk-migrator,7,TypeScript,SECURITY.md,Stripe SDK migrator to upgrade versions
 Stripe,自建BB,stripe,stripe/winget-pkgs,https://github.com/stripe/winget-pkgs,2,,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
 Stripe,自建BB,stripe,stripe/codesandbox-client,https://github.com/stripe/codesandbox-client,2,JavaScript,SECURITY.md,
-Block (Square/Cash App),自建BB,block,block/buzz,https://github.com/block/buzz,36718,Rust,SECURITY.md,A hive mind communication platform
+Block (Square/Cash App),自建BB,block,block/buzz,https://github.com/block/buzz,36726,Rust,SECURITY.md,A hive mind communication platform
 Block (Square/Cash App),自建BB,square,square/wire,https://github.com/square/wire,4440,Kotlin,SECURITY.md,"gRPC and protocol buffers for Android, Kotlin, Swift and Java."
 Block (Square/Cash App),自建BB,block,block/berd,https://github.com/block/berd,1035,TypeScript,SECURITY.md,a desktop app for getting work done with any model
 Block (Square/Cash App),自建BB,square,square/subzero,https://github.com/square/subzero,693,C,SECURITY.md,Block's Bitcoin Cold Storage solution.
