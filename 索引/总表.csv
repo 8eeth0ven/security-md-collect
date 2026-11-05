@@ -289,7 +289,7 @@ Apache软件基金会,无(开源基金会),apache,apache/hadoop-cloudstore,https
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
 Apache软件基金会,无(开源基金会),apache,apache/pulsar-spring,https://github.com/apache/pulsar-spring,0,Java,SECURITY.md,Apache Pulsar support for Spring
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,128671,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66941,Go,SECURITY.md,The Prometheus monitoring system and time series database.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66958,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52443,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45419,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38488,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
@@ -301,7 +301,7 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19437,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17081,Go,SECURITY.md,Workflow Engine for Kubernetes
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16696,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13895,Go,SECURITY.md,Exporter for machine metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13896,Go,SECURITY.md,Exporter for machine metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13057,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12525,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12075,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
@@ -312,7 +312,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,h
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/examples,https://github.com/kubernetes/examples,6828,Shell,SECURITY.md,Kubernetes application example tutorials
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kube-state-metrics,https://github.com/kubernetes/kube-state-metrics,6235,Go,SECURITY.md,Add-on agent to generate and expose cluster-level metrics.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6044,Go,SECURITY.md,Prometheus instrumentation library for Go applications
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5930,Go,SECURITY.md,Blackbox prober exporter
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5931,Go,SECURITY.md,Blackbox prober exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/website,https://github.com/kubernetes/website,5420,HTML,SECURITY.md,Kubernetes website and documentation repo: 
 CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5154,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-node,https://github.com/grpc/grpc-node,4842,TypeScript,SECURITY.md,gRPC for Node.js
@@ -3812,7 +3812,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/chisel,https://github.com/google/chisel,1,Go,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/x-edr-eigenmath_tf2,https://github.com/google/x-edr-eigenmath_tf2,1,C++,SECURITY.md,Port of ROS/TF2 to eigenmath library.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105131,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105148,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/fairseq,https://github.com/facebookresearch/fairseq,32211,Python,error,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28163,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
 Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18679,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
@@ -6183,12 +6183,16 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/usd-caches,https:
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/omniverse-performance,https://github.com/NVIDIA-Omniverse/omniverse-performance,1,Python,SECURITY.md,"This repo serves as the first stop for simulation technology performance resources, hosting a skills tree mirroring the knowledgebase and recommended practice"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/warp-optix,https://github.com/NVIDIA/warp-optix,1,Python,SECURITY.md,
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvperf-core,https://github.com/NVIDIA/nvperf-core,1,C,SECURITY.md,Core NVIDIA Nsight Perf SDK APIs and libraries for collecting and analyzing GPU performance data directly from application code.
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvtrace-tools,https://github.com/NVIDIA/nvtrace-tools,1,C++,SECURITY.md,"⚠️Initial deployment rollout in progress⚠️ Standalone tracing, collection, and analysis tools for NVIDIA Nsight Perf SDK."
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvtrace-samples-cuda,https://github.com/NVIDIA/nvtrace-samples-cuda,1,C++,SECURITY.md,⚠️Initial deployment rollout in progress⚠️ CUDA samples demonstrating data collection and analysis workflows with NVIDIA Nsight Perf SDK.
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvtrace-client,https://github.com/NVIDIA/nvtrace-client,1,C++,SECURITY.md,⚠️Initial deployment rollout in progress⚠️ Client libraries and interfaces for collecting performance data with NVIDIA Nsight Perf SDK for AI.
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nsight-perf-daemon,https://github.com/NVIDIA/nsight-perf-daemon,1,Shell,SECURITY.md,"⚠️Initial deployment rollout in progress⚠️ The Nsight Perf SDK for AI Daemon binaries, configuration, installation assets, and documentation."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/gdn-cli,https://github.com/NVIDIA/gdn-cli,,Go,SECURITY.md," GDN CLI is a Go-based command-line tool for uploading game folders to NGC and managing GDN portal apps, versions, resources, launch URLs, and related publishin…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cdf-curation-and-retrieval,https://github.com/NVIDIA/cdf-curation-and-retrieval,,Python,SECURITY.md,"PAIDF Curation and Retrieval turns raw video and image collections into training-ready datasets. It runs NVIDIA Cosmos Curator for splitting, filtering, caption…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/pingpong,https://github.com/NVIDIA/pingpong,,C,SECURITY.md,Core-to-core latency microbenchmark for Linux systems.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-AI-IOT,NVIDIA-AI-IOT/jetson-usb-network-recovery,https://github.com/NVIDIA-AI-IOT/jetson-usb-network-recovery,,Python,SECURITY.md,Guarded USB network diagnosis and recovery prototype for Jetson Orin Nano
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovannotators,https://github.com/NVIDIA-Omniverse/ovannotators,0,Python,SECURITY.md,NVIDIA ovannotators library for writing datasets from Omniverse 
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8493,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8494,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-mlir,https://github.com/qualcomm/hexagon-mlir,279,C++,SECURITY.md,Hexagon-MLIR is a compiler toolchain for compiling and executing AI kernels and models on Qualcomm Hexagon Neural Processing Units (NPUs).
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/efficient-transformers,https://github.com/qualcomm/efficient-transformers,102,Python,SECURITY.md,This library empowers users to seamlessly port pretrained models and checkpoints on the HuggingFace (HF) hub (developed using HF transformers library) into infe…
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cloud-ai-sdk,https://github.com/qualcomm/cloud-ai-sdk,85,Jupyter Notebook,SECURITY.md,Qualcomm Cloud AI SDK (Platform and Apps) enable high performance deep learning inference on Qualcomm Cloud AI platforms delivering high throughput and low late…
@@ -8200,9 +8204,9 @@ MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-cli,https://github.com/
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/atlas-cli-plugin-kubernetes,https://github.com/mongodb/atlas-cli-plugin-kubernetes,6,Go,SECURITY.md,Kubernetes plugin for the AtlasCLI
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/tines-claude,https://github.com/mongodb/tines-claude,2,Python,SECURITY.md,A Claude Skill and MCP server for Tines
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-atlas-cli-2,https://github.com/mongodb/mongodb-atlas-cli-2,2,Go,SECURITY.md,MongoDB Atlas CLI and MongoDB CLI enable you to manage your MongoDB in the Cloud
-Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77176,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
-Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22286,Go,SECURITY.md,Redis Go client
-Redis,自建PSIRT（Redis）,redis,redis/node-redis,https://github.com/redis/node-redis,17594,TypeScript,SECURITY.md,Redis Node.js client
+Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77191,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
+Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22288,Go,SECURITY.md,Redis Go client
+Redis,自建PSIRT（Redis）,redis,redis/node-redis,https://github.com/redis/node-redis,17595,TypeScript,SECURITY.md,Redis Node.js client
 Redis,自建PSIRT（Redis）,redis,redis/ioredis,https://github.com/redis/ioredis,15354,TypeScript,SECURITY.md,"🚀 A robust, performance-focused, and full-featured Redis client for Node.js."
 Redis,自建PSIRT（Redis）,redis,redis/jedis,https://github.com/redis/jedis,12373,Java,SECURITY.md,Redis Java client
 Redis,自建PSIRT（Redis）,redis,redis/hiredis,https://github.com/redis/hiredis,6689,C,SECURITY.md,Minimalistic C client for Redis >= 1.2
