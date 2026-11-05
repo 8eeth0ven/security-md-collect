@@ -49,7 +49,7 @@
   "full_name": "awslabs/cli-agent-orchestrator",
   "url": "https://github.com/awslabs/cli-agent-orchestrator",
   "sec_path": "SECURITY.md",
-  "stars": 1512,
+  "stars": 1511,
   "language": "Python",
   "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
   "first_seen": "2026-11-01 18:22:43"
@@ -170,7 +170,7 @@
   "full_name": "awslabs/landing-zone-accelerator-on-aws",
   "url": "https://github.com/awslabs/landing-zone-accelerator-on-aws",
   "sec_path": "SECURITY.md",
-  "stars": 834,
+  "stars": 835,
   "language": "TypeScript",
   "description": "Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.",
   "first_seen": "2026-11-01 18:22:43"
@@ -600,7 +600,7 @@
   "full_name": "aws/eks-pod-identity-agent",
   "url": "https://github.com/aws/eks-pod-identity-agent",
   "sec_path": "SECURITY.md",
-  "stars": 100,
+  "stars": 101,
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:15:10"
@@ -763,6 +763,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/filemoverexpress",
+  "url": "https://github.com/awslabs/filemoverexpress",
+  "sec_path": "SECURITY.md",
+  "stars": 74,
+  "language": "TypeScript",
+  "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
+  "first_seen": "2026-11-01 18:22:43"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws-samples",
   "full_name": "aws-samples/sample-claude-code-agent-team",
   "url": "https://github.com/aws-samples/sample-claude-code-agent-team",
@@ -772,17 +783,6 @@
   "description": "Team of specialized AI agents that collaborate through a spec-driven development process. Full Stack Developer parent orchestrates dynamically sized pools of sp…",
   "license": null,
   "first_seen": "2026-11-02 02:49:05"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/filemoverexpress",
-  "url": "https://github.com/awslabs/filemoverexpress",
-  "sec_path": "SECURITY.md",
-  "stars": 72,
-  "language": "TypeScript",
-  "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -801,7 +801,7 @@
   "full_name": "aws-samples/sample-agentic-value-accelerator",
   "url": "https://github.com/aws-samples/sample-agentic-value-accelerator",
   "sec_path": "SECURITY.md",
-  "stars": 70,
+  "stars": 71,
   "language": "TypeScript",
   "description": "A platfrom to Plan, Build, Operate, Secure, and Govern AI Systems for Financial Services on AWS ",
   "license": null,
@@ -4325,5 +4325,29 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-05 01:34:41"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-network-troubleshooting-with-bedrock",
+  "url": "https://github.com/aws-samples/sample-network-troubleshooting-with-bedrock",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Lua",
+  "description": "Wireshark plugin that sends dissected packet metadata to Amazon Bedrock for AI-assisted network troubleshooting",
+  "license": null,
+  "first_seen": "2026-11-05 08:05:47"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-multi-agent-workflows-strands",
+  "url": "https://github.com/aws-samples/sample-multi-agent-workflows-strands",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Jupyter Notebook",
+  "description": "Companion code for the AWS re:Invent 2026 workshop OPN307: build multi-agent workflows with the Strands Agents SDK on AWS.",
+  "license": null,
+  "first_seen": "2026-11-05 08:05:47"
  }
 ]

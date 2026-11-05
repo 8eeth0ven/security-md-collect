@@ -5,7 +5,7 @@
   "full_name": "apache/superset",
   "url": "https://github.com/apache/superset",
   "sec_path": "SECURITY.md",
-  "stars": 75405,
+  "stars": 75410,
   "language": "Python",
   "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -16,7 +16,7 @@
   "full_name": "apache/airflow",
   "url": "https://github.com/apache/airflow",
   "sec_path": ".github/SECURITY.md",
-  "stars": 47359,
+  "stars": 47360,
   "language": "Python",
   "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
   "first_seen": "2026-11-01 18:03:32"
@@ -27,7 +27,7 @@
   "full_name": "apache/spark",
   "url": "https://github.com/apache/spark",
   "sec_path": "SECURITY.md",
-  "stars": 44411,
+  "stars": 44423,
   "language": "Scala",
   "description": "Apache Spark - A unified analytics engine for large-scale data processing",
   "first_seen": "2026-11-01 18:03:32"
@@ -49,7 +49,7 @@
   "full_name": "apache/kafka",
   "url": "https://github.com/apache/kafka",
   "sec_path": "SECURITY.md",
-  "stars": 34126,
+  "stars": 34127,
   "language": "Java",
   "description": "Apache Kafka - A distributed event streaming platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -71,7 +71,7 @@
   "full_name": "apache/brpc",
   "url": "https://github.com/apache/brpc",
   "sec_path": "SECURITY.md",
-  "stars": 17639,
+  "stars": 17640,
   "language": "C++",
   "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertis…",
   "first_seen": "2026-11-01 18:03:32"
@@ -159,7 +159,7 @@
   "full_name": "apache/jmeter",
   "url": "https://github.com/apache/jmeter",
   "sec_path": "SECURITY.md",
-  "stars": 9590,
+  "stars": 9591,
   "language": "Java",
   "description": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services",
   "first_seen": "2026-11-01 18:04:12"
@@ -280,7 +280,7 @@
   "full_name": "apache/nifi",
   "url": "https://github.com/apache/nifi",
   "sec_path": "SECURITY.md",
-  "stars": 6292,
+  "stars": 6293,
   "language": "Java",
   "description": "Apache NiFi",
   "first_seen": "2026-11-01 18:04:12"
@@ -302,7 +302,7 @@
   "full_name": "apache/maka",
   "url": "https://github.com/apache/maka",
   "sec_path": "SECURITY.md",
-  "stars": 5936,
+  "stars": 5937,
   "language": "TypeScript",
   "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
   "first_seen": "2026-11-01 18:03:32"
@@ -313,7 +313,7 @@
   "full_name": "apache/hbase",
   "url": "https://github.com/apache/hbase",
   "sec_path": "SECURITY.md",
-  "stars": 5569,
+  "stars": 5570,
   "language": "Java",
   "description": "Apache HBase",
   "first_seen": "2026-11-01 18:04:12"
@@ -335,7 +335,7 @@
   "full_name": "apache/opendal",
   "url": "https://github.com/apache/opendal",
   "sec_path": "SECURITY.md",
-  "stars": 5451,
+  "stars": 5453,
   "language": "Rust",
   "description": "Apache OpenDAL: One Layer, All Storage.",
   "first_seen": "2026-11-01 18:03:32"
@@ -346,7 +346,7 @@
   "full_name": "apache/maven",
   "url": "https://github.com/apache/maven",
   "sec_path": "SECURITY.md",
-  "stars": 5370,
+  "stars": 5371,
   "language": "Java",
   "description": "Apache Maven core",
   "first_seen": "2026-11-01 18:03:32"
@@ -412,7 +412,7 @@
   "full_name": "apache/tika",
   "url": "https://github.com/apache/tika",
   "sec_path": "SECURITY.md",
-  "stars": 4127,
+  "stars": 4128,
   "language": "Java",
   "description": "The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",
   "first_seen": "2026-11-01 18:04:12"
@@ -445,7 +445,7 @@
   "full_name": "apache/arrow-rs",
   "url": "https://github.com/apache/arrow-rs",
   "sec_path": "SECURITY.md",
-  "stars": 3657,
+  "stars": 3660,
   "language": "Rust",
   "description": "Official Rust implementation of Apache Arrow",
   "first_seen": "2026-11-01 18:03:32"
@@ -610,7 +610,7 @@
   "full_name": "apache/fineract",
   "url": "https://github.com/apache/fineract",
   "sec_path": "SECURITY.md",
-  "stars": 2596,
+  "stars": 2597,
   "language": "Java",
   "description": "Apache Fineract",
   "first_seen": "2026-11-01 18:04:12"
@@ -853,7 +853,7 @@
   "full_name": "apache/ozone",
   "url": "https://github.com/apache/ozone",
   "sec_path": "SECURITY.md",
-  "stars": 1330,
+  "stars": 1331,
   "language": "Java",
   "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
   "first_seen": "2026-11-01 18:03:32"
@@ -1260,7 +1260,7 @@
   "full_name": "apache/maven-surefire",
   "url": "https://github.com/apache/maven-surefire",
   "sec_path": "SECURITY.md",
-  "stars": 465,
+  "stars": 464,
   "language": "Java",
   "description": "Apache Maven Surefire",
   "first_seen": "2026-11-01 18:03:32"
@@ -3176,8 +3176,8 @@
   "url": "https://github.com/apache/pulsar-spring",
   "sec_path": "SECURITY.md",
   "stars": 0,
-  "language": null,
-  "description": "Apache pulsar",
+  "language": "Java",
+  "description": "Apache Pulsar support for Spring",
   "license": null,
   "first_seen": "2026-11-05 04:05:26"
  }
