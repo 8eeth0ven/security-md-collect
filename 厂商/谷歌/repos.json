@@ -17,7 +17,7 @@
   "full_name": "golang/go",
   "url": "https://github.com/golang/go",
   "sec_path": "SECURITY.md",
-  "stars": 139563,
+  "stars": 139576,
   "language": "Go",
   "description": "The Go programming language",
   "first_seen": "2026-11-01 20:51:25"
@@ -62,7 +62,7 @@
   "full_name": "google/zx",
   "url": "https://github.com/google/zx",
   "sec_path": ".github/SECURITY.md",
-  "stars": 45831,
+  "stars": 45832,
   "language": "JavaScript",
   "description": "A tool for writing better scripts",
   "license": null,
@@ -74,7 +74,7 @@
   "full_name": "google/googletest",
   "url": "https://github.com/google/googletest",
   "sec_path": "error",
-  "stars": 39705,
+  "stars": 39706,
   "language": "C++",
   "description": "GoogleTest - Google Testing and Mocking Framework",
   "first_seen": "2026-11-01 20:53:27"
@@ -85,7 +85,7 @@
   "full_name": "google/langextract",
   "url": "https://github.com/google/langextract",
   "sec_path": "error",
-  "stars": 39264,
+  "stars": 39267,
   "language": "Python",
   "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
   "first_seen": "2026-11-01 20:53:27"
@@ -107,7 +107,7 @@
   "full_name": "google/flatbuffers",
   "url": "https://github.com/google/flatbuffers",
   "sec_path": "error",
-  "stars": 26610,
+  "stars": 26611,
   "language": "C++",
   "description": "FlatBuffers: Memory Efficient Serialization Library",
   "first_seen": "2026-11-01 20:53:27"
@@ -141,7 +141,7 @@
   "full_name": "google/filament",
   "url": "https://github.com/google/filament",
   "sec_path": "SECURITY.md",
-  "stars": 20689,
+  "stars": 20690,
   "language": "C++",
   "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2",
   "first_seen": "2026-11-01 20:53:27"
@@ -152,7 +152,7 @@
   "full_name": "google/gvisor",
   "url": "https://github.com/google/gvisor",
   "sec_path": "SECURITY.md",
-  "stars": 19866,
+  "stars": 19869,
   "language": "Go",
   "description": "Application Kernel for Containers",
   "first_seen": "2026-11-01 20:53:27"
@@ -163,7 +163,7 @@
   "full_name": "google/magika",
   "url": "https://github.com/google/magika",
   "sec_path": "SECURITY.md",
-  "stars": 18765,
+  "stars": 18766,
   "language": "Rust",
   "description": "Fast and accurate AI powered file content types detection ",
   "first_seen": "2026-11-01 20:53:27"
@@ -185,7 +185,7 @@
   "full_name": "google/brotli",
   "url": "https://github.com/google/brotli",
   "sec_path": "SECURITY.md",
-  "stars": 15083,
+  "stars": 15085,
   "language": "TypeScript",
   "description": "Brotli compression format",
   "license": null,
@@ -197,7 +197,7 @@
   "full_name": "google/ax",
   "url": "https://github.com/google/ax",
   "sec_path": "SECURITY.md",
-  "stars": 14521,
+  "stars": 14523,
   "language": "Go",
   "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
   "first_seen": "2026-11-01 20:53:27"
@@ -241,7 +241,7 @@
   "full_name": "google/elephant-goldfish-model",
   "url": "https://github.com/google/elephant-goldfish-model",
   "sec_path": "error",
-  "stars": 11649,
+  "stars": 11820,
   "language": "Python",
   "description": "Open-source skills for designing and reviewing software with AI agents",
   "first_seen": "2026-11-01 20:53:27"
@@ -286,7 +286,7 @@
   "full_name": "google/adk-go",
   "url": "https://github.com/google/adk-go",
   "sec_path": "error",
-  "stars": 8934,
+  "stars": 8935,
   "language": "Go",
   "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
   "first_seen": "2026-11-01 20:53:27"
@@ -308,7 +308,7 @@
   "full_name": "google/draco",
   "url": "https://github.com/google/draco",
   "sec_path": "SECURITY.md",
-  "stars": 7542,
+  "stars": 7541,
   "language": "C++",
   "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics…",
   "license": null,
@@ -365,7 +365,7 @@
   "full_name": "google/go-cmp",
   "url": "https://github.com/google/go-cmp",
   "sec_path": "error",
-  "stars": 4684,
+  "stars": 4685,
   "language": "Go",
   "description": "Package for comparing Go values in tests",
   "first_seen": "2026-11-01 20:53:27"
@@ -388,7 +388,7 @@
   "full_name": "golang/vscode-go",
   "url": "https://github.com/golang/vscode-go",
   "sec_path": "SECURITY.md",
-  "stars": 4268,
+  "stars": 4269,
   "language": "TypeScript",
   "description": "Go extension for Visual Studio Code",
   "first_seen": "2026-11-01 20:51:25"
@@ -422,7 +422,7 @@
   "full_name": "google/go-containerregistry",
   "url": "https://github.com/google/go-containerregistry",
   "sec_path": "SECURITY.md",
-  "stars": 4108,
+  "stars": 4109,
   "language": "Go",
   "description": "Go library and CLIs for working with container registries",
   "license": null,
@@ -479,7 +479,7 @@
   "full_name": "google/mantis",
   "url": "https://github.com/google/mantis",
   "sec_path": "error",
-  "stars": 2706,
+  "stars": 2707,
   "language": "Python",
   "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
   "first_seen": "2026-11-01 20:53:27"
@@ -524,7 +524,7 @@
   "full_name": "google/go-querystring",
   "url": "https://github.com/google/go-querystring",
   "sec_path": "error",
-  "stars": 2145,
+  "stars": 2146,
   "language": "Go",
   "description": "go-querystring is Go library for encoding structs into URL query strings.",
   "first_seen": "2026-11-01 20:53:27"
@@ -669,7 +669,7 @@
   "full_name": "google/kati",
   "url": "https://github.com/google/kati",
   "sec_path": "error",
-  "stars": 1027,
+  "stars": 1028,
   "language": "Rust",
   "description": "An experimental GNU make clone",
   "first_seen": "2026-11-01 20:53:27"
@@ -702,7 +702,7 @@
   "full_name": "google/paranoid_crypto",
   "url": "https://github.com/google/paranoid_crypto",
   "sec_path": "error",
-  "stars": 893,
+  "stars": 895,
   "language": "Python",
   "description": "Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.",
   "first_seen": "2026-11-01 20:53:27"
@@ -1152,7 +1152,7 @@
   "full_name": "google/pdl",
   "url": "https://github.com/google/pdl",
   "sec_path": "error",
-  "stars": 90,
+  "stars": 91,
   "language": "Rust",
   "description": "",
   "first_seen": "2026-11-01 20:53:27"
@@ -1430,7 +1430,7 @@
   "full_name": "google/aarch64-rt",
   "url": "https://github.com/google/aarch64-rt",
   "sec_path": "error",
-  "stars": 31,
+  "stars": 32,
   "language": "Rust",
   "description": "Startup code and exception vector for bare-metal Rust on aarch64 Cortex-A processors.",
   "first_seen": "2026-11-01 20:53:27"
@@ -1456,6 +1456,18 @@
   "language": "Python",
   "description": "Call APIs with SQL",
   "first_seen": "2026-11-01 20:53:27"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
+  "full_name": "google/three-live",
+  "url": "https://github.com/google/three-live",
+  "sec_path": "SECURITY.md",
+  "stars": 30,
+  "language": "TypeScript",
+  "description": "AI-first 3D & spatial computing runtime and native JIT compiler for WebGL2/WebXR, Android (Filament & Jetpack XR), and iOS/visionOS (RealityKit)",
+  "license": null,
+  "first_seen": "2026-11-02 04:18:39"
  },
  {
   "vendor": "谷歌",
@@ -1494,6 +1506,18 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/secure-aggregation",
+  "url": "https://github.com/google/secure-aggregation",
+  "sec_path": "SECURITY.md",
+  "stars": 24,
+  "language": "Rust",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-02 04:18:39"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/hintless_pir",
   "url": "https://github.com/google/hintless_pir",
   "sec_path": "SECURITY.md",
@@ -1506,14 +1530,13 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/secure-aggregation",
-  "url": "https://github.com/google/secure-aggregation",
-  "sec_path": "SECURITY.md",
+  "full_name": "google/percore",
+  "url": "https://github.com/google/percore",
+  "sec_path": "error",
   "stars": 23,
   "language": "Rust",
-  "description": "",
-  "license": null,
-  "first_seen": "2026-11-02 04:18:39"
+  "description": "Safe per-CPU core mutable state on no_std Rust platforms through exception masking.",
+  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -1540,33 +1563,10 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/percore",
-  "url": "https://github.com/google/percore",
-  "sec_path": "error",
-  "stars": 22,
-  "language": "Rust",
-  "description": "Safe per-CPU core mutable state on no_std Rust platforms through exception masking.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/three-live",
-  "url": "https://github.com/google/three-live",
-  "sec_path": "SECURITY.md",
-  "stars": 21,
-  "language": "TypeScript",
-  "description": "AI-first 3D & spatial computing runtime and native JIT compiler for WebGL2/WebXR, Android (Filament & Jetpack XR), and iOS/visionOS (RealityKit)",
-  "license": null,
-  "first_seen": "2026-11-02 04:18:39"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/rbrotli-enc",
   "url": "https://github.com/google/rbrotli-enc",
   "sec_path": "error",
-  "stars": 19,
+  "stars": 20,
   "language": "Rust",
   "description": "",
   "first_seen": "2026-11-01 20:53:27"
@@ -1910,6 +1910,17 @@
  {
   "vendor": "谷歌",
   "org": "google",
+  "full_name": "google/simd_tokens",
+  "url": "https://github.com/google/simd_tokens",
+  "sec_path": "error",
+  "stars": 2,
+  "language": "Rust",
+  "description": "",
+  "first_seen": "2026-11-01 20:53:27"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
   "full_name": "google/x-edr-genit",
   "url": "https://github.com/google/x-edr-genit",
   "sec_path": "SECURITY.md",
@@ -1918,17 +1929,6 @@
   "description": "Generic Iterators Library (genit)",
   "license": null,
   "first_seen": "2026-11-02 04:21:32"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/simd_tokens",
-  "url": "https://github.com/google/simd_tokens",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",

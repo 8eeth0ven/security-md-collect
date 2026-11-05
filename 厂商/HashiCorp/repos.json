@@ -16,7 +16,7 @@
   "full_name": "hashicorp/raft",
   "url": "https://github.com/hashicorp/raft",
   "sec_path": "error",
-  "stars": 9162,
+  "stars": 9163,
   "language": "Go",
   "description": "Golang implementation of the Raft consensus protocol",
   "first_seen": "2026-11-01 21:24:21"
@@ -49,7 +49,7 @@
   "full_name": "hashicorp/hcl",
   "url": "https://github.com/hashicorp/hcl",
   "sec_path": "SECURITY.md",
-  "stars": 5831,
+  "stars": 5832,
   "language": "Go",
   "description": "HCL is the HashiCorp configuration language.",
   "first_seen": "2026-11-01 21:24:21"
@@ -82,7 +82,7 @@
   "full_name": "hashicorp/memberlist",
   "url": "https://github.com/hashicorp/memberlist",
   "sec_path": "error",
-  "stars": 4130,
+  "stars": 4129,
   "language": "Go",
   "description": "Golang package for gossip based membership and failure detection",
   "first_seen": "2026-11-01 21:24:21"
@@ -1238,6 +1238,17 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/terraform-policy-agent",
+  "url": "https://github.com/hashicorp/terraform-policy-agent",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Python",
+  "description": " Agentic pipeline that converts Sentinel/OPA policies to Terraform Policy (tfpolicy) format, with automated test generation and validation.",
+  "first_seen": "2026-11-01 21:24:21"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/prewritten-terraform-policy-library",
   "url": "https://github.com/hashicorp/prewritten-terraform-policy-library",
   "sec_path": "error",
@@ -1277,17 +1288,6 @@
   "stars": 4,
   "language": "Go",
   "description": "A GitHub action for generating metadata for CRT",
-  "first_seen": "2026-11-01 21:24:21"
- },
- {
-  "vendor": "HashiCorp",
-  "org": "hashicorp",
-  "full_name": "hashicorp/terraform-policy-agent",
-  "url": "https://github.com/hashicorp/terraform-policy-agent",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": "Python",
-  "description": " Agentic pipeline that converts Sentinel/OPA policies to Terraform Policy (tfpolicy) format, with automated test generation and validation.",
   "first_seen": "2026-11-01 21:24:21"
  },
  {

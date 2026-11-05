@@ -5,7 +5,7 @@
   "full_name": "intel/intel-one-mono",
   "url": "https://github.com/intel/intel-one-mono",
   "sec_path": "security.md",
-  "stars": 10203,
+  "stars": 10212,
   "language": null,
   "description": "Intel One Mono font repository",
   "first_seen": "2026-11-01 21:52:33"
@@ -27,7 +27,7 @@
   "full_name": "intel/pcm",
   "url": "https://github.com/intel/pcm",
   "sec_path": "SECURITY.md",
-  "stars": 3352,
+  "stars": 3353,
   "language": "C++",
   "description": "Intel® Performance Counter Monitor (Intel® PCM)",
   "first_seen": "2026-11-01 21:52:33"
@@ -292,7 +292,7 @@
   "full_name": "intel/intel-graphics-compiler",
   "url": "https://github.com/intel/intel-graphics-compiler",
   "sec_path": "SECURITY.md",
-  "stars": 724,
+  "stars": 725,
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -347,7 +347,7 @@
   "full_name": "intel/llm-scaler",
   "url": "https://github.com/intel/llm-scaler",
   "sec_path": "SECURITY.md",
-  "stars": 587,
+  "stars": 588,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -402,7 +402,7 @@
   "full_name": "intel/linux-npu-driver",
   "url": "https://github.com/intel/linux-npu-driver",
   "sec_path": "security.md",
-  "stars": 474,
+  "stars": 475,
   "language": "C++",
   "description": "Intel® NPU (Neural Processing Unit) Driver",
   "first_seen": "2026-11-01 21:52:33"
@@ -2320,6 +2320,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/enterprise-agent-toolkit",
+  "url": "https://github.com/intel/enterprise-agent-toolkit",
+  "sec_path": "SECURITY.md",
+  "stars": 48,
+  "language": "Shell",
+  "description": "A comprehensive, enterprise-ready toolkit for deploying Agentic AI systems on Intel® Xeon processors and Intel accelerators. Built for organizations that need t…",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/aipc-devkit-install",
   "url": "https://github.com/intel/aipc-devkit-install",
   "sec_path": "Security.md",
@@ -2349,17 +2360,6 @@
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/enterprise-agent-toolkit",
-  "url": "https://github.com/intel/enterprise-agent-toolkit",
-  "sec_path": "SECURITY.md",
-  "stars": 47,
-  "language": "Shell",
-  "description": "A comprehensive, enterprise-ready toolkit for deploying Agentic AI systems on Intel® Xeon processors and Intel accelerators. Built for organizations that need t…",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -4735,6 +4735,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/dokimi",
+  "url": "https://github.com/intel/dokimi",
+  "sec_path": "SECURITY.md",
+  "stars": 11,
+  "language": "Python",
+  "description": "Dokimi (Greek δοκιμή, \"test, proof\") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/enterprise-ai-solutions",
   "url": "https://github.com/intel/enterprise-ai-solutions",
   "sec_path": "SECURITY.md",
@@ -4919,17 +4930,6 @@
   "description": "Samples for Intel® oneAPI Math Kernel Library (oneMKL)",
   "license": null,
   "first_seen": "2026-11-01 23:05:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/dokimi",
-  "url": "https://github.com/intel/dokimi",
-  "sec_path": "SECURITY.md",
-  "stars": 10,
-  "language": "Python",
-  "description": "Dokimi (Greek δοκιμή, \"test, proof\") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
