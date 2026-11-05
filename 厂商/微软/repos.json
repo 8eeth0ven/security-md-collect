@@ -185,7 +185,7 @@
   "full_name": "dotnet/aspnetcore",
   "url": "https://github.com/dotnet/aspnetcore",
   "sec_path": "SECURITY.md",
-  "stars": 38500,
+  "stars": 38498,
   "language": "C#",
   "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
   "first_seen": "2026-11-01 19:06:45"
@@ -892,7 +892,7 @@
   "full_name": "dotnet/skills",
   "url": "https://github.com/dotnet/skills",
   "sec_path": "SECURITY.md",
-  "stars": 5823,
+  "stars": 5830,
   "language": "C#",
   "description": "Repository for skills to assist AI coding agents with .NET and C#",
   "first_seen": "2026-11-01 19:06:45"
@@ -3501,7 +3501,7 @@
   "full_name": "dotnet/DataGridExtensions",
   "url": "https://github.com/dotnet/DataGridExtensions",
   "sec_path": ".github/SECURITY.md",
-  "stars": 915,
+  "stars": 916,
   "language": "C#",
   "description": "Modular extensions for the WPF DataGrid control",
   "first_seen": "2026-11-01 19:06:45"
@@ -5382,6 +5382,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/XAMLStudio",
+  "url": "https://github.com/dotnet/XAMLStudio",
+  "sec_path": "SECURITY.md",
+  "stars": 458,
+  "language": "C#",
+  "description": "XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/azure-pipelines-task-lib",
   "url": "https://github.com/microsoft/azure-pipelines-task-lib",
@@ -5402,17 +5413,6 @@
   "language": "Bicep",
   "description": "The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a relia…",
   "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/XAMLStudio",
-  "url": "https://github.com/dotnet/XAMLStudio",
-  "sec_path": "SECURITY.md",
-  "stars": 457,
-  "language": "C#",
-  "description": "XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",

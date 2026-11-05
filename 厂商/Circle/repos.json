@@ -5,7 +5,7 @@
   "full_name": "circlefin/stablecoin-evm",
   "url": "https://github.com/circlefin/stablecoin-evm",
   "sec_path": "SECURITY.md",
-  "stars": 812,
+  "stars": 813,
   "language": "TypeScript",
   "description": "Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains",
   "first_seen": "2026-11-01 19:19:37"
@@ -82,7 +82,7 @@
   "full_name": "circlefin/arc-commerce",
   "url": "https://github.com/circlefin/arc-commerce",
   "sec_path": "SECURITY.md",
-  "stars": 70,
+  "stars": 72,
   "language": "TypeScript",
   "description": "This sample app demonstrates how to integrate USDC as a payment method for purchasing credits on Arc.",
   "first_seen": "2026-11-01 19:19:37"
@@ -845,5 +845,17 @@
   "language": "Ruby",
   "description": "",
   "first_seen": "2026-11-01 19:19:37"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/daa-ios-sdk",
+  "url": "https://github.com/circlefin/daa-ios-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Swift",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-05 09:06:14"
  }
 ]
