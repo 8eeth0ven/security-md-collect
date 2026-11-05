@@ -822,7 +822,7 @@
   "full_name": "Azure/Azure-Sentinel",
   "url": "https://github.com/Azure/Azure-Sentinel",
   "sec_path": "SECURITY.md",
-  "stars": 6240,
+  "stars": 6241,
   "language": "HTML",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
   "first_seen": "2026-11-01 16:24:27"
@@ -939,7 +939,7 @@
   "full_name": "Azure/azure-sdk-for-python",
   "url": "https://github.com/Azure/azure-sdk-for-python",
   "sec_path": "SECURITY.md",
-  "stars": 5623,
+  "stars": 5622,
   "language": "Python",
   "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn…",
   "first_seen": "2026-11-01 16:24:27"
@@ -1066,7 +1066,7 @@
   "full_name": "Azure/autorest",
   "url": "https://github.com/Azure/autorest",
   "sec_path": "SECURITY.md",
-  "stars": 4789,
+  "stars": 4790,
   "language": "TypeSpec",
   "description": "OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python",
   "first_seen": "2026-11-01 16:25:10"
@@ -1242,7 +1242,7 @@
   "full_name": "Azure/DotNetty",
   "url": "https://github.com/Azure/DotNetty",
   "sec_path": "SECURITY.md",
-  "stars": 4252,
+  "stars": 4253,
   "language": "C#",
   "description": "DotNetty project – a port of netty, event-driven asynchronous network application framework",
   "first_seen": "2026-11-01 16:25:27"
@@ -1876,7 +1876,7 @@
   "full_name": "Azure/azure-sdk-for-js",
   "url": "https://github.com/Azure/azure-sdk-for-js",
   "sec_path": "SECURITY.md",
-  "stars": 2303,
+  "stars": 2302,
   "language": "TypeScript",
   "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public develope…",
   "first_seen": "2026-11-01 16:24:27"
@@ -1887,7 +1887,7 @@
   "full_name": "Azure/Azurite",
   "url": "https://github.com/Azure/Azurite",
   "sec_path": "SECURITY.md",
-  "stars": 2290,
+  "stars": 2291,
   "language": "TypeScript",
   "description": "A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies",
   "first_seen": "2026-11-01 16:24:27"
@@ -2381,7 +2381,7 @@
   "full_name": "Azure/durabletask",
   "url": "https://github.com/Azure/durabletask",
   "sec_path": "SECURITY.md",
-  "stars": 1743,
+  "stars": 1742,
   "language": "C#",
   "description": "Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.",
   "first_seen": "2026-11-01 16:24:27"
@@ -3457,7 +3457,7 @@
   "full_name": "Azure/Azure-Network-Security",
   "url": "https://github.com/Azure/Azure-Network-Security",
   "sec_path": "SECURITY.md",
-  "stars": 944,
+  "stars": 945,
   "language": "PowerShell",
   "description": "Resources for improving Customer Experience with Azure Network Security",
   "first_seen": "2026-11-01 16:24:27"
@@ -6154,7 +6154,7 @@
   "full_name": "Azure/AI-Landing-Zones",
   "url": "https://github.com/Azure/AI-Landing-Zones",
   "sec_path": "SECURITY.md",
-  "stars": 353,
+  "stars": 354,
   "language": "Python",
   "description": "The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal",
   "first_seen": "2026-11-01 16:24:27"
@@ -14517,6 +14517,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/apiops-cli",
+  "url": "https://github.com/Azure/apiops-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 41,
+  "language": "TypeScript",
+  "description": "Command line interface for Azure API Management",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/vscode-azureterraform",
   "url": "https://github.com/Azure/vscode-azureterraform",
   "sec_path": "SECURITY.md",
@@ -14671,17 +14682,6 @@
   "stars": 40,
   "language": null,
   "description": "SDK examples for azure-rest-api-specs",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/apiops-cli",
-  "url": "https://github.com/Azure/apiops-cli",
-  "sec_path": "SECURITY.md",
-  "stars": 40,
-  "language": "TypeScript",
-  "description": "Command line interface for Azure API Management",
   "first_seen": "2026-11-01 16:24:27"
  },
  {

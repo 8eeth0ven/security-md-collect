@@ -464,6 +464,18 @@
  {
   "vendor": "Datadog",
   "org": "DataDog",
+  "full_name": "DataDog/redis-cluster-kubernetes-operator",
+  "url": "https://github.com/DataDog/redis-cluster-kubernetes-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Go",
+  "description": "A Kubernetes operator for deploying and managing Redis clusters. - Repository managed by GRM",
+  "license": null,
+  "first_seen": "2026-11-04 03:02:26"
+ },
+ {
+  "vendor": "Datadog",
+  "org": "DataDog",
   "full_name": "DataDog/rules_test_optimization",
   "url": "https://github.com/DataDog/rules_test_optimization",
   "sec_path": "SECURITY.md",
@@ -559,18 +571,6 @@
   "language": "Java",
   "description": "## Auto-archived due to inactivity. ## GraalVM: Run Programs Faster Anywhere :rocket:",
   "first_seen": "2026-11-01 16:30:54"
- },
- {
-  "vendor": "Datadog",
-  "org": "DataDog",
-  "full_name": "DataDog/redis-cluster-kubernetes-operator",
-  "url": "https://github.com/DataDog/redis-cluster-kubernetes-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Go",
-  "description": "A Kubernetes operator for deploying and managing Redis clusters. - Repository managed by GRM",
-  "license": null,
-  "first_seen": "2026-11-04 03:02:26"
  },
  {
   "vendor": "Datadog",
