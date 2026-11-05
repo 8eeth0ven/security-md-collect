@@ -578,8 +578,8 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 蚂蚁集团,蚂蚁SRC,antgroup,antgroup/xquic,https://github.com/antgroup/xquic,,C,SECURITY.md,XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-rpc-1,https://github.com/sofastack/sofa-rpc-1,0,Java,SECURITY.md,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework."
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-boot-3,https://github.com/sofastack/sofa-boot-3,0,Java,SECURITY.md,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc."
-字节跳动,字节跳动SRC,bytedance,bytedance/deer-flow,https://github.com/bytedance/deer-flow,84983,Python,SECURITY.md,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga…"
-字节跳动,字节跳动SRC,bytedance,bytedance/UI-TARS-desktop,https://github.com/bytedance/UI-TARS-desktop,39544,TypeScript,SECURITY.md,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+字节跳动,字节跳动SRC,bytedance,bytedance/deer-flow,https://github.com/bytedance/deer-flow,84989,Python,SECURITY.md,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga…"
+字节跳动,字节跳动SRC,bytedance,bytedance/UI-TARS-desktop,https://github.com/bytedance/UI-TARS-desktop,39543,TypeScript,SECURITY.md,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 字节跳动,字节跳动SRC,cloudwego,cloudwego/volo,https://github.com/cloudwego/volo,2634,Rust,SECURITY.md,Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 字节跳动,字节跳动SRC,bytedance,bytedance/bhook,https://github.com/bytedance/bhook,2624,C,SECURITY.md,通用的Android PLT hook库，支持armeabi-v7a，arm64-v8a，x86，x86_64
 字节跳动,字节跳动SRC,bytedance,bytedance/android-inline-hook,https://github.com/bytedance/android-inline-hook,2440,C,SECURITY.md,通用的Android inline hook库，支持thumb，arm32，arm64
@@ -9139,6 +9139,8 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/istio-beacon
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ros-foxglove-bridge-snap,https://github.com/canonical/ros-foxglove-bridge-snap,,Shell,SECURITY.md,Snap packaging for the Foxglove bridge
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/lxd-integrator-k8s,https://github.com/canonical/lxd-integrator-k8s,,Python,SECURITY.md,LXD integrator charm for k8s
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/vendor_canonical_interfaces,https://github.com/canonical/vendor_canonical_interfaces,,C++,SECURITY.md,
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/launchpad-typescript-client,https://github.com/canonical/launchpad-typescript-client,0,TypeScript,error,GitHub mirror of the Launchpad TypeScript client. Development and merge proposals are hosted on Launchpad.
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/launchpad-openapi,https://github.com/canonical/launchpad-openapi,0,TypeScript,error,GitHub mirror of Launchpad OpenAPI. Development and merge proposals are hosted on Launchpad.
 SUSE,自建PSIRT（SUSE）,SUSE,SUSE/rmt,https://github.com/SUSE/rmt,50,Ruby,docs/SECURITY.md,RPM repository mirroring tool and registration proxy for SUSE Customer Center.
 SUSE,自建PSIRT（SUSE）,SUSE,SUSE/suse-ai-up,https://github.com/SUSE/suse-ai-up,32,Go,SECURITY.md,"A comprehensive platform for managing and proxying Model Context Protocol (MCP) servers, providing scalable AI service orchestration across multiple microservic…"
 SUSE,自建PSIRT（SUSE）,rancher,rancher/ingress-nginx,https://github.com/rancher/ingress-nginx,29,Go,SECURITY.md,Ingress controller for nginx
@@ -9229,8 +9231,8 @@ Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/terraform-provider-heroku
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/temp-aryx-enterprise-firefox,https://github.com/mozilla/temp-aryx-enterprise-firefox,0,JavaScript,SECURITY.md,needed to test pulse messages for merges
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/onnxruntime,https://github.com/mozilla/onnxruntime,0,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/remote-settings-vpn-serverlist-updater,https://github.com/mozilla/remote-settings-vpn-serverlist-updater,0,Python,error,"Automagic updater for the VPN Serverlist, ingesting fastly data."
-Brave,HackerOne（Brave）,brave,brave/brave-core,https://github.com/brave/brave-core,3749,C++,SECURITY.md,Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
-Brave,HackerOne（Brave）,brave,brave/adblock-rust,https://github.com/brave/adblock-rust,2914,Rust,SECURITY.md,Brave's Rust-based adblock engine
+Brave,HackerOne（Brave）,brave,brave/brave-core,https://github.com/brave/brave-core,3750,C++,SECURITY.md,Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
+Brave,HackerOne（Brave）,brave,brave/adblock-rust,https://github.com/brave/adblock-rust,2916,Rust,SECURITY.md,Brave's Rust-based adblock engine
 Brave,HackerOne（Brave）,brave,brave/brave-talk,https://github.com/brave/brave-talk,154,TypeScript,SECURITY.md,Unlimited private video calls with your friends and colleagues
 Brave,HackerOne（Brave）,brave,brave/kuchikiki,https://github.com/brave/kuchikiki,79,Rust,SECURITY.md,(口利き) HTML tree-manipulation library for Rust
 Brave,HackerOne（Brave）,brave,brave/leo,https://github.com/brave/leo,78,Svelte,SECURITY.md,Design tokens for the Brave's design system known as Leo
@@ -9252,13 +9254,13 @@ Brave,HackerOne（Brave）,brave,brave/webtorrent,https://github.com/brave/webto
 Brave,HackerOne（Brave）,brave,brave/wallet-standard-brave,https://github.com/brave/wallet-standard-brave,15,TypeScript,SECURITY.md,
 Brave,HackerOne（Brave）,brave,brave/accounts,https://github.com/brave/accounts,14,Go,SECURITY.md,Brave Accounts backend
 Brave,HackerOne（Brave）,brave,brave/store-brave-com,https://github.com/brave/store-brave-com,13,TypeScript,SECURITY.md,
-Brave,HackerOne（Brave）,brave,brave/bravebot,https://github.com/brave/bravebot,12,Rust,.github/SECURITY.md,Coding agent with structural resistance to indirect prompt injection
+Brave,HackerOne（Brave）,brave,brave/bravebot,https://github.com/brave/bravebot,13,Rust,.github/SECURITY.md,Coding agent with structural resistance to indirect prompt injection
 Brave,HackerOne（Brave）,brave,brave/simplepadding,https://github.com/brave/simplepadding,11,Python,SECURITY.md,
 Brave,HackerOne（Brave）,brave,brave/star-randsrv,https://github.com/brave/star-randsrv,10,Rust,SECURITY.md,Go wrapper service for the STAR randomness server.
 Brave,HackerOne（Brave）,brave,brave/brave-search-extension,https://github.com/brave/brave-search-extension,9,JavaScript,SECURITY.md,
+Brave,HackerOne（Brave）,brave,brave/ai-gateway,https://github.com/brave/ai-gateway,8,Python,SECURITY.md,Backend for Brave's AI Services
 Brave,HackerOne（Brave）,brave,brave/pagegraph-rust,https://github.com/brave/pagegraph-rust,8,Rust,SECURITY.md,Utilities for analyzing PageGraph outputs
 Brave,HackerOne（Brave）,brave,brave/blade,https://github.com/brave/blade,8,Python,SECURITY.md,BLaDE: BatteryLab Device Evaluations
-Brave,HackerOne（Brave）,brave,brave/ai-gateway,https://github.com/brave/ai-gateway,7,Python,SECURITY.md,Backend for Brave's AI Services
 Brave,HackerOne（Brave）,brave,brave/playlist-component,https://github.com/brave/playlist-component,7,JavaScript,SECURITY.md,
 Brave,HackerOne（Brave）,brave,brave/vsock-relay,https://github.com/brave/vsock-relay,7,Rust,SECURITY.md,Relays TCP connections from IPv4/IPv6 to vsock.
 Brave,HackerOne（Brave）,brave,brave/transparency-report-generator,https://github.com/brave/transparency-report-generator,7,TypeScript,SECURITY.md,

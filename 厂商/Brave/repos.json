@@ -5,7 +5,7 @@
   "full_name": "brave/brave-core",
   "url": "https://github.com/brave/brave-core",
   "sec_path": "SECURITY.md",
-  "stars": 3749,
+  "stars": 3750,
   "language": "C++",
   "description": "Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues",
   "first_seen": "2026-11-01 18:34:54"
@@ -16,7 +16,7 @@
   "full_name": "brave/adblock-rust",
   "url": "https://github.com/brave/adblock-rust",
   "sec_path": "SECURITY.md",
-  "stars": 2914,
+  "stars": 2916,
   "language": "Rust",
   "description": "Brave's Rust-based adblock engine",
   "first_seen": "2026-11-01 18:34:54"
@@ -258,7 +258,7 @@
   "full_name": "brave/bravebot",
   "url": "https://github.com/brave/bravebot",
   "sec_path": ".github/SECURITY.md",
-  "stars": 12,
+  "stars": 13,
   "language": "Rust",
   "description": "Coding agent with structural resistance to indirect prompt injection",
   "first_seen": "2026-11-01 18:34:54"
@@ -299,6 +299,17 @@
  {
   "vendor": "Brave",
   "org": "brave",
+  "full_name": "brave/ai-gateway",
+  "url": "https://github.com/brave/ai-gateway",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Python",
+  "description": "Backend for Brave's AI Services",
+  "first_seen": "2026-11-01 18:34:54"
+ },
+ {
+  "vendor": "Brave",
+  "org": "brave",
   "full_name": "brave/pagegraph-rust",
   "url": "https://github.com/brave/pagegraph-rust",
   "sec_path": "SECURITY.md",
@@ -316,17 +327,6 @@
   "stars": 8,
   "language": "Python",
   "description": "BLaDE: BatteryLab Device Evaluations",
-  "first_seen": "2026-11-01 18:34:54"
- },
- {
-  "vendor": "Brave",
-  "org": "brave",
-  "full_name": "brave/ai-gateway",
-  "url": "https://github.com/brave/ai-gateway",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": "Python",
-  "description": "Backend for Brave's AI Services",
   "first_seen": "2026-11-01 18:34:54"
  },
  {
