@@ -40,7 +40,7 @@
   "full_name": "Ascend/MindIE-LLM",
   "url": "https://github.com/Ascend/MindIE-LLM",
   "sec_path": "security.md",
-  "stars": 28,
+  "stars": 29,
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 16:22:52"
@@ -63,7 +63,7 @@
   "full_name": "Ascend/MindIE-SD",
   "url": "https://github.com/Ascend/MindIE-SD",
   "sec_path": "SECURITY.md",
-  "stars": 16,
+  "stars": 18,
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 16:22:52"
@@ -93,6 +93,17 @@
  },
  {
   "vendor": "华为",
+  "org": "Ascend",
+  "full_name": "Ascend/MindIE-Motor",
+  "url": "https://github.com/Ascend/MindIE-Motor",
+  "sec_path": "security.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 16:22:52"
+ },
+ {
+  "vendor": "华为",
   "org": "mindspore-ai",
   "full_name": "mindspore-ai/vllm-mindspore",
   "url": "https://github.com/mindspore-ai/vllm-mindspore",
@@ -102,17 +113,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-01 22:41:14"
- },
- {
-  "vendor": "华为",
-  "org": "Ascend",
-  "full_name": "Ascend/MindIE-Motor",
-  "url": "https://github.com/Ascend/MindIE-Motor",
-  "sec_path": "security.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 16:22:52"
  },
  {
   "vendor": "华为",
