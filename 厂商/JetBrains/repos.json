@@ -5,7 +5,7 @@
   "full_name": "JetBrains/kotlin",
   "url": "https://github.com/JetBrains/kotlin",
   "sec_path": "SECURITY.md",
-  "stars": 53534,
+  "stars": 53564,
   "language": "Kotlin",
   "description": "The Kotlin Programming Language. ",
   "first_seen": "2026-11-01 16:54:08"
@@ -16,7 +16,7 @@
   "full_name": "JetBrains/intellij-community",
   "url": "https://github.com/JetBrains/intellij-community",
   "sec_path": "SECURITY.md",
-  "stars": 20713,
+  "stars": 20731,
   "language": "Java",
   "description": "IntelliJ IDEA & IntelliJ Platform",
   "first_seen": "2026-11-01 16:54:08"
@@ -27,7 +27,7 @@
   "full_name": "JetBrains/compose-multiplatform",
   "url": "https://github.com/JetBrains/compose-multiplatform",
   "sec_path": "SECURITY.md",
-  "stars": 19469,
+  "stars": 19485,
   "language": "Kotlin",
   "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
   "first_seen": "2026-11-01 16:54:08"
@@ -38,7 +38,7 @@
   "full_name": "JetBrains/skiko",
   "url": "https://github.com/JetBrains/skiko",
   "sec_path": "SECURITY.md",
-  "stars": 2193,
+  "stars": 2194,
   "language": "Kotlin",
   "description": "Kotlin Multiplatform bindings to Skia",
   "first_seen": "2026-11-01 16:54:08"
@@ -49,7 +49,7 @@
   "full_name": "JetBrains/JetBrainsRuntime",
   "url": "https://github.com/JetBrains/JetBrainsRuntime",
   "sec_path": "SECURITY.md",
-  "stars": 2018,
+  "stars": 2017,
   "language": "Java",
   "description": "Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux",
   "first_seen": "2026-11-01 16:54:08"
@@ -60,7 +60,7 @@
   "full_name": "JetBrains/kotlin-web-site",
   "url": "https://github.com/JetBrains/kotlin-web-site",
   "sec_path": "SECURITY.md",
-  "stars": 1627,
+  "stars": 1625,
   "language": "TypeScript",
   "description": "The Kotlin programming language website",
   "first_seen": "2026-11-01 16:54:08"
@@ -71,7 +71,7 @@
   "full_name": "JetBrains/jewel",
   "url": "https://github.com/JetBrains/jewel",
   "sec_path": "SECURITY.md",
-  "stars": 862,
+  "stars": 860,
   "language": "Kotlin",
   "description": "[MOVED TO IJ PLATFORM] An implementation of the IntelliJ look and feels in Compose for Desktop",
   "first_seen": "2026-11-01 16:55:11"
@@ -93,7 +93,7 @@
   "full_name": "JetBrains/Qodana",
   "url": "https://github.com/JetBrains/Qodana",
   "sec_path": ".github/SECURITY.md",
-  "stars": 402,
+  "stars": 404,
   "language": null,
   "description": "📝 Source repository of Qodana Help",
   "first_seen": "2026-11-01 16:54:08"
@@ -104,7 +104,7 @@
   "full_name": "JetBrains/qodana-action",
   "url": "https://github.com/JetBrains/qodana-action",
   "sec_path": ".github/SECURITY.md",
-  "stars": 314,
+  "stars": 315,
   "language": "JavaScript",
   "description": "⚙️ Scan your Go, Java, Kotlin, PHP, Python, JavaScript, TypeScript, .NET projects at GitHub with Qodana. This repository contains Qodana for Azure, GitHub, Circ…",
   "first_seen": "2026-11-01 16:54:08"
@@ -115,7 +115,7 @@
   "full_name": "JetBrains/qodana-cli",
   "url": "https://github.com/JetBrains/qodana-cli",
   "sec_path": ".github/SECURITY.md",
-  "stars": 241,
+  "stars": 242,
   "language": "Go",
   "description": "🔧 JetBrains Qodana’s official command line tool",
   "first_seen": "2026-11-01 16:54:08"
@@ -126,7 +126,7 @@
   "full_name": "JetBrains/teamcity-cli",
   "url": "https://github.com/JetBrains/teamcity-cli",
   "sec_path": ".github/SECURITY.md",
-  "stars": 130,
+  "stars": 131,
   "language": "Go",
   "description": "TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.",
   "first_seen": "2026-11-01 16:54:08"
@@ -170,7 +170,7 @@
   "full_name": "JetBrains/youtrack-cli",
   "url": "https://github.com/JetBrains/youtrack-cli",
   "sec_path": ".github/SECURITY.md",
-  "stars": 7,
+  "stars": 11,
   "language": "Go",
   "description": "Official command-line client for YouTrack, covering the day-to-day – issues, commands, projects, users — plus the odd jobs: knowledge-base articles, agile board…",
   "first_seen": "2026-11-01 16:54:08"
@@ -482,5 +482,41 @@
   "language": "JavaScript",
   "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
   "first_seen": "2026-11-01 16:56:14"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/mybatis-dynamic-sql",
+  "url": "https://github.com/JetBrains/mybatis-dynamic-sql",
+  "sec_path": "error",
+  "stars": 0,
+  "language": "Java",
+  "description": "SQL DSL (Domain Specific Language) for Kotlin and Java. Supports rendering for MyBatis or Spring JDBC Templates",
+  "license": null,
+  "first_seen": "2026-11-12 20:37:05"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/prison-api",
+  "url": "https://github.com/JetBrains/prison-api",
+  "sec_path": "error",
+  "stars": 0,
+  "language": "Kotlin",
+  "description": "API for Nomis DB used by DPS applications and other apis and services",
+  "license": null,
+  "first_seen": "2026-11-12 20:37:05"
+ },
+ {
+  "vendor": "JetBrains",
+  "org": "JetBrains",
+  "full_name": "JetBrains/javalin",
+  "url": "https://github.com/JetBrains/javalin",
+  "sec_path": "error",
+  "stars": 0,
+  "language": "Kotlin",
+  "description": "A simple and modern Java and Kotlin web framework",
+  "license": null,
+  "first_seen": "2026-11-12 20:37:05"
  }
 ]
