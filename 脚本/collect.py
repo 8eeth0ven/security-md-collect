@@ -758,8 +758,10 @@ def write_index_html(stats, state):
                                            quote(r["full_name"].replace("/", "__"))),
         })
     repos_js = json.dumps(repos, ensure_ascii=False).replace("</", "<\\/")
+    failed_note_zh = ("待重试组织（列表抓取失败，每轮自动重试）：%s" % "、".join(stats["orgs_failed"][:40])) if stats["orgs_failed"] else ""
+    failed_note_en = ("Orgs pending retry (auto-retried each cycle): %s" % ", ".join(stats["orgs_failed"][:40])) if stats["orgs_failed"] else ""
     html = """<!DOCTYPE html><html lang=zh><head><meta charset=utf-8>
-<title>大厂开源 SECURITY.MD 收集看板</title><meta name=viewport content="width=device-width,initial-scale=1">
+<title>大厂开源 SECURITY.MD 收集看板 | Big-Tech SECURITY.MD Dashboard</title><meta name=viewport content="width=device-width,initial-scale=1">
 <style>
 body{background:#0d1117;color:#c9d1d9;font:14px/1.6 "Microsoft YaHei",system-ui,sans-serif;margin:0;padding:24px}
 a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
@@ -779,39 +781,47 @@ th[data-k]{cursor:pointer;user-select:none;white-space:nowrap}
 tr:hover td{background:#161b22}
 td.d{color:#8b949e;font-size:12px;max-width:360px}
 .warn{color:#d29922;font-size:13px;margin:8px 0}
+#langbtn{font-weight:500}
 </style></head><body>
-<h1>大厂开源项目 SECURITY.MD 收集看板</h1>
-<div class=sub>模式：%(mode)s　·　生成时间：%(t)s　·　<a href='/README.md'>README</a>　·　<a href='/prompt-给其他Agent.md'>其他Agent使用Prompt</a>　·　<a href='/线程必读.md'>线程必读</a>　·　<a href='/总表.csv'>总表CSV</a></div>
+<h1><span data-i18n="h1"></span></h1>
+<div class=sub><span data-i18n="mode"></span>%(mode)s　·　<span data-i18n="gen"></span>%(t)s　·　<a href='/README.md'>README</a>　·　<a href='/prompt-给其他Agent.md'><span data-i18n="agentprompt"></span></a>　·　<a href='/线程必读.md'><span data-i18n="mustread"></span></a>　·　<a href='/总表.csv'><span data-i18n="csv"></span></a></div>
 <div class=cards>
-<div class=card><b>%(nv)d</b>厂商</div>
-<div class=card><b>%(no)d</b>GitHub组织</div>
-<div class=card><b>%(ns)d</b>已扫组织</div>
-<div class=card><b>%(nr)d</b>含SECURITY.MD仓库</div>
-<div class=card><b>%(nn)d</b>已排除(无SEC)</div>
+<div class=card><b>%(nv)d</b><span data-i18n="c_vendors"></span></div>
+<div class=card><b>%(no)d</b><span data-i18n="c_orgs"></span></div>
+<div class=card><b>%(ns)d</b><span data-i18n="c_swept"></span></div>
+<div class=card><b>%(nr)d</b><span data-i18n="c_repos"></span></div>
+<div class=card><b>%(nn)d</b><span data-i18n="c_excl"></span></div>
 </div>
-%(failed_note)s
+<div id=fwarn class=warn></div>
 <div class=bar>
-<input id=q placeholder="搜索：厂商 / 仓库 / 语言 / License / 描述 …">
-<select id=fv><option value="">厂商：全部</option></select>
-<select id=fl><option value="">语言：全部</option></select>
-<select id=fs><option value="">SRC：全部</option></select>
-<button id=rst type=button>重置</button>
+<input id=q data-ph="q">
+<select id=fv data-ph="f_all_vendor"></select>
+<select id=fl data-ph="f_all_lang"></select>
+<select id=fs data-ph="f_all_src"></select>
+<button id=rst type=button data-i18n="reset"></button>
+<button id=langbtn type=button>EN</button>
 <span id=cnt class=cnt></span>
 </div>
 <table id=t><thead><tr>
-<th data-k=f>仓库（GitHub 项目页）</th><th data-k=v>厂商</th><th data-k=src>SRC</th>
-<th data-k=s>星数</th><th data-k=l>语言</th><th data-k=lic>License</th>
-<th>SECURITY.md 本地文本</th><th data-k=d>描述</th>
+<th data-k=f data-i18n="th_repo"></th><th data-k=v data-i18n="th_vendor"></th><th data-k=src>SRC</th>
+<th data-k=s data-i18n="th_stars"></th><th data-k=l data-i18n="th_lang"></th><th data-k=lic>License</th>
+<th data-i18n="th_sec"></th><th data-k=d data-i18n="th_desc"></th>
 </tr></thead><tbody id=b></tbody></table>
-<h3>厂商汇总</h3>
-<table><thead><tr><th>厂商</th><th>SRC</th><th>收录数</th><th>入口</th></tr></thead><tbody>%(rows)s</tbody></table>
+<h3 data-i18n="summary"></h3>
+<table><thead><tr><th data-i18n="th_vendor"></th><th>SRC</th><th data-i18n="th_count"></th><th data-i18n="th_links"></th></tr></thead><tbody>%(rows)s</tbody></table>
 <script>
 const REPOS=%(repos)s;
+const I18N={
+zh:{h1:'大厂开源项目 SECURITY.MD 收集看板',mode:'模式：',gen:'生成时间：',agentprompt:'其他Agent使用Prompt',mustread:'线程必读',csv:'总表CSV',c_vendors:'厂商',c_orgs:'GitHub组织',c_swept:'已扫组织',c_repos:'含SECURITY.MD仓库',c_excl:'已排除(无SEC)',f_all_vendor:'厂商：全部',f_all_lang:'语言：全部',f_all_src:'SRC：全部',reset:'重置',th_repo:'仓库（GitHub 项目页）',th_vendor:'厂商',th_stars:'星数',th_lang:'语言',th_sec:'SECURITY.md 本地文本',th_desc:'描述',summary:'厂商汇总',th_count:'收录数',th_links:'入口',cnt:'显示 %%S / 共 %%T 条（点击表头排序）',noresult:'无匹配结果',warn:'待重试组织（列表抓取失败，每轮自动重试）：',warnzh:'%(fnzh)s',toggle:'EN',lang:'en'},
+en:{h1:'Big-Tech Open-Source SECURITY.MD Dashboard',mode:'Mode: ',gen:'Generated: ',agentprompt:'Agent Prompt',mustread:'Ops Notes',csv:'Full CSV',c_vendors:'Vendors',c_orgs:'GitHub Orgs',c_swept:'Orgs Swept',c_repos:'Repos w/ SECURITY.md',c_excl:'Excluded (no SEC)',f_all_vendor:'Vendor: All',f_all_lang:'Language: All',f_all_src:'SRC: All',reset:'Reset',th_repo:'Repo (GitHub)',th_vendor:'Vendor',th_stars:'Stars',th_lang:'Language',th_sec:'SECURITY.md (local text)',th_desc:'Description',summary:'Vendor Summary',th_count:'Repos',th_links:'Links',cnt:'Showing %%S / %%T (click headers to sort)',noresult:'No matches',warn:'Orgs pending retry (auto-retried each cycle): ',warnzh:'%(fnen)s',toggle:'中文',lang:'zh'}};
+let LANG=localStorage.getItem('secmd_lang')||'zh';
+const t=k=>{let v=I18N[LANG][k];return v==null?'':v};
 let F={q:'',v:'',l:'',src:''}, SK='s', SD=-1; const CAP=2000;
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 const nrm=s=>(s==null?'':String(s)).toLowerCase();
-function fill(id,key){const sel=document.getElementById(id);const vals=[...new Set(REPOS.map(r=>r[key]).filter(x=>x))].sort((a,b)=>a.localeCompare(b,'zh'));sel.innerHTML='<option value="">'+sel.options[0].text+'</option>'+vals.map(x=>'<option>'+esc(x)+'</option>').join('')}
-fill('fv','v');fill('fl','l');fill('fs','src');
+function fill(id,key){const sel=document.getElementById(id);const vals=[...new Set(REPOS.map(r=>r[key]).filter(x=>x))].sort((a,b)=>a.localeCompare(b,'zh'));const all=document.createElement('option');sel.innerHTML='';sel.appendChild(all);all.value='';all.textContent=t(sel.dataset.ph);vals.forEach(x=>{const o=document.createElement('option');o.textContent=x;sel.appendChild(o)})}
+function applyLang(){document.documentElement.lang=LANG;document.querySelectorAll('[data-i18n]').forEach(el=>{el.textContent=t(el.dataset.i18n)});document.getElementById('q').placeholder=t('q_placeholder')||t('f_all_vendor');document.getElementById('langbtn').textContent=t('toggle');const w=document.getElementById('fwarn');const wn=t('warnzh');w.textContent=wn?t('warn')+wn:'';fill('fv','v');fill('fl','l');fill('fs','src');applyHeaders();render()}
+function applyHeaders(){document.querySelectorAll('#t th[data-k]').forEach(th=>{const base=t('th_'+th.dataset.k)||th.dataset.base||th.textContent;th.dataset.base=base;const arr=th.dataset.k===SK?(SD===1?' ▲':' ▼'):'';th.textContent=base+arr});document.querySelectorAll('[data-i18n]').forEach(el=>{if(el.dataset.k)return;el.textContent=t(el.dataset.i18n)});document.getElementById('rst').textContent=t('reset')}
 function cur(){let a=REPOS;
 if(F.v)a=a.filter(r=>r.v===F.v);
 if(F.l)a=a.filter(r=>r.l===F.l);
@@ -821,15 +831,16 @@ a.sort((x,y)=>{if(SK==='s'){const a=x.s==null?-1:x.s,b=y.s==null?-1:y.s;return (
 const a=nrm(x[SK]),b=nrm(y[SK]);return a<b?-SD:a>b?SD:0});return a}
 function render(){const a=cur();
 const head=a.slice(0,CAP).map(r=>'<tr><td><a href="https://github.com/'+esc(r.f)+'">'+esc(r.f)+'</a></td><td>'+esc(r.v)+'</td><td>'+esc(r.src||'-')+'</td><td class=m>'+(r.s==null?'-':r.s)+'</td><td>'+esc(r.l||'-')+'</td><td>'+esc(r.lic||'-')+'</td><td><a href="'+r.loc+'">SECURITY.md</a></td><td class=d>'+esc(r.d||'')+'</td></tr>').join('');
-document.getElementById('b').innerHTML=head||'<tr><td colspan=8>无匹配结果</td></tr>';
-document.getElementById('cnt').textContent='显示 '+Math.min(a.length,CAP)+' / 共 '+a.length+' 条（点击表头排序）';
-document.querySelectorAll('#t th[data-k]').forEach(th=>{const base=th.dataset.base||(th.dataset.base=th.textContent);th.textContent=base+(th.dataset.k===SK?(SD===1?' ▲':' ▼'):'')});
-}
+document.getElementById('b').innerHTML=head||'<tr><td colspan=8>'+esc(t('noresult'))+'</td></tr>';
+document.getElementById('cnt').textContent=t('cnt').replace('%S',Math.min(a.length,CAP)).replace('%T',a.length);
+applyHeaders()}
+I18N.zh.q_placeholder='搜索：厂商 / 仓库 / 语言 / License / 描述 …';I18N.en.q_placeholder='Search: vendor / repo / language / license / description …';
 document.getElementById('q').oninput=e=>{F.q=e.target.value.trim().toLowerCase();render()};
 [['fv','v'],['fl','l'],['fs','src']].forEach(p=>{document.getElementById(p[0]).onchange=e=>{F[p[1]]=e.target.value;render()}});
 document.getElementById('rst').onclick=()=>{F={q:'',v:'',l:'',src:''};document.getElementById('q').value='';['fv','fl','fs'].forEach(id=>document.getElementById(id).value='');render()};
+document.getElementById('langbtn').onclick=()=>{LANG=t('lang');localStorage.setItem('secmd_lang',LANG);applyLang()};
 document.querySelectorAll('#t th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(SK===k)SD*=-1;else{SK=k;SD=(k==='s')?-1:1}render()});
-render();
+applyLang();
 </script></body></html>""" % {
         "mode": H.escape(stats.get("mode") or ""),
         "t": H.escape(stats["generated_at"]),
@@ -837,8 +848,8 @@ render();
         "nr": totals["sec_repos"], "nn": totals["negative_cached"],
         "rows": "\n".join(rows),
         "repos": repos_js,
-        "failed_note": ("<div class=warn>待重试组织（列表抓取失败，每轮自动重试）：%s</div>"
-                        % H.escape("、".join(stats["orgs_failed"][:40]))) if stats["orgs_failed"] else "",
+        "fnzh": H.escape(failed_note_zh.replace("待重试组织（列表抓取失败，每轮自动重试）：", "")),
+        "fnen": H.escape(failed_note_en.replace("Orgs pending retry (auto-retried each cycle): ", "")),
     }
     (INDEX / "index.html").write_text(html, encoding="utf-8")
 
