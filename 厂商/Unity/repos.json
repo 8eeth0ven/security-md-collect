@@ -112,6 +112,17 @@
  {
   "vendor": "Unity",
   "org": "Unity-Technologies",
+  "full_name": "Unity-Technologies/uvcs-desktop-client",
+  "url": "https://github.com/Unity-Technologies/uvcs-desktop-client",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "TypeScript",
+  "description": "A fast, modern desktop client for Unity Version Control (Plastic SCM), built with Electron, React and TypeScript.",
+  "first_seen": "2026-11-01 17:27:50"
+ },
+ {
+  "vendor": "Unity",
+  "org": "Unity-Technologies",
   "full_name": "Unity-Technologies/tensorflow",
   "url": "https://github.com/Unity-Technologies/tensorflow",
   "sec_path": "SECURITY.md",
@@ -119,17 +130,6 @@
   "language": "C++",
   "description": "An Open Source Machine Learning Framework for Everyone",
   "first_seen": "2026-11-01 17:28:56"
- },
- {
-  "vendor": "Unity",
-  "org": "Unity-Technologies",
-  "full_name": "Unity-Technologies/uvcs-desktop-client",
-  "url": "https://github.com/Unity-Technologies/uvcs-desktop-client",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "TypeScript",
-  "description": "A fast, modern desktop client for Unity Version Control (Plastic SCM), built with Electron, React and TypeScript.",
-  "first_seen": "2026-11-01 17:27:50"
  },
  {
   "vendor": "Unity",
@@ -383,5 +383,17 @@
   "language": "Go",
   "description": "Kubernetes-native Job Queueing",
   "first_seen": "2026-11-01 17:27:50"
+ },
+ {
+  "vendor": "Unity",
+  "org": "Unity-Technologies",
+  "full_name": "Unity-Technologies/uvcs-agent-plugin",
+  "url": "https://github.com/Unity-Technologies/uvcs-agent-plugin",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "JavaScript",
+  "description": "Portable agent plugin that teaches AI coding agents how to use Unity Version Control (UVCS / Plastic SCM).",
+  "license": null,
+  "first_seen": "2026-11-13 11:32:47"
  }
 ]

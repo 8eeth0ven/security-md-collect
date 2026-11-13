@@ -5,7 +5,7 @@
   "full_name": "apache/superset",
   "url": "https://github.com/apache/superset",
   "sec_path": "SECURITY.md",
-  "stars": 75410,
+  "stars": 75504,
   "language": "Python",
   "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -16,7 +16,7 @@
   "full_name": "apache/airflow",
   "url": "https://github.com/apache/airflow",
   "sec_path": ".github/SECURITY.md",
-  "stars": 47360,
+  "stars": 47465,
   "language": "Python",
   "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
   "first_seen": "2026-11-01 18:03:32"
@@ -27,7 +27,7 @@
   "full_name": "apache/spark",
   "url": "https://github.com/apache/spark",
   "sec_path": "SECURITY.md",
-  "stars": 44423,
+  "stars": 44500,
   "language": "Scala",
   "description": "Apache Spark - A unified analytics engine for large-scale data processing",
   "first_seen": "2026-11-01 18:03:32"
@@ -38,7 +38,7 @@
   "full_name": "apache/dubbo",
   "url": "https://github.com/apache/dubbo",
   "sec_path": "SECURITY.md",
-  "stars": 41578,
+  "stars": 41574,
   "language": "Java",
   "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
   "first_seen": "2026-11-01 18:04:12"
@@ -49,7 +49,7 @@
   "full_name": "apache/kafka",
   "url": "https://github.com/apache/kafka",
   "sec_path": "SECURITY.md",
-  "stars": 34127,
+  "stars": 34212,
   "language": "Java",
   "description": "Apache Kafka - A distributed event streaming platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -60,7 +60,7 @@
   "full_name": "apache/incubator-seata",
   "url": "https://github.com/apache/incubator-seata",
   "sec_path": "SECURITY.md",
-  "stars": 26006,
+  "stars": 26003,
   "language": "Java",
   "description": ":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
   "first_seen": "2026-11-01 18:03:32"
@@ -71,7 +71,7 @@
   "full_name": "apache/brpc",
   "url": "https://github.com/apache/brpc",
   "sec_path": "SECURITY.md",
-  "stars": 17640,
+  "stars": 17645,
   "language": "C++",
   "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertis…",
   "first_seen": "2026-11-01 18:03:32"
@@ -82,7 +82,7 @@
   "full_name": "apache/apisix",
   "url": "https://github.com/apache/apisix",
   "sec_path": "SECURITY.md",
-  "stars": 17293,
+  "stars": 17318,
   "language": "Lua",
   "description": "The Cloud-Native API Gateway and AI Gateway",
   "first_seen": "2026-11-01 18:04:12"
@@ -93,7 +93,7 @@
   "full_name": "apache/doris",
   "url": "https://github.com/apache/doris",
   "sec_path": "SECURITY.md",
-  "stars": 16179,
+  "stars": 16213,
   "language": "Java",
   "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
   "first_seen": "2026-11-01 18:03:32"
@@ -104,7 +104,7 @@
   "full_name": "apache/hadoop",
   "url": "https://github.com/apache/hadoop",
   "sec_path": "SECURITY.md",
-  "stars": 15709,
+  "stars": 15712,
   "language": "Java",
   "description": "Apache Hadoop",
   "first_seen": "2026-11-01 18:03:32"
@@ -115,7 +115,7 @@
   "full_name": "apache/pulsar",
   "url": "https://github.com/apache/pulsar",
   "sec_path": "SECURITY.md",
-  "stars": 15352,
+  "stars": 15361,
   "language": "Java",
   "description": "Apache Pulsar - distributed pub-sub messaging system",
   "first_seen": "2026-11-01 18:03:32"
@@ -126,7 +126,7 @@
   "full_name": "apache/dolphinscheduler",
   "url": "https://github.com/apache/dolphinscheduler",
   "sec_path": "SECURITY.md",
-  "stars": 14552,
+  "stars": 14554,
   "language": "Java",
   "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
   "first_seen": "2026-11-01 18:05:02"
@@ -148,20 +148,9 @@
   "full_name": "apache/cassandra",
   "url": "https://github.com/apache/cassandra",
   "sec_path": "SECURITY.md",
-  "stars": 10135,
+  "stars": 10151,
   "language": "Java",
   "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising…",
-  "first_seen": "2026-11-01 18:04:12"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/jmeter",
-  "url": "https://github.com/apache/jmeter",
-  "sec_path": "SECURITY.md",
-  "stars": 9591,
-  "language": "Java",
-  "description": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services",
   "first_seen": "2026-11-01 18:04:12"
  },
  {
@@ -170,7 +159,7 @@
   "full_name": "apache/datafusion",
   "url": "https://github.com/apache/datafusion",
   "sec_path": "SECURITY.md",
-  "stars": 9571,
+  "stars": 9602,
   "language": "Rust",
   "description": "Apache DataFusion SQL Query Engine",
   "first_seen": "2026-11-01 18:03:32"
@@ -178,10 +167,21 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/jmeter",
+  "url": "https://github.com/apache/jmeter",
+  "sec_path": "SECURITY.md",
+  "stars": 9601,
+  "language": "Java",
+  "description": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services",
+  "first_seen": "2026-11-01 18:04:12"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/shenyu",
   "url": "https://github.com/apache/shenyu",
   "sec_path": "SECURITY.md",
-  "stars": 8912,
+  "stars": 8921,
   "language": "Java",
   "description": "Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.",
   "first_seen": "2026-11-01 18:03:32"
@@ -192,7 +192,7 @@
   "full_name": "apache/tomcat",
   "url": "https://github.com/apache/tomcat",
   "sec_path": "SECURITY.md",
-  "stars": 8270,
+  "stars": 8279,
   "language": "Java",
   "description": "Apache Tomcat",
   "first_seen": "2026-11-01 18:04:12"
@@ -203,7 +203,7 @@
   "full_name": "apache/hertzbeat",
   "url": "https://github.com/apache/hertzbeat",
   "sec_path": "SECURITY.md",
-  "stars": 7453,
+  "stars": 7468,
   "language": "Java",
   "description": "An AI-powered next-generation open source real-time observability system.",
   "first_seen": "2026-11-01 18:03:32"
@@ -214,7 +214,7 @@
   "full_name": "apache/openwhisk",
   "url": "https://github.com/apache/openwhisk",
   "sec_path": "docs/security.md",
-  "stars": 6804,
+  "stars": 6806,
   "language": "Scala",
   "description": "Apache OpenWhisk is an open source serverless cloud platform",
   "first_seen": "2026-11-01 18:07:00"
@@ -225,7 +225,7 @@
   "full_name": "apache/storm",
   "url": "https://github.com/apache/storm",
   "sec_path": "SECURITY.md",
-  "stars": 6699,
+  "stars": 6703,
   "language": "Java",
   "description": "Apache Storm",
   "first_seen": "2026-11-01 18:03:32"
@@ -236,7 +236,7 @@
   "full_name": "apache/zeppelin",
   "url": "https://github.com/apache/zeppelin",
   "sec_path": "SECURITY.md",
-  "stars": 6669,
+  "stars": 6671,
   "language": "Java",
   "description": "Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.",
   "first_seen": "2026-11-01 18:03:32"
@@ -247,7 +247,7 @@
   "full_name": "apache/iotdb",
   "url": "https://github.com/apache/iotdb",
   "sec_path": "SECURITY.md",
-  "stars": 6424,
+  "stars": 6435,
   "language": "Java",
   "description": "Apache IoTDB",
   "first_seen": "2026-11-01 18:04:12"
@@ -258,7 +258,7 @@
   "full_name": "apache/camel",
   "url": "https://github.com/apache/camel",
   "sec_path": "SECURITY.md",
-  "stars": 6390,
+  "stars": 6405,
   "language": "Java",
   "description": "Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apach…",
   "first_seen": "2026-11-01 18:03:32"
@@ -269,7 +269,7 @@
   "full_name": "apache/incubator-kie",
   "url": "https://github.com/apache/incubator-kie",
   "sec_path": "SECURITY.md",
-  "stars": 6342,
+  "stars": 6345,
   "language": "Java",
   "description": "Apache KIE (Knowledge Is Everything) is the home of Drools, OptaPlanner, jBPM, and Kogito.",
   "first_seen": "2026-11-01 18:04:12"
@@ -280,7 +280,7 @@
   "full_name": "apache/nifi",
   "url": "https://github.com/apache/nifi",
   "sec_path": "SECURITY.md",
-  "stars": 6293,
+  "stars": 6313,
   "language": "Java",
   "description": "Apache NiFi",
   "first_seen": "2026-11-01 18:04:12"
@@ -291,7 +291,7 @@
   "full_name": "apache/hive",
   "url": "https://github.com/apache/hive",
   "sec_path": "SECURITY.md",
-  "stars": 6038,
+  "stars": 6039,
   "language": "Java",
   "description": "Apache Hive",
   "first_seen": "2026-11-01 18:03:32"
@@ -302,7 +302,7 @@
   "full_name": "apache/maka",
   "url": "https://github.com/apache/maka",
   "sec_path": "SECURITY.md",
-  "stars": 5937,
+  "stars": 5963,
   "language": "TypeScript",
   "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
   "first_seen": "2026-11-01 18:03:32"
@@ -313,7 +313,7 @@
   "full_name": "apache/hbase",
   "url": "https://github.com/apache/hbase",
   "sec_path": "SECURITY.md",
-  "stars": 5570,
+  "stars": 5571,
   "language": "Java",
   "description": "Apache HBase",
   "first_seen": "2026-11-01 18:04:12"
@@ -324,7 +324,7 @@
   "full_name": "apache/groovy",
   "url": "https://github.com/apache/groovy",
   "sec_path": ".github/SECURITY.md",
-  "stars": 5481,
+  "stars": 5483,
   "language": "Groovy",
   "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -335,7 +335,7 @@
   "full_name": "apache/opendal",
   "url": "https://github.com/apache/opendal",
   "sec_path": "SECURITY.md",
-  "stars": 5453,
+  "stars": 5470,
   "language": "Rust",
   "description": "Apache OpenDAL: One Layer, All Storage.",
   "first_seen": "2026-11-01 18:03:32"
@@ -346,7 +346,7 @@
   "full_name": "apache/maven",
   "url": "https://github.com/apache/maven",
   "sec_path": "SECURITY.md",
-  "stars": 5371,
+  "stars": 5376,
   "language": "Java",
   "description": "Apache Maven core",
   "first_seen": "2026-11-01 18:03:32"
@@ -357,7 +357,7 @@
   "full_name": "apache/iggy",
   "url": "https://github.com/apache/iggy",
   "sec_path": "SECURITY.md",
-  "stars": 5236,
+  "stars": 5285,
   "language": "Rust",
   "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
   "first_seen": "2026-11-01 18:03:32"
@@ -368,7 +368,7 @@
   "full_name": "apache/calcite",
   "url": "https://github.com/apache/calcite",
   "sec_path": "SECURITY.md",
-  "stars": 5203,
+  "stars": 5209,
   "language": "Java",
   "description": "Apache Calcite",
   "first_seen": "2026-11-01 18:03:32"
@@ -379,7 +379,7 @@
   "full_name": "apache/fory",
   "url": "https://github.com/apache/fory",
   "sec_path": "SECURITY.md",
-  "stars": 4578,
+  "stars": 4582,
   "language": "Java",
   "description": "A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.",
   "first_seen": "2026-11-01 18:04:12"
@@ -390,7 +390,7 @@
   "full_name": "apache/kvrocks",
   "url": "https://github.com/apache/kvrocks",
   "sec_path": "SECURITY.md",
-  "stars": 4490,
+  "stars": 4500,
   "language": "C++",
   "description": "Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.",
   "first_seen": "2026-11-01 18:03:32"
@@ -401,7 +401,7 @@
   "full_name": "apache/shiro",
   "url": "https://github.com/apache/shiro",
   "sec_path": "SECURITY.md",
-  "stars": 4464,
+  "stars": 4465,
   "language": "Java",
   "description": "Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management",
   "first_seen": "2026-11-01 18:04:12"
@@ -412,7 +412,7 @@
   "full_name": "apache/tika",
   "url": "https://github.com/apache/tika",
   "sec_path": "SECURITY.md",
-  "stars": 4128,
+  "stars": 4145,
   "language": "Java",
   "description": "The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",
   "first_seen": "2026-11-01 18:04:12"
@@ -423,7 +423,7 @@
   "full_name": "apache/nuttx",
   "url": "https://github.com/apache/nuttx",
   "sec_path": ".github/SECURITY.md",
-  "stars": 4099,
+  "stars": 4110,
   "language": "C",
   "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
   "first_seen": "2026-11-01 18:03:32"
@@ -434,7 +434,7 @@
   "full_name": "apache/httpd",
   "url": "https://github.com/apache/httpd",
   "sec_path": "SECURITY.md",
-  "stars": 4039,
+  "stars": 4050,
   "language": "C",
   "description": "Apache HTTP Server",
   "first_seen": "2026-11-01 18:03:32"
@@ -445,7 +445,7 @@
   "full_name": "apache/arrow-rs",
   "url": "https://github.com/apache/arrow-rs",
   "sec_path": "SECURITY.md",
-  "stars": 3660,
+  "stars": 3669,
   "language": "Rust",
   "description": "Official Rust implementation of Apache Arrow",
   "first_seen": "2026-11-01 18:03:32"
@@ -456,7 +456,7 @@
   "full_name": "apache/lucene",
   "url": "https://github.com/apache/lucene",
   "sec_path": "SECURITY.md",
-  "stars": 3606,
+  "stars": 3610,
   "language": "Java",
   "description": "Apache Lucene open-source search software",
   "first_seen": "2026-11-01 18:03:32"
@@ -478,7 +478,7 @@
   "full_name": "apache/datafusion-sqlparser-rs",
   "url": "https://github.com/apache/datafusion-sqlparser-rs",
   "sec_path": "SECURITY.md",
-  "stars": 3478,
+  "stars": 3481,
   "language": "Rust",
   "description": "Extensible SQL Lexer and Parser for Rust",
   "first_seen": "2026-11-01 18:03:32"
@@ -489,7 +489,7 @@
   "full_name": "apache/maven-mvnd",
   "url": "https://github.com/apache/maven-mvnd",
   "sec_path": "SECURITY.md",
-  "stars": 3454,
+  "stars": 3452,
   "language": "Java",
   "description": "Apache Maven Daemon",
   "first_seen": "2026-11-01 18:03:32"
@@ -500,7 +500,7 @@
   "full_name": "apache/paimon",
   "url": "https://github.com/apache/paimon",
   "sec_path": "SECURITY.md",
-  "stars": 3441,
+  "stars": 3447,
   "language": "Java",
   "description": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
   "first_seen": "2026-11-01 18:03:32"
@@ -511,7 +511,7 @@
   "full_name": "apache/gravitino",
   "url": "https://github.com/apache/gravitino",
   "sec_path": "SECURITY.md",
-  "stars": 3346,
+  "stars": 3363,
   "language": "Java",
   "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
   "first_seen": "2026-11-01 18:04:12"
@@ -522,7 +522,7 @@
   "full_name": "apache/nutch",
   "url": "https://github.com/apache/nutch",
   "sec_path": "SECURITY.md",
-  "stars": 3305,
+  "stars": 3309,
   "language": "Java",
   "description": "Apache Nutch is an extensible and scalable web crawler",
   "first_seen": "2026-11-01 18:04:12"
@@ -533,7 +533,7 @@
   "full_name": "apache/pdfbox",
   "url": "https://github.com/apache/pdfbox",
   "sec_path": "SECURITY.md",
-  "stars": 3140,
+  "stars": 3141,
   "language": "Java",
   "description": "Mirror of Apache PDFBox",
   "first_seen": "2026-11-01 18:03:32"
@@ -544,7 +544,7 @@
   "full_name": "apache/cloudstack",
   "url": "https://github.com/apache/cloudstack",
   "sec_path": "SECURITY.md",
-  "stars": 3127,
+  "stars": 3134,
   "language": "Java",
   "description": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
   "first_seen": "2026-11-01 18:04:12"
@@ -555,7 +555,7 @@
   "full_name": "apache/parquet-java",
   "url": "https://github.com/apache/parquet-java",
   "sec_path": "SECURITY.md",
-  "stars": 3090,
+  "stars": 3092,
   "language": "Java",
   "description": "Apache Parquet Java",
   "first_seen": "2026-11-01 18:03:32"
@@ -566,7 +566,7 @@
   "full_name": "apache/commons-lang",
   "url": "https://github.com/apache/commons-lang",
   "sec_path": "SECURITY.md",
-  "stars": 3017,
+  "stars": 3018,
   "language": "Java",
   "description": "Apache Commons Lang",
   "first_seen": "2026-11-01 18:03:32"
@@ -577,7 +577,7 @@
   "full_name": "apache/grails-core",
   "url": "https://github.com/apache/grails-core",
   "sec_path": "SECURITY.md",
-  "stars": 2941,
+  "stars": 2942,
   "language": "Groovy",
   "description": "Grails - the Web Application Framework",
   "first_seen": "2026-11-01 18:03:32"
@@ -588,7 +588,7 @@
   "full_name": "apache/cassandra-gocql-driver",
   "url": "https://github.com/apache/cassandra-gocql-driver",
   "sec_path": "SECURITY.md",
-  "stars": 2698,
+  "stars": 2699,
   "language": "Go",
   "description": "GoCQL Driver for Apache Cassandra®",
   "first_seen": "2026-11-01 18:05:02"
@@ -599,7 +599,7 @@
   "full_name": "apache/hamilton",
   "url": "https://github.com/apache/hamilton",
   "sec_path": "SECURITY.md",
-  "stars": 2623,
+  "stars": 2631,
   "language": "Jupyter Notebook",
   "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and sca…",
   "first_seen": "2026-11-01 18:03:32"
@@ -610,7 +610,7 @@
   "full_name": "apache/fineract",
   "url": "https://github.com/apache/fineract",
   "sec_path": "SECURITY.md",
-  "stars": 2597,
+  "stars": 2623,
   "language": "Java",
   "description": "Apache Fineract",
   "first_seen": "2026-11-01 18:04:12"
@@ -621,7 +621,7 @@
   "full_name": "apache/burr",
   "url": "https://github.com/apache/burr",
   "sec_path": "SECURITY.md",
-  "stars": 2592,
+  "stars": 2599,
   "language": "Python",
   "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.",
   "first_seen": "2026-11-01 18:03:32"
@@ -632,7 +632,7 @@
   "full_name": "apache/activemq",
   "url": "https://github.com/apache/activemq",
   "sec_path": "SECURITY.md",
-  "stars": 2462,
+  "stars": 2461,
   "language": "Java",
   "description": "Apache ActiveMQ",
   "first_seen": "2026-11-01 18:05:02"
@@ -654,7 +654,7 @@
   "full_name": "apache/poi",
   "url": "https://github.com/apache/poi",
   "sec_path": "SECURITY.md",
-  "stars": 2284,
+  "stars": 2289,
   "language": "Java",
   "description": "Mirror of Apache POI gitbox. The Java API for Microsoft Documents.",
   "first_seen": "2026-11-01 18:03:32"
@@ -665,7 +665,7 @@
   "full_name": "apache/tinkerpop",
   "url": "https://github.com/apache/tinkerpop",
   "sec_path": "SECURITY.md",
-  "stars": 2154,
+  "stars": 2155,
   "language": "Java",
   "description": "Apache TinkerPop - a graph computing framework",
   "first_seen": "2026-11-01 18:04:12"
@@ -676,7 +676,7 @@
   "full_name": "apache/polaris",
   "url": "https://github.com/apache/polaris",
   "sec_path": "SECURITY.md",
-  "stars": 2106,
+  "stars": 2118,
   "language": "Java",
   "description": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
   "first_seen": "2026-11-01 18:03:32"
@@ -687,7 +687,7 @@
   "full_name": "apache/drill",
   "url": "https://github.com/apache/drill",
   "sec_path": "SECURITY.md",
-  "stars": 2026,
+  "stars": 2027,
   "language": "Java",
   "description": "Apache Drill is a distributed MPP query layer for self describing data",
   "first_seen": "2026-11-01 18:05:02"
@@ -698,7 +698,7 @@
   "full_name": "apache/trafficserver",
   "url": "https://github.com/apache/trafficserver",
   "sec_path": "SECURITY.md",
-  "stars": 1994,
+  "stars": 1997,
   "language": "C++",
   "description": "Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.",
   "first_seen": "2026-11-01 18:03:32"
@@ -709,7 +709,7 @@
   "full_name": "apache/kudu",
   "url": "https://github.com/apache/kudu",
   "sec_path": "SECURITY.md",
-  "stars": 1916,
+  "stars": 1919,
   "language": "C++",
   "description": "Mirror of Apache Kudu",
   "first_seen": "2026-11-01 18:04:12"
@@ -720,7 +720,7 @@
   "full_name": "apache/plc4x",
   "url": "https://github.com/apache/plc4x",
   "sec_path": "SECURITY.md",
-  "stars": 1774,
+  "stars": 1777,
   "language": "Java",
   "description": "PLC4X The Industrial IoT adapter",
   "first_seen": "2026-11-01 18:04:12"
@@ -731,7 +731,7 @@
   "full_name": "apache/solr",
   "url": "https://github.com/apache/solr",
   "sec_path": "SECURITY.md",
-  "stars": 1698,
+  "stars": 1700,
   "language": "Java",
   "description": "Apache Solr open-source search software",
   "first_seen": "2026-11-01 18:03:32"
@@ -742,7 +742,7 @@
   "full_name": "apache/pekko",
   "url": "https://github.com/apache/pekko",
   "sec_path": "SECURITY.md",
-  "stars": 1663,
+  "stars": 1668,
   "language": "Scala",
   "description": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
   "first_seen": "2026-11-01 18:03:32"
@@ -775,9 +775,20 @@
   "full_name": "apache/hop",
   "url": "https://github.com/apache/hop",
   "sec_path": "SECURITY.md",
-  "stars": 1519,
+  "stars": 1533,
   "language": "Java",
   "description": "Hop Orchestration Platform",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/jena",
+  "url": "https://github.com/apache/jena",
+  "sec_path": "SECURITY.md",
+  "stars": 1506,
+  "language": "Java",
+  "description": "Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications.",
   "first_seen": "2026-11-01 18:03:32"
  },
  {
@@ -786,7 +797,7 @@
   "full_name": "apache/inlong",
   "url": "https://github.com/apache/inlong",
   "sec_path": "SECURITY.md",
-  "stars": 1507,
+  "stars": 1505,
   "language": "Java",
   "description": "Apache InLong - a one-stop, full-scenario integration framework for massive data",
   "first_seen": "2026-11-01 18:07:00"
@@ -794,21 +805,10 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/jena",
-  "url": "https://github.com/apache/jena",
-  "sec_path": "SECURITY.md",
-  "stars": 1494,
-  "language": "Java",
-  "description": "Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications.",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/cloudberry",
   "url": "https://github.com/apache/cloudberry",
   "sec_path": "SECURITY.md",
-  "stars": 1438,
+  "stars": 1444,
   "language": "C",
   "description": "One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.",
   "first_seen": "2026-11-01 18:03:32"
@@ -850,23 +850,23 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/ozone",
-  "url": "https://github.com/apache/ozone",
+  "full_name": "apache/incubator-xtable",
+  "url": "https://github.com/apache/incubator-xtable",
   "sec_path": "SECURITY.md",
-  "stars": 1331,
+  "stars": 1348,
   "language": "Java",
-  "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
+  "description": "Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query eng…",
   "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/incubator-xtable",
-  "url": "https://github.com/apache/incubator-xtable",
+  "full_name": "apache/ozone",
+  "url": "https://github.com/apache/ozone",
   "sec_path": "SECURITY.md",
-  "stars": 1316,
+  "stars": 1334,
   "language": "Java",
-  "description": "Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query eng…",
+  "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
   "first_seen": "2026-11-01 18:03:32"
  },
  {
@@ -875,7 +875,7 @@
   "full_name": "apache/impala",
   "url": "https://github.com/apache/impala",
   "sec_path": "SECURITY.md",
-  "stars": 1294,
+  "stars": 1295,
   "language": "C++",
   "description": "Apache Impala",
   "first_seen": "2026-11-01 18:04:12"
@@ -886,7 +886,7 @@
   "full_name": "apache/accumulo",
   "url": "https://github.com/apache/accumulo",
   "sec_path": "SECURITY.md",
-  "stars": 1183,
+  "stars": 1184,
   "language": "Java",
   "description": "Apache Accumulo",
   "first_seen": "2026-11-01 18:04:12"
@@ -894,24 +894,24 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/ofbiz-framework",
-  "url": "https://github.com/apache/ofbiz-framework",
+  "full_name": "apache/apisix-ingress-controller",
+  "url": "https://github.com/apache/apisix-ingress-controller",
   "sec_path": "SECURITY.md",
-  "stars": 1148,
-  "language": "Java",
-  "description": "Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Bu…",
-  "first_seen": "2026-11-01 18:03:32"
+  "stars": 1152,
+  "language": "Go",
+  "description": "APISIX Ingress Controller for Kubernetes",
+  "first_seen": "2026-11-01 18:05:02"
  },
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/apisix-ingress-controller",
-  "url": "https://github.com/apache/apisix-ingress-controller",
+  "full_name": "apache/ofbiz-framework",
+  "url": "https://github.com/apache/ofbiz-framework",
   "sec_path": "SECURITY.md",
-  "stars": 1148,
-  "language": "Go",
-  "description": "APISIX Ingress Controller for Kubernetes",
-  "first_seen": "2026-11-01 18:05:02"
+  "stars": 1151,
+  "language": "Java",
+  "description": "Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Bu…",
+  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -930,7 +930,7 @@
   "full_name": "apache/systemds",
   "url": "https://github.com/apache/systemds",
   "sec_path": "SECURITY.md",
-  "stars": 1101,
+  "stars": 1100,
   "language": "Java",
   "description": "An open source ML system for the end-to-end data science lifecycle",
   "first_seen": "2026-11-01 18:04:12"
@@ -949,21 +949,10 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/commons-io",
-  "url": "https://github.com/apache/commons-io",
-  "sec_path": "SECURITY.md",
-  "stars": 1088,
-  "language": "Java",
-  "description": "Apache Commons IO",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/ranger",
   "url": "https://github.com/apache/ranger",
   "sec_path": "SECURITY.md",
-  "stars": 1086,
+  "stars": 1090,
   "language": "Java",
   "description": "Apache Ranger - Centralized, fine-grained authorization and auditing across data and AI platforms",
   "first_seen": "2026-11-01 18:04:12"
@@ -971,10 +960,21 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/commons-io",
+  "url": "https://github.com/apache/commons-io",
+  "sec_path": "SECURITY.md",
+  "stars": 1086,
+  "language": "Java",
+  "description": "Apache Commons IO",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/celeborn",
   "url": "https://github.com/apache/celeborn",
   "sec_path": "docs/security.md",
-  "stars": 1079,
+  "stars": 1081,
   "language": "Java",
   "description": "Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.",
   "first_seen": "2026-11-01 18:03:32"
@@ -985,7 +985,7 @@
   "full_name": "apache/artemis",
   "url": "https://github.com/apache/artemis",
   "sec_path": "SECURITY.md",
-  "stars": 1071,
+  "stars": 1072,
   "language": "Java",
   "description": "Apache Artemis",
   "first_seen": "2026-11-01 18:04:12"
@@ -996,7 +996,7 @@
   "full_name": "apache/yunikorn-core",
   "url": "https://github.com/apache/yunikorn-core",
   "sec_path": "SECURITY.md",
-  "stars": 1040,
+  "stars": 1042,
   "language": "Go",
   "description": "Apache YuniKorn Core",
   "first_seen": "2026-11-01 18:05:02"
@@ -1007,7 +1007,7 @@
   "full_name": "apache/stormcrawler",
   "url": "https://github.com/apache/stormcrawler",
   "sec_path": "SECURITY.md",
-  "stars": 1012,
+  "stars": 1015,
   "language": "Java",
   "description": "A scalable, mature and versatile web crawler based on Apache Storm",
   "first_seen": "2026-11-01 18:03:32"
@@ -1018,9 +1018,20 @@
   "full_name": "apache/datasketches-java",
   "url": "https://github.com/apache/datasketches-java",
   "sec_path": "SECURITY.md",
-  "stars": 958,
+  "stars": 960,
   "language": "Java",
   "description": "A software library of stochastic streaming algorithms, a.k.a. sketches.",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/camel-k",
+  "url": "https://github.com/apache/camel-k",
+  "sec_path": "SECURITY.md",
+  "stars": 937,
+  "language": "Go",
+  "description": "Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers",
   "first_seen": "2026-11-01 18:03:32"
  },
  {
@@ -1029,7 +1040,7 @@
   "full_name": "apache/logging-log4net",
   "url": "https://github.com/apache/logging-log4net",
   "sec_path": "SECURITY.md",
-  "stars": 936,
+  "stars": 935,
   "language": "C#",
   "description": "Apache Log4net is a versatile, feature-rich, efficient logging API and backend for .NET",
   "first_seen": "2026-11-01 18:05:02"
@@ -1037,21 +1048,10 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/camel-k",
-  "url": "https://github.com/apache/camel-k",
-  "sec_path": "SECURITY.md",
-  "stars": 935,
-  "language": "Go",
-  "description": "Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/cxf",
   "url": "https://github.com/apache/cxf",
   "sec_path": "SECURITY.md",
-  "stars": 930,
+  "stars": 932,
   "language": "Java",
   "description": "Apache CXF",
   "first_seen": "2026-11-01 18:04:12"
@@ -1062,7 +1062,7 @@
   "full_name": "apache/mynewt-nimble",
   "url": "https://github.com/apache/mynewt-nimble",
   "sec_path": "SECURITY.md",
-  "stars": 896,
+  "stars": 897,
   "language": "C",
   "description": "Apache mynewt",
   "first_seen": "2026-11-01 18:03:32"
@@ -1073,7 +1073,7 @@
   "full_name": "apache/mynewt-core",
   "url": "https://github.com/apache/mynewt-core",
   "sec_path": "SECURITY.md",
-  "stars": 893,
+  "stars": 894,
   "language": "C",
   "description": "An OS to build, deploy and securely manage billions of devices",
   "first_seen": "2026-11-01 18:03:32"
@@ -1084,7 +1084,7 @@
   "full_name": "apache/geaflow",
   "url": "https://github.com/apache/geaflow",
   "sec_path": "SECURITY.md",
-  "stars": 806,
+  "stars": 807,
   "language": "Java",
   "description": "Apache GeaFlow: A Streaming Graph Computing Engine.",
   "first_seen": "2026-11-01 18:04:12"
@@ -1095,7 +1095,7 @@
   "full_name": "apache/wicket",
   "url": "https://github.com/apache/wicket",
   "sec_path": "SECURITY.md",
-  "stars": 799,
+  "stars": 800,
   "language": "Java",
   "description": "Apache Wicket - Component-based Java web framework",
   "first_seen": "2026-11-01 18:03:32"
@@ -1106,7 +1106,7 @@
   "full_name": "apache/orc",
   "url": "https://github.com/apache/orc",
   "sec_path": "SECURITY.md",
-  "stars": 771,
+  "stars": 773,
   "language": "Java",
   "description": "Apache ORC - the smallest, fastest columnar storage for Hadoop workloads",
   "first_seen": "2026-11-01 18:04:12"
@@ -1117,7 +1117,7 @@
   "full_name": "apache/streampipes",
   "url": "https://github.com/apache/streampipes",
   "sec_path": "SECURITY.md",
-  "stars": 756,
+  "stars": 761,
   "language": "Java",
   "description": "Apache StreamPipes - A self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.",
   "first_seen": "2026-11-01 18:03:32"
@@ -1150,7 +1150,7 @@
   "full_name": "apache/openmeetings",
   "url": "https://github.com/apache/openmeetings",
   "sec_path": ".github/SECURITY.md",
-  "stars": 688,
+  "stars": 690,
   "language": "Java",
   "description": "Mirror of Apache Openmeetings",
   "first_seen": "2026-11-01 18:03:32"
@@ -1161,7 +1161,7 @@
   "full_name": "apache/commons-math",
   "url": "https://github.com/apache/commons-math",
   "sec_path": "SECURITY.md",
-  "stars": 658,
+  "stars": 659,
   "language": "Java",
   "description": "Apache Commons Math",
   "first_seen": "2026-11-01 18:04:12"
@@ -1172,7 +1172,7 @@
   "full_name": "apache/commons-pool",
   "url": "https://github.com/apache/commons-pool",
   "sec_path": "SECURITY.md",
-  "stars": 556,
+  "stars": 557,
   "language": "Java",
   "description": "Apache Commons Pool",
   "first_seen": "2026-11-01 18:04:12"
@@ -1194,7 +1194,7 @@
   "full_name": "apache/helix",
   "url": "https://github.com/apache/helix",
   "sec_path": "SECURITY.md",
-  "stars": 505,
+  "stars": 506,
   "language": "Java",
   "description": "Mirror of Apache Helix",
   "first_seen": "2026-11-01 18:05:58"
@@ -1216,7 +1216,7 @@
   "full_name": "apache/commons-imaging",
   "url": "https://github.com/apache/commons-imaging",
   "sec_path": "SECURITY.md",
-  "stars": 487,
+  "stars": 488,
   "language": "Java",
   "description": "Apache Commons Imaging (previously Sanselan) is a pure-Java image library",
   "first_seen": "2026-11-01 18:03:32"
@@ -1227,7 +1227,7 @@
   "full_name": "apache/tomee",
   "url": "https://github.com/apache/tomee",
   "sec_path": "SECURITY.md",
-  "stars": 479,
+  "stars": 480,
   "language": "Java",
   "description": "Apache TomEE",
   "first_seen": "2026-11-01 18:03:32"
@@ -1238,7 +1238,7 @@
   "full_name": "apache/ant",
   "url": "https://github.com/apache/ant",
   "sec_path": "SECURITY.md",
-  "stars": 477,
+  "stars": 478,
   "language": "Java",
   "description": "Apache Ant is a Java-based build tool.",
   "first_seen": "2026-11-01 18:05:58"
@@ -1249,7 +1249,7 @@
   "full_name": "apache/nuttx-apps",
   "url": "https://github.com/apache/nuttx-apps",
   "sec_path": ".github/SECURITY.md",
-  "stars": 473,
+  "stars": 474,
   "language": "C",
   "description": "Apache NuttX Apps is a collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS",
   "first_seen": "2026-11-01 18:03:32"
@@ -1260,7 +1260,7 @@
   "full_name": "apache/maven-surefire",
   "url": "https://github.com/apache/maven-surefire",
   "sec_path": "SECURITY.md",
-  "stars": 464,
+  "stars": 465,
   "language": "Java",
   "description": "Apache Maven Surefire",
   "first_seen": "2026-11-01 18:03:32"
@@ -1271,7 +1271,7 @@
   "full_name": "apache/uniffle",
   "url": "https://github.com/apache/uniffle",
   "sec_path": "security.md",
-  "stars": 456,
+  "stars": 455,
   "language": "Java",
   "description": "Uniffle is a high performance, general purpose Remote Shuffle Service.",
   "first_seen": "2026-11-01 18:05:02"
@@ -1293,7 +1293,7 @@
   "full_name": "apache/jackrabbit-oak",
   "url": "https://github.com/apache/jackrabbit-oak",
   "sec_path": "SECURITY.md",
-  "stars": 414,
+  "stars": 415,
   "language": "Java",
   "description": "Apache Jackrabbit Oak",
   "first_seen": "2026-11-01 18:04:12"
@@ -1304,7 +1304,7 @@
   "full_name": "apache/commons-compress",
   "url": "https://github.com/apache/commons-compress",
   "sec_path": "SECURITY.md",
-  "stars": 409,
+  "stars": 410,
   "language": "Java",
   "description": "Apache Commons Compress",
   "first_seen": "2026-11-01 18:03:32"
@@ -1337,7 +1337,7 @@
   "full_name": "apache/unomi",
   "url": "https://github.com/apache/unomi",
   "sec_path": "SECURITY.md",
-  "stars": 381,
+  "stars": 382,
   "language": "Java",
   "description": "Apache Unomi",
   "first_seen": "2026-11-01 18:03:32"
@@ -1348,7 +1348,7 @@
   "full_name": "apache/commons-text",
   "url": "https://github.com/apache/commons-text",
   "sec_path": "SECURITY.md",
-  "stars": 379,
+  "stars": 380,
   "language": "Java",
   "description": "Apache Commons Text",
   "first_seen": "2026-11-01 18:03:32"
@@ -1367,6 +1367,17 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/jackrabbit",
+  "url": "https://github.com/apache/jackrabbit",
+  "sec_path": "SECURITY.md",
+  "stars": 368,
+  "language": "Java",
+  "description": "Apache Jackrabbit",
+  "first_seen": "2026-11-01 18:05:58"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/httpcomponents-core",
   "url": "https://github.com/apache/httpcomponents-core",
   "sec_path": "SECURITY.md",
@@ -1374,17 +1385,6 @@
   "language": "Java",
   "description": "Mirror of Apache HttpCore",
   "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/jackrabbit",
-  "url": "https://github.com/apache/jackrabbit",
-  "sec_path": "SECURITY.md",
-  "stars": 367,
-  "language": "Java",
-  "description": "Apache Jackrabbit",
-  "first_seen": "2026-11-01 18:05:58"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1403,7 +1403,7 @@
   "full_name": "apache/texera",
   "url": "https://github.com/apache/texera",
   "sec_path": "SECURITY.md",
-  "stars": 329,
+  "stars": 333,
   "language": "Scala",
   "description": "Human-AI Collaborative Data Science Using Visual Workflows",
   "first_seen": "2026-11-01 18:03:32"
@@ -1414,7 +1414,7 @@
   "full_name": "apache/spark-kubernetes-operator",
   "url": "https://github.com/apache/spark-kubernetes-operator",
   "sec_path": "SECURITY.md",
-  "stars": 327,
+  "stars": 328,
   "language": "Java",
   "description": "Apache Spark Kubernetes Operator",
   "first_seen": "2026-11-01 18:05:02"
@@ -1436,7 +1436,7 @@
   "full_name": "apache/camel-quarkus",
   "url": "https://github.com/apache/camel-quarkus",
   "sec_path": "SECURITY.md",
-  "stars": 304,
+  "stars": 305,
   "language": "Java",
   "description": "Apache Camel Quarkus",
   "first_seen": "2026-11-01 18:04:12"
@@ -1447,10 +1447,21 @@
   "full_name": "apache/commons-net",
   "url": "https://github.com/apache/commons-net",
   "sec_path": "SECURITY.md",
-  "stars": 298,
+  "stars": 297,
   "language": "Java",
   "description": "Apache Commons Net",
   "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/teaclave-trustzone-sdk",
+  "url": "https://github.com/apache/teaclave-trustzone-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 287,
+  "language": "Rust",
+  "description": "Teaclave TrustZone SDK enables safe, functional, and ergonomic development of trustlets.",
+  "first_seen": "2026-11-01 18:05:02"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1466,21 +1477,10 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/teaclave-trustzone-sdk",
-  "url": "https://github.com/apache/teaclave-trustzone-sdk",
-  "sec_path": "SECURITY.md",
-  "stars": 285,
-  "language": "Rust",
-  "description": "Teaclave TrustZone SDK enables safe, functional, and ergonomic development of trustlets.",
-  "first_seen": "2026-11-01 18:05:02"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/wayang",
   "url": "https://github.com/apache/wayang",
   "sec_path": "SECURITY.md",
-  "stars": 282,
+  "stars": 284,
   "language": "Java",
   "description": "Apache Wayang is the first cross-platform data processing system.",
   "first_seen": "2026-11-01 18:04:12"
@@ -1488,13 +1488,13 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/datasketches-cpp",
-  "url": "https://github.com/apache/datasketches-cpp",
+  "full_name": "apache/commons-bcel",
+  "url": "https://github.com/apache/commons-bcel",
   "sec_path": "SECURITY.md",
-  "stars": 273,
-  "language": "C++",
-  "description": "Core C++ Sketch Library",
-  "first_seen": "2026-11-01 18:04:12"
+  "stars": 272,
+  "language": "Java",
+  "description": "Apache Commons BCEL",
+  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1510,13 +1510,13 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/commons-bcel",
-  "url": "https://github.com/apache/commons-bcel",
+  "full_name": "apache/datasketches-cpp",
+  "url": "https://github.com/apache/datasketches-cpp",
   "sec_path": "SECURITY.md",
-  "stars": 271,
-  "language": "Java",
-  "description": "Apache Commons BCEL",
-  "first_seen": "2026-11-01 18:03:32"
+  "stars": 272,
+  "language": "C++",
+  "description": "Core C++ Sketch Library",
+  "first_seen": "2026-11-01 18:04:12"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1546,7 +1546,7 @@
   "full_name": "apache/maven-wrapper",
   "url": "https://github.com/apache/maven-wrapper",
   "sec_path": "SECURITY.md",
-  "stars": 254,
+  "stars": 253,
   "language": "Java",
   "description": "Apache Maven Wrapper",
   "first_seen": "2026-11-01 18:04:12"
@@ -1612,7 +1612,7 @@
   "full_name": "apache/tsfile",
   "url": "https://github.com/apache/tsfile",
   "sec_path": "SECURITY.md",
-  "stars": 210,
+  "stars": 211,
   "language": "Java",
   "description": "Apache TsFile",
   "first_seen": "2026-11-01 18:03:32"
@@ -1634,7 +1634,7 @@
   "full_name": "apache/pekko-http",
   "url": "https://github.com/apache/pekko-http",
   "sec_path": "SECURITY.md",
-  "stars": 198,
+  "stars": 199,
   "language": "Scala",
   "description": "The Streaming-first HTTP server/module of Apache Pekko",
   "first_seen": "2026-11-01 18:04:12"
@@ -1667,7 +1667,7 @@
   "full_name": "apache/directory-server",
   "url": "https://github.com/apache/directory-server",
   "sec_path": "SECURITY.md",
-  "stars": 188,
+  "stars": 189,
   "language": "Java",
   "description": "Apache Directory Server",
   "first_seen": "2026-11-01 18:05:02"
@@ -1752,13 +1752,14 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/commons-logging",
-  "url": "https://github.com/apache/commons-logging",
-  "sec_path": "SECURITY.md",
-  "stars": 170,
-  "language": "Java",
-  "description": "Apache Commons Logging",
-  "first_seen": "2026-11-01 18:03:32"
+  "full_name": "apache/resilientdb",
+  "url": "https://github.com/apache/resilientdb",
+  "sec_path": "Security.md",
+  "stars": 171,
+  "language": "C++",
+  "description": "Global-Scale Sustainable Blockchain Fabric",
+  "license": null,
+  "first_seen": "2026-11-04 04:02:54"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1785,14 +1786,13 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/resilientdb",
-  "url": "https://github.com/apache/resilientdb",
-  "sec_path": "Security.md",
-  "stars": 170,
-  "language": "C++",
-  "description": "Global-Scale Sustainable Blockchain Fabric",
-  "license": null,
-  "first_seen": "2026-11-04 04:02:54"
+  "full_name": "apache/commons-logging",
+  "url": "https://github.com/apache/commons-logging",
+  "sec_path": "SECURITY.md",
+  "stars": 169,
+  "language": "Java",
+  "description": "Apache Commons Logging",
+  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1800,7 +1800,7 @@
   "full_name": "apache/commons-exec",
   "url": "https://github.com/apache/commons-exec",
   "sec_path": "SECURITY.md",
-  "stars": 163,
+  "stars": 164,
   "language": "Java",
   "description": "Apache Commons Exec",
   "first_seen": "2026-11-01 18:03:32"
@@ -1819,6 +1819,17 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/maven-enforcer",
+  "url": "https://github.com/apache/maven-enforcer",
+  "sec_path": "SECURITY.md",
+  "stars": 163,
+  "language": "Java",
+  "description": "Apache Maven Enforcer (Plugin)",
+  "first_seen": "2026-11-01 18:04:12"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/directory-studio",
   "url": "https://github.com/apache/directory-studio",
   "sec_path": "SECURITY.md",
@@ -1826,17 +1837,6 @@
   "language": "Java",
   "description": "Apache Directory Studio",
   "first_seen": "2026-11-01 18:07:00"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/maven-enforcer",
-  "url": "https://github.com/apache/maven-enforcer",
-  "sec_path": "SECURITY.md",
-  "stars": 162,
-  "language": "Java",
-  "description": "Apache Maven Enforcer (Plugin)",
-  "first_seen": "2026-11-01 18:04:12"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1869,6 +1869,17 @@
   "stars": 147,
   "language": "Java",
   "description": "Apache Maven Archetype (Plugin)",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/magpie",
+  "url": "https://github.com/apache/magpie",
+  "sec_path": "SECURITY.md",
+  "stars": 145,
+  "language": "Python",
+  "description": "Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Drafting (agent-authored fixes with human review), and Pairing …",
   "first_seen": "2026-11-01 18:03:32"
  },
  {
@@ -1907,17 +1918,6 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/magpie",
-  "url": "https://github.com/apache/magpie",
-  "sec_path": "SECURITY.md",
-  "stars": 137,
-  "language": "Python",
-  "description": "Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Drafting (agent-authored fixes with human review), and Pairing …",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/commons-crypto",
   "url": "https://github.com/apache/commons-crypto",
   "sec_path": "SECURITY.md",
@@ -1943,7 +1943,7 @@
   "full_name": "apache/avro-rs",
   "url": "https://github.com/apache/avro-rs",
   "sec_path": "SECURITY.md",
-  "stars": 131,
+  "stars": 132,
   "language": "Rust",
   "description": "Rust SDK for Apache Avro - a data serialization system.",
   "first_seen": "2026-11-01 18:04:12"
@@ -1998,7 +1998,7 @@
   "full_name": "apache/jspwiki",
   "url": "https://github.com/apache/jspwiki",
   "sec_path": "SECURITY.md",
-  "stars": 117,
+  "stars": 118,
   "language": "Java",
   "description": "Apache JSPWiki is a leading open source WikiWiki engine, feature-rich and built around standard JEE components (Java, servlets, JSP)",
   "first_seen": "2026-11-01 18:05:02"
@@ -2053,7 +2053,7 @@
   "full_name": "apache/directory-scimple",
   "url": "https://github.com/apache/directory-scimple",
   "sec_path": "SECURITY.md",
-  "stars": 104,
+  "stars": 106,
   "language": "Java",
   "description": "Apache Directory - SCIMple",
   "first_seen": "2026-11-01 18:05:02"
@@ -2086,7 +2086,7 @@
   "full_name": "apache/maven-clean-plugin",
   "url": "https://github.com/apache/maven-clean-plugin",
   "sec_path": "SECURITY.md",
-  "stars": 95,
+  "stars": 96,
   "language": "Java",
   "description": "Apache Maven Clean Plugin",
   "first_seen": "2026-11-01 18:04:12"
@@ -2160,6 +2160,18 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/commons-chain",
+  "url": "https://github.com/apache/commons-chain",
+  "sec_path": "SECURITY.md",
+  "stars": 82,
+  "language": "Java",
+  "description": "Apache Commons Chain (Dormant)",
+  "license": null,
+  "first_seen": "2026-11-13 11:37:58"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/camel-website",
   "url": "https://github.com/apache/camel-website",
   "sec_path": "SECURITY.md",
@@ -2226,23 +2238,23 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/commons-scxml",
+  "url": "https://github.com/apache/commons-scxml",
+  "sec_path": "SECURITY.md",
+  "stars": 69,
+  "language": "Java",
+  "description": "Apache Commons SCXML",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/commons-statistics",
   "url": "https://github.com/apache/commons-statistics",
   "sec_path": "SECURITY.md",
   "stars": 68,
   "language": "Java",
   "description": "Apache Commons Statistics",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/commons-scxml",
-  "url": "https://github.com/apache/commons-scxml",
-  "sec_path": "SECURITY.md",
-  "stars": 68,
-  "language": "Java",
-  "description": "Apache Commons SCXML",
   "first_seen": "2026-11-01 18:03:32"
  },
  {
@@ -2270,23 +2282,23 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/cassandra-sidecar",
+  "url": "https://github.com/apache/cassandra-sidecar",
+  "sec_path": "SECURITY.md",
+  "stars": 64,
+  "language": "Java",
+  "description": "Sidecar for Apache Cassandra®",
+  "first_seen": "2026-11-01 18:05:02"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/poi-xmlbeans",
   "url": "https://github.com/apache/poi-xmlbeans",
   "sec_path": "SECURITY.md",
   "stars": 64,
   "language": "Java",
   "description": "Mirror of Apache XMLBeans gitbox.",
-  "first_seen": "2026-11-01 18:05:02"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/cassandra-sidecar",
-  "url": "https://github.com/apache/cassandra-sidecar",
-  "sec_path": "SECURITY.md",
-  "stars": 63,
-  "language": "Java",
-  "description": "Sidecar for Apache Cassandra®",
   "first_seen": "2026-11-01 18:05:02"
  },
  {
@@ -2380,6 +2392,17 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/spark-connect-rust",
+  "url": "https://github.com/apache/spark-connect-rust",
+  "sec_path": "SECURITY.md",
+  "stars": 52,
+  "language": "Python",
+  "description": "Apache Spark Connect Client for Rust (Rust core + Python wrapper)",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/cloudstack-kubernetes-provider",
   "url": "https://github.com/apache/cloudstack-kubernetes-provider",
   "sec_path": "SECURITY.md",
@@ -2387,17 +2410,6 @@
   "language": "Go",
   "description": "Apache Cloudstack Kubernetes Provider",
   "first_seen": "2026-11-01 18:05:02"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/spark-connect-rust",
-  "url": "https://github.com/apache/spark-connect-rust",
-  "sec_path": "SECURITY.md",
-  "stars": 49,
-  "language": "Python",
-  "description": "Apache Spark Connect Client for Rust (Rust core + Python wrapper)",
-  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -2721,6 +2733,18 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/commons-functor",
+  "url": "https://github.com/apache/commons-functor",
+  "sec_path": "SECURITY.md",
+  "stars": 27,
+  "language": "Java",
+  "description": "Apache Commons Functor (Dormant)",
+  "license": null,
+  "first_seen": "2026-11-13 11:37:58"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/commons-jelly",
   "url": "https://github.com/apache/commons-jelly",
   "sec_path": "SECURITY.md",
@@ -2768,7 +2792,7 @@
   "full_name": "apache/fineract-backoffice-ui",
   "url": "https://github.com/apache/fineract-backoffice-ui",
   "sec_path": "security.md",
-  "stars": 21,
+  "stars": 22,
   "language": "TypeScript",
   "description": "Angular back-office UI for Apache Fineract, the open-source core banking platform",
   "first_seen": "2026-11-01 18:03:32"
@@ -2779,7 +2803,7 @@
   "full_name": "apache/solr-mcp",
   "url": "https://github.com/apache/solr-mcp",
   "sec_path": "SECURITY.md",
-  "stars": 21,
+  "stars": 22,
   "language": "Java",
   "description": "Solr MCP Server",
   "first_seen": "2026-11-01 18:05:02"
@@ -2831,6 +2855,17 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/maven-remote-resources-plugin",
+  "url": "https://github.com/apache/maven-remote-resources-plugin",
+  "sec_path": "SECURITY.md",
+  "stars": 17,
+  "language": "Java",
+  "description": "Apache Maven Remote Resources Plugin",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/pulsar-java-contrib",
   "url": "https://github.com/apache/pulsar-java-contrib",
   "sec_path": "SECURITY.md",
@@ -2838,17 +2873,6 @@
   "language": "Java",
   "description": "Contributor repository for code samples, plugins and libraries in Java for Apache Pulsar",
   "first_seen": "2026-11-01 18:07:00"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/maven-remote-resources-plugin",
-  "url": "https://github.com/apache/maven-remote-resources-plugin",
-  "sec_path": "SECURITY.md",
-  "stars": 16,
-  "language": "Java",
-  "description": "Apache Maven Remote Resources Plugin",
-  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -2864,6 +2888,28 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/cloudberry-pxf",
+  "url": "https://github.com/apache/cloudberry-pxf",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "Java",
+  "description": "Platform Extension Framework (PXF) for Apache Cloudberry (Incubating)",
+  "first_seen": "2026-11-01 18:05:02"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/fineract-loan-origination",
+  "url": "https://github.com/apache/fineract-loan-origination",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "Java",
+  "description": "Apache fineract",
+  "first_seen": "2026-11-01 18:03:32"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/maven-resolver-ant-tasks",
   "url": "https://github.com/apache/maven-resolver-ant-tasks",
   "sec_path": "SECURITY.md",
@@ -2871,17 +2917,6 @@
   "language": "Java",
   "description": "Apache Maven Artifact Resolver Ant Tasks",
   "first_seen": "2026-11-01 18:04:12"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/cloudberry-pxf",
-  "url": "https://github.com/apache/cloudberry-pxf",
-  "sec_path": "SECURITY.md",
-  "stars": 13,
-  "language": "Java",
-  "description": "Platform Extension Framework (PXF) for Apache Cloudberry (Incubating)",
-  "first_seen": "2026-11-01 18:05:02"
  },
  {
   "vendor": "Apache软件基金会",
@@ -2952,17 +2987,6 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/fineract-loan-origination",
-  "url": "https://github.com/apache/fineract-loan-origination",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": "Java",
-  "description": "Apache fineract",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/commons-skin",
   "url": "https://github.com/apache/commons-skin",
   "sec_path": "SECURITY.md",
@@ -2992,6 +3016,17 @@
   "language": "Java",
   "description": "Apache NiFi API",
   "first_seen": "2026-11-01 18:05:02"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/fineract-business-intelligence",
+  "url": "https://github.com/apache/fineract-business-intelligence",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Python",
+  "description": "Apache fineract",
+  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -3040,17 +3075,6 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/fineract-business-intelligence",
-  "url": "https://github.com/apache/fineract-business-intelligence",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "Apache fineract",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/maven-acr-plugin",
   "url": "https://github.com/apache/maven-acr-plugin",
   "sec_path": "SECURITY.md",
@@ -3069,6 +3093,29 @@
   "language": "JavaScript",
   "description": "Apache unomi",
   "first_seen": "2026-11-01 18:05:02"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/bifromq-tenon",
+  "url": "https://github.com/apache/bifromq-tenon",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Rust",
+  "description": "Apache BifroMQ Tenon is a satellite project of Apache BifroMQ (Incubating), connecting external systems through typed plugins and Lua data processing.",
+  "first_seen": "2026-11-01 18:05:58"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/iggy-connectors",
+  "url": "https://github.com/apache/iggy-connectors",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Rust",
+  "description": "Apache Iggy Connectors: move data between Apache Iggy streams and external systems",
+  "license": null,
+  "first_seen": "2026-11-13 11:37:58"
  },
  {
   "vendor": "Apache软件基金会",
@@ -3117,17 +3164,6 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/bifromq-tenon",
-  "url": "https://github.com/apache/bifromq-tenon",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "Rust",
-  "description": "Apache BifroMQ Tenon is a satellite project of Apache BifroMQ (Incubating), connecting external systems through typed plugins and Lua data processing.",
-  "first_seen": "2026-11-01 18:05:58"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/ozone-docker-testkrb5",
   "url": "https://github.com/apache/ozone-docker-testkrb5",
   "sec_path": "SECURITY.md",
@@ -3161,6 +3197,18 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/pulsar-spring",
+  "url": "https://github.com/apache/pulsar-spring",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Java",
+  "description": "Apache Pulsar support for Spring",
+  "license": null,
+  "first_seen": "2026-11-05 04:05:26"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/grails-micronaut",
   "url": "https://github.com/apache/grails-micronaut",
   "sec_path": "SECURITY.md",
@@ -3168,17 +3216,5 @@
   "language": "Groovy",
   "description": "Apache Grails Micronaut integration",
   "first_seen": "2026-11-01 18:05:02"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/pulsar-spring",
-  "url": "https://github.com/apache/pulsar-spring",
-  "sec_path": "SECURITY.md",
-  "stars": 0,
-  "language": "Java",
-  "description": "Apache Pulsar support for Spring",
-  "license": null,
-  "first_seen": "2026-11-05 04:05:26"
  }
 ]
