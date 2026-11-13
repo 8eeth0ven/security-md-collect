@@ -2,19 +2,20 @@
 
 ---
 
-你接手一个「大厂开源 SECURITY.MD 情报库」的分析任务。库的位置：`./`，内容是国内外 200+ 大厂（判定标准：有 HackerOne / Bugcrowd / 国内主流 SRC 计划的一律收录，另有科技/云/安全/AI 大厂与 Apache、CNCF 基金会）在 GitHub 上**带 SECURITY.md 的开源仓库**，含仓库地址、星数、语言、SECURITY.md 原文。
+你接手一个「大厂开源 SECURITY.MD 情报库」的分析任务。库的位置：`./`，内容是国内外 200+ 大厂（判定标准：有 HackerOne / Bugcrowd / 国内主流 SRC 计划的一律收录，另有科技/云/安全/AI 大厂与 Apache、CNCF 基金会）在 GitHub 上**带 SECURITY.md 的开源仓库**，含仓库地址、星数、语言、SECURITY.md 原文。另含 **赏金APK 分类**：四大赏金平台（Bugcrowd / YesWeHack / HackerOne / Intigriti）公开赏金项目的 Android APK 目标清单（包名 + APKPure 直下链 + Play 页）。
 
 ## 一、先看这三个索引（30 秒了解全库）
 
 1. `索引\统计.json` — 总量、每厂商收录数、运行模式
 2. `索引\last_run.json` — 最近一轮收集时间/新增数/失败组织
-3. 用浏览器或 WebFetch 打开看板 <<本机看板地址>/>（局域网内用 <局域网看板地址>/），可搜索全部仓库
+3. 用浏览器或 WebFetch 打开看板 <<本机看板地址>/>（局域网内用 <局域网看板地址>/），可搜索全部仓库；赏金 APK 在线看板：<https://8eeth0ven.github.io/security-md-collect/>（首页导航「赏金APK看板」）
 
 ## 二、按需读数据
 
 - 全量仓库表（Excel/表格工具）：`索引\总表.csv`（列：厂商/SRC/组织/仓库/链接/星数/语言/SECURITY.md/描述）
 - 某厂商：`厂商\{厂商名}\清单.md`（人读）与 `厂商\{厂商名}\repos.json`（机读）
 - 某仓库安全策略原文：`厂商\{厂商名}\{owner}__{repo}\SECURITY.md`
+- 赏金 APK：`赏金APK\赏金APK看板.html`（人读看板）、`赏金APK\{平台}_android.json` / `apk_final.json`（机读，字段：平台/项目/赏金/目标/包名/直下链）、`赏金APK\README.md`（分类说明）
 - 结构化场景直接用 python 读 JSON，不要让我贴大段内容
 
 ## 三、要并行分析时（强制做法）
