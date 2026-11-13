@@ -742,13 +742,22 @@ def write_index_html(stats, state):
             "<td><a href='/%s/清单.md'>清单</a> <a href='/%s/'>浏览</a> <a href='/%s/repos.json'>JSON</a></td></tr>"
             % (H.escape(v["vendor"]), H.escape(v.get("src") or "-"), v["sec_repos"],
                safe, safe, safe))
-    repos_js = json.dumps(
-        [{"v": r.get("vendor"), "f": r["full_name"], "s": r.get("stars"),
-          "l": r.get("language"), "p": r.get("sec_path"),
-          "loc": "/%s/%s/SECURITY.md" % (quote(safe_name(r.get("vendor") or r["org"])),
-                                         quote(r["full_name"].replace("/", "__")))}
-         for r in state["repos_data"].values()],
-        ensure_ascii=False).replace("</", "<\\/")
+    vsrc = {v["vendor"]: (v.get("src") or "") for v in stats["vendors"]}
+    repos = []
+    for r in state["repos_data"].values():
+        desc = (r.get("description") or "")
+        if len(desc) > 90:
+            desc = desc[:90] + "…"
+        repos.append({
+            "v": r.get("vendor") or r["org"], "f": r["full_name"], "o": r["org"],
+            "src": vsrc.get(r.get("vendor") or "", ""),
+            "s": r.get("stars"), "l": r.get("language") or "",
+            "lic": r.get("license") or "",
+            "d": desc,
+            "loc": "/%s/%s/SECURITY.md" % (quote(safe_name(r.get("vendor") or r["org"])),
+                                           quote(r["full_name"].replace("/", "__"))),
+        })
+    repos_js = json.dumps(repos, ensure_ascii=False).replace("</", "<\\/")
     html = """<!DOCTYPE html><html lang=zh><head><meta charset=utf-8>
 <title>大厂开源 SECURITY.MD 收集看板</title><meta name=viewport content="width=device-width,initial-scale=1">
 <style>
@@ -758,11 +767,17 @@ h1{font-size:22px;margin:0 0 4px}.sub{color:#8b949e;margin-bottom:18px}
 .cards{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:18px}
 .card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 18px;min-width:130px}
 .card b{display:block;font-size:24px;color:#58a6ff}
-input{width:340px;padding:8px 12px;background:#0d1117;color:#c9d1d9;border:1px solid #30363d;border-radius:6px;margin-bottom:12px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.bar input{width:300px;padding:7px 12px;background:#0d1117;color:#c9d1d9;border:1px solid #30363d;border-radius:6px}
+.bar select{padding:7px 10px;background:#0d1117;color:#c9d1d9;border:1px solid #30363d;border-radius:6px;max-width:200px}
+.bar button{padding:7px 14px;background:#21262d;color:#c9d1d9;border:1px solid #30363d;border-radius:6px;cursor:pointer}
+.cnt{color:#8b949e;font-size:13px;margin-left:auto}
 table{border-collapse:collapse;width:100%%;margin-bottom:26px}
 th,td{border:1px solid #21262d;padding:5px 10px;text-align:left}
 th{background:#161b22;position:sticky;top:0}.m{text-align:right}
+th[data-k]{cursor:pointer;user-select:none;white-space:nowrap}
 tr:hover td{background:#161b22}
+td.d{color:#8b949e;font-size:12px;max-width:360px}
 .warn{color:#d29922;font-size:13px;margin:8px 0}
 </style></head><body>
 <h1>大厂开源项目 SECURITY.MD 收集看板</h1>
@@ -775,19 +790,46 @@ tr:hover td{background:#161b22}
 <div class=card><b>%(nn)d</b>已排除(无SEC)</div>
 </div>
 %(failed_note)s
-<input id=q placeholder="搜索：厂商 / 仓库 / 语言 …（本表共 REPOCOUNT 条）">
-<table id=t><thead><tr><th>厂商</th><th>仓库（GitHub 项目页）</th><th>星</th><th>语言</th><th>SECURITY.md 本地文本</th><th>在线打开</th></tr></thead><tbody id=b></tbody></table>
+<div class=bar>
+<input id=q placeholder="搜索：厂商 / 仓库 / 语言 / License / 描述 …">
+<select id=fv><option value="">厂商：全部</option></select>
+<select id=fl><option value="">语言：全部</option></select>
+<select id=fs><option value="">SRC：全部</option></select>
+<button id=rst type=button>重置</button>
+<span id=cnt class=cnt></span>
+</div>
+<table id=t><thead><tr>
+<th data-k=f>仓库（GitHub 项目页）</th><th data-k=v>厂商</th><th data-k=src>SRC</th>
+<th data-k=s>星数</th><th data-k=l>语言</th><th data-k=lic>License</th>
+<th>SECURITY.md 本地文本</th><th data-k=d>描述</th>
+</tr></thead><tbody id=b></tbody></table>
 <h3>厂商汇总</h3>
 <table><thead><tr><th>厂商</th><th>SRC</th><th>收录数</th><th>入口</th></tr></thead><tbody>%(rows)s</tbody></table>
 <script>
 const REPOS=%(repos)s;
-const b=document.getElementById('b');
-function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
-function render(){const q=document.getElementById('q').value.trim().toLowerCase();
-let h='';for(const r of REPOS){if(q){const s=(r.v+' '+r.f+' '+r.l).toLowerCase();if(!s.includes(q))continue}
-h+=`<tr><td>${esc(r.v)}</td><td>${esc(r.f)}</td><td class=m>${r.s??'-'}</td><td>${esc(r.l??'-')}</td><td><a href="${r.loc}">SECURITY.md</a></td><td><a href="https://github.com/${r.f}">打开</a></td></tr>`}
-b.innerHTML=h}
-document.getElementById('q').oninput=render;render();
+let F={q:'',v:'',l:'',src:''}, SK='s', SD=-1; const CAP=2000;
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+const nrm=s=>(s==null?'':String(s)).toLowerCase();
+function fill(id,key){const sel=document.getElementById(id);const vals=[...new Set(REPOS.map(r=>r[key]).filter(x=>x))].sort((a,b)=>a.localeCompare(b,'zh'));sel.innerHTML='<option value="">'+sel.options[0].text+'</option>'+vals.map(x=>'<option>'+esc(x)+'</option>').join('')}
+fill('fv','v');fill('fl','l');fill('fs','src');
+function cur(){let a=REPOS;
+if(F.v)a=a.filter(r=>r.v===F.v);
+if(F.l)a=a.filter(r=>r.l===F.l);
+if(F.src)a=a.filter(r=>(r.src||'')===F.src);
+if(F.q){const q=F.q;a=a.filter(r=>(r.v+' '+r.f+' '+r.l+' '+r.src+' '+r.lic+' '+r.d).toLowerCase().includes(q))}
+a.sort((x,y)=>{if(SK==='s'){const a=x.s==null?-1:x.s,b=y.s==null?-1:y.s;return (a-b)*SD}
+const a=nrm(x[SK]),b=nrm(y[SK]);return a<b?-SD:a>b?SD:0});return a}
+function render(){const a=cur();
+const head=a.slice(0,CAP).map(r=>'<tr><td><a href="https://github.com/'+esc(r.f)+'">'+esc(r.f)+'</a></td><td>'+esc(r.v)+'</td><td>'+esc(r.src||'-')+'</td><td class=m>'+(r.s==null?'-':r.s)+'</td><td>'+esc(r.l||'-')+'</td><td>'+esc(r.lic||'-')+'</td><td><a href="'+r.loc+'">SECURITY.md</a></td><td class=d>'+esc(r.d||'')+'</td></tr>').join('');
+document.getElementById('b').innerHTML=head||'<tr><td colspan=8>无匹配结果</td></tr>';
+document.getElementById('cnt').textContent='显示 '+Math.min(a.length,CAP)+' / 共 '+a.length+' 条（点击表头排序）';
+document.querySelectorAll('#t th[data-k]').forEach(th=>{const base=th.dataset.base||(th.dataset.base=th.textContent);th.textContent=base+(th.dataset.k===SK?(SD===1?' ▲':' ▼'):'')});
+}
+document.getElementById('q').oninput=e=>{F.q=e.target.value.trim().toLowerCase();render()};
+[['fv','v'],['fl','l'],['fs','src']].forEach(p=>{document.getElementById(p[0]).onchange=e=>{F[p[1]]=e.target.value;render()}});
+document.getElementById('rst').onclick=()=>{F={q:'',v:'',l:'',src:''};document.getElementById('q').value='';['fv','fl','fs'].forEach(id=>document.getElementById(id).value='');render()};
+document.querySelectorAll('#t th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(SK===k)SD*=-1;else{SK=k;SD=(k==='s')?-1:1}render()});
+render();
 </script></body></html>""" % {
         "mode": H.escape(stats.get("mode") or ""),
         "t": H.escape(stats["generated_at"]),
@@ -798,7 +840,6 @@ document.getElementById('q').oninput=render;render();
         "failed_note": ("<div class=warn>待重试组织（列表抓取失败，每轮自动重试）：%s</div>"
                         % H.escape("、".join(stats["orgs_failed"][:40]))) if stats["orgs_failed"] else "",
     }
-    html = html.replace("REPOCOUNT", "{:,}".format(len(state["repos_data"])))
     (INDEX / "index.html").write_text(html, encoding="utf-8")
 
 
