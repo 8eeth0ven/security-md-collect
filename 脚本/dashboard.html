@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="检索国内外厂商开源仓库的 SECURITY.md 安全策略、漏洞上报入口与公开数据快照。"
+    />
+    <meta name="theme-color" content="#101918" />
+    <meta
+      property="og:title"
+      content="SECURITY.md Collect · 开源安全策略索引"
+    />
+    <meta
+      property="og:description"
+      content="从开源项目，找到安全上报入口。公开策略原文、厂商索引与可复用的数据快照。"
+    />
+    <meta
+      property="og:image"
+      content="https://8eeth0ven.github.io/security-md-collect/docs/assets/cover.png"
+    />
+    <title>SECURITY.md Collect · 开源安全策略索引</title>
+    <link rel="icon" type="image/svg+xml" href="./web/mark.svg" />
+    <link rel="stylesheet" href="./web/dashboard.css" />
+    <script src="./web/dashboard.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#catalog" data-i18n="skip">跳到仓库目录</a>
+    <aside class="sidebar">
+      <a class="brand" href="./index.html" aria-label="SECURITY.md Collect home"
+        ><img src="./web/mark.svg" width="36" height="36" alt="" /><span
+          >SECURITY.md<small>COLLECT / 开源安全索引</small></span
+        ></a
+      >
+      <div class="nav-caption" data-i18n="workspace">探索数据</div>
+      <nav aria-label="Main navigation">
+        <a class="nav-item active" href="#catalog"
+          ><span aria-hidden="true">▦</span
+          ><span data-i18n="catalog">策略仓库</span
+          ><span class="nav-pill" id="nav-count">—</span></a
+        >
+        <a class="nav-item" href="#vendors"
+          ><span aria-hidden="true">◇</span
+          ><span data-i18n="vendors">厂商目录</span></a
+        >
+        <a class="nav-item" href="./赏金APK/赏金APK看板.html"
+          ><span aria-hidden="true">▤</span
+          ><span data-i18n="apk">赏金 APK 清单</span
+          ><span class="outbound" aria-hidden="true">↗</span></a
+        >
+      </nav>
+      <div class="nav-caption" data-i18n="resources">项目资源</div>
+      <nav aria-label="Project resources">
+        <a
+          class="nav-item"
+          href="https://github.com/8eeth0ven/security-md-collect#readme"
+          ><span aria-hidden="true">≡</span
+          ><span data-i18n="guide">使用文档</span
+          ><span class="outbound" aria-hidden="true">↗</span></a
+        >
+        <a
+          class="nav-item"
+          href="https://github.com/8eeth0ven/security-md-collect"
+          ><span aria-hidden="true">⌘</span><span>GitHub</span
+          ><span class="outbound" aria-hidden="true">↗</span></a
+        >
+      </nav>
+      <div class="sidebar-note">
+        <span class="status-dot"></span
+        ><b data-i18n="publicData">公开数据，可追溯来源</b>
+        <p data-i18n="sideNote">
+          安全策略原文与结构化索引，为你的研究提供起点。
+        </p>
+        <a href="./索引/统计.json" data-i18n="viewStats">查看统计快照 ↗</a>
+      </div>
+      <div class="sidebar-bottom">OPEN DATA · OPEN SOURCE</div>
+    </aside>
+    <div class="page">
+      <header class="topbar">
+        <div class="breadcrumb">
+          <span>COLLECTION</span><span>/</span><b data-i18n="overview">总览</b>
+        </div>
+        <div class="top-actions">
+          <span class="public-label"
+            ><span class="status-dot"></span>PUBLIC INDEX</span
+          ><button id="langbtn" type="button" aria-label="Switch to English">
+            EN / 中文
+          </button>
+        </div>
+      </header>
+      <main>
+        <section class="hero" aria-labelledby="hero-title">
+          <div class="hero-copy">
+            <div class="eyebrow">
+              <span class="line"></span> THE SECURITY POLICY DIRECTORY
+            </div>
+            <h1 id="hero-title" data-i18n="headline">
+              从开源项目，<br /><span>找到安全上报入口。</span>
+            </h1>
+            <p data-i18n="intro">
+              聚合国内外厂商的 SECURITY.md 安全策略。<br />搜索仓库、阅读原文，让每一次研究都有据可循。
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#catalog"
+                ><span data-i18n="explore">探索策略仓库</span
+                ><span aria-hidden="true">↓</span></a
+              ><a class="button secondary" href="./索引/总表.csv" download
+                ><span data-i18n="download">下载全量 CSV</span
+                ><span aria-hidden="true">↗</span></a
+              >
+            </div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="art-grid"></div>
+            <div class="orbit orbit-one"></div>
+            <div class="orbit orbit-two"></div>
+            <span class="art-tag tag-one">public / repositories</span>
+            <div class="policy-card">
+              <span class="file-tab">.md</span
+              ><img src="./web/mark.svg" width="48" height="48" alt="" /><b
+                >SECURITY.md</b
+              ><span>Security starts with a policy.</span>
+              <div class="code-line long"></div>
+              <div class="code-line"></div>
+              <div class="code-line short"></div>
+              <div class="policy-bottom">
+                <span class="status-dot"></span> SOURCE INDEXED <span>↗</span>
+              </div>
+            </div>
+            <span class="art-tag tag-two"
+              ><span class="status-dot"></span> OPEN SOURCE POLICIES</span
+            >
+          </div>
+        </section>
+        <section class="metrics" aria-label="Collection statistics">
+          <article>
+            <div>
+              <span data-i18n="repoMetric">安全策略仓库</span
+              ><span class="metric-icon">↗</span>
+            </div>
+            <strong id="metric-repos">—</strong
+            ><small data-i18n="repoHint">收录 SECURITY.md 的开源项目</small>
+          </article>
+          <article>
+            <div>
+              <span data-i18n="vendorMetric">收录厂商</span
+              ><span class="metric-icon">◇</span>
+            </div>
+            <strong id="metric-vendors">—</strong
+            ><small data-i18n="vendorHint">科技公司、社区与开源基金会</small>
+          </article>
+          <article>
+            <div>
+              <span data-i18n="orgMetric">GitHub 组织</span
+              ><span class="metric-icon">⌘</span>
+            </div>
+            <strong id="metric-orgs">—</strong
+            ><small id="metric-swept">—</small>
+          </article>
+          <article class="update-card">
+            <div>
+              <span data-i18n="snapshot">快照更新时间</span
+              ><span class="metric-icon">◷</span>
+            </div>
+            <strong id="metric-date">—</strong><small id="metric-time">—</small>
+          </article>
+        </section>
+        <div class="scope-note">
+          <span class="note-icon" aria-hidden="true">i</span
+          ><span data-i18n="scopeNote"
+            >收录安全策略不代表仓库在赏金范围内。研究前，请以厂商当前的官方范围与规则为准。</span
+          >
+        </div>
+        <section
+          class="catalog-section"
+          id="catalog"
+          aria-labelledby="catalog-title"
+        >
+          <div class="section-heading">
+            <div>
+              <div class="eyebrow">POLICY EXPLORER</div>
+              <h2 id="catalog-title" data-i18n="catalog">策略仓库</h2>
+            </div>
+            <a href="./索引/dashboard.json" class="text-link" data-i18n="json"
+              >获取 JSON 数据 ↗</a
+            >
+          </div>
+          <div class="filter-panel">
+            <label class="search"
+              ><span aria-hidden="true">⌕</span
+              ><input
+                id="q"
+                type="search"
+                autocomplete="off"
+                data-placeholder="search"
+                placeholder="搜索仓库、厂商、语言或描述…"
+              /><kbd>/</kbd></label
+            >
+            <div class="filter-row">
+              <label
+                ><span data-i18n="vendorLabel">厂商</span
+                ><select id="fv" aria-label="厂商 / Vendor"></select></label
+              ><label
+                ><span data-i18n="languageLabel">语言</span
+                ><select id="fl" aria-label="语言 / Language"></select></label
+              ><label class="src-filter"
+                ><span>SRC</span
+                ><select id="fs" aria-label="SRC"></select></label
+              ><button class="reset" id="reset" type="button" data-i18n="reset">
+                重置筛选
+              </button>
+            </div>
+          </div>
+          <div class="results-bar">
+            <span
+              id="result-count"
+              role="status"
+              aria-live="polite"
+              data-i18n="loading"
+              >正在加载公开数据…</span
+            ><label class="page-size"
+              ><span data-i18n="pageSize">每页</span
+              ><select id="page-size" aria-label="每页条数 / Results per page">
+                <option>25</option>
+                <option>50</option>
+                <option>100</option>
+              </select></label
+            >
+          </div>
+          <div id="error" class="error-panel" hidden>
+            <b data-i18n="errorTitle">暂时无法加载数据</b>
+            <p data-i18n="errorBody">
+              请通过 HTTP 服务打开看板，或稍后重试。你也可以直接下载 CSV。
+            </p>
+            <button id="retry" type="button" data-i18n="retry">重新加载</button>
+          </div>
+          <div class="table-wrap">
+            <table id="repos-table">
+              <thead>
+                <tr>
+                  <th data-sort="f">
+                    <button type="button" data-i18n="repoColumn">
+                      仓库 / 安全策略
+                    </button>
+                  </th>
+                  <th data-sort="v">
+                    <button type="button" data-i18n="vendorLabel">厂商</button>
+                  </th>
+                  <th data-sort="l">
+                    <button type="button" data-i18n="languageLabel">
+                      语言
+                    </button>
+                  </th>
+                  <th data-sort="s" class="stars">
+                    <button type="button" data-i18n="stars">星数</button>
+                  </th>
+                  <th data-i18n="policy">策略原文</th>
+                </tr>
+              </thead>
+              <tbody id="results"></tbody>
+            </table>
+          </div>
+          <div class="pagination">
+            <span id="page-info"></span>
+            <div>
+              <button id="first" type="button" data-i18n="first" disabled>
+                首页</button
+              ><button id="prev" type="button" data-i18n="prev" disabled>
+                上一页</button
+              ><span id="page-number">—</span
+              ><button id="next" type="button" data-i18n="next" disabled>
+                下一页</button
+              ><button id="last" type="button" data-i18n="last" disabled>
+                末页
+              </button>
+            </div>
+          </div>
+          <div id="retry-note" class="retry-note" hidden></div>
+        </section>
+        <section class="vendors-section" id="vendors">
+          <details>
+            <summary>
+              <div>
+                <span class="eyebrow">VENDOR DIRECTORY</span>
+                <h2 data-i18n="vendors">厂商目录</h2>
+              </div>
+              <span data-i18n="expand">展开目录 +</span>
+            </summary>
+            <p class="muted" data-i18n="vendorIntro">
+              按收录数排列。可筛选仓库或查看厂商数据。
+            </p>
+            <div id="vendor-grid" class="vendor-grid"></div>
+          </details>
+        </section>
+        <footer>
+          <a
+            class="footer-brand"
+            href="https://github.com/8eeth0ven/security-md-collect"
+            >SECURITY.md <span>COLLECT</span></a
+          ><span data-i18n="footer">公开策略索引 · 原文版权归各仓库所有者</span
+          ><a
+            href="https://github.com/8eeth0ven/security-md-collect/blob/main/CONTRIBUTING.md"
+            data-i18n="contribute"
+            >参与维护 ↗</a
+          >
+        </footer>
+        <noscript
+          ><p>
+            此看板需要 JavaScript。可直接浏览
+            <a href="./索引/总表.csv">CSV 总表</a> 和
+            <a
+              href="https://github.com/8eeth0ven/security-md-collect/tree/main/厂商"
+              >厂商目录</a
+            >。
+          </p></noscript
+        >
+      </main>
+    </div>
+  </body>
+</html>

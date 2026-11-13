@@ -2,10 +2,10 @@
 """大厂开源项目 SECURITY.MD 收集器（由每 30 分钟的定时任务调用）
 
 模式自动选择:
-  search : 有 GitHub token（env GH_TOKEN/GITHUB_TOKEN、~/.git-credentials、资产/.gh_token）
+  search : 有 GitHub token（env GH_TOKEN/GITHUB_TOKEN、资产/.gh_token）
            -> /search/code 按 org 一把查出全部 SECURITY.md，最快
   html   : 无 token -> 抓 github.com 仓库列表页 + raw.githubusercontent 探测 SECURITY.md
-           （github.com 网页与 raw 走本机代理 127.0.0.1:7897，api.github.com 走直连）
+           （代理可通过 SECMD_PROXY 或 config.json 显式配置，默认校验 TLS）
 
 断点续跑: 索引/state.json + 索引/orgs/{org}.json（仓库元数据缓存）
 进程锁  : 脚本/collect.lock（2 小时内的锁视为存活，防止定时任务叠加并发）
@@ -25,11 +25,8 @@ from pathlib import Path
 from urllib.parse import quote
 
 import requests
-import urllib3
 
-urllib3.disable_warnings()
-
-BASE = Path(os.environ.get("SECMD_BASE") or (Path.home() / "Desktop" / "大厂开源SECURITY_MD收集"))
+BASE = Path(os.environ.get("SECMD_BASE") or (Path(__file__).resolve().parents[1]))
 SCRIPTS = BASE / "脚本"
 ASSETS = BASE / "资产"
 INDEX = BASE / "索引"
@@ -40,7 +37,7 @@ LOCK_PATH = SCRIPTS / "collect.lock"
 META_DIR = INDEX / "orgs"
 
 DEFAULT_CFG = {
-    "proxy": "http://127.0.0.1:7897",
+    "proxy": "",
     "port": 8899,
     "threads_probe": 12,
     "threads_download": 12,
@@ -55,7 +52,7 @@ try:
 except Exception:
     pass
 CFG = DEFAULT_CFG
-PROXY = CFG["proxy"]
+PROXY = os.environ.get("SECMD_PROXY", CFG.get("proxy", "")) or None
 
 SEC_CANDIDATES = [
     "SECURITY.md", "security.md", "Security.md",
@@ -83,9 +80,9 @@ def log(msg):
 # ---------------------------------------------------------------- HTTP 层
 # 传输顺序: api 直连优先（本机实测直连稳），网页/raw 走代理优先
 TRANSPORT_ORDER = {
-    "api": [None, PROXY],
-    "web": [PROXY, None],
-    "raw": [PROXY, None],
+    "api": [None, PROXY] if PROXY else [None],
+    "web": [PROXY, None] if PROXY else [None],
+    "raw": [PROXY, None] if PROXY else [None],
 }
 _TLS = threading.local()
 
@@ -93,7 +90,6 @@ _TLS = threading.local()
 def _session():
     if not hasattr(_TLS, "s"):
         s = requests.Session()
-        s.verify = False
         s.headers.update({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) sec-md-collector/1.0",
             "Accept": "*/*",
@@ -126,16 +122,6 @@ def find_token():
         v = os.environ.get(k)
         if v and v.strip():
             return v.strip()
-    cred = Path.home() / ".git-credentials"
-    try:
-        if cred.exists():
-            for line in cred.read_text(encoding="utf-8", errors="ignore").splitlines():
-                if "github.com" in line:
-                    m = re.search(r":([^:@/]+)@", line)
-                    if m and m.group(1):
-                        return m.group(1)
-    except Exception:
-        pass
     tf = ASSETS / ".gh_token"
     try:
         if tf.exists():
@@ -165,7 +151,9 @@ def merge_vendors():
     vendors = []
     by_name = {}
     org_owner = {}
-    for f in MAPPING_FILES:
+    mapping_files = MAPPING_FILES + sorted(
+        f for f in ASSETS.glob("厂商映射-*.json") if f not in MAPPING_FILES)
+    for f in mapping_files:
         if not f.exists():
             log("缺少映射文件(跳过): %s" % f.name)
             continue
@@ -732,126 +720,8 @@ def write_outputs(state, mode):
 
 
 def write_index_html(stats, state):
-    import html as H
-    totals = stats["totals"]
-    rows = []
-    for v in sorted(stats["vendors"], key=lambda x: -x["sec_repos"]):
-        safe = quote(safe_name(v["vendor"]))
-        rows.append(
-            "<tr><td>%s</td><td>%s</td><td class=m>%d</td>"
-            "<td><a href='/%s/清单.md'>清单</a> <a href='/%s/'>浏览</a> <a href='/%s/repos.json'>JSON</a></td></tr>"
-            % (H.escape(v["vendor"]), H.escape(v.get("src") or "-"), v["sec_repos"],
-               safe, safe, safe))
-    vsrc = {v["vendor"]: (v.get("src") or "") for v in stats["vendors"]}
-    repos = []
-    for r in state["repos_data"].values():
-        desc = (r.get("description") or "")
-        if len(desc) > 90:
-            desc = desc[:90] + "…"
-        repos.append({
-            "v": r.get("vendor") or r["org"], "f": r["full_name"], "o": r["org"],
-            "src": vsrc.get(r.get("vendor") or "", ""),
-            "s": r.get("stars"), "l": r.get("language") or "",
-            "lic": r.get("license") or "",
-            "d": desc,
-            "loc": "/%s/%s/SECURITY.md" % (quote(safe_name(r.get("vendor") or r["org"])),
-                                           quote(r["full_name"].replace("/", "__"))),
-        })
-    repos_js = json.dumps(repos, ensure_ascii=False).replace("</", "<\\/")
-    failed_note_zh = ("待重试组织（列表抓取失败，每轮自动重试）：%s" % "、".join(stats["orgs_failed"][:40])) if stats["orgs_failed"] else ""
-    failed_note_en = ("Orgs pending retry (auto-retried each cycle): %s" % ", ".join(stats["orgs_failed"][:40])) if stats["orgs_failed"] else ""
-    html = """<!DOCTYPE html><html lang=zh><head><meta charset=utf-8>
-<title>大厂开源 SECURITY.MD 收集看板 | Big-Tech SECURITY.MD Dashboard</title><meta name=viewport content="width=device-width,initial-scale=1">
-<style>
-body{background:#0d1117;color:#c9d1d9;font:14px/1.6 "Microsoft YaHei",system-ui,sans-serif;margin:0;padding:24px}
-a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
-h1{font-size:22px;margin:0 0 4px}.sub{color:#8b949e;margin-bottom:18px}
-.cards{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:18px}
-.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 18px;min-width:130px}
-.card b{display:block;font-size:24px;color:#58a6ff}
-.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
-.bar input{width:300px;padding:7px 12px;background:#0d1117;color:#c9d1d9;border:1px solid #30363d;border-radius:6px}
-.bar select{padding:7px 10px;background:#0d1117;color:#c9d1d9;border:1px solid #30363d;border-radius:6px;max-width:200px}
-.bar button{padding:7px 14px;background:#21262d;color:#c9d1d9;border:1px solid #30363d;border-radius:6px;cursor:pointer}
-.cnt{color:#8b949e;font-size:13px;margin-left:auto}
-table{border-collapse:collapse;width:100%%;margin-bottom:26px}
-th,td{border:1px solid #21262d;padding:5px 10px;text-align:left}
-th{background:#161b22;position:sticky;top:0}.m{text-align:right}
-th[data-k]{cursor:pointer;user-select:none;white-space:nowrap}
-tr:hover td{background:#161b22}
-td.d{color:#8b949e;font-size:12px;max-width:360px}
-.warn{color:#d29922;font-size:13px;margin:8px 0}
-#langbtn{font-weight:500}
-</style></head><body>
-<h1><span data-i18n="h1"></span></h1>
-<div class=sub><span data-i18n="mode"></span>%(mode)s　·　<span data-i18n="gen"></span>%(t)s　·　<a href='/README.md'>README</a>　·　<a href='/prompt-给其他Agent.md'><span data-i18n="agentprompt"></span></a>　·　<a href='/线程必读.md'><span data-i18n="mustread"></span></a>　·　<a href='/总表.csv'><span data-i18n="csv"></span></a></div>
-<div class=cards>
-<div class=card><b>%(nv)d</b><span data-i18n="c_vendors"></span></div>
-<div class=card><b>%(no)d</b><span data-i18n="c_orgs"></span></div>
-<div class=card><b>%(ns)d</b><span data-i18n="c_swept"></span></div>
-<div class=card><b>%(nr)d</b><span data-i18n="c_repos"></span></div>
-<div class=card><b>%(nn)d</b><span data-i18n="c_excl"></span></div>
-</div>
-<div id=fwarn class=warn></div>
-<div class=bar>
-<input id=q data-ph="q">
-<select id=fv data-ph="f_all_vendor"></select>
-<select id=fl data-ph="f_all_lang"></select>
-<select id=fs data-ph="f_all_src"></select>
-<button id=rst type=button data-i18n="reset"></button>
-<button id=langbtn type=button>EN</button>
-<span id=cnt class=cnt></span>
-</div>
-<table id=t><thead><tr>
-<th data-k=f data-i18n="th_repo"></th><th data-k=v data-i18n="th_vendor"></th><th data-k=src>SRC</th>
-<th data-k=s data-i18n="th_stars"></th><th data-k=l data-i18n="th_lang"></th><th data-k=lic>License</th>
-<th data-i18n="th_sec"></th><th data-k=d data-i18n="th_desc"></th>
-</tr></thead><tbody id=b></tbody></table>
-<h3 data-i18n="summary"></h3>
-<table><thead><tr><th data-i18n="th_vendor"></th><th>SRC</th><th data-i18n="th_count"></th><th data-i18n="th_links"></th></tr></thead><tbody>%(rows)s</tbody></table>
-<script>
-const REPOS=%(repos)s;
-const I18N={
-zh:{h1:'大厂开源项目 SECURITY.MD 收集看板',mode:'模式：',gen:'生成时间：',agentprompt:'其他Agent使用Prompt',mustread:'线程必读',csv:'总表CSV',c_vendors:'厂商',c_orgs:'GitHub组织',c_swept:'已扫组织',c_repos:'含SECURITY.MD仓库',c_excl:'已排除(无SEC)',f_all_vendor:'厂商：全部',f_all_lang:'语言：全部',f_all_src:'SRC：全部',reset:'重置',th_repo:'仓库（GitHub 项目页）',th_vendor:'厂商',th_stars:'星数',th_lang:'语言',th_sec:'SECURITY.md 本地文本',th_desc:'描述',summary:'厂商汇总',th_count:'收录数',th_links:'入口',cnt:'显示 %%S / 共 %%T 条（点击表头排序）',noresult:'无匹配结果',warn:'待重试组织（列表抓取失败，每轮自动重试）：',warnzh:'%(fnzh)s',toggle:'EN',lang:'en'},
-en:{h1:'Big-Tech Open-Source SECURITY.MD Dashboard',mode:'Mode: ',gen:'Generated: ',agentprompt:'Agent Prompt',mustread:'Ops Notes',csv:'Full CSV',c_vendors:'Vendors',c_orgs:'GitHub Orgs',c_swept:'Orgs Swept',c_repos:'Repos w/ SECURITY.md',c_excl:'Excluded (no SEC)',f_all_vendor:'Vendor: All',f_all_lang:'Language: All',f_all_src:'SRC: All',reset:'Reset',th_repo:'Repo (GitHub)',th_vendor:'Vendor',th_stars:'Stars',th_lang:'Language',th_sec:'SECURITY.md (local text)',th_desc:'Description',summary:'Vendor Summary',th_count:'Repos',th_links:'Links',cnt:'Showing %%S / %%T (click headers to sort)',noresult:'No matches',warn:'Orgs pending retry (auto-retried each cycle): ',warnzh:'%(fnen)s',toggle:'中文',lang:'zh'}};
-let LANG=localStorage.getItem('secmd_lang')||'zh';
-const t=k=>{let v=I18N[LANG][k];return v==null?'':v};
-let F={q:'',v:'',l:'',src:''}, SK='s', SD=-1; const CAP=2000;
-function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
-const nrm=s=>(s==null?'':String(s)).toLowerCase();
-function fill(id,key){const sel=document.getElementById(id);const vals=[...new Set(REPOS.map(r=>r[key]).filter(x=>x))].sort((a,b)=>a.localeCompare(b,'zh'));const all=document.createElement('option');sel.innerHTML='';sel.appendChild(all);all.value='';all.textContent=t(sel.dataset.ph);vals.forEach(x=>{const o=document.createElement('option');o.textContent=x;sel.appendChild(o)})}
-function applyLang(){document.documentElement.lang=LANG;document.querySelectorAll('[data-i18n]').forEach(el=>{el.textContent=t(el.dataset.i18n)});document.getElementById('q').placeholder=t('q_placeholder')||t('f_all_vendor');document.getElementById('langbtn').textContent=t('toggle');const w=document.getElementById('fwarn');const wn=t('warnzh');w.textContent=wn?t('warn')+wn:'';fill('fv','v');fill('fl','l');fill('fs','src');applyHeaders();render()}
-function applyHeaders(){document.querySelectorAll('#t th[data-k]').forEach(th=>{const base=t('th_'+th.dataset.k)||th.dataset.base||th.textContent;th.dataset.base=base;const arr=th.dataset.k===SK?(SD===1?' ▲':' ▼'):'';th.textContent=base+arr});document.querySelectorAll('[data-i18n]').forEach(el=>{if(el.dataset.k)return;el.textContent=t(el.dataset.i18n)});document.getElementById('rst').textContent=t('reset')}
-function cur(){let a=REPOS;
-if(F.v)a=a.filter(r=>r.v===F.v);
-if(F.l)a=a.filter(r=>r.l===F.l);
-if(F.src)a=a.filter(r=>(r.src||'')===F.src);
-if(F.q){const q=F.q;a=a.filter(r=>(r.v+' '+r.f+' '+r.l+' '+r.src+' '+r.lic+' '+r.d).toLowerCase().includes(q))}
-a.sort((x,y)=>{if(SK==='s'){const a=x.s==null?-1:x.s,b=y.s==null?-1:y.s;return (a-b)*SD}
-const a=nrm(x[SK]),b=nrm(y[SK]);return a<b?-SD:a>b?SD:0});return a}
-function render(){const a=cur();
-const head=a.slice(0,CAP).map(r=>'<tr><td><a href="https://github.com/'+esc(r.f)+'">'+esc(r.f)+'</a></td><td>'+esc(r.v)+'</td><td>'+esc(r.src||'-')+'</td><td class=m>'+(r.s==null?'-':r.s)+'</td><td>'+esc(r.l||'-')+'</td><td>'+esc(r.lic||'-')+'</td><td><a href="'+r.loc+'">SECURITY.md</a></td><td class=d>'+esc(r.d||'')+'</td></tr>').join('');
-document.getElementById('b').innerHTML=head||'<tr><td colspan=8>'+esc(t('noresult'))+'</td></tr>';
-document.getElementById('cnt').textContent=t('cnt').replace('%%S',Math.min(a.length,CAP)).replace('%%T',a.length);
-applyHeaders()}
-I18N.zh.q_placeholder='搜索：厂商 / 仓库 / 语言 / License / 描述 …';I18N.en.q_placeholder='Search: vendor / repo / language / license / description …';
-document.getElementById('q').oninput=e=>{F.q=e.target.value.trim().toLowerCase();render()};
-[['fv','v'],['fl','l'],['fs','src']].forEach(p=>{document.getElementById(p[0]).onchange=e=>{F[p[1]]=e.target.value;render()}});
-document.getElementById('rst').onclick=()=>{F={q:'',v:'',l:'',src:''};document.getElementById('q').value='';['fv','fl','fs'].forEach(id=>document.getElementById(id).value='');render()};
-document.getElementById('langbtn').onclick=()=>{LANG=t('lang');localStorage.setItem('secmd_lang',LANG);applyLang()};
-document.querySelectorAll('#t th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(SK===k)SD*=-1;else{SK=k;SD=(k==='s')?-1:1}render()});
-applyLang();
-</script></body></html>""" % {
-        "mode": H.escape(stats.get("mode") or ""),
-        "t": H.escape(stats["generated_at"]),
-        "nv": totals["vendors"], "no": totals["orgs"], "ns": totals["orgs_swept"],
-        "nr": totals["sec_repos"], "nn": totals["negative_cached"],
-        "rows": "\n".join(rows),
-        "repos": repos_js,
-        "fnzh": H.escape(failed_note_zh.replace("待重试组织（列表抓取失败，每轮自动重试）：", "")),
-        "fnen": H.escape(failed_note_en.replace("Orgs pending retry (auto-retried each cycle): ", "")),
-    }
-    (INDEX / "index.html").write_text(html, encoding="utf-8")
+    from build_dashboard import build_dashboard
+    build_dashboard(BASE, stats, state["repos_data"].values())
 
 
 # ---------------------------------------------------------------- 主流程

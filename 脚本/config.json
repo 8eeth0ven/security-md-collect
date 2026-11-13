@@ -1,5 +1,6 @@
 {
-  "proxy": "http://127.0.0.1:7897",
+  "proxy": "",
+  "host": "127.0.0.1",
   "port": 8899,
   "threads_probe": 12,
   "threads_download": 12,

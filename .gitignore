@@ -8,3 +8,7 @@
 __pycache__/
 .DS_Store
 Thumbs.db
+脚本/collect.lock
+*.tmp
+.venv/
+test-results/

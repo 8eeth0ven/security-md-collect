@@ -1,6 +1,6 @@
 # 赏金 APK 直达清单（四大平台）
 
-> 更新：2026-11-13 12:29 ｜ 数据流：`Desktop\Ai-SRC\bc_apk_20261113\`（收集器）→ 本分类 → `sync_github.py` 每 30 分钟 push → GitHub Pages
+> 数据快照：2026-11-13 12:29。此目录保存公开目标元数据与清单，由独立采集流程更新；仓库不包含 APK 采集器或定时任务。在线入口：[赏金 APK 看板](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html)。
 
 | 平台 | 项目源 | APK 目标 | 有直达链 | 清单 |
 |---|---|---|---|---|

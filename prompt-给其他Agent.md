@@ -6,9 +6,11 @@
 
 ## 一、先看这三个索引（30 秒了解全库）
 
-1. `索引\统计.json` — 总量、每厂商收录数、运行模式
-2. `索引\last_run.json` — 最近一轮收集时间/新增数/失败组织
-3. 用浏览器或 WebFetch 打开看板 <<本机看板地址>/>（局域网内用 <局域网看板地址>/），可搜索全部仓库；赏金 APK 在线看板：<https://8eeth0ven.github.io/security-md-collect/>（首页导航「赏金APK看板」）
+1. `索引\统计.json` — 总量、每厂商收录数、快照时间、运行模式与失败组织
+2. `索引\dashboard.json` — 聚合的公开仓库元数据；`repos[].loc` 为 null 时表示没有已保存的本地原文，可查看上游 GitHub 路径
+3. 在线看板：<https://8eeth0ven.github.io/security-md-collect/>；本地先执行 `python 脚本/serve.py`，再打开 <http://127.0.0.1:8899>。首页可进入独立的赏金 APK 看板
+
+`索引\last_run.json` 仅为采集机运行产物，不随公开仓库分发。收录策略或 SRC 来源不代表赏金资格，先核实官方当前范围。
 
 ## 二、按需读数据
 
@@ -28,7 +30,8 @@
 
 ## 四、要新增/刷新数据时
 
-- 手动增量收集：`python "./脚本\collect.py"`（已另有定时任务每 30 分钟自动跑，一般不用手动；脚本有锁，同时只跑一个）
+- 手动增量收集：`python "./脚本\collect.py"`（采集机可能另有定时任务；仓库自身不安装调度，脚本有锁，同时只跑一个）
+- 只重建页面：`python 脚本/build_dashboard.py`（不联网，不采集，不需要 token）
 - 新增厂商：在 `资产\` 下新建 `厂商映射-自加.json`，格式 `[{"vendor":"名称","src":"HackerOne/TSRC/无","orgs":["GitHubOrg"],"unverified":[],"note":""}]`，下一轮自动生效
 
 ## 五、红线
