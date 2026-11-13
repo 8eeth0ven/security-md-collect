@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-13 16:08:12",
+ "generated_at": "2026-11-13 16:36:12",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 9528,
-  "negative_cached": 48526
+  "sec_repos": 9748,
+  "negative_cached": 49365
  },
  "vendors": [
   {
@@ -689,7 +689,7 @@
     "ms-iot",
     "nuget"
    ],
-   "sec_repos": 2802
+   "sec_repos": 2986
   },
   {
    "vendor": "谷歌",
@@ -704,7 +704,7 @@
     "angular",
     "firebase"
    ],
-   "sec_repos": 89
+   "sec_repos": 96
   },
   {
    "vendor": "Meta",
@@ -716,7 +716,7 @@
     "pytorch",
     "Meta"
    ],
-   "sec_repos": 31
+   "sec_repos": 32
   },
   {
    "vendor": "亚马逊",
@@ -776,7 +776,7 @@
     "IBM-Cloud",
     "ibm-security"
    ],
-   "sec_repos": 155
+   "sec_repos": 163
   },
   {
    "vendor": "Intel",
@@ -786,7 +786,7 @@
     "oneapi-src",
     "intel-iot-devkit"
    ],
-   "sec_repos": 709
+   "sec_repos": 710
   },
   {
    "vendor": "AMD",
@@ -947,7 +947,7 @@
    "orgs": [
     "fujitsu"
    ],
-   "sec_repos": 4
+   "sec_repos": 5
   },
   {
    "vendor": "日立",
@@ -1223,7 +1223,7 @@
    "orgs": [
     "hashicorp"
    ],
-   "sec_repos": 19
+   "sec_repos": 22
   },
   {
    "vendor": "Elastic",
@@ -1231,7 +1231,7 @@
    "orgs": [
     "elastic"
    ],
-   "sec_repos": 25
+   "sec_repos": 35
   },
   {
    "vendor": "MongoDB",
@@ -1320,7 +1320,7 @@
    "orgs": [
     "canonical"
    ],
-   "sec_repos": 469
+   "sec_repos": 474
   },
   {
    "vendor": "SUSE",

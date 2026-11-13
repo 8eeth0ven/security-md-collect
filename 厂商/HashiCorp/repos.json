@@ -13,6 +13,18 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/memberlist",
+  "url": "https://github.com/hashicorp/memberlist",
+  "sec_path": "SECURITY.md",
+  "stars": 4130,
+  "language": "Go",
+  "description": "Golang package for gossip based membership and failure detection",
+  "license": null,
+  "first_seen": "2026-11-13 16:33:54"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/agent-skills",
   "url": "https://github.com/hashicorp/agent-skills",
   "sec_path": "SECURITY.md",
@@ -95,6 +107,18 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/terraform-plugin-framework-timeouts",
+  "url": "https://github.com/hashicorp/terraform-plugin-framework-timeouts",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 11,
+  "language": "Go",
+  "description": "Convenience functions and types for timeouts, for use with terraform-plugin-framework",
+  "license": null,
+  "first_seen": "2026-11-13 16:33:54"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/.github",
   "url": "https://github.com/hashicorp/.github",
   "sec_path": "SECURITY.md",
@@ -115,6 +139,18 @@
   "description": "Automatically generate Google Cloud Platform support for OSS IaaC Projects",
   "license": null,
   "first_seen": "2026-11-02 05:21:46"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/hcp-scada-provider",
+  "url": "https://github.com/hashicorp/hcp-scada-provider",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Go",
+  "description": "HCP SCADA Provider",
+  "license": null,
+  "first_seen": "2026-11-13 16:33:54"
  },
  {
   "vendor": "HashiCorp",

@@ -739,6 +739,18 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/ibm-watsonxdata-dl-retrieval-mcp-server",
+  "url": "https://github.com/IBM/ibm-watsonxdata-dl-retrieval-mcp-server",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "The Watsonx.data Document Library Retrieval MCP Server is a Model Context Protocol (MCP)-compliant service that seamlessly connects AI agents with document libr…",
+  "license": null,
+  "first_seen": "2026-11-13 16:35:44"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/substrait-compliance",
   "url": "https://github.com/IBM/substrait-compliance",
   "sec_path": "SECURITY.md",
@@ -988,6 +1000,18 @@
   "language": "Go",
   "description": "IBM Backint Agent for SAP HANA (IBM Backint agent) is a backup and restore application for SAP HANA workloads running on IBM Cloud Instances.",
   "first_seen": "2026-11-01 16:51:13"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/ARTEMIS-DSE",
+  "url": "https://github.com/IBM/ARTEMIS-DSE",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "ARTEMIS is a tool for efficient design space exploration (DSE) of real-time domain-specific SoCs (DSSoCs) constrained by deadlines/power/ area. It uses a dynami…",
+  "license": null,
+  "first_seen": "2026-11-13 16:35:44"
  },
  {
   "vendor": "IBM",
@@ -1705,5 +1729,77 @@
   "description": "IBM SMC Operator for OpenShift on IBM Z and LinuxONE",
   "license": null,
   "first_seen": "2026-11-04 03:04:08"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/partner-solution-hub",
+  "url": "https://github.com/IBM/partner-solution-hub",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "Partner Solution Hub",
+  "license": null,
+  "first_seen": "2026-11-13 16:35:44"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/vllm_remix",
+  "url": "https://github.com/IBM/vllm_remix",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-13 16:35:44"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/swe-kernel-bench-harness",
+  "url": "https://github.com/IBM/swe-kernel-bench-harness",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "SWE-kernel-bench-harness: GPU Kernel Evaluation Harness",
+  "license": null,
+  "first_seen": "2026-11-13 16:35:44"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/observability",
+  "url": "https://github.com/IBM/observability",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "Public Repository for Cloud Observability Services",
+  "license": null,
+  "first_seen": "2026-11-13 16:35:44"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/swe-kernel-bench",
+  "url": "https://github.com/IBM/swe-kernel-bench",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "SWE-kernel-bench: A Live Benchmark for GPU Kernel Generation",
+  "license": null,
+  "first_seen": "2026-11-13 16:35:44"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/TKSfw",
+  "url": "https://github.com/IBM/TKSfw",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "The KeelStone Framework",
+  "license": null,
+  "first_seen": "2026-11-13 16:35:44"
  }
 ]

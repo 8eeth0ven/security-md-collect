@@ -134,6 +134,18 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/go-dqlite",
+  "url": "https://github.com/canonical/go-dqlite",
+  "sec_path": "SECURITY.md",
+  "stars": 476,
+  "language": "Go",
+  "description": "Go bindings for libdqlite",
+  "license": null,
+  "first_seen": "2026-11-13 16:31:59"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/chisel",
   "url": "https://github.com/canonical/chisel",
   "sec_path": "SECURITY.md",
@@ -4875,6 +4887,18 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/kubeflow-dashboard-rocks",
+  "url": "https://github.com/canonical/kubeflow-dashboard-rocks",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Rocks for Kubeflow Dashboard components",
+  "license": null,
+  "first_seen": "2026-11-13 16:31:59"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/ubuntu-autosync-operator",
   "url": "https://github.com/canonical/ubuntu-autosync-operator",
   "sec_path": "SECURITY.md",
@@ -5157,5 +5181,41 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 18:42:38"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/kubeflow-notebooks",
+  "url": "https://github.com/canonical/kubeflow-notebooks",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "Kubeflow Notebooks",
+  "license": null,
+  "first_seen": "2026-11-13 16:31:59"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/phased-updater-operator",
+  "url": "https://github.com/canonical/phased-updater-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "Operator charm to deploy the phased-updater service",
+  "license": null,
+  "first_seen": "2026-11-13 16:31:59"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/sonic-mgmt",
+  "url": "https://github.com/canonical/sonic-mgmt",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "Configuration management examples for SONiC",
+  "license": null,
+  "first_seen": "2026-11-13 16:31:59"
  }
 ]
