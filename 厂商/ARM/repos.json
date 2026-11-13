@@ -5,7 +5,7 @@
   "full_name": "ARM-software/ComputeLibrary",
   "url": "https://github.com/ARM-software/ComputeLibrary",
   "sec_path": "SECURITY.md",
-  "stars": 3205,
+  "stars": 3208,
   "language": "C++",
   "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
   "first_seen": "2026-11-01 16:16:44"
@@ -16,7 +16,7 @@
   "full_name": "ARM-software/arm-trusted-firmware",
   "url": "https://github.com/ARM-software/arm-trusted-firmware",
   "sec_path": ".github/SECURITY.md",
-  "stars": 2277,
+  "stars": 2283,
   "language": "C",
   "description": "Read-only mirror of Trusted Firmware-A",
   "first_seen": "2026-11-01 16:16:44"
@@ -82,7 +82,7 @@
   "full_name": "ARM-software/kleidiai",
   "url": "https://github.com/ARM-software/kleidiai",
   "sec_path": "SECURITY.md",
-  "stars": 203,
+  "stars": 206,
   "language": "Assembly",
   "description": "This repository is a read-only mirror of https://gitlab.arm.com/kleidi/kleidiai",
   "first_seen": "2026-11-01 16:16:44"
@@ -137,7 +137,7 @@
   "full_name": "ARM-software/ethos-n-driver-stack",
   "url": "https://github.com/ARM-software/ethos-n-driver-stack",
   "sec_path": "SECURITY.md",
-  "stars": 70,
+  "stars": 71,
   "language": "C++",
   "description": "Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU",
   "first_seen": "2026-11-01 16:16:44"
@@ -214,7 +214,7 @@
   "full_name": "ARM-software/CMSIS-mbedTLS",
   "url": "https://github.com/ARM-software/CMSIS-mbedTLS",
   "sec_path": "SECURITY.md",
-  "stars": 28,
+  "stars": 29,
   "language": "C",
   "description": "CMSIS Pack for the mbedTLS software stack",
   "first_seen": "2026-11-01 16:16:44"
@@ -614,5 +614,17 @@
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 18:09:23"
+ },
+ {
+  "vendor": "ARM",
+  "org": "ARM-software",
+  "full_name": "ARM-software/go-sdk-generator",
+  "url": "https://github.com/ARM-software/go-sdk-generator",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "go-sdk-generator is a contract-first generator for Go SDKs, CLI tools, and automation entrypoints (CI steps) to streamline and speed up the generation of tools …",
+  "license": null,
+  "first_seen": "2026-11-13 15:32:56"
  }
 ]

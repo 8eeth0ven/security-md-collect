@@ -5,7 +5,7 @@
   "full_name": "IBM/sarama",
   "url": "https://github.com/IBM/sarama",
   "sec_path": "SECURITY.md",
-  "stars": 12524,
+  "stars": 12525,
   "language": "Go",
   "description": "Sarama is a Go library for Apache Kafka.",
   "first_seen": "2026-11-01 16:46:39"
@@ -16,7 +16,7 @@
   "full_name": "IBM/mcp-context-forge",
   "url": "https://github.com/IBM/mcp-context-forge",
   "sec_path": "SECURITY.md",
-  "stars": 4755,
+  "stars": 4813,
   "language": "Python",
   "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and…",
   "first_seen": "2026-11-01 16:45:41"
@@ -27,7 +27,7 @@
   "full_name": "IBM/openapi-to-graphql",
   "url": "https://github.com/IBM/openapi-to-graphql",
   "sec_path": "SECURITY.md",
-  "stars": 1644,
+  "stars": 1643,
   "language": "TypeScript",
   "description": "Translate APIs described by OpenAPI Specifications (OAS) into GraphQL",
   "first_seen": "2026-11-01 16:48:44"
@@ -38,7 +38,7 @@
   "full_name": "IBM/aihwkit",
   "url": "https://github.com/IBM/aihwkit",
   "sec_path": ".github/SECURITY.md",
-  "stars": 527,
+  "stars": 529,
   "language": "Jupyter Notebook",
   "description": "IBM Analog Hardware Acceleration Kit",
   "first_seen": "2026-11-01 16:45:41"
@@ -115,9 +115,9 @@
   "full_name": "IBM/ado",
   "url": "https://github.com/IBM/ado",
   "sec_path": "SECURITY.md",
-  "stars": 66,
+  "stars": 67,
   "language": "Python",
-  "description": "A framework for designing, executing  and analysing experiment campaigns ",
+  "description": "Run computational experiment campaigns at scale, and let coding agents autonomously formulate, execute, and analyze them for you.",
   "first_seen": "2026-11-01 16:45:41"
  },
  {
@@ -145,17 +145,6 @@
  {
   "vendor": "IBM",
   "org": "IBM",
-  "full_name": "IBM/aihwkit-lightning",
-  "url": "https://github.com/IBM/aihwkit-lightning",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 50,
-  "language": "Python",
-  "description": "Scalable HW-Aware Training for Analog In-Memory Computing",
-  "first_seen": "2026-11-01 16:46:39"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
   "full_name": "IBM/responsible-prompting-api",
   "url": "https://github.com/IBM/responsible-prompting-api",
   "sec_path": "SECURITY.md",
@@ -167,10 +156,21 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/aihwkit-lightning",
+  "url": "https://github.com/IBM/aihwkit-lightning",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 49,
+  "language": "Python",
+  "description": "Scalable HW-Aware Training for Analog In-Memory Computing",
+  "first_seen": "2026-11-01 16:46:39"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/FactReasoner",
   "url": "https://github.com/IBM/FactReasoner",
   "sec_path": "SECURITY.md",
-  "stars": 44,
+  "stars": 45,
   "language": "Python",
   "description": "Long-form factuality assessor for large language models",
   "first_seen": "2026-11-01 16:45:41"
@@ -211,23 +211,23 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/storage-fusion",
+  "url": "https://github.com/IBM/storage-fusion",
+  "sec_path": "SECURITY.md",
+  "stars": 30,
+  "language": "Shell",
+  "description": "Backup and Restore Recipes, Helpful Utilities and Scripts like mirroring etc. for IBM Storage Fusion ",
+  "first_seen": "2026-11-01 16:45:41"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/cloudant-node-sdk",
   "url": "https://github.com/IBM/cloudant-node-sdk",
   "sec_path": "SECURITY.md",
   "stars": 29,
   "language": "TypeScript",
   "description": "Cloudant SDK for Node.js",
-  "first_seen": "2026-11-01 16:45:41"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
-  "full_name": "IBM/storage-fusion",
-  "url": "https://github.com/IBM/storage-fusion",
-  "sec_path": "SECURITY.md",
-  "stars": 29,
-  "language": "Shell",
-  "description": "Backup and Restore Recipes, Helpful Utilities and Scripts like mirroring etc. for IBM Storage Fusion ",
   "first_seen": "2026-11-01 16:45:41"
  },
  {
@@ -684,6 +684,17 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/ToolWeave",
+  "url": "https://github.com/IBM/ToolWeave",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "ToolWeave: Structured synthesis of complex multi-turn tool-calling dialogues: an end-to-end pipeline that builds tool graphs with real data dependencies, sample…",
+  "first_seen": "2026-11-01 16:46:39"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/ibm-echo",
   "url": "https://github.com/IBM/ibm-echo",
   "sec_path": "SECURITY.md",
@@ -739,13 +750,13 @@
  {
   "vendor": "IBM",
   "org": "IBM",
-  "full_name": "IBM/ToolWeave",
-  "url": "https://github.com/IBM/ToolWeave",
+  "full_name": "IBM/fusion-lab-workbooks",
+  "url": "https://github.com/IBM/fusion-lab-workbooks",
   "sec_path": "SECURITY.md",
   "stars": 4,
-  "language": "Python",
-  "description": "ToolWeave: Structured synthesis of complex multi-turn tool-calling dialogues: an end-to-end pipeline that builds tool graphs with real data dependencies, sample…",
-  "first_seen": "2026-11-01 16:46:39"
+  "language": "Shell",
+  "description": "IBM Technology Zone Lab Guides",
+  "first_seen": "2026-11-01 16:47:40"
  },
  {
   "vendor": "IBM",
@@ -1014,6 +1025,17 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/TechXchange2026",
+  "url": "https://github.com/IBM/TechXchange2026",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "TechXchange2026",
+  "first_seen": "2026-11-01 16:45:41"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/terraform-guardium-datastore-audit",
   "url": "https://github.com/IBM/terraform-guardium-datastore-audit",
   "sec_path": "SECURITY.md",
@@ -1076,17 +1098,6 @@
   "language": "Python",
   "description": "S23D",
   "first_seen": "2026-11-01 16:46:39"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
-  "full_name": "IBM/fusion-lab-workbooks",
-  "url": "https://github.com/IBM/fusion-lab-workbooks",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Shell",
-  "description": "IBM Technology Zone Lab Guides",
-  "first_seen": "2026-11-01 16:47:40"
  },
  {
   "vendor": "IBM",
@@ -1179,17 +1190,6 @@
  {
   "vendor": "IBM",
   "org": "IBM",
-  "full_name": "IBM/TechXchange2026",
-  "url": "https://github.com/IBM/TechXchange2026",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "Python",
-  "description": "TechXchange2026",
-  "first_seen": "2026-11-01 16:45:41"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
   "full_name": "IBM/guardauto-cli",
   "url": "https://github.com/IBM/guardauto-cli",
   "sec_path": "SECURITY.md",
@@ -1271,7 +1271,7 @@
   "url": "https://github.com/IBM/ThreadDumpFlameGrapher",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": "Perl",
+  "language": "Awk",
   "description": "Generate flame graphs for thread dumps",
   "first_seen": "2026-11-01 16:46:39"
  },

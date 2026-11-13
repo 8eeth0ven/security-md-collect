@@ -5,7 +5,7 @@
   "full_name": "amd/gaia",
   "url": "https://github.com/amd/gaia",
   "sec_path": "SECURITY.md",
-  "stars": 1614,
+  "stars": 1622,
   "language": "Python",
   "description": "Build AI agents for your PC",
   "first_seen": "2026-11-01 16:16:00"
@@ -49,7 +49,7 @@
   "full_name": "amd/skills",
   "url": "https://github.com/amd/skills",
   "sec_path": "SECURITY.md",
-  "stars": 479,
+  "stars": 490,
   "language": "Python",
   "description": "Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.",
   "first_seen": "2026-11-01 16:16:00"
@@ -126,7 +126,7 @@
   "full_name": "amd/mini-isp",
   "url": "https://github.com/amd/mini-isp",
   "sec_path": "SECURITY.md",
-  "stars": 148,
+  "stars": 153,
   "language": "SystemVerilog",
   "description": "A minimal, open-source Image Signal Processor (ISP) for AMD FPGA, implemented in Verilog.",
   "first_seen": "2026-11-01 16:16:00"
@@ -442,6 +442,17 @@
  {
   "vendor": "AMD",
   "org": "AMD",
+  "full_name": "amd/ZenDNN-pytorch",
+  "url": "https://github.com/amd/ZenDNN-pytorch",
+  "sec_path": "SECURITY.md",
+  "stars": 11,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "AMD",
   "full_name": "amd/ZenDNN-tensorflow-plugin",
   "url": "https://github.com/amd/ZenDNN-tensorflow-plugin",
   "sec_path": "SECURITY.md",
@@ -482,17 +493,6 @@
   "language": "C++",
   "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
   "first_seen": "2026-11-01 17:12:10"
- },
- {
-  "vendor": "AMD",
-  "org": "AMD",
-  "full_name": "amd/ZenDNN-pytorch",
-  "url": "https://github.com/amd/ZenDNN-pytorch",
-  "sec_path": "SECURITY.md",
-  "stars": 9,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 16:16:00"
  },
  {
   "vendor": "AMD",

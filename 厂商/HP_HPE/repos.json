@@ -5,9 +5,20 @@
   "full_name": "HewlettPackard/dc-rl",
   "url": "https://github.com/HewlettPackard/dc-rl",
   "sec_path": "SECURITY.md",
-  "stars": 134,
+  "stars": 135,
   "language": "HTML",
   "description": "SustainDC is a set of Python environments for Data Center simulation and control using Heterogeneous Multi Agent Reinforcement Learning. Includes customizable e…",
+  "first_seen": "2026-11-01 16:41:45"
+ },
+ {
+  "vendor": "HP/HPE",
+  "org": "HewlettPackard",
+  "full_name": "HewlettPackard/sustain-cluster",
+  "url": "https://github.com/HewlettPackard/sustain-cluster",
+  "sec_path": "SECURITY.md",
+  "stars": 94,
+  "language": "Jupyter Notebook",
+  "description": "SustainCluster: A high-fidelity, open-source Gymnasium environment for benchmarking multi-objective, sustainable workload scheduling across geo-distributed data…",
   "first_seen": "2026-11-01 16:41:45"
  },
  {
@@ -24,21 +35,10 @@
  {
   "vendor": "HP/HPE",
   "org": "HewlettPackard",
-  "full_name": "HewlettPackard/sustain-cluster",
-  "url": "https://github.com/HewlettPackard/sustain-cluster",
-  "sec_path": "SECURITY.md",
-  "stars": 90,
-  "language": "Jupyter Notebook",
-  "description": "SustainCluster: A high-fidelity, open-source Gymnasium environment for benchmarking multi-objective, sustainable workload scheduling across geo-distributed data…",
-  "first_seen": "2026-11-01 16:41:45"
- },
- {
-  "vendor": "HP/HPE",
-  "org": "HewlettPackard",
   "full_name": "HewlettPackard/sustain-lc",
   "url": "https://github.com/HewlettPackard/sustain-lc",
   "sec_path": "SECURITY.md",
-  "stars": 46,
+  "stars": 47,
   "language": "Jupyter Notebook",
   "description": "Sustain-LC is a benchmarking environment for traditional and reinforcement learning based controls as well as LLM based control",
   "first_seen": "2026-11-01 16:41:45"
@@ -71,7 +71,7 @@
   "full_name": "HewlettPackard/shs-ccl-docs",
   "url": "https://github.com/HewlettPackard/shs-ccl-docs",
   "sec_path": "SECURITY.md",
-  "stars": 14,
+  "stars": 15,
   "language": "Shell",
   "description": "",
   "first_seen": "2026-11-01 16:41:45"

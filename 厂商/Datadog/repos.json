@@ -5,7 +5,7 @@
   "full_name": "DataDog/stratus-red-team",
   "url": "https://github.com/DataDog/stratus-red-team",
   "sec_path": "SECURITY.md",
-  "stars": 2443,
+  "stars": 2445,
   "language": "Go",
   "description": ":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud",
   "first_seen": "2026-11-01 16:28:50"
@@ -16,7 +16,7 @@
   "full_name": "DataDog/guarddog",
   "url": "https://github.com/DataDog/guarddog",
   "sec_path": "SECURITY.md",
-  "stars": 1243,
+  "stars": 1250,
   "language": "Python",
   "description": ":snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages",
   "first_seen": "2026-11-01 16:28:50"
@@ -27,7 +27,7 @@
   "full_name": "DataDog/KubeHound",
   "url": "https://github.com/DataDog/KubeHound",
   "sec_path": "SECURITY.md",
-  "stars": 1018,
+  "stars": 1021,
   "language": "Go",
   "description": "Tool for building Kubernetes attack paths",
   "first_seen": "2026-11-01 16:28:50"
@@ -49,7 +49,7 @@
   "full_name": "DataDog/dd-trace-js",
   "url": "https://github.com/DataDog/dd-trace-js",
   "sec_path": "SECURITY.md",
-  "stars": 840,
+  "stars": 841,
   "language": "JavaScript",
   "description": "Datadog APM client for Node.js",
   "first_seen": "2026-11-01 16:28:50"
@@ -60,7 +60,7 @@
   "full_name": "DataDog/dd-trace-java",
   "url": "https://github.com/DataDog/dd-trace-java",
   "sec_path": "SECURITY.md",
-  "stars": 738,
+  "stars": 740,
   "language": "Java",
   "description": "Datadog APM client for Java",
   "first_seen": "2026-11-01 16:28:50"
@@ -93,7 +93,7 @@
   "full_name": "DataDog/dd-trace-dotnet",
   "url": "https://github.com/DataDog/dd-trace-dotnet",
   "sec_path": "docs/SECURITY.md",
-  "stars": 572,
+  "stars": 573,
   "language": "C#",
   "description": ".NET Client Library for Datadog APM",
   "first_seen": "2026-11-01 16:28:50"
@@ -104,7 +104,7 @@
   "full_name": "DataDog/dd-trace-php",
   "url": "https://github.com/DataDog/dd-trace-php",
   "sec_path": "SECURITY.md",
-  "stars": 558,
+  "stars": 560,
   "language": "PHP",
   "description": "Datadog PHP Clients",
   "first_seen": "2026-11-01 16:28:50"
@@ -126,7 +126,7 @@
   "full_name": "DataDog/dd-trace-rb",
   "url": "https://github.com/DataDog/dd-trace-rb",
   "sec_path": "SECURITY.md",
-  "stars": 417,
+  "stars": 419,
   "language": "Ruby",
   "description": "Datadog's client library for Ruby",
   "first_seen": "2026-11-01 16:28:50"
@@ -137,7 +137,7 @@
   "full_name": "DataDog/supply-chain-firewall",
   "url": "https://github.com/DataDog/supply-chain-firewall",
   "sec_path": "SECURITY.md",
-  "stars": 403,
+  "stars": 404,
   "language": "Go",
   "description": "Supply Chain Firewall (SCFW) is a tool for preventing the installation of malicious npm and PyPI packages :fire:",
   "first_seen": "2026-11-01 16:28:50"
@@ -148,7 +148,7 @@
   "full_name": "DataDog/pathfinding.cloud",
   "url": "https://github.com/DataDog/pathfinding.cloud",
   "sec_path": "SECURITY.md",
-  "stars": 160,
+  "stars": 162,
   "language": "Python",
   "description": "An AWS IAM Privilege Escalation Path Library",
   "first_seen": "2026-11-01 16:29:52"
@@ -196,6 +196,18 @@
   "language": "Go",
   "description": "rshell - A Restricted Shell for AI Agents",
   "first_seen": "2026-11-01 16:28:50"
+ },
+ {
+  "vendor": "Datadog",
+  "org": "DataDog",
+  "full_name": "DataDog/redis-cluster-kubernetes-operator",
+  "url": "https://github.com/DataDog/redis-cluster-kubernetes-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 27,
+  "language": "Go",
+  "description": "A Kubernetes operator for deploying and managing Redis clusters. - Repository managed by GRM",
+  "license": null,
+  "first_seen": "2026-11-04 03:02:26"
  },
  {
   "vendor": "Datadog",
@@ -464,23 +476,11 @@
  {
   "vendor": "Datadog",
   "org": "DataDog",
-  "full_name": "DataDog/redis-cluster-kubernetes-operator",
-  "url": "https://github.com/DataDog/redis-cluster-kubernetes-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Go",
-  "description": "A Kubernetes operator for deploying and managing Redis clusters. - Repository managed by GRM",
-  "license": null,
-  "first_seen": "2026-11-04 03:02:26"
- },
- {
-  "vendor": "Datadog",
-  "org": "DataDog",
   "full_name": "DataDog/rules_test_optimization",
   "url": "https://github.com/DataDog/rules_test_optimization",
   "sec_path": "SECURITY.md",
   "stars": 1,
-  "language": "Starlark",
+  "language": "Python",
   "description": "A Bazel extension for Test Optimization product",
   "first_seen": "2026-11-01 16:28:50"
  },
@@ -887,7 +887,7 @@
   "url": "https://github.com/DataDog/supply-chain-firewall-action",
   "sec_path": "SECURITY.md",
   "stars": null,
-  "language": "Shell",
+  "language": "Python",
   "description": "A GitHub Action for Datadog's Supply Chain Firewall :fire:",
   "first_seen": "2026-11-01 16:29:52"
  },
