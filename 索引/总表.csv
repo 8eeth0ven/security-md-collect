@@ -447,9 +447,9 @@ CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-ai-pytho
 深度求索DeepSeek,无,deepseek-ai,deepseek-ai/dsh-node-addon-require-builtin,https://github.com/deepseek-ai/dsh-node-addon-require-builtin,22,C++,SECURITY.md,An internal component used by DeepSeek Harness
 智谱AI,无,THUDM,THUDM/INFTY,https://github.com/THUDM/INFTY,578,Python,SECURITY.md,INFTY Engine: An Optimization Toolkit to Support Continual AI
 智谱AI,无,zai-org,zai-org/feedback,https://github.com/zai-org/feedback,41,,SECURITY.md,ZCode 用户建议与反馈收集，处理状态全程公开
-月之暗面,无,MoonshotAI,MoonshotAI/kimi-cli,https://github.com/MoonshotAI/kimi-cli,11415,Python,SECURITY.md,"[Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code"
-月之暗面,无,MoonshotAI,MoonshotAI/kimi-code,https://github.com/MoonshotAI/kimi-code,8217,TypeScript,SECURITY.md,Kimi Code CLI  —  The Starting Point for Next-Gen Agents
-面壁智能,无,OpenBMB,OpenBMB/UltraRAG,https://github.com/OpenBMB/UltraRAG,5741,Python,.github/SECURITY.md,A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+月之暗面,无,MoonshotAI,MoonshotAI/kimi-cli,https://github.com/MoonshotAI/kimi-cli,11413,Python,SECURITY.md,"[Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code"
+月之暗面,无,MoonshotAI,MoonshotAI/kimi-code,https://github.com/MoonshotAI/kimi-code,8218,TypeScript,SECURITY.md,Kimi Code CLI  —  The Starting Point for Next-Gen Agents
+面壁智能,无,OpenBMB,OpenBMB/UltraRAG,https://github.com/OpenBMB/UltraRAG,5742,Python,.github/SECURITY.md,A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 面壁智能,无,OpenBMB,OpenBMB/EdgeClaw,https://github.com/OpenBMB/EdgeClaw,1185,TypeScript,SECURITY.md,EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
 面壁智能,无,OpenBMB,OpenBMB/llama.cpp-omni,https://github.com/OpenBMB/llama.cpp-omni,46,C++,SECURITY.md,Omni inference in C/C++
 腾讯,TSRC,Tencent,Tencent/WeKnora,https://github.com/Tencent/WeKnora,37330,Go,SECURITY.md,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
@@ -509,7 +509,7 @@ CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-ai-pytho
 阿里巴巴,ASRC,aliyun,aliyun/aliyun-cli,https://github.com/aliyun/aliyun-cli,1136,Go,SECURITY.md,Alibaba Cloud CLI
 阿里巴巴,ASRC,alibaba,alibaba/alibaba-rsocket-broker,https://github.com/alibaba/alibaba-rsocket-broker,756,Java,SECURITY.md,"Alibaba RSocket Broker: Mesh, Streaming & IoT"
 阿里巴巴,ASRC,alibaba,alibaba/kubeskoop,https://github.com/alibaba/kubeskoop,703,Go,SECURITY.md,Network monitoring & diagnosis suite for Kubernetes
-阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/terway,https://github.com/AliyunContainerService/terway,621,Go,SECURITY.md,CNI plugin for Alibaba Cloud VPC/ENI
+阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/terway,https://github.com/AliyunContainerService/terway,622,Go,SECURITY.md,CNI plugin for Alibaba Cloud VPC/ENI
 阿里巴巴,ASRC,alibaba,alibaba/UnifiedModel,https://github.com/alibaba/UnifiedModel,458,Go,SECURITY.md,"The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry…"
 阿里巴巴,ASRC,alibaba,alibaba/neug,https://github.com/alibaba/neug,178,C++,SECURITY.md,The one data index for your agentic applications
 阿里巴巴,ASRC,aliyun,aliyun/alibabacloud-ack-mcp-server,https://github.com/aliyun/alibabacloud-ack-mcp-server,121,Python,SECURITY.md,"Alibaba Cloud's ack-mcp-server unifies container operations capabilities, enabling AI assistants and third-party AI agents to perform complex tasks via natural …"
@@ -734,7 +734,7 @@ CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-ai-pytho
 百度,BSRC,baidu,baidu/scs-redis,https://github.com/baidu/scs-redis,11,C,SECURITY.md,"Redis-based cloud adaptation powering Baidu AI Cloud's SCS, optimized for large-scale multi-tenant deployments with enhanced HA, reliability and security - batt…"
 华为,Huawei PSIRT,mindspore-ai,mindspore-ai/mindspore,https://github.com/mindspore-ai/mindspore,4726,C++,SECURITY.md,"MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios."
 华为,Huawei PSIRT,Huawei,Huawei/eSDK_K8S_Plugin,https://github.com/Huawei/eSDK_K8S_Plugin,122,Go,SECURITY.md,Container-Storage-Interface (CSI) for Huawei storage
-华为,Huawei PSIRT,Ascend,Ascend/MindIE-LLM,https://github.com/Ascend/MindIE-LLM,29,C++,security.md,
+华为,Huawei PSIRT,Ascend,Ascend/MindIE-LLM,https://github.com/Ascend/MindIE-LLM,30,C++,security.md,
 华为,Huawei PSIRT,mindspore-ai,mindspore-ai/contrib,https://github.com/mindspore-ai/contrib,19,Jupyter Notebook,SECURITY.md,
 华为,Huawei PSIRT,Ascend,Ascend/MindIE-SD,https://github.com/Ascend/MindIE-SD,18,C++,SECURITY.md,
 华为,Huawei PSIRT,mindspore-ai,mindspore-ai/mindspore-lite,https://github.com/mindspore-ai/mindspore-lite,14,C++,SECURITY.md,
@@ -3747,9 +3747,9 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/secure-cua,https://github.com/google/secure-cua,0,Python,SECURITY.md,
 Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105462,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
-Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28250,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
-Meta,自建（Meta Bug Bounty）,Meta,meta/astryx,https://github.com/meta/astryx,26499,TypeScript,SECURITY.md,An open source design system that's fully customizable and agent ready
-Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18684,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
+Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28256,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
+Meta,自建（Meta Bug Bounty）,Meta,meta/astryx,https://github.com/meta/astryx,26939,TypeScript,SECURITY.md,An open source design system that's fully customizable and agent ready
+Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18683,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
 Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-ios-sdk,https://github.com/meta/facebook-ios-sdk,8117,Swift,SECURITY.md,Used to integrate the Facebook Platform with your iOS & tvOS apps.
 Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-android-sdk,https://github.com/meta/facebook-android-sdk,6467,Kotlin,SECURITY.md,Used to integrate Android apps with Facebook Platform.
 Meta,自建（Meta Bug Bounty）,pytorch,pytorch/serve,https://github.com/pytorch/serve,4344,Java,SECURITY.md,"Serve, optimize and scale PyTorch models in production"
@@ -4238,6 +4238,7 @@ Netflix,Bugcrowd（Netflix）,netflix,Netflix/dgs-framework,https://github.com/N
 Netflix,Bugcrowd（Netflix）,netflix,Netflix/spark,https://github.com/Netflix/spark,11,Scala,docs/security.md,Netflix branches of Apache Spark
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/LightGBM,https://github.com/Netflix-Skunkworks/LightGBM,1,C++,SECURITY.md,"A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classifica…"
 Netflix,Bugcrowd（Netflix）,netflix,Netflix/asf-rez-fork,https://github.com/Netflix/asf-rez-fork,1,Python,SECURITY.md,"An integrated package configuration, build and deployment system for software"
+Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/eventexplorer,https://github.com/Netflix-Skunkworks/eventexplorer,1,Rust,SECURITY.md,FreeBSD EventLog processing and visualization tool
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/moby,https://github.com/Netflix-Skunkworks/moby,,Go,SECURITY.md,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/kinvolk-kubernetes,https://github.com/Netflix-Skunkworks/kinvolk-kubernetes,,Go,.github/SECURITY.md,Container Cluster Manager from Google
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/etcd,https://github.com/Netflix-Skunkworks/etcd,,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
@@ -4270,6 +4271,7 @@ Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/aepsdk-test
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/tiered-storage-for-apache-kafka,https://github.com/adobe/tiered-storage-for-apache-kafka,,Java,SECURITY.md,RemoteStorageManager for Apache Kafka® Tiered Storage
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/openwhisk,https://github.com/adobe/openwhisk,,Scala,docs/security.md,Apache OpenWhisk is an open source serverless cloud platform
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/react,https://github.com/adobe/react,,JavaScript,SECURITY.md,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/media,https://github.com/adobe/media,0,Java,SECURITY.md,"Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graal,https://github.com/oracle/graal,21753,Java,SECURITY.md,"GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀"
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-server,https://github.com/mysql/mysql-server,12510,C++,SECURITY.md,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/docker-images,https://github.com/oracle/docker-images,7008,Shell,SECURITY.md,"Official source of container configurations, images, and examples for Oracle products and projects"
@@ -4509,7 +4511,7 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/sarama,https://github.com/IBM/sarama,12525,
 IBM,自建PSIRT（X-Force）,IBM,IBM/mcp-context-forge,https://github.com/IBM/mcp-context-forge,4813,Python,SECURITY.md,"An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and…"
 IBM,自建PSIRT（X-Force）,IBM,IBM/openapi-to-graphql,https://github.com/IBM/openapi-to-graphql,1643,TypeScript,SECURITY.md,Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
 IBM,自建PSIRT（X-Force）,IBM,IBM/aihwkit,https://github.com/IBM/aihwkit,529,Jupyter Notebook,.github/SECURITY.md,IBM Analog Hardware Acceleration Kit
-IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/terraform-provider-ibm,https://github.com/IBM-Cloud/terraform-provider-ibm,363,Go,SECURITY.md,https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs
+IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/terraform-provider-ibm,https://github.com/IBM-Cloud/terraform-provider-ibm,364,Go,SECURITY.md,https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs
 IBM,自建PSIRT（X-Force）,IBM,IBM/mac-ibm-notifications,https://github.com/IBM/mac-ibm-notifications,345,Swift,SECURITY.md,macOS agent used to display custom notifications and alerts to the end user.
 IBM,自建PSIRT（X-Force）,IBM,IBM/japan-technology,https://github.com/IBM/japan-technology,155,Jupyter Notebook,SECURITY.md,"IBM Related Japanese technical documents - Code Patterns, Learning Path, Tutorials, etc."
 IBM,自建PSIRT（X-Force）,IBM,IBM/mac-ibm-migration-tool,https://github.com/IBM/mac-ibm-migration-tool,154,Swift,SECURITY.md,macOS Utility to facilitate the mass migration of files/apps/preferences between devices.
@@ -5370,11 +5372,11 @@ Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/customer-churn-predicti
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/order-to-delivery-time-forecasting,https://github.com/oneapi-src/order-to-delivery-time-forecasting,0,Python,SECURITY.md,AI Starter Kit of a delivery time forecasting solution using Intel® optimized version of XGBoost
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/document-automation,https://github.com/oneapi-src/document-automation,0,Python,SECURITY.md,AI Starter Kit for Named Entity Recognition using Intel® Optimized Tensorflow (version 2.9.0 with oneDNN)
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/gaia,https://github.com/amd/gaia,1622,Python,SECURITY.md,Build AI agents for your PC
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/TheRock,https://github.com/ROCm/TheRock,1437,Python,SECURITY.md,The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/TheRock,https://github.com/ROCm/TheRock,1438,Python,SECURITY.md,The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/HIPIFY,https://github.com/ROCm/HIPIFY,738,C++,SECURITY.md,HIPIFY: Convert CUDA to Portable C++ Code
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/tensorflow-upstream,https://github.com/ROCm/tensorflow-upstream,707,C++,SECURITY.md,TensorFlow ROCm port
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/skills,https://github.com/amd/skills,490,Python,SECURITY.md,Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/AMDMIGraphX,https://github.com/ROCm/AMDMIGraphX,338,C++,SECURITY.md,AMD's graph optimization engine.
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/AMDMIGraphX,https://github.com/ROCm/AMDMIGraphX,339,C++,SECURITY.md,AMD's graph optimization engine.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-examples,https://github.com/ROCm/rocm-examples,330,C++,SECURITY.md,A collection of examples for the ROCm software stack
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/pytorch,https://github.com/ROCm/pytorch,261,Python,SECURITY.md,"Tensors and Dynamic neural networks in Python  with strong GPU acceleration. To use PyTorch with latest ROCm releases, see: https://rocm.docs.amd.com/en/latest/…"
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/llvm-project,https://github.com/ROCm/llvm-project,244,LLVM,SECURITY.md,This is the AMD-maintained fork of the LLVM git repository. This repository accepts pull requests and issues related to AMD fork-specific topics (amd/*). For al…
@@ -5480,38 +5482,38 @@ AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/onnxruntime-training-example
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/geometric-nn-ops,https://github.com/ROCm/geometric-nn-ops,0,Python,SECURITY.md,Vendor-neutral GPU kernels for geometry-aware neural nets (triangle/folding ops)
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/amdgpu-isa-spec,https://github.com/ROCm/amdgpu-isa-spec,0,,SECURITY.md,This repo holds documentations that describe the syntax of AMDGPU instructions.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-community-kernels,https://github.com/ROCm/rocm-community-kernels,0,,SECURITY.md,To work closely with huggingface to push pre-build and optimized GPU kernels on AMD hardware on Huggingface Hub. 
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/SkillSpector,https://github.com/NVIDIA/SkillSpector,25710,Python,SECURITY.md,"Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in…"
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NemoClaw,https://github.com/NVIDIA/NemoClaw,23014,TypeScript,SECURITY.md,"Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference"
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/OpenShell,https://github.com/NVIDIA/OpenShell,21521,Rust,SECURITY.md,"OpenShell is the safe, private runtime for autonomous AI agents."
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Megatron-LM,https://github.com/NVIDIA/Megatron-LM,18385,Python,SECURITY.md,Ongoing research training transformer models at scale
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/SkillSpector,https://github.com/NVIDIA/SkillSpector,25746,Python,SECURITY.md,"Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in…"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NemoClaw,https://github.com/NVIDIA/NemoClaw,23017,TypeScript,SECURITY.md,"Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/OpenShell,https://github.com/NVIDIA/OpenShell,21547,Rust,SECURITY.md,"OpenShell is the safe, private runtime for autonomous AI agents."
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Megatron-LM,https://github.com/NVIDIA/Megatron-LM,18387,Python,SECURITY.md,Ongoing research training transformer models at scale
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/open-gpu-kernel-modules,https://github.com/NVIDIA/open-gpu-kernel-modules,17580,C,SECURITY.md,NVIDIA Linux open GPU kernel module source
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TensorRT-LLM,https://github.com/NVIDIA/TensorRT-LLM,15074,Python,SECURITY.md,TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inferen…
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cosmos,https://github.com/NVIDIA/cosmos,12358,,SECURITY.md,"NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infra…"
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/auto-ontology,https://github.com/NVIDIA/auto-ontology,12253,Python,SECURITY.md,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context ret…"
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/garak,https://github.com/NVIDIA/garak,10008,Python,SECURITY.md,the LLM vulnerability scanner
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TensorRT-LLM,https://github.com/NVIDIA/TensorRT-LLM,15075,Python,SECURITY.md,TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inferen…
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/auto-ontology,https://github.com/NVIDIA/auto-ontology,12365,Python,SECURITY.md,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context ret…"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cosmos,https://github.com/NVIDIA/cosmos,12359,,SECURITY.md,"NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infra…"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/garak,https://github.com/NVIDIA/garak,10011,Python,SECURITY.md,the LLM vulnerability scanner
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cudf,https://github.com/NVIDIA/cudf,9800,C++,SECURITY.md,cuDF - GPU DataFrame Library 
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/warp,https://github.com/NVIDIA/warp,7308,Python,SECURITY.md,"A Python framework for GPU-accelerated simulation, robotics, and machine learning."
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Model-Optimizer,https://github.com/NVIDIA/Model-Optimizer,5597,Python,SECURITY.md,"A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It comp…"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/warp,https://github.com/NVIDIA/warp,7311,Python,SECURITY.md,"A Python framework for GPU-accelerated simulation, robotics, and machine learning."
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Model-Optimizer,https://github.com/NVIDIA/Model-Optimizer,5598,Python,SECURITY.md,"A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It comp…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuml,https://github.com/NVIDIA/cuml,5322,Python,SECURITY.md,NVIDIA cuML: GPU-Accelerated Machine Learning
-NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/PhysX,https://github.com/NVIDIA-Omniverse/PhysX,4845,C++,SECURITY.md,NVIDIA PhysX SDK
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvidia-container-toolkit,https://github.com/NVIDIA/nvidia-container-toolkit,4631,Go,SECURITY.md,Build and run containers leveraging NVIDIA GPUs
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/GenerativeAIExamples,https://github.com/NVIDIA/GenerativeAIExamples,4229,Jupyter Notebook,SECURITY.md,Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuda-rust,https://github.com/NVIDIA/cuda-rust,4038,Rust,SECURITY.md,NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/skills,https://github.com/NVIDIA/skills,3953,Python,SECURITY.md,"Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows en…"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/PhysX,https://github.com/NVIDIA-Omniverse/PhysX,4847,C++,SECURITY.md,NVIDIA PhysX SDK
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvidia-container-toolkit,https://github.com/NVIDIA/nvidia-container-toolkit,4632,Go,SECURITY.md,Build and run containers leveraging NVIDIA GPUs
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/GenerativeAIExamples,https://github.com/NVIDIA/GenerativeAIExamples,4230,Jupyter Notebook,SECURITY.md,Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuda-rust,https://github.com/NVIDIA/cuda-rust,4039,Rust,SECURITY.md,NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/skills,https://github.com/NVIDIA/skills,3957,Python,SECURITY.md,"Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows en…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/k8s-device-plugin,https://github.com/NVIDIA/k8s-device-plugin,3926,Go,SECURITY.md,NVIDIA device plugin for Kubernetes
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TransformerEngine,https://github.com/NVIDIA/TransformerEngine,3603,Python,SECURITY.md,"A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwel…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/physicsnemo,https://github.com/NVIDIA/physicsnemo,3442,Python,SECURITY.md,"Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuda-python,https://github.com/NVIDIA/cuda-python,3414,Cython,SECURITY.md,CUDA Python: Performance meets Productivity
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NeMo-Retriever,https://github.com/NVIDIA/NeMo-Retriever,3014,Python,SECURITY.md,"NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever Library uses specialized NVIDIA…"
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/gpu-operator,https://github.com/NVIDIA/gpu-operator,2981,Go,SECURITY.md,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/gpu-operator,https://github.com/NVIDIA/gpu-operator,2984,Go,SECURITY.md,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NeMo-Agent-Toolkit,https://github.com/NVIDIA/NeMo-Agent-Toolkit,2702,Python,SECURITY.md,The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cccl,https://github.com/NVIDIA/cccl,2573,C++,SECURITY.md,CUDA Core Compute Libraries
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cccl,https://github.com/NVIDIA/cccl,2574,C++,SECURITY.md,CUDA Core Compute Libraries
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/accelerated-computing-hub,https://github.com/NVIDIA/accelerated-computing-hub,2220,Jupyter Notebook,SECURITY.md,NVIDIA curated collection of educational resources related to general purpose GPU programming.
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cutile-python,https://github.com/NVIDIA/cutile-python,2170,Python,SECURITY.md,cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
-NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/usd-brep,https://github.com/NVIDIA-Omniverse/usd-brep,2068,C++,SECURITY.md,USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cutile-python,https://github.com/NVIDIA/cutile-python,2171,Python,SECURITY.md,cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/usd-brep,https://github.com/NVIDIA-Omniverse/usd-brep,2073,C++,SECURITY.md,USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/aistore,https://github.com/NVIDIA/aistore,1970,Go,SECURITY.md,AIStore: scalable storage for AI applications
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/dcgm-exporter,https://github.com/NVIDIA/dcgm-exporter,1929,Go,SECURITY.md,NVIDIA hardware telemetry for Prometheus.
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Personal-AI-Router,https://github.com/NVIDIA/Personal-AI-Router,1736,Go,SECURITY.md,Router that virtually distributes inference across connected devices in the home.
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Personal-AI-Router,https://github.com/NVIDIA/Personal-AI-Router,1738,Go,SECURITY.md,Router that virtually distributes inference across connected devices in the home.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/dgx-spark-playbooks,https://github.com/NVIDIA/dgx-spark-playbooks,1488,Jupyter Notebook,SECURITY.md,Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DGX Spark devices with Blackwell architecture.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/earth2studio,https://github.com/NVIDIA/earth2studio,1243,Python,SECURITY.md,"Open-source deep-learning framework for exploring, building and deploying AI weather/climate workflows."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuda-quantum,https://github.com/NVIDIA/cuda-quantum,1196,C++,SECURITY.md,C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
@@ -5522,18 +5524,18 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/enroot,https://github.com/NVIDIA/enro
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuopt,https://github.com/NVIDIA/cuopt,1111,Cuda,SECURITY.md,GPU accelerated decision optimization 
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/raft,https://github.com/NVIDIA/raft,1053,Cuda,SECURITY.md,RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form bui…
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cudf-spark,https://github.com/NVIDIA/cudf-spark,1014,Scala,SECURITY.md,NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuvs,https://github.com/NVIDIA/cuvs,894,Cuda,SECURITY.md,cuVS - a library for vector search and clustering on the GPU
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/SkillEvaluator,https://github.com/NVIDIA/SkillEvaluator,877,Python,SECURITY.md,"Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent eval…"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/SkillEvaluator,https://github.com/NVIDIA/SkillEvaluator,953,Python,SECURITY.md,"Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent eval…"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuvs,https://github.com/NVIDIA/cuvs,895,Cuda,SECURITY.md,cuVS - a library for vector search and clustering on the GPU
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NeMo-Aligner,https://github.com/NVIDIA/NeMo-Aligner,850,Python,SECURITY.md,Scalable toolkit for efficient model alignment
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TileGym,https://github.com/NVIDIA/TileGym,841,Python,SECURITY.md,"Helpful kernel tutorials, examples and SKILLs for tile-based GPU programming"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/DCGM,https://github.com/NVIDIA/DCGM,816,C++,SECURITY.md,NVIDIA Data Center GPU Manager (DCGM) is a project for gathering telemetry and measuring the health of NVIDIA GPUs
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/hyperflare-inference,https://github.com/NVIDIA/hyperflare-inference,802,Rust,SECURITY.md,
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/hyperflare-inference,https://github.com/NVIDIA/hyperflare-inference,801,Rust,SECURITY.md,
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/spark-local-inference,https://github.com/NVIDIA/spark-local-inference,765,Rust,SECURITY.md,
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/torch-harmonics,https://github.com/NVIDIA/torch-harmonics,729,Jupyter Notebook,SECURITY.md,Differentiable signal processing on the sphere for PyTorch
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/soma-retargeter,https://github.com/NVIDIA/soma-retargeter,718,Python,SECURITY.md,SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuCollections,https://github.com/NVIDIA/cuCollections,676,Cuda,SECURITY.md,
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cosmos-framework,https://github.com/NVIDIA/cosmos-framework,637,Python,SECURITY.md,Our inference and training framework to run on the Cosmos Models
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TensorRT-Edge-LLM,https://github.com/NVIDIA/TensorRT-Edge-LLM,629,Python,SECURITY.md,"High-performance, light-weight C++ LLM and VLM Inference Software for Physical AI"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cosmos-framework,https://github.com/NVIDIA/cosmos-framework,638,Python,SECURITY.md,Our inference and training framework to run on the Cosmos Models
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TensorRT-Edge-LLM,https://github.com/NVIDIA/TensorRT-Edge-LLM,631,Python,SECURITY.md,"High-performance, light-weight C++ LLM and VLM Inference Software for Physical AI"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvmath-python,https://github.com/NVIDIA/nvmath-python,603,Cython,SECURITY.md,NVIDIA Math Libraries for the Python Ecosystem
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/flashdreams,https://github.com/NVIDIA/flashdreams,541,Python,SECURITY.md,high-performance inference and serving library for interactive autoregressive video and world models
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/MDL-SDK,https://github.com/NVIDIA/MDL-SDK,537,C++,SECURITY.md,NVIDIA Material Definition Language SDK
@@ -5543,7 +5545,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/aicr,https://github.com/NVIDIA/aicr,4
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/aerial-cuda-accelerated-ran,https://github.com/NVIDIA/aerial-cuda-accelerated-ran,458,C++,SECURITY.md,"An SDK (Software Development Kit) for building commercial-grade, AI-native, 3GPP, and O-RAN compliant 5G/6G gNB software on NVIDIA-accelerated computing platfor…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/IsaacCapture,https://github.com/NVIDIA/IsaacCapture,445,Python,SECURITY.md,Shared capture infrastructure for teleoperation and egocentric data.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NVSentinel,https://github.com/NVIDIA/NVSentinel,437,Go,SECURITY.md,NVSentinel detects and remediates GPU faults on Kubernetes nodes
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuda-q-academic,https://github.com/NVIDIA/cuda-q-academic,411,Jupyter Notebook,SECURITY.md,"This repo contains CUDA-Q Academic materials, including self-paced Jupyter notebook modules for building and optimizing hybrid quantum-classical algorithms usin…"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuda-q-academic,https://github.com/NVIDIA/cuda-q-academic,412,Jupyter Notebook,SECURITY.md,"This repo contains CUDA-Q Academic materials, including self-paced Jupyter notebook modules for building and optimizing hybrid quantum-classical algorithms usin…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/makani,https://github.com/NVIDIA/makani,405,Python,SECURITY.md,Massively parallel training of machine-learning based weather and climate models
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/logits-processor-zoo,https://github.com/NVIDIA/logits-processor-zoo,392,Python,SECURITY.md,A collection of LogitsProcessors to customize and enhance LLM behavior for specific tasks.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/recsys-examples,https://github.com/NVIDIA/recsys-examples,363,Python,SECURITY.md,Examples for Recommenders - easy to train and deploy on accelerated infrastructure.
@@ -5555,7 +5557,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/LearnOpenUSD,http
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvtrust,https://github.com/NVIDIA/nvtrust,326,Python,SECURITY.md,Ancillary open source software to support confidential computing on NVIDIA GPUs
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/DeepStream,https://github.com/NVIDIA/DeepStream,321,C++,SECURITY.md,"NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer,…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cosmos-curator,https://github.com/NVIDIA/cosmos-curator,309,Python,SECURITY.md,Cosmos Curator is a toolkit for curating physical AI training data.
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TensorRT-Model-Connect,https://github.com/NVIDIA/TensorRT-Model-Connect,294,Python,SECURITY.md,"From PyTorch model to end-to-end TensorRT inference experience in two commands—AI-native, cross-platform, and built for the best possible user experience."
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TensorRT-Model-Connect,https://github.com/NVIDIA/TensorRT-Model-Connect,295,Python,SECURITY.md,"From PyTorch model to end-to-end TensorRT inference experience in two commands—AI-native, cross-platform, and built for the best possible user experience."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/OSMO,https://github.com/NVIDIA/OSMO,288,Python,SECURITY.md,"The developer-first platform for scaling complex Physical AI workloads across heterogeneous compute—unifying training GPUs, simulation clusters, and edge device…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/asset-harvester,https://github.com/NVIDIA/asset-harvester,275,Python,SECURITY.md,NVIDIA Asset Harvester is a generative AI model for autonomous vehicle simulation that extracts reusable 3D Gaussian assets directly from captured driving scene…
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/mig-parted,https://github.com/NVIDIA/mig-parted,269,Go,SECURITY.md,MIG Partition Editor for NVIDIA GPUs
@@ -5568,7 +5570,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/G-Assist,https://github.com/NVIDIA/G-
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/3DObjectReconstruction,https://github.com/NVIDIA/3DObjectReconstruction,250,Python,SECURITY.md,"3D Object Reconstruction project is a workflow that takes a set of stereo images and camera info and outputs a textured mesh (i.e., .OBJ file). The purpose is t…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NeMo-Relay,https://github.com/NVIDIA/NeMo-Relay,245,Rust,SECURITY.md,"Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/usd-content-agents,https://github.com/NVIDIA-Omniverse/usd-content-agents,244,Python,SECURITY.md,"AI-powered agents for automating 3D content workflows using Vision-Language Models (VLMs). Content Agents analyze 3D assets and automate material assignment, ph…"
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvalchemi-toolkit,https://github.com/NVIDIA/nvalchemi-toolkit,236,Python,SECURITY.md,ALCHEMI Toolkit is a developer toolkit for accelerating training and inference for AI in chemistry and material science.
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvalchemi-toolkit,https://github.com/NVIDIA/nvalchemi-toolkit,238,Python,SECURITY.md,ALCHEMI Toolkit is a developer toolkit for accelerating training and inference for AI in chemistry and material science.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/ncore,https://github.com/NVIDIA/ncore,199,Python,SECURITY.md,"Data representations, APIs, and tools for high quality AV and robotics applications"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TorchFort,https://github.com/NVIDIA/TorchFort,199,C++,SECURITY.md,An Online Deep Learning Interface for HPC programs on NVIDIA GPUs
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/gpu-driver-container,https://github.com/NVIDIA/gpu-driver-container,196,Shell,SECURITY.md,The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of containers.
@@ -5579,10 +5581,10 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-AI-IOT,NVIDIA-AI-IOT/jetson-device-skills,ht
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/physicsnemo-cfd,https://github.com/NVIDIA/physicsnemo-cfd,165,Jupyter Notebook,SECURITY.md,L​ibrary for using the models trained in PhysicsNeMo in Engineering and CFD workflows 
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/k8s-nim-operator,https://github.com/NVIDIA/k8s-nim-operator,163,Go,SECURITY.md,An Operator for deployment and maintenance of NVIDIA NIMs and NeMo microservices in a Kubernetes environment.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/diffusion-audio-restoration,https://github.com/NVIDIA/diffusion-audio-restoration,162,Python,SECURITY.md,Audio-to-Audio Schrodinger Bridges is a diffusion-based audio restoration model for bandwidth extension and inpainting. 
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/auto-ontology-eval,https://github.com/NVIDIA/auto-ontology-eval,156,Python,SECURITY.md,"LLM-powered Text-to-SQL evaluation toolkit: schema ingestion, retrieval eval, and standalone SQL judge/re-scorer."
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/auto-ontology-eval,https://github.com/NVIDIA/auto-ontology-eval,158,Python,SECURITY.md,"LLM-powered Text-to-SQL evaluation toolkit: schema ingestion, retrieval eval, and standalone SQL judge/re-scorer."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/web-viewer-sample,https://github.com/NVIDIA-Omniverse/web-viewer-sample,151,TypeScript,SECURITY.md,This sample demonstrates how a front-end client can present a streamed Omniverse Kit application and how to send messages between the two apps.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/CompileIQ,https://github.com/NVIDIA/CompileIQ,148,Python,SECURITY.md,An Optimizer for Nvidia Compilers.
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nemoclaw-community,https://github.com/NVIDIA/nemoclaw-community,143,Python,SECURITY.md,"Our repository of community driven examples, showcases, and integrations"
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nemoclaw-community,https://github.com/NVIDIA/nemoclaw-community,144,Python,SECURITY.md,"Our repository of community driven examples, showcases, and integrations"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/tensor-ir,https://github.com/NVIDIA/tensor-ir,141,C++,SECURITY.md,TensorIR is a lightweight NVIDIA-owned MLIR compiler frontend for expressing tensor computations and lowering them to NVIDIA CUDA Tile IR. 
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/ais-k8s,https://github.com/NVIDIA/ais-k8s,139,Go,SECURITY.md,"Kubernetes Operator, Helm Charts, Ansible Playbooks, and utility scripts for large-scale AIStore deployments on Kubernetes."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/aerial-framework,https://github.com/NVIDIA/aerial-framework,139,C++,SECURITY.md,"A toolchain for generating high-performance, GPU-accelerated 5G/6G pipelines from Python and a modular, real-time runtime for executing the pipelines on NVIDIA …"
@@ -5599,7 +5601,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/doca-platform,https://github.com/NVID
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/xr-ai,https://github.com/NVIDIA/xr-ai,104,Python,SECURITY.md,XR AI
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/gpu-admin-tools,https://github.com/NVIDIA/gpu-admin-tools,104,Python,SECURITY.md,"GPU Admin Tools. Includes Confidential Computing controls for H100, and other functionality"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Maya-ACE,https://github.com/NVIDIA/Maya-ACE,103,C++,SECURITY.md,Maya-ACE: A Reference Client Implementation for NVIDIA ACE Audio2Face Service
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nsight-perf-sdk-for-ai,https://github.com/NVIDIA/nsight-perf-sdk-for-ai,99,CMake,SECURITY.md,"Always-on, low-overhead GPU and CUDA performance tracing SDK for AI workloads. C++ client APIs, CLI tools, open data model, Perfetto export."
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nsight-perf-sdk-for-ai,https://github.com/NVIDIA/nsight-perf-sdk-for-ai,100,CMake,SECURITY.md,"Always-on, low-overhead GPU and CUDA performance tracing SDK for AI workloads. C++ client APIs, CLI tools, open data model, Perfetto export."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Ising,https://github.com/NVIDIA/Ising,98,,SECURITY.md,A model family accelerating the development of useful quantum computers
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/context-aware-rag,https://github.com/NVIDIA/context-aware-rag,93,Python,SECURITY.md,Context-Aware RAG library for Knowledge Graph ingestion and retrieval functions.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuml-spark,https://github.com/NVIDIA/cuml-spark,92,Jupyter Notebook,SECURITY.md,cuML Spark – accelerate Apache Spark MLlib with GPUs
@@ -5609,15 +5611,15 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/harmonizer,https://github.com/NVIDIA/
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuDecomp,https://github.com/NVIDIA/cuDecomp,89,C++,SECURITY.md,An Adaptive Pencil Decomposition Library for NVIDIA GPUs
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/sports-intelligence-playbooks,https://github.com/NVIDIA/sports-intelligence-playbooks,88,Python,SECURITY.md,"This repository provides a starter kit for sports intelligence built on NVIDIA AI stack: playbooks, training recipes, and inference for Multimodal Language Mode…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/knavigator,https://github.com/NVIDIA/knavigator,87,Go,SECURITY.md,"knavigator is a development, testing, and optimization toolkit for AI/ML scheduling systems at scale on Kubernetes."
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cluster-readiness-engine,https://github.com/NVIDIA/cluster-readiness-engine,86,Go,SECURITY.md,NVIDIA Cluster Readiness Engine
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cluster-readiness-engine,https://github.com/NVIDIA/cluster-readiness-engine,87,Go,SECURITY.md,NVIDIA Cluster Readiness Engine
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NVIDIA-GenAI-Creator-Toolkit,https://github.com/NVIDIA/NVIDIA-GenAI-Creator-Toolkit,86,Python,SECURITY.md,A collection of generative ai workflows for creators.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/jaxpp,https://github.com/NVIDIA/jaxpp,85,Python,SECURITY.md,JaxPP is a library for JAX that enables flexible MPMD pipeline parallelism for large-scale LLM training
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/halos-outside-in-safety,https://github.com/NVIDIA/halos-outside-in-safety,83,C++,SECURITY.md,NVIDIA Halos Outside-In Safety Blueprint extends robot perception beyond on-board sensors by using external infrastructure cameras and AI agents to dynamically …
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cosmos-data-factory,https://github.com/NVIDIA/cosmos-data-factory,79,,SECURITY.md,Synthetic Data Generation Workflows for Physical AI
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cosmos-data-factory,https://github.com/NVIDIA/cosmos-data-factory,80,,SECURITY.md,Synthetic Data Generation Workflows for Physical AI
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nodewright,https://github.com/NVIDIA/nodewright,78,Go,SECURITY.md,A Kubernetes Operator to manage Node OS customizations.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nccl-extensions,https://github.com/NVIDIA/nccl-extensions,78,Cuda,SECURITY.md,"Communication patterns for AI, built on top of NCCL device and host APIs"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/vagrant-swift-all-in-one,https://github.com/NVIDIA/vagrant-swift-all-in-one,78,Ruby,SECURITY.md,Vagrant Swift All In One
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/kumo-engine,https://github.com/NVIDIA/kumo-engine,77,Python,SECURITY.md,"Kumo Engine is an accelerator for context generation over structured data, designed for teams building and running predictive models in production at scale."
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nodewright,https://github.com/NVIDIA/nodewright,77,Go,SECURITY.md,A Kubernetes Operator to manage Node OS customizations.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/numba-cuda-mlir,https://github.com/NVIDIA/numba-cuda-mlir,77,Python,SECURITY.md,repo for Numba-CUDA-MLIR
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NeMo-Fabric,https://github.com/NVIDIA/NeMo-Fabric,75,Python,SECURITY.md,NVIDIA NeMo Fabric
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-AI-IOT,NVIDIA-AI-IOT/jetson-bsp-skills,https://github.com/NVIDIA-AI-IOT/jetson-bsp-skills,75,Standard ML,SECURITY.md,Agentic Skills for Jetson BSP Customization
@@ -5654,7 +5656,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/OpenShell-Research,https://github.com
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvrc,https://github.com/NVIDIA/nvrc,47,Rust,SECURITY.md,The NVRC project provides a Rust binary that implements a simple init system for microVMs.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/AI-Factory-Operations-Agent,https://github.com/NVIDIA/AI-Factory-Operations-Agent,41,TypeScript,SECURITY.md,Deploy AI agents to investigate cluster issues and streamline governed AI factory operations.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/usd-convert-cad,https://github.com/NVIDIA-Omniverse/usd-convert-cad,41,,SECURITY.md,AI Agent Skill for converting CAD models to OpenUSD. Enables autonomous agents to translate 3D CAD assets into USD/USDA/USDC by leveraging the usd-convert-cad P…
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NuRec,https://github.com/NVIDIA/NuRec,39,Python,SECURITY.md,NVIDIA Omniverse NuRec provides neural reconstruction APIs and libraries to reconstruct and render interactive simulations from real-world data.
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NuRec,https://github.com/NVIDIA/NuRec,40,Python,SECURITY.md,NVIDIA Omniverse NuRec provides neural reconstruction APIs and libraries to reconstruct and render interactive simulations from real-world data.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cloudxr-lovr-sample,https://github.com/NVIDIA/cloudxr-lovr-sample,38,Lua,SECURITY.md,"Stream your LÖVR VR applications wirelessly to supported headsets using NVIDIA CloudXR technology. This sample integrates CloudXR Runtime into LÖVR, enabling un…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/infra-controller-rest,https://github.com/NVIDIA/infra-controller-rest,38,Go,SECURITY.md,NVIDIA Infra Controller - Hardware Lifecycle Management (REST API)
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/usd-optimize,https://github.com/NVIDIA-Omniverse/usd-optimize,38,C++,SECURITY.md,Library to optimize OpenUSD stages.
@@ -5677,12 +5679,12 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/usd-search,https:
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/local-ai-inference-recipes,https://github.com/NVIDIA/local-ai-inference-recipes,26,,SECURITY.md,NVIDIA’s latest recommended recipes for running models on NVIDIA local hardware
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cloudxr-js-samples,https://github.com/NVIDIA/cloudxr-js-samples,26,TypeScript,SECURITY.md,"The samples for CloudXR.js, a JavaScript Client SDK that enables developers to build enterprise web applications for streaming high-performance VR and AR conten…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvnmos,https://github.com/NVIDIA/nvnmos,25,Rust,SECURITY.md,NVIDIA NMOS (Networked Media Open Specifications) Library
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Nomos,https://github.com/NVIDIA/Nomos,24,Python,SECURITY.md,"Stops AI agents from taking unwanted or overeager actions. Nomos reviews each proposed action against the agent's own context (its permissions, task, justificat…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/swe-serve,https://github.com/NVIDIA/swe-serve,24,Python,SECURITY.md,"SWE-Serve: an agentic benchmark of 53 production inference-engineering tasks derived from merged SGLang pull requests, run with Harbor."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/QCalEval,https://github.com/NVIDIA/QCalEval,24,Python,SECURITY.md,Evaluation scripts for the QCalEval benchmark — a dataset for assessing vision-language model capabilities on quantum calibration experiment analysis.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/spark-xgboost,https://github.com/NVIDIA/spark-xgboost,24,C++,SECURITY.md,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spa…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/apple-configurator-sample,https://github.com/NVIDIA-Omniverse/apple-configurator-sample,24,Swift,SECURITY.md,"Swift frameworks for building client applications that connect to CloudXR servers. These frameworks offer the base connection, streaming and communication syste…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuPhoton,https://github.com/NVIDIA/cuPhoton,23,Python,SECURITY.md,"CUDA-accelerated Python tools for astronomical and multi-dimensional data access, image subtraction, warping, candidate classification, and scientific review."
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/Nomos,https://github.com/NVIDIA/Nomos,23,Python,SECURITY.md,"Stops AI agents from taking unwanted or overeager actions. Nomos reviews each proposed action against the agent's own context (its permissions, task, justificat…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvidia-dlfw-inspect,https://github.com/NVIDIA/nvidia-dlfw-inspect,23,Python,SECURITY.md,"The tool facilitates debugging convergence issues and testing new algorithms and recipes for training LLMs using Nvidia libraries such as Transformer Engine, Me…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/spark-rapids-container,https://github.com/NVIDIA/spark-rapids-container,23,Shell,SECURITY.md,Spark RAPIDS Container – Docker containers for Spark RAPIDS
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovstage,https://github.com/NVIDIA-Omniverse/ovstage,23,Python,SECURITY.md,"A C and Python library providing a shared, high-performance, vectorized, GPU-capable scene data substrate for OpenUSD data across Omniverse Libraries (physics, …"
@@ -5744,6 +5746,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cuvs-lucene,https://github.com/NVIDIA
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/k8s-cc-manager,https://github.com/NVIDIA/k8s-cc-manager,10,Python,SECURITY.md,The NVIDIA CC Manager is a Kubernetes component that will enable required CC mode on supported NVIDIA GPUs
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/terraform-provider-ngc,https://github.com/NVIDIA/terraform-provider-ngc,10,Go,SECURITY.md,The NGC Provider enables Terraform to manage NGC (NVIDIA GPU Cloud) resources.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/dream-team,https://github.com/NVIDIA/dream-team,10,Python,SECURITY.md,DreamTeam is a multi-agent solver for interactive ARC-AGI-3 environments
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/ccluster,https://github.com/NVIDIA/ccluster,10,Go,SECURITY.md,"CCluster is an efficiency-focused, Kubernetes-native platform for managing the end-to-end AI lifecycle across distributed, multi-cloud GPU infrastructure"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nvidia-kernel-patches-verification,https://github.com/NVIDIA/nvidia-kernel-patches-verification,9,Shell,SECURITY.md,
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/fleet-intelligence-client,https://github.com/NVIDIA/fleet-intelligence-client,9,Go,SECURITY.md,nvfleetint provides command-line and Go interfaces to NVIDIA Fleet Intelligence.
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/cdf-auto-labeling,https://github.com/NVIDIA/cdf-auto-labeling,9,Python,SECURITY.md,"Auto-Labeling pipeline that turns raw video and images into fine-tuning-ready datasets via super-resolution, object detection and tracking, scene understanding,…"
@@ -5751,7 +5754,6 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/storage-lender,https://github.com/NVI
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/kata-containers,https://github.com/NVIDIA/kata-containers,9,Rust,SECURITY.md,"Kata containers is an implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and securit…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/k8s-samples,https://github.com/NVIDIA/k8s-samples,9,Dockerfile,SECURITY.md,Sample Dockerfiles for Docker Hub images
 NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/configurator-samples,https://github.com/NVIDIA-Omniverse/configurator-samples,9,Python,SECURITY.md,sample scripts and snippets to show developers how they could solve specific problems when creating configurators
-NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/ccluster,https://github.com/NVIDIA/ccluster,9,Go,SECURITY.md,"CCluster is an efficiency-focused, Kubernetes-native platform for managing the end-to-end AI lifecycle across distributed, multi-cloud GPU infrastructure"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/physicsnemo-serve,https://github.com/NVIDIA/physicsnemo-serve,8,Python,SECURITY.md,PhysicsNeMo-Serve is a Rust-based inference serving package for MLOps engineers that turns supported PhysicsNeMo inference pipelines into production-ready GPU s…
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/tao_tensorflow2_backend,https://github.com/NVIDIA/tao_tensorflow2_backend,8,Python,SECURITY.md,TAO Toolkit deep learning networks with TensorFlow 2.x backend
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/nautobot-app-nvdatamodels,https://github.com/NVIDIA/nautobot-app-nvdatamodels,7,Python,SECURITY.md,A Nautobot plugin which provides data models for NVIDIA products
@@ -5874,6 +5876,7 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovannotators,http
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/newton-skills,https://github.com/NVIDIA/newton-skills,0,Standard ML,SECURITY.md,Skills for using the Newton physics simulation
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/newton-samples,https://github.com/NVIDIA/newton-samples,0,Python,SECURITY.md,"A collection of complex physics simulation samples build with Newton, the GPU-accelerated physics simulation engine."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/torch-dgx,https://github.com/NVIDIA/torch-dgx,0,Cuda,SECURITY.md,A Scalable PyTorch Abstraction for Multi-GPU Deep Learning
+NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/TamingAIStorageSystems,https://github.com/NVIDIA/TamingAIStorageSystems,0,C++,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8521,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-mlir,https://github.com/qualcomm/hexagon-mlir,283,C++,SECURITY.md,Hexagon-MLIR is a compiler toolchain for compiling and executing AI kernels and models on Qualcomm Hexagon Neural Processing Units (NPUs).
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/efficient-transformers,https://github.com/qualcomm/efficient-transformers,102,Python,SECURITY.md,This library empowers users to seamlessly port pretrained models and checkpoints on the HuggingFace (HF) hub (developed using HF transformers library) into infe…
@@ -6423,6 +6426,7 @@ Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/lwc-playground-redi
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/sf-fx-sdk-java,https://github.com/forcedotcom/sf-fx-sdk-java,3,Java,SECURITY.md,[DEPRECATED] Salesforce Function SDK for Java
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/lwc-dev-server,https://github.com/forcedotcom/lwc-dev-server,3,JavaScript,SECURITY.md,Local Development for LWC
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/node-bunyan,https://github.com/forcedotcom/node-bunyan,3,JavaScript,SECURITY.md,a simple and fast JSON logging module for node.js services
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/salesforce-order-management-command-center,https://github.com/salesforce/salesforce-order-management-command-center,3,JavaScript,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/salesforcedx-vscode-mobile,https://github.com/salesforce/salesforcedx-vscode-mobile,2,TypeScript,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/eslint-plugin-lwc-mobile,https://github.com/salesforce/eslint-plugin-lwc-mobile,2,TypeScript,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/kineticpulse,https://github.com/salesforce/kineticpulse,2,Scala,SECURITY.md,
@@ -7299,12 +7303,12 @@ Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/chippy,https://g
 Atlassian,Bugcrowd（Atlassian）,atlassian,atlassian/kubernetes,https://github.com/atlassian/kubernetes,2,Go,.github/SECURITY.md,Container Cluster Manager from Google
 Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/data-visualization-skill,https://github.com/atlassian-labs/data-visualization-skill,1,Python,SECURITY.md,Data Visualization Skill based on plotly
 Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/atlassian-agent-plugins-beta,https://github.com/atlassian-labs/atlassian-agent-plugins-beta,0,JavaScript,SECURITY.md,Early-access Atlassian plugins for Claude Code and Codex
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/kotlin,https://github.com/JetBrains/kotlin,53564,Kotlin,SECURITY.md,The Kotlin Programming Language. 
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/intellij-community,https://github.com/JetBrains/intellij-community,20731,Java,SECURITY.md,IntelliJ IDEA & IntelliJ Platform
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/compose-multiplatform,https://github.com/JetBrains/compose-multiplatform,19485,Kotlin,SECURITY.md,"Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable."
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/kotlin,https://github.com/JetBrains/kotlin,53570,Kotlin,SECURITY.md,The Kotlin Programming Language. 
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/intellij-community,https://github.com/JetBrains/intellij-community,20732,Java,SECURITY.md,IntelliJ IDEA & IntelliJ Platform
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/compose-multiplatform,https://github.com/JetBrains/compose-multiplatform,19488,Kotlin,SECURITY.md,"Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable."
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/skiko,https://github.com/JetBrains/skiko,2194,Kotlin,SECURITY.md,Kotlin Multiplatform bindings to Skia
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/JetBrainsRuntime,https://github.com/JetBrains/JetBrainsRuntime,2017,Java,SECURITY.md,"Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux"
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/kotlin-web-site,https://github.com/JetBrains/kotlin-web-site,1625,TypeScript,SECURITY.md,The Kotlin programming language website
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/kotlin-web-site,https://github.com/JetBrains/kotlin-web-site,1626,TypeScript,SECURITY.md,The Kotlin programming language website
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/jewel,https://github.com/JetBrains/jewel,860,Kotlin,SECURITY.md,[MOVED TO IJ PLATFORM] An implementation of the IntelliJ look and feels in Compose for Desktop
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/youtrackdb,https://github.com/JetBrains/youtrackdb,443,Java,docs/security.md,YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID tr…
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/Qodana,https://github.com/JetBrains/Qodana,404,,.github/SECURITY.md,📝 Source repository of Qodana Help
@@ -7343,6 +7347,8 @@ JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/bun,https://githu
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/external-annotations-dotnet-runtime,https://github.com/JetBrains/external-annotations-dotnet-runtime,,C#,SECURITY.md,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/templating,https://github.com/JetBrains/templating,,C#,SECURITY.md,This repo contains the Template Engine which is used by dotnet new
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/react-buddy-react,https://github.com/JetBrains/react-buddy-react,,JavaScript,SECURITY.md,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/Anki-Android,https://github.com/JetBrains/Anki-Android,0,Kotlin,SECURITY.md,AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/spring-framework,https://github.com/JetBrains/spring-framework,0,Java,SECURITY.md,Spring Framework
 GitLab,HackerOne（GitLab）,gitlabhq,gitlabhq/cli,https://github.com/gitlabhq/cli,52,Go,SECURITY.md,Read only mirror of https://gitlab.com/gitlab-org/cli
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/spec-kit,https://github.com/github/spec-kit,149575,Python,SECURITY.md,💫 Toolkit to help you get started with SDD or any other process!
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/awesome-copilot,https://github.com/github/awesome-copilot,41096,JavaScript,SECURITY.md,"Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
