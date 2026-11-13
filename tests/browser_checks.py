@@ -94,7 +94,56 @@ def main():
             blocked.add_init_script("Object.defineProperty(window,'localStorage',{get(){throw new Error('Storage blocked')}})")
             blocked.goto(base)
             expect(blocked.locator('#results .repo-title')).to_have_count(25)
+            blocked.locator('#theme-select').select_option('dark')
+            expect(blocked.locator('html')).to_have_attribute('data-theme','dark')
+            blocked.emulate_media(color_scheme='light')
+            expect(blocked.locator('html')).to_have_attribute('data-theme','dark')
+            blocked.locator('#theme-select').select_option('light')
+            expect(blocked.locator('html')).to_have_attribute('data-theme','light')
             blocked.close()
+            # Appearance is applied in head, before body parsing, with persistence and OS changes.
+            themed_context = browser.new_context(color_scheme='dark')
+            themed_context.add_init_script('''
+                window.themeBeforeBody = null;
+                new MutationObserver(records => {
+                    if (window.themeBeforeBody === null && records.some(r => r.attributeName === 'data-theme'))
+                        window.themeBeforeBody = !document.body;
+                }).observe(document, {subtree:true, attributes:true, attributeFilter:['data-theme']});
+            ''')
+            themed = themed_context.new_page()
+            themed.goto(base)
+            expect(themed.locator('#results .repo-title')).to_have_count(25)
+            expect(themed.locator('html')).to_have_attribute('data-theme','light')
+            assert themed.evaluate('window.themeBeforeBody') is True
+            assert themed.evaluate('getComputedStyle(document.body).backgroundColor') == 'rgb(255, 255, 255)'
+            themed.locator('#theme-select').select_option('system')
+            expect(themed.locator('html')).to_have_attribute('data-theme','dark')
+            themed.locator('#fv').select_option('腾讯')
+            themed.locator('#theme-select').select_option('light')
+            expect(themed.locator('#fv')).to_have_value('腾讯')
+            themed.reload()
+            expect(themed.locator('html')).to_have_attribute('data-theme','light')
+            expect(themed.locator('#theme-select')).to_have_value('light')
+            assert themed.evaluate('window.themeBeforeBody') is True
+            themed.emulate_media(color_scheme='dark')
+            expect(themed.locator('html')).to_have_attribute('data-theme','light')
+            themed.locator('#langbtn').click()
+            expect(themed.locator('#theme-select option[value="light"]')).to_have_text('Light')
+            expect(themed.locator('#theme-select')).to_have_value('light')
+            other = themed_context.new_page()
+            other.goto(base)
+            expect(other.locator('html')).to_have_attribute('data-theme','light')
+            themed.locator('#theme-select').select_option('dark')
+            expect(other.locator('html')).to_have_attribute('data-theme','dark')
+            themed.locator('#theme-select').select_option('system')
+            expect(themed.locator('html')).to_have_attribute('data-theme','dark')
+            themed.emulate_media(color_scheme='light')
+            expect(themed.locator('html')).to_have_attribute('data-theme','light')
+            themed.evaluate("localStorage.setItem('secmd_theme','invalid')")
+            themed.reload()
+            expect(themed.locator('#theme-select')).to_have_value('light')
+            expect(themed.locator('html')).to_have_attribute('data-theme','light')
+            themed_context.close()
             # Offline/error state is useful and recovers on retry.
             page.route('**/dashboard.json',lambda route: route.abort())
             page.reload()
@@ -103,12 +152,15 @@ def main():
             page.locator('#retry').click()
             expect(page.locator('#error')).to_be_hidden()
             expect(page.locator('#results .repo-title')).to_have_count(25)
-            for language in ('zh','en'):
-                for width in (320,390,768,1024,1440):
-                    page.set_viewport_size({'width':width,'height':1000})
-                    page.goto(base + '?lang=' + language)
-                    expect(page.locator('#results .repo-title')).to_have_count(25)
-                    assert page.evaluate('document.documentElement.scrollWidth <= window.innerWidth'),(width,language,'overflow')
+            for theme in ('light','dark'):
+                for language in ('zh','en'):
+                    for width in (320,390,768,1024,1440):
+                        page.set_viewport_size({'width':width,'height':1000})
+                        page.goto(base + '?lang=' + language)
+                        expect(page.locator('#results .repo-title')).to_have_count(25)
+                        page.locator('#theme-select').select_option(theme)
+                        expect(page.locator('html')).to_have_attribute('data-theme',theme)
+                        assert page.evaluate('document.documentElement.scrollWidth <= window.innerWidth'),(width,language,theme,'overflow')
             # Treat untrusted descriptions as text, never HTML.
             injected = json.loads(json.dumps(payload))
             injected['repos'][0]['d'] = '<img src=x onerror=alert(1)>'
@@ -118,7 +170,7 @@ def main():
             assert page.locator('#results img').count() == 0
             assert not errors,errors
             browser.close()
-        print('PASS: pagination, sorting, filters, i18n, share URLs, local links, storage, failure/retry, XSS escaping; 10 viewport/language combinations.')
+        print('PASS: collection checks; theme before first paint, persistence, OS changes, cross-tab sync, blocked storage; 20 viewport/language/theme combinations.')
     finally:
         server.shutdown()
         server.server_close()

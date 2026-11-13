@@ -14,12 +14,21 @@
 
 ## 先看效果
 
-![桌面看板：统计、关键词搜索、厂商与语言筛选、策略原文入口](docs/assets/dashboard-desktop.png)
+默认使用纯白的明亮主题。右上角「外观」可切换 **明亮 / 深色 / 跟随系统**，自动记住选择。
+
+![明亮桌面看板：统计、关键词搜索、厂商与语言筛选、策略原文入口](docs/assets/dashboard-desktop.png)
+
+<details>
+<summary>查看深色主题截图</summary>
+
+![深色桌面看板](docs/assets/dashboard-dark.png)
+</details>
 
 <details>
 <summary>查看手机端截图</summary>
 <br>
-<img src="docs/assets/dashboard-mobile.png" alt="390px 宽度的手机端看板，包含统计卡片与筛选区" width="390">
+<img src="docs/assets/dashboard-mobile.png" alt="390px 宽度的明亮手机端看板" width="340">
+<img src="docs/assets/dashboard-mobile-dark.png" alt="390px 宽度的深色手机端看板" width="340">
 </details>
 
 截图是 **2026-11-13 的数据快照**，其中有 9,503 条有效仓库记录、243 个厂商和 306 个 GitHub 组织；最新数量与时间以[在线统计](https://8eeth0ven.github.io/security-md-collect/索引/统计.json)为准。历史上误计入的 908 条网络错误记录已移入[待重试清单](索引/retry-candidates.json)，保留元数据以便追溯；它们不再计入安全策略仓库数。后续记录若暂缺本地原文，则仅显示 GitHub 来源入口。
@@ -31,6 +40,7 @@
 - **读原文**：打开已保存的 `SECURITY.md`，或直接访问 GitHub 默认分支的上游策略。
 - **复用数据**：下载 CSV，用每厂商的 JSON 或聚合快照继续分析。
 - **分享检索**：筛选、排序和页码保存在 URL；中英文切换保留当前筛选，按 `/` 快速聚焦搜索框。
+- **切换外观**：默认明亮，支持深色与跟随系统；刷新、跨标签页和语言切换时保持选择，浏览器禁止存储时仍可在当前页切换。
 
 这是**公开安全策略索引**。厂商映射覆盖公开披露计划、SRC、科技公司与开源基金会；拥有 `SECURITY.md` 不代表仓库当前有赏金或属于授权测试范围。以厂商当前官方规则为准。
 

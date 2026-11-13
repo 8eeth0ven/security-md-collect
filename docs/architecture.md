@@ -28,6 +28,8 @@ flowchart LR
 - **网络失败不算收录**：`sec_path=error` 表示可重试的网络错误，不是有效策略路径。读取旧状态时将它移回组织待探测队列，不写成负缓存；生成器也会过滤此类记录。`repair_snapshots.py` 可离线修复旧 CSV、厂商 JSON、清单与统计，并把原始记录保留在 `索引/retry-candidates.json`。同步器会在发布前执行这项修复。
 - **本地服务仅暴露公开数据**：默认监听 `127.0.0.1:8899`，不提供目录浏览；状态、脚本、token 与 Git 内部文件不对外提供。
 - **默认可移植**：目录由脚本位置推导，代理按需配置，HTTPS 使用 Requests 默认的证书校验；不读取用户的全局 Git 凭据。
+- **两套完整配色**：`web/dashboard.css` 使用共享语义颜色变量，明亮主题为纯白页面与白色卡片，深色主题为中性灰。默认明亮；右上角可选择明亮、深色或跟随系统。
+- **首绘与主题记忆**：`web/theme.js` 在 head 中、CSS 前同步应用已保存的选择，避免先显示错误主题。只有明确选择跟随系统时才响应系统变化；存储不可用时仍可在当前页切换，并同步浏览器原生控件与地址栏配色。主题变化不会重置筛选和语言。
 
 ## 数据字段
 
@@ -58,3 +60,4 @@ GitHub Pages 选择 `main` 的根目录。页面源码、`web/`、`索引/dashbo
 - [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data)：公开数据快照和定时更新说明。
 - [public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs)：源数据、生成结果与验证分工。
 - [disclose/diodb](https://github.com/disclose/diodb)：开放索引和检索入口。
+- [next-themes 启动脚本](https://github.com/pacocoursey/next-themes/blob/main/next-themes/src/script.ts)、[MDN prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-color-scheme)、[MDN localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)：已有的首绘主题、系统外观与存储容错做法。

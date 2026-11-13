@@ -13,6 +13,10 @@
       sideNote: "安全策略原文与结构化索引，为你的研究提供起点。",
       viewStats: "查看统计快照 ↗",
       overview: "总览",
+      appearance: "外观",
+      themeSystem: "跟随系统",
+      themeLight: "明亮",
+      themeDark: "深色",
       headline: "从开源项目，<br><span>找到安全上报入口。</span>",
       intro:
         "聚合国内外厂商的 SECURITY.md 安全策略。<br>搜索仓库、阅读原文，让每一次研究都有据可循。",
@@ -75,6 +79,10 @@
         "Original security policies and structured data. A starting point for your research.",
       viewStats: "View statistics ↗",
       overview: "Overview",
+      appearance: "Appearance",
+      themeSystem: "System",
+      themeLight: "Light",
+      themeDark: "Dark",
       headline: "Open-source projects.<br><span>Clear reporting paths.</span>",
       intro:
         "Explore SECURITY.md policies from companies and communities.<br>Find a repository. Read the policy. Start with the source.",
@@ -240,6 +248,8 @@
       else el.textContent = t(el.dataset.i18n);
     });
     $("q").placeholder = t("search");
+    $("theme-select").setAttribute("aria-label", t("appearance"));
+    $("theme-select").value = window.secmdTheme.preference;
     $("q").setAttribute("aria-label", t("search"));
     $("langbtn").textContent = lang === "zh" ? "EN / 中文" : "中文 / EN";
     $("langbtn").setAttribute(
