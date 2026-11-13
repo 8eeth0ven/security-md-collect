@@ -5,7 +5,7 @@
   "full_name": "mindspore-ai/mindspore",
   "url": "https://github.com/mindspore-ai/mindspore",
   "sec_path": "SECURITY.md",
-  "stars": 4716,
+  "stars": 4726,
   "language": "C++",
   "description": "MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.",
   "license": null,
@@ -74,7 +74,7 @@
   "full_name": "mindspore-ai/mindspore-lite",
   "url": "https://github.com/mindspore-ai/mindspore-lite",
   "sec_path": "SECURITY.md",
-  "stars": 11,
+  "stars": 14,
   "language": "C++",
   "description": "",
   "license": null,
@@ -93,6 +93,18 @@
  },
  {
   "vendor": "华为",
+  "org": "mindspore-ai",
+  "full_name": "mindspore-ai/vllm-mindspore",
+  "url": "https://github.com/mindspore-ai/vllm-mindspore",
+  "sec_path": "error",
+  "stars": 7,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 22:41:14"
+ },
+ {
+  "vendor": "华为",
   "org": "Ascend",
   "full_name": "Ascend/MindIE-Motor",
   "url": "https://github.com/Ascend/MindIE-Motor",
@@ -101,18 +113,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 16:22:52"
- },
- {
-  "vendor": "华为",
-  "org": "mindspore-ai",
-  "full_name": "mindspore-ai/vllm-mindspore",
-  "url": "https://github.com/mindspore-ai/vllm-mindspore",
-  "sec_path": "error",
-  "stars": 6,
-  "language": "Python",
-  "description": "",
-  "license": null,
-  "first_seen": "2026-11-01 22:41:14"
  },
  {
   "vendor": "华为",
@@ -579,5 +579,17 @@
   "description": "暂无描述",
   "license": null,
   "first_seen": "2026-11-01 23:10:05"
+ },
+ {
+  "vendor": "华为",
+  "org": "openharmony",
+  "full_name": "openharmony/third_party_hifhe",
+  "url": "https://github.com/openharmony/third_party_hifhe",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "C",
+  "description": "HiFHE 是面向 openHiTLS 的同态加密 provider 的三方密码库，提供同态算法。",
+  "license": null,
+  "first_seen": "2026-11-13 14:07:53"
  }
 ]

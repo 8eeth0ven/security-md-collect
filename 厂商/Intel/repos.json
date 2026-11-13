@@ -578,7 +578,7 @@
   "full_name": "oneapi-src/level-zero",
   "url": "https://github.com/oneapi-src/level-zero",
   "sec_path": "SECURITY.md",
-  "stars": 343,
+  "stars": 344,
   "language": "C++",
   "description": "oneAPI Level Zero Specification Headers and Loader",
   "license": null,
@@ -1379,6 +1379,18 @@
  },
  {
   "vendor": "Intel",
+  "org": "oneapi-src",
+  "full_name": "oneapi-src/oneapi-ci",
+  "url": "https://github.com/oneapi-src/oneapi-ci",
+  "sec_path": "SECURITY.md",
+  "stars": 112,
+  "language": "Shell",
+  "description": "Sample configuration files for using oneAPI in CI systems",
+  "license": null,
+  "first_seen": "2026-11-01 23:05:44"
+ },
+ {
+  "vendor": "Intel",
   "org": "intel",
   "full_name": "intel/Intel-Pattern-Matching-Technology",
   "url": "https://github.com/intel/Intel-Pattern-Matching-Technology",
@@ -1387,18 +1399,6 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "oneapi-src",
-  "full_name": "oneapi-src/oneapi-ci",
-  "url": "https://github.com/oneapi-src/oneapi-ci",
-  "sec_path": "SECURITY.md",
-  "stars": 111,
-  "language": "Shell",
-  "description": "Sample configuration files for using oneAPI in CI systems",
-  "license": null,
-  "first_seen": "2026-11-01 23:05:44"
  },
  {
   "vendor": "Intel",
@@ -5586,18 +5586,6 @@
  },
  {
   "vendor": "Intel",
-  "org": "oneapi-src",
-  "full_name": "oneapi-src/historical-assets-document-process",
-  "url": "https://github.com/oneapi-src/historical-assets-document-process",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": "Python",
-  "description": "AI Starter Kit for Historical Assets document processing using Intel® Extension for Pytorch",
-  "license": null,
-  "first_seen": "2026-11-01 23:05:44"
- },
- {
-  "vendor": "Intel",
   "org": "intel",
   "full_name": "intel/enterprise-rag",
   "url": "https://github.com/intel/enterprise-rag",
@@ -5771,6 +5759,18 @@
   "stars": 7,
   "language": "Python",
   "description": "AI Starter Kit for the implementation of an AI transcribe system using Intel® Extension for PyTorch* ",
+  "license": null,
+  "first_seen": "2026-11-01 23:05:44"
+ },
+ {
+  "vendor": "Intel",
+  "org": "oneapi-src",
+  "full_name": "oneapi-src/historical-assets-document-process",
+  "url": "https://github.com/oneapi-src/historical-assets-document-process",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Python",
+  "description": "AI Starter Kit for Historical Assets document processing using Intel® Extension for Pytorch",
   "license": null,
   "first_seen": "2026-11-01 23:05:44"
  },
@@ -7245,6 +7245,18 @@
  {
   "vendor": "Intel",
   "org": "oneapi-src",
+  "full_name": "oneapi-src/oneapi-rs",
+  "url": "https://github.com/oneapi-src/oneapi-rs",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Rust",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 23:05:44"
+ },
+ {
+  "vendor": "Intel",
+  "org": "oneapi-src",
   "full_name": "oneapi-src/distributed-ranges-tutorial",
   "url": "https://github.com/oneapi-src/distributed-ranges-tutorial",
   "sec_path": "security.md",
@@ -7887,18 +7899,6 @@
   "language": "Python",
   "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
   "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "oneapi-src",
-  "full_name": "oneapi-src/oneapi-rs",
-  "url": "https://github.com/oneapi-src/oneapi-rs",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Rust",
-  "description": "",
-  "license": null,
-  "first_seen": "2026-11-01 23:05:44"
  },
  {
   "vendor": "Intel",

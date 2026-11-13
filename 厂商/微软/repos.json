@@ -3174,7 +3174,7 @@
   "full_name": "microsoftgraph/microsoft-graph-toolkit",
   "url": "https://github.com/microsoftgraph/microsoft-graph-toolkit",
   "sec_path": "SECURITY.md",
-  "stars": 1069,
+  "stars": 1067,
   "language": "TypeScript",
   "description": "Authentication Providers and UI components for Microsoft Graph 🦒",
   "license": null,
@@ -3592,6 +3592,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/msgraph-sdk-powershell",
+  "url": "https://github.com/microsoftgraph/msgraph-sdk-powershell",
+  "sec_path": "SECURITY.md",
+  "stars": 910,
+  "language": "C#",
+  "description": "Powershell SDK for Microsoft Graph",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/azure-search-vector-samples",
   "url": "https://github.com/Azure/azure-search-vector-samples",
@@ -3600,18 +3612,6 @@
   "language": "Jupyter Notebook",
   "description": "A repository of code samples for Vector search capabilities in Azure AI Search.",
   "first_seen": "2026-11-01 16:24:54"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/msgraph-sdk-powershell",
-  "url": "https://github.com/microsoftgraph/msgraph-sdk-powershell",
-  "sec_path": "SECURITY.md",
-  "stars": 909,
-  "language": "C#",
-  "description": "Powershell SDK for Microsoft Graph",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -3830,7 +3830,7 @@
   "full_name": "NuGet/NuGet.Client",
   "url": "https://github.com/NuGet/NuGet.Client",
   "sec_path": "SECURITY.md",
-  "stars": 822,
+  "stars": 824,
   "language": "C#",
   "description": "Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)",
   "license": null,
@@ -3954,6 +3954,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/msgraph-sdk-dotnet",
+  "url": "https://github.com/microsoftgraph/msgraph-sdk-dotnet",
+  "sec_path": "SECURITY.md",
+  "stars": 795,
+  "language": "C#",
+  "description": "Microsoft Graph Client Library for .NET!",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/node-api-dotnet",
   "url": "https://github.com/microsoft/node-api-dotnet",
@@ -3963,18 +3975,6 @@
   "description": "Advanced interoperability between .NET and JavaScript in the same process.",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/msgraph-sdk-dotnet",
-  "url": "https://github.com/microsoftgraph/msgraph-sdk-dotnet",
-  "sec_path": "SECURITY.md",
-  "stars": 794,
-  "language": "C#",
-  "description": "Microsoft Graph Client Library for .NET!",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -4500,7 +4500,7 @@
   "full_name": "microsoftgraph/msgraph-sdk-python",
   "url": "https://github.com/microsoftgraph/msgraph-sdk-python",
   "sec_path": "SECURITY.md",
-  "stars": 633,
+  "stars": 635,
   "language": "Python",
   "description": "",
   "license": null,
@@ -4605,7 +4605,7 @@
   "full_name": "NuGet/NuGet.Server",
   "url": "https://github.com/NuGet/NuGet.Server",
   "sec_path": "SECURITY.md",
-  "stars": 614,
+  "stars": 613,
   "language": "C#",
   "description": "NuGet Server is a lightweight standalone NuGet server",
   "license": null,
@@ -5568,6 +5568,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/msgraph-sdk-java",
+  "url": "https://github.com/microsoftgraph/msgraph-sdk-java",
+  "sec_path": "SECURITY.md",
+  "stars": 447,
+  "language": "Java",
+  "description": "Microsoft Graph SDK for Java",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/lamar-benchmark",
   "url": "https://github.com/microsoft/lamar-benchmark",
@@ -5577,18 +5589,6 @@
   "description": "Source code for the ECCV 2022 paper \"Benchmarking Localization and Mapping for Augmented Reality\".",
   "license": null,
   "first_seen": "2026-11-01 22:39:49"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/msgraph-sdk-java",
-  "url": "https://github.com/microsoftgraph/msgraph-sdk-java",
-  "sec_path": "SECURITY.md",
-  "stars": 446,
-  "language": "Java",
-  "description": "Microsoft Graph SDK for Java",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -7022,6 +7022,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/microsoft-graph-explorer-v4",
+  "url": "https://github.com/microsoftgraph/microsoft-graph-explorer-v4",
+  "sec_path": "SECURITY.md",
+  "stars": 263,
+  "language": "TypeScript",
+  "description": "React/Redux version of Graph Explorer used to learn the Microsoft Graph Api",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "aspnet",
   "full_name": "aspnet/jquery-validation-unobtrusive",
   "url": "https://github.com/aspnet/jquery-validation-unobtrusive",
@@ -7053,18 +7065,6 @@
   "language": "PowerShell",
   "description": "A library of sample Blueprints that can be easily imported via API or PowerShell",
   "first_seen": "2026-11-01 16:25:10"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/microsoft-graph-explorer-v4",
-  "url": "https://github.com/microsoftgraph/microsoft-graph-explorer-v4",
-  "sec_path": "SECURITY.md",
-  "stars": 261,
-  "language": "TypeScript",
-  "description": "React/Redux version of Graph Explorer used to learn the Microsoft Graph Api",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -7498,6 +7498,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/entra-powershell",
+  "url": "https://github.com/microsoftgraph/entra-powershell",
+  "sec_path": "SECURITY.md",
+  "stars": 218,
+  "language": "PowerShell",
+  "description": "Microsoft Entra PowerShell",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/aca-landing-zone-accelerator",
   "url": "https://github.com/Azure/aca-landing-zone-accelerator",
@@ -7506,18 +7518,6 @@
   "language": "Bicep",
   "description": "The Azure Container Apps landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accelerate deployment o…",
   "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/entra-powershell",
-  "url": "https://github.com/microsoftgraph/entra-powershell",
-  "sec_path": "SECURITY.md",
-  "stars": 217,
-  "language": "PowerShell",
-  "description": "Microsoft Entra PowerShell",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -8426,6 +8426,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/msgraph-metadata",
+  "url": "https://github.com/microsoftgraph/msgraph-metadata",
+  "sec_path": "SECURITY.md",
+  "stars": 171,
+  "language": "XSLT",
+  "description": "Microsoft Graph metadata captured and used for generating client library code files.",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/cli",
   "url": "https://github.com/Azure/cli",
@@ -8458,18 +8470,6 @@
   "description": "Node module to help VS Code extensions send telemetry using application insights",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/msgraph-metadata",
-  "url": "https://github.com/microsoftgraph/msgraph-metadata",
-  "sec_path": "SECURITY.md",
-  "stars": 169,
-  "language": "XSLT",
-  "description": "Microsoft Graph metadata captured and used for generating client library code files.",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -11473,6 +11473,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/msgraph-sdk-design",
+  "url": "https://github.com/microsoftgraph/msgraph-sdk-design",
+  "sec_path": "SECURITY.md",
+  "stars": 84,
+  "language": "SCSS",
+  "description": "Requirements and design documents for Microsoft Graph SDKs",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/deployment-environments",
   "url": "https://github.com/Azure/deployment-environments",
@@ -11516,18 +11528,6 @@
   "description": "OpenSSL engine for use with SymCrypt cryptographic library",
   "license": null,
   "first_seen": "2026-11-01 22:39:34"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/msgraph-sdk-design",
-  "url": "https://github.com/microsoftgraph/msgraph-sdk-design",
-  "sec_path": "SECURITY.md",
-  "stars": 83,
-  "language": "SCSS",
-  "description": "Requirements and design documents for Microsoft Graph SDKs",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -11623,6 +11623,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/msgraph-bicep-types",
+  "url": "https://github.com/microsoftgraph/msgraph-bicep-types",
+  "sec_path": "SECURITY.md",
+  "stars": 82,
+  "language": "TypeScript",
+  "description": "Repo contains Microsoft Graph resource types to integrate with bicep templates.",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/azure-functions-dotnet-extensions",
   "url": "https://github.com/Azure/azure-functions-dotnet-extensions",
@@ -11631,18 +11643,6 @@
   "language": "C#",
   "description": "Azure Functions .NET extensions",
   "first_seen": "2026-11-01 16:24:42"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/msgraph-bicep-types",
-  "url": "https://github.com/microsoftgraph/msgraph-bicep-types",
-  "sec_path": "SECURITY.md",
-  "stars": 81,
-  "language": "TypeScript",
-  "description": "Repo contains Microsoft Graph resource types to integrate with bicep templates.",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",

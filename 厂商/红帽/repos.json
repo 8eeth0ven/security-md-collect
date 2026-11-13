@@ -183,7 +183,7 @@
   "full_name": "openshift/openshift-mcp-server",
   "url": "https://github.com/openshift/openshift-mcp-server",
   "sec_path": "SECURITY.md",
-  "stars": 83,
+  "stars": 84,
   "language": "Go",
   "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
   "license": null,
@@ -679,6 +679,18 @@
  {
   "vendor": "红帽",
   "org": "openshift",
+  "full_name": "openshift/kubernetes-sigs-agent-sandbox",
+  "url": "https://github.com/openshift/kubernetes-sigs-agent-sandbox",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+  "license": null,
+  "first_seen": "2026-11-01 23:12:46"
+ },
+ {
+  "vendor": "红帽",
+  "org": "openshift",
   "full_name": "openshift/openstack-resource-controller",
   "url": "https://github.com/openshift/openstack-resource-controller",
   "sec_path": "SECURITY.md",
@@ -743,18 +755,6 @@
   "stars": 2,
   "language": "Go",
   "description": "Kubernetes-native declarative infrastructure for KubeVirt based cluster installation",
-  "license": null,
-  "first_seen": "2026-11-01 23:12:46"
- },
- {
-  "vendor": "红帽",
-  "org": "openshift",
-  "full_name": "openshift/kubernetes-sigs-agent-sandbox",
-  "url": "https://github.com/openshift/kubernetes-sigs-agent-sandbox",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Go",
-  "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
   "license": null,
   "first_seen": "2026-11-01 23:12:46"
  },
