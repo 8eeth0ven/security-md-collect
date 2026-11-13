@@ -5,7 +5,7 @@
   "full_name": "Snapchat/Valdi",
   "url": "https://github.com/Snapchat/Valdi",
   "sec_path": "SECURITY.md",
-  "stars": 16380,
+  "stars": 16381,
   "language": "C++",
   "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.",
   "license": null,
@@ -82,5 +82,17 @@
   "description": "Open source Python library for programming and debugging Arm Cortex-M microcontrollers",
   "license": null,
   "first_seen": "2026-11-01 23:44:00"
+ },
+ {
+  "vendor": "Snap",
+  "org": "snapchat",
+  "full_name": "Snapchat/web-lens-api",
+  "url": "https://github.com/Snapchat/web-lens-api",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "JavaScript",
+  "description": "JavaScript API for Snapchat Web Lenses: leaderboards, Bitmoji and storage over the native bridge, with a desktop stub for development.",
+  "license": null,
+  "first_seen": "2026-11-13 15:01:42"
  }
 ]

@@ -446,7 +446,7 @@ CNCF云原生基金会,无(开源基金会),cilium,cilium/kwok,https://github.co
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-ai-python-sdk,https://github.com/envoyproxy/envoy-ai-python-sdk,0,,SECURITY.md,
 深度求索DeepSeek,无,deepseek-ai,deepseek-ai/dsh-node-addon-require-builtin,https://github.com/deepseek-ai/dsh-node-addon-require-builtin,22,C++,SECURITY.md,An internal component used by DeepSeek Harness
 智谱AI,无,THUDM,THUDM/INFTY,https://github.com/THUDM/INFTY,578,Python,SECURITY.md,INFTY Engine: An Optimization Toolkit to Support Continual AI
-智谱AI,无,zai-org,zai-org/feedback,https://github.com/zai-org/feedback,39,,SECURITY.md,ZCode 用户建议与反馈收集，处理状态全程公开
+智谱AI,无,zai-org,zai-org/feedback,https://github.com/zai-org/feedback,41,,SECURITY.md,ZCode 用户建议与反馈收集，处理状态全程公开
 月之暗面,无,MoonshotAI,MoonshotAI/kimi-cli,https://github.com/MoonshotAI/kimi-cli,11415,Python,SECURITY.md,"[Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code"
 月之暗面,无,MoonshotAI,MoonshotAI/kimi-code,https://github.com/MoonshotAI/kimi-code,8217,TypeScript,SECURITY.md,Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 面壁智能,无,OpenBMB,OpenBMB/UltraRAG,https://github.com/OpenBMB/UltraRAG,5741,Python,.github/SECURITY.md,A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
@@ -562,9 +562,9 @@ CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-ai-pytho
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-boot,https://github.com/sofastack/sofa-boot,5078,Java,SECURITY.md,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc."
 蚂蚁集团,蚂蚁SRC,ant-design,ant-design/pro-components,https://github.com/ant-design/pro-components,4856,TypeScript,SECURITY.md,🏆 Use Ant Design like a Pro!
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-rpc,https://github.com/sofastack/sofa-rpc,3919,Java,SECURITY.md,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework."
-蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-jraft,https://github.com/sofastack/sofa-jraft,3820,Java,SECURITY.md,A production-grade java implementation of RAFT consensus algorithm.
+蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-jraft,https://github.com/sofastack/sofa-jraft,3819,Java,SECURITY.md,A production-grade java implementation of RAFT consensus algorithm.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-bolt,https://github.com/sofastack/sofa-bolt,2505,Java,SECURITY.md,"SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty."
-蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-ark,https://github.com/sofastack/sofa-ark,1642,Java,SECURITY.md,SOFAArk is a light-weight，java based classloader isolation framework.
+蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-ark,https://github.com/sofastack/sofa-ark,1640,Java,SECURITY.md,SOFAArk is a light-weight，java based classloader isolation framework.
 蚂蚁集团,蚂蚁SRC,antvis,antvis/G6VP,https://github.com/antvis/G6VP,963,TypeScript,SECURITY.md,G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-registry,https://github.com/sofastack/sofa-registry,662,Java,SECURITY.md,"SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial. "
 蚂蚁集团,蚂蚁SRC,antvis,antvis/XFlow,https://github.com/antvis/XFlow,647,TypeScript,SECURITY.md,React component for building interactive diagrams.
@@ -605,15 +605,15 @@ CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-ai-pytho
 字节跳动,字节跳动SRC,bytedance,bytedance/kubevirt,https://github.com/bytedance/kubevirt,,Go,SECURITY.md,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 字节跳动,字节跳动SRC,bytedance,bytedance/systemd,https://github.com/bytedance/systemd,,C,docs/SECURITY.md,The systemd System and Service Manager 
 字节跳动,字节跳动SRC,bytedance,bytedance/onnx,https://github.com/bytedance/onnx,,PureBasic,SECURITY.md,Open standard for machine learning interoperability
-火山引擎,无,volcengine,volcengine/OpenViking,https://github.com/volcengine/OpenViking,41565,Python,SECURITY.md,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
-火山引擎,无,volcengine,volcengine/MineContext,https://github.com/volcengine/MineContext,5543,Python,SECURITY.md,MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-火山引擎,无,volcengine,volcengine/SearchCLI,https://github.com/volcengine/SearchCLI,1191,TypeScript,SECURITY.md,"Open CLI for integrating AI search, recommendation, and conversational retrieval into agent systems and business systems"
-火山引擎,无,volcengine,volcengine/veadk-python,https://github.com/volcengine/veadk-python,349,Python,SECURITY.md,"An open-source kit for agent development, integrated the powerful capabilities of Volcengine."
-火山引擎,无,volcengine,volcengine/rtc-aigc-demo,https://github.com/volcengine/rtc-aigc-demo,319,TypeScript,SECURITY.md,RTC AIGC Demo
+火山引擎,无,volcengine,volcengine/OpenViking,https://github.com/volcengine/OpenViking,42137,Python,SECURITY.md,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+火山引擎,无,volcengine,volcengine/MineContext,https://github.com/volcengine/MineContext,5549,Python,SECURITY.md,MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+火山引擎,无,volcengine,volcengine/SearchCLI,https://github.com/volcengine/SearchCLI,1193,TypeScript,SECURITY.md,"Open CLI for integrating AI search, recommendation, and conversational retrieval into agent systems and business systems"
+火山引擎,无,volcengine,volcengine/veadk-python,https://github.com/volcengine/veadk-python,351,Python,SECURITY.md,"An open-source kit for agent development, integrated the powerful capabilities of Volcengine."
+火山引擎,无,volcengine,volcengine/rtc-aigc-demo,https://github.com/volcengine/rtc-aigc-demo,320,TypeScript,SECURITY.md,RTC AIGC Demo
 火山引擎,无,volcengine,volcengine/volc-sdk-python,https://github.com/volcengine/volc-sdk-python,203,Python,SECURITY.md,
-火山引擎,无,volcengine,volcengine/volcengine-python-sdk,https://github.com/volcengine/volcengine-python-sdk,189,Python,SECURITY.md,
-火山引擎,无,volcengine,volcengine/agentkit-sdk-python,https://github.com/volcengine/agentkit-sdk-python,166,Python,SECURITY.md,An open-source Python SDK and CLI Starter Toolkit for deploying AI agents to Volcengine AgentKit Runtime.
-火山引擎,无,volcengine,volcengine/volc-sdk-golang,https://github.com/volcengine/volc-sdk-golang,149,Go,SECURITY.md,
+火山引擎,无,volcengine,volcengine/volcengine-python-sdk,https://github.com/volcengine/volcengine-python-sdk,190,Python,SECURITY.md,
+火山引擎,无,volcengine,volcengine/agentkit-sdk-python,https://github.com/volcengine/agentkit-sdk-python,167,Python,SECURITY.md,An open-source Python SDK and CLI Starter Toolkit for deploying AI agents to Volcengine AgentKit Runtime.
+火山引擎,无,volcengine,volcengine/volc-sdk-golang,https://github.com/volcengine/volc-sdk-golang,150,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/volcengine-go-sdk,https://github.com/volcengine/volcengine-go-sdk,145,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/VolcEngineRTC,https://github.com/volcengine/VolcEngineRTC,144,C++,SECURITY.md,
 火山引擎,无,volcengine,volcengine/veadk-go,https://github.com/volcengine/veadk-go,127,Go,SECURITY.md,
@@ -622,9 +622,9 @@ CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-ai-pytho
 火山引擎,无,volcengine,volcengine/volc-sdk-java,https://github.com/volcengine/volc-sdk-java,94,Java,SECURITY.md,
 火山引擎,无,volcengine,volcengine/volcengine-java-sdk,https://github.com/volcengine/volcengine-java-sdk,89,Java,SECURITY.md,
 火山引擎,无,volcengine,volcengine/VEVodDemo-android,https://github.com/volcengine/VEVodDemo-android,79,Java,SECURITY.md,火山引擎点播 SDK 使用和抖音、西瓜同样的播放内核，稳定性和性能经过内部验证。Demo 展示抖音短视频场景下使用预加载、预渲染策略，同时拥有类似西瓜视频的中、长视频场景，实现一个比较好的首帧效果。
-火山引擎,无,volcengine,volcengine/volcengine-cli,https://github.com/volcengine/volcengine-cli,72,Go,SECURITY.md,
+火山引擎,无,volcengine,volcengine/volcengine-cli,https://github.com/volcengine/volcengine-cli,74,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/volc-sdk-nodejs,https://github.com/volcengine/volc-sdk-nodejs,65,TypeScript,SECURITY.md,
-火山引擎,无,volcengine,volcengine/ConversationalAI-Embedded-Kit-2.0,https://github.com/volcengine/ConversationalAI-Embedded-Kit-2.0,52,C,SECURITY.md,
+火山引擎,无,volcengine,volcengine/ConversationalAI-Embedded-Kit-2.0,https://github.com/volcengine/ConversationalAI-Embedded-Kit-2.0,53,C,SECURITY.md,
 火山引擎,无,volcengine,volcengine/APMInsight_iOS,https://github.com/volcengine/APMInsight_iOS,47,Objective-C,SECURITY.md,
 火山引擎,无,volcengine,volcengine/VEVodDemo-iOS,https://github.com/volcengine/VEVodDemo-iOS,46,Objective-C,SECURITY.md,火山引擎点播SDK使用和抖音、西瓜同样的播放内核，稳定性和性能经过内部验证；Demo展示抖音短视频场景下使用预加载、预渲染策略，同时拥有类似西瓜视频的中、长视频场景，实现一个比较好的首帧效果。
 火山引擎,无,volcengine,volcengine/veaiops,https://github.com/volcengine/veaiops,39,TypeScript,SECURITY.md,"Volcano Engine AIOps Suite, provides cloud customers with out-of-the-box intelligent operations capabilities, enhancing efficiency and effectiveness in emergenc…"
@@ -632,17 +632,17 @@ CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-ai-pytho
 火山引擎,无,volcengine,volcengine/volc-sdk-php,https://github.com/volcengine/volc-sdk-php,36,PHP,SECURITY.md,
 火山引擎,无,volcengine,volcengine/terraform-provider-volcengine,https://github.com/volcengine/terraform-provider-volcengine,35,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/VolcEngineRTC_Solution_Demo,https://github.com/volcengine/VolcEngineRTC_Solution_Demo,31,Go,SECURITY.md,VolcEngineRTC Solution Demo
+火山引擎,无,volcengine,volcengine/volcengine-agent-toolkit,https://github.com/volcengine/volcengine-agent-toolkit,30,Python,SECURITY.md,"Volcengine skills and plugins for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, OpenCode): manage cloud resources via the `ve` CLI, search official …"
 火山引擎,无,volcengine,volcengine/hiagent-python-sdk,https://github.com/volcengine/hiagent-python-sdk,30,Python,SECURITY.md,HiAgent Python SDK
 火山引擎,无,volcengine,volcengine/vePhone,https://github.com/volcengine/vePhone,27,Python,SECURITY.md,"vePhone sample code (for Android, iOS, and Web/H5)"
-火山引擎,无,volcengine,volcengine/volcengine-agent-toolkit,https://github.com/volcengine/volcengine-agent-toolkit,26,Python,SECURITY.md,"Volcengine skills and plugins for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, OpenCode): manage cloud resources via the `ve` CLI, search official …"
-火山引擎,无,volcengine,volcengine/continue-profiling-agent,https://github.com/volcengine/continue-profiling-agent,25,C,SECURITY.md,"Non-intrusive Linux whole-machine continuous profiling agent that records second-level CPU profiling history with ultra-low, often unnoticeable overhead, powere…"
+火山引擎,无,volcengine,volcengine/continue-profiling-agent,https://github.com/volcengine/continue-profiling-agent,26,C,SECURITY.md,"Non-intrusive Linux whole-machine continuous profiling agent that records second-level CPU profiling history with ultra-low, often unnoticeable overhead, powere…"
 火山引擎,无,volcengine,volcengine/datarangers-sdk-javascript,https://github.com/volcengine/datarangers-sdk-javascript,22,TypeScript,SECURITY.md,火山引擎数据官方 Web JavaScript 埋点 SDK，用于 Web 端和 H5 端的数据采集埋点 。使用原生 JavaScript 实现代码埋点、全埋点、AB实验、网页热力图等功能。
 火山引擎,无,volcengine,volcengine/ve-tos-python-sdk,https://github.com/volcengine/ve-tos-python-sdk,21,Python,SECURITY.md,Volcengine TOS Python SDK
 火山引擎,无,volcengine,volcengine/datarangers-sdk-java,https://github.com/volcengine/datarangers-sdk-java,17,Java,SECURITY.md,SDK in python for datarangers products
-火山引擎,无,volcengine,volcengine/hiagent-java-sdk,https://github.com/volcengine/hiagent-java-sdk,16,Java,SECURITY.md,HiAgent Java SDK
-火山引擎,无,volcengine,volcengine/ve-tos-java-sdk,https://github.com/volcengine/ve-tos-java-sdk,16,Java,SECURITY.md,Volcengine TOS Java SDK
+火山引擎,无,volcengine,volcengine/hiagent-java-sdk,https://github.com/volcengine/hiagent-java-sdk,17,Java,SECURITY.md,HiAgent Java SDK
 火山引擎,无,volcengine,volcengine/onesdk,https://github.com/volcengine/onesdk,16,C,SECURITY.md,"OneSDK: A unified AI access SDK for edge devices, providing LLM capabilities (text/voice chat, image generation) and IoT device management with MQTT support, co…"
 火山引擎,无,volcengine,volcengine/ve-tos-cpp-sdk,https://github.com/volcengine/ve-tos-cpp-sdk,14,C++,SECURITY.md,Volcengine TOS C++ SDK
+火山引擎,无,volcengine,volcengine/ve-tos-java-sdk,https://github.com/volcengine/ve-tos-java-sdk,14,Java,SECURITY.md,Volcengine TOS Java SDK
 火山引擎,无,volcengine,volcengine/RTC_VoiceChat_Demo,https://github.com/volcengine/RTC_VoiceChat_Demo,14,Objective-C,SECURITY.md,
 火山引擎,无,volcengine,volcengine/datarangers-sdk-packages,https://github.com/volcengine/datarangers-sdk-packages,13,,SECURITY.md,
 火山引擎,无,volcengine,volcengine/ve-tos-golang-sdk,https://github.com/volcengine/ve-tos-golang-sdk,13,Go,SECURITY.md,Volcengine TOS Golang SDK
@@ -850,11 +850,11 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/MSA,https://github.com/MiniMax-AI/MSA,438,Pyth
 MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-MiniApps,https://github.com/MiniMax-AI/MiniMax-Code-MiniApps,73,JavaScript,docs/security.md,"We believe the Agent is evolving into the next-generation operating system (OS). In this paradigm shift, a plugin is no longer just a feature extension: a plugi…"
 MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-Plugins,https://github.com/MiniMax-AI/MiniMax-Code-Plugins,23,JavaScript,SECURITY.md,Community registry and contribution toolkit for MiniMax Code plugins.
 MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
-阶跃星辰,无,stepfun-ai,stepfun-ai/Step-Code,https://github.com/stepfun-ai/Step-Code,1030,TypeScript,SECURITY.md,
+阶跃星辰,无,stepfun-ai,stepfun-ai/Step-Code,https://github.com/stepfun-ai/Step-Code,1038,TypeScript,SECURITY.md,
 阶跃星辰,无,stepfun-ai,stepfun-ai/vllm,https://github.com/stepfun-ai/vllm,46,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 阶跃星辰,无,stepfun-ai,stepfun-ai/llama.cpp,https://github.com/stepfun-ai/llama.cpp,7,C++,SECURITY.md,LLM inference in C/C++
 微众银行,无,WeDataSphere,WeDataSphere/metabase,https://github.com/WeDataSphere/metabase,,Clojure,SECURITY.md,"The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:"
-有赞,无,youzan,youzan/vant,https://github.com/youzan/vant,24411,TypeScript,SECURITY.md,"A lightweight, customizable Vue UI library for mobile web apps."
+有赞,无,youzan,youzan/vant,https://github.com/youzan/vant,24421,TypeScript,SECURITY.md,"A lightweight, customizable Vue UI library for mobile web apps."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vscode,https://github.com/microsoft/vscode,195348,TypeScript,SECURITY.md,Visual Studio Code
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/markitdown,https://github.com/microsoft/markitdown,195147,Python,SECURITY.md,Python tool for converting files and office documents to Markdown.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/PowerToys,https://github.com/microsoft/PowerToys,140933,C,SECURITY.md,Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
@@ -3643,7 +3643,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/US-SLED-AzureLandingZone-TF,https://github.com/Azure/US-SLED-AzureLandingZone-TF,0,,SECURITY.md,Usage examples gathered by the US SLED CSAs for the Terraform Azure Verified Modules to deploy Landing Zones
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/homebrew-sparrow-engine,https://github.com/microsoft/homebrew-sparrow-engine,0,Ruby,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/ignite26-LAB741,https://github.com/microsoft/ignite26-LAB741,0,,SECURITY.md,
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201315,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201584,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/go,https://github.com/golang/go,139881,Go,SECURITY.md,The Go programming language
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101484,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77634,Python,SECURITY.md,Models and examples built with TensorFlow
@@ -3668,12 +3668,12 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/tamperchrome,https://github.com/google/tamperchrome,4227,TypeScript,SECURITY.md,Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all …
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-containerregistry,https://github.com/google/go-containerregistry,4133,Go,SECURITY.md,Go library and CLIs for working with container registries
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/universal,https://github.com/angular/universal,3984,TypeScript,SECURITY.md,Server-side rendering and Prerendering for Angular
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3142,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3151,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/boringssl,https://github.com/google/boringssl,2299,C++,SECURITY.md,Mirror of BoringSSL
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/quantum,https://github.com/tensorflow/quantum,2203,Python,.github/SECURITY.md,An open-source Python framework for hybrid quantum-classical machine learning.
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/quantum,https://github.com/tensorflow/quantum,2205,Python,.github/SECURITY.md,An open-source Python framework for hybrid quantum-classical machine learning.
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/geo,https://github.com/golang/geo,1855,Go,SECURITY.md,S2 geometry library in Go
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/nomulus,https://github.com/google/nomulus,1818,Java,SECURITY.md,Top-level domain name registry service on Google Cloud Platform
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/model-optimization,https://github.com/tensorflow/model-optimization,1582,Python,SECURITY.md,"A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning."
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/model-optimization,https://github.com/tensorflow/model-optimization,1584,Python,SECURITY.md,"A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/site-kit-wp,https://github.com/google/site-kit-wp,1405,JavaScript,SECURITY.md,Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/capslock,https://github.com/google/capslock,1187,Go,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/kctf,https://github.com/google/kctf,796,Go,SECURITY.md,"kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see"
@@ -4186,7 +4186,7 @@ Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/.github,htt
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/implement-from-spec,https://github.com/awslabs/implement-from-spec,0,Python,SECURITY.md,
 苹果,自建（Apple Security Bounty）,apple,apple/pkl,https://github.com/apple/pkl,11572,Java,SECURITY.md,A configuration as code language with rich validation and tooling.
 苹果,自建（Apple Security Bounty）,apple,apple/swift-crypto,https://github.com/apple/swift-crypto,1741,Assembly,SECURITY.md,Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.
-苹果,自建（Apple Security Bounty）,swiftlang,swiftlang/llvm-project,https://github.com/swiftlang/llvm-project,1250,LLVM,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Swift’s stable releases of Clang as w…
+苹果,自建（Apple Security Bounty）,swiftlang,swiftlang/llvm-project,https://github.com/swiftlang/llvm-project,1249,LLVM,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Swift’s stable releases of Clang as w…
 苹果,自建（Apple Security Bounty）,apple,apple/swift-container-plugin,https://github.com/apple/swift-container-plugin,395,Swift,SECURITY.md,Build and publish container images using Swift Package Manager
 苹果,自建（Apple Security Bounty）,apple,apple/pkl-go,https://github.com/apple/pkl-go,337,Go,SECURITY.md,Pkl bindings for the Go programming language
 苹果,自建（Apple Security Bounty）,apple,apple/pkl-pantry,https://github.com/apple/pkl-pantry,272,Pkl,SECURITY.md,Shared Pkl packages
@@ -6784,13 +6784,13 @@ HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/istio,https:/
 红帽,自建（Red Hat Product Security）,openshift,openshift/oc-tnf,https://github.com/openshift/oc-tnf,0,Go,SECURITY.md,"oc plugin for Two Node with Fencing (TNF) cluster tooling, distributed via krew"
 红帽,自建（Red Hat Product Security）,openshift,openshift/mcp-lifecycle-operator,https://github.com/openshift/mcp-lifecycle-operator,0,Go,SECURITY.md,"A Kubernetes operator that provides a declarative API to deploy, manage, and safely roll out MCP Servers, handling their full lifecycle with production-grade au…"
 红帽,自建（Red Hat Product Security）,openshift,openshift/kubernetes-1,https://github.com/openshift/kubernetes-1,0,Go,.github/SECURITY.md,This is the repo that tracks all patches to the OpenShift distribution of Kubernetes on branches corresponding to OpenShift releases.  See https://github.com/op…
-VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/kubeapps,https://github.com/vmware-tanzu/kubeapps,5099,Go,SECURITY.md,A web-based UI for deploying and managing applications in Kubernetes clusters
+VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/kubeapps,https://github.com/vmware-tanzu/kubeapps,5095,Go,SECURITY.md,A web-based UI for deploying and managing applications in Kubernetes clusters
 VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/sonobuoy,https://github.com/vmware-tanzu/sonobuoy,3053,Go,SECURITY.md,Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other pl…
 VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/community-edition,https://github.com/vmware-tanzu/community-edition,1318,Go,SECURITY.md,VMware Tanzu Community Edition is no longer an actively maintained project. Code is available for historical purposes only.
-VMware,自建PSIRT（VMware，现属博通）,vmware,vmware/pinniped,https://github.com/vmware/pinniped,744,Go,SECURITY.md,"Pinniped is the easy, secure way to log in to your Kubernetes clusters."
+VMware,自建PSIRT（VMware，现属博通）,vmware,vmware/pinniped,https://github.com/vmware/pinniped,745,Go,SECURITY.md,"Pinniped is the easy, secure way to log in to your Kubernetes clusters."
 VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/cartographer,https://github.com/vmware-tanzu/cartographer,453,Go,.github/SECURITY.md,Cartographer is a Supply Chain Choreographer.
 VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/tanzu-framework,https://github.com/vmware-tanzu/tanzu-framework,196,Go,SECURITY.md,Tanzu Framework provides a set of building blocks to build atop of the Tanzu platform and leverages Carvel packaging and plugins to provide users with a much st…
-VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/vm-operator,https://github.com/vmware-tanzu/vm-operator,156,Go,SECURITY.md,Self-service manage your virtual infrastructure...
+VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/vm-operator,https://github.com/vmware-tanzu/vm-operator,175,Go,SECURITY.md,Self-service manage your virtual infrastructure...
 VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/application-accelerator-samples,https://github.com/vmware-tanzu/application-accelerator-samples,45,Java,SECURITY.md,"Project for samples to be used with ""Application Accelerator for VMware Tanzu"" which is part of ""VMware Tanzu Platform""."
 VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/tanzu-cli,https://github.com/vmware-tanzu/tanzu-cli,42,Go,SECURITY.md,The Tanzu Core CLI project provides the core functionality of the Tanzu CLI. The CLI is based on a plugin architecture where CLI command functionality can be de…
 VMware,自建PSIRT（VMware，现属博通）,vmware-tanzu,vmware-tanzu/function-buildpacks-for-knative,https://github.com/vmware-tanzu/function-buildpacks-for-knative,22,Go,SECURITY.md,Buildpacks for Knative Functions
@@ -6910,19 +6910,20 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 爱立信,自建PSIRT,ericsson,Ericsson/SpecPressExt,https://github.com/Ericsson/SpecPressExt,1,JavaScript,SECURITY.md,SpecPress extension for VS Code
 爱立信,自建PSIRT,ericsson,Ericsson/.github,https://github.com/Ericsson/.github,,,SECURITY.md,
 爱立信,自建PSIRT,ericsson,Ericsson/kubernetes,https://github.com/Ericsson/kubernetes,,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ros-sharp,https://github.com/siemens/ros-sharp,1202,C#,SECURITY.md,"ROS# is a set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity3D"
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/kas,https://github.com/siemens/kas,609,Python,SECURITY.md,Setup tool for bitbake based projects
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/edgeshark,https://github.com/siemens/edgeshark,592,Markdown,SECURITY.md,"Discover and capture container network traffic from your comfy desktop Wireshark, using a containerized service and a Wireshark plugin."
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix,https://github.com/siemens/ix,389,TypeScript,SECURITY.md,"Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…"
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ros-sharp,https://github.com/siemens/ros-sharp,1204,C#,SECURITY.md,"ROS# is a set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity3D"
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/kas,https://github.com/siemens/kas,612,Python,SECURITY.md,Setup tool for bitbake based projects
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/edgeshark,https://github.com/siemens/edgeshark,593,Markdown,SECURITY.md,"Discover and capture container network traffic from your comfy desktop Wireshark, using a containerized service and a Wireshark plugin."
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix,https://github.com/siemens/ix,393,TypeScript,SECURITY.md,"Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/efibootguard,https://github.com/siemens/efibootguard,140,C,SECURITY.md,Simple UEFI boot loader with support for safely switching between current and updated partition sets
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/element,https://github.com/siemens/element,83,TypeScript,SECURITY.md,"Siemens Element is a design system for products and digital experiences, grounded in the Siemens Design Language."
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/wfx,https://github.com/siemens/wfx,79,Go,SECURITY.md,"a lightweight, general-purpose workflow executor"
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/cshargextcap,https://github.com/siemens/cshargextcap,71,Go,SECURITY.md,[Edgeshark] Wireshark extcap plugin for container traffic capture live streaming.
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/tia-portal-openness-code-snippets,https://github.com/siemens/tia-portal-openness-code-snippets,71,C#,SECURITY.md,A collection of practical code snippets demonstrating TIA Portal Openness API (V21) implementation with easy-to-understand examples. Designed to help developers…
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/element,https://github.com/siemens/element,86,TypeScript,SECURITY.md,"Siemens Element is a design system for products and digital experiences, grounded in the Siemens Design Language."
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/wfx,https://github.com/siemens/wfx,80,Go,SECURITY.md,"a lightweight, general-purpose workflow executor"
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/tia-portal-openness-code-snippets,https://github.com/siemens/tia-portal-openness-code-snippets,73,C#,SECURITY.md,A collection of practical code snippets demonstrating TIA Portal Openness API (V21) implementation with easy-to-understand examples. Designed to help developers…
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/cshargextcap,https://github.com/siemens/cshargextcap,72,Go,SECURITY.md,[Edgeshark] Wireshark extcap plugin for container traffic capture live streaming.
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix-icons,https://github.com/siemens/ix-icons,52,HTML,SECURITY.md,Icon library for @siemens/ix
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/debsbom,https://github.com/siemens/debsbom,46,Python,SECURITY.md,SBOM tooling for Debian-based distributions
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ghostwire,https://github.com/siemens/ghostwire,37,TypeScript,SECURITY.md,[Edgeshark] Virtual communication discovery in container hosts
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/debsbom,https://github.com/siemens/debsbom,47,Python,SECURITY.md,SBOM tooling for Debian-based distributions
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ghostwire,https://github.com/siemens/ghostwire,39,TypeScript,SECURITY.md,[Edgeshark] Virtual communication discovery in container hosts
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix-blazor,https://github.com/siemens/ix-blazor,36,C#,SECURITY.md,Siemens IX library for Blazor
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/tia-portal-ai-extensions,https://github.com/siemens/tia-portal-ai-extensions,24,,SECURITY.md,A growing collection of AI extensions that work with Siemens TIA Portal.
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix-starter,https://github.com/siemens/ix-starter,23,TypeScript,SECURITY.md,"Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/packetflix,https://github.com/siemens/packetflix,22,Go,SECURITY.md,"[Edgeshark] container ""binge watching"" live packet streams for Wireshark(nado) nerds!"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/standard-bom-java,https://github.com/siemens/standard-bom-java,19,Java,.github/SECURITY.md,A Java library for creating and consuming SBOMs in Standard BOM format
@@ -6930,27 +6931,28 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/link-checker-service,https://github.com/siemens/link-checker-service,16,Go,SECURITY.md,The self-hosted Link Checker web service runs cached and otherwise optimized broken link checks
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/CtrlppCheck,https://github.com/siemens/CtrlppCheck,16,C++,SECURITY.md,
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/gencmpclient,https://github.com/siemens/gencmpclient,15,C,SECURITY.md,"generic CMP [RFC 9810, RFC 9483] client library and CLI, based on OpenSSL"
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/tia-portal-ai-extensions,https://github.com/siemens/tia-portal-ai-extensions,15,,SECURITY.md,A growing collection of AI extensions that work with Siemens TIA Portal.
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix-docs,https://github.com/siemens/ix-docs,14,TypeScript,SECURITY.md,"Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/standard-bom-python,https://github.com/siemens/standard-bom-python,12,Python,.github/SECURITY.md,A Python library for creating and consuming SBOMs in Standard BOM format
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/csharg,https://github.com/siemens/csharg,10,Go,SECURITY.md,[Edgeshark] client and CLI to packet capture streaming API
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/isar,https://github.com/siemens/isar,10,Python,SECURITY.md,Integration System for Automated Root filesystem generation
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/wasm-micro-runtime,https://github.com/siemens/wasm-micro-runtime,10,C,SECURITY.md,WebAssembly Micro Runtime (WAMR)
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/developer-portal-partners,https://github.com/siemens/developer-portal-partners,10,JavaScript,SECURITY.md,Siemens Xcelerator Partners can use this repository to contribute to Siemens Xcelerator Developer Portal
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/turtlefinder,https://github.com/siemens/turtlefinder,8,Go,SECURITY.md,"reusable container engine discovery, not only for Edgeshark"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/libsecutils,https://github.com/siemens/libsecutils,6,C,SECURITY.md,"Wrapper library for commonly used OpenSSL features, providing a simpler, more application-oriented API."
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/turtlefinder,https://github.com/siemens/turtlefinder,6,Go,SECURITY.md,"reusable container engine discovery, not only for Edgeshark"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/cmp-ra-component,https://github.com/siemens/cmp-ra-component,6,Java,SECURITY.md,A CMP Registration Authority (RA) and CMP client core component
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/sw360,https://github.com/siemens/sw360,5,Java,SECURITY.md,SW360 project
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/python-smime-email,https://github.com/siemens/python-smime-email,5,Python,SECURITY.md,Generate x509 SMIME signed emails with ease!
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/sw360,https://github.com/siemens/sw360,4,Java,SECURITY.md,SW360 project
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/vilocify-sdk-python,https://github.com/siemens/vilocify-sdk-python,4,Python,docs/SECURITY.md,"The Python SDK for Vilocify, built using Vilocify's APIv2 JSON:API. This project also includes a CLI tool to manage Vilocify Monitoring Lists."
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/vilocify-sdk-python,https://github.com/siemens/vilocify-sdk-python,5,Python,docs/SECURITY.md,"The Python SDK for Vilocify, built using Vilocify's APIv2 JSON:API. This project also includes a CLI tool to manage Vilocify Monitoring Lists."
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/.github,https://github.com/siemens/.github,3,Python,SECURITY.md,
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/PowerShell,https://github.com/siemens/PowerShell,3,C#,.github/SECURITY.md,PowerShell for every system!
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/kaniko,https://github.com/siemens/kaniko,2,Go,SECURITY.md,Build Container Images In Kubernetes
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/mcuboot,https://github.com/siemens/mcuboot,2,C,docs/SECURITY.md,Secure boot for 32-bit Microcontrollers!
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/zephyr,https://github.com/siemens/zephyr,1,C,.github/SECURITY.md,Pathes for the Zephyr Project
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/mobydig,https://github.com/siemens/mobydig,1,Go,SECURITY.md,[Edgeshark] Diagnose the reachability of other containers on Docker custom networks from the perspective of a container.
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/continue,https://github.com/siemens/continue,1,TypeScript,SECURITY.md,⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS …
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/angular,https://github.com/siemens/angular,1,TypeScript,SECURITY.md,The modern web developer’s platform
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/continuous-conformance,https://github.com/siemens/continuous-conformance,1,TypeScript,SECURITY.md,Azure DevOps extension to create automatically conformance work items.
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/agent-router,https://github.com/siemens/agent-router,1,Go,SECURITY.md,Manages Unified Access to Generative AI Services built on Envoy Gateway
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/sw360-frontend,https://github.com/siemens/sw360-frontend,0,TypeScript,SECURITY.md,Frontend
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/terraform-provider-github,https://github.com/siemens/terraform-provider-github,0,Go,SECURITY.md,Terraform GitHub provider
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/betterleaks,https://github.com/siemens/betterleaks,0,Go,.github/SECURITY.md,A Better Secrets Scanner built for configurability and speed
@@ -6959,7 +6961,6 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/vllm,https://github.com/siemens/vllm,0,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/plantuml,https://github.com/siemens/plantuml,0,Java,SECURITY.md,Generate diagrams from textual description
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/plantuml-server,https://github.com/siemens/plantuml-server,0,Java,SECURITY.md,PlantUML Online Server
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/continue,https://github.com/siemens/continue,0,TypeScript,SECURITY.md,⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS …
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/components,https://github.com/siemens/components,0,TypeScript,SECURITY.md,Component infrastructure and Material Design components for Angular
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/renovate,https://github.com/siemens/renovate,0,TypeScript,SECURITY.md,Universal dependency update tool that fits into your workflows.
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/pam_aad,https://github.com/siemens/pam_aad,0,C,SECURITY.md,Azure Active Directory PAM Module
@@ -7000,8 +7001,8 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 飞利浦,自建PSIRT（Philips）,philips,philips/copyparty,https://github.com/philips/copyparty,,Python,SECURITY.md,
 飞利浦,自建PSIRT（Philips）,philips,philips/libsignal,https://github.com/philips/libsignal,,Rust,SECURITY.md,> Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 飞利浦,自建PSIRT（Philips）,philips,philips/k8s.io,https://github.com/philips/k8s.io,,Shell,SECURITY.md,
-特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/fleet-telemetry,https://github.com/teslamotors/fleet-telemetry,900,Go,SECURITY.md,
-特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/vehicle-command,https://github.com/teslamotors/vehicle-command,721,Go,SECURITY.md,
+特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/fleet-telemetry,https://github.com/teslamotors/fleet-telemetry,905,Go,SECURITY.md,
+特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/vehicle-command,https://github.com/teslamotors/vehicle-command,724,Go,SECURITY.md,
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/liblithium,https://github.com/teslamotors/liblithium,330,C,SECURITY.md,A lightweight and portable cryptography library
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/zephyr,https://github.com/teslamotors/zephyr,19,C,.github/SECURITY.md,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures."
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/kubernetes,https://github.com/teslamotors/kubernetes,1,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
@@ -7189,13 +7190,14 @@ Discord,自建（Discord Bug Bounty）,discord,discord/terraform-google-gcr-clea
 Discord,自建（Discord Bug Bounty）,discord,discord/dd-otel-host-profiler,https://github.com/discord/dd-otel-host-profiler,,Go,SECURITY.md,The opentelemetry profiler by Datadog
 Discord,自建（Discord Bug Bounty）,discord,discord/ExoPlayer,https://github.com/discord/ExoPlayer,,Java,SECURITY.md,An extensible media player for Android
 Discord,自建（Discord Bug Bounty）,discord,discord/distroless,https://github.com/discord/distroless,0,Starlark,SECURITY.md,"🥑  Language focused docker images, minus the operating system.  "
-Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi,https://github.com/Snapchat/Valdi,16380,C++,SECURITY.md,Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi,https://github.com/Snapchat/Valdi,16381,C++,SECURITY.md,Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 Snap,HackerOne（Snap）,snapchat,Snapchat/GiGL,https://github.com/Snapchat/GiGL,86,Python,SECURITY.md,Gigantic Graph Learning (GiGL) Framework: Large-scale training and inference for Graph Neural Networks
 Snap,HackerOne（Snap）,snapchat,Snapchat/SnapRHI,https://github.com/Snapchat/SnapRHI,48,C++,SECURITY.md,"A lightweight, modern Render Hardware Interface (RHI) abstraction layer for C++ SnapRHI provides a clean, unified API that abstracts away the complexity of mode…"
 Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi_Widgets,https://github.com/Snapchat/Valdi_Widgets,45,TypeScript,SECURITY.md,
 Snap,HackerOne（Snap）,snapchat,Snapchat/react-camera-kit,https://github.com/Snapchat/react-camera-kit,25,TypeScript,SECURITY.md,"Official React bindings for Snap Camera Kit — create interactive, lens-powered AR experiences on the web."
 Snap,HackerOne（Snap）,snapchat,Snapchat/KeyDB-docs,https://github.com/Snapchat/KeyDB-docs,21,JavaScript,docs/security.md,KeyDB's official documentation repo
 Snap,HackerOne（Snap）,snapchat,Snapchat/pyOCD,https://github.com/Snapchat/pyOCD,1,Python,docs/security.md,Open source Python library for programming and debugging Arm Cortex-M microcontrollers
+Snap,HackerOne（Snap）,snapchat,Snapchat/web-lens-api,https://github.com/Snapchat/web-lens-api,0,JavaScript,SECURITY.md,"JavaScript API for Snapchat Web Lenses: leaderboards, Bitmoji and storage over the native bridge, with a desktop stub for development."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/querybook,https://github.com/pinterest/querybook,2306,TypeScript,SECURITY.md,"Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/psc,https://github.com/pinterest/psc,122,Java,SECURITY.md,PubSubClient (PSC) 
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/orion,https://github.com/pinterest/orion,113,Java,SECURITY.md,Management and automation platform for Stateful Distributed Systems
@@ -7218,26 +7220,26 @@ LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/openhouse,https://github.co
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/spark,https://github.com/linkedin/spark,15,Scala,docs/security.md,Apache Spark - A unified analytics engine for large-scale data processing
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/li-langchain,https://github.com/linkedin/li-langchain,1,Python,SECURITY.md,🦜🔗 Build context-aware reasoning applications
 Slack,自建（Slack VDP）,slackhq,slackhq/nebula,https://github.com/slackhq/nebula,18527,Go,SECURITY.md,"A scalable overlay networking tool with a focus on performance, simplicity and security"
-Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-sdk,https://github.com/slackapi/python-slack-sdk,4016,Python,SECURITY.md,Slack Developer Kit for Python
-Slack,自建（Slack VDP）,slackapi,slackapi/node-slack-sdk,https://github.com/slackapi/node-slack-sdk,3379,TypeScript,SECURITY.md,Slack Developer Kit for Node.js
-Slack,自建（Slack VDP）,slackapi,slackapi/bolt-js,https://github.com/slackapi/bolt-js,2953,TypeScript,SECURITY.md,A framework to build Slack apps using JavaScript
+Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-sdk,https://github.com/slackapi/python-slack-sdk,4020,Python,SECURITY.md,Slack Developer Kit for Python
+Slack,自建（Slack VDP）,slackapi,slackapi/node-slack-sdk,https://github.com/slackapi/node-slack-sdk,3377,TypeScript,SECURITY.md,Slack Developer Kit for Node.js
+Slack,自建（Slack VDP）,slackapi,slackapi/bolt-js,https://github.com/slackapi/bolt-js,2954,TypeScript,SECURITY.md,A framework to build Slack apps using JavaScript
 Slack,自建（Slack VDP）,slackhq,slackhq/circuit,https://github.com/slackhq/circuit,1859,Kotlin,SECURITY.md,⚡️ A Compose-driven architecture for Kotlin and Android applications.
 Slack,自建（Slack VDP）,slackhq,slackhq/go-audit,https://github.com/slackhq/go-audit,1666,Go,SECURITY.md,go-audit is an alternative to the auditd daemon that ships with many distros
-Slack,自建（Slack VDP）,slackapi,slackapi/slack-github-action,https://github.com/slackapi/slack-github-action,1355,JavaScript,SECURITY.md,Send data into Slack using this GitHub Action!
-Slack,自建（Slack VDP）,slackapi,slackapi/bolt-python,https://github.com/slackapi/bolt-python,1332,Python,SECURITY.md,A framework to build Slack apps using Python
+Slack,自建（Slack VDP）,slackapi,slackapi/slack-github-action,https://github.com/slackapi/slack-github-action,1359,JavaScript,SECURITY.md,Send data into Slack using this GitHub Action!
+Slack,自建（Slack VDP）,slackapi,slackapi/bolt-python,https://github.com/slackapi/bolt-python,1335,Python,SECURITY.md,A framework to build Slack apps using Python
 Slack,自建（Slack VDP）,slackhq,slackhq/EitherNet,https://github.com/slackhq/EitherNet,792,Kotlin,SECURITY.md,"A multiplatform, pluggable, and sealed API result type for modeling network API responses."
-Slack,自建（Slack VDP）,slackapi,slackapi/java-slack-sdk,https://github.com/slackapi/java-slack-sdk,602,Java,SECURITY.md,Slack Developer Kit (including Bolt for Java) for any JVM language
+Slack,自建（Slack VDP）,slackapi,slackapi/java-slack-sdk,https://github.com/slackapi/java-slack-sdk,603,Java,SECURITY.md,Slack Developer Kit (including Bolt for Java) for any JVM language
 Slack,自建（Slack VDP）,slackhq,slackhq/compose-lints,https://github.com/slackhq/compose-lints,523,Kotlin,SECURITY.md,Lint checks to aid with a healthy adoption of Compose
 Slack,自建（Slack VDP）,slackhq,slackhq/foundry,https://github.com/slackhq/foundry,480,Kotlin,SECURITY.md,Gradle and IntelliJ build tooling used in Slack's Android repo
-Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-events-api,https://github.com/slackapi/python-slack-events-api,340,Python,SECURITY.md,Slack Events API adapter for Python (Flask required)
-Slack,自建（Slack VDP）,slackapi,slackapi/slack-cli,https://github.com/slackapi/slack-cli,314,Go,SECURITY.md,"Create, develop, and deploy Slack apps from the command-line ✨"
+Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-events-api,https://github.com/slackapi/python-slack-events-api,341,Python,SECURITY.md,Slack Events API adapter for Python (Flask required)
+Slack,自建（Slack VDP）,slackapi,slackapi/slack-cli,https://github.com/slackapi/slack-cli,320,Go,SECURITY.md,"Create, develop, and deploy Slack apps from the command-line ✨"
 Slack,自建（Slack VDP）,slackhq,slackhq/keeper,https://github.com/slackhq/keeper,269,Kotlin,SECURITY.md,A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
 Slack,自建（Slack VDP）,slackhq,slackhq/slack-lints,https://github.com/slackhq/slack-lints,250,Kotlin,SECURITY.md,A collection of custom Android/Kotlin lint checks we use in our Android and Kotlin code bases at Slack.
 Slack,自建（Slack VDP）,slackapi,slackapi/deno-slack-sdk,https://github.com/slackapi/deno-slack-sdk,228,TypeScript,SECURITY.md,SDK for building Run on Slack apps using Deno
 Slack,自建（Slack VDP）,slackhq,slackhq/magic-cli,https://github.com/slackhq/magic-cli,213,Ruby,SECURITY.md,
 Slack,自建（Slack VDP）,slackhq,slackhq/simple-kubernetes-webhook,https://github.com/slackhq/simple-kubernetes-webhook,204,Go,SECURITY.md,This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible.
 Slack,自建（Slack VDP）,slackhq,slackhq/csp-html-webpack-plugin,https://github.com/slackhq/csp-html-webpack-plugin,172,JavaScript,SECURITY.md,"A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output."
-Slack,自建（Slack VDP）,slackapi,slackapi/slack-skills-plugin,https://github.com/slackapi/slack-skills-plugin,165,Python,SECURITY.md,"Claude Code, Codex, Cursor, and npx skills plugin that enables your AI tools with a Slack MCP Server and Slack Developer Skills."
+Slack,自建（Slack VDP）,slackapi,slackapi/slack-skills-plugin,https://github.com/slackapi/slack-skills-plugin,167,Python,SECURITY.md,"Claude Code, Codex, Cursor, and npx skills plugin that enables your AI tools with a Slack MCP Server and Slack Developer Skills."
 Slack,自建（Slack VDP）,slackhq,slackhq/hakana,https://github.com/slackhq/hakana,111,Rust,SECURITY.md,"Another typechecker for Hack, built by Slack"
 Slack,自建（Slack VDP）,slackhq,slackhq/vscode-hack,https://github.com/slackhq/vscode-hack,80,TypeScript,SECURITY.md,Hack language & HHVM debugger support for Visual Studio Code
 Slack,自建（Slack VDP）,slackhq,slackhq/hack-sql-fake,https://github.com/slackhq/hack-sql-fake,77,Hack,SECURITY.md,A library for testing database driven code in Hack
@@ -7902,21 +7904,22 @@ Datadog,HackerOne（Datadog）,DataDog,DataDog/container-object-storage-interfac
 Datadog,HackerOne（Datadog）,DataDog,DataDog/got,https://github.com/DataDog/got,,TypeScript,.github/security.md,## Auto-archived due to inactivity. ## 🌐 Human-friendly and powerful HTTP request library for Node.js
 Datadog,HackerOne（Datadog）,DataDog,DataDog/winget-pkgs,https://github.com/DataDog/winget-pkgs,,PowerShell,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
 Datadog,HackerOne（Datadog）,DataDog,DataDog/go-amqp,https://github.com/DataDog/go-amqp,,Go,SECURITY.md,AMQP 1.0 client library for Go.
-Splunk,自建（Splunk Security）,splunk,splunk/security_content,https://github.com/splunk/security_content,1727,Python,SECURITY.md,Splunk Security Content
+Splunk,自建（Splunk Security）,splunk,splunk/security_content,https://github.com/splunk/security_content,1736,Python,SECURITY.md,Splunk Security Content
 Splunk,自建（Splunk Security）,splunk,splunk/docker-splunk,https://github.com/splunk/docker-splunk,555,Python,docs/SECURITY.md,Splunk Docker GitHub Repository
 Splunk,自建（Splunk Security）,splunk,splunk/splunk-connect-for-syslog,https://github.com/splunk/splunk-connect-for-syslog,184,Python,SECURITY.md,Splunk Connect for Syslog
 Splunk,自建（Splunk Security）,splunk,splunk/kafka-connect-splunk,https://github.com/splunk/kafka-connect-splunk,100,Java,docs/security.md,Kafka connector for Splunk
-Splunk,自建（Splunk Security）,splunk,splunk/splunk-agent-skills,https://github.com/splunk/splunk-agent-skills,64,JavaScript,SECURITY.md,"Open source, enterprise-ready AI skills for Splunk use cases, built for secure discovery, consistent execution, and production-grade customer workflows."
+Splunk,自建（Splunk Security）,splunk,splunk/splunk-agent-skills,https://github.com/splunk/splunk-agent-skills,66,JavaScript,SECURITY.md,"Open source, enterprise-ready AI skills for Splunk use cases, built for secure discovery, consistent execution, and production-grade customer workflows."
 Splunk,自建（Splunk Security）,splunk,splunk/splunk-connect-for-snmp,https://github.com/splunk/splunk-connect-for-snmp,42,Python,docs/security.md,Splunk connect for SNMP
 Splunk,自建（Splunk Security）,splunk,splunk/splunk-connect-for-snmp-mib-server,https://github.com/splunk/splunk-connect-for-snmp-mib-server,11,Python,SECURITY.md,This project contains the snmp MIB library as a container bundle for use with Splunk Connect for SNMP
 Splunk,自建（Splunk Security）,splunk,splunk/splunk-connect-for-snmp-traps,https://github.com/splunk/splunk-connect-for-snmp-traps,10,Python,SECURITY.md,This project connects SNMP Trap sending source to Splunk Enterprise and Splunk Enterprise Cloud
-Splunk,自建（Splunk Security）,splunk,splunk/splunk-ai-operator,https://github.com/splunk/splunk-ai-operator,7,Shell,SECURITY.md,Splunk AI Operator for Kubernetes
+Splunk,自建（Splunk Security）,splunk,splunk/splunk-ai-operator,https://github.com/splunk/splunk-ai-operator,8,Shell,SECURITY.md,Splunk AI Operator for Kubernetes
 Splunk,自建（Splunk Security）,splunk,splunk/kubectl-splunk,https://github.com/splunk/kubectl-splunk,4,Go,SECURITY.md,kubectl plugin for interacting with OpenTelemetry deployments
 Splunk,自建（Splunk Security）,splunk,splunk/bank-of-splunk,https://github.com/splunk/bank-of-splunk,3,Java,.github/SECURITY.md,Retail banking sample application showcasing Kubernetes and Google Cloud
 Splunk,自建（Splunk Security）,splunk,splunk/winget-pkgs,https://github.com/splunk/winget-pkgs,1,,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
 Splunk,自建（Splunk Security）,splunk,splunk/martian-bank-demo,https://github.com/splunk/martian-bank-demo,1,JavaScript,SECURITY.md,"MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and…"
 Splunk,自建（Splunk Security）,splunk,splunk/llvm-project,https://github.com/splunk/llvm-project,1,,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 Splunk,自建（Splunk Security）,splunk,splunk/grafana,https://github.com/splunk/grafana,1,TypeScript,SECURITY.md,"The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elastics…"
+Splunk,自建（Splunk Security）,splunk,splunk/splunk-cisco-dashboards,https://github.com/splunk/splunk-cisco-dashboards,1,TypeScript,SECURITY.md,"Splunk Secure Networking Essentials — dashboards for Cisco fleet inventory, network performance, and security posture in Splunk."
 Splunk,自建（Splunk Security）,splunk,splunk/splunk-cisco-app-navigator,https://github.com/splunk/splunk-cisco-app-navigator,0,JavaScript,.github/SECURITY.md,"Unified discovery, deployment, and management dashboard for the full portfolio of Cisco Splunk apps and add-ons. Browse the product catalog, check installation …"
 Splunk,自建（Splunk Security）,splunk,splunk/argo-config-framework,https://github.com/splunk/argo-config-framework,0,Python,SECURITY.md,
 Splunk,自建（Splunk Security）,splunk,splunk/ichaer-llvm-project,https://github.com/splunk/ichaer-llvm-project,0,LLVM,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
@@ -8641,7 +8644,7 @@ Coinbase,HackerOne,coinbase,coinbase/prime_sdk_rs,https://github.com/coinbase/pr
 Coinbase,HackerOne,coinbase,coinbase/core-java,https://github.com/coinbase/core-java,,Java,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/core-ts,https://github.com/coinbase/core-ts,,TypeScript,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/core-dotnet,https://github.com/coinbase/core-dotnet,,C#,SECURITY.md,Coinbase .Net Core is a library that is used by other C# samples
-Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6040,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
+Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6043,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
 Uber,HackerOne,uber,uber/uber-poet,https://github.com/uber/uber-poet,98,Python,SECURITY.md,A mock swift project generator & build runner to help benchmark various module dependency graphs.
 Uber,HackerOne,uber,uber/jaeger,https://github.com/uber/jaeger,11,Go,SECURITY.md,"Uber fork of CNCF Jaeger, a Distributed Tracing Platform - for Pull Requests"
 Uber,HackerOne,uber,uber/uGroup,https://github.com/uber/uGroup,4,Java,SECURITY.md, uGroup is a Kafka consumer lag monitoring service that reads the consumer offset topic to calculate and expose real-time lag metrics via Prometheus and REST AP…
@@ -9161,11 +9164,11 @@ Dropbox,自建BB,dropbox,dropbox/incubator-superset-internal,https://github.com/
 Dropbox,自建BB,dropbox,dropbox/agent-filesystem-samples,https://github.com/dropbox/agent-filesystem-samples,1,TypeScript,SECURITY.md,Sample apps and services for DBX Agent Filesystem
 Dropbox,自建BB,dropbox,dropbox/amundsen,https://github.com/dropbox/amundsen,1,HTML,SECURITY.md,"Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data."
 Dropbox,自建BB,dropbox,dropbox/libseccomp,https://github.com/dropbox/libseccomp,1,C,SECURITY.md,The main libseccomp repository
-Stripe,自建BB,stripe,stripe/ai,https://github.com/stripe/ai,2043,TypeScript,SECURITY.md,One-stop shop for building AI-powered products and businesses with Stripe.
+Stripe,自建BB,stripe,stripe/ai,https://github.com/stripe/ai,2059,TypeScript,SECURITY.md,One-stop shop for building AI-powered products and businesses with Stripe.
 Stripe,自建BB,stripe,stripe/stripe-apps,https://github.com/stripe/stripe-apps,178,TypeScript,SECURITY.md,Stripe Apps lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API.
-Stripe,自建BB,stripe,stripe/ft3,https://github.com/stripe/ft3,118,,SECURITY.md,"FT3: Fraud Tools, Tactics, and Techniques Framework"
+Stripe,自建BB,stripe,stripe/ft3,https://github.com/stripe/ft3,120,,SECURITY.md,"FT3: Fraud Tools, Tactics, and Techniques Framework"
 Stripe,自建BB,stripe,stripe/stripe-postman,https://github.com/stripe/stripe-postman,90,,SECURITY.md,Postman collection for Stripe's API
-Stripe,自建BB,stripe,stripe/projects-template-registry,https://github.com/stripe/projects-template-registry,21,,SECURITY.md,
+Stripe,自建BB,stripe,stripe/projects-template-registry,https://github.com/stripe/projects-template-registry,22,,SECURITY.md,
 Stripe,自建BB,stripe,stripe/stripe-commercetools-connect-app,https://github.com/stripe/stripe-commercetools-connect-app,18,TypeScript,SECURITY.md,Stripe payments integration with commercetools Connect
 Stripe,自建BB,stripe,stripe/.github,https://github.com/stripe/.github,11,,SECURITY.md,Stripe uses the Contributor Covenant Code of Conduct for our open-source community.
 Stripe,自建BB,stripe,stripe/projects-templates,https://github.com/stripe/projects-templates,8,TypeScript,SECURITY.md,
@@ -9177,7 +9180,7 @@ Stripe,自建BB,stripe,stripe/codesandbox-client,https://github.com/stripe/codes
 Block (Square/Cash App),自建BB,block,block/buzz,https://github.com/block/buzz,37120,Rust,SECURITY.md,A hive mind communication platform
 Block (Square/Cash App),自建BB,square,square/wire,https://github.com/square/wire,4440,Kotlin,SECURITY.md,"gRPC and protocol buffers for Android, Kotlin, Swift and Java."
 Block (Square/Cash App),自建BB,block,block/berd,https://github.com/block/berd,1050,TypeScript,SECURITY.md,a desktop app for getting work done with any model
-Block (Square/Cash App),自建BB,square,square/subzero,https://github.com/square/subzero,693,C,SECURITY.md,Block's Bitcoin Cold Storage solution.
+Block (Square/Cash App),自建BB,square,square/subzero,https://github.com/square/subzero,694,C,SECURITY.md,Block's Bitcoin Cold Storage solution.
 Block (Square/Cash App),自建BB,square,square/web-payments-quickstart,https://github.com/square/web-payments-quickstart,103,HTML,.github/SECURITY.md,Quickstart for using Square's Web Payments SDK
 Block (Square/Cash App),自建BB,block,block/blip,https://github.com/block/blip,75,Go,SECURITY.md,Sublime MySQL monitoring
 Block (Square/Cash App),自建BB,block,block/proto-fleet,https://github.com/block/proto-fleet,59,Go,SECURITY.md,Proto Fleet. Mining management software. Evolved.
@@ -9230,7 +9233,8 @@ Deliveroo,自建BB,deliveroo,deliveroo/facebook-ios-sdk,https://github.com/deliv
 Deliveroo,自建BB,deliveroo,deliveroo/sinatra,https://github.com/deliveroo/sinatra,,Ruby,SECURITY.md,Classy web-development dressed in a DSL (official / canonical repo)
 Grab,自建BB,grab,grab/unified-spark-catalog,https://github.com/grab/unified-spark-catalog,6,Java,SECURITY.md,"Unified Spark catalog routing to Delta, Iceberg, or Hudi by auto-detecting format"
 Gojek,自建BB,gojek,gojek/paho.mqtt.golang,https://github.com/gojek/paho.mqtt.golang,6,Go,SECURITY.md,
-Walmart,自建BB,walmartlabs,walmartlabs/concord,https://github.com/walmartlabs/concord,235,Java,SECURITY.md,Concord - workflow orchestration and continuous deployment management
+Walmart,自建BB,walmartlabs,walmartlabs/concord,https://github.com/walmartlabs/concord,236,Java,SECURITY.md,Concord - workflow orchestration and continuous deployment management
+Walmart,自建BB,walmartlabs,walmartlabs/storm,https://github.com/walmartlabs/storm,0,Java,SECURITY.md,Mirror of Apache Storm
 Target,自建BB,target,target/grid,https://github.com/target/grid,3,Rust,SECURITY.md,Hyperledger Grid
 Target,自建BB,target,target/sonic-swss-common,https://github.com/target/sonic-swss-common,1,C++,SECURITY.md,Common components for SONiC switch state service
 Target,自建BB,target,target/sonic-utilities,https://github.com/target/sonic-utilities,1,Python,SECURITY.md,Command line utilities for the SONiC project
@@ -9248,8 +9252,8 @@ Comcast,自建BB,comcast,Comcast/low-latency,https://github.com/Comcast/low-late
 Comcast,自建BB,comcast,Comcast/.github,https://github.com/Comcast/.github,1,,SECURITY.md,Default files for the org
 Comcast,自建BB,comcast,Comcast/OpenPlate,https://github.com/Comcast/OpenPlate,,Python,SECURITY.md,A tool for building and managing reusable project templates and standardized developer workflows.
 Deutsche Telekom,自建BB,telekom,telekom/testerra,https://github.com/telekom/testerra,38,Java,SECURITY.md,Testerra is an integrated framework for automating tests for (web) applications. 
-Deutsche Telekom,自建BB,telekom,telekom/k8s-breakglass,https://github.com/telekom/k8s-breakglass,34,Go,SECURITY.md,Temporary privilege elevation for Kubernetes.
-Deutsche Telekom,自建BB,telekom,telekom/sutura,https://github.com/telekom/sutura,22,Rust,SECURITY.md,sutura is a secure multiplayer chatting with data experience which is pluggable for data and semantics
+Deutsche Telekom,自建BB,telekom,telekom/k8s-breakglass,https://github.com/telekom/k8s-breakglass,35,Go,SECURITY.md,Temporary privilege elevation for Kubernetes.
+Deutsche Telekom,自建BB,telekom,telekom/sutura,https://github.com/telekom/sutura,29,Rust,SECURITY.md,sutura is a secure multiplayer chatting with data experience which is pluggable for data and semantics
 Deutsche Telekom,自建BB,telekom,telekom/sysrepo-plugin-interfaces,https://github.com/telekom/sysrepo-plugin-interfaces,11,C,SECURITY.md,
 Deutsche Telekom,自建BB,telekom,telekom/sysrepo-plugins,https://github.com/telekom/sysrepo-plugins,8,C++,SECURITY.md,
 Deutsche Telekom,自建BB,telekom,telekom/sysrepo-plugin-system,https://github.com/telekom/sysrepo-plugin-system,7,C,SECURITY.md,
@@ -9450,17 +9454,17 @@ Nubank,自建BB,nubank,nubank/memcached_exporter,https://github.com/nubank/memca
 Mercado Libre,自建BB,mercadolibre,mercadolibre/java-control-plane,https://github.com/mercadolibre/java-control-plane,0,Java,SECURITY.md,Java implementation of an Envoy gRPC control plane
 Mercado Libre,自建BB,mercadolibre,mercadolibre/istio-api,https://github.com/mercadolibre/istio-api,0,Go,.github/SECURITY.md,API definitions for the Istio project
 Mercado Libre,自建BB,mercadolibre,mercadolibre/istio-istio,https://github.com/mercadolibre/istio-istio,0,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
-Zalando,自建BB,zalando,zalando/postgres-operator,https://github.com/zalando/postgres-operator,5271,Go,SECURITY.md,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-Zalando,自建BB,zalando,zalando/skipper,https://github.com/zalando/skipper,3333,Go,SECURITY.md,"An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress"
-Zalando,自建BB,zalando,zalando/zalenium,https://github.com/zalando/zalenium,2360,Java,SECURITY.md,"A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard."
-Zalando,自建BB,zalando,zalando/logbook,https://github.com/zalando/logbook,2072,Java,SECURITY.md,An extensible Java library for HTTP request and response logging
-Zalando,自建BB,zalando,zalando/go-keyring,https://github.com/zalando/go-keyring,1361,Go,SECURITY.md,Cross-platform keyring interface for Go
-Zalando,自建BB,zalando,zalando/problem-spring-web,https://github.com/zalando/problem-spring-web,1071,Java,SECURITY.md,A library for handling Problems in Spring Web MVC
+Zalando,自建BB,zalando,zalando/postgres-operator,https://github.com/zalando/postgres-operator,5273,Go,SECURITY.md,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+Zalando,自建BB,zalando,zalando/skipper,https://github.com/zalando/skipper,3334,Go,SECURITY.md,"An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress"
+Zalando,自建BB,zalando,zalando/zalenium,https://github.com/zalando/zalenium,2361,Java,SECURITY.md,"A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard."
+Zalando,自建BB,zalando,zalando/logbook,https://github.com/zalando/logbook,2074,Java,SECURITY.md,An extensible Java library for HTTP request and response logging
+Zalando,自建BB,zalando,zalando/go-keyring,https://github.com/zalando/go-keyring,1366,Go,SECURITY.md,Cross-platform keyring interface for Go
+Zalando,自建BB,zalando,zalando/problem-spring-web,https://github.com/zalando/problem-spring-web,1070,Java,SECURITY.md,A library for handling Problems in Spring Web MVC
 Zalando,自建BB,zalando,zalando/nakadi,https://github.com/zalando/nakadi,965,Java,SECURITY.md,A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues
-Zalando,自建BB,zalando,zalando/problem,https://github.com/zalando/problem,952,Java,SECURITY.md,A Java library that implements application/problem+json
+Zalando,自建BB,zalando,zalando/problem,https://github.com/zalando/problem,953,Java,SECURITY.md,A Java library that implements application/problem+json
 Zalando,自建BB,zalando,zalando/gin-oauth2,https://github.com/zalando/gin-oauth2,619,Go,SECURITY.md,Middleware for Gin Framework users who also want to use OAuth2
 Zalando,自建BB,zalando,zalando/zappr,https://github.com/zalando/zappr,538,JavaScript,SECURITY.md,An agent that enforces guidelines for your GitHub repositories
-Zalando,自建BB,zalando,zalando/riptide,https://github.com/zalando/riptide,341,Java,SECURITY.md,Client-side response routing for Spring
+Zalando,自建BB,zalando,zalando/riptide,https://github.com/zalando/riptide,343,Java,SECURITY.md,Client-side response routing for Spring
 Zalando,自建BB,zalando,zalando/jackson-datatype-money,https://github.com/zalando/jackson-datatype-money,262,Java,SECURITY.md,Extension module to properly support datatypes of javax.money
 Zalando,自建BB,zalando,zalando/grafter,https://github.com/zalando/grafter,235,Scala,SECURITY.md,Grafter is a library to configure and wire Scala applications
 Zalando,自建BB,zalando,zalando/public-presentations,https://github.com/zalando/public-presentations,194,,SECURITY.md,"List of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides"
@@ -9477,14 +9481,14 @@ Zalando,自建BB,zalando,zalando/ghe-backup,https://github.com/zalando/ghe-backu
 Zalando,自建BB,zalando,zalando/backstage-plugin-api-linter,https://github.com/zalando/backstage-plugin-api-linter,17,TypeScript,SECURITY.md,API Linter is a quality assurance tool that checks the compliance of API's specifications to Zalando's API rules.
 Zalando,自建BB,zalando,zalando/lightstep-uql-to-promql-translator,https://github.com/zalando/lightstep-uql-to-promql-translator,9,Go,SECURITY.md,
 Zalando,自建BB,zalando,zalando/otelcol-lightstep-receiver,https://github.com/zalando/otelcol-lightstep-receiver,8,Go,SECURITY.md,
-Spotify,自建BB,spotify,spotify/luigi,https://github.com/spotify/luigi,18782,Python,SECURITY.md,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also…"
-Spotify,自建BB,spotify,spotify/basic-pitch,https://github.com/spotify/basic-pitch,6024,Python,SECURITY.md,A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
-Spotify,自建BB,spotify,spotify/scio,https://github.com/spotify/scio,2631,Scala,SECURITY.md,A Scala API for Apache Beam and Google Cloud Dataflow.
-Spotify,自建BB,spotify,spotify/spotify-web-api-ts-sdk,https://github.com/spotify/spotify-web-api-ts-sdk,475,TypeScript,SECURITY.md,A Typescript SDK for the Spotify Web API with types for returned data.
+Spotify,自建BB,spotify,spotify/luigi,https://github.com/spotify/luigi,18787,Python,SECURITY.md,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also…"
+Spotify,自建BB,spotify,spotify/basic-pitch,https://github.com/spotify/basic-pitch,6048,Python,SECURITY.md,A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
+Spotify,自建BB,spotify,spotify/scio,https://github.com/spotify/scio,2630,Scala,SECURITY.md,A Scala API for Apache Beam and Google Cloud Dataflow.
+Spotify,自建BB,spotify,spotify/spotify-web-api-ts-sdk,https://github.com/spotify/spotify-web-api-ts-sdk,476,TypeScript,SECURITY.md,A Typescript SDK for the Spotify Web API with types for returned data.
 Spotify,自建BB,spotify,spotify/sourcekit-bazel-bsp,https://github.com/spotify/sourcekit-bazel-bsp,440,Swift,SECURITY.md,"iOS Development (and more) in alternative IDEs like Cursor / VSCode, for Bazel projects"
-Spotify,自建BB,spotify,spotify/fmt-maven-plugin,https://github.com/spotify/fmt-maven-plugin,387,Java,SECURITY.md,Opinionated Maven Plugin that formats your Java code.
+Spotify,自建BB,spotify,spotify/fmt-maven-plugin,https://github.com/spotify/fmt-maven-plugin,388,Java,SECURITY.md,Opinionated Maven Plugin that formats your Java code.
 Spotify,自建BB,spotify,spotify/realbook,https://github.com/spotify/realbook,132,Python,SECURITY.md,Easier audio-based machine learning with TensorFlow.
-Spotify,自建BB,spotify,spotify/vispana,https://github.com/spotify/vispana,61,JavaScript,SECURITY.md,Web client for Vespa.ai
+Spotify,自建BB,spotify,spotify/vispana,https://github.com/spotify/vispana,62,JavaScript,SECURITY.md,Web client for Vespa.ai
 Spotify,自建BB,spotify,spotify/confidence-sdk-js,https://github.com/spotify/confidence-sdk-js,24,TypeScript,SECURITY.md,
 Spotify,自建BB,spotify,spotify/confidence-sdk-swift,https://github.com/spotify/confidence-sdk-swift,21,Swift,SECURITY.md,
 Spotify,自建BB,spotify,spotify/ads-agentic-tools,https://github.com/spotify/ads-agentic-tools,20,Shell,SECURITY.md,"A Claude Code plugin that lets you manage Spotify advertising campaigns through natural language. Create campaigns, target audiences, launch ads, and pull perfo…"
