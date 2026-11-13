@@ -104,23 +104,23 @@
  {
   "vendor": "SUSE",
   "org": "SUSE",
+  "full_name": "SUSE/authentik",
+  "url": "https://github.com/SUSE/authentik",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Fork of Authentik containing SUSE patches.",
+  "first_seen": "2026-11-01 17:16:58"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "SUSE",
   "full_name": "SUSE/skopeo",
   "url": "https://github.com/SUSE/skopeo",
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "Go",
   "description": "Work with remote images registries - retrieving information, images, signing content",
-  "first_seen": "2026-11-01 17:16:58"
- },
- {
-  "vendor": "SUSE",
-  "org": "SUSE",
-  "full_name": "SUSE/authentik",
-  "url": "https://github.com/SUSE/authentik",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "Fork of Authentik containing SUSE patches.",
   "first_seen": "2026-11-01 17:16:58"
  },
  {

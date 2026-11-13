@@ -5,7 +5,7 @@
   "full_name": "SAP/SapMachine",
   "url": "https://github.com/SAP/SapMachine",
   "sec_path": "SECURITY.md",
-  "stars": 627,
+  "stars": 630,
   "language": "Java",
   "description": "An OpenJDK release maintained and supported by SAP",
   "first_seen": "2026-11-01 17:15:19"
@@ -16,7 +16,7 @@
   "full_name": "SAP/architecture-center",
   "url": "https://github.com/SAP/architecture-center",
   "sec_path": "SECURITY.md",
-  "stars": 191,
+  "stars": 193,
   "language": "TypeScript",
   "description": "The SAP Architecture Center provides solution reference architectures, helping businesses adopt SAP solutions to turn data into valuable business insights.",
   "first_seen": "2026-11-01 17:15:19"
@@ -27,7 +27,7 @@
   "full_name": "SAP/project-foxhound",
   "url": "https://github.com/SAP/project-foxhound",
   "sec_path": "SECURITY.md",
-  "stars": 183,
+  "stars": 185,
   "language": "JavaScript",
   "description": "A web browser with dynamic data-flow tracking enabled in the Javascript engine and DOM, based on Mozilla Firefox (https://github.com/mozilla-firefox/firefox). I…",
   "first_seen": "2026-11-01 17:15:19"
@@ -38,7 +38,7 @@
   "full_name": "SAP/open-ux-tools",
   "url": "https://github.com/SAP/open-ux-tools",
   "sec_path": "SECURITY.md",
-  "stars": 162,
+  "stars": 161,
   "language": "TypeScript",
   "description": "Enable community collaboration to jointly promote and facilitate best in class tooling capabilities",
   "first_seen": "2026-11-01 17:15:19"
@@ -115,7 +115,7 @@
   "full_name": "SAP/automation-pilot-agent-skills",
   "url": "https://github.com/SAP/automation-pilot-agent-skills",
   "sec_path": "SECURITY.md",
-  "stars": 13,
+  "stars": 14,
   "language": "Go",
   "description": "AI agent skills for SAP Automation Pilot content development, enabling automated code generation and review workflows.",
   "first_seen": "2026-11-01 17:15:19"
@@ -145,23 +145,23 @@
  {
   "vendor": "SAP",
   "org": "SAP",
+  "full_name": "SAP/ai-native-architecture-advisor",
+  "url": "https://github.com/SAP/ai-native-architecture-advisor",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "HTML",
+  "description": "Describe an SAP business problem and this Claude Code / Codex plugin helps you design an AI solution for it. It asks a few questions, then writes a clear plan: …",
+  "first_seen": "2026-11-01 17:15:19"
+ },
+ {
+  "vendor": "SAP",
+  "org": "SAP",
   "full_name": "SAP/async-profiler",
   "url": "https://github.com/SAP/async-profiler",
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "C++",
   "description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events",
-  "first_seen": "2026-11-01 17:15:19"
- },
- {
-  "vendor": "SAP",
-  "org": "SAP",
-  "full_name": "SAP/ai-native-architecture-advisor",
-  "url": "https://github.com/SAP/ai-native-architecture-advisor",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "HTML",
-  "description": "Describe an SAP business problem and this Claude Code / Codex plugin helps you design an AI solution for it. It asks a few questions, then writes a clear plan: …",
   "first_seen": "2026-11-01 17:15:19"
  },
  {
