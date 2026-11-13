@@ -832,7 +832,7 @@ const a=nrm(x[SK]),b=nrm(y[SK]);return a<b?-SD:a>b?SD:0});return a}
 function render(){const a=cur();
 const head=a.slice(0,CAP).map(r=>'<tr><td><a href="https://github.com/'+esc(r.f)+'">'+esc(r.f)+'</a></td><td>'+esc(r.v)+'</td><td>'+esc(r.src||'-')+'</td><td class=m>'+(r.s==null?'-':r.s)+'</td><td>'+esc(r.l||'-')+'</td><td>'+esc(r.lic||'-')+'</td><td><a href="'+r.loc+'">SECURITY.md</a></td><td class=d>'+esc(r.d||'')+'</td></tr>').join('');
 document.getElementById('b').innerHTML=head||'<tr><td colspan=8>'+esc(t('noresult'))+'</td></tr>';
-document.getElementById('cnt').textContent=t('cnt').replace('%S',Math.min(a.length,CAP)).replace('%T',a.length);
+document.getElementById('cnt').textContent=t('cnt').replace('%%S',Math.min(a.length,CAP)).replace('%%T',a.length);
 applyHeaders()}
 I18N.zh.q_placeholder='搜索：厂商 / 仓库 / 语言 / License / 描述 …';I18N.en.q_placeholder='Search: vendor / repo / language / license / description …';
 document.getElementById('q').oninput=e=>{F.q=e.target.value.trim().toLowerCase();render()};
