@@ -6,9 +6,9 @@
 
 [在线探索](https://8eeth0ven.github.io/security-md-collect/) · [下载 CSV](索引/总表.csv) · [JSON 数据](索引/dashboard.json) · [赏金 APK](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html) · [参与维护](CONTRIBUTING.md)
 
-![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-bcf3d4?style=flat-square&labelColor=1b2925)
-![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-bcf3d4?style=flat-square&labelColor=1b2925)
-![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-bcf3d4?style=flat-square&labelColor=1b2925)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-f3f3f3?style=flat-square&labelColor=212121)
+![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-f3f3f3?style=flat-square&labelColor=212121)
+![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-f3f3f3?style=flat-square&labelColor=212121)
 
 </div>
 
@@ -22,7 +22,7 @@
 <img src="docs/assets/dashboard-mobile.png" alt="390px 宽度的手机端看板，包含统计卡片与筛选区" width="390">
 </details>
 
-截图是 **2026-11-13 的数据快照**，其中有 9,501 条有效仓库记录、243 个厂商和 306 个 GitHub 组织；最新数量与时间以[在线统计](https://8eeth0ven.github.io/security-md-collect/索引/统计.json)为准。历史上误计入的 908 条网络错误记录已移入[待重试清单](索引/retry-candidates.json)，保留元数据以便追溯；它们不再计入安全策略仓库数。后续记录若暂缺本地原文，则仅显示 GitHub 来源入口。
+截图是 **2026-11-13 的数据快照**，其中有 9,503 条有效仓库记录、243 个厂商和 306 个 GitHub 组织；最新数量与时间以[在线统计](https://8eeth0ven.github.io/security-md-collect/索引/统计.json)为准。历史上误计入的 908 条网络错误记录已移入[待重试清单](索引/retry-candidates.json)，保留元数据以便追溯；它们不再计入安全策略仓库数。后续记录若暂缺本地原文，则仅显示 GitHub 来源入口。
 
 ## 能做什么
 
