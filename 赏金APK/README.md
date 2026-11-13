@@ -1,6 +1,6 @@
 # 赏金 APK 直达清单（四大平台）
 
-> 更新：2026-11-13 11:24 ｜ 数据流：`Desktop\Ai-SRC\bc_apk_20261113\`（收集器）→ 本分类 → `sync_github.py` 每 30 分钟 push → GitHub Pages
+> 更新：2026-11-13 12:29 ｜ 数据流：`Desktop\Ai-SRC\bc_apk_20261113\`（收集器）→ 本分类 → `sync_github.py` 每 30 分钟 push → GitHub Pages
 
 | 平台 | 项目源 | APK 目标 | 有直达链 | 清单 |
 |---|---|---|---|---|
