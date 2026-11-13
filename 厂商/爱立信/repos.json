@@ -5,7 +5,7 @@
   "full_name": "Ericsson/codechecker",
   "url": "https://github.com/Ericsson/codechecker",
   "sec_path": "SECURITY.md",
-  "stars": 2630,
+  "stars": 2634,
   "language": "Python",
   "description": "CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.",
   "first_seen": "2026-11-01 19:48:13"
@@ -16,7 +16,7 @@
   "full_name": "Ericsson/CodeCompass",
   "url": "https://github.com/Ericsson/CodeCompass",
   "sec_path": "SECURITY.md",
-  "stars": 614,
+  "stars": 615,
   "language": "C++",
   "description": "CodeCompass is a software comprehension tool for large scale software written in C/C++, C# and Python.",
   "first_seen": "2026-11-01 19:48:13"
@@ -57,23 +57,23 @@
  {
   "vendor": "爱立信",
   "org": "ericsson",
+  "full_name": "Ericsson/yocto-security-tools",
+  "url": "https://github.com/Ericsson/yocto-security-tools",
+  "sec_path": "SECURITY.md",
+  "stars": 20,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 19:48:13"
+ },
+ {
+  "vendor": "爱立信",
+  "org": "ericsson",
   "full_name": "Ericsson/ove",
   "url": "https://github.com/Ericsson/ove",
   "sec_path": "SECURITY.md",
   "stars": 20,
   "language": "Shell",
   "description": "OVE gathers git repositories and the knowledge how to build and test them",
-  "first_seen": "2026-11-01 19:48:13"
- },
- {
-  "vendor": "爱立信",
-  "org": "ericsson",
-  "full_name": "Ericsson/yocto-security-tools",
-  "url": "https://github.com/Ericsson/yocto-security-tools",
-  "sec_path": "SECURITY.md",
-  "stars": 18,
-  "language": "Python",
-  "description": "",
   "first_seen": "2026-11-01 19:48:13"
  },
  {

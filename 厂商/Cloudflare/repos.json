@@ -5,7 +5,7 @@
   "full_name": "cloudflare/computer",
   "url": "https://github.com/cloudflare/computer",
   "sec_path": ".github/SECURITY.md",
-  "stars": 9821,
+  "stars": 9907,
   "language": "TypeScript",
   "description": "Give your agent a computer 👾",
   "first_seen": "2026-11-01 19:21:55"
@@ -16,7 +16,7 @@
   "full_name": "cloudflare/vinext",
   "url": "https://github.com/cloudflare/vinext",
   "sec_path": "SECURITY.md",
-  "stars": 9305,
+  "stars": 9359,
   "language": "TypeScript",
   "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
   "first_seen": "2026-11-01 19:21:55"
@@ -27,7 +27,7 @@
   "full_name": "cloudflare/workerd",
   "url": "https://github.com/cloudflare/workerd",
   "sec_path": "SECURITY.md",
-  "stars": 9129,
+  "stars": 9186,
   "language": "C++",
   "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
   "first_seen": "2026-11-01 19:21:55"
@@ -38,7 +38,7 @@
   "full_name": "cloudflare/workers-sdk",
   "url": "https://github.com/cloudflare/workers-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 4704,
+  "stars": 4719,
   "language": "TypeScript",
   "description": "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®",
   "first_seen": "2026-11-01 19:21:55"
@@ -49,7 +49,7 @@
   "full_name": "cloudflare/capnweb",
   "url": "https://github.com/cloudflare/capnweb",
   "sec_path": "SECURITY.md",
-  "stars": 4029,
+  "stars": 4032,
   "language": "TypeScript",
   "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
   "first_seen": "2026-11-01 19:21:55"
@@ -60,7 +60,7 @@
   "full_name": "cloudflare/wrangler-legacy",
   "url": "https://github.com/cloudflare/wrangler-legacy",
   "sec_path": "SECURITY.md",
-  "stars": 3188,
+  "stars": 3186,
   "language": "Rust",
   "description": "🤠  Home to Wrangler v1 (deprecated)",
   "first_seen": "2026-11-01 19:24:21"
@@ -68,21 +68,10 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
-  "full_name": "cloudflare/wildebeest",
-  "url": "https://github.com/cloudflare/wildebeest",
-  "sec_path": "SECURITY.md",
-  "stars": 2116,
-  "language": "TypeScript",
-  "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
-  "first_seen": "2026-11-01 19:23:06"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
   "full_name": "cloudflare/cloudflare-go",
   "url": "https://github.com/cloudflare/cloudflare-go",
   "sec_path": "SECURITY.md",
-  "stars": 2112,
+  "stars": 2115,
   "language": "Go",
   "description": "The official Go library for the Cloudflare API",
   "first_seen": "2026-11-01 19:21:55"
@@ -90,10 +79,21 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
+  "full_name": "cloudflare/wildebeest",
+  "url": "https://github.com/cloudflare/wildebeest",
+  "sec_path": "SECURITY.md",
+  "stars": 2115,
+  "language": "TypeScript",
+  "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
+  "first_seen": "2026-11-01 19:23:06"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
   "full_name": "cloudflare/workers-oauth-provider",
   "url": "https://github.com/cloudflare/workers-oauth-provider",
   "sec_path": "SECURITY.md",
-  "stars": 1892,
+  "stars": 1896,
   "language": "TypeScript",
   "description": "OAuth provider library for Cloudflare Workers",
   "first_seen": "2026-11-01 19:21:55"
@@ -104,7 +104,7 @@
   "full_name": "cloudflare/nimbus",
   "url": "https://github.com/cloudflare/nimbus",
   "sec_path": "SECURITY.md",
-  "stars": 1739,
+  "stars": 1760,
   "language": "TypeScript",
   "description": "Docs for humans and agents, built on Astro",
   "first_seen": "2026-11-01 19:21:55"
@@ -137,7 +137,7 @@
   "full_name": "cloudflare/cf",
   "url": "https://github.com/cloudflare/cf",
   "sec_path": ".github/SECURITY.md",
-  "stars": 995,
+  "stars": 1034,
   "language": "TypeScript",
   "description": "The agentic CLI for the entire Cloudflare API",
   "first_seen": "2026-11-01 19:21:55"
@@ -148,7 +148,7 @@
   "full_name": "cloudflare/cloudflare-typescript",
   "url": "https://github.com/cloudflare/cloudflare-typescript",
   "sec_path": "SECURITY.md",
-  "stars": 830,
+  "stars": 832,
   "language": "TypeScript",
   "description": "The official TypeScript library for the Cloudflare API",
   "first_seen": "2026-11-01 19:21:55"
@@ -181,7 +181,7 @@
   "full_name": "cloudflare/playwright-mcp",
   "url": "https://github.com/cloudflare/playwright-mcp",
   "sec_path": "SECURITY.md",
-  "stars": 260,
+  "stars": 261,
   "language": "TypeScript",
   "description": "Playwright MCP fork that works with Cloudflare Browser Rendering",
   "first_seen": "2026-11-01 19:24:21"
@@ -214,7 +214,7 @@
   "full_name": "cloudflare/playwright",
   "url": "https://github.com/cloudflare/playwright",
   "sec_path": "SECURITY.md",
-  "stars": 125,
+  "stars": 124,
   "language": "TypeScript",
   "description": "Playwright fork that works with Cloudflare Browser Rendering",
   "first_seen": "2026-11-01 19:21:55"
@@ -222,10 +222,22 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
+  "full_name": "cloudflare/kitesurf",
+  "url": "https://github.com/cloudflare/kitesurf",
+  "sec_path": "SECURITY.md",
+  "stars": 91,
+  "language": "TypeScript",
+  "description": "Kitesurf is an experimental browser engine that runs on Cloudflare Workers.",
+  "license": null,
+  "first_seen": "2026-11-13 12:38:48"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
   "full_name": "cloudflare/privacy-gateway-server-go",
   "url": "https://github.com/cloudflare/privacy-gateway-server-go",
   "sec_path": "SECURITY.md",
-  "stars": 89,
+  "stars": 90,
   "language": "Go",
   "description": "An Oblivious HTTP gateway",
   "first_seen": "2026-11-01 19:21:55"
@@ -240,6 +252,17 @@
   "language": "TypeScript",
   "description": "",
   "first_seen": "2026-11-01 19:21:55"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
+  "full_name": "cloudflare/privacy-gateway-relay",
+  "url": "https://github.com/cloudflare/privacy-gateway-relay",
+  "sec_path": "SECURITY.md",
+  "stars": 41,
+  "language": "JavaScript",
+  "description": "A Oblivious HTTP (\"OHTTP\") Relay built on Cloudflare Workers.",
+  "first_seen": "2026-11-01 19:23:06"
  },
  {
   "vendor": "Cloudflare",
@@ -262,17 +285,6 @@
   "language": "Go",
   "description": "Private Access Tokens reference implementation",
   "first_seen": "2026-11-01 19:21:55"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
-  "full_name": "cloudflare/privacy-gateway-relay",
-  "url": "https://github.com/cloudflare/privacy-gateway-relay",
-  "sec_path": "SECURITY.md",
-  "stars": 40,
-  "language": "JavaScript",
-  "description": "A Oblivious HTTP (\"OHTTP\") Relay built on Cloudflare Workers.",
-  "first_seen": "2026-11-01 19:23:06"
  },
  {
   "vendor": "Cloudflare",
@@ -310,23 +322,23 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
-  "full_name": "cloudflare/privacy-gateway-client-library",
-  "url": "https://github.com/cloudflare/privacy-gateway-client-library",
+  "full_name": "cloudflare/polystella",
+  "url": "https://github.com/cloudflare/polystella",
   "sec_path": "SECURITY.md",
-  "stars": 22,
-  "language": "Rust",
-  "description": "",
+  "stars": 26,
+  "language": "TypeScript",
+  "description": "Astro integration for localization and automated AI translation of content",
   "first_seen": "2026-11-01 19:21:55"
  },
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
-  "full_name": "cloudflare/polystella",
-  "url": "https://github.com/cloudflare/polystella",
+  "full_name": "cloudflare/privacy-gateway-client-library",
+  "url": "https://github.com/cloudflare/privacy-gateway-client-library",
   "sec_path": "SECURITY.md",
-  "stars": 21,
-  "language": "TypeScript",
-  "description": "Astro integration for localization and automated AI translation of content",
+  "stars": 23,
+  "language": "Rust",
+  "description": "",
   "first_seen": "2026-11-01 19:21:55"
  },
  {

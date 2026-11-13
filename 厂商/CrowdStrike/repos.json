@@ -5,7 +5,7 @@
   "full_name": "CrowdStrike/falconpy",
   "url": "https://github.com/CrowdStrike/falconpy",
   "sec_path": "SECURITY.md",
-  "stars": 518,
+  "stars": 522,
   "language": "Python",
   "description": "The CrowdStrike Falcon SDK for Python",
   "first_seen": "2026-11-01 18:54:21"
@@ -16,7 +16,7 @@
   "full_name": "CrowdStrike/psfalcon",
   "url": "https://github.com/CrowdStrike/psfalcon",
   "sec_path": "SECURITY.md",
-  "stars": 492,
+  "stars": 493,
   "language": "PowerShell",
   "description": "PowerShell for CrowdStrike's OAuth2 APIs",
   "first_seen": "2026-11-01 18:54:21"
@@ -27,7 +27,7 @@
   "full_name": "CrowdStrike/sccmhound",
   "url": "https://github.com/CrowdStrike/sccmhound",
   "sec_path": "SECURITY.md",
-  "stars": 405,
+  "stars": 406,
   "language": "C#",
   "description": "A BloodHound collector for Microsoft Configuration Manager",
   "first_seen": "2026-11-01 18:54:21"
@@ -38,7 +38,7 @@
   "full_name": "CrowdStrike/falcon-mcp",
   "url": "https://github.com/CrowdStrike/falcon-mcp",
   "sec_path": ".github/SECURITY.md",
-  "stars": 277,
+  "stars": 281,
   "language": "Python",
   "description": "Connect AI agents to CrowdStrike Falcon for automated security analysis and threat hunting",
   "first_seen": "2026-11-01 18:54:21"
@@ -126,7 +126,7 @@
   "full_name": "CrowdStrike/foundry-skills",
   "url": "https://github.com/CrowdStrike/foundry-skills",
   "sec_path": "SECURITY.md",
-  "stars": 36,
+  "stars": 38,
   "language": "Shell",
   "description": "AI coding assistant skills for building CrowdStrike Falcon Foundry apps: scaffolding, deployment, and best practices for API integrations, collections, function…",
   "first_seen": "2026-11-01 18:54:21"
@@ -137,7 +137,7 @@
   "full_name": "CrowdStrike/fusion-skills",
   "url": "https://github.com/CrowdStrike/fusion-skills",
   "sec_path": "SECURITY.md",
-  "stars": 28,
+  "stars": 30,
   "language": "Python",
   "description": "AI coding assistant skills for building CrowdStrike Falcon Fusion workflows: action discovery, YAML authoring, deployment, execution monitoring, and best practi…",
   "first_seen": "2026-11-01 18:54:21"
@@ -299,12 +299,12 @@
  {
   "vendor": "CrowdStrike",
   "org": "crowdstrike",
-  "full_name": "CrowdStrike/automaldesc",
-  "url": "https://github.com/CrowdStrike/automaldesc",
+  "full_name": "CrowdStrike/foundry-sample-idp-notifications",
+  "url": "https://github.com/CrowdStrike/foundry-sample-idp-notifications",
   "sec_path": "SECURITY.md",
   "stars": 6,
   "language": "Python",
-  "description": "Repository accompanying the AutoMalDesc article: https://ojs.aaai.org/index.php/AAAI/article/view/36959",
+  "description": "Falcon IdP Domain and Connector Monitoring sample Foundry app",
   "first_seen": "2026-11-01 18:54:21"
  },
  {
@@ -327,17 +327,6 @@
   "stars": 5,
   "language": "Bicep",
   "description": "",
-  "first_seen": "2026-11-01 18:54:21"
- },
- {
-  "vendor": "CrowdStrike",
-  "org": "crowdstrike",
-  "full_name": "CrowdStrike/foundry-sample-idp-notifications",
-  "url": "https://github.com/CrowdStrike/foundry-sample-idp-notifications",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "Falcon IdP Domain and Connector Monitoring sample Foundry app",
   "first_seen": "2026-11-01 18:54:21"
  },
  {
@@ -371,6 +360,17 @@
   "stars": 5,
   "language": "HCL",
   "description": "AWS Infrastructure automation for LogScale",
+  "first_seen": "2026-11-01 18:54:21"
+ },
+ {
+  "vendor": "CrowdStrike",
+  "org": "crowdstrike",
+  "full_name": "CrowdStrike/automaldesc",
+  "url": "https://github.com/CrowdStrike/automaldesc",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "Repository accompanying the AutoMalDesc article: https://ojs.aaai.org/index.php/AAAI/article/view/36959",
   "first_seen": "2026-11-01 18:54:21"
  },
  {

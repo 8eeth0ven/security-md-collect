@@ -27,7 +27,7 @@
   "full_name": "dell/csm",
   "url": "https://github.com/dell/csm",
   "sec_path": "docs/SECURITY.md",
-  "stars": 89,
+  "stars": 90,
   "language": "Shell",
   "description": "Dell Container Storage Modules (CSM)",
   "first_seen": "2026-11-01 18:58:28"
@@ -211,23 +211,23 @@
  {
   "vendor": "戴尔",
   "org": "dell",
+  "full_name": "dell/kerberator",
+  "url": "https://github.com/dell/kerberator",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Go",
+  "description": "A Kubernetes operator for Kerberos",
+  "first_seen": "2026-11-01 18:58:28"
+ },
+ {
+  "vendor": "戴尔",
+  "org": "dell",
   "full_name": "dell/iDRAC-MCP-Reference-Server-and-Tools",
   "url": "https://github.com/dell/iDRAC-MCP-Reference-Server-and-Tools",
   "sec_path": "SECURITY.md",
   "stars": 5,
   "language": "Python",
   "description": "iDRAC-MCP-Reference-Server-and-Tools",
-  "first_seen": "2026-11-01 18:58:28"
- },
- {
-  "vendor": "戴尔",
-  "org": "dell",
-  "full_name": "dell/kerberator",
-  "url": "https://github.com/dell/kerberator",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "Go",
-  "description": "A Kubernetes operator for Kerberos",
   "first_seen": "2026-11-01 18:58:28"
  },
  {

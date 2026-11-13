@@ -29,7 +29,7 @@
   "full_name": "etcd-io/etcd",
   "url": "https://github.com/etcd-io/etcd",
   "sec_path": ".github/SECURITY.md",
-  "stars": 52443,
+  "stars": 52601,
   "language": "Go",
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
   "first_seen": "2026-11-01 19:49:09"
@@ -75,7 +75,7 @@
   "full_name": "envoyproxy/envoy",
   "url": "https://github.com/envoyproxy/envoy",
   "sec_path": "SECURITY.md",
-  "stars": 29180,
+  "stars": 29229,
   "language": "C++",
   "description": "Cloud-native high-performance edge/middle/service proxy",
   "first_seen": "2026-11-01 19:47:48"
@@ -86,7 +86,7 @@
   "full_name": "cilium/cilium",
   "url": "https://github.com/cilium/cilium",
   "sec_path": "SECURITY.md",
-  "stars": 25774,
+  "stars": 25826,
   "language": "Go",
   "description": "eBPF-based Networking, Security, and Observability",
   "first_seen": "2026-11-01 19:18:45"
@@ -212,7 +212,7 @@
   "full_name": "containerd/nerdctl",
   "url": "https://github.com/containerd/nerdctl",
   "sec_path": "SECURITY.md",
-  "stars": 10464,
+  "stars": 10480,
   "language": "Go",
   "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
   "first_seen": "2026-11-01 18:53:52"
@@ -306,7 +306,7 @@
   "full_name": "cilium/tetragon",
   "url": "https://github.com/cilium/tetragon",
   "sec_path": "SECURITY.md",
-  "stars": 5154,
+  "stars": 5181,
   "language": "C",
   "description": "eBPF-based Security Observability and Runtime Enforcement",
   "first_seen": "2026-11-01 19:18:45"
@@ -446,7 +446,7 @@
   "full_name": "envoyproxy/gateway",
   "url": "https://github.com/envoyproxy/gateway",
   "sec_path": "SECURITY.md",
-  "stars": 3129,
+  "stars": 3143,
   "language": "Go",
   "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
   "first_seen": "2026-11-01 19:47:48"
@@ -562,7 +562,7 @@
   "full_name": "containerd/runwasi",
   "url": "https://github.com/containerd/runwasi",
   "sec_path": "SECURITY.md",
-  "stars": 1346,
+  "stars": 1349,
   "language": "Rust",
   "description": "Facilitates running Wasm / WASI workloads managed by containerd",
   "first_seen": "2026-11-01 18:53:52"
@@ -774,7 +774,7 @@
   "full_name": "cilium/cilium-cli",
   "url": "https://github.com/cilium/cilium-cli",
   "sec_path": "SECURITY.md",
-  "stars": 609,
+  "stars": 611,
   "language": "Makefile",
   "description": "CLI to install, manage & troubleshoot Kubernetes clusters running Cilium",
   "first_seen": "2026-11-01 19:18:45"
@@ -953,7 +953,7 @@
   "full_name": "envoyproxy/java-control-plane",
   "url": "https://github.com/envoyproxy/java-control-plane",
   "sec_path": "SECURITY.md",
-  "stars": 313,
+  "stars": 315,
   "language": "Java",
   "description": "Java implementation of an Envoy gRPC control plane",
   "first_seen": "2026-11-01 19:47:48"
@@ -1119,7 +1119,7 @@
   "full_name": "etcd-io/etcd-operator",
   "url": "https://github.com/etcd-io/etcd-operator",
   "sec_path": "SECURITY.md",
-  "stars": 170,
+  "stars": 176,
   "language": "Go",
   "description": "The official Kubernetes operator for etcd.",
   "first_seen": "2026-11-01 19:49:09"
@@ -1769,5 +1769,29 @@
   "description": "Project metadata for prometheus - CNCF .project automation",
   "license": null,
   "first_seen": "2026-11-01 23:27:06"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "cilium",
+  "full_name": "cilium/kwok",
+  "url": "https://github.com/cilium/kwok",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.",
+  "license": null,
+  "first_seen": "2026-11-13 12:37:42"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
+  "org": "envoyproxy",
+  "full_name": "envoyproxy/envoy-ai-python-sdk",
+  "url": "https://github.com/envoyproxy/envoy-ai-python-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-13 12:38:58"
  }
 ]

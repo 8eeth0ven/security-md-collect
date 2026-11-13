@@ -5,7 +5,7 @@
   "full_name": "elastic/kibana",
   "url": "https://github.com/elastic/kibana",
   "sec_path": "SECURITY.md",
-  "stars": 21354,
+  "stars": 21377,
   "language": "TypeScript",
   "description": "Your window into all of your data",
   "first_seen": "2026-11-01 19:11:51"
@@ -38,7 +38,7 @@
   "full_name": "elastic/elasticsearch-rails",
   "url": "https://github.com/elastic/elasticsearch-rails",
   "sec_path": "error",
-  "stars": 3082,
+  "stars": 3081,
   "language": "Ruby",
   "description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails",
   "first_seen": "2026-11-01 19:13:07"
@@ -60,7 +60,7 @@
   "full_name": "elastic/apm-agent-php",
   "url": "https://github.com/elastic/apm-agent-php",
   "sec_path": "SECURITY.md",
-  "stars": 269,
+  "stars": 270,
   "language": "PHP",
   "description": "",
   "first_seen": "2026-11-01 19:11:51"
@@ -82,7 +82,7 @@
   "full_name": "elastic/gemini-cli-elasticsearch",
   "url": "https://github.com/elastic/gemini-cli-elasticsearch",
   "sec_path": "error",
-  "stars": 117,
+  "stars": 115,
   "language": "JavaScript",
   "description": "Official Elasticsearch extension for Gemini CLI",
   "first_seen": "2026-11-01 19:13:07"
@@ -434,7 +434,7 @@
   "full_name": "elastic/ai-github-actions",
   "url": "https://github.com/elastic/ai-github-actions",
   "sec_path": "SECURITY.md",
-  "stars": 11,
+  "stars": 13,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 19:11:51"
@@ -893,6 +893,17 @@
  {
   "vendor": "Elastic",
   "org": "elastic",
+  "full_name": "elastic/isomer",
+  "url": "https://github.com/elastic/isomer",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 19:11:51"
+ },
+ {
+  "vendor": "Elastic",
+  "org": "elastic",
   "full_name": "elastic/official-images",
   "url": "https://github.com/elastic/official-images",
   "sec_path": "SECURITY.md",
@@ -1342,17 +1353,6 @@
   "description": "Your window into the Elastic Stack",
   "license": null,
   "first_seen": "2026-11-02 03:21:22"
- },
- {
-  "vendor": "Elastic",
-  "org": "elastic",
-  "full_name": "elastic/isomer",
-  "url": "https://github.com/elastic/isomer",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "TypeScript",
-  "description": "",
-  "first_seen": "2026-11-01 19:11:51"
  },
  {
   "vendor": "Elastic",

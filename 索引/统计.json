@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-13 12:09:08",
+ "generated_at": "2026-11-13 12:40:43",
  "mode": "html",
  "totals": {
   "vendors": 243,
   "orgs": 306,
   "orgs_swept": 306,
-  "sec_repos": 10395,
-  "negative_cached": 48239
+  "sec_repos": 10402,
+  "negative_cached": 48246
  },
  "vendors": [
   {
@@ -31,7 +31,7 @@
     "envoyproxy",
     "argoproj"
    ],
-   "sec_repos": 151
+   "sec_repos": 153
   },
   {
    "vendor": "深度求索DeepSeek",
@@ -851,7 +851,7 @@
     "cisco",
     "cisco-open"
    ],
-   "sec_repos": 88
+   "sec_repos": 89
   },
   {
    "vendor": "戴尔",
@@ -1256,7 +1256,7 @@
    "orgs": [
     "cloudflare"
    ],
-   "sec_repos": 47
+   "sec_repos": 48
   },
   {
    "vendor": "Fastly",
@@ -1504,7 +1504,7 @@
    "orgs": [
     "circlefin"
    ],
-   "sec_repos": 78
+   "sec_repos": 81
   },
   {
    "vendor": "OKX",

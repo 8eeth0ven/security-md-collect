@@ -16,7 +16,7 @@
   "full_name": "circlefin/malachite",
   "url": "https://github.com/circlefin/malachite",
   "sec_path": "SECURITY.md",
-  "stars": 462,
+  "stars": 464,
   "language": "Rust",
   "description": "Flexible BFT consensus engine in Rust",
   "first_seen": "2026-11-01 19:19:37"
@@ -27,7 +27,7 @@
   "full_name": "circlefin/evm-cctp-contracts",
   "url": "https://github.com/circlefin/evm-cctp-contracts",
   "sec_path": "SECURITY.md",
-  "stars": 232,
+  "stars": 234,
   "language": "Solidity",
   "description": "Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol",
   "first_seen": "2026-11-01 19:19:37"
@@ -38,7 +38,7 @@
   "full_name": "circlefin/arc-node",
   "url": "https://github.com/circlefin/arc-node",
   "sec_path": "SECURITY.md",
-  "stars": 207,
+  "stars": 208,
   "language": "Rust",
   "description": "The Economic OS for the internet",
   "first_seen": "2026-11-01 19:19:37"
@@ -49,7 +49,7 @@
   "full_name": "circlefin/skills",
   "url": "https://github.com/circlefin/skills",
   "sec_path": "SECURITY.md",
-  "stars": 162,
+  "stars": 165,
   "language": "JavaScript",
   "description": "Circle's open source skills for AI-assisted development.",
   "first_seen": "2026-11-01 19:19:37"
@@ -60,7 +60,7 @@
   "full_name": "circlefin/arc-escrow",
   "url": "https://github.com/circlefin/arc-escrow",
   "sec_path": "SECURITY.md",
-  "stars": 134,
+  "stars": 136,
   "language": "TypeScript",
   "description": "This sample app demonstrates an end-to-end escrow workflow — from contract creation and deposit, through AI-validated deliverable submission, to fund release or…",
   "first_seen": "2026-11-01 19:19:37"
@@ -148,7 +148,7 @@
   "full_name": "circlefin/agent-stack-starter-kits",
   "url": "https://github.com/circlefin/agent-stack-starter-kits",
   "sec_path": "SECURITY.md",
-  "stars": 31,
+  "stars": 30,
   "language": "TypeScript",
   "description": "Runnable examples integrating Circle Agent Stack with LangChain, Claude Agent SDK, OpenAI Agents SDK, Vercel AI SDK and Google ADK.",
   "first_seen": "2026-11-01 19:19:37"
@@ -181,7 +181,7 @@
   "full_name": "circlefin/w3s-ios-sample-app-wallets",
   "url": "https://github.com/circlefin/w3s-ios-sample-app-wallets",
   "sec_path": "SECURITY.md",
-  "stars": 22,
+  "stars": 23,
   "language": "Swift",
   "description": "",
   "first_seen": "2026-11-01 19:19:37"
@@ -255,6 +255,17 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
+  "full_name": "circlefin/w3s-entity-secret-sample-code",
+  "url": "https://github.com/circlefin/w3s-entity-secret-sample-code",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "Go",
+  "description": "",
+  "first_seen": "2026-11-01 19:19:37"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
   "full_name": "circlefin/w3s-digital-wallet-iOS-sample-app",
   "url": "https://github.com/circlefin/w3s-digital-wallet-iOS-sample-app",
   "sec_path": "SECURITY.md",
@@ -277,23 +288,23 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
-  "full_name": "circlefin/w3s-entity-secret-sample-code",
-  "url": "https://github.com/circlefin/w3s-entity-secret-sample-code",
-  "sec_path": "SECURITY.md",
-  "stars": 18,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
   "full_name": "circlefin/w3s-pw-web-sdk",
   "url": "https://github.com/circlefin/w3s-pw-web-sdk",
   "sec_path": "SECURITY.md",
   "stars": 17,
   "language": "TypeScript",
   "description": "",
+  "first_seen": "2026-11-01 19:19:37"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/hyperevm-circle-contracts",
+  "url": "https://github.com/circlefin/hyperevm-circle-contracts",
+  "sec_path": "SECURITY.md",
+  "stars": 17,
+  "language": "Solidity",
+  "description": "Repository for all HyperEVM contracts developed by Circle",
   "first_seen": "2026-11-01 19:19:37"
  },
  {
@@ -332,17 +343,6 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
-  "full_name": "circlefin/hyperevm-circle-contracts",
-  "url": "https://github.com/circlefin/hyperevm-circle-contracts",
-  "sec_path": "SECURITY.md",
-  "stars": 15,
-  "language": "Solidity",
-  "description": "Repository for all HyperEVM contracts developed by Circle",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
   "full_name": "circlefin/contract-cli",
   "url": "https://github.com/circlefin/contract-cli",
   "sec_path": "SECURITY.md",
@@ -370,6 +370,17 @@
   "sec_path": "SECURITY.md",
   "stars": 14,
   "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 19:19:37"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/w3s-ios-sdk",
+  "url": "https://github.com/circlefin/w3s-ios-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "Objective-C",
   "description": "",
   "first_seen": "2026-11-01 19:19:37"
  },
@@ -409,12 +420,12 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
-  "full_name": "circlefin/w3s-ios-sdk",
-  "url": "https://github.com/circlefin/w3s-ios-sdk",
+  "full_name": "circlefin/recoverable-wrapper",
+  "url": "https://github.com/circlefin/recoverable-wrapper",
   "sec_path": "SECURITY.md",
   "stars": 12,
-  "language": "Objective-C",
-  "description": "",
+  "language": "Solidity",
+  "description": "The Official Repository for R&D on recoverable wrapper tokens",
   "first_seen": "2026-11-01 19:19:37"
  },
  {
@@ -423,20 +434,9 @@
   "full_name": "circlefin/arc-ecommerce-payments",
   "url": "https://github.com/circlefin/arc-ecommerce-payments",
   "sec_path": "SECURITY.md",
-  "stars": 12,
+  "stars": 11,
   "language": "TypeScript",
   "description": "An onchain eCommerce demo on Circle Arc that uses the Commerce Payments Protocol (Coinbase x Shopify) as its payment processor.",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/recoverable-wrapper",
-  "url": "https://github.com/circlefin/recoverable-wrapper",
-  "sec_path": "SECURITY.md",
-  "stars": 12,
-  "language": "Solidity",
-  "description": "The Official Repository for R&D on recoverable wrapper tokens",
   "first_seen": "2026-11-01 19:19:37"
  },
  {
@@ -497,23 +497,23 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
+  "full_name": "circlefin/arc-foundry",
+  "url": "https://github.com/circlefin/arc-foundry",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Rust",
+  "description": "Fork of Foundry with Arc support",
+  "first_seen": "2026-11-01 19:19:37"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
   "full_name": "circlefin/stellar-cctp",
   "url": "https://github.com/circlefin/stellar-cctp",
   "sec_path": "SECURITY.md",
   "stars": 8,
   "language": "Rust",
   "description": "Source repository for Stellar smart contracts used by the Cross-Chain Transfer Protocol",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/arc-foundry",
-  "url": "https://github.com/circlefin/arc-foundry",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": "Rust",
-  "description": "Fork of Foundry with Arc support",
   "first_seen": "2026-11-01 19:19:37"
  },
  {
@@ -783,6 +783,18 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
+  "full_name": "circlefin/arc-reth",
+  "url": "https://github.com/circlefin/arc-reth",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Rust",
+  "description": "Fork of Reth with Arc support",
+  "license": null,
+  "first_seen": "2026-11-13 12:37:50"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
   "full_name": "circlefin/formal-tendermint",
   "url": "https://github.com/circlefin/formal-tendermint",
   "sec_path": "SECURITY.md",
@@ -857,5 +869,29 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-05 09:06:14"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/daa-react-native-sdk",
+  "url": "https://github.com/circlefin/daa-react-native-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "TypeScript",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-13 12:37:50"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/daa-android-sdk",
+  "url": "https://github.com/circlefin/daa-android-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Kotlin",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-13 12:37:50"
  }
 ]

@@ -5,7 +5,7 @@
   "full_name": "coinbase/agentkit",
   "url": "https://github.com/coinbase/agentkit",
   "sec_path": "SECURITY.md",
-  "stars": 1353,
+  "stars": 1356,
   "language": "TypeScript",
   "description": "Every AI Agent deserves a wallet.",
   "first_seen": "2026-11-01 18:51:41"
@@ -27,7 +27,7 @@
   "full_name": "coinbase/cb-mpc",
   "url": "https://github.com/coinbase/cb-mpc",
   "sec_path": "SECURITY.md",
-  "stars": 510,
+  "stars": 512,
   "language": "C++",
   "description": "Coinbase MPC Library",
   "first_seen": "2026-11-01 18:51:41"
@@ -38,7 +38,7 @@
   "full_name": "coinbase/cds",
   "url": "https://github.com/coinbase/cds",
   "sec_path": "SECURITY.md",
-  "stars": 508,
+  "stars": 510,
   "language": "TypeScript",
   "description": "Coinbase Design System",
   "first_seen": "2026-11-01 18:51:41"
@@ -49,7 +49,7 @@
   "full_name": "coinbase/smart-wallet",
   "url": "https://github.com/coinbase/smart-wallet",
   "sec_path": "SECURITY.md",
-  "stars": 491,
+  "stars": 490,
   "language": "Solidity",
   "description": "",
   "first_seen": "2026-11-01 18:51:41"
@@ -60,7 +60,7 @@
   "full_name": "coinbase/cdp-sdk",
   "url": "https://github.com/coinbase/cdp-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 207,
+  "stars": 210,
   "language": "Python",
   "description": "Client libraries for managing EVM and Solana wallets while relying on CDP to secure private keys.",
   "first_seen": "2026-11-01 18:51:41"
@@ -71,7 +71,7 @@
   "full_name": "coinbase/x402",
   "url": "https://github.com/coinbase/x402",
   "sec_path": "SECURITY.md",
-  "stars": 178,
+  "stars": 182,
   "language": "TypeScript",
   "description": "A payments protocol for the internet. Built on HTTP.",
   "first_seen": "2026-11-01 18:51:41"
@@ -82,7 +82,7 @@
   "full_name": "coinbase/agentic-wallet-skills",
   "url": "https://github.com/coinbase/agentic-wallet-skills",
   "sec_path": "SECURITY.md",
-  "stars": 127,
+  "stars": 128,
   "language": "JavaScript",
   "description": "npx skills add coinbase/agentic-wallet-skills",
   "first_seen": "2026-11-01 18:51:41"
@@ -137,7 +137,7 @@
   "full_name": "coinbase/payments-mcp",
   "url": "https://github.com/coinbase/payments-mcp",
   "sec_path": "SECURITY.md",
-  "stars": 58,
+  "stars": 59,
   "language": "TypeScript",
   "description": "An npx installer for the Payments MCP application.",
   "first_seen": "2026-11-01 18:51:41"
@@ -398,22 +398,22 @@
  {
   "vendor": "Coinbase",
   "org": "coinbase",
-  "full_name": "coinbase/prime-sdk-ts",
-  "url": "https://github.com/coinbase/prime-sdk-ts",
+  "full_name": "coinbase/agents",
+  "url": "https://github.com/coinbase/agents",
   "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "TypeScript",
+  "stars": 2,
+  "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:51:41"
  },
  {
   "vendor": "Coinbase",
   "org": "coinbase",
-  "full_name": "coinbase/agents",
-  "url": "https://github.com/coinbase/agents",
+  "full_name": "coinbase/prime-sdk-ts",
+  "url": "https://github.com/coinbase/prime-sdk-ts",
   "sec_path": "SECURITY.md",
   "stars": 1,
-  "language": "Python",
+  "language": "TypeScript",
   "description": "",
   "first_seen": "2026-11-01 18:51:41"
  },

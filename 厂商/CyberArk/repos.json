@@ -5,7 +5,7 @@
   "full_name": "cyberark/summon",
   "url": "https://github.com/cyberark/summon",
   "sec_path": "SECURITY.md",
-  "stars": 763,
+  "stars": 765,
   "language": "Go",
   "description": "CLI that provides on-demand secrets access for common DevOps tools",
   "first_seen": "2026-11-01 18:56:00"
@@ -27,7 +27,7 @@
   "full_name": "cyberark/secretless-broker",
   "url": "https://github.com/cyberark/secretless-broker",
   "sec_path": "SECURITY.md",
-  "stars": 396,
+  "stars": 397,
   "language": "Go",
   "description": "Secure your apps by making them Secretless",
   "first_seen": "2026-11-01 18:56:00"
@@ -38,7 +38,7 @@
   "full_name": "cyberark/Vulnhalla",
   "url": "https://github.com/cyberark/Vulnhalla",
   "sec_path": "SECURITY.md",
-  "stars": 207,
+  "stars": 206,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:56:00"
@@ -170,7 +170,7 @@
   "full_name": "cyberark/QuicDrawH3",
   "url": "https://github.com/cyberark/QuicDrawH3",
   "sec_path": "SECURITY.md",
-  "stars": 26,
+  "stars": 27,
   "language": "Python",
   "description": "QuicDraw(H3) is A security research tool designed for fuzzing and racing HTTP/3 servers. QuicDraw implements the `Quic-Fin-Sync` on HTTP/3 (over QUIC) for race-…",
   "first_seen": "2026-11-01 18:56:00"
@@ -497,17 +497,6 @@
  {
   "vendor": "CyberArk",
   "org": "cyberark",
-  "full_name": "cyberark/ansible-conjur-collection",
-  "url": "https://github.com/cyberark/ansible-conjur-collection",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": "Python",
-  "description": "Ansible Collection for CyberArk Secrets Manager",
-  "first_seen": "2026-11-01 18:56:00"
- },
- {
-  "vendor": "CyberArk",
-  "org": "cyberark",
   "full_name": "cyberark/PAMonCloud-Terraform",
   "url": "https://github.com/cyberark/PAMonCloud-Terraform",
   "sec_path": "SECURITY.md",
@@ -536,6 +525,17 @@
   "stars": 5,
   "language": "HCL",
   "description": "",
+  "first_seen": "2026-11-01 18:56:00"
+ },
+ {
+  "vendor": "CyberArk",
+  "org": "cyberark",
+  "full_name": "cyberark/ansible-conjur-collection",
+  "url": "https://github.com/cyberark/ansible-conjur-collection",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "Ansible Collection for CyberArk Secrets Manager",
   "first_seen": "2026-11-01 18:56:00"
  },
  {

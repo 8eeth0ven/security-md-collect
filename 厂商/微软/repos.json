@@ -185,7 +185,7 @@
   "full_name": "dotnet/aspnetcore",
   "url": "https://github.com/dotnet/aspnetcore",
   "sec_path": "SECURITY.md",
-  "stars": 38498,
+  "stars": 38514,
   "language": "C#",
   "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
   "first_seen": "2026-11-01 19:06:45"
@@ -268,7 +268,7 @@
   "full_name": "dotnet/maui",
   "url": "https://github.com/dotnet/maui",
   "sec_path": ".github/SECURITY.md",
-  "stars": 23325,
+  "stars": 23323,
   "language": "C#",
   "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
   "first_seen": "2026-11-01 19:06:45"
@@ -291,7 +291,7 @@
   "full_name": "dotnet/core",
   "url": "https://github.com/dotnet/core",
   "sec_path": "SECURITY.md",
-  "stars": 22065,
+  "stars": 22077,
   "language": "PowerShell",
   "description": ".NET news, announcements, release notes, and more!",
   "first_seen": "2026-11-01 19:06:45"
@@ -302,7 +302,7 @@
   "full_name": "dotnet/roslyn",
   "url": "https://github.com/dotnet/roslyn",
   "sec_path": "SECURITY.md",
-  "stars": 20763,
+  "stars": 20778,
   "language": "C#",
   "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
   "first_seen": "2026-11-01 19:06:45"
@@ -349,7 +349,7 @@
   "full_name": "dotnet/runtime",
   "url": "https://github.com/dotnet/runtime",
   "sec_path": "SECURITY.md",
-  "stars": 18405,
+  "stars": 18428,
   "language": "C#",
   "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
   "first_seen": "2026-11-01 19:06:45"
@@ -455,7 +455,7 @@
   "full_name": "dotnet/efcore",
   "url": "https://github.com/dotnet/efcore",
   "sec_path": ".github/SECURITY.md",
-  "stars": 14815,
+  "stars": 14817,
   "language": "C#",
   "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
   "first_seen": "2026-11-01 19:06:45"
@@ -658,7 +658,7 @@
   "full_name": "dotnet/yarp",
   "url": "https://github.com/dotnet/yarp",
   "sec_path": "SECURITY.md",
-  "stars": 9650,
+  "stars": 9653,
   "language": "C#",
   "description": "A toolkit for developing high-performance HTTP reverse proxy applications.",
   "first_seen": "2026-11-01 19:06:45"
@@ -669,7 +669,7 @@
   "full_name": "dotnet/machinelearning",
   "url": "https://github.com/dotnet/machinelearning",
   "sec_path": "SECURITY.md",
-  "stars": 9359,
+  "stars": 9362,
   "language": "C#",
   "description": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
   "first_seen": "2026-11-01 19:06:45"
@@ -680,7 +680,7 @@
   "full_name": "dotnet/blazor",
   "url": "https://github.com/dotnet/blazor",
   "sec_path": "SECURITY.md",
-  "stars": 9247,
+  "stars": 9244,
   "language": "PowerShell",
   "description": "Blazor moved to https://github.com/dotnet/aspnetcore",
   "first_seen": "2026-11-01 19:07:47"
@@ -727,7 +727,7 @@
   "full_name": "dotnet/wpf",
   "url": "https://github.com/dotnet/wpf",
   "sec_path": "SECURITY.md",
-  "stars": 7748,
+  "stars": 7754,
   "language": "C#",
   "description": "WPF is a .NET Core UI framework for building Windows desktop applications.",
   "first_seen": "2026-11-01 19:06:45"
@@ -853,6 +853,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/skills",
+  "url": "https://github.com/dotnet/skills",
+  "sec_path": "SECURITY.md",
+  "stars": 6082,
+  "language": "C#",
+  "description": "Repository for skills to assist AI coding agents with .NET and C#",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/CUAWright",
   "url": "https://github.com/microsoft/CUAWright",
@@ -900,17 +911,6 @@
  },
  {
   "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/skills",
-  "url": "https://github.com/dotnet/skills",
-  "sec_path": "SECURITY.md",
-  "stars": 5830,
-  "language": "C#",
-  "description": "Repository for skills to assist AI coding agents with .NET and C#",
-  "first_seen": "2026-11-01 19:06:45"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/WPF-Samples",
   "url": "https://github.com/microsoft/WPF-Samples",
@@ -950,7 +950,7 @@
   "full_name": "dotnet/msbuild",
   "url": "https://github.com/dotnet/msbuild",
   "sec_path": "SECURITY.md",
-  "stars": 5552,
+  "stars": 5553,
   "language": "C#",
   "description": "The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.",
   "first_seen": "2026-11-01 19:06:45"
@@ -1009,7 +1009,7 @@
   "full_name": "dotnet/winforms",
   "url": "https://github.com/dotnet/winforms",
   "sec_path": "SECURITY.md",
-  "stars": 4880,
+  "stars": 4882,
   "language": "C#",
   "description": "Windows Forms is a .NET UI framework for building Windows desktop applications.",
   "first_seen": "2026-11-01 19:06:45"
@@ -1020,7 +1020,7 @@
   "full_name": "dotnet/dotnet-docker",
   "url": "https://github.com/dotnet/dotnet-docker",
   "sec_path": "SECURITY.md",
-  "stars": 4877,
+  "stars": 4880,
   "language": "Dockerfile",
   "description": "Official container images for .NET",
   "first_seen": "2026-11-01 19:06:45"
@@ -1089,7 +1089,7 @@
   "full_name": "dotnet/docs",
   "url": "https://github.com/dotnet/docs",
   "sec_path": "SECURITY.md",
-  "stars": 4778,
+  "stars": 4779,
   "language": null,
   "description": "This repository contains .NET Documentation.",
   "first_seen": "2026-11-01 19:06:45"
@@ -1171,7 +1171,7 @@
   "full_name": "dotnet/Open-XML-SDK",
   "url": "https://github.com/dotnet/Open-XML-SDK",
   "sec_path": "SECURITY.md",
-  "stars": 4616,
+  "stars": 4620,
   "language": "C#",
   "description": "Open XML SDK by Microsoft",
   "first_seen": "2026-11-01 19:06:45"
@@ -1313,7 +1313,7 @@
   "full_name": "dotnet/samples",
   "url": "https://github.com/dotnet/samples",
   "sec_path": "SECURITY.md",
-  "stars": 3746,
+  "stars": 3747,
   "language": "C#",
   "description": "Sample code referenced by the .NET documentation",
   "first_seen": "2026-11-01 19:06:45"
@@ -1348,7 +1348,7 @@
   "full_name": "dotnet/command-line-api",
   "url": "https://github.com/dotnet/command-line-api",
   "sec_path": "SECURITY.md",
-  "stars": 3678,
+  "stars": 3680,
   "language": "C#",
   "description": "Command line parsing, invocation, and rendering of terminal output.",
   "first_seen": "2026-11-01 19:06:45"
@@ -1382,7 +1382,7 @@
   "full_name": "dotnet/maui-samples",
   "url": "https://github.com/dotnet/maui-samples",
   "sec_path": "SECURITY.md",
-  "stars": 3660,
+  "stars": 3659,
   "language": "C#",
   "description": "Samples for .NET Multi-Platform App UI (.NET MAUI)",
   "first_seen": "2026-11-01 19:06:45"
@@ -1425,6 +1425,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/roslynator",
+  "url": "https://github.com/dotnet/roslynator",
+  "sec_path": "SECURITY.md",
+  "stars": 3500,
+  "language": "C#",
+  "description": "Roslynator is a set of code analysis tools for C#, powered by Roslyn.",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/tgrep",
   "url": "https://github.com/microsoft/tgrep",
@@ -1434,17 +1445,6 @@
   "description": "Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/roslynator",
-  "url": "https://github.com/dotnet/roslynator",
-  "sec_path": "SECURITY.md",
-  "stars": 3498,
-  "language": "C#",
-  "description": "Roslynator is a set of code analysis tools for C#, powered by Roslyn.",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -1464,7 +1464,7 @@
   "full_name": "dotnet/extensions",
   "url": "https://github.com/dotnet/extensions",
   "sec_path": "SECURITY.md",
-  "stars": 3272,
+  "stars": 3277,
   "language": "C#",
   "description": "This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.",
   "first_seen": "2026-11-01 19:06:45"
@@ -1487,7 +1487,7 @@
   "full_name": "dotnet/sdk",
   "url": "https://github.com/dotnet/sdk",
   "sec_path": "SECURITY.md",
-  "stars": 3242,
+  "stars": 3248,
   "language": "C#",
   "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
   "first_seen": "2026-11-01 19:06:45"
@@ -1675,7 +1675,7 @@
   "full_name": "dotnet/corert",
   "url": "https://github.com/dotnet/corert",
   "sec_path": "SECURITY.md",
-  "stars": 2882,
+  "stars": 2881,
   "language": "C#",
   "description": "This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.",
   "first_seen": "2026-11-01 19:07:47"
@@ -1930,6 +1930,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/android",
+  "url": "https://github.com/dotnet/android",
+  "sec_path": "SECURITY.md",
+  "stars": 2148,
+  "language": "C#",
+  "description": ".NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/AKS",
   "url": "https://github.com/Azure/AKS",
@@ -1938,17 +1949,6 @@
   "language": "TypeScript",
   "description": "Azure Kubernetes Service",
   "first_seen": "2026-11-01 16:24:42"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/android",
-  "url": "https://github.com/dotnet/android",
-  "sec_path": "SECURITY.md",
-  "stars": 2144,
-  "language": "C#",
-  "description": ".NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -2370,7 +2370,7 @@
   "full_name": "dotnet/wcf",
   "url": "https://github.com/dotnet/wcf",
   "sec_path": "SECURITY.md",
-  "stars": 1750,
+  "stars": 1749,
   "language": "C#",
   "description": "This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services.",
   "first_seen": "2026-11-01 19:06:45"
@@ -2486,7 +2486,7 @@
   "full_name": "dotnet/runtimelab",
   "url": "https://github.com/dotnet/runtimelab",
   "sec_path": "SECURITY.md",
-  "stars": 1626,
+  "stars": 1628,
   "language": null,
   "description": "This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo.",
   "first_seen": "2026-11-01 19:06:45"
@@ -2545,7 +2545,7 @@
   "full_name": "dotnet/Nerdbank.GitVersioning",
   "url": "https://github.com/dotnet/Nerdbank.GitVersioning",
   "sec_path": "SECURITY.md",
-  "stars": 1597,
+  "stars": 1595,
   "language": "C#",
   "description": "Stamp your assemblies, packages and more with a unique version generated from a single, simple version.json file and include git commit IDs for non-official bui…",
   "first_seen": "2026-11-01 19:06:45"
@@ -2661,7 +2661,7 @@
   "full_name": "dotnet/ResXResourceManager",
   "url": "https://github.com/dotnet/ResXResourceManager",
   "sec_path": "SECURITY.md",
-  "stars": 1461,
+  "stars": 1463,
   "language": "C#",
   "description": "Manage localization of all ResX-Based resources in one central place.",
   "first_seen": "2026-11-01 19:06:45"
@@ -2695,7 +2695,7 @@
   "full_name": "dotnet/ef6",
   "url": "https://github.com/dotnet/ef6",
   "sec_path": ".github/SECURITY.md",
-  "stars": 1449,
+  "stars": 1448,
   "language": "C#",
   "description": "This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://gith…",
   "first_seen": "2026-11-01 19:06:45"
@@ -2718,7 +2718,7 @@
   "full_name": "dotnet/announcements",
   "url": "https://github.com/dotnet/announcements",
   "sec_path": "SECURITY.md",
-  "stars": 1403,
+  "stars": 1401,
   "language": null,
   "description": "Subscribe to this repo to be notified of Announcements and changes in .NET Core. ",
   "first_seen": "2026-11-01 19:06:45"
@@ -2776,9 +2776,20 @@
   "full_name": "dotnet/diagnostics",
   "url": "https://github.com/dotnet/diagnostics",
   "sec_path": "SECURITY.md",
-  "stars": 1332,
+  "stars": 1333,
   "language": "C++",
   "description": "This repository contains the source code for various .NET Core runtime diagnostic tools and documents.",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/dotnet",
+  "url": "https://github.com/dotnet/dotnet",
+  "sec_path": "SECURITY.md",
+  "stars": 1325,
+  "language": "C#",
+  "description": "Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.",
   "first_seen": "2026-11-01 19:06:45"
  },
  {
@@ -2792,17 +2803,6 @@
   "description": "A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric",
   "license": null,
   "first_seen": "2026-11-01 22:39:34"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/dotnet",
-  "url": "https://github.com/dotnet/dotnet",
-  "sec_path": "SECURITY.md",
-  "stars": 1316,
-  "language": "C#",
-  "description": "Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -2906,7 +2906,7 @@
   "full_name": "dotnet/csharp-notebooks",
   "url": "https://github.com/dotnet/csharp-notebooks",
   "sec_path": "SECURITY.md",
-  "stars": 1243,
+  "stars": 1242,
   "language": "Jupyter Notebook",
   "description": "Get started learning C# with C# notebooks powered by .NET Interactive and VS Code.",
   "first_seen": "2026-11-01 19:06:45"
@@ -3318,7 +3318,7 @@
   "full_name": "dotnet/project-system",
   "url": "https://github.com/dotnet/project-system",
   "sec_path": "SECURITY.md",
-  "stars": 1022,
+  "stars": 1023,
   "language": "C#",
   "description": "The .NET Project System for Visual Studio",
   "first_seen": "2026-11-01 19:06:45"
@@ -3352,7 +3352,7 @@
   "full_name": "dotnet/SqlClient",
   "url": "https://github.com/dotnet/SqlClient",
   "sec_path": "SECURITY.md",
-  "stars": 1003,
+  "stars": 1007,
   "language": "C#",
   "description": "Microsoft.Data.SqlClient provides database connectivity to SQL Server for .NET applications.",
   "first_seen": "2026-11-01 19:06:45"
@@ -3759,7 +3759,7 @@
   "full_name": "dotnet/dev-proxy",
   "url": "https://github.com/dotnet/dev-proxy",
   "sec_path": "SECURITY.md",
-  "stars": 841,
+  "stars": 844,
   "language": "C#",
   "description": "Simulate API failures, throttling, and chaos — all from your command line.",
   "first_seen": "2026-11-01 19:06:45"
@@ -4744,7 +4744,7 @@
   "full_name": "dotnet/sign",
   "url": "https://github.com/dotnet/sign",
   "sec_path": "SECURITY.md",
-  "stars": 584,
+  "stars": 585,
   "language": "C#",
   "description": "Code Signing CLI tool supporting Authenticode, NuGet, VSIX, and ClickOnce",
   "first_seen": "2026-11-01 19:06:45"
@@ -5080,7 +5080,7 @@
   "full_name": "dotnet/smartcomponents",
   "url": "https://github.com/dotnet/smartcomponents",
   "sec_path": "SECURITY.md",
-  "stars": 510,
+  "stars": 511,
   "language": "C#",
   "description": "Sample intelligent app features provided as reusable .NET components",
   "first_seen": "2026-11-01 19:06:45"
@@ -5394,6 +5394,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/XAMLStudio",
+  "url": "https://github.com/dotnet/XAMLStudio",
+  "sec_path": "SECURITY.md",
+  "stars": 460,
+  "language": "C#",
+  "description": "XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/AzureStorageExplorer",
   "url": "https://github.com/microsoft/AzureStorageExplorer",
@@ -5403,17 +5414,6 @@
   "description": "Easily manage your storage account data with Microsoft Azure Storage Explorer. Easily upload, download, and manage data from blob containers, file shares, queue…",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/XAMLStudio",
-  "url": "https://github.com/dotnet/XAMLStudio",
-  "sec_path": "SECURITY.md",
-  "stars": 458,
-  "language": "C#",
-  "description": "XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -5920,6 +5920,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/beginner-series",
+  "url": "https://github.com/dotnet/beginner-series",
+  "sec_path": "SECURITY.md",
+  "stars": 400,
+  "language": "Jupyter Notebook",
+  "description": ".NET for beginner's videos, code, and links.",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/mssql-django",
   "url": "https://github.com/microsoft/mssql-django",
@@ -5929,17 +5940,6 @@
   "description": "Django Backend for Microsoft SQL provides a connectivity layer for Django on SQL Server or Azure SQL DB.",
   "license": null,
   "first_seen": "2026-11-01 22:39:49"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/beginner-series",
-  "url": "https://github.com/dotnet/beginner-series",
-  "sec_path": "SECURITY.md",
-  "stars": 398,
-  "language": "Jupyter Notebook",
-  "description": ".NET for beginner's videos, code, and links.",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -6369,17 +6369,6 @@
  },
  {
   "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/android-libraries",
-  "url": "https://github.com/dotnet/android-libraries",
-  "sec_path": "SECURITY.md",
-  "stars": 320,
-  "language": "C#",
-  "description": ".NET for Android bindings for Google's libraries, such as AndroidX, GooglePlayServices, Firebase, and MLKit and their 3rd party dependency libraries.",
-  "first_seen": "2026-11-01 19:06:45"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/vscode-azurefunctions",
   "url": "https://github.com/microsoft/vscode-azurefunctions",
@@ -6401,6 +6390,17 @@
   "description": "Testing utility for VS Code extensions",
   "license": null,
   "first_seen": "2026-11-01 22:39:49"
+ },
+ {
+  "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/android-libraries",
+  "url": "https://github.com/dotnet/android-libraries",
+  "sec_path": "SECURITY.md",
+  "stars": 318,
+  "language": "C#",
+  "description": ".NET for Android bindings for Google's libraries, such as AndroidX, GooglePlayServices, Firebase, and MLKit and their 3rd party dependency libraries.",
+  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -6699,6 +6699,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/dotnet-wasi-sdk",
+  "url": "https://github.com/dotnet/dotnet-wasi-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 284,
+  "language": "C#",
+  "description": "An SDK for building .NET projects as standalone WASI-compliant modules",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/Sico",
   "url": "https://github.com/microsoft/Sico",
@@ -6708,17 +6719,6 @@
   "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI assets.",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/dotnet-wasi-sdk",
-  "url": "https://github.com/dotnet/dotnet-wasi-sdk",
-  "sec_path": "SECURITY.md",
-  "stars": 283,
-  "language": "C#",
-  "description": "An SDK for building .NET projects as standalone WASI-compliant modules",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -7078,6 +7078,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/java-interop",
+  "url": "https://github.com/dotnet/java-interop",
+  "sec_path": "SECURITY.md",
+  "stars": 258,
+  "language": "C#",
+  "description": "Java.Interop provides open-source bindings of Java's Java Native Interface (JNI) for use with .NET managed languages such as C#",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/vscode-sublime-keybindings",
   "url": "https://github.com/microsoft/vscode-sublime-keybindings",
@@ -7087,17 +7098,6 @@
   "description": "Sublime Text Keymap extension for VS Code",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/java-interop",
-  "url": "https://github.com/dotnet/java-interop",
-  "sec_path": "SECURITY.md",
-  "stars": 257,
-  "language": "C#",
-  "description": "Java.Interop provides open-source bindings of Java's Java Native Interface (JNI) for use with .NET managed languages such as C#",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -7264,6 +7264,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/maui-labs",
+  "url": "https://github.com/dotnet/maui-labs",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 238,
+  "language": "C#",
+  "description": "Experimental and pre-release tools for .NET MAUI",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/vscode-github-issue-notebooks",
   "url": "https://github.com/microsoft/vscode-github-issue-notebooks",
@@ -7320,17 +7331,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/maui-labs",
-  "url": "https://github.com/dotnet/maui-labs",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 234,
-  "language": "C#",
-  "description": "Experimental and pre-release tools for .NET MAUI",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -7593,17 +7593,6 @@
  {
   "vendor": "微软",
   "org": "dotnet",
-  "full_name": "dotnet/deployment-tools",
-  "url": "https://github.com/dotnet/deployment-tools",
-  "sec_path": "SECURITY.md",
-  "stars": 212,
-  "language": "C#",
-  "description": "This repo contains the code to build the .NET deployment tools and installers for all supported platforms, as well as the sources to .NET deployment tools.",
-  "first_seen": "2026-11-01 19:06:45"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
   "full_name": "dotnet/apireviews",
   "url": "https://github.com/dotnet/apireviews",
   "sec_path": "SECURITY.md",
@@ -7622,6 +7611,17 @@
   "language": "Jupyter Notebook",
   "description": "This repository introduces and helps organizations get started with building Intelligent Apps and incorporating Large Language Models (LLMs) via AI Orchestratio…",
   "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/deployment-tools",
+  "url": "https://github.com/dotnet/deployment-tools",
+  "sec_path": "SECURITY.md",
+  "stars": 211,
+  "language": "C#",
+  "description": "This repo contains the code to build the .NET deployment tools and installers for all supported platforms, as well as the sources to .NET deployment tools.",
+  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -8043,6 +8043,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/xharness",
+  "url": "https://github.com/dotnet/xharness",
+  "sec_path": "SECURITY.md",
+  "stars": 189,
+  "language": "C#",
+  "description": "C# command line tool for running tests on Android / iOS / tvOS devices and simulators",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/agent-app-ingestion",
   "url": "https://github.com/Azure/agent-app-ingestion",
@@ -8051,17 +8062,6 @@
   "language": "Python",
   "description": "Data ingestion service for the Agent Landing Zone. Processes PDFs, images, spreadsheets, transcripts and SharePoint content into grounding knowledge for agents,…",
   "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/xharness",
-  "url": "https://github.com/dotnet/xharness",
-  "sec_path": "SECURITY.md",
-  "stars": 188,
-  "language": "C#",
-  "description": "C# command line tool for running tests on Android / iOS / tvOS devices and simulators",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -8274,6 +8274,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/TorchSharpExamples",
+  "url": "https://github.com/dotnet/TorchSharpExamples",
+  "sec_path": "SECURITY.md",
+  "stars": 176,
+  "language": "Jupyter Notebook",
+  "description": "Repository for TorchSharp examples and tutorials.",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/fabric-cli",
   "url": "https://github.com/microsoft/fabric-cli",
@@ -8295,17 +8306,6 @@
   "description": "MLOS is a project to enable autotuning for systems.",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/TorchSharpExamples",
-  "url": "https://github.com/dotnet/TorchSharpExamples",
-  "sec_path": "SECURITY.md",
-  "stars": 175,
-  "language": "Jupyter Notebook",
-  "description": "Repository for TorchSharp examples and tutorials.",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",
@@ -8565,6 +8565,17 @@
  },
  {
   "vendor": "微软",
+  "org": "dotnet",
+  "full_name": "dotnet/winforms-datavisualization",
+  "url": "https://github.com/dotnet/winforms-datavisualization",
+  "sec_path": "SECURITY.md",
+  "stars": 162,
+  "language": "C#",
+  "description": "System.Windows.Forms.DataVisualization provides basic charting for WinForms applications.",
+  "first_seen": "2026-11-01 19:06:45"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/dev-tunnels-ssh",
   "url": "https://github.com/microsoft/dev-tunnels-ssh",
@@ -8574,17 +8585,6 @@
   "description": "SSH library for dev-tunnels",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "dotnet",
-  "full_name": "dotnet/winforms-datavisualization",
-  "url": "https://github.com/dotnet/winforms-datavisualization",
-  "sec_path": "SECURITY.md",
-  "stars": 161,
-  "language": "C#",
-  "description": "System.Windows.Forms.DataVisualization provides basic charting for WinForms applications.",
-  "first_seen": "2026-11-01 19:06:45"
  },
  {
   "vendor": "微软",

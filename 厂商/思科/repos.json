@@ -5,7 +5,7 @@
   "full_name": "cisco/openh264",
   "url": "https://github.com/cisco/openh264",
   "sec_path": "SECURITY.md",
-  "stars": 6166,
+  "stars": 6170,
   "language": "C++",
   "description": "Open Source H.264 Codec ",
   "first_seen": "2026-11-01 19:19:58"
@@ -16,7 +16,7 @@
   "full_name": "cisco-open/network-sketcher",
   "url": "https://github.com/cisco-open/network-sketcher",
   "sec_path": "SECURITY.md",
-  "stars": 417,
+  "stars": 418,
   "language": "Python",
   "description": "Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offline editions for creating network designs and exporting PowerPoint diagrams …",
   "first_seen": "2026-11-01 19:20:37"
@@ -27,7 +27,7 @@
   "full_name": "cisco-open/forge",
   "url": "https://github.com/cisco-open/forge",
   "sec_path": "SECURITY.md",
-  "stars": 213,
+  "stars": 215,
   "language": "HCL",
   "description": "ForgeMT is a multi-tenant platform for self-hosted GitHub Actions runners on AWS. It gives platform teams an IaC-driven way to operate ephemeral EC2 runners and…",
   "first_seen": "2026-11-01 19:20:37"
@@ -38,7 +38,7 @@
   "full_name": "cisco-open/pase",
   "url": "https://github.com/cisco-open/pase",
   "sec_path": "SECURITY.md",
-  "stars": 106,
+  "stars": 107,
   "language": "Python",
   "description": "PASE: Phonologically Anchored Speech Enhancer ",
   "first_seen": "2026-11-01 19:20:37"
@@ -71,7 +71,7 @@
   "full_name": "cisco-open/ai-deep-sast",
   "url": "https://github.com/cisco-open/ai-deep-sast",
   "sec_path": "SECURITY.md",
-  "stars": 64,
+  "stars": 66,
   "language": "Python",
   "description": "AI Deep SAST - LLM-powered deep static analysis for CI/CD. Combines Semgrep, tree-sitter code indexing and frontier LLMs (e.g. GPT-4o, Claude) for fast and deep…",
   "first_seen": "2026-11-01 19:20:37"
@@ -85,6 +85,17 @@
   "stars": 40,
   "language": "Go",
   "description": "Nasp is a lightweight library to expand service mesh capabilities to non-cloud environments",
+  "first_seen": "2026-11-01 19:20:37"
+ },
+ {
+  "vendor": "思科",
+  "org": "cisco-open",
+  "full_name": "cisco-open/SOC-Cockpit",
+  "url": "https://github.com/cisco-open/SOC-Cockpit",
+  "sec_path": "SECURITY.md",
+  "stars": 34,
+  "language": "TypeScript",
+  "description": "SOC Cockpit is a web-based operational command console for SOC (Security Operations Center) managers. It is designed around dense, shared operations workflows w…",
   "first_seen": "2026-11-01 19:20:37"
  },
  {
@@ -107,17 +118,6 @@
   "stars": 32,
   "language": "Python",
   "description": "A toolkit for optimizing machine learning models for practical  applications",
-  "first_seen": "2026-11-01 19:20:37"
- },
- {
-  "vendor": "思科",
-  "org": "cisco-open",
-  "full_name": "cisco-open/SOC-Cockpit",
-  "url": "https://github.com/cisco-open/SOC-Cockpit",
-  "sec_path": "SECURITY.md",
-  "stars": 29,
-  "language": "TypeScript",
-  "description": "SOC Cockpit is a web-based operational command console for SOC (Security Operations Center) managers. It is designed around dense, shared operations workflows w…",
   "first_seen": "2026-11-01 19:20:37"
  },
  {
@@ -189,6 +189,17 @@
  {
   "vendor": "思科",
   "org": "cisco-open",
+  "full_name": "cisco-open/ai-harness-toolkit",
+  "url": "https://github.com/cisco-open/ai-harness-toolkit",
+  "sec_path": "SECURITY.md",
+  "stars": 16,
+  "language": "Python",
+  "description": "Agent skills for bootstrapping and assessing AI-native engineering workflows in repositories. These skills help teams adopt structured, agent-driven development…",
+  "first_seen": "2026-11-01 19:20:37"
+ },
+ {
+  "vendor": "思科",
+  "org": "cisco-open",
   "full_name": "cisco-open/perf-trace-viewer",
   "url": "https://github.com/cisco-open/perf-trace-viewer",
   "sec_path": "docs/SECURITY.md",
@@ -200,12 +211,12 @@
  {
   "vendor": "思科",
   "org": "cisco-open",
-  "full_name": "cisco-open/ai-harness-toolkit",
-  "url": "https://github.com/cisco-open/ai-harness-toolkit",
+  "full_name": "cisco-open/lrac_data_generation",
+  "url": "https://github.com/cisco-open/lrac_data_generation",
   "sec_path": "SECURITY.md",
   "stars": 15,
   "language": "Python",
-  "description": "Agent skills for bootstrapping and assessing AI-native engineering workflows in repositories. These skills help teams adopt structured, agent-driven development…",
+  "description": "Official data preparation and metric evaluation scripts for the Low Resource Audio Codec (LRAC) challenge.",
   "first_seen": "2026-11-01 19:20:37"
  },
  {
@@ -217,17 +228,6 @@
   "stars": 15,
   "language": null,
   "description": "Roles and example playbooks for creating fabrics with NDFC/DCNM",
-  "first_seen": "2026-11-01 19:20:37"
- },
- {
-  "vendor": "思科",
-  "org": "cisco-open",
-  "full_name": "cisco-open/lrac_data_generation",
-  "url": "https://github.com/cisco-open/lrac_data_generation",
-  "sec_path": "SECURITY.md",
-  "stars": 14,
-  "language": "Python",
-  "description": "Official data preparation and metric evaluation scripts for the Low Resource Audio Codec (LRAC) challenge.",
   "first_seen": "2026-11-01 19:20:37"
  },
  {
@@ -967,5 +967,17 @@
   "description": "Team retro board Webex embedded app",
   "license": null,
   "first_seen": "2026-11-04 07:06:51"
+ },
+ {
+  "vendor": "思科",
+  "org": "cisco-open",
+  "full_name": "cisco-open/kvm-orchestrator",
+  "url": "https://github.com/cisco-open/kvm-orchestrator",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "Self-service VM management for your own KVM/libvirt hosts.",
+  "license": null,
+  "first_seen": "2026-11-13 12:38:09"
  }
 ]

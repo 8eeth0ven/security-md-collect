@@ -17,7 +17,7 @@
   "full_name": "docker/compose",
   "url": "https://github.com/docker/compose",
   "sec_path": ".github/SECURITY.md",
-  "stars": 38605,
+  "stars": 38814,
   "language": "Go",
   "description": "Define and run multi-container applications with Docker",
   "first_seen": "2026-11-01 19:05:16"
@@ -40,7 +40,7 @@
   "full_name": "docker/cli",
   "url": "https://github.com/docker/cli",
   "sec_path": "SECURITY.md",
-  "stars": 6121,
+  "stars": 6128,
   "language": "Go",
   "description": "The Docker CLI",
   "first_seen": "2026-11-01 19:05:16"
@@ -51,7 +51,7 @@
   "full_name": "docker/build-push-action",
   "url": "https://github.com/docker/build-push-action",
   "sec_path": ".github/SECURITY.md",
-  "stars": 5430,
+  "stars": 5434,
   "language": "TypeScript",
   "description": "GitHub Action to build and push Docker images with Buildx",
   "first_seen": "2026-11-01 19:05:16"
@@ -62,7 +62,7 @@
   "full_name": "docker/docker-agent",
   "url": "https://github.com/docker/docker-agent",
   "sec_path": "SECURITY.md",
-  "stars": 4656,
+  "stars": 4681,
   "language": "Go",
   "description": "AI Agent Builder and Runtime by Docker Engineering",
   "first_seen": "2026-11-01 19:05:16"
@@ -73,7 +73,7 @@
   "full_name": "docker/buildx",
   "url": "https://github.com/docker/buildx",
   "sec_path": ".github/SECURITY.md",
-  "stars": 4537,
+  "stars": 4543,
   "language": "Go",
   "description": "Docker CLI plugin for extended build capabilities with BuildKit",
   "first_seen": "2026-11-01 19:05:16"
@@ -84,7 +84,7 @@
   "full_name": "docker/for-mac",
   "url": "https://github.com/docker/for-mac",
   "sec_path": "security.md",
-  "stars": 2527,
+  "stars": 2528,
   "language": null,
   "description": "Bug reports for Docker Desktop for Mac",
   "first_seen": "2026-11-01 19:05:16"
@@ -95,7 +95,7 @@
   "full_name": "docker/for-win",
   "url": "https://github.com/docker/for-win",
   "sec_path": "security.md",
-  "stars": 1947,
+  "stars": 1948,
   "language": null,
   "description": "Bug reports for Docker Desktop for Windows",
   "first_seen": "2026-11-01 19:05:16"
@@ -106,7 +106,7 @@
   "full_name": "docker/mcp-gateway",
   "url": "https://github.com/docker/mcp-gateway",
   "sec_path": ".github/SECURITY.md",
-  "stars": 1624,
+  "stars": 1632,
   "language": "Go",
   "description": "docker mcp CLI plugin / MCP Gateway",
   "first_seen": "2026-11-01 19:05:16"
@@ -117,7 +117,7 @@
   "full_name": "docker/login-action",
   "url": "https://github.com/docker/login-action",
   "sec_path": ".github/SECURITY.md",
-  "stars": 1499,
+  "stars": 1502,
   "language": "TypeScript",
   "description": "GitHub Action to login against a Docker registry",
   "first_seen": "2026-11-01 19:05:16"
@@ -128,7 +128,7 @@
   "full_name": "docker/setup-buildx-action",
   "url": "https://github.com/docker/setup-buildx-action",
   "sec_path": ".github/SECURITY.md",
-  "stars": 1395,
+  "stars": 1396,
   "language": "TypeScript",
   "description": "GitHub Action to set up Docker Buildx",
   "first_seen": "2026-11-01 19:05:16"
@@ -161,7 +161,7 @@
   "full_name": "docker/skills",
   "url": "https://github.com/docker/skills",
   "sec_path": "SECURITY.md",
-  "stars": 614,
+  "stars": 629,
   "language": "Python",
   "description": "A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.",
   "first_seen": "2026-11-01 19:05:16"
@@ -172,7 +172,7 @@
   "full_name": "docker/setup-qemu-action",
   "url": "https://github.com/docker/setup-qemu-action",
   "sec_path": ".github/SECURITY.md",
-  "stars": 599,
+  "stars": 602,
   "language": "TypeScript",
   "description": "GitHub Action to install QEMU static binaries",
   "first_seen": "2026-11-01 19:05:16"
@@ -183,7 +183,7 @@
   "full_name": "docker/mcp-registry",
   "url": "https://github.com/docker/mcp-registry",
   "sec_path": ".github/SECURITY.md",
-  "stars": 580,
+  "stars": 584,
   "language": "Go",
   "description": "Official Docker MCP registry ",
   "first_seen": "2026-11-01 19:05:16"
@@ -194,7 +194,7 @@
   "full_name": "docker/sbx-releases",
   "url": "https://github.com/docker/sbx-releases",
   "sec_path": "SECURITY.md",
-  "stars": 493,
+  "stars": 511,
   "language": null,
   "description": "Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure",
   "first_seen": "2026-11-01 19:05:16"
@@ -216,7 +216,7 @@
   "full_name": "docker/hub-feedback",
   "url": "https://github.com/docker/hub-feedback",
   "sec_path": "SECURITY.md",
-  "stars": 249,
+  "stars": 250,
   "language": null,
   "description": "Feedback and bug reports for the Docker Hub",
   "first_seen": "2026-11-01 19:05:16"
@@ -227,7 +227,7 @@
   "full_name": "docker/sbx-kits-contrib",
   "url": "https://github.com/docker/sbx-kits-contrib",
   "sec_path": "SECURITY.md",
-  "stars": 200,
+  "stars": 211,
   "language": "Go",
   "description": "Community repository for sbx kits",
   "first_seen": "2026-11-01 19:05:16"
@@ -238,7 +238,7 @@
   "full_name": "docker/docker-language-server",
   "url": "https://github.com/docker/docker-language-server",
   "sec_path": "SECURITY.md",
-  "stars": 199,
+  "stars": 198,
   "language": "Go",
   "description": "Language server for Dockerfiles, Compose files, and Bake files",
   "first_seen": "2026-11-01 19:05:16"
@@ -249,7 +249,7 @@
   "full_name": "docker/sandbox-kit-spec",
   "url": "https://github.com/docker/sandbox-kit-spec",
   "sec_path": ".github/SECURITY.md",
-  "stars": 176,
+  "stars": 190,
   "language": "Go",
   "description": "Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites",
   "first_seen": "2026-11-01 19:05:16"
@@ -279,23 +279,23 @@
  {
   "vendor": "Docker",
   "org": "docker",
+  "full_name": "docker/github-builder",
+  "url": "https://github.com/docker/github-builder",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 93,
+  "language": null,
+  "description": "Official Docker-maintained reusable GitHub Actions workflows to securely build container images",
+  "first_seen": "2026-11-01 19:05:16"
+ },
+ {
+  "vendor": "Docker",
+  "org": "docker",
   "full_name": "docker/desktop-linux",
   "url": "https://github.com/docker/desktop-linux",
   "sec_path": "security.md",
   "stars": 92,
   "language": null,
   "description": "Bug reports for Docker Desktop for Linux",
-  "first_seen": "2026-11-01 19:05:16"
- },
- {
-  "vendor": "Docker",
-  "org": "docker",
-  "full_name": "docker/github-builder",
-  "url": "https://github.com/docker/github-builder",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 91,
-  "language": null,
-  "description": "Official Docker-maintained reusable GitHub Actions workflows to securely build container images",
   "first_seen": "2026-11-01 19:05:16"
  },
  {
@@ -338,7 +338,7 @@
   "full_name": "docker/vscode-extension",
   "url": "https://github.com/docker/vscode-extension",
   "sec_path": "SECURITY.md",
-  "stars": 62,
+  "stars": 61,
   "language": "TypeScript",
   "description": "Docker DX extension for Visual Studio Code",
   "first_seen": "2026-11-01 19:05:16"
@@ -349,7 +349,7 @@
   "full_name": "docker/desktop-feedback",
   "url": "https://github.com/docker/desktop-feedback",
   "sec_path": "SECURITY.md",
-  "stars": 52,
+  "stars": 53,
   "language": null,
   "description": "Feedback tracker for Docker Desktop on Windows, macOS, and Linux",
   "first_seen": "2026-11-01 19:05:16"
@@ -426,7 +426,7 @@
   "full_name": "docker/docker-agent-action",
   "url": "https://github.com/docker/docker-agent-action",
   "sec_path": "SECURITY.md",
-  "stars": 8,
+  "stars": 9,
   "language": "TypeScript",
   "description": "A GitHub Action for running Docker Agent AI agents in your workflows.",
   "first_seen": "2026-11-01 19:05:16"
@@ -512,6 +512,17 @@
  {
   "vendor": "Docker",
   "org": "docker",
+  "full_name": "docker/aijson",
+  "url": "https://github.com/docker/aijson",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "Forgiving JSON parser for LLM output.",
+  "first_seen": "2026-11-01 19:05:16"
+ },
+ {
+  "vendor": "Docker",
+  "org": "docker",
   "full_name": "docker/envoy",
   "url": "https://github.com/docker/envoy",
   "sec_path": "SECURITY.md",
@@ -540,17 +551,6 @@
   "stars": 2,
   "language": "Go",
   "description": "Win32 IO-related utilities for Go",
-  "first_seen": "2026-11-01 19:05:16"
- },
- {
-  "vendor": "Docker",
-  "org": "docker",
-  "full_name": "docker/aijson",
-  "url": "https://github.com/docker/aijson",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 2,
-  "language": "Go",
-  "description": "Forgiving JSON parser for LLM output.",
   "first_seen": "2026-11-01 19:05:16"
  },
  {
