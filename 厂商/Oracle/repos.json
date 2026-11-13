@@ -376,7 +376,7 @@
   "full_name": "graalvm/mandrel",
   "url": "https://github.com/graalvm/mandrel",
   "sec_path": "SECURITY.md",
-  "stars": 455,
+  "stars": 454,
   "language": null,
   "description": "Mandrel is a downstream distribution of the GraalVM community edition. Mandrel's main goal is to provide a native-image release specifically to support Quarkus.",
   "first_seen": "2026-11-01 21:17:31"
@@ -766,6 +766,17 @@
  },
  {
   "vendor": "Oracle",
+  "org": "graalvm",
+  "full_name": "graalvm/graal-languages-demos",
+  "url": "https://github.com/graalvm/graal-languages-demos",
+  "sec_path": "SECURITY.md",
+  "stars": 104,
+  "language": "Java",
+  "description": "Graal Languages - Demos and Guides",
+  "first_seen": "2026-11-01 21:17:31"
+ },
+ {
+  "vendor": "Oracle",
   "org": "oracle",
   "full_name": "oracle/coherence-operator",
   "url": "https://github.com/oracle/coherence-operator",
@@ -787,17 +798,6 @@
   "description": "Agentic Optimizer and Toolkit for experimentation using the Oracle AI Database",
   "license": null,
   "first_seen": "2026-11-01 23:17:46"
- },
- {
-  "vendor": "Oracle",
-  "org": "graalvm",
-  "full_name": "graalvm/graal-languages-demos",
-  "url": "https://github.com/graalvm/graal-languages-demos",
-  "sec_path": "SECURITY.md",
-  "stars": 102,
-  "language": "Java",
-  "description": "Graal Languages - Demos and Guides",
-  "first_seen": "2026-11-01 21:17:31"
  },
  {
   "vendor": "Oracle",
@@ -1963,6 +1963,17 @@
  },
  {
   "vendor": "Oracle",
+  "org": "graalvm",
+  "full_name": "graalvm/labs-openjdk",
+  "url": "https://github.com/graalvm/labs-openjdk",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": "Java",
+  "description": "JDK fork for building GraalVM CE.",
+  "first_seen": "2026-11-01 21:17:31"
+ },
+ {
+  "vendor": "Oracle",
   "org": "oracle",
   "full_name": "oracle/coherence-py-client",
   "url": "https://github.com/oracle/coherence-py-client",
@@ -2008,17 +2019,6 @@
   "description": "Cordova Plugin for Oracle IDM Auth",
   "license": null,
   "first_seen": "2026-11-01 23:17:46"
- },
- {
-  "vendor": "Oracle",
-  "org": "graalvm",
-  "full_name": "graalvm/labs-openjdk",
-  "url": "https://github.com/graalvm/labs-openjdk",
-  "sec_path": "SECURITY.md",
-  "stars": 11,
-  "language": "Java",
-  "description": "JDK fork for building GraalVM CE.",
-  "first_seen": "2026-11-01 21:17:31"
  },
  {
   "vendor": "Oracle",

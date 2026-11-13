@@ -5,7 +5,7 @@
   "full_name": "grafana/tanka",
   "url": "https://github.com/grafana/tanka",
   "sec_path": "SECURITY.md",
-  "stars": 2692,
+  "stars": 2693,
   "language": "Go",
   "description": "Flexible, reusable and concise configuration for Kubernetes",
   "first_seen": "2026-11-01 21:18:54"
@@ -93,7 +93,7 @@
   "full_name": "grafana/prometheus-alertmanager",
   "url": "https://github.com/grafana/prometheus-alertmanager",
   "sec_path": "SECURITY.md",
-  "stars": 10,
+  "stars": 11,
   "language": "Go",
   "description": "Prometheus Alertmanager",
   "first_seen": "2026-11-01 21:18:54"
@@ -112,23 +112,23 @@
  {
   "vendor": "Grafana",
   "org": "grafana",
+  "full_name": "grafana/node_exporter",
+  "url": "https://github.com/grafana/node_exporter",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "Go",
+  "description": "Exporter for machine metrics",
+  "first_seen": "2026-11-01 21:20:26"
+ },
+ {
+  "vendor": "Grafana",
+  "org": "grafana",
   "full_name": "grafana/opentelemetry-ebpf-profiler",
   "url": "https://github.com/grafana/opentelemetry-ebpf-profiler",
   "sec_path": "SECURITY.md",
   "stars": 6,
   "language": "Go",
   "description": "The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)",
-  "first_seen": "2026-11-01 21:20:26"
- },
- {
-  "vendor": "Grafana",
-  "org": "grafana",
-  "full_name": "grafana/node_exporter",
-  "url": "https://github.com/grafana/node_exporter",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": "Go",
-  "description": "Exporter for machine metrics",
   "first_seen": "2026-11-01 21:20:26"
  },
  {
@@ -145,6 +145,17 @@
  {
   "vendor": "Grafana",
   "org": "grafana",
+  "full_name": "grafana/postgres_exporter",
+  "url": "https://github.com/grafana/postgres_exporter",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Go",
+  "description": "A PostgresSQL metric exporter for Prometheus",
+  "first_seen": "2026-11-01 21:20:26"
+ },
+ {
+  "vendor": "Grafana",
+  "org": "grafana",
   "full_name": "grafana/generate-policy-bot-config",
   "url": "https://github.com/grafana/generate-policy-bot-config",
   "sec_path": "SECURITY.md",
@@ -152,17 +163,6 @@
   "language": "Go",
   "description": "Generate a config file for `palantir/policy-bot` to help you enforce conditional workflows have passed",
   "first_seen": "2026-11-01 21:18:54"
- },
- {
-  "vendor": "Grafana",
-  "org": "grafana",
-  "full_name": "grafana/postgres_exporter",
-  "url": "https://github.com/grafana/postgres_exporter",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "Go",
-  "description": "A PostgresSQL metric exporter for Prometheus",
-  "first_seen": "2026-11-01 21:20:26"
  },
  {
   "vendor": "Grafana",
@@ -178,6 +178,17 @@
  {
   "vendor": "Grafana",
   "org": "grafana",
+  "full_name": "grafana/blackbox_exporter",
+  "url": "https://github.com/grafana/blackbox_exporter",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Go",
+  "description": "Blackbox prober exporter",
+  "first_seen": "2026-11-01 21:20:26"
+ },
+ {
+  "vendor": "Grafana",
+  "org": "grafana",
   "full_name": "grafana/.github",
   "url": "https://github.com/grafana/.github",
   "sec_path": "SECURITY.md",
@@ -185,28 +196,6 @@
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 21:22:02"
- },
- {
-  "vendor": "Grafana",
-  "org": "grafana",
-  "full_name": "grafana/release-please",
-  "url": "https://github.com/grafana/release-please",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": "TypeScript",
-  "description": "generate release PRs based on the conventionalcommits.org spec",
-  "first_seen": "2026-11-01 21:20:26"
- },
- {
-  "vendor": "Grafana",
-  "org": "grafana",
-  "full_name": "grafana/blackbox_exporter",
-  "url": "https://github.com/grafana/blackbox_exporter",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": "Go",
-  "description": "Blackbox prober exporter",
-  "first_seen": "2026-11-01 21:20:26"
  },
  {
   "vendor": "Grafana",
@@ -239,6 +228,17 @@
   "stars": 2,
   "language": "Go",
   "description": "SNMP Exporter for Prometheus",
+  "first_seen": "2026-11-01 21:20:26"
+ },
+ {
+  "vendor": "Grafana",
+  "org": "grafana",
+  "full_name": "grafana/release-please",
+  "url": "https://github.com/grafana/release-please",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "TypeScript",
+  "description": "generate release PRs based on the conventionalcommits.org spec",
   "first_seen": "2026-11-01 21:20:26"
  },
  {

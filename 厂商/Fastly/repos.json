@@ -5,7 +5,7 @@
   "full_name": "fastly/pushpin",
   "url": "https://github.com/fastly/pushpin",
   "sec_path": "SECURITY.md",
-  "stars": 3865,
+  "stars": 3867,
   "language": "Rust",
   "description": "A proxy server for adding push to your API, used at the core of Fastly's Fanout service",
   "first_seen": "2026-11-01 20:17:39"
@@ -137,7 +137,7 @@
   "full_name": "fastly/fastly-agent-toolkit",
   "url": "https://github.com/fastly/fastly-agent-toolkit",
   "sec_path": "SECURITY.md",
-  "stars": 36,
+  "stars": 37,
   "language": "Shell",
   "description": "Fastly skills for AI Agents.",
   "first_seen": "2026-11-01 20:17:39"
@@ -170,7 +170,7 @@
   "full_name": "fastly/compute-starter-kit-rust-static-content",
   "url": "https://github.com/fastly/compute-starter-kit-rust-static-content",
   "sec_path": "SECURITY.md",
-  "stars": 24,
+  "stars": 25,
   "language": "Rust",
   "description": "Static content starter kit for Rust based Fastly Compute projects. Speed up your websites with a Compute application serving content from a static bucket, redir…",
   "first_seen": "2026-11-01 20:17:39"
@@ -816,6 +816,17 @@
  {
   "vendor": "Fastly",
   "org": "fastly",
+  "full_name": "fastly/edge-mhs",
+  "url": "https://github.com/fastly/edge-mhs",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Rust",
+  "description": "A Fastly Compute reference for AI agents controlling physical hardware over Anthropic's Model Hardware Standard",
+  "first_seen": "2026-11-01 20:17:39"
+ },
+ {
+  "vendor": "Fastly",
+  "org": "fastly",
   "full_name": "fastly/compute-starter-kit-typescript-kv-store",
   "url": "https://github.com/fastly/compute-starter-kit-typescript-kv-store",
   "sec_path": "SECURITY.md",
@@ -965,17 +976,6 @@
   "stars": null,
   "language": "Go",
   "description": "A Fastly API client for Go",
-  "first_seen": "2026-11-01 20:17:39"
- },
- {
-  "vendor": "Fastly",
-  "org": "fastly",
-  "full_name": "fastly/edge-mhs",
-  "url": "https://github.com/fastly/edge-mhs",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "Rust",
-  "description": "A Fastly Compute reference for AI agents controlling physical hardware over Anthropic's Model Hardware Standard",
   "first_seen": "2026-11-01 20:17:39"
  },
  {

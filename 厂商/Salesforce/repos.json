@@ -170,7 +170,7 @@
   "full_name": "forcedotcom/sf-skills",
   "url": "https://github.com/forcedotcom/sf-skills",
   "sec_path": "SECURITY.md",
-  "stars": 1146,
+  "stars": 1163,
   "language": "Python",
   "description": "Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools.",
   "first_seen": "2026-11-01 20:19:51"
@@ -192,7 +192,7 @@
   "full_name": "forcedotcom/salesforcedx-vscode",
   "url": "https://github.com/forcedotcom/salesforcedx-vscode",
   "sec_path": "SECURITY.md",
-  "stars": 1040,
+  "stars": 1042,
   "language": "TypeScript",
   "description": "Salesforce Extensions for VS Code",
   "first_seen": "2026-11-01 20:19:51"
@@ -335,7 +335,7 @@
   "full_name": "forcedotcom/dataloader",
   "url": "https://github.com/forcedotcom/dataloader",
   "sec_path": "SECURITY.md",
-  "stars": 543,
+  "stars": 546,
   "language": "Java",
   "description": "Salesforce Data Loader",
   "first_seen": "2026-11-01 20:19:51"
@@ -1061,7 +1061,7 @@
   "full_name": "forcedotcom/source-deploy-retrieve",
   "url": "https://github.com/forcedotcom/source-deploy-retrieve",
   "sec_path": "SECURITY.md",
-  "stars": 97,
+  "stars": 98,
   "language": "TypeScript",
   "description": "JavaScript toolkit for working with Salesforce metadata.",
   "first_seen": "2026-11-01 20:19:51"
@@ -1094,7 +1094,7 @@
   "full_name": "forcedotcom/salesforcedx-templates",
   "url": "https://github.com/forcedotcom/salesforcedx-templates",
   "sec_path": "SECURITY.md",
-  "stars": 94,
+  "stars": 96,
   "language": "TypeScript",
   "description": "Salesforce Templates Node Library",
   "first_seen": "2026-11-01 20:19:51"
@@ -1970,6 +1970,17 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/source-tracking",
+  "url": "https://github.com/forcedotcom/source-tracking",
+  "sec_path": "SECURITY.md",
+  "stars": 32,
+  "language": "TypeScript",
+  "description": "JavaScript library for tracking local and remote Salesforce metadata changes.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/ensemble-of-averages",
   "url": "https://github.com/salesforce/ensemble-of-averages",
@@ -1978,17 +1989,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/source-tracking",
-  "url": "https://github.com/forcedotcom/source-tracking",
-  "sec_path": "SECURITY.md",
-  "stars": 31,
-  "language": "TypeScript",
-  "description": "JavaScript library for tracking local and remote Salesforce metadata changes.",
-  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
@@ -2201,6 +2201,18 @@
  },
  {
   "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/partner-ecosystem-agentic-kit",
+  "url": "https://github.com/forcedotcom/partner-ecosystem-agentic-kit",
+  "sec_path": "SECURITY.md",
+  "stars": 24,
+  "language": "Python",
+  "description": "PEAK (Partner Ecosystem Agentic Kit): an engagement-led advisor capability and a library of agentic skills that help Salesforce partners through the Agentforce …",
+  "license": null,
+  "first_seen": "2026-11-04 20:04:49"
+ },
+ {
+  "vendor": "Salesforce",
   "org": "Salesforce",
   "full_name": "salesforce/salesforce-skills",
   "url": "https://github.com/salesforce/salesforce-skills",
@@ -2339,20 +2351,8 @@
   "sec_path": "SECURITY.md",
   "stars": 20,
   "language": "Java",
-  "description": "",
+  "description": "Data 360 MCP Server is generally available (GA) as a hosted Salesforce service. This open-source repository is for reference and experimentation only.",
   "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/partner-ecosystem-agentic-kit",
-  "url": "https://github.com/forcedotcom/partner-ecosystem-agentic-kit",
-  "sec_path": "SECURITY.md",
-  "stars": 20,
-  "language": "Python",
-  "description": "PEAK (Partner Ecosystem Agentic Kit): an engagement-led advisor capability and a library of agentic skills that help Salesforce partners through the Agentforce …",
-  "license": null,
-  "first_seen": "2026-11-04 20:04:49"
  },
  {
   "vendor": "Salesforce",
@@ -3017,6 +3017,17 @@
  {
   "vendor": "Salesforce",
   "org": "forcedotcom",
+  "full_name": "forcedotcom/NextGeneration-DevOpsCenter",
+  "url": "https://github.com/forcedotcom/NextGeneration-DevOpsCenter",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": null,
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
   "full_name": "forcedotcom/einstein-bot-openapi-codegen-maven-plugin",
   "url": "https://github.com/forcedotcom/einstein-bot-openapi-codegen-maven-plugin",
   "sec_path": "SECURITY.md",
@@ -3111,17 +3122,6 @@
   "stars": 9,
   "language": "Scala",
   "description": "Play Scala Module for Integrating with Salesforce Marketing Cloud Single Sign On",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/NextGeneration-DevOpsCenter",
-  "url": "https://github.com/forcedotcom/NextGeneration-DevOpsCenter",
-  "sec_path": "SECURITY.md",
-  "stars": 9,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
  {
@@ -4590,6 +4590,17 @@
  {
   "vendor": "Salesforce",
   "org": "forcedotcom",
+  "full_name": "forcedotcom/salesforcedx-ui-script-recorder",
+  "url": "https://github.com/forcedotcom/salesforcedx-ui-script-recorder",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "JavaScript",
+  "description": "VS Code extension for recording playwright scripts on Salesforce UI and playback.",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
   "full_name": "forcedotcom/eslint-config-salesforce-typescript",
   "url": "https://github.com/forcedotcom/eslint-config-salesforce-typescript",
   "sec_path": "SECURITY.md",
@@ -4606,6 +4617,17 @@
   "sec_path": "SECURITY.md",
   "stars": 2,
   "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 20:19:51"
+ },
+ {
+  "vendor": "Salesforce",
+  "org": "forcedotcom",
+  "full_name": "forcedotcom/AgentLens",
+  "url": "https://github.com/forcedotcom/AgentLens",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "JavaScript",
   "description": "",
   "first_seen": "2026-11-01 20:19:51"
  },
@@ -4927,28 +4949,6 @@
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 17:19:44"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/salesforcedx-ui-script-recorder",
-  "url": "https://github.com/forcedotcom/salesforcedx-ui-script-recorder",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "JavaScript",
-  "description": "VS Code extension for recording playwright scripts on Salesforce UI and playback.",
-  "first_seen": "2026-11-01 20:19:51"
- },
- {
-  "vendor": "Salesforce",
-  "org": "forcedotcom",
-  "full_name": "forcedotcom/AgentLens",
-  "url": "https://github.com/forcedotcom/AgentLens",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 20:19:51"
  },
  {
   "vendor": "Salesforce",
