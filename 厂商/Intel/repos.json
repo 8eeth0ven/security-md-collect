@@ -5,7 +5,7 @@
   "full_name": "intel/intel-one-mono",
   "url": "https://github.com/intel/intel-one-mono",
   "sec_path": "security.md",
-  "stars": 10212,
+  "stars": 10259,
   "language": null,
   "description": "Intel One Mono font repository",
   "first_seen": "2026-11-01 21:52:33"
@@ -16,7 +16,7 @@
   "full_name": "intel/ipex-llm",
   "url": "https://github.com/intel/ipex-llm",
   "sec_path": "SECURITY.md",
-  "stars": 8845,
+  "stars": 8842,
   "language": "Python",
   "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.…",
   "first_seen": "2026-11-01 21:52:54"
@@ -27,7 +27,7 @@
   "full_name": "intel/pcm",
   "url": "https://github.com/intel/pcm",
   "sec_path": "SECURITY.md",
-  "stars": 3353,
+  "stars": 3359,
   "language": "C++",
   "description": "Intel® Performance Counter Monitor (Intel® PCM)",
   "first_seen": "2026-11-01 21:52:33"
@@ -49,7 +49,7 @@
   "full_name": "intel/neural-compressor",
   "url": "https://github.com/intel/neural-compressor",
   "sec_path": "SECURITY.md",
-  "stars": 2729,
+  "stars": 2730,
   "language": "Python",
   "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
   "first_seen": "2026-11-01 21:52:33"
@@ -71,7 +71,7 @@
   "full_name": "intel/intel-extension-for-transformers",
   "url": "https://github.com/intel/intel-extension-for-transformers",
   "sec_path": "SECURITY.md",
-  "stars": 2174,
+  "stars": 2173,
   "language": "Python",
   "description": "⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡",
   "first_seen": "2026-11-01 21:53:13"
@@ -82,7 +82,7 @@
   "full_name": "intel/openvino-plugins-ai-audacity",
   "url": "https://github.com/intel/openvino-plugins-ai-audacity",
   "sec_path": "security.md",
-  "stars": 2156,
+  "stars": 2160,
   "language": "C++",
   "description": "A set of AI-enabled effects, generators, and analyzers for Audacity®.",
   "first_seen": "2026-11-01 21:52:33"
@@ -93,7 +93,7 @@
   "full_name": "intel/intel-extension-for-pytorch",
   "url": "https://github.com/intel/intel-extension-for-pytorch",
   "sec_path": "SECURITY.md",
-  "stars": 2008,
+  "stars": 2005,
   "language": "Python",
   "description": "A Python package for extending the official PyTorch that can easily obtain performance on Intel platform",
   "first_seen": "2026-11-01 21:52:54"
@@ -104,7 +104,7 @@
   "full_name": "intel/auto-round",
   "url": "https://github.com/intel/auto-round",
   "sec_path": "SECURITY.md",
-  "stars": 1699,
+  "stars": 1703,
   "language": "Python",
   "description": "PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度",
   "first_seen": "2026-11-01 21:52:33"
@@ -115,7 +115,7 @@
   "full_name": "intel/llvm",
   "url": "https://github.com/intel/llvm",
   "sec_path": "SECURITY.md",
-  "stars": 1551,
+  "stars": 1553,
   "language": "LLVM",
   "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
   "first_seen": "2026-11-01 21:52:33"
@@ -126,7 +126,7 @@
   "full_name": "intel/compute-runtime",
   "url": "https://github.com/intel/compute-runtime",
   "sec_path": "Security.md",
-  "stars": 1465,
+  "stars": 1466,
   "language": "C++",
   "description": "Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver",
   "first_seen": "2026-11-01 21:52:33"
@@ -182,7 +182,7 @@
   "full_name": "intel/AI-Playground",
   "url": "https://github.com/intel/AI-Playground",
   "sec_path": "SECURITY.md",
-  "stars": 1037,
+  "stars": 1040,
   "language": "TypeScript",
   "description": "AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.",
   "first_seen": "2026-11-01 21:52:33"
@@ -193,9 +193,20 @@
   "full_name": "intel/xess",
   "url": "https://github.com/intel/xess",
   "sec_path": "SECURITY.md",
-  "stars": 1022,
+  "stars": 1026,
   "language": "C",
   "description": "Intel XeSS SDK",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/gprofiler",
+  "url": "https://github.com/intel/gprofiler",
+  "sec_path": "SECURITY.md",
+  "stars": 849,
+  "language": "Python",
+  "description": "gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -212,21 +223,10 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/gprofiler",
-  "url": "https://github.com/intel/gprofiler",
-  "sec_path": "SECURITY.md",
-  "stars": 840,
-  "language": "Python",
-  "description": "gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/Intel-Linux-Processor-Microcode-Data-Files",
   "url": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files",
   "sec_path": "security.md",
-  "stars": 831,
+  "stars": 834,
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -237,7 +237,7 @@
   "full_name": "intel/openvino-ai-plugins-gimp",
   "url": "https://github.com/intel/openvino-ai-plugins-gimp",
   "sec_path": "security.md",
-  "stars": 805,
+  "stars": 806,
   "language": "Python",
   "description": "GIMP AI plugins with OpenVINO Backend",
   "first_seen": "2026-11-01 21:52:33"
@@ -248,7 +248,7 @@
   "full_name": "intel/libva",
   "url": "https://github.com/intel/libva",
   "sec_path": "security.md",
-  "stars": 800,
+  "stars": 801,
   "language": "C",
   "description": "Libva is an implementation for VA-API (Video Acceleration API)",
   "first_seen": "2026-11-01 21:52:33"
@@ -259,7 +259,7 @@
   "full_name": "intel/intel-cmt-cat",
   "url": "https://github.com/intel/intel-cmt-cat",
   "sec_path": "SECURITY.md",
-  "stars": 755,
+  "stars": 756,
   "language": "C",
   "description": "User space software for Intel(R) Resource Director Technology",
   "first_seen": "2026-11-01 21:52:33"
@@ -292,7 +292,7 @@
   "full_name": "intel/intel-graphics-compiler",
   "url": "https://github.com/intel/intel-graphics-compiler",
   "sec_path": "SECURITY.md",
-  "stars": 725,
+  "stars": 726,
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -303,7 +303,7 @@
   "full_name": "intel/intel-npu-acceleration-library",
   "url": "https://github.com/intel/intel-npu-acceleration-library",
   "sec_path": "SECURITY.md",
-  "stars": 714,
+  "stars": 713,
   "language": "Python",
   "description": "Intel® NPU Acceleration Library",
   "first_seen": "2026-11-01 21:53:13"
@@ -314,7 +314,7 @@
   "full_name": "intel/thermal_daemon",
   "url": "https://github.com/intel/thermal_daemon",
   "sec_path": "SECURITY.md",
-  "stars": 667,
+  "stars": 673,
   "language": "C++",
   "description": "Thermal daemon for IA",
   "first_seen": "2026-11-01 21:52:33"
@@ -325,7 +325,7 @@
   "full_name": "intel/compile-time-init-build",
   "url": "https://github.com/intel/compile-time-init-build",
   "sec_path": "security.md",
-  "stars": 656,
+  "stars": 657,
   "language": "C++",
   "description": "C++ library for composing modular firmware at compile-time.",
   "first_seen": "2026-11-01 21:52:33"
@@ -336,7 +336,7 @@
   "full_name": "intel/tinycbor",
   "url": "https://github.com/intel/tinycbor",
   "sec_path": "SECURITY.md",
-  "stars": 642,
+  "stars": 643,
   "language": "C++",
   "description": "Concise Binary Object Representation (CBOR) Library",
   "first_seen": "2026-11-01 21:52:33"
@@ -347,7 +347,7 @@
   "full_name": "intel/llm-scaler",
   "url": "https://github.com/intel/llm-scaler",
   "sec_path": "SECURITY.md",
-  "stars": 588,
+  "stars": 589,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -358,7 +358,7 @@
   "full_name": "intel/yarpgen",
   "url": "https://github.com/intel/yarpgen",
   "sec_path": "SECURITY.md",
-  "stars": 578,
+  "stars": 579,
   "language": "C++",
   "description": "Yet Another Random Program Generator",
   "first_seen": "2026-11-01 21:52:33"
@@ -369,7 +369,7 @@
   "full_name": "intel/wds",
   "url": "https://github.com/intel/wds",
   "sec_path": "error",
-  "stars": 518,
+  "stars": 517,
   "language": "C++",
   "description": "Wireless Display Software For Linux OS (WDS)",
   "first_seen": "2026-11-01 21:54:54"
@@ -402,7 +402,7 @@
   "full_name": "intel/linux-npu-driver",
   "url": "https://github.com/intel/linux-npu-driver",
   "sec_path": "security.md",
-  "stars": 475,
+  "stars": 478,
   "language": "C++",
   "description": "Intel® NPU (Neural Processing Unit) Driver",
   "first_seen": "2026-11-01 21:52:33"
@@ -413,7 +413,7 @@
   "full_name": "intel/kernel-fuzzer-for-xen-project",
   "url": "https://github.com/intel/kernel-fuzzer-for-xen-project",
   "sec_path": "security.md",
-  "stars": 474,
+  "stars": 475,
   "language": "C",
   "description": "Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL",
   "first_seen": "2026-11-01 21:53:13"
@@ -424,7 +424,7 @@
   "full_name": "intel/PerfSpect",
   "url": "https://github.com/intel/PerfSpect",
   "sec_path": "SECURITY.md",
-  "stars": 461,
+  "stars": 462,
   "language": "Go",
   "description": "Open-source Linux performance suite for engineers—profiling and tuning workloads and system configurations.",
   "first_seen": "2026-11-01 21:52:33"
@@ -435,7 +435,7 @@
   "full_name": "intel/QAT_Engine",
   "url": "https://github.com/intel/QAT_Engine",
   "sec_path": "SECURITY.md",
-  "stars": 445,
+  "stars": 444,
   "language": "C",
   "description": "Intel QuickAssist Technology( QAT) OpenSSL Engine and Provider which provides cryptographic acceleration for both hardware and optimized software using Intel Qu…",
   "first_seen": "2026-11-01 21:52:33"
@@ -446,7 +446,7 @@
   "full_name": "intel/xFasterTransformer",
   "url": "https://github.com/intel/xFasterTransformer",
   "sec_path": "SECURITY.md",
-  "stars": 435,
+  "stars": 434,
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -457,7 +457,7 @@
   "full_name": "intel/perfmon",
   "url": "https://github.com/intel/perfmon",
   "sec_path": "security.md",
-  "stars": 409,
+  "stars": 410,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -501,7 +501,7 @@
   "full_name": "intel/opencl-intercept-layer",
   "url": "https://github.com/intel/opencl-intercept-layer",
   "sec_path": "SECURITY.md",
-  "stars": 370,
+  "stars": 371,
   "language": "C++",
   "description": "Intercept Layer for Debugging and Analyzing OpenCL Applications",
   "first_seen": "2026-11-01 21:52:33"
@@ -523,7 +523,7 @@
   "full_name": "intel/confidential-computing-zoo",
   "url": "https://github.com/intel/confidential-computing-zoo",
   "sec_path": "Security.md",
-  "stars": 367,
+  "stars": 368,
   "language": "C++",
   "description": "Confidential Computing Zoo provides confidential computing solutions based on Intel SGX, TDX, HEXL, etc. technologies.",
   "first_seen": "2026-11-01 21:52:33"
@@ -534,7 +534,7 @@
   "full_name": "intel/FSP",
   "url": "https://github.com/intel/FSP",
   "sec_path": "SECURITY.md",
-  "stars": 365,
+  "stars": 366,
   "language": "C",
   "description": "Intel(R) Firmware Support Package (FSP)",
   "first_seen": "2026-11-01 21:52:33"
@@ -556,7 +556,7 @@
   "full_name": "intel/intel-extension-for-tensorflow",
   "url": "https://github.com/intel/intel-extension-for-tensorflow",
   "sec_path": "SECURITY.md",
-  "stars": 353,
+  "stars": 352,
   "language": "C++",
   "description": "Intel® Extension for TensorFlow*",
   "first_seen": "2026-11-01 21:53:13"
@@ -590,20 +590,9 @@
   "full_name": "intel/intel-ipsec-mb",
   "url": "https://github.com/intel/intel-ipsec-mb",
   "sec_path": "SECURITY.md",
-  "stars": 340,
+  "stars": 341,
   "language": "Assembly",
   "description": "Intel(R) Multi-Buffer Crypto for IPSec",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/tsffs",
-  "url": "https://github.com/intel/tsffs",
-  "sec_path": "SECURITY.md",
-  "stars": 333,
-  "language": "Rust",
-  "description": "A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -612,9 +601,20 @@
   "full_name": "intel/cpp-baremetal-senders-and-receivers",
   "url": "https://github.com/intel/cpp-baremetal-senders-and-receivers",
   "sec_path": "security.md",
-  "stars": 332,
+  "stars": 335,
   "language": "C++",
   "description": "An implementation of C++ \"senders and receivers\" async framework suitable for embedded platforms.",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/tsffs",
+  "url": "https://github.com/intel/tsffs",
+  "sec_path": "SECURITY.md",
+  "stars": 335,
+  "language": "Rust",
+  "description": "A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -623,7 +623,7 @@
   "full_name": "intel/confidential-computing.tee.dcap",
   "url": "https://github.com/intel/confidential-computing.tee.dcap",
   "sec_path": "SECURITY.md",
-  "stars": 328,
+  "stars": 329,
   "language": "C",
   "description": "Intel® Data Center Attestation Primitives (Intel® DCAP)",
   "first_seen": "2026-11-01 21:52:33"
@@ -645,7 +645,7 @@
   "full_name": "intel/intel-vaapi-driver",
   "url": "https://github.com/intel/intel-vaapi-driver",
   "sec_path": "SECURITY.md",
-  "stars": 320,
+  "stars": 319,
   "language": "C",
   "description": "VA-API user mode driver for Intel GEN Graphics family",
   "first_seen": "2026-11-01 21:53:13"
@@ -690,7 +690,7 @@
   "full_name": "intel/pti-gpu",
   "url": "https://github.com/intel/pti-gpu",
   "sec_path": "SECURITY.md",
-  "stars": 278,
+  "stars": 280,
   "language": "C++",
   "description": "Profiling Tools Interfaces for GPU (PTI for GPU) is a set of Getting Started Documentation and Tools Library to start performance analysis on Intel(R) Processor…",
   "first_seen": "2026-11-01 21:52:33"
@@ -800,7 +800,7 @@
   "full_name": "intel/libva-utils",
   "url": "https://github.com/intel/libva-utils",
   "sec_path": "security.md",
-  "stars": 244,
+  "stars": 243,
   "language": "C",
   "description": "Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)",
   "first_seen": "2026-11-01 21:52:54"
@@ -811,8 +811,19 @@
   "full_name": "intel/ScalableVectorSearch",
   "url": "https://github.com/intel/ScalableVectorSearch",
   "sec_path": "SECURITY.md",
-  "stars": 241,
+  "stars": 242,
   "language": "C++",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/intel-lpmd",
+  "url": "https://github.com/intel/intel-lpmd",
+  "sec_path": "security.md",
+  "stars": 241,
+  "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
@@ -826,17 +837,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/intel-lpmd",
-  "url": "https://github.com/intel/intel-lpmd",
-  "sec_path": "security.md",
-  "stars": 237,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -899,7 +899,7 @@
   "full_name": "intel/gprofiler-performance-studio",
   "url": "https://github.com/intel/gprofiler-performance-studio",
   "sec_path": "Security.md",
-  "stars": 199,
+  "stars": 200,
   "language": "JavaScript",
   "description": "The local version of the backend and UI for the gProfiler agent, featuring advanced flamegraph analysis tools.",
   "first_seen": "2026-11-01 21:52:33"
@@ -1006,23 +1006,23 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/QATzip",
-  "url": "https://github.com/intel/QATzip",
-  "sec_path": "SECURITY.md",
-  "stars": 170,
-  "language": "C",
-  "description": "Compression Library accelerated by Intel® QuickAssist Technology",
-  "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/ipex-llm-tutorial",
   "url": "https://github.com/intel/ipex-llm-tutorial",
   "sec_path": "SECURITY.md",
   "stars": 170,
   "language": "Jupyter Notebook",
   "description": "Accelerate LLM with low-bit (FP4 / INT4 / FP8 / INT8) optimizations using ipex-llm",
+  "first_seen": "2026-11-01 21:52:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/QATzip",
+  "url": "https://github.com/intel/QATzip",
+  "sec_path": "SECURITY.md",
+  "stars": 169,
+  "language": "C",
+  "description": "Compression Library accelerated by Intel® QuickAssist Technology",
   "first_seen": "2026-11-01 21:52:54"
  },
  {
@@ -1053,7 +1053,7 @@
   "full_name": "intel/vpl-gpu-rt",
   "url": "https://github.com/intel/vpl-gpu-rt",
   "sec_path": "security.md",
-  "stars": 159,
+  "stars": 160,
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -1075,7 +1075,7 @@
   "full_name": "intel/mlir-extensions",
   "url": "https://github.com/intel/mlir-extensions",
   "sec_path": "security.md",
-  "stars": 157,
+  "stars": 158,
   "language": "MLIR",
   "description": "Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.",
   "first_seen": "2026-11-01 21:52:33"
@@ -1119,7 +1119,7 @@
   "full_name": "intel/ittapi",
   "url": "https://github.com/intel/ittapi",
   "sec_path": "SECURITY.md",
-  "stars": 148,
+  "stars": 149,
   "language": "Rust",
   "description": "Intel® Instrumentation and Tracing Technology (ITT) and Just-In-Time (JIT) APIs",
   "first_seen": "2026-11-01 21:52:33"
@@ -1185,7 +1185,7 @@
   "full_name": "intel/openvino-rs",
   "url": "https://github.com/intel/openvino-rs",
   "sec_path": "SECURITY.md",
-  "stars": 142,
+  "stars": 143,
   "language": "Rust",
   "description": "Rust bindings for OpenVINO™ ",
   "first_seen": "2026-11-01 21:52:33"
@@ -1226,23 +1226,23 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/optimization-zone",
+  "url": "https://github.com/intel/optimization-zone",
+  "sec_path": "SECURITY.md",
+  "stars": 139,
+  "language": "Shell",
+  "description": "Data Center and Client workload and software optimizations for Intel hardware.",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/qatlib",
   "url": "https://github.com/intel/qatlib",
   "sec_path": "SECURITY.md",
   "stars": 137,
   "language": "C",
   "description": "This package provides user space libraries that allow access to Intel(R) QuickAssist Technology (Intel(R) QAT). QAT devices provide hardware acceleration for of…",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/optimization-zone",
-  "url": "https://github.com/intel/optimization-zone",
-  "sec_path": "SECURITY.md",
-  "stars": 136,
-  "language": "Shell",
-  "description": "Data Center and Client workload and software optimizations for Intel hardware.",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -1336,23 +1336,23 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/parameter-framework",
-  "url": "https://github.com/intel/parameter-framework",
-  "sec_path": "error",
-  "stars": 117,
-  "language": "C++",
-  "description": "Plugin-based and rule-based framework for describing and controlling parameters",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/SDN-NFV-Hands-on-Samples",
   "url": "https://github.com/intel/SDN-NFV-Hands-on-Samples",
   "sec_path": "error",
   "stars": 117,
   "language": "Shell",
   "description": "Scripts and source code for SDN NFV Hands-on Labs",
+  "first_seen": "2026-11-01 21:54:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/parameter-framework",
+  "url": "https://github.com/intel/parameter-framework",
+  "sec_path": "error",
+  "stars": 116,
+  "language": "C++",
+  "description": "Plugin-based and rule-based framework for describing and controlling parameters",
   "first_seen": "2026-11-01 21:54:54"
  },
  {
@@ -1484,7 +1484,7 @@
   "full_name": "intel/metrics-discovery",
   "url": "https://github.com/intel/metrics-discovery",
   "sec_path": "SECURITY.md",
-  "stars": 100,
+  "stars": 101,
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
@@ -1517,7 +1517,7 @@
   "full_name": "intel/onnxruntime",
   "url": "https://github.com/intel/onnxruntime",
   "sec_path": "SECURITY.md",
-  "stars": 94,
+  "stars": 95,
   "language": "C++",
   "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
   "first_seen": "2026-11-01 21:52:33"
@@ -1532,6 +1532,17 @@
   "language": "SystemVerilog",
   "description": "Tutorials, scripts and reference designs for the Intel FPGA partial reconfiguration (PR) design flow",
   "first_seen": "2026-11-01 21:52:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/drivers.gpu.control-library",
+  "url": "https://github.com/intel/drivers.gpu.control-library",
+  "sec_path": "SECURITY.md",
+  "stars": 92,
+  "language": "C",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1554,17 +1565,6 @@
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/drivers.gpu.control-library",
-  "url": "https://github.com/intel/drivers.gpu.control-library",
-  "sec_path": "SECURITY.md",
-  "stars": 90,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1605,7 +1605,7 @@
   "full_name": "intel/igsc",
   "url": "https://github.com/intel/igsc",
   "sec_path": "SECURITY.md",
-  "stars": 87,
+  "stars": 88,
   "language": "C",
   "description": "Intel Graphics System Firmware Update Library (IGSC FUL) is a pure C low level library that exposes a required API to perform a firmware update of an Intel disc…",
   "first_seen": "2026-11-01 21:52:33"
@@ -1646,13 +1646,13 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/pailliercryptolib",
-  "url": "https://github.com/intel/pailliercryptolib",
-  "sec_path": "SECURITY.md",
-  "stars": 82,
-  "language": "C++",
-  "description": "Intel Paillier Cryptosystem Library is an open-source library which provides accelerated performance of a partial homomorphic encryption (HE), named Paillier cr…",
-  "first_seen": "2026-11-01 21:53:13"
+  "full_name": "intel/ethernet-linux-ixgbe",
+  "url": "https://github.com/intel/ethernet-linux-ixgbe",
+  "sec_path": "security.md",
+  "stars": 81,
+  "language": "C",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1664,6 +1664,28 @@
   "language": "C",
   "description": "Plugin to Zstandard Library providing compression Acceleration using Intel® QuickAssist Technology Hardware",
   "first_seen": "2026-11-01 21:52:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/pailliercryptolib",
+  "url": "https://github.com/intel/pailliercryptolib",
+  "sec_path": "SECURITY.md",
+  "stars": 81,
+  "language": "C++",
+  "description": "Intel Paillier Cryptosystem Library is an open-source library which provides accelerated performance of a partial homomorphic encryption (HE), named Paillier cr…",
+  "first_seen": "2026-11-01 21:53:13"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/AI-PC-Samples",
+  "url": "https://github.com/intel/AI-PC-Samples",
+  "sec_path": "Security.md",
+  "stars": 80,
+  "language": "Jupyter Notebook",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1682,31 +1704,9 @@
   "full_name": "intel/ai-containers",
   "url": "https://github.com/intel/ai-containers",
   "sec_path": "SECURITY.md",
-  "stars": 79,
+  "stars": 78,
   "language": "Python",
   "description": "This repository contains Dockerfiles, scripts, yaml files, Helm charts, etc. used to scale out AI containers with versions of TensorFlow and PyTorch that have b…",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/AI-PC-Samples",
-  "url": "https://github.com/intel/AI-PC-Samples",
-  "sec_path": "Security.md",
-  "stars": 78,
-  "language": "Jupyter Notebook",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ethernet-linux-ixgbe",
-  "url": "https://github.com/intel/ethernet-linux-ixgbe",
-  "sec_path": "security.md",
-  "stars": 78,
-  "language": "C",
-  "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -1752,6 +1752,17 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:52:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/SDM",
+  "url": "https://github.com/intel/SDM",
+  "sec_path": "SECURITY.md",
+  "stars": 76,
+  "language": "HTML",
+  "description": "Website for viewing the executable IA specification (external view). This combines data from the SDM and XED with a new executable specifiation.",
+  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1888,6 +1899,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/ethernet-linux-ice",
+  "url": "https://github.com/intel/ethernet-linux-ice",
+  "sec_path": "security.md",
+  "stars": 67,
+  "language": "C",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/INTEL-SA-00075-Linux-Detection-And-Mitigation-Tools",
   "url": "https://github.com/intel/INTEL-SA-00075-Linux-Detection-And-Mitigation-Tools",
   "sec_path": "error",
@@ -1895,28 +1917,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ethernet-linux-ice",
-  "url": "https://github.com/intel/ethernet-linux-ice",
-  "sec_path": "security.md",
-  "stars": 66,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/SDM",
-  "url": "https://github.com/intel/SDM",
-  "sec_path": "SECURITY.md",
-  "stars": 66,
-  "language": "HTML",
-  "description": "Website for viewing the executable IA specification (external view). This combines data from the SDM and XED with a new executable specifiation.",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1999,6 +1999,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/zephyr",
+  "url": "https://github.com/intel/zephyr",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 62,
+  "language": "C",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/linux-kernel-overlay",
   "url": "https://github.com/intel/linux-kernel-overlay",
   "sec_path": "security.md",
@@ -2006,17 +2017,6 @@
   "language": "Shell",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/zephyr",
-  "url": "https://github.com/intel/zephyr",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 61,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:54"
  },
  {
   "vendor": "Intel",
@@ -2087,6 +2087,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/mainline-tracking",
+  "url": "https://github.com/intel/mainline-tracking",
+  "sec_path": "security.md",
+  "stars": 59,
+  "language": "Roff",
+  "description": "This project is hosting an upstream tracking, rebasing branch of technology and enabling development for selected Intel platforms. It will get updates following…",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/thin-layout-optimizer",
   "url": "https://github.com/intel/thin-layout-optimizer",
   "sec_path": "SECURITY.md",
@@ -2126,17 +2137,6 @@
   "stars": 58,
   "language": "Rust",
   "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/mainline-tracking",
-  "url": "https://github.com/intel/mainline-tracking",
-  "sec_path": "security.md",
-  "stars": 58,
-  "language": "Roff",
-  "description": "This project is hosting an upstream tracking, rebasing branch of technology and enabling development for selected Intel platforms. It will get updates following…",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -2254,23 +2254,23 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/gpu-ai-skills",
+  "url": "https://github.com/intel/gpu-ai-skills",
+  "sec_path": "SECURITY.md",
+  "stars": 51,
+  "language": "Python",
+  "description": "Agent Skills for running, benchmarking, and profiling Hugging Face models on Intel GPUs — PyTorch, vLLM-XPU, and SGLang-XPU",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/ethernet-linux-i40e",
   "url": "https://github.com/intel/ethernet-linux-i40e",
   "sec_path": "security.md",
   "stars": 51,
   "language": "C",
   "description": "The i40e Linux Base Drivers for Intel Ethernet Network Connections.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ipu6-camera-hal",
-  "url": "https://github.com/intel/ipu6-camera-hal",
-  "sec_path": "SECURITY.md",
-  "stars": 51,
-  "language": "C",
-  "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -2287,6 +2287,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/ipu6-camera-hal",
+  "url": "https://github.com/intel/ipu6-camera-hal",
+  "sec_path": "SECURITY.md",
+  "stars": 50,
+  "language": "C",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/tiny-dpcpp-nn",
   "url": "https://github.com/intel/tiny-dpcpp-nn",
   "sec_path": "SECURITY.md",
@@ -2298,6 +2309,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/enterprise-agent-toolkit",
+  "url": "https://github.com/intel/enterprise-agent-toolkit",
+  "sec_path": "SECURITY.md",
+  "stars": 49,
+  "language": "Shell",
+  "description": "A comprehensive, enterprise-ready toolkit for deploying Agentic AI systems on Intel® Xeon processors and Intel accelerators. Built for organizations that need t…",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/edison-linux",
   "url": "https://github.com/intel/edison-linux",
   "sec_path": "error",
@@ -2305,28 +2327,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/gpu-ai-skills",
-  "url": "https://github.com/intel/gpu-ai-skills",
-  "sec_path": "SECURITY.md",
-  "stars": 48,
-  "language": "Python",
-  "description": "Agent Skills for running, benchmarking, and profiling Hugging Face models on Intel GPUs — PyTorch, vLLM-XPU, and SGLang-XPU",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/enterprise-agent-toolkit",
-  "url": "https://github.com/intel/enterprise-agent-toolkit",
-  "sec_path": "SECURITY.md",
-  "stars": 48,
-  "language": "Shell",
-  "description": "A comprehensive, enterprise-ready toolkit for deploying Agentic AI systems on Intel® Xeon processors and Intel accelerators. Built for organizations that need t…",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -2430,6 +2430,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/Edk2Code",
+  "url": "https://github.com/intel/Edk2Code",
+  "sec_path": "security.md",
+  "stars": 45,
+  "language": "TypeScript",
+  "description": "Documentation",
+  "first_seen": "2026-11-01 21:52:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/vtpm-td",
   "url": "https://github.com/intel/vtpm-td",
   "sec_path": "security.md",
@@ -2475,13 +2486,13 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/Edk2Code",
-  "url": "https://github.com/intel/Edk2Code",
-  "sec_path": "security.md",
+  "full_name": "intel/intel-resource-drivers-for-kubernetes",
+  "url": "https://github.com/intel/intel-resource-drivers-for-kubernetes",
+  "sec_path": "SECURITY.md",
   "stars": 44,
-  "language": "TypeScript",
-  "description": "Documentation",
-  "first_seen": "2026-11-01 21:52:54"
+  "language": "Go",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -2493,17 +2504,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/intel-resource-drivers-for-kubernetes",
-  "url": "https://github.com/intel/intel-resource-drivers-for-kubernetes",
-  "sec_path": "SECURITY.md",
-  "stars": 43,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -2618,17 +2618,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/sgx-pytorch",
-  "url": "https://github.com/intel/sgx-pytorch",
-  "sec_path": "SECURITY.md",
-  "stars": 38,
-  "language": "C++",
-  "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-  "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/polite-guard",
   "url": "https://github.com/intel/polite-guard",
   "sec_path": "SECURITY.md",
@@ -2679,6 +2668,17 @@
   "stars": 37,
   "language": "C++",
   "description": "",
+  "first_seen": "2026-11-01 21:52:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/sgx-pytorch",
+  "url": "https://github.com/intel/sgx-pytorch",
+  "sec_path": "SECURITY.md",
+  "stars": 37,
+  "language": "C++",
+  "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
   "first_seen": "2026-11-01 21:52:54"
  },
  {
@@ -2827,6 +2827,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/xml-cli",
+  "url": "https://github.com/intel/xml-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 33,
+  "language": "Python",
+  "description": "UFFAF - UEFI Firmware Foundational Automation Framework (formerly XmlCli)",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/ipu6-camera-bins",
   "url": "https://github.com/intel/ipu6-camera-bins",
   "sec_path": "SECURITY.md",
@@ -2872,17 +2883,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/xml-cli",
-  "url": "https://github.com/intel/xml-cli",
-  "sec_path": "SECURITY.md",
-  "stars": 32,
-  "language": "Python",
-  "description": "UFFAF - UEFI Firmware Foundational Automation Framework (formerly XmlCli)",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/Galileo-Runtime",
   "url": "https://github.com/intel/Galileo-Runtime",
   "sec_path": "error",
@@ -2901,6 +2901,17 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:54:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/skills",
+  "url": "https://github.com/intel/skills",
+  "sec_path": "SECURITY.md",
+  "stars": 31,
+  "language": "Python",
+  "description": "Skills for running, porting, profiling, and tuning code on Intel CPUs, GPUs, and the libraries and runtimes behind them.",
+  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -3043,17 +3054,6 @@
   "stars": 28,
   "language": "Python",
   "description": "Wult stands for \"Wake Up Latency Tracer\", and this is a project that provides tools for measuring C-state latency in Linux.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/skills",
-  "url": "https://github.com/intel/skills",
-  "sec_path": "SECURITY.md",
-  "stars": 28,
-  "language": "Python",
-  "description": "Skills for running, porting, profiling, and tuning code on Intel CPUs, GPUs, and the libraries and runtimes behind them.",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -3407,6 +3407,17 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:54:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/dokimi",
+  "url": "https://github.com/intel/dokimi",
+  "sec_path": "SECURITY.md",
+  "stars": 21,
+  "language": "Python",
+  "description": "Dokimi (Greek δοκιμή, \"test, proof\") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…",
+  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -4041,11 +4052,44 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/confidential-computing.tee.dcap.pccs",
+  "url": "https://github.com/intel/confidential-computing.tee.dcap.pccs",
+  "sec_path": "SECURITY.md",
+  "stars": 15,
+  "language": "JavaScript",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/trustauthority-client-for-python",
   "url": "https://github.com/intel/trustauthority-client-for-python",
   "sec_path": "SECURITY.md",
   "stars": 15,
   "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/ethernet-linux-ixgbevf",
+  "url": "https://github.com/intel/ethernet-linux-ixgbevf",
+  "sec_path": "security.md",
+  "stars": 15,
+  "language": "C",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/ipu7-drivers",
+  "url": "https://github.com/intel/ipu7-drivers",
+  "sec_path": "SECURITY.md",
+  "stars": 15,
+  "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
@@ -4228,17 +4272,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/confidential-computing.tee.dcap.pccs",
-  "url": "https://github.com/intel/confidential-computing.tee.dcap.pccs",
-  "sec_path": "SECURITY.md",
-  "stars": 14,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/rohd-wave-viewer",
   "url": "https://github.com/intel/rohd-wave-viewer",
   "sec_path": "SECURITY.md",
@@ -4261,31 +4294,9 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/ethernet-linux-ixgbevf",
-  "url": "https://github.com/intel/ethernet-linux-ixgbevf",
-  "sec_path": "security.md",
-  "stars": 14,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/ethernet-linux-iavf",
   "url": "https://github.com/intel/ethernet-linux-iavf",
   "sec_path": "security.md",
-  "stars": 14,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ipu7-drivers",
-  "url": "https://github.com/intel/ipu7-drivers",
-  "sec_path": "SECURITY.md",
   "stars": 14,
   "language": "C",
   "description": "",
@@ -4735,22 +4746,11 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/dokimi",
-  "url": "https://github.com/intel/dokimi",
-  "sec_path": "SECURITY.md",
-  "stars": 11,
-  "language": "Python",
-  "description": "Dokimi (Greek δοκιμή, \"test, proof\") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/enterprise-ai-solutions",
   "url": "https://github.com/intel/enterprise-ai-solutions",
   "sec_path": "SECURITY.md",
   "stars": 11,
-  "language": "Shell",
+  "language": "Python",
   "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enterprise generative AI on Intel® Xeon®, wit…",
   "first_seen": "2026-11-01 21:52:33"
  },
@@ -5643,6 +5643,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/xvec",
+  "url": "https://github.com/intel/xvec",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "C++",
+  "description": "Extensible Vectorization Library (xvec)",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/trustauthority-client-for-java",
   "url": "https://github.com/intel/trustauthority-client-for-java",
   "sec_path": "security.md",
@@ -5741,17 +5752,6 @@
  },
  {
   "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ros2_moving_object",
-  "url": "https://github.com/intel/ros2_moving_object",
-  "sec_path": "error",
-  "stars": 7,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
   "org": "oneapi-src",
   "full_name": "oneapi-src/invoice-to-cash-automation",
   "url": "https://github.com/oneapi-src/invoice-to-cash-automation",
@@ -5773,17 +5773,6 @@
   "description": "AI Starter Kit for the implementation of an AI transcribe system using Intel® Extension for PyTorch* ",
   "license": null,
   "first_seen": "2026-11-01 23:05:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/xvec",
-  "url": "https://github.com/intel/xvec",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": "C++",
-  "description": "Extensible Vectorization Library (xvec)",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -5986,6 +5975,17 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/ros2_moving_object",
+  "url": "https://github.com/intel/ros2_moving_object",
+  "sec_path": "error",
+  "stars": 6,
+  "language": "C++",
+  "description": "",
+  "first_seen": "2026-11-01 21:54:54"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/pt-visualizer",
   "url": "https://github.com/intel/pt-visualizer",
   "sec_path": "error",
@@ -6025,6 +6025,17 @@
   "sec_path": "SECURITY.md",
   "stars": 5,
   "language": "OCaml",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/simics",
+  "url": "https://github.com/intel/simics",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": null,
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
@@ -6783,33 +6794,11 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/gh-contrib-scraper-report-gen",
-  "url": "https://github.com/intel/gh-contrib-scraper-report-gen",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": "Python",
-  "description": "A tool to download all commits made by a GitHub user across specified repositories within a date range using GitHub API. Additionally, it can fetch commits made…",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/SVS-Extension-for-PostgreSQL",
   "url": "https://github.com/intel/SVS-Extension-for-PostgreSQL",
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "Perl",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/simics",
-  "url": "https://github.com/intel/simics",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": null,
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
@@ -6865,6 +6854,17 @@
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "C++",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/security-center",
+  "url": "https://github.com/intel/security-center",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": null,
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
@@ -7329,6 +7329,40 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/full-system-monitoring",
+  "url": "https://github.com/intel/full-system-monitoring",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": null,
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-04 07:37:20"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/gh-contrib-scraper-report-gen",
+  "url": "https://github.com/intel/gh-contrib-scraper-report-gen",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "A tool to download all commits made by a GitHub user across specified repositories within a date range using GitHub API. Additionally, it can fetch commits made…",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/simics-vs-code-tcf-debug",
+  "url": "https://github.com/intel/simics-vs-code-tcf-debug",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/ddd-aes",
   "url": "https://github.com/intel/ddd-aes",
   "sec_path": "SECURITY.md",
@@ -7342,17 +7376,6 @@
   "org": "intel",
   "full_name": "intel/llvm-ci-perf-results",
   "url": "https://github.com/intel/llvm-ci-perf-results",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/security-center",
-  "url": "https://github.com/intel/security-center",
   "sec_path": "SECURITY.md",
   "stars": 2,
   "language": null,
@@ -7916,34 +7939,11 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/full-system-monitoring",
-  "url": "https://github.com/intel/full-system-monitoring",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": null,
-  "description": "",
-  "license": null,
-  "first_seen": "2026-11-04 07:37:20"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/torch-tweak",
   "url": "https://github.com/intel/torch-tweak",
   "sec_path": "SECURITY.md",
   "stars": 1,
   "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/simics-vs-code-tcf-debug",
-  "url": "https://github.com/intel/simics-vs-code-tcf-debug",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "TypeScript",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
@@ -8865,6 +8865,18 @@
   "description": "AI Starter Kit for Predictive Asset Maintenance using Intel® optimized version of XGBoost",
   "license": null,
   "first_seen": "2026-11-01 23:05:44"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/go-ov",
+  "url": "https://github.com/intel/go-ov",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Go",
+  "description": "A lightweight OpenVino client library for Go applications.",
+  "license": null,
+  "first_seen": "2026-11-13 13:33:59"
  },
  {
   "vendor": "Intel",
