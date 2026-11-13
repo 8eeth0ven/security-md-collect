@@ -1,0 +1,268 @@
+.apk-hero {
+  min-height: 345px;
+}
+.apk-hero h1 {
+  font-size: clamp(28px, 2.5vw, 39px);
+}
+.apk-hero .hero-actions {
+  flex-wrap: wrap;
+  align-items: center;
+}
+.device-card {
+  width: 160px;
+  height: 247px;
+  border: 1px solid var(--art-line);
+  border-radius: 22px;
+  background: linear-gradient(140deg, var(--art-start), var(--art-end));
+  padding: 13px 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: rotate(-8deg);
+  box-shadow: 0 18px 48px var(--shadow);
+}
+.device-camera {
+  width: 45px;
+  height: 7px;
+  border-radius: 6px;
+  background: var(--art-code);
+}
+.apk-glyph {
+  font: 24px monospace;
+  margin: 35px 0 12px;
+  color: var(--accent);
+}
+.device-card b {
+  font-size: 16px;
+  font-weight: 500;
+}
+.device-card code {
+  font-size: 10px;
+  color: var(--muted);
+  margin-top: 7px;
+}
+.device-line {
+  width: 70px;
+  height: 3px;
+  border-radius: 5px;
+  background: var(--art-code);
+  margin-top: auto;
+}
+.device-card > span {
+  font: 6px monospace;
+  color: var(--muted);
+  margin: 14px 0 7px;
+  letter-spacing: 0.5px;
+}
+.platform-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.platform-card {
+  text-align: left;
+  white-space: normal;
+  padding: 14px 16px;
+  background: var(--surface);
+}
+.platform-card b {
+  display: block;
+  font:
+    500 11px "Segoe UI",
+    sans-serif;
+}
+.platform-card strong {
+  font-size: 23px;
+  font-weight: 400;
+  display: block;
+  margin: 5px 0;
+}
+.platform-card > span {
+  color: var(--muted);
+  font-size: 9px;
+  display: block;
+}
+.platform-card[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: var(--active-bg);
+}
+#apk-table {
+  min-width: 660px;
+}
+#apk-table th:nth-child(1) {
+  width: 27%;
+}
+#apk-table th:nth-child(2) {
+  width: 35%;
+}
+#apk-table th:nth-child(3) {
+  width: 16%;
+}
+#apk-table th:nth-child(4) {
+  width: 22%;
+}
+#apk-table td {
+  vertical-align: top;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+.program-link,
+#apk-results td:first-child > a {
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.8;
+}
+.apk-meta {
+  margin-top: 6px;
+  font-size: 10px;
+  color: var(--muted);
+  line-height: 1.8;
+}
+.target-text {
+  font-size: 11px;
+  color: var(--secondary-text);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.8;
+}
+.package {
+  font:
+    10px/1.8 "Cascadia Code",
+    Consolas,
+    monospace;
+  display: block;
+  color: var(--text);
+  overflow-wrap: anywhere;
+  margin-top: 5px;
+}
+.reward-badge {
+  font-size: 9px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 3px 5px;
+  display: inline-block;
+  color: var(--secondary-text);
+}
+.apk-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.apk-links a {
+  color: var(--accent);
+  font-size: 9px;
+  padding: 3px 7px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--surface);
+}
+.apk-links a:hover {
+  border-color: var(--accent);
+}
+.apk-links .mirror {
+  color: var(--muted);
+}
+.apk-review {
+  font-size: 9px;
+  color: var(--muted);
+  display: block;
+  margin-top: 4px;
+}
+.apk-explainer {
+  margin-top: 40px;
+  border-top: 1px solid var(--line);
+  padding-top: 22px;
+}
+.apk-explainer p {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.9;
+}
+.apk-explainer summary > span {
+  color: var(--accent);
+}
+@media (max-width: 900px) {
+  .apk-page .sidebar .nav-item.active {
+    display: flex;
+  }
+}
+@media (max-width: 600px) {
+  .apk-hero {
+    min-height: 0;
+  }
+  .apk-hero h1 {
+    font-size: 29px;
+  }
+  .apk-hero .hero-actions > .text-link {
+    width: 100%;
+    margin-top: 4px;
+  }
+  .platform-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .platform-card {
+    padding: 12px;
+  }
+  .platform-card strong {
+    font-size: 21px;
+  }
+  .platform-card b {
+    font-size: 10px;
+  }
+  .platform-card > span {
+    font-size: 8px;
+  }
+  #apk-table {
+    min-width: 0;
+  }
+  #apk-table th:nth-child(1) {
+    width: 31%;
+  }
+  #apk-table th:nth-child(2) {
+    width: 42%;
+  }
+  #apk-table th:nth-child(4) {
+    width: 27%;
+  }
+  #apk-table th:nth-child(4),
+  #apk-table td:nth-child(4) {
+    display: table-cell;
+  }
+  #apk-table th:nth-child(3),
+  #apk-table td:nth-child(3) {
+    display: none;
+  }
+  #apk-table td {
+    padding: 12px 8px;
+  }
+  .program-link,
+  #apk-results td:first-child > a {
+    font-size: 10px;
+  }
+  .apk-meta,
+  .target-text {
+    font-size: 9px;
+  }
+  .package {
+    font-size: 9px;
+  }
+  .apk-links {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .apk-links a {
+    font-size: 8px;
+    padding: 3px 5px;
+  }
+  .apk-review {
+    font-size: 8px;
+  }
+  .apk-page .sidebar .nav-item.active {
+    display: none;
+  }
+}

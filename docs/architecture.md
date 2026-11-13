@@ -53,6 +53,16 @@ GitHub Pages 选择 `main` 的根目录。页面源码、`web/`、`索引/dashbo
 
 已有独立采集目录时，`脚本/sync_github.py` 按白名单复制公开快照，不拷贝页面、脚本、配置、凭据和运行状态。发布时先确认工作区干净，再 fast-forward 拉取目标分支，使用目标仓库自己的生成器重建，最后只提交公开数据。原来从采集目录覆盖代码的同步器必须迁移，否则可能撤回后续 UI 改动。文件未变则不重复复制；同步不删除源端已移除的历史文件。
 
+## Android APK 目录
+
+`脚本/build_apk_board.py` 读取四份原始平台 JSON，输出 `赏金APK/dashboard.json`、CSV、分类说明和静态页面。页面模板为 `脚本/apk_dashboard.html`，交互为 `web/apk-board.js`；与主页共享明亮 / 深色主题、语言偏好和基础样式。`build_dashboard.py` 在每轮数据发布后调用该生成器，因此旧采集机的 HTML 不会覆盖发布仓库的新版界面。
+
+首屏静态输出前 25 条有赏金记录，完整 JSON 加载后再接管筛选、排序与分页；加载失败时保留首屏清单。Google Play、来源 APK 与第三方镜像候选分别标注，所有候选 `download_verified=false`。无效包名不会生成镜像候选。HackerOne 同时检查计划赏金、目标赏金资格、归档和接收状态，避免把公开 VDP 混作有赏金项目。
+
+独立原始数据目录可用 `python 脚本/build_apk_board.py --base /path/to/data --source /path/to/raw` 更新；该命令只复制公开快照，不访问目标、不下载 APK。`snapshot.json` 的时间是快照整理时间，非上游实时验证时间。
+
+参考：[ProjectDiscovery public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs)、[bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data)、[EFF apkeep](https://github.com/EFForg/apkeep)。
+
 ## 本轮参考
 
 调研确认这轮使用的是已有常见做法，不宣称原创功能：

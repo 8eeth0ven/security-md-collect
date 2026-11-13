@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="四大平台公开 Android 目标目录：赏金状态、包名、Google Play 与 APK 镜像候选入口。"
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="color-scheme" content="light dark" />
+    <script src="../web/theme.js?v=20261113-apk"></script>
+    <title>Android APK 目录 · SECURITY.md Collect</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="../web/mark.svg?v=20261113-apk"
+    />
+    <link rel="stylesheet" href="../web/dashboard.css?v=20261113-apk" />
+    <link rel="stylesheet" href="../web/apk-board.css?v=20261113-apk" />
+    <script src="../web/apk-board.js?v=20261113-apk" defer></script>
+  </head>
+  <body class="apk-page">
+    <a class="skip-link" href="#apk-catalog" data-i18n="skip">跳到应用目录</a>
+    <aside class="sidebar">
+      <a class="brand" href="../index.html"
+        ><img src="../web/mark.svg" width="36" height="36" alt="" /><span
+          >SECURITY.md<small>COLLECT / 开源安全索引</small></span
+        ></a
+      >
+      <div class="nav-caption" data-i18n="explore">探索数据</div>
+      <nav aria-label="Main navigation">
+        <a class="nav-item" href="../index.html#catalog"
+          ><span aria-hidden="true">▦</span
+          ><span data-i18n="policies">策略仓库</span></a
+        >
+        <a class="nav-item" href="../index.html#vendors"
+          ><span aria-hidden="true">◇</span
+          ><span data-i18n="vendors">厂商目录</span></a
+        >
+        <a class="nav-item active" href="#apk-catalog"
+          ><span aria-hidden="true">▤</span
+          ><span data-i18n="navDirectory">赏金 APK 目录</span
+          ><span class="nav-pill">@@TOTAL@@</span></a
+        >
+      </nav>
+      <div class="nav-caption" data-i18n="resources">项目资源</div>
+      <nav aria-label="Project resources">
+        <a
+          class="nav-item"
+          href="https://github.com/8eeth0ven/security-md-collect/tree/main/赏金APK"
+          ><span aria-hidden="true">≡</span
+          ><span data-i18n="guide">分类说明与源数据</span
+          ><span class="outbound">↗</span></a
+        >
+        <a
+          class="nav-item"
+          href="https://github.com/8eeth0ven/security-md-collect"
+          ><span aria-hidden="true">⌘</span><span>GitHub</span
+          ><span class="outbound">↗</span></a
+        >
+      </nav>
+      <div class="sidebar-note">
+        <span class="status-dot"></span
+        ><b data-i18n="public">公开快照，来源可追溯</b>
+        <p data-i18n="sideNote">
+          从项目官方范围与应用标识出发，找到合适的获取入口。
+        </p>
+        <a href="../index.html" data-i18n="home">返回项目首页 ↗</a>
+      </div>
+      <div class="sidebar-bottom">ANDROID · PUBLIC PROGRAMS</div>
+    </aside>
+    <div class="page">
+      <header class="topbar">
+        <div class="breadcrumb">
+          <span>COLLECTION</span><span>/</span><b>ANDROID</b>
+        </div>
+        <div class="top-actions">
+          <span class="public-label"
+            ><span class="status-dot"></span>PUBLIC INDEX</span
+          ><label class="theme-control"
+            ><span data-i18n="appearance">外观</span
+            ><select id="theme-select" aria-label="外观 / Appearance">
+              <option value="light" data-i18n="light">明亮</option>
+              <option value="dark" data-i18n="dark">深色</option>
+              <option value="system" data-i18n="system">跟随系统</option>
+            </select></label
+          ><button id="langbtn" type="button" aria-label="Switch to English">
+            EN / 中文
+          </button>
+        </div>
+      </header>
+      <main>
+        <section class="hero apk-hero">
+          <div class="hero-copy">
+            <div class="eyebrow">
+              <span class="line"></span> ANDROID APP DIRECTORY
+            </div>
+            <h1 data-i18n="headline">
+              从公开目标，<br /><span>找到 Android 应用入口。</span>
+            </h1>
+            <p data-i18n="intro">
+              汇集四大平台的公开 Android 目标。<br />查赏金状态、找包名，直达项目、Play
+              与镜像候选。
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#apk-catalog"
+                ><span data-i18n="browse">浏览有赏金目标</span><span>↓</span></a
+              ><a class="button secondary" href="./dashboard.csv" download
+                ><span data-i18n="csv">下载全量 CSV</span><span>↗</span></a
+              ><a class="text-link" href="../index.html" data-i18n="home"
+                >返回项目首页 ↗</a
+              >
+            </div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="art-grid"></div>
+            <div class="orbit orbit-one"></div>
+            <div class="device-card">
+              <div class="device-camera"></div>
+              <div class="apk-glyph">.apk</div>
+              <b>Android</b><code>package.name</code>
+              <div class="device-line"></div>
+              <span>PLAY / SOURCE / MIRROR</span>
+            </div>
+            <span class="art-tag tag-one">4 public platforms</span>
+          </div>
+        </section>
+        <section class="metrics" aria-label="APK snapshot statistics">
+          <article>
+            <div>
+              <span data-i18n="totalLabel">公开目标条目</span
+              ><span class="metric-icon">▤</span>
+            </div>
+            <strong>@@TOTAL@@</strong
+            ><small data-i18n="totalHint">包含多平台与同包名重复目标</small>
+          </article>
+          <article>
+            <div>
+              <span data-i18n="cashLabel">有赏金目标</span
+              ><span class="metric-icon">↗</span>
+            </div>
+            <strong id="cash-count">@@CASH@@</strong
+            ><small data-i18n="cashHint">根据快照中的明确赏金字段</small>
+          </article>
+          <article>
+            <div>
+              <span data-i18n="packageLabel">有包名的目标</span
+              ><span class="metric-icon">⌘</span>
+            </div>
+            <strong>@@PACKAGES@@</strong
+            ><small data-i18n="packageHint">可查看 Play 与镜像候选入口</small>
+          </article>
+          <article>
+            <div>
+              <span data-i18n="programLabel">公开项目</span
+              ><span class="metric-icon">◇</span>
+            </div>
+            <strong>@@PROGRAMS@@</strong
+            ><small data-i18n="programHint">按平台与项目页面去重</small>
+          </article>
+        </section>
+        <div class="scope-note">
+          <span class="note-icon">i</span
+          ><span data-i18n="scope"
+            >镜像地址仅为候选，未验证可下载；赏金与范围以项目当前官方规则为准。</span
+          >
+        </div>
+        <section id="apk-catalog" aria-labelledby="apk-title">
+          <div class="section-heading">
+            <div>
+              <div class="eyebrow">APK EXPLORER</div>
+              <h2 id="apk-title" data-i18n="directory">Android 应用目录</h2>
+            </div>
+            <a class="text-link" href="./dashboard.json" data-i18n="json"
+              >获取 JSON 数据 ↗</a
+            >
+          </div>
+          <div class="platform-grid" id="platforms">@@PLATFORMS@@</div>
+          <div class="filter-panel">
+            <label class="search"
+              ><span aria-hidden="true">⌕</span
+              ><input
+                id="apk-q"
+                type="search"
+                placeholder="搜索项目、Android 目标或包名…"
+                aria-label="搜索项目、Android 目标或包名"
+              /><kbd>/</kbd></label
+            >
+            <div class="filter-row">
+              <label
+                ><span data-i18n="platform">平台</span
+                ><select id="apk-platform" aria-label="平台">
+                  <option value="" data-i18n="allPlatforms">全部平台</option>
+                  <option value="h1">HackerOne</option>
+                  <option value="intigriti">Intigriti</option>
+                  <option value="bugcrowd">Bugcrowd</option>
+                  <option value="ywh">YesWeHack</option>
+                </select></label
+              ><label
+                ><span data-i18n="reward">赏金</span
+                ><select id="apk-bounty" aria-label="赏金">
+                  <option value="cash" data-i18n="cash">有赏金</option>
+                  <option value="all" data-i18n="allRewards">全部状态</option>
+                  <option value="vdp" data-i18n="vdp">VDP / 无赏金</option>
+                  <option value="points" data-i18n="points">积分</option>
+                  <option value="unknown" data-i18n="unknown">待确认</option>
+                  <option value="inactive" data-i18n="inactive">
+                    已归档 / 不接收
+                  </option>
+                </select></label
+              ><label
+                ><span data-i18n="entry">入口</span
+                ><select id="apk-access" aria-label="应用入口">
+                  <option value="" data-i18n="allEntries">全部入口状态</option>
+                  <option value="with" data-i18n="withEntry">有应用入口</option>
+                  <option value="missing" data-i18n="missingEntry">
+                    仅项目页 / 待补包名
+                  </option>
+                  <option value="review" data-i18n="review">包名待核对</option>
+                </select></label
+              ><button
+                class="reset"
+                id="apk-reset"
+                type="button"
+                data-i18n="reset"
+              >
+                重置筛选
+              </button>
+            </div>
+          </div>
+          <div class="results-bar">
+            <span
+              id="apk-count"
+              role="status"
+              aria-live="polite"
+              data-i18n="loading"
+              >首屏已展示前 25 条有赏金记录，正在加载完整数据…</span
+            ><label class="page-size"
+              ><span data-i18n="perPage">每页</span
+              ><select id="apk-size" aria-label="每页条数">
+                <option>25</option>
+                <option>50</option>
+                <option>100</option>
+              </select></label
+            >
+          </div>
+          <div class="error-panel" id="apk-error" hidden>
+            <b data-i18n="errorTitle">完整数据暂时无法加载</b>
+            <p data-i18n="errorBody">
+              下方保留首屏快照，也可下载全量 CSV 或重试。
+            </p>
+            <button id="apk-retry" type="button" data-i18n="retry">
+              重新加载
+            </button>
+          </div>
+          <div class="table-wrap">
+            <table id="apk-table">
+              <thead>
+                <tr>
+                  <th>
+                    <button id="apk-sort" type="button" data-i18n="program">
+                      项目 / 平台 ↕
+                    </button>
+                  </th>
+                  <th data-i18n="target">Android 目标 / 包名</th>
+                  <th class="bounty-column" data-i18n="reward">赏金</th>
+                  <th data-i18n="links">应用入口</th>
+                </tr>
+              </thead>
+              <tbody id="apk-results">
+                @@ROWS@@
+              </tbody>
+            </table>
+          </div>
+          <div class="pagination">
+            <span id="apk-page-info"></span>
+            <div>
+              <button id="apk-first" type="button" data-i18n="first" disabled>
+                首页</button
+              ><button id="apk-prev" type="button" data-i18n="prev" disabled>
+                上一页</button
+              ><span id="apk-page-number">—</span
+              ><button id="apk-next" type="button" data-i18n="next" disabled>
+                下一页</button
+              ><button id="apk-last" type="button" data-i18n="last" disabled>
+                末页
+              </button>
+            </div>
+          </div>
+        </section>
+        <details class="apk-explainer">
+          <summary>
+            <h2 data-i18n="notes">数据说明</h2>
+            <span data-i18n="expand">展开 / 收起 +</span>
+          </summary>
+          <p data-i18n="notesBody">
+            有包名不等于已验证应用归属；人工映射条目需先核对官方项目与 Play
+            页面。第三方镜像可能需要代理或已失效，XAPK 也不等于单个 APK 文件。
+          </p>
+          <p>
+            <span data-i18n="generated">快照整理时间：</span
+            ><time>@@TIME@@</time><span data-i18n="notLive"> · 非实时检测</span>
+          </p>
+          <a
+            class="text-link"
+            href="https://github.com/8eeth0ven/security-md-collect/tree/main/赏金APK"
+            data-i18n="source"
+            >阅读源数据与分类说明 ↗</a
+          >
+        </details>
+        <footer>
+          <a class="footer-brand" href="../index.html"
+            >SECURITY.md <span>COLLECT</span></a
+          ><span data-i18n="footer"
+            >公开 Android 目标索引 · 以官方当前政策为准</span
+          ><a
+            href="https://github.com/8eeth0ven/security-md-collect"
+            data-i18n="contribute"
+            >参与维护 ↗</a
+          >
+        </footer>
+        <noscript
+          ><p>
+            JavaScript 已关闭，以上展示前 25 条有赏金快照。<a
+              href="./dashboard.csv"
+              >下载完整 CSV</a
+            >
+            或 <a href="./dashboard.json">JSON 数据</a>。
+          </p></noscript
+        >
+      </main>
+    </div>
+  </body>
+</html>

@@ -38,6 +38,7 @@ python 脚本/serve.py
 ```bash
 python -m playwright install chromium
 python tests/browser_checks.py
+python tests/apk_browser_checks.py
 ```
 
 测试仅使用本地快照，不调用收集器、不扫描外部目标。检查手机宽度、中英文切换、空结果、分页、排序、数据加载失败，以及 `/security-md-collect/` 子路径的链接。新增行为请补对应的回归用例。

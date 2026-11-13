@@ -2,7 +2,7 @@
 
 ![SECURITY.md Collect — 从开源项目，找到安全上报入口](docs/assets/cover.svg)
 
-**国内外厂商开源仓库的安全策略索引。搜索项目，阅读原文，找到披露入口。**
+**公开安全策略与 Android 目标索引。搜索项目，阅读原文，查找应用入口。**
 
 [在线探索](https://8eeth0ven.github.io/security-md-collect/) · [下载 CSV](索引/总表.csv) · [JSON 数据](索引/dashboard.json) · [赏金 APK](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html) · [参与维护](CONTRIBUTING.md)
 
@@ -11,6 +11,8 @@
 ![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-f3f3f3?style=flat-square&labelColor=212121)
 
 </div>
+
+这里有两个在线入口：[开源 SECURITY.md 策略看板](https://8eeth0ven.github.io/security-md-collect/)和 [Android APK 与赏金项目目录](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html)。APK 目录覆盖四个平台的公开快照，支持赏金状态、平台与应用入口筛选，默认优先显示有赏金记录。
 
 ## 先看效果
 
@@ -31,7 +33,22 @@
 <img src="docs/assets/dashboard-mobile-dark.png" alt="390px 宽度的深色手机端看板" width="340">
 </details>
 
-截图是 **2026-11-13 的数据快照**，其中有 9,503 条有效仓库记录、243 个厂商和 306 个 GitHub 组织；最新数量与时间以[在线统计](https://8eeth0ven.github.io/security-md-collect/索引/统计.json)为准。历史上误计入的 908 条网络错误记录已移入[待重试清单](索引/retry-candidates.json)，保留元数据以便追溯；它们不再计入安全策略仓库数。后续记录若暂缺本地原文，则仅显示 GitHub 来源入口。
+截图是 **2026-11-13 的数据快照**；最新数量与时间以[在线统计](https://8eeth0ven.github.io/security-md-collect/索引/统计.json)为准。历史上误计入的 908 条网络错误记录已移入[待重试清单](索引/retry-candidates.json)，保留元数据以便追溯；它们不再计入安全策略仓库数。后续记录若暂缺本地原文，则仅显示 GitHub 来源入口。
+
+### Android APK 与赏金项目目录
+
+![Android 目标目录：平台与赏金状态筛选、包名、Play 与镜像候选入口](docs/assets/apk-desktop.png)
+
+[在线打开目录](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html) · [分类说明](赏金APK/README.md) · [下载 APK 目标 CSV](赏金APK/dashboard.csv)
+
+<details>
+<summary>查看 APK 目录深色与手机截图</summary>
+
+![APK 目录深色主题](docs/assets/apk-dark.png)
+<img src="docs/assets/apk-mobile.png" alt="APK 目录手机端" width="390">
+</details>
+
+目录保留全部公开元数据，并明确区分有赏金、VDP、积分、未知和已归档状态。APKPure 地址标为镜像候选，未验证可下载；无包名的目标仍保留官方项目入口。首屏提供静态清单，关闭 JavaScript 也能阅读前 25 条有赏金记录。
 
 ## 能做什么
 
@@ -148,6 +165,8 @@ python 脚本/sync_github.py --base /path/to/data --repo /path/to/checkout --pus
 ├── 脚本/
 │   ├── collect.py             增量采集与输出
 │   ├── build_dashboard.py     从公开快照重建页面
+│   ├── build_apk_board.py     规范化四平台 Android 快照，输出清单与 CSV/JSON
+│   ├── apk_dashboard.html     Android 目录模板
 │   ├── repair_snapshots.py    隔离历史网络失败误收录，保留待重试元数据
 │   ├── dashboard.html         页面模板（改这里，再重建）
 │   ├── serve.py               本地公开数据服务
@@ -163,6 +182,7 @@ python -m pip install -r requirements-dev.txt
 python -m unittest discover -s tests -v
 python -m playwright install chromium
 python tests/browser_checks.py
+python tests/apk_browser_checks.py
 ```
 
 ## 来源与使用

@@ -17,6 +17,10 @@
       themeSystem: "跟随系统",
       themeLight: "明亮",
       themeDark: "深色",
+      apkFeatureTitle: "Android APK 与赏金项目目录",
+      apkFeatureIntro:
+        "四大平台公开目标、赏金状态、包名与应用获取入口，一处查找。",
+      apkFeatureOpen: "打开 APK 目录 ↗",
       headline: "从开源项目，<br><span>找到安全上报入口。</span>",
       intro:
         "聚合国内外厂商的 SECURITY.md 安全策略。<br>搜索仓库、阅读原文，让每一次研究都有据可循。",
@@ -83,6 +87,10 @@
       themeSystem: "System",
       themeLight: "Light",
       themeDark: "Dark",
+      apkFeatureTitle: "Android apps & bounty programs",
+      apkFeatureIntro:
+        "Public targets, bounty status, package IDs and acquisition links from four platforms.",
+      apkFeatureOpen: "Open app directory ↗",
       headline: "Open-source projects.<br><span>Clear reporting paths.</span>",
       intro:
         "Explore SECURITY.md policies from companies and communities.<br>Find a repository. Read the policy. Start with the source.",

@@ -1410,6 +1410,47 @@ footer > a:last-child {
   font-size: 10px;
   color: var(--muted);
 }
+.feature-callout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 22px 24px;
+  margin: -10px 0 38px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--surface);
+}
+.feature-callout:hover {
+  border-color: var(--border-strong);
+}
+.feature-callout h2 {
+  font-size: 19px;
+  color: var(--text);
+}
+.feature-callout p {
+  font-size: 11px;
+  color: var(--muted);
+  margin: 8px 0 0;
+}
+.feature-callout .button {
+  flex-shrink: 0;
+}
+@media (max-width: 600px) {
+  .feature-callout {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 14px;
+    padding: 18px;
+    margin: 0 0 28px;
+  }
+  .feature-callout h2 {
+    font-size: 17px;
+  }
+  .feature-callout p {
+    font-size: 10px;
+  }
+}
 .theme-control select {
   font-size: 10px;
   padding: 5px 8px;

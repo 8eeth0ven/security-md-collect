@@ -64,6 +64,9 @@ def build_dashboard(base, stats=None, records=None):
     if source != base:
         shutil.copytree(source / 'web', base / 'web', dirs_exist_ok=True)
     atomic_text(base / 'index.html', template)
+    # Keep the APK page on the same release's templates after every data sync.
+    from build_apk_board import build_apk_board
+    build_apk_board(base)
     # Old local bookmarks keep working, while every asset resolves from the project root.
     atomic_text(base / '索引/index.html', '<!doctype html><html lang="zh-CN"><meta charset="utf-8">'
                 '<meta http-equiv="refresh" content="0;url=../index.html">'
