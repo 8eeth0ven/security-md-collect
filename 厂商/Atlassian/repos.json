@@ -5,7 +5,7 @@
   "full_name": "atlassian/atlassian-mcp-server",
   "url": "https://github.com/atlassian/atlassian-mcp-server",
   "sec_path": "SECURITY.md",
-  "stars": 1146,
+  "stars": 1157,
   "language": "JavaScript",
   "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code…",
   "first_seen": "2026-11-01 18:10:46"
@@ -16,7 +16,7 @@
   "full_name": "atlassian-labs/prosemirror-kotlin",
   "url": "https://github.com/atlassian-labs/prosemirror-kotlin",
   "sec_path": "SECURITY.md",
-  "stars": 42,
+  "stars": 43,
   "language": "Kotlin",
   "description": "Kotlin implementation of Prosemirror",
   "first_seen": "2026-11-01 18:12:40"
@@ -27,7 +27,7 @@
   "full_name": "atlassian/twg-cli",
   "url": "https://github.com/atlassian/twg-cli",
   "sec_path": "SECURITY.md",
-  "stars": 29,
+  "stars": 32,
   "language": "JavaScript",
   "description": "Public home for Atlassian Teamwork Graph CLI users, release notes, issue tracking, agent skills, and marketplace plugin integration notes.",
   "first_seen": "2026-11-01 18:10:46"
@@ -38,7 +38,7 @@
   "full_name": "atlassian-labs/roving-office",
   "url": "https://github.com/atlassian-labs/roving-office",
   "sec_path": "SECURITY.md",
-  "stars": 12,
+  "stars": 16,
   "language": "JavaScript",
   "description": "An office full of characters, and the characters are your AI agents. A soft-3D isometric room that renders live agent sessions as people who walk in, sit down, …",
   "first_seen": "2026-11-01 18:12:40"
@@ -67,6 +67,18 @@
  },
  {
   "vendor": "Atlassian",
+  "org": "atlassian-labs",
+  "full_name": "atlassian-labs/chippy",
+  "url": "https://github.com/atlassian-labs/chippy",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "JavaScript",
+  "description": "Reacts best mate for agentic development ",
+  "license": null,
+  "first_seen": "2026-11-13 12:02:31"
+ },
+ {
+  "vendor": "Atlassian",
   "org": "atlassian",
   "full_name": "atlassian/kubernetes",
   "url": "https://github.com/atlassian/kubernetes",
@@ -82,7 +94,7 @@
   "full_name": "atlassian-labs/data-visualization-skill",
   "url": "https://github.com/atlassian-labs/data-visualization-skill",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 1,
   "language": "Python",
   "description": "Data Visualization Skill based on plotly",
   "first_seen": "2026-11-01 18:12:40"
@@ -95,7 +107,7 @@
   "sec_path": "SECURITY.md",
   "stars": 0,
   "language": "JavaScript",
-  "description": "Jira plugin for Claude Code and Codex: read, create and work on Jira work items from your coding agent. (Early access )",
+  "description": "Early-access Atlassian plugins for Claude Code and Codex",
   "license": null,
   "first_seen": "2026-11-04 04:03:55"
  }

@@ -38,7 +38,7 @@
   "full_name": "arm/metis",
   "url": "https://github.com/arm/metis",
   "sec_path": "SECURITY.md",
-  "stars": 889,
+  "stars": 892,
   "language": "Python",
   "description": "Metis is an open-source, AI-driven tool for deep security code review",
   "first_seen": "2026-11-01 18:09:23"
@@ -56,6 +56,17 @@
  },
  {
   "vendor": "ARM",
+  "org": "arm",
+  "full_name": "arm/arm-toolchain",
+  "url": "https://github.com/arm/arm-toolchain",
+  "sec_path": "SECURITY.md",
+  "stars": 265,
+  "language": "LLVM",
+  "description": "A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.",
+  "first_seen": "2026-11-01 18:09:23"
+ },
+ {
+  "vendor": "ARM",
   "org": "ARM-software",
   "full_name": "ARM-software/SCP-firmware",
   "url": "https://github.com/ARM-software/SCP-firmware",
@@ -64,17 +75,6 @@
   "language": "C",
   "description": "This System Control Processor (SCP) firmware repository is no longer used and has been set to Read-only for archiving purposes. Please refer to the following ac…",
   "first_seen": "2026-11-01 16:16:44"
- },
- {
-  "vendor": "ARM",
-  "org": "arm",
-  "full_name": "arm/arm-toolchain",
-  "url": "https://github.com/arm/arm-toolchain",
-  "sec_path": "SECURITY.md",
-  "stars": 261,
-  "language": "LLVM",
-  "description": "A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.",
-  "first_seen": "2026-11-01 18:09:23"
  },
  {
   "vendor": "ARM",
@@ -104,7 +104,7 @@
   "full_name": "arm/accuracy-super-resolution",
   "url": "https://github.com/arm/accuracy-super-resolution",
   "sec_path": "SECURITY.md",
-  "stars": 113,
+  "stars": 114,
   "language": null,
   "description": "Arm® Accuracy Super Resolution™",
   "first_seen": "2026-11-01 18:09:23"
@@ -126,7 +126,7 @@
   "full_name": "arm/neural-graphics-model-gym",
   "url": "https://github.com/arm/neural-graphics-model-gym",
   "sec_path": "SECURITY.md",
-  "stars": 88,
+  "stars": 90,
   "language": "Python",
   "description": "Neural Graphics Model Gym is a Python® toolkit for developing real-time Neural Graphics machine learning models.",
   "first_seen": "2026-11-01 18:09:23"
@@ -192,7 +192,7 @@
   "full_name": "arm/ai-ml-emulation-layer-for-vulkan",
   "url": "https://github.com/arm/ai-ml-emulation-layer-for-vulkan",
   "sec_path": "SECURITY.md",
-  "stars": 33,
+  "stars": 34,
   "language": "C++",
   "description": "The ML Emulation Layer for Vulkan® provides an implementation of the ML APIs enabling ML workloads to be executed on any Vulkan® Compute capable device.",
   "first_seen": "2026-11-01 18:09:23"
@@ -203,7 +203,7 @@
   "full_name": "arm/ai-ml-sdk-for-vulkan",
   "url": "https://github.com/arm/ai-ml-sdk-for-vulkan",
   "sec_path": "SECURITY.md",
-  "stars": 29,
+  "stars": 30,
   "language": "Python",
   "description": "The ML SDK for Vulkan® is an SDK to facilitate the development of projects using the ML extensions for Vulkan®. This repository contains scripts to facilitate b…",
   "first_seen": "2026-11-01 18:09:23"
@@ -225,7 +225,7 @@
   "full_name": "arm/performix",
   "url": "https://github.com/arm/performix",
   "sec_path": "SECURITY.md",
-  "stars": 23,
+  "stars": 24,
   "language": "Go",
   "description": "Arm Performix",
   "first_seen": "2026-11-01 18:09:23"
@@ -357,20 +357,9 @@
   "full_name": "arm/mlia",
   "url": "https://github.com/arm/mlia",
   "sec_path": "SECURITY.md",
-  "stars": 8,
+  "stars": 9,
   "language": "Python",
   "description": "Machine Learning Inference Advisor.",
-  "first_seen": "2026-11-01 18:09:23"
- },
- {
-  "vendor": "ARM",
-  "org": "arm",
-  "full_name": "arm/ai-ml-sdk-manifest",
-  "url": "https://github.com/arm/ai-ml-sdk-manifest",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": null,
-  "description": "This repository contains the xml manifest describing how to checkout all the ML SDK for Vulkan® software plus all its dependencies.",
   "first_seen": "2026-11-01 18:09:23"
  },
  {
@@ -382,6 +371,17 @@
   "stars": 7,
   "language": "Python",
   "description": "VGF Adapter for model-explorer that enables visualization of VGF files from the Arm ML SDK for Vulkan®.",
+  "first_seen": "2026-11-01 18:09:23"
+ },
+ {
+  "vendor": "ARM",
+  "org": "arm",
+  "full_name": "arm/ai-ml-sdk-manifest",
+  "url": "https://github.com/arm/ai-ml-sdk-manifest",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": null,
+  "description": "This repository contains the xml manifest describing how to checkout all the ML SDK for Vulkan® software plus all its dependencies.",
   "first_seen": "2026-11-01 18:09:23"
  },
  {
@@ -401,7 +401,7 @@
   "full_name": "arm/tosa-adapter-model-explorer",
   "url": "https://github.com/arm/tosa-adapter-model-explorer",
   "sec_path": "SECURITY.md",
-  "stars": 5,
+  "stars": 6,
   "language": "Python",
   "description": "TOSA Adapter for model-explorer that enables visualization of TOSA Flatbuffer files.",
   "first_seen": "2026-11-01 18:09:23"
@@ -412,7 +412,7 @@
   "full_name": "arm/neural-graphics-data-capture-for-unreal",
   "url": "https://github.com/arm/neural-graphics-data-capture-for-unreal",
   "sec_path": "SECURITY.md",
-  "stars": 5,
+  "stars": 6,
   "language": "C++",
   "description": "Capture datasets for developing Neural Graphics machine learning models.",
   "first_seen": "2026-11-01 18:09:23"
@@ -491,7 +491,7 @@
   "sec_path": "SECURITY.md",
   "stars": 1,
   "language": "Rust",
-  "description": "",
+  "description": "Build edge and physical AI applications on Arm Linux with composable, containerized camera, perception, and messaging services and Rust and Python APIs.",
   "first_seen": "2026-11-01 18:09:23"
  },
  {

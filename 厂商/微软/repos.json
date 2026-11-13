@@ -3363,7 +3363,7 @@
   "full_name": "aspnet/AspNetKatana",
   "url": "https://github.com/aspnet/AspNetKatana",
   "sec_path": "SECURITY.md",
-  "stars": 991,
+  "stars": 990,
   "language": "C#",
   "description": "Microsoft's OWIN implementation, the Katana project",
   "first_seen": "2026-11-01 18:09:57"
@@ -3627,17 +3627,6 @@
  },
  {
   "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/AspNetWebStack",
-  "url": "https://github.com/aspnet/AspNetWebStack",
-  "sec_path": "SECURITY.md",
-  "stars": 894,
-  "language": "C#",
-  "description": "ASP.NET MVC 5.x, Web API 2.x, and Web Pages 3.x (not ASP.NET Core)",
-  "first_seen": "2026-11-01 18:09:57"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator",
   "url": "https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator",
@@ -3647,6 +3636,17 @@
   "description": "The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. …",
   "license": null,
   "first_seen": "2026-11-01 22:39:49"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/AspNetWebStack",
+  "url": "https://github.com/aspnet/AspNetWebStack",
+  "sec_path": "SECURITY.md",
+  "stars": 893,
+  "language": "C#",
+  "description": "ASP.NET MVC 5.x, Web API 2.x, and Web Pages 3.x (not ASP.NET Core)",
+  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -6998,6 +6998,17 @@
  },
  {
   "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/jquery-validation-unobtrusive",
+  "url": "https://github.com/aspnet/jquery-validation-unobtrusive",
+  "sec_path": "SECURITY.md",
+  "stars": 262,
+  "language": "JavaScript",
+  "description": "Add-on to jQuery Validation to enable unobtrusive validation options in data-* attributes.",
+  "first_seen": "2026-11-01 18:09:57"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/azure-blueprints",
   "url": "https://github.com/Azure/azure-blueprints",
@@ -7006,17 +7017,6 @@
   "language": "PowerShell",
   "description": "A library of sample Blueprints that can be easily imported via API or PowerShell",
   "first_seen": "2026-11-01 16:25:10"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/jquery-validation-unobtrusive",
-  "url": "https://github.com/aspnet/jquery-validation-unobtrusive",
-  "sec_path": "SECURITY.md",
-  "stars": 261,
-  "language": "JavaScript",
-  "description": "Add-on to jQuery Validation to enable unobtrusive validation options in data-* attributes.",
-  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",

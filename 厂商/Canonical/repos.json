@@ -5,7 +5,7 @@
   "full_name": "canonical/multipass",
   "url": "https://github.com/canonical/multipass",
   "sec_path": "SECURITY.md",
-  "stars": 9331,
+  "stars": 9380,
   "language": "C++",
   "description": "Multipass orchestrates virtual Ubuntu instances",
   "first_seen": "2026-11-01 18:39:48"
@@ -16,7 +16,7 @@
   "full_name": "canonical/lxd",
   "url": "https://github.com/canonical/lxd",
   "sec_path": "SECURITY.md",
-  "stars": 4847,
+  "stars": 4851,
   "language": "Go",
   "description": "Powerful system container and virtual machine manager",
   "first_seen": "2026-11-01 18:40:27"
@@ -27,7 +27,7 @@
   "full_name": "canonical/dqlite",
   "url": "https://github.com/canonical/dqlite",
   "sec_path": "SECURITY.md",
-  "stars": 4420,
+  "stars": 4424,
   "language": "C",
   "description": "Embeddable, replicated and fault-tolerant SQL engine.",
   "first_seen": "2026-11-01 18:40:27"
@@ -38,7 +38,7 @@
   "full_name": "canonical/cloud-init",
   "url": "https://github.com/canonical/cloud-init",
   "sec_path": "SECURITY.md",
-  "stars": 3853,
+  "stars": 3862,
   "language": "Python",
   "description": "Official upstream for the cloud-init: cloud instance initialization",
   "first_seen": "2026-11-01 18:41:08"
@@ -49,7 +49,7 @@
   "full_name": "canonical/snapd",
   "url": "https://github.com/canonical/snapd",
   "sec_path": "SECURITY.md",
-  "stars": 2054,
+  "stars": 2056,
   "language": "Go",
   "description": "The snapd and snap tools enable systems to work with .snap files.",
   "first_seen": "2026-11-01 18:39:48"
@@ -60,7 +60,7 @@
   "full_name": "canonical/snapcraft",
   "url": "https://github.com/canonical/snapcraft",
   "sec_path": "SECURITY.md",
-  "stars": 1291,
+  "stars": 1294,
   "language": "Python",
   "description": "Package, distribute, and update any app for Linux and IoT.",
   "first_seen": "2026-11-01 18:39:48"
@@ -71,7 +71,7 @@
   "full_name": "canonical/netplan",
   "url": "https://github.com/canonical/netplan",
   "sec_path": "SECURITY.md",
-  "stars": 856,
+  "stars": 855,
   "language": "Python",
   "description": "Declarative network configuration for various backends",
   "first_seen": "2026-11-01 18:41:50"
@@ -82,7 +82,7 @@
   "full_name": "canonical/mir",
   "url": "https://github.com/canonical/mir",
   "sec_path": "SECURITY.md",
-  "stars": 795,
+  "stars": 794,
   "language": "C++",
   "description": "C++ libraries for writing Wayland Shells",
   "first_seen": "2026-11-01 18:39:48"
@@ -93,7 +93,7 @@
   "full_name": "canonical/subiquity",
   "url": "https://github.com/canonical/subiquity",
   "sec_path": "SECURITY.md",
-  "stars": 598,
+  "stars": 599,
   "language": "Python",
   "description": "Ubuntu Server Installer, and backend for Ubuntu Desktop Installer",
   "first_seen": "2026-11-01 18:40:27"
@@ -104,7 +104,7 @@
   "full_name": "canonical/microcloud",
   "url": "https://github.com/canonical/microcloud",
   "sec_path": "SECURITY.md",
-  "stars": 547,
+  "stars": 549,
   "language": "Go",
   "description": "Automated private cloud based on LXD, Ceph and OVN",
   "first_seen": "2026-11-01 18:40:27"
@@ -115,7 +115,7 @@
   "full_name": "canonical/maas",
   "url": "https://github.com/canonical/maas",
   "sec_path": "SECURITY.md",
-  "stars": 512,
+  "stars": 514,
   "language": "Python",
   "description": "Official MAAS repository. Bugs are tracked on Launchpad: https://bugs.launchpad.net/maas",
   "first_seen": "2026-11-01 18:40:27"
@@ -137,7 +137,7 @@
   "full_name": "canonical/chisel",
   "url": "https://github.com/canonical/chisel",
   "sec_path": "SECURITY.md",
-  "stars": 429,
+  "stars": 432,
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:42:38"
@@ -148,7 +148,7 @@
   "full_name": "canonical/microceph",
   "url": "https://github.com/canonical/microceph",
   "sec_path": "SECURITY.md",
-  "stars": 398,
+  "stars": 399,
   "language": "Go",
   "description": "MicroCeph is snap-deployed Ceph with built-in clustering",
   "first_seen": "2026-11-01 18:39:48"
@@ -159,7 +159,7 @@
   "full_name": "canonical/authd",
   "url": "https://github.com/canonical/authd",
   "sec_path": "SECURITY.md",
-  "stars": 314,
+  "stars": 317,
   "language": "Go",
   "description": "Authentication service for external identity providers",
   "first_seen": "2026-11-01 18:41:08"
@@ -203,7 +203,7 @@
   "full_name": "canonical/snapcraft.io",
   "url": "https://github.com/canonical/snapcraft.io",
   "sec_path": "security.md",
-  "stars": 180,
+  "stars": 181,
   "language": "TypeScript",
   "description": "The official website's repository for the Snap store",
   "first_seen": "2026-11-01 18:39:48"
@@ -236,7 +236,7 @@
   "full_name": "canonical/firmware-updater",
   "url": "https://github.com/canonical/firmware-updater",
   "sec_path": "SECURITY.md",
-  "stars": 140,
+  "stars": 141,
   "language": "Dart",
   "description": "A firmware updater UI based on fwupd",
   "first_seen": "2026-11-01 18:41:08"
@@ -258,7 +258,7 @@
   "full_name": "canonical/workshop",
   "url": "https://github.com/canonical/workshop",
   "sec_path": "docs/security.md",
-  "stars": 127,
+  "stars": 136,
   "language": "Go",
   "description": "Workshops are secure, fast, and composable development environments that come agent-ready.",
   "first_seen": "2026-11-01 18:39:48"
@@ -280,7 +280,7 @@
   "full_name": "canonical/k8s-snap",
   "url": "https://github.com/canonical/k8s-snap",
   "sec_path": "SECURITY.md",
-  "stars": 116,
+  "stars": 118,
   "language": "Python",
   "description": "Canonical Kubernetes is an opinionated and CNCF conformant Kubernetes operated by Snaps and Charms, which come together to bring simplified operations and an en…",
   "first_seen": "2026-11-01 18:39:48"
@@ -335,7 +335,7 @@
   "full_name": "canonical/checkbox",
   "url": "https://github.com/canonical/checkbox",
   "sec_path": "SECURITY.md",
-  "stars": 54,
+  "stars": 53,
   "language": "Python",
   "description": "Checkbox is a testing framework used to validate device compatibility with Ubuntu Linux. It’s the testing tool developed for the purposes of the Ubuntu Certific…",
   "first_seen": "2026-11-01 18:40:27"
@@ -346,7 +346,7 @@
   "full_name": "canonical/ubuntu-pro-for-wsl",
   "url": "https://github.com/canonical/ubuntu-pro-for-wsl",
   "sec_path": "SECURITY.md",
-  "stars": 49,
+  "stars": 51,
   "language": "Go",
   "description": "Ubuntu Pro for WSL",
   "first_seen": "2026-11-01 18:40:27"
@@ -357,7 +357,7 @@
   "full_name": "canonical/imagecraft",
   "url": "https://github.com/canonical/imagecraft",
   "sec_path": "SECURITY.md",
-  "stars": 44,
+  "stars": 45,
   "language": "Python",
   "description": "Customize and build bootable Ubuntu images.",
   "first_seen": "2026-11-01 18:39:48"
@@ -398,6 +398,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/testflinger",
+  "url": "https://github.com/canonical/testflinger",
+  "sec_path": "SECURITY.md",
+  "stars": 32,
+  "language": "Python",
+  "description": "A system for orchestrating the time-sharing of access to a pool of target machines.",
+  "first_seen": "2026-11-01 18:40:27"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/juju-dashboard",
   "url": "https://github.com/canonical/juju-dashboard",
   "sec_path": "SECURITY.md",
@@ -405,17 +416,6 @@
   "language": "TypeScript",
   "description": "View the real-time status of your Juju or JAAS environment.",
   "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/testflinger",
-  "url": "https://github.com/canonical/testflinger",
-  "sec_path": "SECURITY.md",
-  "stars": 30,
-  "language": "Python",
-  "description": "A system for orchestrating the time-sharing of access to a pool of target machines.",
-  "first_seen": "2026-11-01 18:40:27"
  },
  {
   "vendor": "Canonical",
@@ -475,6 +475,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/microcloud-cluster-manager",
+  "url": "https://github.com/canonical/microcloud-cluster-manager",
+  "sec_path": "SECURITY.md",
+  "stars": 23,
+  "language": "Go",
+  "description": "MicroCloud Cluster Manager is the entry point for all your MicroClouds",
+  "first_seen": "2026-11-01 18:41:08"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/ceph-containers",
   "url": "https://github.com/canonical/ceph-containers",
   "sec_path": "SECURITY.md",
@@ -508,13 +519,13 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/microcloud-cluster-manager",
-  "url": "https://github.com/canonical/microcloud-cluster-manager",
+  "full_name": "canonical/identity-platform-admin-ui",
+  "url": "https://github.com/canonical/identity-platform-admin-ui",
   "sec_path": "SECURITY.md",
   "stars": 22,
   "language": "Go",
-  "description": "MicroCloud Cluster Manager is the entry point for all your MicroClouds",
-  "first_seen": "2026-11-01 18:41:08"
+  "description": "Admin UI for the Canonical identity broker and identity provider solution",
+  "first_seen": "2026-11-01 18:39:48"
  },
  {
   "vendor": "Canonical",
@@ -530,17 +541,6 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/identity-platform-admin-ui",
-  "url": "https://github.com/canonical/identity-platform-admin-ui",
-  "sec_path": "SECURITY.md",
-  "stars": 21,
-  "language": "Go",
-  "description": "Admin UI for the Canonical identity broker and identity provider solution",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/github-runner-operator",
   "url": "https://github.com/canonical/github-runner-operator",
   "sec_path": "SECURITY.md",
@@ -548,17 +548,6 @@
   "language": "Python",
   "description": "github-runner-operator - charm repository.",
   "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/prometheus-k8s-operator",
-  "url": "https://github.com/canonical/prometheus-k8s-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 20,
-  "language": "Python",
-  "description": "This charmed operator automates the operational procedures of running Prometheus, an open-source metrics backend.",
-  "first_seen": "2026-11-01 18:41:08"
  },
  {
   "vendor": "Canonical",
@@ -607,13 +596,13 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/snap-openstack",
-  "url": "https://github.com/canonical/snap-openstack",
+  "full_name": "canonical/prometheus-k8s-operator",
+  "url": "https://github.com/canonical/prometheus-k8s-operator",
   "sec_path": "SECURITY.md",
   "stars": 19,
   "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 18:39:48"
+  "description": "This charmed operator automates the operational procedures of running Prometheus, an open-source metrics backend.",
+  "first_seen": "2026-11-01 18:41:08"
  },
  {
   "vendor": "Canonical",
@@ -635,6 +624,17 @@
   "stars": 18,
   "language": "Python",
   "description": "Machine charm for K8s following the operator framework ",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/snap-openstack",
+  "url": "https://github.com/canonical/snap-openstack",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "Python",
+  "description": "",
   "first_seen": "2026-11-01 18:39:48"
  },
  {
@@ -695,23 +695,23 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/wordpress-k8s-operator",
-  "url": "https://github.com/canonical/wordpress-k8s-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 16,
-  "language": "Python",
-  "description": "wordpress-k8s-operator - charm repository.",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/kratos-operator",
   "url": "https://github.com/canonical/kratos-operator",
   "sec_path": "SECURITY.md",
   "stars": 16,
   "language": "Python",
   "description": "A Charmed Operator for running Ory Kratos on Kubernetes",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/wordpress-k8s-operator",
+  "url": "https://github.com/canonical/wordpress-k8s-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 15,
+  "language": "Python",
+  "description": "wordpress-k8s-operator - charm repository.",
   "first_seen": "2026-11-01 18:39:48"
  },
  {
@@ -739,28 +739,6 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/craft-application",
-  "url": "https://github.com/canonical/craft-application",
-  "sec_path": "SECURITY.md",
-  "stars": 14,
-  "language": "Python",
-  "description": "It's the perfect foundation for your crafting situation with minimal frustration.",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/starbase",
-  "url": "https://github.com/canonical/starbase",
-  "sec_path": "SECURITY.md",
-  "stars": 14,
-  "language": "Makefile",
-  "description": "A base repository for packages from the Starcraft team",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/yarf",
   "url": "https://github.com/canonical/yarf",
   "sec_path": "SECURITY.md",
@@ -768,17 +746,6 @@
   "language": "Python",
   "description": "Multi-platform GUI testing",
   "first_seen": "2026-11-01 18:40:27"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/mongodb-k8s-operator",
-  "url": "https://github.com/canonical/mongodb-k8s-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 14,
-  "language": "HCL",
-  "description": "Operator charm for MongoDB on Kubernetes",
-  "first_seen": "2026-11-01 18:41:08"
  },
  {
   "vendor": "Canonical",
@@ -845,6 +812,39 @@
   "language": "Python",
   "description": "indico-operator - charm repository.",
   "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/craft-application",
+  "url": "https://github.com/canonical/craft-application",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "Python",
+  "description": "It's the perfect foundation for your crafting situation with minimal frustration.",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/starbase",
+  "url": "https://github.com/canonical/starbase",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "Makefile",
+  "description": "A base repository for packages from the Starcraft team",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/mongodb-k8s-operator",
+  "url": "https://github.com/canonical/mongodb-k8s-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "HCL",
+  "description": "Operator charm for MongoDB on Kubernetes",
+  "first_seen": "2026-11-01 18:41:08"
  },
  {
   "vendor": "Canonical",
@@ -975,7 +975,7 @@
   "sec_path": "SECURITY.md",
   "stars": 11,
   "language": "Shell",
-  "description": "This is a base snap for snapd and Ubuntu Core that is based on Ubuntu 22.04",
+  "description": "This is a base snap for snapd and Ubuntu Core Desktop",
   "first_seen": "2026-11-01 18:40:27"
  },
  {
@@ -1113,6 +1113,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/athena",
+  "url": "https://github.com/canonical/athena",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "TypeScript",
+  "description": "",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/craft-store",
   "url": "https://github.com/canonical/craft-store",
   "sec_path": "SECURITY.md",
@@ -1223,13 +1234,13 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/athena",
-  "url": "https://github.com/canonical/athena",
+  "full_name": "canonical/charmlibs",
+  "url": "https://github.com/canonical/charmlibs",
   "sec_path": "SECURITY.md",
   "stars": 6,
-  "language": "TypeScript",
-  "description": "",
-  "first_seen": "2026-11-01 18:39:48"
+  "language": "Python",
+  "description": "Monorepo for Canonical charmlibs.",
+  "first_seen": "2026-11-01 18:40:27"
  },
  {
   "vendor": "Canonical",
@@ -1262,6 +1273,17 @@
   "stars": 6,
   "language": "Python",
   "description": "A tool to modify root filesystems in chroots based on configuration",
+  "first_seen": "2026-11-01 18:40:27"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/cos-alerter",
+  "url": "https://github.com/canonical/cos-alerter",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "Receive regular pings from the COS stack and alert when they are not arriving in a timely fashion.",
   "first_seen": "2026-11-01 18:40:27"
  },
  {
@@ -1388,6 +1410,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/node-rock",
+  "url": "https://github.com/canonical/node-rock",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Shell",
+  "description": "A distroless-like Node.js image based on Ubuntu ",
+  "first_seen": "2026-11-01 18:42:38"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/squid-rock",
   "url": "https://github.com/canonical/squid-rock",
   "sec_path": "SECURITY.md",
@@ -1405,17 +1438,6 @@
   "stars": 5,
   "language": "Python",
   "description": "A collection of Pytest-based tests for Charm Integration Testing, focusing on validating the deployment and interoperability of charms.",
-  "first_seen": "2026-11-01 18:40:27"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/charmlibs",
-  "url": "https://github.com/canonical/charmlibs",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "Monorepo for Canonical charmlibs.",
   "first_seen": "2026-11-01 18:40:27"
  },
  {
@@ -1471,17 +1493,6 @@
   "stars": 5,
   "language": "Python",
   "description": "A Charmed Operator for running OpenFGA on Kubernetes",
-  "first_seen": "2026-11-01 18:40:27"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/cos-alerter",
-  "url": "https://github.com/canonical/cos-alerter",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "Receive regular pings from the COS stack and alert when they are not arriving in a timely fashion.",
   "first_seen": "2026-11-01 18:40:27"
  },
  {
@@ -1564,17 +1575,6 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/node-rock",
-  "url": "https://github.com/canonical/node-rock",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Shell",
-  "description": "A distroless-like Node.js image based on Ubuntu ",
-  "first_seen": "2026-11-01 18:42:38"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/ubuntu-package-download",
   "url": "https://github.com/canonical/ubuntu-package-download",
   "sec_path": "SECURITY.md",
@@ -1592,6 +1592,17 @@
   "stars": 4,
   "language": "Python",
   "description": "A demo server for use in the Ops Kubernetes charm tutorial.",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/mattermost-k8s-operator",
+  "url": "https://github.com/canonical/mattermost-k8s-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Python",
+  "description": "mattermost-k8s-operator - charm repository.",
   "first_seen": "2026-11-01 18:39:48"
  },
  {
@@ -1872,6 +1883,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/mesa-2604",
+  "url": "https://github.com/canonical/mesa-2604",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Rust",
+  "description": "Mesa 3D Graphics Library for `base: core24` Snaps",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/pytest-jubilant",
   "url": "https://github.com/canonical/pytest-jubilant",
   "sec_path": "SECURITY.md",
@@ -1911,17 +1933,6 @@
   "stars": 3,
   "language": "Python",
   "description": "wazuh-server-operator - charm repository.",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/mattermost-k8s-operator",
-  "url": "https://github.com/canonical/mattermost-k8s-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": "Python",
-  "description": "mattermost-k8s-operator - charm repository.",
   "first_seen": "2026-11-01 18:39:48"
  },
  {
@@ -2092,6 +2103,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/docker-library-official-images",
+  "url": "https://github.com/canonical/docker-library-official-images",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Shell",
+  "description": "Primary source of truth for the Docker \"Official Images\" program",
+  "first_seen": "2026-11-01 18:41:08"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/juju-doctor",
   "url": "https://github.com/canonical/juju-doctor",
   "sec_path": "SECURITY.md",
@@ -2220,17 +2242,6 @@
   "language": "Python",
   "description": "Official MAAS Site Manager repository. Bugs are tracked on Launchpad: https://bugs.launchpad.net/maas-site-manager/",
   "first_seen": "2026-11-01 18:42:38"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/mesa-2604",
-  "url": "https://github.com/canonical/mesa-2604",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Rust",
-  "description": "Mesa 3D Graphics Library for `base: core24` Snaps",
-  "first_seen": "2026-11-01 18:39:48"
  },
  {
   "vendor": "Canonical",
@@ -2422,6 +2433,28 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/sssd-operator",
+  "url": "https://github.com/canonical/sssd-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "Charmed operator of SSSD.",
+  "first_seen": "2026-11-01 18:40:27"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/ami-deprecation-tool",
+  "url": "https://github.com/canonical/ami-deprecation-tool",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 18:40:27"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/lego-operator",
   "url": "https://github.com/canonical/lego-operator",
   "sec_path": "SECURITY.md",
@@ -2549,28 +2582,6 @@
   "stars": 2,
   "language": null,
   "description": "OCI image for Ory Oathkeeper based on Ubuntu built using rockcraft.",
-  "first_seen": "2026-11-01 18:40:27"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/kratos-external-idp-integrator",
-  "url": "https://github.com/canonical/kratos-external-idp-integrator",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "Charm used to integrate Charmed Kratos with external IdPs",
-  "first_seen": "2026-11-01 18:40:27"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/hydra-rock",
-  "url": "https://github.com/canonical/hydra-rock",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": null,
-  "description": "OCI image for Ory Hydra based on Ubuntu built using rockcraft.",
   "first_seen": "2026-11-01 18:40:27"
  },
  {
@@ -2824,17 +2835,6 @@
   "stars": 2,
   "language": "Python",
   "description": "content-cache-k8s-operator - charm repository.",
-  "first_seen": "2026-11-01 18:41:08"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/docker-library-official-images",
-  "url": "https://github.com/canonical/docker-library-official-images",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Shell",
-  "description": "Primary source of truth for the Docker \"Official Images\" program",
   "first_seen": "2026-11-01 18:41:08"
  },
  {
@@ -3467,34 +3467,12 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/sssd-operator",
-  "url": "https://github.com/canonical/sssd-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "Charmed operator of SSSD.",
-  "first_seen": "2026-11-01 18:40:27"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/ubucargo",
   "url": "https://github.com/canonical/ubucargo",
   "sec_path": "SECURITY.md",
   "stars": 1,
   "language": "Rust",
   "description": "A tool for packaging Rust crates in Ubuntu",
-  "first_seen": "2026-11-01 18:40:27"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/ami-deprecation-tool",
-  "url": "https://github.com/canonical/ami-deprecation-tool",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "",
   "first_seen": "2026-11-01 18:40:27"
  },
  {
@@ -3537,7 +3515,7 @@
   "url": "https://github.com/canonical/hpc-team",
   "sec_path": "SECURITY.md",
   "stars": 1,
-  "language": "HCL",
+  "language": "Python",
   "description": "The special repository for org-wide defaults, discussion, technical support for Charmed HPC ⚛️",
   "first_seen": "2026-11-01 18:40:27"
  },
@@ -3709,6 +3687,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/kratos-external-idp-integrator",
+  "url": "https://github.com/canonical/kratos-external-idp-integrator",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Python",
+  "description": "Charm used to integrate Charmed Kratos with external IdPs",
+  "first_seen": "2026-11-01 18:40:27"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/content-cache-operator",
   "url": "https://github.com/canonical/content-cache-operator",
   "sec_path": "SECURITY.md",
@@ -3726,6 +3715,17 @@
   "stars": 1,
   "language": "Python",
   "description": "Charmed operator for the Authentik LDAP Outpost",
+  "first_seen": "2026-11-01 18:40:27"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/hydra-rock",
+  "url": "https://github.com/canonical/hydra-rock",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "OCI image for Ory Hydra based on Ubuntu built using rockcraft.",
   "first_seen": "2026-11-01 18:40:27"
  },
  {
