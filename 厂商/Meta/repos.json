@@ -28,20 +28,9 @@
   "full_name": "meta/zstd",
   "url": "https://github.com/meta/zstd",
   "sec_path": "SECURITY.md",
-  "stars": 28163,
+  "stars": 28250,
   "language": "C",
   "description": "Zstandard - Fast real-time compression algorithm",
-  "first_seen": "2026-11-01 17:01:10"
- },
- {
-  "vendor": "Meta",
-  "org": "Meta",
-  "full_name": "meta/hhvm",
-  "url": "https://github.com/meta/hhvm",
-  "sec_path": "SECURITY.md",
-  "stars": 18679,
-  "language": "C++",
-  "description": "A virtual machine for executing programs written in Hack.",
   "first_seen": "2026-11-01 17:01:10"
  },
  {
@@ -50,9 +39,20 @@
   "full_name": "meta/astryx",
   "url": "https://github.com/meta/astryx",
   "sec_path": "SECURITY.md",
-  "stars": 13840,
+  "stars": 26499,
   "language": "TypeScript",
   "description": "An open source design system that's fully customizable and agent ready",
+  "first_seen": "2026-11-01 17:01:10"
+ },
+ {
+  "vendor": "Meta",
+  "org": "Meta",
+  "full_name": "meta/hhvm",
+  "url": "https://github.com/meta/hhvm",
+  "sec_path": "SECURITY.md",
+  "stars": 18684,
+  "language": "C++",
+  "description": "A virtual machine for executing programs written in Hack.",
   "first_seen": "2026-11-01 17:01:10"
  },
  {
@@ -72,7 +72,7 @@
   "full_name": "meta/facebook-ios-sdk",
   "url": "https://github.com/meta/facebook-ios-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 8114,
+  "stars": 8117,
   "language": "Swift",
   "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
   "first_seen": "2026-11-01 17:01:10"
@@ -83,7 +83,7 @@
   "full_name": "meta/facebook-android-sdk",
   "url": "https://github.com/meta/facebook-android-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 6465,
+  "stars": 6467,
   "language": "Kotlin",
   "description": "Used to integrate Android apps with Facebook Platform.",
   "first_seen": "2026-11-01 17:01:10"
@@ -214,6 +214,17 @@
  },
  {
   "vendor": "Meta",
+  "org": "Meta",
+  "full_name": "meta/facebook-for-woocommerce",
+  "url": "https://github.com/meta/facebook-for-woocommerce",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 268,
+  "language": "PHP",
+  "description": "The official plugin from Meta. This repository is now officially owned by Meta's Partner Engineering team. We welcome and encourage contributions from the commu…",
+  "first_seen": "2026-11-01 17:01:10"
+ },
+ {
+  "vendor": "Meta",
   "org": "facebookresearch",
   "full_name": "facebookresearch/amortized-optimization-tutorial",
   "url": "https://github.com/facebookresearch/amortized-optimization-tutorial",
@@ -222,17 +233,6 @@
   "language": "TeX",
   "description": "Tutorial on amortized optimization for learning to optimize over continuous domains",
   "first_seen": "2026-11-01 19:53:46"
- },
- {
-  "vendor": "Meta",
-  "org": "Meta",
-  "full_name": "meta/facebook-for-woocommerce",
-  "url": "https://github.com/meta/facebook-for-woocommerce",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 265,
-  "language": "PHP",
-  "description": "The official plugin from Meta. This repository is now officially owned by Meta's Partner Engineering team. We welcome and encourage contributions from the commu…",
-  "first_seen": "2026-11-01 17:01:10"
  },
  {
   "vendor": "Meta",
@@ -413,6 +413,28 @@
  },
  {
   "vendor": "Meta",
+  "org": "Meta",
+  "full_name": "meta/meta-ray-ban-display-ui-toolkit-web",
+  "url": "https://github.com/meta/meta-ray-ban-display-ui-toolkit-web",
+  "sec_path": "SECURITY.md",
+  "stars": 25,
+  "language": "TypeScript",
+  "description": "UI Toolkit brings the Meta Ray-Ban Display design system to React. Use its components, semantic tokens, materials, motion, accessibility behavior, and direction…",
+  "first_seen": "2026-11-01 17:01:10"
+ },
+ {
+  "vendor": "Meta",
+  "org": "Meta",
+  "full_name": "meta/agentic-tools",
+  "url": "https://github.com/meta/agentic-tools",
+  "sec_path": "SECURITY.md",
+  "stars": 23,
+  "language": "Python",
+  "description": "Agentic tools plugin and skills",
+  "first_seen": "2026-11-01 17:01:10"
+ },
+ {
+  "vendor": "Meta",
   "org": "facebookresearch",
   "full_name": "facebookresearch/iphg",
   "url": "https://github.com/facebookresearch/iphg",
@@ -436,32 +458,10 @@
  {
   "vendor": "Meta",
   "org": "Meta",
-  "full_name": "meta/meta-ray-ban-display-ui-toolkit-web",
-  "url": "https://github.com/meta/meta-ray-ban-display-ui-toolkit-web",
-  "sec_path": "SECURITY.md",
-  "stars": 21,
-  "language": "TypeScript",
-  "description": "UI Toolkit brings the Meta Ray-Ban Display design system to React. Use its components, semantic tokens, materials, motion, accessibility behavior, and direction…",
-  "first_seen": "2026-11-01 17:01:10"
- },
- {
-  "vendor": "Meta",
-  "org": "Meta",
-  "full_name": "meta/agentic-tools",
-  "url": "https://github.com/meta/agentic-tools",
-  "sec_path": "SECURITY.md",
-  "stars": 19,
-  "language": "Python",
-  "description": "Agentic tools plugin and skills",
-  "first_seen": "2026-11-01 17:01:10"
- },
- {
-  "vendor": "Meta",
-  "org": "Meta",
   "full_name": "meta/.github",
   "url": "https://github.com/meta/.github",
   "sec_path": "SECURITY.md",
-  "stars": 19,
+  "stars": 20,
   "language": null,
   "description": "Default Community health files for Facebook projects",
   "first_seen": "2026-11-01 17:01:10"
@@ -523,6 +523,17 @@
  },
  {
   "vendor": "Meta",
+  "org": "Meta",
+  "full_name": "meta/meta_glasses_webmcp",
+  "url": "https://github.com/meta/meta_glasses_webmcp",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": null,
+  "description": "WebMCP on Meta Ray-Ban Display Glasses enables developers to utilize Meta AI to create hands free and agentic interactions on web apps using user voice. ",
+  "first_seen": "2026-11-01 17:01:10"
+ },
+ {
+  "vendor": "Meta",
   "org": "facebookresearch",
   "full_name": "facebookresearch/secpriv-skill",
   "url": "https://github.com/facebookresearch/secpriv-skill",
@@ -534,6 +545,17 @@
  },
  {
   "vendor": "Meta",
+  "org": "Meta",
+  "full_name": "meta/rules_pyrefly",
+  "url": "https://github.com/meta/rules_pyrefly",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Starlark",
+  "description": "Bazel rules for running Pyrefly type checking over Python targets. Provides an aspect-based integration and Bzlmod toolchain extension for hermetic Pyrefly bina…",
+  "first_seen": "2026-11-01 17:01:10"
+ },
+ {
+  "vendor": "Meta",
   "org": "facebookresearch",
   "full_name": "facebookresearch/S-EMBER",
   "url": "https://github.com/facebookresearch/S-EMBER",
@@ -542,17 +564,6 @@
   "language": "Python",
   "description": "Official codebase for S-EMBER A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval",
   "first_seen": "2026-11-01 19:52:21"
- },
- {
-  "vendor": "Meta",
-  "org": "Meta",
-  "full_name": "meta/rules_pyrefly",
-  "url": "https://github.com/meta/rules_pyrefly",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": "Starlark",
-  "description": "Bazel rules for running Pyrefly type checking over Python targets. Provides an aspect-based integration and Bzlmod toolchain extension for hermetic Pyrefly bina…",
-  "first_seen": "2026-11-01 17:01:10"
  },
  {
   "vendor": "Meta",
@@ -575,17 +586,6 @@
   "language": "Python",
   "description": "Code for 'Discontinuity-aware Normal Integration for Generic Central Camera Models'",
   "first_seen": "2026-11-01 19:53:46"
- },
- {
-  "vendor": "Meta",
-  "org": "Meta",
-  "full_name": "meta/meta_glasses_webmcp",
-  "url": "https://github.com/meta/meta_glasses_webmcp",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": null,
-  "description": "WebMCP on Meta Ray-Ban Display Glasses enables developers to utilize Meta AI to create hands free and agentic interactions on web apps using user voice. ",
-  "first_seen": "2026-11-01 17:01:10"
  },
  {
   "vendor": "Meta",
@@ -678,6 +678,17 @@
  },
  {
   "vendor": "Meta",
+  "org": "Meta",
+  "full_name": "meta/dont-use-facebook-for-woocommerce",
+  "url": "https://github.com/meta/dont-use-facebook-for-woocommerce",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 4,
+  "language": "PHP",
+  "description": "A first-party extension plugin built for WooCommerce.",
+  "first_seen": "2026-11-01 17:01:10"
+ },
+ {
+  "vendor": "Meta",
   "org": "facebookresearch",
   "full_name": "facebookresearch/ScalableVeriScore",
   "url": "https://github.com/facebookresearch/ScalableVeriScore",
@@ -712,12 +723,12 @@
  {
   "vendor": "Meta",
   "org": "Meta",
-  "full_name": "meta/dont-use-facebook-for-woocommerce",
-  "url": "https://github.com/meta/dont-use-facebook-for-woocommerce",
-  "sec_path": ".github/SECURITY.md",
+  "full_name": "meta/clap_types",
+  "url": "https://github.com/meta/clap_types",
+  "sec_path": "SECURITY.md",
   "stars": 3,
-  "language": "PHP",
-  "description": "A first-party extension plugin built for WooCommerce.",
+  "language": "Rust",
+  "description": "Generate multi-language strongly-typed client libraries around Rust CLIs.",
   "first_seen": "2026-11-01 17:01:10"
  },
  {
@@ -763,17 +774,6 @@
   "language": "Python",
   "description": "The codes reproduce the figures and statistics in the paper, \"Controlling for multiple covariates,\" by Mark Tygert. The repo also provides the LaTeX and BibTex …",
   "first_seen": "2026-11-01 19:53:46"
- },
- {
-  "vendor": "Meta",
-  "org": "Meta",
-  "full_name": "meta/clap_types",
-  "url": "https://github.com/meta/clap_types",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Rust",
-  "description": "Generate multi-language strongly-typed client libraries around Rust CLIs.",
-  "first_seen": "2026-11-01 17:01:10"
  },
  {
   "vendor": "Meta",
