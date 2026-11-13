@@ -198,6 +198,21 @@ def merge_vendors():
 
 
 # ---------------------------------------------------------------- 状态与锁
+def clean_error_records(state):
+    """Network failures are retryable work, never positive security-policy records."""
+    failed = {full for full, record in state['repos_data'].items() if record.get('sec_path') == 'error'}
+    failed.update(full for full, record in state['repos_checked'].items() if record.get('sec_path') == 'error')
+    for full in failed:
+        record = state['repos_data'].get(full, {})
+        if record.get('sec_path') == 'error':
+            state['repos_data'].pop(full, None)
+        state['repos_checked'].pop(full, None)
+        org = record.get('org') or full.split('/')[0]
+        entry = state['orgs'].setdefault(org, {})
+        entry['pending'] = sorted(set(entry.get('pending') or []) | {full})
+    return len(failed)
+
+
 def load_state():
     try:
         st = json.loads(STATE_PATH.read_text(encoding="utf-8"))
@@ -205,6 +220,7 @@ def load_state():
         st.setdefault("repos_data", {})
         st.setdefault("orgs", {})
         st.setdefault("search_swept", {})
+        clean_error_records(st)
         return st
     except Exception:
         if STATE_PATH.exists():
@@ -461,6 +477,8 @@ def probe_security(full):
             return "error", None
         if st in (403, 429):
             return "error", None
+        if st not in (200, 404):
+            return "error", None
     return None, None
 
 
@@ -486,7 +504,7 @@ def probe_and_record(state, org, vendor, names_meta, deadline):
             for full, path, content in ex.map(work, chunk):
                 meta = names_meta.get(full) or {}
                 with state_lock:
-                    if isinstance(path, str):
+                    if isinstance(path, str) and path != "error":
                         state["repos_checked"][full] = {"sec_path": path, "checked_at": nows}
                         state["repos_data"][full] = {
                             "vendor": vendor, "org": org, "full_name": full,
@@ -654,6 +672,7 @@ def sweep_search(state, org2vendor, deadline, token):
 
 # ---------------------------------------------------------------- 输出
 def write_outputs(state, mode):
+    clean_error_records(state)
     vendors = json.loads((ASSETS / "vendors.json").read_text(encoding="utf-8"))
     now = time.strftime("%Y-%m-%d %H:%M:%S")
     per = {}

@@ -24,7 +24,7 @@ class Handler(SimpleHTTPRequestHandler):
             path in ('/', '/index.html', '/README.md', '/prompt-给其他Agent.md')
             or (parts and parts[0] in ('厂商', '赏金APK', 'web'))
             or (len(parts) == 2 and parts[0] == '索引' and parts[1] in
-                ('dashboard.json', '统计.json', '总表.csv', 'index.html'))
+                ('dashboard.json', '统计.json', '总表.csv', 'index.html', 'retry-candidates.json'))
             or (len(parts) >= 3 and parts[:2] == ('docs', 'assets'))
         )
         if (not allowed or not target.is_relative_to(BASE)

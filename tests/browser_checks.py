@@ -77,9 +77,10 @@ def main():
             page.locator('#vendors details').evaluate('(el) => el.open = true')
             expect(page.locator('.vendor-card')).to_have_count(len(payload['stats']['vendors']))
             # Validate every generated local policy link plus visible static/file links.
+            actual_paths = {path.relative_to(ROOT).as_posix() for path in (ROOT / '厂商').glob('*/*/SECURITY.md')}
             for record in payload['repos']:
                 if record['loc']:
-                    assert (ROOT / unquote(record['loc'])).is_file(),record['loc']
+                    assert unquote(record['loc']) in actual_paths,record['loc']
             local_links = page.locator('a[href]').evaluate_all('(els) => els.map(el => el.href).filter(h => h.startsWith(location.origin) && !h.includes("#"))')
             for link in set(local_links):
                 assert link.startswith(base),f'Escaped Pages prefix: {link}'

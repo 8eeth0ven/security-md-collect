@@ -22,7 +22,7 @@
 <img src="docs/assets/dashboard-mobile.png" alt="390px 宽度的手机端看板，包含统计卡片与筛选区" width="390">
 </details>
 
-截图是 **2026-11-13 的数据快照**，其中有 10,409 条仓库记录、243 个厂商和 306 个 GitHub 组织；最新数量与时间以[在线统计](https://8eeth0ven.github.io/security-md-collect/索引/统计.json)为准。部分记录暂缺本地原文，此时仅显示 GitHub 来源入口。
+截图是 **2026-11-13 的数据快照**，其中有 9,501 条有效仓库记录、243 个厂商和 306 个 GitHub 组织；最新数量与时间以[在线统计](https://8eeth0ven.github.io/security-md-collect/索引/统计.json)为准。历史上误计入的 908 条网络错误记录已移入[待重试清单](索引/retry-candidates.json)，保留元数据以便追溯；它们不再计入安全策略仓库数。后续记录若暂缺本地原文，则仅显示 GitHub 来源入口。
 
 ## 能做什么
 
@@ -65,6 +65,8 @@ python 脚本/serve.py
 ```bash
 python 脚本/build_dashboard.py
 ```
+
+已有旧版本快照可先运行 `python 脚本/repair_snapshots.py` 预览误收录数，再用 `--apply` 隔离历史 `sec_path=error` 记录并重建索引；原始元数据会保留到待重试清单。
 
 ## 增量采集
 
@@ -136,6 +138,7 @@ python 脚本/sync_github.py --base /path/to/data --repo /path/to/checkout --pus
 ├── 脚本/
 │   ├── collect.py             增量采集与输出
 │   ├── build_dashboard.py     从公开快照重建页面
+│   ├── repair_snapshots.py    隔离历史网络失败误收录，保留待重试元数据
 │   ├── dashboard.html         页面模板（改这里，再重建）
 │   ├── serve.py               本地公开数据服务
 │   ├── sync_github.py         独立采集目录 → 发布仓库，仅同步公开数据

@@ -11,6 +11,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+from repair_snapshots import repair_snapshots
+
 
 def public_files(base):
     """Keep runtime state, credentials, caches and application code outside the manifest."""
@@ -73,6 +75,8 @@ def main():
     if args.dry_run:
         print('DRY RUN: %s public files; no writes, commit or push' % sum(1 for _ in public_files(base)))
         return
+    if (base / '脚本/collect.lock').exists():
+        parser.error('Collector is still writing snapshots; wait for its lock to be released')
     if git(destination,'branch','--show-current') != args.branch:
         parser.error('Destination is not on the requested branch')
     if git(destination,'status','--porcelain'):
@@ -83,9 +87,13 @@ def main():
     if not builder.is_file():
         parser.error('Update the destination checkout to the new dashboard version first')
     changed = sync_public_data(base,destination)
+    repair_snapshots(destination,apply=True)
     subprocess.run([sys.executable,str(builder),'--base',str(destination)],check=True,timeout=120)
     if args.push:
-        git(destination,'add','--','厂商','赏金APK','资产','索引/统计.json','索引/总表.csv','索引/dashboard.json','index.html')
+        paths = ['厂商','赏金APK','资产','索引/统计.json','索引/总表.csv','索引/dashboard.json','index.html']
+        if (destination / '索引/retry-candidates.json').exists():
+            paths.append('索引/retry-candidates.json')
+        git(destination,'add','--',*paths)
         if git(destination,'diff','--cached','--name-only'):
             git(destination,'commit','-m','data: refresh public policy snapshots')
         # Retry previously unpushed data commits as well; never force-push.

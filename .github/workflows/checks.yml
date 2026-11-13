@@ -20,4 +20,4 @@ jobs:
       - name: Verify generated files are current
         run: |
           python 脚本/build_dashboard.py
-          git diff --exit-code -- index.html 索引/dashboard.json
+          git diff --exit-code --quiet -- index.html 索引/dashboard.json

@@ -70,28 +70,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/googletest",
-  "url": "https://github.com/google/googletest",
-  "sec_path": "error",
-  "stars": 39738,
-  "language": "C++",
-  "description": "GoogleTest - Google Testing and Mocking Framework",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/langextract",
-  "url": "https://github.com/google/langextract",
-  "sec_path": "error",
-  "stars": 39307,
-  "language": "Python",
-  "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "angular",
   "full_name": "angular/angular-cli",
   "url": "https://github.com/angular/angular-cli",
@@ -100,17 +78,6 @@
   "language": "TypeScript",
   "description": "CLI tool for Angular",
   "first_seen": "2026-11-01 17:57:40"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/flatbuffers",
-  "url": "https://github.com/google/flatbuffers",
-  "sec_path": "error",
-  "stars": 26630,
-  "language": "C++",
-  "description": "FlatBuffers: Memory Efficient Serialization Library",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -170,17 +137,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/elephant-goldfish-model",
-  "url": "https://github.com/google/elephant-goldfish-model",
-  "sec_path": "error",
-  "stars": 18260,
-  "language": "Python",
-  "description": "Open-source plugin for designing and reviewing software with agents",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "angular",
   "full_name": "angular/material",
   "url": "https://github.com/angular/material",
@@ -215,39 +171,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/or-tools",
-  "url": "https://github.com/google/or-tools",
-  "sec_path": "error",
-  "stars": 14371,
-  "language": "C++",
-  "description": "Google's Operations Research tools:",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/oss-fuzz",
-  "url": "https://github.com/google/oss-fuzz",
-  "sec_path": "error",
-  "stars": 12949,
-  "language": "Shell",
-  "description": "OSS-Fuzz - continuous fuzzing for open source software.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/sanitizers",
-  "url": "https://github.com/google/sanitizers",
-  "sec_path": "error",
-  "stars": 12525,
-  "language": "C",
-  "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "dart-lang",
   "full_name": "dart-lang/sdk",
   "url": "https://github.com/dart-lang/sdk",
@@ -260,17 +183,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/auto",
-  "url": "https://github.com/google/auto",
-  "sec_path": "error",
-  "stars": 10563,
-  "language": "Java",
-  "description": "A collection of source code generators for Java.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/re2",
   "url": "https://github.com/google/re2",
   "sec_path": "SECURITY.md",
@@ -279,17 +191,6 @@
   "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
   "license": null,
   "first_seen": "2026-11-02 04:18:39"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/adk-go",
-  "url": "https://github.com/google/adk-go",
-  "sec_path": "error",
-  "stars": 8963,
-  "language": "Go",
-  "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -329,50 +230,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/j2objc",
-  "url": "https://github.com/google/j2objc",
-  "sec_path": "error",
-  "stars": 6034,
-  "language": "Java",
-  "description": "A Java to iOS Objective-C translation tool and runtime.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/EarlGrey",
-  "url": "https://github.com/google/EarlGrey",
-  "sec_path": "error",
-  "stars": 5701,
-  "language": "Objective-C",
-  "description": ":tea: iOS UI Automation Test Framework",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/security-research",
-  "url": "https://github.com/google/security-research",
-  "sec_path": "error",
-  "stars": 4738,
-  "language": "C",
-  "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/go-cmp",
-  "url": "https://github.com/google/go-cmp",
-  "sec_path": "error",
-  "stars": 4685,
-  "language": "Go",
-  "description": "Package for comparing Go values in tests",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/santa",
   "url": "https://github.com/google/santa",
   "sec_path": "SECURITY.md",
@@ -408,17 +265,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/oboe",
-  "url": "https://github.com/google/oboe",
-  "sec_path": "error",
-  "stars": 4135,
-  "language": "C++",
-  "description": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/go-containerregistry",
   "url": "https://github.com/google/go-containerregistry",
   "sec_path": "SECURITY.md",
@@ -441,17 +287,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/OpenSK",
-  "url": "https://github.com/google/OpenSK",
-  "sec_path": "error",
-  "stars": 3481,
-  "language": "Rust",
-  "description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "tensorflow",
   "full_name": "tensorflow/tflite-micro",
   "url": "https://github.com/tensorflow/tflite-micro",
@@ -461,28 +296,6 @@
   "description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
   "license": null,
   "first_seen": "2026-11-02 00:23:01"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/mozc",
-  "url": "https://github.com/google/mozc",
-  "sec_path": "error",
-  "stars": 3036,
-  "language": "C++",
-  "description": "Mozc - a Japanese Input Method Editor designed for multi-platform",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/mantis",
-  "url": "https://github.com/google/mantis",
-  "sec_path": "error",
-  "stars": 2769,
-  "language": "Python",
-  "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -509,28 +322,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/shaderc",
-  "url": "https://github.com/google/shaderc",
-  "sec_path": "error",
-  "stars": 2197,
-  "language": "C++",
-  "description": "A collection of tools, libraries, and tests for Vulkan shader compilation.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/go-querystring",
-  "url": "https://github.com/google/go-querystring",
-  "sec_path": "error",
-  "stars": 2146,
-  "language": "Go",
-  "description": "go-querystring is Go library for encoding structs into URL query strings.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "golang",
   "full_name": "golang/geo",
   "url": "https://github.com/golang/geo",
@@ -543,45 +334,12 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/woff2",
-  "url": "https://github.com/google/woff2",
-  "sec_path": "error",
-  "stars": 1828,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/nomulus",
   "url": "https://github.com/google/nomulus",
   "sec_path": "SECURITY.md",
   "stars": 1818,
   "language": "Java",
   "description": "Top-level domain name registry service on Google Cloud Platform",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/sandboxed-api",
-  "url": "https://github.com/google/sandboxed-api",
-  "sec_path": "error",
-  "stars": 1772,
-  "language": "C++",
-  "description": "Generate sandboxes for C/C++ libraries automatically",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/GNM",
-  "url": "https://github.com/google/GNM",
-  "sec_path": "error",
-  "stars": 1636,
-  "language": "Python",
-  "description": "An open ecosystem of parametric human models and perception stacks, starting with GNM Head.",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -599,56 +357,12 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/neuroglancer",
-  "url": "https://github.com/google/neuroglancer",
-  "sec_path": "error",
-  "stars": 1580,
-  "language": "TypeScript",
-  "description": "WebGL-based viewer for volumetric data",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/tensorstore",
-  "url": "https://github.com/google/tensorstore",
-  "sec_path": "error",
-  "stars": 1553,
-  "language": "C++",
-  "description": "Library for reading and writing large multi-dimensional arrays.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/adk-js",
-  "url": "https://github.com/google/adk-js",
-  "sec_path": "error",
-  "stars": 1475,
-  "language": "TypeScript",
-  "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/site-kit-wp",
   "url": "https://github.com/google/site-kit-wp",
   "sec_path": "SECURITY.md",
   "stars": 1405,
   "language": "JavaScript",
   "description": "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/certificate-transparency-go",
-  "url": "https://github.com/google/certificate-transparency-go",
-  "sec_path": "error",
-  "stars": 1211,
-  "language": "Go",
-  "description": "Auditing for TLS certificates (Go code)",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -662,50 +376,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 04:18:39"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/kati",
-  "url": "https://github.com/google/kati",
-  "sec_path": "error",
-  "stars": 1027,
-  "language": "Rust",
-  "description": "An experimental GNU make clone",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/fhir",
-  "url": "https://github.com/google/fhir",
-  "sec_path": "error",
-  "stars": 962,
-  "language": "C++",
-  "description": "FHIR Protocol Buffers",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/gousb",
-  "url": "https://github.com/google/gousb",
-  "sec_path": "error",
-  "stars": 936,
-  "language": "Go",
-  "description": "gousb provides low-level interface for accessing USB devices",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/paranoid_crypto",
-  "url": "https://github.com/google/paranoid_crypto",
-  "sec_path": "error",
-  "stars": 913,
-  "language": "Python",
-  "description": "Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -732,17 +402,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/mobly",
-  "url": "https://github.com/google/mobly",
-  "sec_path": "error",
-  "stars": 762,
-  "language": "Python",
-  "description": "E2E test framework for tests with complex environment requirements.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "tensorflow",
   "full_name": "tensorflow/io",
   "url": "https://github.com/tensorflow/io",
@@ -755,17 +414,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/openhtf",
-  "url": "https://github.com/google/openhtf",
-  "sec_path": "error",
-  "stars": 730,
-  "language": "Python",
-  "description": "The open-source hardware testing framework.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "golang",
   "full_name": "golang/appengine",
   "url": "https://github.com/golang/appengine",
@@ -774,72 +422,6 @@
   "language": "Go",
   "description": "Go App Engine packages",
   "first_seen": "2026-11-01 20:51:25"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/kube-startup-cpu-boost",
-  "url": "https://github.com/google/kube-startup-cpu-boost",
-  "sec_path": "error",
-  "stars": 671,
-  "language": "Go",
-  "description": "Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/gsocguides",
-  "url": "https://github.com/google/gsocguides",
-  "sec_path": "error",
-  "stars": 542,
-  "language": "CSS",
-  "description": "Google Summer of Code Mentor and Student Guides",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/react-schemaorg",
-  "url": "https://github.com/google/react-schemaorg",
-  "sec_path": "error",
-  "stars": 524,
-  "language": "TypeScript",
-  "description": "Type-checked Schema.org JSON-LD for React",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/digitalbuildings",
-  "url": "https://github.com/google/digitalbuildings",
-  "sec_path": "error",
-  "stars": 467,
-  "language": "Python",
-  "description": "Digital Buildings (ontology and SDK) currently being used by Google internally to manage our own buildings.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/go-attestation",
-  "url": "https://github.com/google/go-attestation",
-  "sec_path": "error",
-  "stars": 452,
-  "language": "Go",
-  "description": "Libraries to abstract aspects of working with TPMs for the purposes of attestation",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/silifuzz",
-  "url": "https://github.com/google/silifuzz",
-  "sec_path": "error",
-  "stars": 419,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -864,28 +446,6 @@
   "description": "Official code for \"RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control\"",
   "license": null,
   "first_seen": "2026-11-02 04:21:32"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/Xee",
-  "url": "https://github.com/google/Xee",
-  "sec_path": "error",
-  "stars": 380,
-  "language": "Python",
-  "description": "An Xarray extension for Google Earth Engine",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/libultrahdr",
-  "url": "https://github.com/google/libultrahdr",
-  "sec_path": "error",
-  "stars": 356,
-  "language": "C++",
-  "description": "Ultra HDR is a true HDR image format, and is backcompatible.  libultrahdr is the reference codec for the Ultra HDR format.  The codecs that support the format c…",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -925,28 +485,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/bigframes",
-  "url": "https://github.com/google/bigframes",
-  "sec_path": "error",
-  "stars": 299,
-  "language": "Python",
-  "description": "BigQuery DataFrames is a scalable, pandas-compatible DataFrame library.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/etils",
-  "url": "https://github.com/google/etils",
-  "sec_path": "error",
-  "stars": 261,
-  "language": "Python",
-  "description": "Collection of eclectic utils for python.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "angular",
   "full_name": "angular/angularjs.org",
   "url": "https://github.com/angular/angularjs.org",
@@ -955,39 +493,6 @@
   "language": "JavaScript",
   "description": "code for angularjs.org site",
   "first_seen": "2026-11-01 17:57:40"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/automotive-design-compose",
-  "url": "https://github.com/google/automotive-design-compose",
-  "sec_path": "error",
-  "stars": 211,
-  "language": "Rust",
-  "description": "Automotive Design for Compose is an extension to Jetpack Compose that allows every screen, component, and overlay of your Android App to be defined in Figma, an…",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/scaaml",
-  "url": "https://github.com/google/scaaml",
-  "sec_path": "error",
-  "stars": 210,
-  "language": "Python",
-  "description": "SCAAML: Side Channel Attacks Assisted with Machine Learning",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/gonids",
-  "url": "https://github.com/google/gonids",
-  "sec_path": "error",
-  "stars": 199,
-  "language": "Go",
-  "description": "gonids is a library to parse IDS rules, with a focus primarily on Suricata rule compatibility. There is a discussion forum available that you can join on Google…",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -1050,17 +555,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/jaxonnxruntime",
-  "url": "https://github.com/google/jaxonnxruntime",
-  "sec_path": "error",
-  "stars": 138,
-  "language": "Python",
-  "description": "A user-friendly tool chain that enables the seamless execution of ONNX models using JAX as the backend.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
   "org": "angular",
   "full_name": "angular/code-of-conduct",
   "url": "https://github.com/angular/code-of-conduct",
@@ -1069,28 +563,6 @@
   "language": null,
   "description": "A code of conduct for all Angular projects",
   "first_seen": "2026-11-01 17:57:40"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/meterstick",
-  "url": "https://github.com/google/meterstick",
-  "sec_path": "error",
-  "stars": 119,
-  "language": "Jupyter Notebook",
-  "description": "A concise syntax to describe and execute routine data analysis tasks",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/tsl",
-  "url": "https://github.com/google/tsl",
-  "sec_path": "error",
-  "stars": 110,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -1106,94 +578,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/googet",
-  "url": "https://github.com/google/googet",
-  "sec_path": "error",
-  "stars": 102,
-  "language": "Go",
-  "description": "GooGet package manager",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/eclipsa-audio-plugin",
-  "url": "https://github.com/google/eclipsa-audio-plugin",
-  "sec_path": "error",
-  "stars": 100,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/kernel-research",
-  "url": "https://github.com/google/kernel-research",
-  "sec_path": "error",
-  "stars": 98,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/guava-beta-checker",
-  "url": "https://github.com/google/guava-beta-checker",
-  "sec_path": "error",
-  "stars": 97,
-  "language": "Java",
-  "description": "Error Prone plugin to check for usages of @Beta APIs",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/emboss",
-  "url": "https://github.com/google/emboss",
-  "sec_path": "error",
-  "stars": 93,
-  "language": "Python",
-  "description": "Emboss is a tool for generating code that reads and writes binary data structures.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/pdl",
-  "url": "https://github.com/google/pdl",
-  "sec_path": "error",
-  "stars": 91,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/hdmitsuba",
-  "url": "https://github.com/google/hdmitsuba",
-  "sec_path": "error",
-  "stars": 90,
-  "language": "Python",
-  "description": "USD Hydra delegate for Mitsuba 3",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/webrisk",
-  "url": "https://github.com/google/webrisk",
-  "sec_path": "error",
-  "stars": 89,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/sxg-rs",
   "url": "https://github.com/google/sxg-rs",
   "sec_path": "SECURITY.md",
@@ -1202,17 +586,6 @@
   "description": "A set of tools for generating signed exchanges at serve time.",
   "license": null,
   "first_seen": "2026-11-02 04:21:32"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/jsinterop-generator",
-  "url": "https://github.com/google/jsinterop-generator",
-  "sec_path": "error",
-  "stars": 85,
-  "language": "Java",
-  "description": "Generates Java annotated with JsInterop from JavaScript extern sources",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -1240,17 +613,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/jsinterop-base",
-  "url": "https://github.com/google/jsinterop-base",
-  "sec_path": "error",
-  "stars": 76,
-  "language": "Java",
-  "description": "Utilities for GWT and J2CL to interact with JavaScript beyond JsInterop",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/pybind11clif",
   "url": "https://github.com/google/pybind11clif",
   "sec_path": "SECURITY.md",
@@ -1263,78 +625,12 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/metrax",
-  "url": "https://github.com/google/metrax",
-  "sec_path": "error",
-  "stars": 64,
-  "language": "Python",
-  "description": "A JAX-native High Performance Eval Metrics Library",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/ads-api-report-fetcher",
-  "url": "https://github.com/google/ads-api-report-fetcher",
-  "sec_path": "error",
-  "stars": 64,
-  "language": "TypeScript",
-  "description": "Google Ads API Report Fetcher (gaarf)",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/stellar-engine",
   "url": "https://github.com/google/stellar-engine",
   "sec_path": "SECURITY.md",
   "stars": 62,
   "language": "HCL",
   "description": "Framework for management of compliant Google Cloud infrastructure and design patterns for Assured Workloads featuring best practices and documentation to accele…",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/mpact-sim",
-  "url": "https://github.com/google/mpact-sim",
-  "sec_path": "error",
-  "stars": 62,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/fresnel",
-  "url": "https://github.com/google/fresnel",
-  "sec_path": "error",
-  "stars": 61,
-  "language": "Go",
-  "description": "A cross platform solution for remote OS provisioning.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/dwh-migration-tools",
-  "url": "https://github.com/google/dwh-migration-tools",
-  "sec_path": "error",
-  "stars": 60,
-  "language": "Java",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/pica",
-  "url": "https://github.com/google/pica",
-  "sec_path": "error",
-  "stars": 57,
-  "language": "Python",
-  "description": "Ultra-Wideband (UWB) and FiRa UCI spatial simulator in Rust",
   "first_seen": "2026-11-01 20:53:27"
  },
  {
@@ -1351,43 +647,10 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/meridian-geox",
-  "url": "https://github.com/google/meridian-geox",
-  "sec_path": "error",
-  "stars": 47,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/aarch64-paging",
-  "url": "https://github.com/google/aarch64-paging",
-  "sec_path": "error",
-  "stars": 46,
-  "language": "Rust",
-  "description": "A Rust library to manipulate AArch64 VMSA EL1 page tables.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/cybernetic-agent-governance-engine",
   "url": "https://github.com/google/cybernetic-agent-governance-engine",
   "sec_path": "SECURITY.md",
   "stars": 45,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/civics_cdf_validator",
-  "url": "https://github.com/google/civics_cdf_validator",
-  "sec_path": "error",
-  "stars": 41,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 20:53:27"
@@ -1406,83 +669,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/mpact-riscv",
-  "url": "https://github.com/google/mpact-riscv",
-  "sec_path": "error",
-  "stars": 36,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/goonami-scanner",
-  "url": "https://github.com/google/goonami-scanner",
-  "sec_path": "error",
-  "stars": 34,
-  "language": "Go",
-  "description": "Goonami is a general purpose network security scanner, written in Golang, with an extensible plugin system for detecting high severity vulnerabilities with high…",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/merchant-api-samples",
-  "url": "https://github.com/google/merchant-api-samples",
-  "sec_path": "error",
-  "stars": 34,
-  "language": "Java",
-  "description": "Merchant API Code Samples in Java, Python and PHP. Merchant API is a redesign of the Content API for Shopping.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/migration-planner",
-  "url": "https://github.com/google/migration-planner",
-  "sec_path": "error",
-  "stars": 33,
-  "language": "Python",
-  "description": "The Migration Planner is a desktop application designed to help deployment partners and IT administrators assess a Microsoft tenant before migration. ",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/aarch64-rt",
-  "url": "https://github.com/google/aarch64-rt",
-  "sec_path": "error",
-  "stars": 32,
-  "language": "Rust",
-  "description": "Startup code and exception vector for bare-metal Rust on aarch64 Cortex-A processors.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/distributed_graph_flow",
-  "url": "https://github.com/google/distributed_graph_flow",
-  "sec_path": "error",
-  "stars": 31,
-  "language": "Python",
-  "description": "A Python library to develop and deploy Graph Neural Network models.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/garf",
-  "url": "https://github.com/google/garf",
-  "sec_path": "error",
-  "stars": 30,
-  "language": "Python",
-  "description": "Call APIs with SQL",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/project-montage",
   "url": "https://github.com/google/project-montage",
   "sec_path": "SECURITY.md",
@@ -1491,17 +677,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 04:18:39"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/esmeralda",
-  "url": "https://github.com/google/esmeralda",
-  "sec_path": "error",
-  "stars": 27,
-  "language": "Python",
-  "description": "An opinionated, commercial-grade blueprint designed to accelerate the path to production for AI Agents.",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -1530,61 +705,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/percore",
-  "url": "https://github.com/google/percore",
-  "sec_path": "error",
-  "stars": 23,
-  "language": "Rust",
-  "description": "Safe per-CPU core mutable state on no_std Rust platforms through exception masking.",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/prompt-encryption-sdk",
-  "url": "https://github.com/google/prompt-encryption-sdk",
-  "sec_path": "error",
-  "stars": 22,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/libhoth",
-  "url": "https://github.com/google/libhoth",
-  "sec_path": "error",
-  "stars": 22,
-  "language": "C",
-  "description": "Library and tools to interact with a hoth-class root-of-trust chip.  Current owner: cjevans@google.com",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/rbrotli-enc",
-  "url": "https://github.com/google/rbrotli-enc",
-  "sec_path": "error",
-  "stars": 20,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/abfs",
-  "url": "https://github.com/google/abfs",
-  "sec_path": "error",
-  "stars": 19,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/ml-flashpoint",
   "url": "https://github.com/google/ml-flashpoint",
   "sec_path": "SECURITY.md",
@@ -1604,17 +724,6 @@
   "language": "TypeScript",
   "description": "",
   "first_seen": "2026-11-01 20:18:47"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/torq",
-  "url": "https://github.com/google/torq",
-  "sec_path": "error",
-  "stars": 14,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -1701,28 +810,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/bespoke",
-  "url": "https://github.com/google/bespoke",
-  "sec_path": "error",
-  "stars": 10,
-  "language": "Python",
-  "description": "Spaced repetition specialized for language learning",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/safer_cffi",
-  "url": "https://github.com/google/safer_cffi",
-  "sec_path": "error",
-  "stars": 9,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/TPM",
   "url": "https://github.com/google/TPM",
   "sec_path": "SECURITY.md",
@@ -1742,17 +829,6 @@
   "language": null,
   "description": "default community health files",
   "first_seen": "2026-11-01 17:57:40"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/p4-infra",
-  "url": "https://github.com/google/p4-infra",
-  "sec_path": "error",
-  "stars": 8,
-  "language": "C++",
-  "description": "P4 infra utility library",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -1777,17 +853,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-13 13:06:58"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/ninja-to-soong",
-  "url": "https://github.com/google/ninja-to-soong",
-  "sec_path": "error",
-  "stars": 7,
-  "language": "Rust",
-  "description": "Generate Soong files from Ninja",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",
@@ -1852,17 +917,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/aaos-sdv-telemetry-mcg",
-  "url": "https://github.com/google/aaos-sdv-telemetry-mcg",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/adjuice",
   "url": "https://github.com/google/adjuice",
   "sec_path": "SECURITY.md",
@@ -1922,17 +976,6 @@
  {
   "vendor": "谷歌",
   "org": "google",
-  "full_name": "google/simd_tokens",
-  "url": "https://github.com/google/simd_tokens",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "Rust",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
   "full_name": "google/x-edr-genit",
   "url": "https://github.com/google/x-edr-genit",
   "sec_path": "SECURITY.md",
@@ -1941,28 +984,6 @@
   "description": "Generic Iterators Library (genit)",
   "license": null,
   "first_seen": "2026-11-02 04:21:32"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/vtfx",
-  "url": "https://github.com/google/vtfx",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "Kotlin",
-  "description": "",
-  "first_seen": "2026-11-01 20:53:27"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/merchant-api-alpha-client",
-  "url": "https://github.com/google/merchant-api-alpha-client",
-  "sec_path": "error",
-  "stars": 1,
-  "language": null,
-  "description": "Google Merchant API Alpha Client Libraries",
-  "first_seen": "2026-11-01 20:53:27"
  },
  {
   "vendor": "谷歌",

@@ -17,6 +17,7 @@ from build_dashboard import build_dashboard, safe_name
 import collect
 import serve
 from sync_github import sync_public_data
+from repair_snapshots import repair_snapshots
 
 
 class DashboardTests(unittest.TestCase):
@@ -57,6 +58,39 @@ class DashboardTests(unittest.TestCase):
         first = (self.base / '索引/dashboard.json').read_bytes()
         build_dashboard(self.base)
         self.assertEqual(first,(self.base / '索引/dashboard.json').read_bytes())
+
+    def test_local_urls_use_actual_case_for_linux_pages(self):
+        folder = self.base / '厂商/示例_公司/example__a'
+        folder.rename(folder.with_name('EXAMPLE__a'))
+        build_dashboard(self.base)
+        payload = json.loads((self.base / '索引/dashboard.json').read_text(encoding='utf-8'))
+        self.assertIn('/EXAMPLE__a/',payload['repos'][0]['loc'])
+
+    def test_network_error_is_not_a_positive_or_negative_cache_hit(self):
+        state = {'repos_data':{},'repos_checked':{},'orgs':{}}
+        with patch.object(collect,'probe_security',return_value=('error',None)), patch.object(collect,'save_state'):
+            found = collect.probe_and_record(state,'example','示例/公司',{'example/a':{}},float('inf'))
+        self.assertEqual(found,0)
+        self.assertEqual(state['repos_data'],{})
+        self.assertEqual(state['repos_checked'],{})
+        state['repos_data']['example/a'] = {'org':'example','sec_path':'error'}
+        state['repos_checked']['example/a'] = {'sec_path':'error'}
+        self.assertEqual(collect.clean_error_records(state),1)
+        self.assertEqual(state['orgs']['example']['pending'],['example/a'])
+        self.assertFalse(state['repos_data'])
+        with patch.object(collect,'http_get',return_value=(503,b'upstream error')):
+            self.assertEqual(collect.probe_security('example/a'),('error',None))
+
+    def test_public_repair_quarantines_error_records_and_is_idempotent(self):
+        file = self.base / '厂商/示例_公司/repos.json'
+        file.write_text(json.dumps(self.records + [{'vendor':'示例/公司','org':'example','full_name':'example/bad','sec_path':'error'}]),encoding='utf-8')
+        self.assertEqual(repair_snapshots(self.base),1)
+        self.assertEqual(len(json.loads(file.read_text(encoding='utf-8'))),3)
+        self.assertEqual(build_dashboard(self.base),2)
+        self.assertEqual(repair_snapshots(self.base,apply=True),1)
+        self.assertEqual(len(json.loads(file.read_text(encoding='utf-8'))),2)
+        self.assertEqual(len(json.loads((self.base / '索引/retry-candidates.json').read_text(encoding='utf-8'))),1)
+        self.assertEqual(repair_snapshots(self.base,apply=True),0)
 
     def test_custom_vendor_mapping_is_actually_loaded(self):
         assets = self.base / '资产'

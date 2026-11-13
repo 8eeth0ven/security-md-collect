@@ -212,17 +212,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/caffe",
-  "url": "https://github.com/intel/caffe",
-  "sec_path": "error",
-  "stars": 848,
-  "language": "C++",
-  "description": "This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, in particular Intel® Xeon processors.",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/Intel-Linux-Processor-Microcode-Data-Files",
   "url": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files",
   "sec_path": "security.md",
@@ -362,17 +351,6 @@
   "language": "C++",
   "description": "Yet Another Random Program Generator",
   "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/wds",
-  "url": "https://github.com/intel/wds",
-  "sec_path": "error",
-  "stars": 517,
-  "language": "C++",
-  "description": "Wireless Display Software For Linux OS (WDS)",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -830,17 +808,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/msr-tools",
-  "url": "https://github.com/intel/msr-tools",
-  "sec_path": "error",
-  "stars": 239,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/asynch_mode_nginx",
   "url": "https://github.com/intel/asynch_mode_nginx",
   "sec_path": "SECURITY.md",
@@ -958,28 +925,6 @@
   "language": "C++",
   "description": "This repository provides a set of tools and libraries to integrate Intel® OpenVINO™ Toolkit with ROS 2 (Robot Operating System), enabling efficient deployment o…",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ros_object_analytics",
-  "url": "https://github.com/intel/ros_object_analytics",
-  "sec_path": "error",
-  "stars": 181,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/zephyr.js",
-  "url": "https://github.com/intel/zephyr.js",
-  "sec_path": "error",
-  "stars": 181,
-  "language": "C",
-  "description": "JavaScript* Runtime for Zephyr* OS",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -1336,39 +1281,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/SDN-NFV-Hands-on-Samples",
-  "url": "https://github.com/intel/SDN-NFV-Hands-on-Samples",
-  "sec_path": "error",
-  "stars": 117,
-  "language": "Shell",
-  "description": "Scripts and source code for SDN NFV Hands-on Labs",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/parameter-framework",
-  "url": "https://github.com/intel/parameter-framework",
-  "sec_path": "error",
-  "stars": 116,
-  "language": "C++",
-  "description": "Plugin-based and rule-based framework for describing and controlling parameters",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/thunderbolt-software-user-space",
-  "url": "https://github.com/intel/thunderbolt-software-user-space",
-  "sec_path": "error",
-  "stars": 113,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/media-delivery",
   "url": "https://github.com/intel/media-delivery",
   "sec_path": "SECURITY.md",
@@ -1392,17 +1304,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/Intel-Pattern-Matching-Technology",
-  "url": "https://github.com/intel/Intel-Pattern-Matching-Technology",
-  "sec_path": "error",
-  "stars": 111,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/qpl",
   "url": "https://github.com/intel/qpl",
   "sec_path": "SECURITY.md",
@@ -1421,28 +1322,6 @@
   "language": null,
   "description": "Intel developer staging area for unmerged upstream patch contributions to FFmpeg",
   "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/gazebo-realsense",
-  "url": "https://github.com/intel/gazebo-realsense",
-  "sec_path": "error",
-  "stars": 110,
-  "language": "C++",
-  "description": "A RealSense Camera Gazebo plugin",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ModernFW",
-  "url": "https://github.com/intel/ModernFW",
-  "sec_path": "error",
-  "stars": 105,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -1635,17 +1514,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/collision-avoidance-library",
-  "url": "https://github.com/intel/collision-avoidance-library",
-  "sec_path": "error",
-  "stars": 83,
-  "language": "C++",
-  "description": "A framework for testing and benchmarking collision avoidance strategies",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/ethernet-linux-ixgbe",
   "url": "https://github.com/intel/ethernet-linux-ixgbe",
   "sec_path": "security.md",
@@ -1734,17 +1602,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/Resilient-ML-Research-Platform",
-  "url": "https://github.com/intel/Resilient-ML-Research-Platform",
-  "sec_path": "error",
-  "stars": 78,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/ecfw-zephyr",
   "url": "https://github.com/intel/ecfw-zephyr",
   "sec_path": "SECURITY.md",
@@ -1763,17 +1620,6 @@
   "language": "HTML",
   "description": "Website for viewing the executable IA specification (external view). This combines data from the SDM and XED with a new executable specifiation.",
   "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/satt",
-  "url": "https://github.com/intel/satt",
-  "sec_path": "error",
-  "stars": 74,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -1822,17 +1668,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/sawr",
-  "url": "https://github.com/intel/sawr",
-  "sec_path": "error",
-  "stars": 71,
-  "language": "OpenSCAD",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/Intel-PMT",
   "url": "https://github.com/intel/Intel-PMT",
   "sec_path": "Security.md",
@@ -1855,39 +1690,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/qemu-lite",
-  "url": "https://github.com/intel/qemu-lite",
-  "sec_path": "error",
-  "stars": 69,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/clGPU",
-  "url": "https://github.com/intel/clGPU",
-  "sec_path": "error",
-  "stars": 68,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Converter-for-OPCUA",
-  "url": "https://github.com/intel/Converter-for-OPCUA",
-  "sec_path": "error",
-  "stars": 68,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/pepc",
   "url": "https://github.com/intel/pepc",
   "sec_path": "SECURITY.md",
@@ -1906,17 +1708,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/INTEL-SA-00075-Linux-Detection-And-Mitigation-Tools",
-  "url": "https://github.com/intel/INTEL-SA-00075-Linux-Detection-And-Mitigation-Tools",
-  "sec_path": "error",
-  "stars": 67,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -2054,28 +1845,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/pyMIC",
-  "url": "https://github.com/intel/pyMIC",
-  "sec_path": "error",
-  "stars": 60,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/de10-nano-hardware",
-  "url": "https://github.com/intel/de10-nano-hardware",
-  "sec_path": "error",
-  "stars": 60,
-  "language": "Tcl",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/workload-services-framework",
   "url": "https://github.com/intel/workload-services-framework",
   "sec_path": "SECURITY.md",
@@ -2141,17 +1910,6 @@
  },
  {
   "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Theano",
-  "url": "https://github.com/intel/Theano",
-  "sec_path": "error",
-  "stars": 58,
-  "language": "Python",
-  "description": "This fork of Theano/Theano is dedicated to improve its performance on CPU device, in particular Intel® Xeon® processors and Intel® Xeon Phi™ processors.",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
   "org": "oneapi-src",
   "full_name": "oneapi-src/unified-runtime",
   "url": "https://github.com/oneapi-src/unified-runtime",
@@ -2176,28 +1934,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/depthcamera-3d-model-web-demo",
-  "url": "https://github.com/intel/depthcamera-3d-model-web-demo",
-  "sec_path": "error",
-  "stars": 57,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/xom-switch",
-  "url": "https://github.com/intel/xom-switch",
-  "sec_path": "error",
-  "stars": 56,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/pinplay-tools",
   "url": "https://github.com/intel/pinplay-tools",
   "sec_path": "SECURITY.md",
@@ -2216,17 +1952,6 @@
   "language": "C",
   "description": "Unicorn Engine port for UEFI firmware",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cNVMe",
-  "url": "https://github.com/intel/cNVMe",
-  "sec_path": "error",
-  "stars": 53,
-  "language": "C++",
-  "description": "An NVMe Device Simulation Library.",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -2320,17 +2045,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/edison-linux",
-  "url": "https://github.com/intel/edison-linux",
-  "sec_path": "error",
-  "stars": 49,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/aipc-devkit-install",
   "url": "https://github.com/intel/aipc-devkit-install",
   "sec_path": "Security.md",
@@ -2397,17 +2111,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/ffmpeg_libyami",
-  "url": "https://github.com/intel/ffmpeg_libyami",
-  "sec_path": "error",
-  "stars": 47,
-  "language": "C",
-  "description": "Enable FFmpeg to use Libyami/VAAPI for hardware offload of video transcode on the Intel GPU",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/DTO",
   "url": "https://github.com/intel/DTO",
   "sec_path": "security.md",
@@ -2451,17 +2154,6 @@
  },
  {
   "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/meta-de10-nano",
-  "url": "https://github.com/intel/meta-de10-nano",
-  "sec_path": "error",
-  "stars": 45,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
   "org": "oneapi-src",
   "full_name": "oneapi-src/Velocity-Bench",
   "url": "https://github.com/oneapi-src/Velocity-Bench",
@@ -2497,17 +2189,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/Igvtg-kernel",
-  "url": "https://github.com/intel/Igvtg-kernel",
-  "sec_path": "error",
-  "stars": 44,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/tee-io-validator",
   "url": "https://github.com/intel/tee-io-validator",
   "sec_path": "SECURITY.md",
@@ -2537,17 +2218,6 @@
   "language": "Python",
   "description": "OpenACC* to OpenMP* API assisting migration tool",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ikgt-manifest",
-  "url": "https://github.com/intel/ikgt-manifest",
-  "sec_path": "error",
-  "stars": 42,
-  "language": null,
-  "description": "ikgt manifest",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -2607,17 +2277,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/android-iio-sensors-hal",
-  "url": "https://github.com/intel/android-iio-sensors-hal",
-  "sec_path": "error",
-  "stars": 39,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/polite-guard",
   "url": "https://github.com/intel/polite-guard",
   "sec_path": "SECURITY.md",
@@ -2625,17 +2284,6 @@
   "language": "Python",
   "description": "Source code for Intel's Polite Guard NLP project",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/edison-u-boot",
-  "url": "https://github.com/intel/edison-u-boot",
-  "sec_path": "error",
-  "stars": 38,
-  "language": "C",
-  "description": "DISCONTINUATION OF PROJECT.  This project will no longer be maintained by Intel.  Intel will not provide or guarantee development of or support for this project…",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -2680,28 +2328,6 @@
   "language": "C++",
   "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/torch",
-  "url": "https://github.com/intel/torch",
-  "sec_path": "error",
-  "stars": 37,
-  "language": "CMake",
-  "description": "Torch is a scientific computing framework with wide support for machine learning algorithms. It is easy to use and efficient, thanks to an easy and fast scripti…",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/meta-intel-iot-security",
-  "url": "https://github.com/intel/meta-intel-iot-security",
-  "sec_path": "error",
-  "stars": 37,
-  "language": "Python",
-  "description": "A collection of loosely related OpenEmbedded layers providing several security technologies",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -2772,17 +2398,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/DAFT",
-  "url": "https://github.com/intel/DAFT",
-  "sec_path": "error",
-  "stars": 36,
-  "language": "Python",
-  "description": "Automated Flasher Tester",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/npu-nn-cost-model",
   "url": "https://github.com/intel/npu-nn-cost-model",
   "sec_path": "security.md",
@@ -2801,17 +2416,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/intel-iot-refkit",
-  "url": "https://github.com/intel/intel-iot-refkit",
-  "sec_path": "error",
-  "stars": 35,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -2883,28 +2487,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/Galileo-Runtime",
-  "url": "https://github.com/intel/Galileo-Runtime",
-  "sec_path": "error",
-  "stars": 32,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/XenGT-Preview-kernel",
-  "url": "https://github.com/intel/XenGT-Preview-kernel",
-  "sec_path": "error",
-  "stars": 32,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/skills",
   "url": "https://github.com/intel/skills",
   "sec_path": "SECURITY.md",
@@ -2923,17 +2505,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/intel-arduino-tools",
-  "url": "https://github.com/intel/intel-arduino-tools",
-  "sec_path": "error",
-  "stars": 31,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -3037,17 +2608,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/ixpdimm_sw",
-  "url": "https://github.com/intel/ixpdimm_sw",
-  "sec_path": "error",
-  "stars": 29,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/wult",
   "url": "https://github.com/intel/wult",
   "sec_path": "SECURITY.md",
@@ -3088,17 +2648,6 @@
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/jit-spray-poc-for-ksp",
-  "url": "https://github.com/intel/jit-spray-poc-for-ksp",
-  "sec_path": "error",
-  "stars": 28,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -3147,17 +2696,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/linux-sgx-pcl",
-  "url": "https://github.com/intel/linux-sgx-pcl",
-  "sec_path": "error",
-  "stars": 27,
-  "language": "C++",
-  "description": "Intel(R) Software Guard Extensions Protected Code Loader for Linux* OS",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/tcf",
   "url": "https://github.com/intel/tcf",
   "sec_path": "SECURITY.md",
@@ -3165,17 +2703,6 @@
   "language": "Python",
   "description": "Documentation",
   "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/intel-camera-drivers",
-  "url": "https://github.com/intel/intel-camera-drivers",
-  "sec_path": "error",
-  "stars": 26,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -3198,50 +2725,6 @@
   "language": "Go",
   "description": "The project has been moved to CC-API organization. For more information:",
   "first_seen": "2026-11-01 21:53:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/wayland-tracker",
-  "url": "https://github.com/intel/wayland-tracker",
-  "sec_path": "error",
-  "stars": 25,
-  "language": "Haskell",
-  "description": "Wayland protocol dumper",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/hetero-streams",
-  "url": "https://github.com/intel/hetero-streams",
-  "sec_path": "error",
-  "stars": 25,
-  "language": "C++",
-  "description": "hetero-streams",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/libyami-utils",
-  "url": "https://github.com/intel/libyami-utils",
-  "sec_path": "error",
-  "stars": 25,
-  "language": "C++",
-  "description": "Libyami Utilities",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/depthcamera-pointcloud-web-demo",
-  "url": "https://github.com/intel/depthcamera-pointcloud-web-demo",
-  "sec_path": "error",
-  "stars": 25,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -3275,28 +2758,6 @@
   "language": "C++",
   "description": "",
   "first_seen": "2026-11-01 21:53:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/linux-intel-4.9",
-  "url": "https://github.com/intel/linux-intel-4.9",
-  "sec_path": "error",
-  "stars": 24,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cmrt",
-  "url": "https://github.com/intel/cmrt",
-  "sec_path": "error",
-  "stars": 24,
-  "language": "C++",
-  "description": "C for Media Runtime",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -3400,17 +2861,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/ros2_message_filters",
-  "url": "https://github.com/intel/ros2_message_filters",
-  "sec_path": "error",
-  "stars": 22,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/dokimi",
   "url": "https://github.com/intel/dokimi",
   "sec_path": "SECURITY.md",
@@ -3451,28 +2901,6 @@
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/KVMGT-seabios",
-  "url": "https://github.com/intel/KVMGT-seabios",
-  "sec_path": "error",
-  "stars": 21,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/iasimage",
-  "url": "https://github.com/intel/iasimage",
-  "sec_path": "error",
-  "stars": 21,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -3586,50 +3014,6 @@
  },
  {
   "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-A-X86",
-  "url": "https://github.com/intel/CODK-A-X86",
-  "sec_path": "error",
-  "stars": 20,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-A",
-  "url": "https://github.com/intel/CODK-A",
-  "sec_path": "error",
-  "stars": 20,
-  "language": "Makefile",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/XenGT-Preview-xen",
-  "url": "https://github.com/intel/XenGT-Preview-xen",
-  "sec_path": "error",
-  "stars": 20,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Reference-PE-and-Measurements-DB-for-WiFi-Time-based-Scalable-Location",
-  "url": "https://github.com/intel/Reference-PE-and-Measurements-DB-for-WiFi-Time-based-Scalable-Location",
-  "sec_path": "error",
-  "stars": 20,
-  "language": "MATLAB",
-  "description": "The repository includes a reference Matlab code for a mobile WiFi client receiver, Kalman-Filter-based positioning engine (PE) and a database of time-delay meas…",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
   "org": "oneapi-src",
   "full_name": "oneapi-src/level-zero-spec",
   "url": "https://github.com/oneapi-src/level-zero-spec",
@@ -3710,28 +3094,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/iot-js-api",
-  "url": "https://github.com/intel/iot-js-api",
-  "sec_path": "error",
-  "stars": 19,
-  "language": "JavaScript",
-  "description": "IoT JavaScript API specifications and test suites",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/AVBStreamHandler",
-  "url": "https://github.com/intel/AVBStreamHandler",
-  "sec_path": "error",
-  "stars": 19,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/level-zero-npu-extensions",
   "url": "https://github.com/intel/level-zero-npu-extensions",
   "sec_path": "security.md",
@@ -3783,17 +3145,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/murphy",
-  "url": "https://github.com/intel/murphy",
-  "sec_path": "error",
-  "stars": 18,
-  "language": "C",
-  "description": "Resource Policy",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -3920,28 +3271,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/bat",
-  "url": "https://github.com/intel/bat",
-  "sec_path": "error",
-  "stars": 17,
-  "language": "C",
-  "description": "basic audio tester",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/php_pgo_training_scripts",
-  "url": "https://github.com/intel/php_pgo_training_scripts",
-  "sec_path": "error",
-  "stars": 17,
-  "language": "PHP",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/memory-usage-analyzer",
   "url": "https://github.com/intel/memory-usage-analyzer",
   "sec_path": "SECURITY.md",
@@ -4037,17 +3366,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:53:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/isaac",
-  "url": "https://github.com/intel/isaac",
-  "sec_path": "error",
-  "stars": 16,
-  "language": "C++",
-  "description": "Input-aware cuBLAS/clBLAS implementation for better performance",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -4228,50 +3546,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/Igvtg-xen",
-  "url": "https://github.com/intel/Igvtg-xen",
-  "sec_path": "error",
-  "stars": 15,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/wayland-fits",
-  "url": "https://github.com/intel/wayland-fits",
-  "sec_path": "error",
-  "stars": 15,
-  "language": "C++",
-  "description": "Wayland Functional Integration Test Suite - This project is no longer maintained and looking for new maintainer/owner..",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ros2_object_map",
-  "url": "https://github.com/intel/ros2_object_map",
-  "sec_path": "error",
-  "stars": 15,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/oim",
-  "url": "https://github.com/intel/oim",
-  "sec_path": "error",
-  "stars": 15,
-  "language": "Go",
-  "description": "Open Infrastructure Manager (OIM) is an open source project which simplifies the integration of storage and network acceleration into cloud environments like Ku…",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/rohd-wave-viewer",
   "url": "https://github.com/intel/rohd-wave-viewer",
   "sec_path": "SECURITY.md",
@@ -4382,28 +3656,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/hpc-speedometer",
-  "url": "https://github.com/intel/hpc-speedometer",
-  "sec_path": "error",
-  "stars": 14,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/HFAV",
-  "url": "https://github.com/intel/HFAV",
-  "sec_path": "error",
-  "stars": 14,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/intel-xpu-smartune",
   "url": "https://github.com/intel/intel-xpu-smartune",
   "sec_path": "SECURITY.md",
@@ -4488,50 +3740,6 @@
   "language": "HCL",
   "description": "Intel Cloud Optimization Module - Azure Sentinel Policies",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/psm",
-  "url": "https://github.com/intel/psm",
-  "sec_path": "error",
-  "stars": 13,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/WiFi-Location-Core-PE-and-Measurement-Database",
-  "url": "https://github.com/intel/WiFi-Location-Core-PE-and-Measurement-Database",
-  "sec_path": "error",
-  "stars": 13,
-  "language": "MATLAB",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/container-experience-kits-demo-area",
-  "url": "https://github.com/intel/container-experience-kits-demo-area",
-  "sec_path": "error",
-  "stars": 13,
-  "language": "Shell",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/sgx-gmp",
-  "url": "https://github.com/intel/sgx-gmp",
-  "sec_path": "error",
-  "stars": 13,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -4724,17 +3932,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/OpenOCD",
-  "url": "https://github.com/intel/OpenOCD",
-  "sec_path": "error",
-  "stars": 12,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/rohd-website",
   "url": "https://github.com/intel/rohd-website",
   "sec_path": "SECURITY.md",
@@ -4888,39 +4085,6 @@
  },
  {
   "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/corelibs-galileo",
-  "url": "https://github.com/intel/corelibs-galileo",
-  "sec_path": "error",
-  "stars": 11,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ros_moving_object",
-  "url": "https://github.com/intel/ros_moving_object",
-  "sec_path": "error",
-  "stars": 11,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/opa-firmware",
-  "url": "https://github.com/intel/opa-firmware",
-  "sec_path": "error",
-  "stars": 11,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
   "org": "oneapi-src",
   "full_name": "oneapi-src/oneMKL-samples",
   "url": "https://github.com/oneapi-src/oneMKL-samples",
@@ -5062,72 +4226,6 @@
   "language": "Python",
   "description": "Intel® AI Inference Samples provide example code for deploying optimized inference in Intel platforms.",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/mic",
-  "url": "https://github.com/intel/mic",
-  "sec_path": "error",
-  "stars": 10,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/gazebo-sitl",
-  "url": "https://github.com/intel/gazebo-sitl",
-  "sec_path": "error",
-  "stars": 10,
-  "language": "C++",
-  "description": "A ROS-independent Gazebo plugin for Ardupilot's SITL",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/mklnn",
-  "url": "https://github.com/intel/mklnn",
-  "sec_path": "error",
-  "stars": 10,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/meta-intel-camera",
-  "url": "https://github.com/intel/meta-intel-camera",
-  "sec_path": "error",
-  "stars": 10,
-  "language": "BitBake",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/spark-mpi-adapter",
-  "url": "https://github.com/intel/spark-mpi-adapter",
-  "sec_path": "error",
-  "stars": 10,
-  "language": "C++",
-  "description": "MPI Adapter for Apache Spark",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/osadsp-qemu",
-  "url": "https://github.com/intel/osadsp-qemu",
-  "sec_path": "error",
-  "stars": 10,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -5309,83 +4407,6 @@
  },
  {
   "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/keras",
-  "url": "https://github.com/intel/keras",
-  "sec_path": "error",
-  "stars": 9,
-  "language": "Python",
-  "description": "Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow.",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/parameter-framework-plugins-filesystem",
-  "url": "https://github.com/intel/parameter-framework-plugins-filesystem",
-  "sec_path": "error",
-  "stars": 9,
-  "language": "C++",
-  "description": "filesystem-plugin for the parameter-framework",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/parameter-framework-samples",
-  "url": "https://github.com/intel/parameter-framework-samples",
-  "sec_path": "error",
-  "stars": 9,
-  "language": "Shell",
-  "description": "Examples and tutorials for Parameter Framework",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/small-gpu-rendering-examples",
-  "url": "https://github.com/intel/small-gpu-rendering-examples",
-  "sec_path": "error",
-  "stars": 9,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ros_object_map",
-  "url": "https://github.com/intel/ros_object_map",
-  "sec_path": "error",
-  "stars": 9,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/invm-frameworks",
-  "url": "https://github.com/intel/invm-frameworks",
-  "sec_path": "error",
-  "stars": 9,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/android-audio-hal",
-  "url": "https://github.com/intel/android-audio-hal",
-  "sec_path": "error",
-  "stars": 9,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
   "org": "oneapi-src",
   "full_name": "oneapi-src/computational-fluid-dynamics",
   "url": "https://github.com/oneapi-src/computational-fluid-dynamics",
@@ -5543,50 +4564,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/corelibs-edison",
-  "url": "https://github.com/intel/corelibs-edison",
-  "sec_path": "error",
-  "stars": 8,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/hwc",
-  "url": "https://github.com/intel/hwc",
-  "sec_path": "error",
-  "stars": 8,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/XenGT-Preview-qemu",
-  "url": "https://github.com/intel/XenGT-Preview-qemu",
-  "sec_path": "error",
-  "stars": 8,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/buxton",
-  "url": "https://github.com/intel/buxton",
-  "sec_path": "error",
-  "stars": 8,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/enterprise-rag",
   "url": "https://github.com/intel/enterprise-rag",
   "sec_path": "SECURITY.md",
@@ -5715,28 +4692,6 @@
   "language": "Python",
   "description": "The goal is to speed up the Scaffolding process for user, and get their application up and running in Gramine as fast as possible.",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/initsearchtool",
-  "url": "https://github.com/intel/initsearchtool",
-  "sec_path": "error",
-  "stars": 7,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/nvt",
-  "url": "https://github.com/intel/nvt",
-  "sec_path": "error",
-  "stars": 7,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -5927,72 +4882,6 @@
   "language": "C",
   "description": "",
   "first_seen": "2026-11-01 21:53:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-M",
-  "url": "https://github.com/intel/CODK-M",
-  "sec_path": "error",
-  "stars": 6,
-  "language": "Makefile",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-Z-Flashpack",
-  "url": "https://github.com/intel/CODK-Z-Flashpack",
-  "sec_path": "error",
-  "stars": 6,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/websensor-compass",
-  "url": "https://github.com/intel/websensor-compass",
-  "sec_path": "error",
-  "stars": 6,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ThenWhatTree",
-  "url": "https://github.com/intel/ThenWhatTree",
-  "sec_path": "error",
-  "stars": 6,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ros2_moving_object",
-  "url": "https://github.com/intel/ros2_moving_object",
-  "sec_path": "error",
-  "stars": 6,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/pt-visualizer",
-  "url": "https://github.com/intel/pt-visualizer",
-  "sec_path": "error",
-  "stars": 6,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -6327,39 +5216,6 @@
  },
  {
   "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/numpy",
-  "url": "https://github.com/intel/numpy",
-  "sec_path": "error",
-  "stars": 5,
-  "language": "C",
-  "description": "This fork of numpy/numpy is dedicated to improve its performance on CPU device, in particular Intel® Xeon® processors and Intel® Xeon Phi™ processors.",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-Z",
-  "url": "https://github.com/intel/CODK-Z",
-  "sec_path": "error",
-  "stars": 5,
-  "language": "Makefile",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Halide",
-  "url": "https://github.com/intel/Halide",
-  "sec_path": "error",
-  "stars": 5,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
   "org": "oneapi-src",
   "full_name": "oneapi-src/structural-damage-assessment",
   "url": "https://github.com/oneapi-src/structural-damage-assessment",
@@ -6634,138 +5490,6 @@
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 21:53:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/edison-oobe",
-  "url": "https://github.com/intel/edison-oobe",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-A-Bootloader",
-  "url": "https://github.com/intel/CODK-A-Bootloader",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "C",
-  "description": "Arduino 101 Bootloader",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/branch_hinting_tool",
-  "url": "https://github.com/intel/branch_hinting_tool",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/tinyTILE-Extended-Support-Library",
-  "url": "https://github.com/intel/tinyTILE-Extended-Support-Library",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/iotg-lin-gfx-libdrm",
-  "url": "https://github.com/intel/iotg-lin-gfx-libdrm",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/iotg-lin-gfx-gstreamer-vaapi",
-  "url": "https://github.com/intel/iotg-lin-gfx-gstreamer-vaapi",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/VNB-main",
-  "url": "https://github.com/intel/VNB-main",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "Shell",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/vpx-image-transport",
-  "url": "https://github.com/intel/vpx-image-transport",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/external-weston",
-  "url": "https://github.com/intel/external-weston",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/object_msgs",
-  "url": "https://github.com/intel/object_msgs",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "CMake",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ctf-infrastructure",
-  "url": "https://github.com/intel/ctf-infrastructure",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "Shell",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/rtos-drv-intel-s1000",
-  "url": "https://github.com/intel/rtos-drv-intel-s1000",
-  "sec_path": "error",
-  "stars": 4,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -7109,138 +5833,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Dependency-Reduction-Unit-Framework",
-  "url": "https://github.com/intel/Dependency-Reduction-Unit-Framework",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "C++",
-  "description": "Test-Framework with capabilitys for dependency reduction for C/C++-Legacy Projects ",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/mce-test",
-  "url": "https://github.com/intel/mce-test",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/opa-libhfi1verbs",
-  "url": "https://github.com/intel/opa-libhfi1verbs",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/deep-learning-technologies",
-  "url": "https://github.com/intel/deep-learning-technologies",
-  "sec_path": "error",
-  "stars": 3,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/intel-arduino-updater",
-  "url": "https://github.com/intel/intel-arduino-updater",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "Java",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ikgt-usage",
-  "url": "https://github.com/intel/ikgt-usage",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "C",
-  "description": "ikgt usage repo",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-cache",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-cache",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ros_object_detect_launch",
-  "url": "https://github.com/intel/ros_object_detect_launch",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "CMake",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/sound-open-firmware-binaries",
-  "url": "https://github.com/intel/sound-open-firmware-binaries",
-  "sec_path": "error",
-  "stars": 3,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/redteam-infra",
-  "url": "https://github.com/intel/redteam-infra",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "Puppet",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/crd-reconciler-for-kubernetes",
-  "url": "https://github.com/intel/crd-reconciler-for-kubernetes",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/vtune-perf-numactl",
-  "url": "https://github.com/intel/vtune-perf-numactl",
-  "sec_path": "error",
-  "stars": 3,
-  "language": "C",
-  "description": "NUMA support for Linux",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -7723,182 +6315,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:53:44"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/clear-linux-dissector-web",
-  "url": "https://github.com/intel/clear-linux-dissector-web",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/unfified-ril",
-  "url": "https://github.com/intel/unfified-ril",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-A-ARC",
-  "url": "https://github.com/intel/CODK-A-ARC",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "Makefile",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-device",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-device",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-base",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-base",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/VNB-SECMON-broker",
-  "url": "https://github.com/intel/VNB-SECMON-broker",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/libcamhal",
-  "url": "https://github.com/intel/libcamhal",
-  "sec_path": "error",
-  "stars": 2,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Container-SW-BM-RA-Telemetry",
-  "url": "https://github.com/intel/Container-SW-BM-RA-Telemetry",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "Shell",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/websensor-sensor-info",
-  "url": "https://github.com/intel/websensor-sensor-info",
-  "sec_path": "error",
-  "stars": 2,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/external-wayland",
-  "url": "https://github.com/intel/external-wayland",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/sound-open-firmware-test-cases",
-  "url": "https://github.com/intel/sound-open-firmware-test-cases",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "Shell",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/imu_driver",
-  "url": "https://github.com/intel/imu_driver",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Junction2018",
-  "url": "https://github.com/intel/Junction2018",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/intel-graph-generator",
-  "url": "https://github.com/intel/intel-graph-generator",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "C#",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/vtune-perf-v4.3.1",
-  "url": "https://github.com/intel/vtune-perf-v4.3.1",
-  "sec_path": "error",
-  "stars": 2,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Detectron",
-  "url": "https://github.com/intel/Detectron",
-  "sec_path": "error",
-  "stars": 2,
-  "language": "Python",
-  "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -8518,281 +6934,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/pem",
-  "url": "https://github.com/intel/pem",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/iotg-lin-gfx-ddx",
-  "url": "https://github.com/intel/iotg-lin-gfx-ddx",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/external-vulkan_hal",
-  "url": "https://github.com/intel/external-vulkan_hal",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-geolocation",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-geolocation",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-file",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-file",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "Objective-C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-camera",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-camera",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-M-X86-Samples",
-  "url": "https://github.com/intel/CODK-M-X86-Samples",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/meta-intel-aero",
-  "url": "https://github.com/intel/meta-intel-aero",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "BitBake",
-  "description": "Yocto layer to support Intel Aero platform",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-M-X86",
-  "url": "https://github.com/intel/CODK-M-X86",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/iot-web-layers",
-  "url": "https://github.com/intel/iot-web-layers",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "BitBake",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/VNB-SECMON-config",
-  "url": "https://github.com/intel/VNB-SECMON-config",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/irstessi",
-  "url": "https://github.com/intel/irstessi",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/iotg-lin-gfx-va-driver",
-  "url": "https://github.com/intel/iotg-lin-gfx-va-driver",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/websensor-vr-button",
-  "url": "https://github.com/intel/websensor-vr-button",
-  "sec_path": "error",
-  "stars": 1,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/websensor-ambient-map",
-  "url": "https://github.com/intel/websensor-ambient-map",
-  "sec_path": "error",
-  "stars": 1,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/external-wayland-protocols",
-  "url": "https://github.com/intel/external-wayland-protocols",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "M4",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/tbtfwupd",
-  "url": "https://github.com/intel/tbtfwupd",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C",
-  "description": "A simple daemon to allow session software to update firmware",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Micro-Segmentation",
-  "url": "https://github.com/intel/Micro-Segmentation",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cloudwpa-rwpa_dp",
-  "url": "https://github.com/intel/cloudwpa-rwpa_dp",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Service-Catalog-for-VCF",
-  "url": "https://github.com/intel/Service-Catalog-for-VCF",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "Shell",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/AALSDK",
-  "url": "https://github.com/intel/AALSDK",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/camera_driver",
-  "url": "https://github.com/intel/camera_driver",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/redteam-ssh",
-  "url": "https://github.com/intel/redteam-ssh",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/Developer-Tools-Runtimes-Blogs",
-  "url": "https://github.com/intel/Developer-Tools-Runtimes-Blogs",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ioc-cbc-tools",
-  "url": "https://github.com/intel/ioc-cbc-tools",
-  "sec_path": "error",
-  "stars": 1,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
  },
  {
   "vendor": "Intel",
@@ -9624,402 +7765,6 @@
   "stars": null,
   "language": "Python",
   "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy a…",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/node-realsense-test-data",
-  "url": "https://github.com/intel/node-realsense-test-data",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-A-Manifest",
-  "url": "https://github.com/intel/CODK-A-Manifest",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/jndn-mock",
-  "url": "https://github.com/intel/jndn-mock",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Java",
-  "description": "Tools for testing NDN applications without network IO",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/jndn-management",
-  "url": "https://github.com/intel/jndn-management",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Java",
-  "description": "Tools for managing an NDN forwarding daemon",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/android-things-examples",
-  "url": "https://github.com/intel/android-things-examples",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-A-Flashpack",
-  "url": "https://github.com/intel/CODK-A-Flashpack",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/iotg-lin-gfx-mesa",
-  "url": "https://github.com/intel/iotg-lin-gfx-mesa",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-Tools",
-  "url": "https://github.com/intel/CODK-Tools",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/CODK-M-ARC",
-  "url": "https://github.com/intel/CODK-M-ARC",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Makefile",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-player",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-player",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Java",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-notification",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-notification",
-  "sec_path": "error",
-  "stars": null,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-multitouch",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-multitouch",
-  "sec_path": "error",
-  "stars": null,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-facebook",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-facebook",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Java",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-display",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-display",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Java",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-contacts",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-contacts",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C#",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-audio",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-audio",
-  "sec_path": "error",
-  "stars": null,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-intel-xdk-accelerometer",
-  "url": "https://github.com/intel/cordova-plugin-intel-xdk-accelerometer",
-  "sec_path": "error",
-  "stars": null,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/torch7",
-  "url": "https://github.com/intel/torch7",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C",
-  "description": "http://torch.ch",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/mkltorch",
-  "url": "https://github.com/intel/mkltorch",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/collectd",
-  "url": "https://github.com/intel/collectd",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C",
-  "description": "The system statistics collection daemon. Please send Pull Requests here!",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cordova-plugin-ocf",
-  "url": "https://github.com/intel/cordova-plugin-ocf",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Java",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/aws-iotivity",
-  "url": "https://github.com/intel/aws-iotivity",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Java",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/upm-cordova-binding",
-  "url": "https://github.com/intel/upm-cordova-binding",
-  "sec_path": "error",
-  "stars": null,
-  "language": "JavaScript",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cloudwpa-ap",
-  "url": "https://github.com/intel/cloudwpa-ap",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cloudwpa-sim",
-  "url": "https://github.com/intel/cloudwpa-sim",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cloudwpa-scripts",
-  "url": "https://github.com/intel/cloudwpa-scripts",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Shell",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cloudwpa-pf_init",
-  "url": "https://github.com/intel/cloudwpa-pf_init",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cloudwpa-manifest",
-  "url": "https://github.com/intel/cloudwpa-manifest",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/ardupilot",
-  "url": "https://github.com/intel/ardupilot",
-  "sec_path": "error",
-  "stars": null,
-  "language": "C++",
-  "description": "ArduPlane, ArduCopter, ArduRover source",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/cloudwpa-hostapd",
-  "url": "https://github.com/intel/cloudwpa-hostapd",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/media-driver-docker",
-  "url": "https://github.com/intel/media-driver-docker",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Dockerfile",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/vtune-perf-glibc-v2.7",
-  "url": "https://github.com/intel/vtune-perf-glibc-v2.7",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/alert-handler-for-custom-metrics",
-  "url": "https://github.com/intel/alert-handler-for-custom-metrics",
-  "sec_path": "error",
-  "stars": null,
-  "language": "Go",
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/stacks_pipeline",
-  "url": "https://github.com/intel/stacks_pipeline",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/node-isal-crypto",
-  "url": "https://github.com/intel/node-isal-crypto",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 21:54:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/owca",
-  "url": "https://github.com/intel/owca",
-  "sec_path": "error",
-  "stars": null,
-  "language": null,
-  "description": "",
   "first_seen": "2026-11-01 21:54:54"
  },
  {
