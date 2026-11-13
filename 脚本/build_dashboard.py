@@ -16,7 +16,7 @@ def safe_name(name):
 def atomic_text(path, content):
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_name(path.name + '.tmp')
-    temporary.write_text(content, encoding='utf-8')
+    temporary.write_text(content, encoding='utf-8', newline='\n')
     temporary.replace(path)
 
 

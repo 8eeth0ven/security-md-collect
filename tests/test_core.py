@@ -119,6 +119,9 @@ class DashboardTests(unittest.TestCase):
             self.assertFalse((destination / '资产/.gh_token').exists())
             self.assertTrue((destination / '厂商/示例_公司/repos.json').is_file())
             self.assertEqual(sync_public_data(self.base,destination),0)
+            original = self.base / '厂商/示例_公司/repos.json'
+            original.write_bytes(original.read_bytes().replace(b'\n',b'\r\n'))
+            self.assertEqual(sync_public_data(self.base,destination),0)
 
 
 class ServerTests(unittest.TestCase):

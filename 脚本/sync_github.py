@@ -4,9 +4,7 @@ Use --dry-run to inspect, and --push to explicitly commit and publish.
 The source and destination must be different directories.
 """
 import argparse
-import filecmp
 import os
-import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -38,11 +36,12 @@ def sync_public_data(base, destination):
         target = destination / relative
         if not target.resolve().is_relative_to(destination):
             raise ValueError('Destination symlink escapes repository: %s' % relative)
-        if target.is_file() and filecmp.cmp(file, target, shallow=False):
+        content = file.read_bytes().replace(b'\r\n', b'\n')
+        if target.is_file() and target.read_bytes() == content:
             continue
         target.parent.mkdir(parents=True,exist_ok=True)
         temporary = target.with_name(target.name+'.tmp')
-        shutil.copyfile(file,temporary)
+        temporary.write_bytes(content)
         temporary.replace(target)
         changed += 1
     return changed
