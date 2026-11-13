@@ -16,7 +16,7 @@
   "full_name": "ROCm/TheRock",
   "url": "https://github.com/ROCm/TheRock",
   "sec_path": "SECURITY.md",
-  "stars": 1428,
+  "stars": 1437,
   "language": "Python",
   "description": "The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm",
   "first_seen": "2026-11-01 17:11:17"
@@ -27,7 +27,7 @@
   "full_name": "ROCm/HIPIFY",
   "url": "https://github.com/ROCm/HIPIFY",
   "sec_path": "SECURITY.md",
-  "stars": 736,
+  "stars": 738,
   "language": "C++",
   "description": "HIPIFY: Convert CUDA to Portable C++ Code",
   "first_seen": "2026-11-01 17:11:17"
@@ -71,7 +71,7 @@
   "full_name": "ROCm/rocm-examples",
   "url": "https://github.com/ROCm/rocm-examples",
   "sec_path": "SECURITY.md",
-  "stars": 329,
+  "stars": 330,
   "language": "C++",
   "description": "A collection of examples for the ROCm software stack",
   "first_seen": "2026-11-01 17:11:17"
@@ -104,7 +104,7 @@
   "full_name": "ROCm/iris",
   "url": "https://github.com/ROCm/iris",
   "sec_path": "SECURITY.md",
-  "stars": 203,
+  "stars": 206,
   "language": "Python",
   "description": "AMD RAD's multi-GPU Triton-based framework for seamless multi-GPU programming",
   "first_seen": "2026-11-01 17:11:17"
@@ -115,7 +115,7 @@
   "full_name": "ROCm/rocMLIR",
   "url": "https://github.com/ROCm/rocMLIR",
   "sec_path": "SECURITY.md",
-  "stars": 195,
+  "stars": 197,
   "language": "MLIR",
   "description": "",
   "first_seen": "2026-11-01 17:11:17"
@@ -137,7 +137,7 @@
   "full_name": "ROCm/spur",
   "url": "https://github.com/ROCm/spur",
   "sec_path": "SECURITY.md",
-  "stars": 138,
+  "stars": 141,
   "language": "Rust",
   "description": "spur your compute",
   "first_seen": "2026-11-01 17:11:17"
@@ -181,7 +181,7 @@
   "full_name": "ROCm/rocprof-compute-viewer",
   "url": "https://github.com/ROCm/rocprof-compute-viewer",
   "sec_path": "SECURITY.md",
-  "stars": 79,
+  "stars": 80,
   "language": "C++",
   "description": "ROCprof Compute Viewer (RCV) is a tool for visualizing and analyzing GPU thread trace data collected using rocprofv3",
   "first_seen": "2026-11-01 17:11:17"
@@ -203,7 +203,7 @@
   "full_name": "ROCm/rocm-xio",
   "url": "https://github.com/ROCm/rocm-xio",
   "sec_path": "SECURITY.md",
-  "stars": 71,
+  "stars": 73,
   "language": "HIP",
   "description": "A ROCm library for GPU-Initiated IO. This provides support for initiating IO from a ROCm-capable GPU against a range of targets including RDMA NICs, NVMe SSDs a…",
   "first_seen": "2026-11-01 17:11:17"
@@ -214,7 +214,7 @@
   "full_name": "ROCm/gfx950-gluon-tutorials",
   "url": "https://github.com/ROCm/gfx950-gluon-tutorials",
   "sec_path": "SECURITY.md",
-  "stars": 57,
+  "stars": 58,
   "language": "Python",
   "description": "A practical guide to high-performance gluon kernel development on AMD GFX9 GPUs.",
   "first_seen": "2026-11-01 17:11:17"
@@ -225,7 +225,7 @@
   "full_name": "ROCm/rocm-cli",
   "url": "https://github.com/ROCm/rocm-cli",
   "sec_path": "SECURITY.md",
-  "stars": 50,
+  "stars": 51,
   "language": "Rust",
   "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model serving, and chat.",
   "first_seen": "2026-11-01 17:11:17"
@@ -258,7 +258,7 @@
   "full_name": "ROCm/roc-optiq",
   "url": "https://github.com/ROCm/roc-optiq",
   "sec_path": "SECURITY.md",
-  "stars": 33,
+  "stars": 35,
   "language": "C++",
   "description": "A visualizer for the ROCm Profiler Tools ",
   "first_seen": "2026-11-01 17:11:17"
@@ -269,7 +269,7 @@
   "full_name": "ROCm/jax",
   "url": "https://github.com/ROCm/jax",
   "sec_path": "docs/security.md",
-  "stars": 32,
+  "stars": 33,
   "language": "Python",
   "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
   "first_seen": "2026-11-01 17:11:17"
@@ -324,7 +324,7 @@
   "full_name": "ROCm/torch_migraphx",
   "url": "https://github.com/ROCm/torch_migraphx",
   "sec_path": "SECURITY.md",
-  "stars": 22,
+  "stars": 21,
   "language": "Python",
   "description": "Torch-MIGraphX integrates AMD's graph inference engine with the PyTorch ecosystem.",
   "first_seen": "2026-11-01 17:11:17"
@@ -346,7 +346,7 @@
   "full_name": "ROCm/cvs",
   "url": "https://github.com/ROCm/cvs",
   "sec_path": "SECURITY.md",
-  "stars": 18,
+  "stars": 19,
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 17:11:17"
@@ -467,7 +467,7 @@
   "full_name": "ROCm/rocmlirTriton",
   "url": "https://github.com/ROCm/rocmlirTriton",
   "sec_path": "SECURITY.md",
-  "stars": 10,
+  "stars": 11,
   "language": "C++",
   "description": "MLIR kernel generator for AMD GPUs (GEMM, conv, attention, fused), built on a Triton compilation backend.",
   "first_seen": "2026-11-01 17:11:17"
@@ -493,6 +493,17 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 16:16:00"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/axis",
+  "url": "https://github.com/ROCm/axis",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Rust",
+  "description": "AXIS: Agent eXecution Isolation Substrate — secure sandbox runtime for AI agents",
+  "first_seen": "2026-11-01 17:11:17"
  },
  {
   "vendor": "AMD",
@@ -530,17 +541,6 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
-  "full_name": "ROCm/axis",
-  "url": "https://github.com/ROCm/axis",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": "Rust",
-  "description": "AXIS: Agent eXecution Isolation Substrate — secure sandbox runtime for AI agents",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
   "full_name": "ROCm/formal-models",
   "url": "https://github.com/ROCm/formal-models",
   "sec_path": "SECURITY.md",
@@ -574,6 +574,17 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
+  "full_name": "ROCm/rocm-docs",
+  "url": "https://github.com/ROCm/rocm-docs",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Python",
+  "description": "Source for the ROCm documentation website (rocm.docs.amd.com)",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
   "full_name": "ROCm/AMDiffusionBenchmark",
   "url": "https://github.com/ROCm/AMDiffusionBenchmark",
   "sec_path": ".github/SECURITY.md",
@@ -603,17 +614,6 @@
   "language": "C#",
   "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
   "first_seen": "2026-11-01 16:16:00"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/rocm-docs",
-  "url": "https://github.com/ROCm/rocm-docs",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "Source for the ROCm documentation website (rocm.docs.amd.com)",
-  "first_seen": "2026-11-01 17:11:17"
  },
  {
   "vendor": "AMD",
@@ -783,6 +783,17 @@
  {
   "vendor": "AMD",
   "org": "ROCm",
+  "full_name": "ROCm/amd-rocm-optimization-guide",
+  "url": "https://github.com/ROCm/amd-rocm-optimization-guide",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "CMake",
+  "description": "Performance optimization techniques and tutorials for AMD GPUs using HIP and ROCm",
+  "first_seen": "2026-11-01 17:11:17"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
   "full_name": "ROCm/triton-inference-server-vllm_backend-legacy",
   "url": "https://github.com/ROCm/triton-inference-server-vllm_backend-legacy",
   "sec_path": "SECURITY.md",
@@ -866,17 +877,6 @@
   "stars": 1,
   "language": "Python",
   "description": "Fuzzing to fill test suite gaps",
-  "first_seen": "2026-11-01 17:11:17"
- },
- {
-  "vendor": "AMD",
-  "org": "ROCm",
-  "full_name": "ROCm/amd-rocm-optimization-guide",
-  "url": "https://github.com/ROCm/amd-rocm-optimization-guide",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "CMake",
-  "description": "Performance optimization techniques and tutorials for AMD GPUs using HIP and ROCm",
   "first_seen": "2026-11-01 17:11:17"
  },
  {
@@ -1194,7 +1194,7 @@
   "url": "https://github.com/ROCm/geometric-nn-ops",
   "sec_path": "SECURITY.md",
   "stars": 0,
-  "language": null,
+  "language": "Python",
   "description": "Vendor-neutral GPU kernels for geometry-aware neural nets (triangle/folding ops)",
   "license": null,
   "first_seen": "2026-11-04 09:36:03"
@@ -1210,5 +1210,17 @@
   "description": "This repo holds documentations that describe the syntax of AMDGPU instructions.",
   "license": null,
   "first_seen": "2026-11-05 07:32:15"
+ },
+ {
+  "vendor": "AMD",
+  "org": "ROCm",
+  "full_name": "ROCm/rocm-community-kernels",
+  "url": "https://github.com/ROCm/rocm-community-kernels",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": null,
+  "description": "To work closely with huggingface to push pre-build and optimized GPU kernels on AMD hardware on Huggingface Hub. ",
+  "license": null,
+  "first_seen": "2026-11-13 10:06:50"
  }
 ]

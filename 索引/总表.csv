@@ -444,9 +444,9 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 智谱AI,无,zai-org,zai-org/feedback,https://github.com/zai-org/feedback,39,,SECURITY.md,ZCode 用户建议与反馈收集，处理状态全程公开
 月之暗面,无,MoonshotAI,MoonshotAI/kimi-cli,https://github.com/MoonshotAI/kimi-cli,11415,Python,SECURITY.md,"[Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code"
 月之暗面,无,MoonshotAI,MoonshotAI/kimi-code,https://github.com/MoonshotAI/kimi-code,8217,TypeScript,SECURITY.md,Kimi Code CLI  —  The Starting Point for Next-Gen Agents
-面壁智能,无,OpenBMB,OpenBMB/UltraRAG,https://github.com/OpenBMB/UltraRAG,5738,Python,.github/SECURITY.md,A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
-面壁智能,无,OpenBMB,OpenBMB/EdgeClaw,https://github.com/OpenBMB/EdgeClaw,1187,TypeScript,SECURITY.md,EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
-面壁智能,无,OpenBMB,OpenBMB/llama.cpp-omni,https://github.com/OpenBMB/llama.cpp-omni,42,C++,SECURITY.md,Omni inference in C/C++
+面壁智能,无,OpenBMB,OpenBMB/UltraRAG,https://github.com/OpenBMB/UltraRAG,5741,Python,.github/SECURITY.md,A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+面壁智能,无,OpenBMB,OpenBMB/EdgeClaw,https://github.com/OpenBMB/EdgeClaw,1185,TypeScript,SECURITY.md,EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
+面壁智能,无,OpenBMB,OpenBMB/llama.cpp-omni,https://github.com/OpenBMB/llama.cpp-omni,46,C++,SECURITY.md,Omni inference in C/C++
 腾讯,TSRC,Tencent,Tencent/WeKnora,https://github.com/Tencent/WeKnora,36483,Go,SECURITY.md,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
 腾讯,TSRC,Tencent,Tencent/MMKV,https://github.com/Tencent/MMKV,18773,C++,SECURITY.md,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS."
 腾讯,TSRC,TencentCloud,TencentCloud/Octop,https://github.com/TencentCloud/Octop,11634,Python,SECURITY.md,"A smarter, self-hosted AI assistant — multi-user, multi-agent."
@@ -722,7 +722,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https
 京东,JSRC,jd-opensource,jd-opensource/jd-github-template,https://github.com/jd-opensource/jd-github-template,1,Python,SECURITY.md,"🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects."
 京东,JSRC,jd-opensource,jd-opensource/joytoken-sdk-ts,https://github.com/jd-opensource/joytoken-sdk-ts,0,TypeScript,SECURITY.md,Production-ready TypeScript client for JoyToken's public developer API.
 京东,JSRC,jd-opensource,jd-opensource/joytoken-sdk-go,https://github.com/jd-opensource/joytoken-sdk-go,0,Go,SECURITY.md,Production-ready Go client for JoyToken's public developer API.
-百度,BSRC,PaddlePaddle,PaddlePaddle/Paddle,https://github.com/PaddlePaddle/Paddle,24134,C++,SECURITY.md,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+百度,BSRC,PaddlePaddle,PaddlePaddle/Paddle,https://github.com/PaddlePaddle/Paddle,24145,C++,SECURITY.md,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 百度,BSRC,baidu,baidu/openrasp,https://github.com/baidu/openrasp,2991,C++,SECURITY.md,🔥Open source RASP solution
 百度,BSRC,baidu,baidu/nettools,https://github.com/baidu/nettools,196,Go,SECURITY.md,"A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss loca…"
 百度,BSRC,baidu,baidu/scs-redis,https://github.com/baidu/scs-redis,11,C,SECURITY.md,"Redis-based cloud adaptation powering Baidu AI Cloud's SCS, optimized for large-scale multi-tenant deployments with enhanced HA, reliability and security - batt…"
@@ -5700,37 +5700,37 @@ Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/customer-churn-predicti
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/order-to-delivery-time-forecasting,https://github.com/oneapi-src/order-to-delivery-time-forecasting,0,Python,SECURITY.md,AI Starter Kit of a delivery time forecasting solution using Intel® optimized version of XGBoost
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/document-automation,https://github.com/oneapi-src/document-automation,0,Python,SECURITY.md,AI Starter Kit for Named Entity Recognition using Intel® Optimized Tensorflow (version 2.9.0 with oneDNN)
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/gaia,https://github.com/amd/gaia,1614,Python,SECURITY.md,Build AI agents for your PC
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/TheRock,https://github.com/ROCm/TheRock,1428,Python,SECURITY.md,The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/HIPIFY,https://github.com/ROCm/HIPIFY,736,C++,SECURITY.md,HIPIFY: Convert CUDA to Portable C++ Code
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/TheRock,https://github.com/ROCm/TheRock,1437,Python,SECURITY.md,The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/HIPIFY,https://github.com/ROCm/HIPIFY,738,C++,SECURITY.md,HIPIFY: Convert CUDA to Portable C++ Code
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/tensorflow-upstream,https://github.com/ROCm/tensorflow-upstream,707,C++,SECURITY.md,TensorFlow ROCm port
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/skills,https://github.com/amd/skills,479,Python,SECURITY.md,Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/AMDMIGraphX,https://github.com/ROCm/AMDMIGraphX,338,C++,SECURITY.md,AMD's graph optimization engine.
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-examples,https://github.com/ROCm/rocm-examples,329,C++,SECURITY.md,A collection of examples for the ROCm software stack
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-examples,https://github.com/ROCm/rocm-examples,330,C++,SECURITY.md,A collection of examples for the ROCm software stack
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/pytorch,https://github.com/ROCm/pytorch,261,Python,SECURITY.md,"Tensors and Dynamic neural networks in Python  with strong GPU acceleration. To use PyTorch with latest ROCm releases, see: https://rocm.docs.amd.com/en/latest/…"
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/llvm-project,https://github.com/ROCm/llvm-project,244,LLVM,SECURITY.md,This is the AMD-maintained fork of the LLVM git repository. This repository accepts pull requests and issues related to AMD fork-specific topics (amd/*). For al…
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/iris,https://github.com/ROCm/iris,203,Python,SECURITY.md,AMD RAD's multi-GPU Triton-based framework for seamless multi-GPU programming
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocMLIR,https://github.com/ROCm/rocMLIR,195,MLIR,SECURITY.md,
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/iris,https://github.com/ROCm/iris,206,Python,SECURITY.md,AMD RAD's multi-GPU Triton-based framework for seamless multi-GPU programming
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocMLIR,https://github.com/ROCm/rocMLIR,197,MLIR,SECURITY.md,
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/mini-isp,https://github.com/amd/mini-isp,148,SystemVerilog,SECURITY.md,"A minimal, open-source Image Signal Processor (ISP) for AMD FPGA, implemented in Verilog."
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/spur,https://github.com/ROCm/spur,138,Rust,SECURITY.md,spur your compute
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/spur,https://github.com/ROCm/spur,141,Rust,SECURITY.md,spur your compute
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/vllm,https://github.com/ROCm/vllm,124,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/ROCmValidationSuite,https://github.com/ROCm/ROCmValidationSuite,111,C++,SECURITY.md,"A system validation and diagnostics tool for monitoring, stress testing, detecting, and troubleshooting issues impacting AMD GPUs in high-performance computing …"
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm_bandwidth_test,https://github.com/ROCm/rocm_bandwidth_test,90,C++,SECURITY.md,Bandwidth test for ROCm
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocprof-compute-viewer,https://github.com/ROCm/rocprof-compute-viewer,79,C++,SECURITY.md,ROCprof Compute Viewer (RCV) is a tool for visualizing and analyzing GPU thread trace data collected using rocprofv3
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocprof-compute-viewer,https://github.com/ROCm/rocprof-compute-viewer,80,C++,SECURITY.md,ROCprof Compute Viewer (RCV) is a tool for visualizing and analyzing GPU thread trace data collected using rocprofv3
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/TransformerEngine,https://github.com/ROCm/TransformerEngine,77,Python,SECURITY.md,
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-xio,https://github.com/ROCm/rocm-xio,71,HIP,SECURITY.md,"A ROCm library for GPU-Initiated IO. This provides support for initiating IO from a ROCm-capable GPU against a range of targets including RDMA NICs, NVMe SSDs a…"
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/gfx950-gluon-tutorials,https://github.com/ROCm/gfx950-gluon-tutorials,57,Python,SECURITY.md,A practical guide to high-performance gluon kernel development on AMD GFX9 GPUs.
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-cli,https://github.com/ROCm/rocm-cli,50,Rust,SECURITY.md,"ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model serving, and chat."
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-xio,https://github.com/ROCm/rocm-xio,73,HIP,SECURITY.md,"A ROCm library for GPU-Initiated IO. This provides support for initiating IO from a ROCm-capable GPU against a range of targets including RDMA NICs, NVMe SSDs a…"
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/gfx950-gluon-tutorials,https://github.com/ROCm/gfx950-gluon-tutorials,58,Python,SECURITY.md,A practical guide to high-performance gluon kernel development on AMD GFX9 GPUs.
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-cli,https://github.com/ROCm/rocm-cli,51,Rust,SECURITY.md,"ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model serving, and chat."
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/container-toolkit,https://github.com/ROCm/container-toolkit,47,Go,SECURITY.md,Offers tools that streamline the use of AMD GPUs with containers.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/Megatron-LM,https://github.com/ROCm/Megatron-LM,44,Python,SECURITY.md,Ongoing research training transformer models at scale
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/roc-optiq,https://github.com/ROCm/roc-optiq,33,C++,SECURITY.md,A visualizer for the ROCm Profiler Tools 
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/jax,https://github.com/ROCm/jax,32,Python,docs/security.md,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/roc-optiq,https://github.com/ROCm/roc-optiq,35,C++,SECURITY.md,A visualizer for the ROCm Profiler Tools 
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/jax,https://github.com/ROCm/jax,33,Python,docs/security.md,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-ernic,https://github.com/ROCm/rocm-ernic,30,C,SECURITY.md,A vfio-user based emulated AMD Pensando RDMA NIC.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/libhipcxx,https://github.com/ROCm/libhipcxx,30,C++,SECURITY.md,The C++ Standard Library for your entire system.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/omnistat,https://github.com/ROCm/omnistat,27,Python,SECURITY.md,Scale-out system monitoring
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/hipFile,https://github.com/ROCm/hipFile,26,C++,SECURITY.md,[DEPRECATED] Moved to ROCm/rocm-systems repo
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/torch_migraphx,https://github.com/ROCm/torch_migraphx,22,Python,SECURITY.md,Torch-MIGraphX integrates AMD's graph inference engine with the PyTorch ecosystem.
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/torch_migraphx,https://github.com/ROCm/torch_migraphx,21,Python,SECURITY.md,Torch-MIGraphX integrates AMD's graph inference engine with the PyTorch ecosystem.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/hip-ep,https://github.com/ROCm/hip-ep,20,C++,SECURITY.md,"ROCm Execution Provider for ONNX Runtime on AMD GPUs. Compiles ONNX models through MLIR to LLVM bitcode, JIT-loads them at session creation, and dispatches to h…"
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/cvs,https://github.com/ROCm/cvs,18,Python,SECURITY.md,
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/cvs,https://github.com/ROCm/cvs,19,Python,SECURITY.md,
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/hipObject,https://github.com/ROCm/hipObject,16,C++,SECURITY.md,A ROCm library for RDMA-based object storage with Direct-to-VRAM DMA support on AMD GPUs.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/hipCOMP-core,https://github.com/ROCm/hipCOMP-core,15,C++,SECURITY.md,hipCOMP is a library for fast lossless compression/decompression on the GPU. This repository contains the algorithms.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/RIXL,https://github.com/ROCm/RIXL,15,C++,SECURITY.md,DEPRECATED  REPOSITORY. ROCm Inference Transfer Library (RIXL) is a port of the NIXL library for AMD GPUs. See README_rocm.md for AMD specific instructions for …
@@ -5741,20 +5741,20 @@ AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/gpu-cluster-networking,https
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/hipCollections,https://github.com/ROCm/hipCollections,12,C++,SECURITY.md,"Header-only library of GPU-accelerated, concurrent data structures."
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/ZenDNN-tensorflow-plugin,https://github.com/amd/ZenDNN-tensorflow-plugin,11,C++,SECURITY.md,
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/aorta,https://github.com/ROCm/aorta,11,Python,SECURITY.md,
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocmlirTriton,https://github.com/ROCm/rocmlirTriton,10,C++,SECURITY.md,"MLIR kernel generator for AMD GPUs (GEMM, conv, attention, fused), built on a Triton compilation backend."
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocmlirTriton,https://github.com/ROCm/rocmlirTriton,11,C++,SECURITY.md,"MLIR kernel generator for AMD GPUs (GEMM, conv, attention, fused), built on a Triton compilation backend."
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/onnxruntime,https://github.com/ROCm/onnxruntime,10,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance scoring engine for ML models"
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/ZenDNN-pytorch,https://github.com/amd/ZenDNN-pytorch,9,Python,SECURITY.md,
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/axis,https://github.com/ROCm/axis,9,Rust,SECURITY.md,AXIS: Agent eXecution Isolation Substrate — secure sandbox runtime for AI agents
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/instinct-docs,https://github.com/ROCm/instinct-docs,9,,SECURITY.md,AMD Instinct Data Center GPU docs
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/Paddle,https://github.com/ROCm/Paddle,9,C++,SECURITY.md,PArallel Distributed Deep LEarning
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/spack,https://github.com/amd/spack,8,Python,SECURITY.md,"A flexible package manager that supports multiple versions, configurations, platforms, and compilers."
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/axis,https://github.com/ROCm/axis,8,Rust,SECURITY.md,AXIS: Agent eXecution Isolation Substrate — secure sandbox runtime for AI agents
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/formal-models,https://github.com/ROCm/formal-models,8,Python,SECURITY.md,
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/onnxruntime,https://github.com/amd/onnxruntime,7,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/DeepSpeed,https://github.com/ROCm/DeepSpeed,7,Python,SECURITY.md,"DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective."
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-docs,https://github.com/ROCm/rocm-docs,6,Python,SECURITY.md,Source for the ROCm documentation website (rocm.docs.amd.com)
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/AMDiffusionBenchmark,https://github.com/ROCm/AMDiffusionBenchmark,6,Python,.github/SECURITY.md,Benchmarking training throughput of contemporary diffusion models on AMD's GPU hardware.
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/transformers,https://github.com/ROCm/transformers,6,Python,SECURITY.md,🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/dotnet-runtime,https://github.com/amd/dotnet-runtime,5,C#,SECURITY.md,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-docs,https://github.com/ROCm/rocm-docs,5,Python,SECURITY.md,Source for the ROCm documentation website (rocm.docs.amd.com)
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocprofiler-systems-skills,https://github.com/ROCm/rocprofiler-systems-skills,5,Python,SECURITY.md,A collection of skills used by the rocprof-sys team
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-installer-runfile,https://github.com/ROCm/rocm-installer-runfile,4,Shell,SECURITY.md,Code for the ROCm runfile installer which is one method users can install ROCm and the AMDGPU driver on Linux
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-tests,https://github.com/ROCm/rocm-tests,4,Python,SECURITY.md,A pytest based system test framework that validates the full AMD ROCm stack across diverse environments.
@@ -5770,6 +5770,7 @@ AMD,自建PSIRT（AMD Product Security）,AMD,amd/Gyanam-GPU-Observability-Assis
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/lz4,https://github.com/amd/lz4,2,C,SECURITY.md,Extremely Fast Compression algorithm
 AMD,自建PSIRT（AMD Product Security）,AMD,amd/zstd,https://github.com/amd/zstd,2,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/ggml-staging-automation,https://github.com/ROCm/ggml-staging-automation,2,Python,SECURITY.md,Release management repo for AMD staging ggml project branches (prior to upstreaming).
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/amd-rocm-optimization-guide,https://github.com/ROCm/amd-rocm-optimization-guide,2,CMake,SECURITY.md,Performance optimization techniques and tutorials for AMD GPUs using HIP and ROCm
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/triton-inference-server-vllm_backend-legacy,https://github.com/ROCm/triton-inference-server-vllm_backend-legacy,2,Python,SECURITY.md,
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/system-acceptance-docs,https://github.com/ROCm/system-acceptance-docs,2,,SECURITY.md,
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/pytorch-lightning,https://github.com/ROCm/pytorch-lightning,2,Python,SECURITY.md,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate."
@@ -5778,7 +5779,6 @@ AMD,自建PSIRT（AMD Product Security）,AMD,amd/tock,https://github.com/amd/to
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/Quartz,https://github.com/ROCm/Quartz,1,Python,SECURITY.md,Central CI/CD Data Hub for the ROCm Ecosystem
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/hip-verbs-acceptance,https://github.com/ROCm/hip-verbs-acceptance,1,C++,SECURITY.md,"Acceptance suite for the HIP runtime and RDMA Verbs: functional and performance tests for GPU, NIC and GPU+NIC paths, gated by per-platform policies."
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/fuzz-fill,https://github.com/ROCm/fuzz-fill,1,Python,SECURITY.md,Fuzzing to fill test suite gaps
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/amd-rocm-optimization-guide,https://github.com/ROCm/amd-rocm-optimization-guide,1,CMake,SECURITY.md,Performance optimization techniques and tutorials for AMD GPUs using HIP and ROCm
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/triton-inference-server-server-legacy,https://github.com/ROCm/triton-inference-server-server-legacy,1,Python,SECURITY.md,
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/nixl,https://github.com/ROCm/nixl,1,C++,SECURITY.md,AMD maintained fork of the NIXL repository
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/DeepSpeedExamples,https://github.com/ROCm/DeepSpeedExamples,1,Python,SECURITY.md,Example models using DeepSpeed
@@ -5807,8 +5807,9 @@ AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/SPIRV-Headers,https://github
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/OpenLLM,https://github.com/ROCm/OpenLLM,,Python,.github/SECURITY.md,Operating LLMs in production
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/f18-llvm-project,https://github.com/ROCm/f18-llvm-project,,,SECURITY.md,Mirror of flang-compiler repo: The source repo is https://github.com/flang-compiler/f18-llvm-project . Once a day the main and fir-dev branches are updated from…
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/onnxruntime-training-examples,https://github.com/ROCm/onnxruntime-training-examples,,Python,SECURITY.md,Examples for using ONNX Runtime for model training.
-AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/geometric-nn-ops,https://github.com/ROCm/geometric-nn-ops,0,,SECURITY.md,Vendor-neutral GPU kernels for geometry-aware neural nets (triangle/folding ops)
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/geometric-nn-ops,https://github.com/ROCm/geometric-nn-ops,0,Python,SECURITY.md,Vendor-neutral GPU kernels for geometry-aware neural nets (triangle/folding ops)
 AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/amdgpu-isa-spec,https://github.com/ROCm/amdgpu-isa-spec,0,,SECURITY.md,This repo holds documentations that describe the syntax of AMDGPU instructions.
+AMD,自建PSIRT（AMD Product Security）,ROCm,ROCm/rocm-community-kernels,https://github.com/ROCm/rocm-community-kernels,0,,SECURITY.md,To work closely with huggingface to push pre-build and optimized GPU kernels on AMD hardware on Huggingface Hub. 
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/SkillSpector,https://github.com/NVIDIA/SkillSpector,25710,Python,SECURITY.md,"Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in…"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/NemoClaw,https://github.com/NVIDIA/NemoClaw,23014,TypeScript,SECURITY.md,"Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference"
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/OpenShell,https://github.com/NVIDIA/OpenShell,21521,Rust,SECURITY.md,"OpenShell is the safe, private runtime for autonomous AI agents."
@@ -7033,7 +7034,7 @@ HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/istio,https:/
 红帽,自建（Red Hat Product Security）,ansible,ansible/ansible-ai-connect-service,https://github.com/ansible/ansible-ai-connect-service,36,Python,SECURITY.md,
 红帽,自建（Red Hat Product Security）,ansible,ansible/django-ansible-base,https://github.com/ansible/django-ansible-base,30,Python,SECURITY.md,
 红帽,自建（Red Hat Product Security）,ansible,ansible/ansible-compat,https://github.com/ansible/ansible-compat,29,Python,SECURITY.md,A python package containing functions that help interacting with various versions of Ansible
-红帽,自建（Red Hat Product Security）,RedHatOfficial,RedHatOfficial/aap-demo,https://github.com/RedHatOfficial/aap-demo,24,Python,SECURITY.md,"Local cluster infrastructure for Ansible Automation Platform deployment, powered by OpenShift Local. Deploy AAP in minutes on macOS, Linux, or Windows."
+红帽,自建（Red Hat Product Security）,RedHatOfficial,RedHatOfficial/aap-demo,https://github.com/RedHatOfficial/aap-demo,25,Python,SECURITY.md,"Local cluster infrastructure for Ansible Automation Platform deployment, powered by OpenShift Local. Deploy AAP in minutes on macOS, Linux, or Windows."
 红帽,自建（Red Hat Product Security）,ansible,ansible/pinakes,https://github.com/ansible/pinakes,20,Python,docs/SECURITY.md,
 红帽,自建（Red Hat Product Security）,ansible,ansible/apme,https://github.com/ansible/apme,19,Python,SECURITY.md,A multi-validator static analysis platform for Ansible content with deterministic and human-in-the-loop agentic remediation.
 红帽,自建（Red Hat Product Security）,openshift,openshift/ocp-release-operator-sdk,https://github.com/openshift/ocp-release-operator-sdk,18,Go,SECURITY.md,
