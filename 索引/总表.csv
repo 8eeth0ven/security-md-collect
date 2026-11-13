@@ -292,7 +292,7 @@ Apache软件基金会,无(开源基金会),apache,apache/hadoop-cloudstore,https
 Apache软件基金会,无(开源基金会),apache,apache/pulsar-spring,https://github.com/apache/pulsar-spring,2,Java,SECURITY.md,Apache Pulsar support for Spring
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,129040,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,66958,Go,SECURITY.md,The Prometheus monitoring system and time series database.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,67599,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52601,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45444,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38505,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
@@ -304,59 +304,59 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19437,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17094,Go,SECURITY.md,Workflow Engine for Kubernetes
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16706,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13896,Go,SECURITY.md,Exporter for machine metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13923,Go,SECURITY.md,Exporter for machine metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13066,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12550,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12079,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kompose,https://github.com/kubernetes/kompose,10645,Go,SECURITY.md,Convert Compose to Kubernetes
 CNCF云原生基金会,无(开源基金会),containerd,containerd/nerdctl,https://github.com/containerd/nerdctl,10480,Go,SECURITY.md,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-web,https://github.com/grpc/grpc-web,9259,JavaScript,SECURITY.md,gRPC for Web Clients
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,https://github.com/prometheus/alertmanager,8679,Go,SECURITY.md,Prometheus Alertmanager
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,https://github.com/prometheus/alertmanager,8700,Go,SECURITY.md,Prometheus Alertmanager
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/examples,https://github.com/kubernetes/examples,6831,Shell,SECURITY.md,Kubernetes application example tutorials
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kube-state-metrics,https://github.com/kubernetes/kube-state-metrics,6237,Go,SECURITY.md,Add-on agent to generate and expose cluster-level metrics.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6044,Go,SECURITY.md,Prometheus instrumentation library for Go applications
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5931,Go,SECURITY.md,Blackbox prober exporter
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6049,Go,SECURITY.md,Prometheus instrumentation library for Go applications
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5942,Go,SECURITY.md,Blackbox prober exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/website,https://github.com/kubernetes/website,5428,HTML,SECURITY.md,Kubernetes website and documentation repo: 
 CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5181,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-node,https://github.com/grpc/grpc-node,4842,TypeScript,SECURITY.md,gRPC for Node.js
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dotnet,https://github.com/grpc/grpc-dotnet,4489,C#,SECURITY.md,gRPC for .NET
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_python,https://github.com/prometheus/client_python,4384,Python,SECURITY.md,Prometheus instrumentation library for Python applications
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_python,https://github.com/prometheus/client_python,4386,Python,SECURITY.md,Prometheus instrumentation library for Python applications
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/test-infra,https://github.com/kubernetes/test-infra,4028,Go,SECURITY.md,Test infrastructure for the Kubernetes project.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubeadm,https://github.com/kubernetes/kubeadm,4001,Go,SECURITY.md,Aggregator for issues filed against kubeadm
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/enhancements,https://github.com/kubernetes/enhancements,3983,Go,SECURITY.md,Enhancements tracking repo for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-rollouts,https://github.com/argoproj/argo-rollouts,3624,Go,SECURITY.md,Progressive Delivery for Kubernetes
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_js,https://github.com/prometheus/client_js,3498,JavaScript,SECURITY.md,Prometheus client for node.js
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_js,https://github.com/prometheus/client_js,3501,JavaScript,SECURITY.md,Prometheus client for node.js
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/node-problem-detector,https://github.com/kubernetes/node-problem-detector,3483,Go,SECURITY.md,This is a place for various problem detectors running on the Kubernetes nodes.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/pushgateway,https://github.com/prometheus/pushgateway,3375,Go,SECURITY.md,Push acceptor for ephemeral and batch jobs.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/jmx_exporter,https://github.com/prometheus/jmx_exporter,3334,Java,SECURITY.md,A process for collecting metrics using JMX MBeans for Prometheus consumption
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/pushgateway,https://github.com/prometheus/pushgateway,3378,Go,SECURITY.md,Push acceptor for ephemeral and batch jobs.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/jmx_exporter,https://github.com/prometheus/jmx_exporter,3335,Java,SECURITY.md,A process for collecting metrics using JMX MBeans for Prometheus consumption
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/gateway,https://github.com/envoyproxy/gateway,3143,Go,SECURITY.md,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 CNCF云原生基金会,无(开源基金会),istio,istio/community,https://github.com/istio/community,3118,Go,.github/SECURITY.md,Istio governance material.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/git-sync,https://github.com/kubernetes/git-sync,2749,Shell,SECURITY.md,A sidecar app which clones a git repo and keeps it in sync with the upstream.
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-events,https://github.com/argoproj/argo-events,2714,Go,SECURITY.md,Event-driven Automation Framework for Kubernetes
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/OpenMetrics,https://github.com/prometheus/OpenMetrics,2541,Go,SECURITY.md,Evolving the Prometheus exposition format into a standard.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/mysqld_exporter,https://github.com/prometheus/mysqld_exporter,2469,Go,SECURITY.md,Exporter for MySQL server metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/OpenMetrics,https://github.com/prometheus/OpenMetrics,2543,Go,SECURITY.md,Evolving the Prometheus exposition format into a standard.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/mysqld_exporter,https://github.com/prometheus/mysqld_exporter,2473,Go,SECURITY.md,Exporter for MySQL server metrics
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-helm,https://github.com/argoproj/argo-helm,2394,Mustache,SECURITY.md,ArgoProj Helm Charts
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_java,https://github.com/prometheus/client_java,2290,Java,SECURITY.md,Prometheus instrumentation library for JVM applications
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_java,https://github.com/prometheus/client_java,2291,Java,SECURITY.md,Prometheus instrumentation library for JVM applications
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-swift,https://github.com/grpc/grpc-swift,2249,Swift,SECURITY.md,The Swift language implementation of gRPC.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/snmp_exporter,https://github.com/prometheus/snmp_exporter,2193,Go,SECURITY.md,SNMP Exporter for Prometheus
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/snmp_exporter,https://github.com/prometheus/snmp_exporter,2199,Go,SECURITY.md,SNMP Exporter for Prometheus
 CNCF云原生基金会,无(开源基金会),containerd,containerd/runwasi,https://github.com/containerd/runwasi,1349,Rust,SECURITY.md,Facilitates running Wasm / WASI workloads managed by containerd
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-gce,https://github.com/kubernetes/ingress-gce,1302,Go,SECURITY.md,Ingress controller for Google Cloud
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-kotlin,https://github.com/grpc/grpc-kotlin,1296,Kotlin,SECURITY.md,Kotlin gRPC implementation. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/perf-tests,https://github.com/kubernetes/perf-tests,992,Go,SECURITY.md,Performance tests and benchmarks
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/statsd_exporter,https://github.com/prometheus/statsd_exporter,990,Go,SECURITY.md,StatsD to Prometheus metrics exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/k8s.io,https://github.com/kubernetes/k8s.io,982,HCL,SECURITY.md,"Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites"
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,980,Java,SECURITY.md,Metrics exporter for Amazon AWS CloudWatch
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,981,Java,SECURITY.md,Metrics exporter for Amazon AWS CloudWatch
 CNCF云原生基金会,无(开源基金会),istio,istio/proxy,https://github.com/istio/proxy,916,Go,.github/SECURITY.md,The Istio proxy components.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dart,https://github.com/grpc/grpc-dart,891,Dart,SECURITY.md,The Dart language implementation of gRPC.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/procfs,https://github.com/prometheus/procfs,886,Go,SECURITY.md,"procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc."
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/procfs,https://github.com/prometheus/procfs,887,Go,SECURITY.md,"procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc."
 CNCF云原生基金会,无(开源基金会),istio,istio/istio.io,https://github.com/istio/istio.io,820,HTML,.github/SECURITY.md,Source for the istio.io site
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argoproj,https://github.com/argoproj/argoproj,764,Python,SECURITY.md,Common project repo for all Argo Projects
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/docs,https://github.com/prometheus/docs,726,TypeScript,SECURITY.md,Prometheus documentation: content and static site generator
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/docs,https://github.com/prometheus/docs,727,TypeScript,SECURITY.md,Prometheus documentation: content and static site generator
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-openstack,https://github.com/kubernetes/cloud-provider-openstack,725,Go,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promlens,https://github.com/prometheus/promlens,677,TypeScript,SECURITY.md,"PromLens – The query builder, analyzer, and explainer for PromQL"
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-release,https://github.com/kubernetes/sig-release,643,Shell,SECURITY.md,Repo for SIG release
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/haproxy_exporter,https://github.com/prometheus/haproxy_exporter,627,Go,SECURITY.md,Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_rust,https://github.com/prometheus/client_rust,612,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/haproxy_exporter,https://github.com/prometheus/haproxy_exporter,628,Go,SECURITY.md,Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_rust,https://github.com/prometheus/client_rust,613,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium-cli,https://github.com/cilium/cilium-cli,611,Makefile,SECURITY.md,"CLI to install, manage & troubleshoot Kubernetes clusters running Cilium"
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/gengo,https://github.com/kubernetes/gengo,580,Go,SECURITY.md,gengo library for code generation.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/design-proposals-archive,https://github.com/kubernetes/design-proposals-archive,572,Makefile,SECURITY.md,Archive of Kubernetes Design Proposals
@@ -366,14 +366,14 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/registry.k8s.i
 CNCF云原生基金会,无(开源基金会),istio,istio/api,https://github.com/istio/api,521,Go,.github/SECURITY.md,API definitions for the Istio project
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/release,https://github.com/kubernetes/release,505,Go,SECURITY.md,Release infrastructure for Kubernetes and related components
 CNCF云原生基金会,无(开源基金会),istio,istio/ztunnel,https://github.com/istio/ztunnel,492,Rust,.github/SECURITY.md,The `ztunnel` component of ambient mesh
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/consul_exporter,https://github.com/prometheus/consul_exporter,470,Go,SECURITY.md,Exporter for Consul metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/consul_exporter,https://github.com/prometheus/consul_exporter,471,Go,SECURITY.md,Exporter for Consul metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-aws,https://github.com/kubernetes/cloud-provider-aws,467,Go,SECURITY.md,Cloud provider for AWS
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prom2json,https://github.com/prometheus/prom2json,413,Go,SECURITY.md,A tool to scrape a Prometheus client and dump the result as JSON.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/graphite_exporter,https://github.com/prometheus/graphite_exporter,406,Go,SECURITY.md,Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/graphite_exporter,https://github.com/prometheus/graphite_exporter,407,Go,SECURITY.md,Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
 CNCF云原生基金会,无(开源基金会),istio,istio/tools,https://github.com/istio/tools,374,Go,.github/SECURITY.md,Tools shared by several Istio repositories
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kube-openapi,https://github.com/kubernetes/kube-openapi,357,Go,SECURITY.md,Kubernetes OpenAPI spec generation & serving
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/java-control-plane,https://github.com/envoyproxy/java-control-plane,315,Java,SECURITY.md,Java implementation of an Envoy gRPC control plane
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/exporter-toolkit,https://github.com/prometheus/exporter-toolkit,312,Go,SECURITY.md,Utility package to build exporters
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/exporter-toolkit,https://github.com/prometheus/exporter-toolkit,314,Go,SECURITY.md,Utility package to build exporters
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/org,https://github.com/kubernetes/org,303,Go,SECURITY.md,Meta configuration for Kubernetes Github Org
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/common,https://github.com/prometheus/common,297,Go,SECURITY.md,Go libraries shared across Prometheus components and libraries.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/influxdb_exporter,https://github.com/prometheus/influxdb_exporter,291,Go,SECURITY.md,A server that accepts InfluxDB metrics via the HTTP API and exports them via HTTP for Prometheus consumption
@@ -383,18 +383,18 @@ CNCF云原生基金会,无(开源基金会),istio,istio/client-go,https://github
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/collectd_exporter,https://github.com/prometheus/collectd_exporter,269,Go,SECURITY.md,A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-security,https://github.com/kubernetes/sig-security,254,Go,SECURITY.md,"Process documentation, non-code deliverables, and miscellaneous artifacts of Kubernetes SIG Security"
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes-template-project,https://github.com/kubernetes/kubernetes-template-project,232,,SECURITY.md,A template for starting new projects on the github.com/kubernetes organization
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/memcached_exporter,https://github.com/prometheus/memcached_exporter,208,Go,SECURITY.md,Exports metrics from memcached servers for consumption by Prometheus.
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-wasm,https://github.com/envoyproxy/envoy-wasm,207,C++,SECURITY.md,*ATTENTION!: The content of this repo is merged into https://github.com/envoyproxy/envoy and future development is happening there.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/memcached_exporter,https://github.com/prometheus/memcached_exporter,207,Go,SECURITY.md,Exports metrics from memcached servers for consumption by Prometheus.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/committee-security-response,https://github.com/kubernetes/committee-security-response,181,Shell,SECURITY.md,Kubernetes Security Process and Security Committee docs
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd-operator,https://github.com/etcd-io/etcd-operator,176,Go,SECURITY.md,The official Kubernetes operator for etcd.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/test-infra,https://github.com/prometheus/test-infra,166,Go,SECURITY.md,Prometheus E2E benchmarking tool
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/compliance,https://github.com/prometheus/compliance,159,Go,SECURITY.md,A set of tests to check compliance with various Prometheus interfaces
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-swift-2,https://github.com/grpc/grpc-swift-2,154,Swift,SECURITY.md,
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus-mcp,https://github.com/prometheus/prometheus-mcp,134,Go,SECURITY.md,MCP server for LLMs to interact with Prometheus
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus-mcp,https://github.com/prometheus/prometheus-mcp,142,Go,SECURITY.md,MCP server for LLMs to interact with Prometheus
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/demo-site,https://github.com/prometheus/demo-site,128,HTML,SECURITY.md,Demo site auto-deployed with Ansible.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/auger,https://github.com/etcd-io/auger,125,Go,SECURITY.md,Directly access data objects stored in etcd by Kubernetes.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/nagios_plugins,https://github.com/prometheus/nagios_plugins,102,Shell,SECURITY.md,Nagios plugins for alerting on Prometheus query results
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/steering,https://github.com/kubernetes/steering,101,,SECURITY.md,The Kubernetes Steering Committee
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/nagios_plugins,https://github.com/prometheus/nagios_plugins,101,Shell,SECURITY.md,Nagios plugins for alerting on Prometheus query results
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/repo-infra,https://github.com/kubernetes/repo-infra,100,Starlark,SECURITY.md,Kubernetes repository infrastucture tools
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/publishing-bot,https://github.com/kubernetes/publishing-bot,93,Go,SECURITY.md,Code behind the robot to publish from staging to real repositories.
 CNCF云原生基金会,无(开源基金会),istio,istio/test-infra,https://github.com/istio/test-infra,84,Go,.github/SECURITY.md,
@@ -411,7 +411,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/busybox,https:
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus_api_client_ruby,https://github.com/prometheus/prometheus_api_client_ruby,38,Ruby,SECURITY.md,A Ruby library for reading metrics stored on a Prometheus server
 CNCF云原生基金会,无(开源基金会),istio,istio/envoy,https://github.com/istio/envoy,36,C++,SECURITY.md,Fork of Envoy used for testing and tinkering as part of the Istio dev process
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/system-validators,https://github.com/kubernetes/system-validators,36,Go,SECURITY.md,A set of system-oriented validators for kubeadm preflight checks.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/proposals,https://github.com/prometheus/proposals,33,Shell,SECURITY.md,Design documents for Prometheus Ecosystem
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/proposals,https://github.com/prometheus/proposals,34,Shell,SECURITY.md,Design documents for Prometheus Ecosystem
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-swift-extras,https://github.com/grpc/grpc-swift-extras,20,Swift,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/talks,https://github.com/prometheus/talks,20,,SECURITY.md,Track Prometheus talks
 CNCF云原生基金会,无(开源基金会),istio,istio/enhancements,https://github.com/istio/enhancements,16,,.github/SECURITY.md,Enhancement Tracking and Backlog Repo for Istio Releases
@@ -421,7 +421,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cel-admission-
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/lezer-promql,https://github.com/prometheus/lezer-promql,13,JavaScript,SECURITY.md,A lezer-based PromQL grammar
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/toolshed,https://github.com/envoyproxy/toolshed,12,Python,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),istio,istio/bots,https://github.com/istio/bots,12,Go,.github/SECURITY.md,Source code for bots used by the Istio project.
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus-opentelemetry-collector,https://github.com/prometheus/prometheus-opentelemetry-collector,11,Go,SECURITY.md,[EXPERIMENTAL] A Prometheus-branded OpenTelemetry Collector distribution.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus-opentelemetry-collector,https://github.com/prometheus/prometheus-opentelemetry-collector,12,Go,SECURITY.md,[EXPERIMENTAL] A Prometheus-branded OpenTelemetry Collector distribution.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/circleci,https://github.com/prometheus/circleci,9,,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),cilium,cilium/ztunnel,https://github.com/cilium/ztunnel,8,Rust,.github/SECURITY.md,Mutual TLS proxy for workload communication
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-testing,https://github.com/kubernetes/sig-testing,8,,SECURITY.md,Home for SIG Testing discussion and documents.
@@ -434,12 +434,12 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/.github,https:
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/kube-demo-site,https://github.com/prometheus/kube-demo-site,3,Go,SECURITY.md,Kubernetes Demo Site
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cfaccess,https://github.com/prometheus/cfaccess,2,Go,SECURITY.md,Cloudflare Access authentication for Prometheus HTTP clients.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promci-setup,https://github.com/prometheus/promci-setup,2,,SECURITY.md,Prometheus CI Setup
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promci-images,https://github.com/prometheus/promci-images,2,,SECURITY.md,GitHub Actions for handling container images.
 CNCF云原生基金会,无(开源基金会),containerd,containerd/.github,https://github.com/containerd/.github,1,,SECURITY.md,Community wide project health files
 CNCF云原生基金会,无(开源基金会),cilium,cilium/iproute2,https://github.com/cilium/iproute2,1,C,SECURITY.md,Just local BPF wip branches for upstream
 CNCF云原生基金会,无(开源基金会),cilium,cilium/perf-tests,https://github.com/cilium/perf-tests,1,Go,SECURITY.md,Performance tests and benchmarks
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-windows,https://github.com/envoyproxy/envoy-windows,1,C++,SECURITY.md,Windows build of Envoy
 CNCF云原生基金会,无(开源基金会),grpc,grpc/.project,https://github.com/grpc/.project,1,,SECURITY.md,Project metadata for automation and awesomeness
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promci-images,https://github.com/prometheus/promci-images,1,,SECURITY.md,GitHub Actions for handling container images.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promci-artifacts,https://github.com/prometheus/promci-artifacts,1,,SECURITY.md,GitHub Actions for artifact persistence between jobs
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/.project,https://github.com/prometheus/.project,0,,SECURITY.md,Project metadata for prometheus - CNCF .project automation
 CNCF云原生基金会,无(开源基金会),cilium,cilium/kwok,https://github.com/cilium/kwok,0,Go,SECURITY.md,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
@@ -3824,7 +3824,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/x-edr-eigenmath_tf2,https://github.com/google/x-edr-eigenmath_tf2,1,C++,SECURITY.md,Port of ROS/TF2 to eigenmath library.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/secure-cua,https://github.com/google/secure-cua,0,Python,SECURITY.md,
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105148,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105462,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/fairseq,https://github.com/facebookresearch/fairseq,32208,Python,error,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28250,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
 Meta,自建（Meta Bug Bounty）,Meta,meta/astryx,https://github.com/meta/astryx,26499,TypeScript,SECURITY.md,An open source design system that's fully customizable and agent ready
@@ -3833,9 +3833,9 @@ Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/AnimatedDrawi
 Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-ios-sdk,https://github.com/meta/facebook-ios-sdk,8117,Swift,SECURITY.md,Used to integrate the Facebook Platform with your iOS & tvOS apps.
 Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-android-sdk,https://github.com/meta/facebook-android-sdk,6467,Kotlin,SECURITY.md,Used to integrate Android apps with Facebook Platform.
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/lingua,https://github.com/facebookresearch/lingua,4774,Python,error,"Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs."
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/serve,https://github.com/pytorch/serve,4343,Java,SECURITY.md,"Serve, optimize and scale PyTorch models in production"
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/gloo,https://github.com/pytorch/gloo,1465,C++,SECURITY.md,Collective communications library with various primitives for multi-machine training.
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/tensordict,https://github.com/pytorch/tensordict,1042,Python,SECURITY.md,"A dict[str, torch.Tensor] that behaves like one tensor, and TensorClass: typed, batched dataclasses that compile."
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/serve,https://github.com/pytorch/serve,4344,Java,SECURITY.md,"Serve, optimize and scale PyTorch models in production"
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/gloo,https://github.com/pytorch/gloo,1466,C++,SECURITY.md,Collective communications library with various primitives for multi-machine training.
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/tensordict,https://github.com/pytorch/tensordict,1046,Python,SECURITY.md,"A dict[str, torch.Tensor] that behaves like one tensor, and TensorClass: typed, batched dataclasses that compile."
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/SONAR,https://github.com/facebookresearch/SONAR,916,Python,error,"SONAR, a new multilingual and multimodal fixed-size sentence embedding space, with a full suite of speech and text encoders and decoders."
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/MLGym,https://github.com/facebookresearch/MLGym,625,Python,error,MLGym A New Framework and Benchmark for Advancing AI Research Agents
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/4DGT,https://github.com/facebookresearch/4DGT,498,Python,error,"[NeurIPS 2025 (Spotlight)] The implementation for the paper ""4DGT Learning a 4D Gaussian Transformer Using Real-World Monocular Videos"""
@@ -4438,51 +4438,51 @@ Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/tiered-stor
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/onboarding_sd,https://github.com/adobe/onboarding_sd,,,error,Onboarding data for Substance Designer: welcome screen and release notes contents.
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/openwhisk,https://github.com/adobe/openwhisk,,Scala,docs/security.md,Apache OpenWhisk is an open source serverless cloud platform
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/react,https://github.com/adobe/react,,JavaScript,SECURITY.md,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graal,https://github.com/oracle/graal,21750,Java,SECURITY.md,"GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graal,https://github.com/oracle/graal,21753,Java,SECURITY.md,"GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀"
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-server,https://github.com/mysql/mysql-server,12510,C++,SECURITY.md,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/docker-images,https://github.com/oracle/docker-images,7005,Shell,SECURITY.md,"Official source of container configurations, images, and examples for Oracle products and projects"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/opengrok,https://github.com/oracle/opengrok,5026,Java,SECURITY.md,"OpenGrok is a fast and usable source code search and cross reference engine, written in Java"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/docker-images,https://github.com/oracle/docker-images,7008,Shell,SECURITY.md,"Official source of container configurations, images, and examples for Oracle products and projects"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/opengrok,https://github.com/oracle/opengrok,5029,Java,SECURITY.md,"OpenGrok is a fast and usable source code search and cross reference engine, written in Java"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/visualvm,https://github.com/oracle/visualvm,3278,Java,SECURITY.md,VisualVM is an All-in-One Java Troubleshooting Tool
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/node-oracledb,https://github.com/oracle/node-oracledb,2377,JavaScript,SECURITY.md,Oracle Database driver for Node.js maintained by Oracle Corporation. Connect your JavaScript and TypeScript applications instantly to Oracle Database.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graaljs,https://github.com/oracle/graaljs,2043,C++,SECURITY.md,"GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/bpftune,https://github.com/oracle/bpftune,1892,C,SECURITY.md,bpftune uses BPF to auto-tune Linux systems
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/node-oracledb,https://github.com/oracle/node-oracledb,2379,JavaScript,SECURITY.md,Oracle Database driver for Node.js maintained by Oracle Corporation. Connect your JavaScript and TypeScript applications instantly to Oracle Database.
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graaljs,https://github.com/oracle/graaljs,2046,C++,SECURITY.md,"GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/bpftune,https://github.com/oracle/bpftune,1896,C,SECURITY.md,bpftune uses BPF to auto-tune Linux systems
 Oracle,自建（Oracle Vulnerability Reporting Program）,graalvm,graalvm/graalvm-ce-builds,https://github.com/graalvm/graalvm-ce-builds,1757,,SECURITY.md,GraalVM CE binaires built by the GraalVM community
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graalpython,https://github.com/oracle/graalpython,1657,Python,SECURITY.md,GraalPy – A high-performance embeddable Python 3 runtime for Java
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/tribuo,https://github.com/oracle/tribuo,1416,Java,SECURITY.md,Tribuo - A Java machine learning library
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graalpython,https://github.com/oracle/graalpython,1659,Python,SECURITY.md,GraalPy – A high-performance embeddable Python 3 runtime for Java
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/tribuo,https://github.com/oracle/tribuo,1417,Java,SECURITY.md,Tribuo - A Java machine learning library
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-j,https://github.com/mysql/mysql-connector-j,1019,Java,SECURITY.md,MySQL Connector/J
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/vagrant-projects,https://github.com/oracle/vagrant-projects,1010,Shell,SECURITY.md,Vagrant projects for Oracle products and other examples
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-workbench,https://github.com/mysql/mysql-workbench,1004,C++,SECURITY.md,"This repository contains the now EOL version of MySQL Workbench 8. For the new Workbench, see https://github.com/mysql/mysql-shell-plugins"
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-python,https://github.com/mysql/mysql-connector-python,950,Python,SECURITY.md,"MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. No MySQL libraries are needed, and no compilation is necessary to …"
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-operator,https://github.com/mysql/mysql-operator,947,Python,SECURITY.md,MySQL Operator for Kubernetes
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/skills,https://github.com/oracle/skills,912,Python,SECURITY.md,"Oracle Skills is a curated, open-source collection of practical, installable skills for working with Oracle technologies. It provides developers, administrators…"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/python-cx_Oracle,https://github.com/oracle/python-cx_Oracle,885,C,SECURITY.md,"Obsolete Python interface to Oracle Database, now superseded by python-oracledb"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/terraform-provider-oci,https://github.com/oracle/terraform-provider-oci,878,Go,SECURITY.md,Terraform Oracle Cloud Infrastructure provider
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusion-ai-studio,https://github.com/oracle/fusion-ai-studio,717,JavaScript,SECURITY.md,
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/skills,https://github.com/oracle/skills,931,Python,SECURITY.md,"Oracle Skills is a curated, open-source collection of practical, installable skills for working with Oracle technologies. It provides developers, administrators…"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/python-cx_Oracle,https://github.com/oracle/python-cx_Oracle,886,C,SECURITY.md,"Obsolete Python interface to Oracle Database, now superseded by python-oracledb"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/terraform-provider-oci,https://github.com/oracle/terraform-provider-oci,880,Go,SECURITY.md,Terraform Oracle Cloud Infrastructure provider
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusion-ai-studio,https://github.com/oracle/fusion-ai-studio,727,JavaScript,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-cpp,https://github.com/mysql/mysql-connector-cpp,711,C++,SECURITY.md,MySQL Connector/C++ is a MySQL database connector for C++. It lets you develop C++ and C applications that connect to MySQL Server.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-cli,https://github.com/oracle/oci-cli,683,Python,SECURITY.md,Command Line Interface for Oracle Cloud Infrastructure
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-cli,https://github.com/oracle/oci-cli,687,Python,SECURITY.md,Command Line Interface for Oracle Cloud Infrastructure
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-docker,https://github.com/mysql/mysql-docker,677,Shell,SECURITY.md,Dockerfiles and scripts for MySQL products
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/apex,https://github.com/oracle/apex,663,,SECURITY.md,"Official Oracle APEX repo for sample code, starter apps, plug-ins, and more! #orclapex"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/apex,https://github.com/oracle/apex,664,,SECURITY.md,"Official Oracle APEX repo for sample code, starter apps, plug-ins, and more! #orclapex"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fastr,https://github.com/oracle/fastr,649,Java,SECURITY.md,"A high-performance implementation of the R programming language, built on GraalVM."
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oraclejet,https://github.com/oracle/oraclejet,539,,SECURITY.md,Oracle JET is a modular JavaScript Extension Toolkit for developers working on client-side applications.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graalvm-reachability-metadata,https://github.com/oracle/graalvm-reachability-metadata,485,Java,docs/SECURITY.md,Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/coherence,https://github.com/oracle/coherence,474,Java,SECURITY.md,Oracle Coherence Community Edition
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-python-sdk,https://github.com/oracle/oci-python-sdk,474,Python,SECURITY.md,Oracle Cloud Infrastructure SDK for Python
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/mcp,https://github.com/oracle/mcp,473,Python,SECURITY.md,Repository containing MCP (Model Context Protocol) servers that provides a suite of tools for managing and interacting with Oracle products.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/python-oracledb,https://github.com/oracle/python-oracledb,457,Python,SECURITY.md,"Python driver for Oracle Database conforming to the Python DB API 2.0 specification with many advanced features. Fast, small, portable. Enterprise ready."
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oraclejet,https://github.com/oracle/oraclejet,540,,SECURITY.md,Oracle JET is a modular JavaScript Extension Toolkit for developers working on client-side applications.
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graalvm-reachability-metadata,https://github.com/oracle/graalvm-reachability-metadata,486,Java,docs/SECURITY.md,Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/mcp,https://github.com/oracle/mcp,478,Python,SECURITY.md,Repository containing MCP (Model Context Protocol) servers that provides a suite of tools for managing and interacting with Oracle products.
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/coherence,https://github.com/oracle/coherence,476,Java,SECURITY.md,Oracle Coherence Community Edition
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-python-sdk,https://github.com/oracle/oci-python-sdk,475,Python,SECURITY.md,Oracle Cloud Infrastructure SDK for Python
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/python-oracledb,https://github.com/oracle/python-oracledb,458,Python,SECURITY.md,"Python driver for Oracle Database conforming to the Python DB API 2.0 specification with many advanced features. Fast, small, portable. Enterprise ready."
 Oracle,自建（Oracle Vulnerability Reporting Program）,graalvm,graalvm/mandrel,https://github.com/graalvm/mandrel,454,,SECURITY.md,Mandrel is a downstream distribution of the GraalVM community edition. Mandrel's main goal is to provide a native-image release specifically to support Quarkus.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/agent-spec,https://github.com/oracle/agent-spec,449,Python,SECURITY.md,Open Agent Spec (Agent Spec) is a framework-agnostic declarative language for defining agentic systems. It defines building blocks for standalone agents and str…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/dotnet-db-samples,https://github.com/oracle/dotnet-db-samples,434,C#,SECURITY.md,.NET code samples for Oracle database developers #OracleDotNet
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/migrate-to-ol,https://github.com/oracle/migrate-to-ol,371,Shell,SECURITY.md,Script and documentation to switch to Oracle Linux
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/netsuite-suitecloud-sdk,https://github.com/oracle/netsuite-suitecloud-sdk,370,Python,SECURITY.md,SuiteCloud Software Development Kit (SuiteCloud SDK) are the set of tools that allow you to customize accounts and create SuiteApps through SuiteCloud Developme…
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/netsuite-suitecloud-sdk,https://github.com/oracle/netsuite-suitecloud-sdk,383,Python,SECURITY.md,SuiteCloud Software Development Kit (SuiteCloud SDK) are the set of tools that allow you to customize accounts and create SuiteApps through SuiteCloud Developme…
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/migrate-to-ol,https://github.com/oracle/migrate-to-ol,373,Shell,SECURITY.md,Script and documentation to switch to Oracle Linux
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-net,https://github.com/mysql/mysql-connector-net,334,C#,SECURITY.md,Connector/NET is a fully-managed ADO.NET driver for MySQL.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/javavscode,https://github.com/oracle/javavscode,321,TypeScript,SECURITY.md,Java platform support for Visual Studio Code for full featured Java development (edit-compile-debug & test cycle)
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-db-tools,https://github.com/oracle/oracle-db-tools,311,JavaScript,SECURITY.md,This project is a repository of sample code that will demonstrate various concepts to assist developers in building applications around Oracle Database technolo…
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/javavscode,https://github.com/oracle/javavscode,322,TypeScript,SECURITY.md,Java platform support for Visual Studio Code for full featured Java development (edit-compile-debug & test cycle)
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-db-tools,https://github.com/oracle/oracle-db-tools,312,JavaScript,SECURITY.md,This project is a repository of sample code that will demonstrate various concepts to assist developers in building applications around Oracle Database technolo…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/odpi,https://github.com/oracle/odpi,293,C,SECURITY.md,ODPI-C: Oracle Database Programming Interface for Drivers and Applications
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-kubernetes-operator,https://github.com/oracle/weblogic-kubernetes-operator,267,Java,SECURITY.md,WebLogic Kubernetes Operator
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-db-appdev-monitoring,https://github.com/oracle/oracle-db-appdev-monitoring,265,Go,SECURITY.md,"Oracle AI Database Metrics Exporter: Prometheus Metrics, OpenTelemetry Metrics, and Logs for Oracle AI Database"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/hospitality-api-docs,https://github.com/oracle/hospitality-api-docs,233,HTML,SECURITY.md,This repository stores REST API specifications and accompanying Postman collections for Oracle Hospitality APIs.
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-db-appdev-monitoring,https://github.com/oracle/oracle-db-appdev-monitoring,266,Go,SECURITY.md,"Oracle AI Database Metrics Exporter: Prometheus Metrics, OpenTelemetry Metrics, and Logs for Oracle AI Database"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/hospitality-api-docs,https://github.com/oracle/hospitality-api-docs,235,HTML,SECURITY.md,This repository stores REST API specifications and accompanying Postman collections for Oracle Hospitality APIs.
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-shell,https://github.com/mysql/mysql-shell,227,C++,SECURITY.md,"MySQL Shell is a command line scriptable shell for MySQL, with support for logical backups, InnoDB Cluster management and more. It supports SQL, JavaScript and …"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/container-images,https://github.com/oracle/container-images,219,,SECURITY.md,Oracle Linux container images
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/container-images,https://github.com/oracle/container-images,220,,SECURITY.md,Oracle Linux container images
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-go-sdk,https://github.com/oracle/oci-go-sdk,218,Go,SECURITY.md,Go SDK for Oracle Cloud Infrastructure 
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-r2dbc,https://github.com/oracle/oracle-r2dbc,216,Java,SECURITY.md,R2DBC Driver for Oracle Database
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/macaron,https://github.com/oracle/macaron,210,Python,SECURITY.md,Macaron is an extensible supply-chain security analysis framework from Oracle Labs that supports a wide range of build systems and CI/CD services. It can be use…
@@ -4490,16 +4490,16 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/pgql-lan
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-ansible-collection,https://github.com/oracle/oci-ansible-collection,199,Python,SECURITY.md,Oracle Cloud Infrastructure Ansible Collection provides an easy way to provision and manage resources in Oracle Cloud using Ansible.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/wayflow,https://github.com/oracle/wayflow,191,Python,SECURITY.md,"WayFlow is a powerful, intuitive Python library for building sophisticated AI-powered assistants. It is a reference runtime for Agent Spec, with native support …"
 Oracle,自建（Oracle Vulnerability Reporting Program）,graalvm,graalvm/container,https://github.com/graalvm/container,190,,SECURITY.md,GraalVM container images
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/Fusion-Setup-Configuration-Registry,https://github.com/oracle/Fusion-Setup-Configuration-Registry,187,Python,security.md,"Sample skills, scripts, and reference workflows for AI-assisted planning, setup, and configuration of Oracle Fusion Cloud Applications."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/solaris-userland,https://github.com/oracle/solaris-userland,183,C,SECURITY.md,Open Source software in Solaris using gmake based build system to drive building various software components.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/sd4j,https://github.com/oracle/sd4j,181,Java,SECURITY.md,Stable diffusion pipeline in Java using ONNX Runtime
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-linux,https://github.com/oracle/oracle-linux,179,Shell,SECURITY.md,"Scripts, examples, and tutorials to get started with Oracle Linux"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-linux,https://github.com/oracle/oracle-linux,180,Shell,SECURITY.md,"Scripts, examples, and tutorials to get started with Oracle Linux"
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-js,https://github.com/mysql/mysql-js,171,JavaScript,SECURITY.md,NoSQL node.js connector for MySQL Cluster
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-deploy-tooling,https://github.com/oracle/weblogic-deploy-tooling,167,Python,SECURITY.md,WebLogic Deploy Tooling
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-nodejs,https://github.com/mysql/mysql-connector-nodejs,160,JavaScript,SECURITY.md,"MySQL Connector Node.JS is a MySQL Connector using the X Protocol, which was introduced with MySQL 5.7.12."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-cloud-controller-manager,https://github.com/oracle/oci-cloud-controller-manager,160,Go,SECURITY.md,Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastructure
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/Fusion-Setup-Configuration-Registry,https://github.com/oracle/Fusion-Setup-Configuration-Registry,148,Python,security.md,"Sample skills, scripts, and reference workflows for AI-assisted planning, setup, and configuration of Oracle Fusion Cloud Applications."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/cordova-plugin-wkwebview-file-xhr,https://github.com/oracle/cordova-plugin-wkwebview-file-xhr,139,JavaScript,SECURITY.md,Cordova Plugin for WebView File XHR
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/accelerated-data-science,https://github.com/oracle/accelerated-data-science,124,Python,SECURITY.md,"ADS is the Oracle Data Science Cloud Service's python SDK supporting, model ops (train/eval/deploy), along with running workloads on Jobs and Pipeline resources…"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/accelerated-data-science,https://github.com/oracle/accelerated-data-science,125,Python,SECURITY.md,"ADS is the Oracle Data Science Cloud Service's python SDK supporting, model ops (train/eval/deploy), along with running workloads on Jobs and Pipeline resources…"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-monitoring-exporter,https://github.com/oracle/weblogic-monitoring-exporter,112,Java,SECURITY.md,WebLogic Monitoring Exporter exposes metrics and monitoring data through REST APIs for consumption by other tools (e.g. Prometheus)
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/font-apex,https://github.com/oracle/font-apex,110,CSS,SECURITY.md,Font APEX is an open source icon library from the Oracle APEX team.
 Oracle,自建（Oracle Vulnerability Reporting Program）,graalvm,graalvm/graal-languages-demos,https://github.com/graalvm/graal-languages-demos,104,Java,SECURITY.md,Graal Languages - Demos and Guides
@@ -4510,55 +4510,55 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-shel
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-typescript-sdk,https://github.com/oracle/oci-typescript-sdk,101,TypeScript,SECURITY.md,Oracle Cloud Infrastructure SDK for TypeScript and JavaScript
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/macest,https://github.com/oracle/macest,100,Jupyter Notebook,SECURITY.md,Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-odbc,https://github.com/mysql/mysql-connector-odbc,98,C++,SECURITY.md,"This is the source for MySQL Connector/ODBC (myodbc), an ODBC (3.51)  driver for connecting an ODBC-aware application to the MySQL Server."
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-grafana-metrics,https://github.com/oracle/oci-grafana-metrics,95,Go,SECURITY.md,Grafana datasource plugin for OCI metrics
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/cloudtestdrive,https://github.com/oracle/cloudtestdrive,95,HTML,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/microservices-backend,https://github.com/oracle/microservices-backend,94,Java,SECURITY.md,Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-grafana-metrics,https://github.com/oracle/oci-grafana-metrics,94,Go,SECURITY.md,Grafana datasource plugin for OCI metrics
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/free,https://github.com/oracle/free,75,HTML,SECURITY.md,Free Oracle technologies for Developers
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/free,https://github.com/oracle/free,76,HTML,SECURITY.md,Free Oracle technologies for Developers
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/solaris-ips,https://github.com/oracle/solaris-ips,75,Python,SECURITY.md,Solaris IPS: Image Packaging System
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/yo,https://github.com/oracle/yo,75,Python,SECURITY.md,A fast and simple command line OCI client
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/solaris-ips,https://github.com/oracle/solaris-ips,74,Python,SECURITY.md,Solaris IPS: Image Packaging System
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/soda-for-java,https://github.com/oracle/soda-for-java,74,Java,SECURITY.md,SODA (Simple Oracle Document Access) for Java is an Oracle library for writing Java apps that work with JSON (and not only JSON!) in the Oracle Database. SODA a…
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/vecdb-python-sdk,https://github.com/oracle/vecdb-python-sdk,72,Python,SECURITY.md,"Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/vecdb-python-sdk,https://github.com/oracle/vecdb-python-sdk,73,Python,SECURITY.md,"Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/aidataplatform-sdk,https://github.com/oracle/aidataplatform-sdk,72,Java,SECURITY.md,"Oracle AI Data Platform SDK and CLI for  Python, TypeScript and Java"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/hiq,https://github.com/oracle/hiq,72,Python,SECURITY.md,HiQ - Observability And Optimization In Modern AI Era
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/aidataplatform-sdk,https://github.com/oracle/aidataplatform-sdk,71,Java,SECURITY.md,"Oracle AI Data Platform SDK and CLI for  Python, TypeScript and Java"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-remote-console,https://github.com/oracle/weblogic-remote-console,70,Java,SECURITY.md,A WebLogic Console that connects remotely using the WebLogic Management REST API
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/dbt-oracle,https://github.com/oracle/dbt-oracle,70,Python,SECURITY.md,dbt (data build tool) adapter for Oracle Autonomous AI Database
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/adb-free,https://github.com/oracle/adb-free,67,,SECURITY.md,
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/adb-free,https://github.com/oracle/adb-free,69,,SECURITY.md,
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-dotnet-sdk,https://github.com/oracle/oci-dotnet-sdk,67,C#,SECURITY.md,Oracle Cloud Infrastructure SDK for .NET
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/weblogic-image-tool,https://github.com/oracle/weblogic-image-tool,66,Java,SECURITY.md,WebLogic Image Tool
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-dotnet-sdk,https://github.com/oracle/oci-dotnet-sdk,66,C#,SECURITY.md,Oracle Cloud Infrastructure SDK for .NET
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/quicksql,https://github.com/oracle/quicksql,66,JavaScript,SECURITY.md,A library for generating DDL SQL and entity-relationship-diagrams from Quick SQL code
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/langchain-oracle,https://github.com/oracle/langchain-oracle,64,Python,SECURITY.md,"The Oracle LangChain integration provides official LangChain support for Oracle’s Generative AI and AI Platform services, enabling developers to build intellige…"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/langchain-oracle,https://github.com/oracle/langchain-oracle,65,Python,SECURITY.md,"The Oracle LangChain integration provides official LangChain support for Oracle’s Generative AI and AI Platform services, enabling developers to build intellige…"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/crossplane-provider-oci,https://github.com/oracle/crossplane-provider-oci,63,Go,SECURITY.md,Crossplane provider for Oracle Cloud Infrastructure(OCI)
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/nosql-examples,https://github.com/oracle/nosql-examples,62,Jupyter Notebook,SECURITY.md,This is a top level repository for code examples related to the use of Oracle NoSQL Database.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/rwloadsim,https://github.com/oracle/rwloadsim,60,C,SECURITY.md,"RWP*Load Simulator - your tool for scripting, simulation and much more. Like having a bit of bash and SQL, a nip of C or Java, a dash of awk, a grain of sed plu…"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/spring-cloud-oracle,https://github.com/oracle/spring-cloud-oracle,58,Java,SECURITY.md,"Spring Cloud Oracle, eases the integration with Oracle Database and OCI services, and offers a convenient way to interact with Oracle Database and OCI-provided …"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/rwloadsim,https://github.com/oracle/rwloadsim,61,C,SECURITY.md,"RWP*Load Simulator - your tool for scripting, simulation and much more. Like having a bit of bash and SQL, a nip of C or Java, a dash of awk, a grain of sed plu…"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/spring-cloud-oracle,https://github.com/oracle/spring-cloud-oracle,59,Java,SECURITY.md,"Spring Cloud Oracle, eases the integration with Oracle Database and OCI services, and offers a convenient way to interact with Oracle Database and OCI-provided …"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/nosql,https://github.com/oracle/nosql,58,Java,SECURITY.md,"Oracle NoSQL Database.   Designed for today’s most demanding applications that require low latency responses, flexible data models, and elastic scaling for dyna…"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/cluster-api-provider-oci,https://github.com/oracle/cluster-api-provider-oci,56,Go,SECURITY.md,Kubernetes Cluster API Provider for Oracle Cloud Infrastructure
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-utils,https://github.com/oracle/oci-utils,55,Python,SECURITY.md,  Oracle Cloud Infrastructure utilities
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/cluster-api-provider-oci,https://github.com/oracle/cluster-api-provider-oci,57,Go,SECURITY.md,Kubernetes Cluster API Provider for Oracle Cloud Infrastructure
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-utils,https://github.com/oracle/oci-utils,56,Python,SECURITY.md,  Oracle Cloud Infrastructure utilities
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/guardian-ai,https://github.com/oracle/guardian-ai,54,Python,SECURITY.md,Oracle Guardian AI Open Source Project is a library consisting of tools to assess fairness/bias and privacy of machine learning models and data sets.  
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/bots-node-sdk,https://github.com/oracle/bots-node-sdk,54,TypeScript,SECURITY.md,Oracle Bots Node.js SDK
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oled-tools,https://github.com/oracle/oled-tools,51,Python,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/ktls-utils,https://github.com/oracle/ktls-utils,50,C,SECURITY.md,TLS handshake utilities for in-kernel TLS consumers
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-service-operator,https://github.com/oracle/oci-service-operator,50,Go,SECURITY.md,The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environm…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oraclesolaris-contrib,https://github.com/oracle/oraclesolaris-contrib,50,Jupyter Notebook,SECURITY.md,"oraclesolaris-contrib is a repository focussed on the Oracle Solaris 11.4 StatsStore, using methodologies like REST to connect to Oracle Solaris 11.4 and the ne…"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-service-operator,https://github.com/oracle/oci-service-operator,49,Go,SECURITY.md,The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environm…
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/go-oracledb,https://github.com/oracle/go-oracledb,49,Go,SECURITY.md,"The goal of the pure Go driver is to deliver an official, robust and stable driver for Oracle Database."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/libdtrace-ctf,https://github.com/oracle/libdtrace-ctf,49,C,SECURITY.md,libdtrace-ctf is the Compact Type Format library used by DTrace on Linux
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/go-oracledb,https://github.com/oracle/go-oracledb,48,Go,SECURITY.md,"The goal of the pure Go driver is to deliver an official, robust and stable driver for Oracle Database."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-service-broker,https://github.com/oracle/oci-service-broker,48,Java,SECURITY.md,Oracle Cloud Infrastructure Service Broker is an open source implementation of Open service broker API Spec for OCI services. Customers can use this implementat…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/heatwave-tpch,https://github.com/oracle/heatwave-tpch,48,,SECURITY.md,SQL scripts for HeatWave benchmarking
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/content-and-experience-toolkit,https://github.com/oracle/content-and-experience-toolkit,47,JavaScript,SECURITY.md,The Oracle Content Management Toolkit and SDKs help you develop custom applications that consume content that is managed in the OCM repository. These applicatio…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/offline-persistence-toolkit,https://github.com/oracle/offline-persistence-toolkit,47,JavaScript,SECURITY.md,Offline Persistence Toolkit for Javascript Applications
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-ndb-operator,https://github.com/mysql/mysql-ndb-operator,43,Go,SECURITY.md,Kubernetes Operator for MySQL NDB Cluster.
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/rust-oracledb,https://github.com/oracle/rust-oracledb,43,Rust,SECURITY.md,Oracle Database driver for Rust maintained by Oracle Corporation. Connect your Rust applications instantly to Oracle Database.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-designer-toolkit,https://github.com/oracle/oci-designer-toolkit,43,TypeScript,SECURITY.md,"OCI designer toolKIT (OKIT) is a set of tools for enabling design, deploy and visualise OCI environments through a graphical web based interface."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/kconfigs,https://github.com/oracle/kconfigs,41,Python,SECURITY.md,Tool for extracting Linux kernel configurations from many distributions & displaying a web UI
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graal-dev-kit,https://github.com/oracle/graal-dev-kit,41,Java,SECURITY.md,Graal Development Kit for Micronaut (GDK) is a curated set of open source Micronaut® framework modules designed from the ground up to be compiled ahead-of-time …
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/okafka,https://github.com/oracle/okafka,41,Java,SECURITY.md,Kafka Java Client for Oracle Transactional Event Queues
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-powershell-modules,https://github.com/oracle/oci-powershell-modules,40,C#,SECURITY.md,Oracle Cloud Infrastructure Modules for PowerShell
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/db-sharding,https://github.com/oracle/db-sharding,39,HCL,SECURITY.md,Oracle Sharded database deployment automation and tools for use in client applications.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/rust-oracledb,https://github.com/oracle/rust-oracledb,38,Rust,SECURITY.md,Oracle Database driver for Rust maintained by Oracle Corporation. Connect your Rust applications instantly to Oracle Database.
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/olcut,https://github.com/oracle/olcut,37,Java,SECURITY.md,"A Java configuration, shell, and general utility toolkit"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/sandwood,https://github.com/oracle/sandwood,37,Java,SECURITY.md,Sandwood - A JVM based Java like Probabilistic Programming Language
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/template-repo,https://github.com/oracle/template-repo,37,,SECURITY.md,This is a template repository. It contains information about the guidelines for Oracle’s GitHub repositories.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-hdfs-connector,https://github.com/oracle/oci-hdfs-connector,37,Java,SECURITY.md,HDFS Connector for Oracle Cloud Infrastructure
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/create-database-app,https://github.com/oracle/create-database-app,37,TypeScript,SECURITY.md,An NPM package to create Oracle Database Applications from a selection of templates
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/olcut,https://github.com/oracle/olcut,36,Java,SECURITY.md,"A Java configuration, shell, and general utility toolkit"
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/sandwood,https://github.com/oracle/sandwood,36,Java,SECURITY.md,Sandwood - A JVM based Java like Probabilistic Programming Language
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/spark-oracle,https://github.com/oracle/spark-oracle,36,Scala,SECURITY.md,"On the fly, translation of Spark programs to run natively on your Oracle DB. Your Spark programs require no changes."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/ansible-database-migration-tool,https://github.com/oracle/ansible-database-migration-tool,36,Python,SECURITY.md,Ansible Database Migration Tool utility has been developed with an objective to provide a quick and easy way to move Oracle Cloud Infrastructure Classic (OCI-C)…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/ojdbc-extensions,https://github.com/oracle/ojdbc-extensions,35,Java,SECURITY.md,The Oracle JDBC Driver Extensions include providers for centralized configuration or token providers for authentication with the DB.
@@ -4609,27 +4609,27 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-tool
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/cordova-plugin-oracle-idm-auth,https://github.com/oracle/cordova-plugin-oracle-idm-auth,12,Java,SECURITY.md,Cordova Plugin for Oracle IDM Auth
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graalpy-extensions,https://github.com/oracle/graalpy-extensions,11,Java,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/nosql-spring-sdk,https://github.com/oracle/nosql-spring-sdk,11,Java,SECURITY.md,SDK for Spring Data for Oracle NoSQL Database
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/coherence-js-client,https://github.com/oracle/coherence-js-client,11,TypeScript,SECURITY.md,The Coherence JavaScript Client
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/puppet-solaris_providers,https://github.com/oracle/puppet-solaris_providers,11,Ruby,SECURITY.md,Oracle Solaris Puppet Module
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/macaron-utilities,https://github.com/oracle/macaron-utilities,11,Java,SECURITY.md,Macaron Untilities is a collection of companion tools and plugins for the Macaron supply chain security framework.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oracle-for-research,https://github.com/oracle/oracle-for-research,11,Python,SECURITY.md,Repository of technology how-to’s and instructional content for Researchers
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/nosql-rust-sdk,https://github.com/oracle/nosql-rust-sdk,10,Rust,SECURITY.md,SDK for Rust for the Oracle NoSQL Database
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusabase-js-sdk,https://github.com/oracle/fusabase-js-sdk,10,TypeScript,SECURITY.md,"Fusabase JavaScript SDK provides a unified, developer-friendly interface to interact with backend services provided by Oracle directly from web application."
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/coherence-js-client,https://github.com/oracle/coherence-js-client,10,TypeScript,SECURITY.md,The Coherence JavaScript Client
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/helm-charts,https://github.com/oracle/helm-charts,10,Python,SECURITY.md,Helm charts for Oracle commercial products
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/rds-tools,https://github.com/oracle/rds-tools,10,C,SECURITY.md,"Reliable Datagram Sockets Tools -  rds-ping, rds-info, rds-stress"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/locus,https://github.com/oracle/locus,9,Python,SECURITY.md,"Oracle Generative AI Agentic Harness. Multi-agent reasoning orchestrator SDK with an admission gate in front of every consequential action, first-class on OCI G…"
+Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusabase-flutter-sdk,https://github.com/oracle/fusabase-flutter-sdk,9,Dart,SECURITY.md,"Fusabase Flutter SDK provides a unified, developer-friendly interface to interact with backend services provided by Oracle directly from hybrid application."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/optic,https://github.com/oracle/optic,9,Python,SECURITY.md,"OPTIC (OpenSearch Tools for Indices and Clusters) is a suite of Python tools designed to help OpenSearch Engineers troubleshoot, analyze, and manage OpenSearch …"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/.github,https://github.com/oracle/.github,9,,SECURITY.md,Default community health files for the Oracle GitHub Organisation (OGHO)
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/mod_owa,https://github.com/oracle/mod_owa,9,C,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/aaosl-agda,https://github.com/oracle/aaosl-agda,9,Agda,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/nosql-dotnet-sdk,https://github.com/oracle/nosql-dotnet-sdk,8,C#,SECURITY.md,A .NET SDK for Oracle NoSQL Database
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusabase-android-sdk,https://github.com/oracle/fusabase-android-sdk,8,Java,SECURITY.md,"Fusabase Android SDK provides a unified, developer-friendly interface to interact with backend services provided by Oracle directly from Mobile application."
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusabase-flutter-sdk,https://github.com/oracle/fusabase-flutter-sdk,8,Dart,SECURITY.md,"Fusabase Flutter SDK provides a unified, developer-friendly interface to interact with backend services provided by Oracle directly from hybrid application."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/gdk-intellij-tooling,https://github.com/oracle/gdk-intellij-tooling,8,Java,SECURITY.md,The plugin provides Graal Development Kit for Micronaut (GDK) project wizard which generates GDK applications.
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/coherence-helidon-sockshop-sample,https://github.com/oracle/coherence-helidon-sockshop-sample,8,Java,SECURITY.md,Coherence Helidon Sockshop Demo
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/tax-reporting-framework-cli,https://github.com/oracle/tax-reporting-framework-cli,8,JavaScript,SECURITY.md,Tax Reporting Framework CLI is a tool for generating boilerplate codes to quickly setup and deploy your reports using Tax Reporting Framework SuiteApp in NetSui…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/ocne-deploy-tool,https://github.com/oracle/ocne-deploy-tool,8,Python,SECURITY.md,Easy and quick deployment of Oracle Cloud Native Environment on VMs managed by Oracle Linux Virtualization Manager
 Oracle,自建（Oracle Vulnerability Reporting Program）,graalvm,graalvm/CLAMH,https://github.com/graalvm/CLAMH,7,C++,SECURITY.md,CLAMH (Cross-LAnguage Microbenchmark Harness) is a language-independent benchmark harness design and the implementation of that design for different languages.
-Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/locus,https://github.com/oracle/locus,7,Python,SECURITY.md,"Oracle Generative AI Agentic Harness. Multi-agent reasoning orchestrator SDK with an admission gate in front of every consequential action, first-class on OCI G…"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/nosql-intellij-plugin,https://github.com/oracle/nosql-intellij-plugin,7,Java,SECURITY.md,
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/oci-ai-speech-realtime-python-sdk,https://github.com/oracle/oci-ai-speech-realtime-python-sdk,7,Python,SECURITY.md,This repository contains the source code for the Python SDK to connect to the Realtime Speech Service. There is also an example client to help with connecting t…
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/fusabase-js-namespace-sdk,https://github.com/oracle/fusabase-js-namespace-sdk,6,JavaScript,SECURITY.md,"Fusabase JavaScript Namespace SDK provides a unified, developer-friendly interface to interact with backend services provided by Oracle directly from web applic…"
@@ -6247,57 +6247,58 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA-Omniverse,NVIDIA-Omniverse/ovannotators,http
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/newton-skills,https://github.com/NVIDIA/newton-skills,0,Standard ML,SECURITY.md,Skills for using the Newton physics simulation
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/newton-samples,https://github.com/NVIDIA/newton-samples,0,Python,SECURITY.md,"A collection of complex physics simulation samples build with Newton, the GPU-accelerated physics simulation engine."
 NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/torch-dgx,https://github.com/NVIDIA/torch-dgx,0,Cuda,SECURITY.md,A Scalable PyTorch Abstraction for Multi-GPU Deep Learning
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8494,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-mlir,https://github.com/qualcomm/hexagon-mlir,279,C++,SECURITY.md,Hexagon-MLIR is a compiler toolchain for compiling and executing AI kernels and models on Qualcomm Hexagon Neural Processing Units (NPUs).
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/GenieX,https://github.com/qualcomm/GenieX,8521,Go,SECURITY.md,"Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-mlir,https://github.com/qualcomm/hexagon-mlir,283,C++,SECURITY.md,Hexagon-MLIR is a compiler toolchain for compiling and executing AI kernels and models on Qualcomm Hexagon Neural Processing Units (NPUs).
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/efficient-transformers,https://github.com/qualcomm/efficient-transformers,102,Python,SECURITY.md,This library empowers users to seamlessly port pretrained models and checkpoints on the HuggingFace (HF) hub (developed using HF transformers library) into infe…
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cloud-ai-sdk,https://github.com/qualcomm/cloud-ai-sdk,85,Jupyter Notebook,SECURITY.md,Qualcomm Cloud AI SDK (Platform and Apps) enable high performance deep learning inference on Qualcomm Cloud AI platforms delivering high throughput and low late…
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qdlrs,https://github.com/qualcomm/qdlrs,85,Rust,SECURITY.md,Device flashing utility and library
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-usb-kernel-drivers,https://github.com/qualcomm/qcom-usb-kernel-drivers,60,C,SECURITY.md,"Qualcomm kernel drivers provide logical representations of Qualcomm chipset-enabled mobile devices over USB connections. This repository includes source code, b…"
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cloud-ai-sdk,https://github.com/qualcomm/cloud-ai-sdk,86,Jupyter Notebook,SECURITY.md,Qualcomm Cloud AI SDK (Platform and Apps) enable high performance deep learning inference on Qualcomm Cloud AI platforms delivering high throughput and low late…
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qdlrs,https://github.com/qualcomm/qdlrs,86,Rust,SECURITY.md,Device flashing utility and library
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-usb-kernel-drivers,https://github.com/qualcomm/qcom-usb-kernel-drivers,62,C,SECURITY.md,"Qualcomm kernel drivers provide logical representations of Qualcomm chipset-enabled mobile devices over USB connections. This repository includes source code, b…"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/PatchWise,https://github.com/qualcomm/PatchWise,52,Python,SECURITY.md,"PatchWise automates patch review and static analysis for the Linux kernel, streamlining upstream contributions and ensuring code quality."
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/crash-plugins,https://github.com/qualcomm/crash-plugins,52,C++,SECURITY.md,The plugins of crash-utility
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/QAIC,https://github.com/qualcomm/QAIC,26,Haskell,SECURITY.md,
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/QAIC,https://github.com/qualcomm/QAIC,27,Haskell,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cpullvm-toolchain,https://github.com/qualcomm/cpullvm-toolchain,23,LLVM,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/QcNode,https://github.com/qualcomm/QcNode,22,C++,SECURITY.md,QCNode is Qualcomm's next-generation ADAS Hardware Abstraction Layer (HAL). It provides a set of user-friendly APIs that abstract the complexities of interactin…
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/software-kit-for-qualcomm-cloud-ai-100,https://github.com/qualcomm/software-kit-for-qualcomm-cloud-ai-100,20,C++,SECURITY.md,Software kit for Qualcomm Cloud AI 100
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/llama.cpp,https://github.com/qualcomm/llama.cpp,16,C++,SECURITY.md,LLM inference in C/C++
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/vllm-qaic,https://github.com/qualcomm/vllm-qaic,15,Python,SECURITY.md,Qaic plugin backend for vllm to utilize Cloud AI accelerators
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/mini-sandbox,https://github.com/qualcomm/mini-sandbox,15,C++,SECURITY.md,use of namespaces for run-time isolation of applications
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/minkipc,https://github.com/qualcomm/minkipc,15,C,SECURITY.md,Libraries that implement and clients that utilize the Mink-IPC interface
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/libqcperf,https://github.com/qualcomm/libqcperf,14,C,SECURITY.md,"libqcperf is a lightweight, open‑source library for profiling system performance metrics. It enables flexible trace collection across diverse metrics, easy exte…"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/software-kit-for-qualcomm-cloud-ai-100-cc,https://github.com/qualcomm/software-kit-for-qualcomm-cloud-ai-100-cc,14,C++,SECURITY.md,Software kit for Qualcomm Cloud AI 100 cc
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/gst-plugins-imsdk,https://github.com/qualcomm/gst-plugins-imsdk,14,C,SECURITY.md,"Qualcomm® IM SDK provides hardware-accelerated GStreamer plugins and reference apps for multimedia development, along with AI SDK integrations like Neural Proce…"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/lite-3Dgsplat-codec,https://github.com/qualcomm/lite-3Dgsplat-codec,14,C++,SECURITY.md,Lightweight 3D Gaussian Splat Codec
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/vllm-qaic,https://github.com/qualcomm/vllm-qaic,13,Python,SECURITY.md,Qaic plugin backend for vllm to utilize Cloud AI accelerators
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qhwi,https://github.com/qualcomm/qhwi,13,C++,SECURITY.md,"QHWI (Qualcomm Hardware Interface) is a modern, high performance graphics API abstraction library over multiple graphics backends"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/hexagon-hypervisor,https://github.com/qualcomm/hexagon-hypervisor,13,C,SECURITY.md,Hexagon Hypervisor (AKA h2) is a light weight OS / Hypervisor for the Qualcomm Hexagon processor family
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/android-on-snapdragon,https://github.com/qualcomm/android-on-snapdragon,12,Java,SECURITY.md,Sample code for 3rd party developers working on Android On Snapdragon
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/awesome-qualcomm-developer,https://github.com/qualcomm/awesome-qualcomm-developer,11,JavaScript,SECURITY.md,Catalog of projects that build upon Qualcomm's platforms
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qemu-hexagon-testing,https://github.com/qualcomm/qemu-hexagon-testing,11,C,SECURITY.md,Test programs to exercise QEMU hexagon
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/mink-idl-compiler,https://github.com/qualcomm/mink-idl-compiler,11,Rust,SECURITY.md,
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/awesome-qualcomm-developer,https://github.com/qualcomm/awesome-qualcomm-developer,10,JavaScript,SECURITY.md,Catalog of projects that build upon Qualcomm's platforms
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qualcomm-ui,https://github.com/qualcomm/qualcomm-ui,10,TypeScript,SECURITY.md,Qualcomm UI component library 
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-test-automation-controller,https://github.com/qualcomm/qcom-test-automation-controller,10,C++,.github/SECURITY.md,"Perform power off, power on, EDL, UEFI and more on Qualcomm devices remotely using debug board"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/userspace-resource-manager,https://github.com/qualcomm/userspace-resource-manager,10,C++,SECURITY.md,Userspace Resource Manager: System Resource Provisioning Framework
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-usb-userspace-drivers,https://github.com/qualcomm/qcom-usb-userspace-drivers,10,Shell,SECURITY.md,Qualcomm Userspace drivers provides logical representations of Qualcomm chipset-enabled mobile devices over USB connection. The drivers support Windows & Linux …
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/geniex-qairt-plugin,https://github.com/qualcomm/geniex-qairt-plugin,9,C++,SECURITY.md,Initial geniex-qairt-plugin
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-usb-userspace-drivers,https://github.com/qualcomm/qcom-usb-userspace-drivers,9,Shell,SECURITY.md,Qualcomm Userspace drivers provides logical representations of Qualcomm chipset-enabled mobile devices over USB connection. The drivers support Windows & Linux …
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qre,https://github.com/qualcomm/qre,9,C++,SECURITY.md,"QRE (pronounced ""core"") is a supplement to the C/C++ standard libraries that provides additional containers and support functions specifically designed for use …"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-embedded-power-measurement,https://github.com/qualcomm/qcom-embedded-power-measurement,7,C++,SECURITY.md,Enables power measurement features that are available through debug board with PSOC chipset  
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/pytactl,https://github.com/qualcomm/pytactl,7,Python,SECURITY.md,
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qimsdk,https://github.com/qualcomm/qimsdk,7,C,SECURITY.md,
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/camera-service,https://github.com/qualcomm/camera-service,7,C++,SECURITY.md,"Camera Service : It provides a camera service that loads the CamX libraries to interact with the camera hardware module. Additionally, it offers client APIs for…"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-image-loader,https://github.com/qualcomm/qcom-image-loader,7,C++,SECURITY.md,Qualcomm Image Loader (QIL) is a lightweight tool for flashing the Qualcomm software builds/images to the hardware. 
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/camera-service,https://github.com/qualcomm/camera-service,6,C++,SECURITY.md,"Camera Service : It provides a camera service that loads the CamX libraries to interact with the camera hardware module. Additionally, it offers client APIs for…"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cloudai-inference-samples,https://github.com/qualcomm/cloudai-inference-samples,6,HTML,SECURITY.md,Sample code from various blog posts about our cloud AI inference cards and software
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qimsdk-agentic-skills,https://github.com/qualcomm/qimsdk-agentic-skills,5,C,SECURITY.md,This is for imsdk agentic skills
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qimsdk,https://github.com/qualcomm/qimsdk,5,C,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/libqcnpuperf,https://github.com/qualcomm/libqcnpuperf,5,C,SECURITY.md,A Simple Lightweight NPU Metrics collection Library
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/wos-ai,https://github.com/qualcomm/wos-ai,5,Python,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-reusable-workflows,https://github.com/qualcomm/qcom-reusable-workflows,4,Python,SECURITY.md,Qualcomm reusable workflows
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cpu-mlir,https://github.com/qualcomm/cpu-mlir,4,C++,SECURITY.md,A MLIR-based compilation stack targeting ARM64 ISA for high performance AI/ML kernel and models.
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/ripple,https://github.com/qualcomm/ripple,4,LLVM,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/copyright-license-checker-action,https://github.com/qualcomm/copyright-license-checker-action,3,Python,SECURITY.md,License Checker
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/geniex-proc,https://github.com/qualcomm/geniex-proc,3,C++,SECURITY.md,"A high-performance C++ library for multimodal data preprocessing, designed to efficiently prepare image, audio, video, and text data for local inference models …"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/userspace-resource-manager-extensions,https://github.com/qualcomm/userspace-resource-manager-extensions,3,C++,SECURITY.md,Userspace Resource Manager Extensions: Extension Configs & Plugins
+高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/DTFramework,https://github.com/qualcomm/DTFramework,3,C,SECURITY.md,device tree framework
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/SvUTest,https://github.com/qualcomm/SvUTest,3,SystemVerilog,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/EasyWoS,https://github.com/qualcomm/EasyWoS,2,Python,SECURITY.md,"EasyWoS is An end‑to‑end agentic solution for scalable, efficient, high‑quality code porting and performance optimization on Windows on Snapdragon."
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/aic-operator,https://github.com/qualcomm/aic-operator,2,Go,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qdte-lite,https://github.com/qualcomm/qdte-lite,2,Python,SECURITY.md,Lightweight device tree editor for Qualcomm config-ELF containers
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/DTFramework,https://github.com/qualcomm/DTFramework,2,C,SECURITY.md,device tree framework
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/dragonwing-iot-samples,https://github.com/qualcomm/dragonwing-iot-samples,2,Python,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/.github,https://github.com/qualcomm/.github,2,C,SECURITY.md,
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/armor,https://github.com/qualcomm/armor,2,C++,SECURITY.md,
@@ -6309,7 +6310,6 @@ NVIDIA,HackerOne（NVIDIA）,NVIDIA,NVIDIA/torch-dgx,https://github.com/NVIDIA/t
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qemu-profiler,https://github.com/qualcomm/qemu-profiler,1,Rust,SECURITY.md,QEMU TCG plugin for profiling
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qualcomm-ui-utils,https://github.com/qualcomm/qualcomm-ui-utils,1,TypeScript,SECURITY.md,Qualcomm UI Utilities 
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/kleidiai,https://github.com/qualcomm/kleidiai,1,C++,SECURITY.md,This repository is a read-only mirror of https://gitlab.arm.com/kleidi/kleidiai
-高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/cpu-mlir,https://github.com/qualcomm/cpu-mlir,1,C++,SECURITY.md,A MLIR-based compilation stack targeting ARM64 ISA for high performance AI/ML kernel and models.
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/AI-Harness,https://github.com/qualcomm/AI-Harness,1,TypeScript,SECURITY.md,"AI-Harness: More convenient, secure, and cost‑efficient hybrid AI Personal AI Assistant based on OpenClaw"
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qtee-tas,https://github.com/qualcomm/qtee-tas,1,,SECURITY.md,Hosts Qualcomm Trusted Execution Environment supported Trusted Application
 高通,自建PSIRT（Qualcomm Product Security）,qualcomm,qualcomm/qcom-log-collector,https://github.com/qualcomm/qcom-log-collector,1,C++,SECURITY.md,Qualcomm Diagnostic Log Collector — a tool for collecting diagnostic data from Qualcomm-based devices
@@ -7395,7 +7395,7 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/kubernetes,https://github.com/teslamotors/kubernetes,1,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/enhancements,https://github.com/teslamotors/enhancements,1,Go,SECURITY.md,Enhancements tracking repo for Kubernetes
 特斯拉,Bugcrowd（Tesla）,teslamotors,teslamotors/slurm,https://github.com/teslamotors/slurm,1,C,SECURITY.md,Slurm: A Highly Scalable Workload Manager
-Rivian,Bugcrowd（Rivian）,rivian,rivian/ai-sast,https://github.com/rivian/ai-sast,93,Python,SECURITY.md,AI-powered SAST accelerator built to speed up secure development.
+Rivian,Bugcrowd（Rivian）,rivian,rivian/ai-sast,https://github.com/rivian/ai-sast,94,Python,SECURITY.md,AI-powered SAST accelerator built to speed up secure development.
 Rivian,Bugcrowd（Rivian）,rivian,rivian/odxtools,https://github.com/rivian/odxtools,2,Python,SECURITY.md,Set of utilities to interact with automotive diagnostic descriptions of electronic control units
 宝马,自建（BMW Product Security）,bmw,bmw/rayhunter,https://github.com/bmw/rayhunter,1,Rust,SECURITY.md,> Rust tool to detect cell site simulators on an orbic mobile hotspot
 宝马,自建（BMW Product Security）,bmw,bmw/letsencrypt,https://github.com/bmw/letsencrypt,1,Python,SECURITY.md,
@@ -7584,7 +7584,7 @@ Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi_Widgets,https://github.com/Snap
 Snap,HackerOne（Snap）,snapchat,Snapchat/react-camera-kit,https://github.com/Snapchat/react-camera-kit,25,TypeScript,SECURITY.md,"Official React bindings for Snap Camera Kit — create interactive, lens-powered AR experiences on the web."
 Snap,HackerOne（Snap）,snapchat,Snapchat/KeyDB-docs,https://github.com/Snapchat/KeyDB-docs,21,JavaScript,docs/security.md,KeyDB's official documentation repo
 Snap,HackerOne（Snap）,snapchat,Snapchat/pyOCD,https://github.com/Snapchat/pyOCD,1,Python,docs/security.md,Open source Python library for programming and debugging Arm Cortex-M microcontrollers
-Pinterest,HackerOne（Pinterest）,pinterest,pinterest/querybook,https://github.com/pinterest/querybook,2302,TypeScript,SECURITY.md,"Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface."
+Pinterest,HackerOne（Pinterest）,pinterest,pinterest/querybook,https://github.com/pinterest/querybook,2306,TypeScript,SECURITY.md,"Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/psc,https://github.com/pinterest/psc,122,Java,SECURITY.md,PubSubClient (PSC) 
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/orion,https://github.com/pinterest/orion,113,Java,SECURITY.md,Management and automation platform for Stateful Distributed Systems
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/api-description,https://github.com/pinterest/api-description,29,,SECURITY.md,OpenAPI descriptions for Pinterest's REST API
@@ -7594,8 +7594,8 @@ Pinterest,HackerOne（Pinterest）,pinterest,pinterest/typespec,https://github.c
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/ray,https://github.com/pinterest/ray,3,Python,SECURITY.md,Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML work…
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/superset,https://github.com/pinterest/superset,3,Python,SECURITY.md,Apache Superset is a Data Visualization and Data Exploration Platform
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/starrocks,https://github.com/pinterest/starrocks,3,Java,SECURITY.md,"StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query."
+Pinterest,HackerOne（Pinterest）,pinterest,pinterest/gprofiler,https://github.com/pinterest/gprofiler,2,Python,SECURITY.md,"gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/gprofiler-performance-studio,https://github.com/pinterest/gprofiler-performance-studio,2,JavaScript,Security.md,"The local version of the backend and UI for the gProfiler agent, featuring advanced flamegraph analysis tools. For the also free cloud version, please see https…"
-Pinterest,HackerOne（Pinterest）,pinterest,pinterest/gprofiler,https://github.com/pinterest/gprofiler,1,Python,SECURITY.md,"gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/alloy-graphql,https://github.com/pinterest/alloy-graphql,1,TypeScript,SECURITY.md,GraphQL code generation using Alloy framework.
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/slate,https://github.com/pinterest/slate,1,Java,SECURITY.md,Resource Lifecycle Management framework
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/karpenter,https://github.com/pinterest/karpenter,0,Go,SECURITY.md,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity."
@@ -7605,28 +7605,28 @@ LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/kafka-monitor,https://githu
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/openhouse,https://github.com/linkedin/openhouse,405,Java,SECURITY.md,Open Control Plane for Tables in Data Lakehouse
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/spark,https://github.com/linkedin/spark,15,Scala,docs/security.md,Apache Spark - A unified analytics engine for large-scale data processing
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/li-langchain,https://github.com/linkedin/li-langchain,1,Python,SECURITY.md,🦜🔗 Build context-aware reasoning applications
-Slack,自建（Slack VDP）,slackhq,slackhq/nebula,https://github.com/slackhq/nebula,18502,Go,SECURITY.md,"A scalable overlay networking tool with a focus on performance, simplicity and security"
+Slack,自建（Slack VDP）,slackhq,slackhq/nebula,https://github.com/slackhq/nebula,18527,Go,SECURITY.md,"A scalable overlay networking tool with a focus on performance, simplicity and security"
 Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-sdk,https://github.com/slackapi/python-slack-sdk,4016,Python,SECURITY.md,Slack Developer Kit for Python
 Slack,自建（Slack VDP）,slackapi,slackapi/node-slack-sdk,https://github.com/slackapi/node-slack-sdk,3379,TypeScript,SECURITY.md,Slack Developer Kit for Node.js
 Slack,自建（Slack VDP）,slackapi,slackapi/bolt-js,https://github.com/slackapi/bolt-js,2953,TypeScript,SECURITY.md,A framework to build Slack apps using JavaScript
-Slack,自建（Slack VDP）,slackhq,slackhq/circuit,https://github.com/slackhq/circuit,1861,Kotlin,SECURITY.md,⚡️ A Compose-driven architecture for Kotlin and Android applications.
+Slack,自建（Slack VDP）,slackhq,slackhq/circuit,https://github.com/slackhq/circuit,1859,Kotlin,SECURITY.md,⚡️ A Compose-driven architecture for Kotlin and Android applications.
 Slack,自建（Slack VDP）,slackhq,slackhq/go-audit,https://github.com/slackhq/go-audit,1666,Go,SECURITY.md,go-audit is an alternative to the auditd daemon that ships with many distros
 Slack,自建（Slack VDP）,slackapi,slackapi/slack-github-action,https://github.com/slackapi/slack-github-action,1355,JavaScript,SECURITY.md,Send data into Slack using this GitHub Action!
 Slack,自建（Slack VDP）,slackapi,slackapi/bolt-python,https://github.com/slackapi/bolt-python,1332,Python,SECURITY.md,A framework to build Slack apps using Python
-Slack,自建（Slack VDP）,slackhq,slackhq/EitherNet,https://github.com/slackhq/EitherNet,790,Kotlin,SECURITY.md,"A multiplatform, pluggable, and sealed API result type for modeling network API responses."
+Slack,自建（Slack VDP）,slackhq,slackhq/EitherNet,https://github.com/slackhq/EitherNet,792,Kotlin,SECURITY.md,"A multiplatform, pluggable, and sealed API result type for modeling network API responses."
 Slack,自建（Slack VDP）,slackapi,slackapi/java-slack-sdk,https://github.com/slackapi/java-slack-sdk,602,Java,SECURITY.md,Slack Developer Kit (including Bolt for Java) for any JVM language
-Slack,自建（Slack VDP）,slackhq,slackhq/compose-lints,https://github.com/slackhq/compose-lints,522,Kotlin,SECURITY.md,Lint checks to aid with a healthy adoption of Compose
-Slack,自建（Slack VDP）,slackhq,slackhq/foundry,https://github.com/slackhq/foundry,479,Kotlin,SECURITY.md,Gradle and IntelliJ build tooling used in Slack's Android repo
+Slack,自建（Slack VDP）,slackhq,slackhq/compose-lints,https://github.com/slackhq/compose-lints,523,Kotlin,SECURITY.md,Lint checks to aid with a healthy adoption of Compose
+Slack,自建（Slack VDP）,slackhq,slackhq/foundry,https://github.com/slackhq/foundry,480,Kotlin,SECURITY.md,Gradle and IntelliJ build tooling used in Slack's Android repo
 Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-events-api,https://github.com/slackapi/python-slack-events-api,340,Python,SECURITY.md,Slack Events API adapter for Python (Flask required)
 Slack,自建（Slack VDP）,slackapi,slackapi/slack-cli,https://github.com/slackapi/slack-cli,314,Go,SECURITY.md,"Create, develop, and deploy Slack apps from the command-line ✨"
-Slack,自建（Slack VDP）,slackhq,slackhq/keeper,https://github.com/slackhq/keeper,270,Kotlin,SECURITY.md,A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
+Slack,自建（Slack VDP）,slackhq,slackhq/keeper,https://github.com/slackhq/keeper,269,Kotlin,SECURITY.md,A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
 Slack,自建（Slack VDP）,slackhq,slackhq/slack-lints,https://github.com/slackhq/slack-lints,250,Kotlin,SECURITY.md,A collection of custom Android/Kotlin lint checks we use in our Android and Kotlin code bases at Slack.
 Slack,自建（Slack VDP）,slackapi,slackapi/deno-slack-sdk,https://github.com/slackapi/deno-slack-sdk,228,TypeScript,SECURITY.md,SDK for building Run on Slack apps using Deno
 Slack,自建（Slack VDP）,slackhq,slackhq/magic-cli,https://github.com/slackhq/magic-cli,213,Ruby,SECURITY.md,
 Slack,自建（Slack VDP）,slackhq,slackhq/simple-kubernetes-webhook,https://github.com/slackhq/simple-kubernetes-webhook,204,Go,SECURITY.md,This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible.
 Slack,自建（Slack VDP）,slackhq,slackhq/csp-html-webpack-plugin,https://github.com/slackhq/csp-html-webpack-plugin,172,JavaScript,SECURITY.md,"A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output."
 Slack,自建（Slack VDP）,slackapi,slackapi/slack-skills-plugin,https://github.com/slackapi/slack-skills-plugin,165,Python,SECURITY.md,"Claude Code, Codex, Cursor, and npx skills plugin that enables your AI tools with a Slack MCP Server and Slack Developer Skills."
-Slack,自建（Slack VDP）,slackhq,slackhq/hakana,https://github.com/slackhq/hakana,110,Rust,SECURITY.md,"Another typechecker for Hack, built by Slack"
+Slack,自建（Slack VDP）,slackhq,slackhq/hakana,https://github.com/slackhq/hakana,111,Rust,SECURITY.md,"Another typechecker for Hack, built by Slack"
 Slack,自建（Slack VDP）,slackhq,slackhq/vscode-hack,https://github.com/slackhq/vscode-hack,80,TypeScript,SECURITY.md,Hack language & HHVM debugger support for Visual Studio Code
 Slack,自建（Slack VDP）,slackhq,slackhq/hack-sql-fake,https://github.com/slackhq/hack-sql-fake,77,Hack,SECURITY.md,A library for testing database driven code in Hack
 Slack,自建（Slack VDP）,slackhq,slackhq/moshi-gson-interop,https://github.com/slackhq/moshi-gson-interop,47,Kotlin,SECURITY.md,An interop tool for safely mixing Moshi and Gson models in JSON serialization.
@@ -8267,15 +8267,15 @@ MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-cli,https://github.com/
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/atlas-cli-plugin-kubernetes,https://github.com/mongodb/atlas-cli-plugin-kubernetes,6,Go,SECURITY.md,Kubernetes plugin for the AtlasCLI
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/tines-claude,https://github.com/mongodb/tines-claude,2,Python,SECURITY.md,A Claude Skill and MCP server for Tines
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-atlas-cli-2,https://github.com/mongodb/mongodb-atlas-cli-2,2,Go,SECURITY.md,MongoDB Atlas CLI and MongoDB CLI enable you to manage your MongoDB in the Cloud
-Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77191,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
-Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22288,Go,SECURITY.md,Redis Go client
-Redis,自建PSIRT（Redis）,redis,redis/node-redis,https://github.com/redis/node-redis,17595,TypeScript,SECURITY.md,Redis Node.js client
+Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77486,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
+Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22292,Go,SECURITY.md,Redis Go client
+Redis,自建PSIRT（Redis）,redis,redis/node-redis,https://github.com/redis/node-redis,17596,TypeScript,SECURITY.md,Redis Node.js client
 Redis,自建PSIRT（Redis）,redis,redis/ioredis,https://github.com/redis/ioredis,15354,TypeScript,SECURITY.md,"🚀 A robust, performance-focused, and full-featured Redis client for Node.js."
-Redis,自建PSIRT（Redis）,redis,redis/jedis,https://github.com/redis/jedis,12373,Java,SECURITY.md,Redis Java client
-Redis,自建PSIRT（Redis）,redis,redis/hiredis,https://github.com/redis/hiredis,6689,C,SECURITY.md,Minimalistic C client for Redis >= 1.2
-Redis,自建PSIRT（Redis）,redis,redis/lettuce,https://github.com/redis/lettuce,5786,Java,.github/SECURITY.md,Redis Java client
-Redis,自建PSIRT（Redis）,redis,redis/hiredis-py,https://github.com/redis/hiredis-py,524,C,SECURITY.md,Python wrapper for hiredis
-Redis,自建PSIRT（Redis）,redis,redis/fastapi-redis-sdk,https://github.com/redis/fastapi-redis-sdk,412,Python,SECURITY.md,FastAPI SDK for Redis
+Redis,自建PSIRT（Redis）,redis,redis/jedis,https://github.com/redis/jedis,12376,Java,SECURITY.md,Redis Java client
+Redis,自建PSIRT（Redis）,redis,redis/hiredis,https://github.com/redis/hiredis,6693,C,SECURITY.md,Minimalistic C client for Redis >= 1.2
+Redis,自建PSIRT（Redis）,redis,redis/lettuce,https://github.com/redis/lettuce,5787,Java,.github/SECURITY.md,Redis Java client
+Redis,自建PSIRT（Redis）,redis,redis/hiredis-py,https://github.com/redis/hiredis-py,526,C,SECURITY.md,Python wrapper for hiredis
+Redis,自建PSIRT（Redis）,redis,redis/fastapi-redis-sdk,https://github.com/redis/fastapi-redis-sdk,413,Python,SECURITY.md,FastAPI SDK for Redis
 Redis,自建PSIRT（Redis）,redis,redis/NRedisStack,https://github.com/redis/NRedisStack,332,C#,SECURITY.md,Redis Stack .Net client
 Redis,自建PSIRT（Redis）,redis,redis/redis-debian,https://github.com/redis/redis-debian,46,Shell,SECURITY.md,Debian packaging
 Redis,自建PSIRT（Redis）,redis,redis/redisctl,https://github.com/redis/redisctl,18,Rust,SECURITY.md,Unified CLI for Redis Cloud and Enterprise management
@@ -9230,6 +9230,7 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/launchpad-op
 SUSE,自建PSIRT（SUSE）,SUSE,SUSE/rmt,https://github.com/SUSE/rmt,50,Ruby,docs/SECURITY.md,RPM repository mirroring tool and registration proxy for SUSE Customer Center.
 SUSE,自建PSIRT（SUSE）,SUSE,SUSE/suse-ai-up,https://github.com/SUSE/suse-ai-up,32,Go,SECURITY.md,"A comprehensive platform for managing and proxying Model Context Protocol (MCP) servers, providing scalable AI service orchestration across multiple microservic…"
 SUSE,自建PSIRT（SUSE）,rancher,rancher/ingress-nginx,https://github.com/rancher/ingress-nginx,29,Go,SECURITY.md,Ingress controller for nginx
+SUSE,自建PSIRT（SUSE）,rancher,rancher/rancher-cli,https://github.com/rancher/rancher-cli,15,Go,SECURITY.md,An AI-native command-line tool for operating Rancher Manager
 SUSE,自建PSIRT（SUSE）,SUSE,SUSE/ceph,https://github.com/SUSE/ceph,14,C++,SECURITY.md,"Ceph is a distributed object, block, and file storage platform "
 SUSE,自建PSIRT（SUSE）,SUSE,SUSE/geekos-backend,https://github.com/SUSE/geekos-backend,8,Ruby,SECURITY.md,Backend application for geekos.io
 SUSE,自建PSIRT（SUSE）,rancher,rancher/PushProx,https://github.com/rancher/PushProx,8,Go,SECURITY.md,Proxy to allow Prometheus to scrape through NAT etc.
@@ -9261,6 +9262,7 @@ SUSE,自建PSIRT（SUSE）,rancher,rancher/calico,https://github.com/rancher/cal
 SUSE,自建PSIRT（SUSE）,rancher,rancher/cilium,https://github.com/rancher/cilium,0,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 SUSE,自建PSIRT（SUSE）,rancher,rancher/traefik,https://github.com/rancher/traefik,0,Go,SECURITY.md,The Cloud Native Application Proxy
 SUSE,自建PSIRT（SUSE）,rancher,rancher/kubevirt-client-go,https://github.com/rancher/kubevirt-client-go,0,Go,SECURITY.md,Go client for kubevirt
+SUSE,自建PSIRT（SUSE）,rancher,rancher/kube-logging-fluent-bit,https://github.com/rancher/kube-logging-fluent-bit,0,C,SECURITY.md,A fork of https://github.com/fluent/fluent-bit to build kube-logging images ourselves so that we have control over the dependencies for CVE remediation.
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/pdf.js,https://github.com/mozilla/pdf.js,54125,JavaScript,.github/SECURITY.md,PDF Reader in JavaScript
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/readability,https://github.com/mozilla/readability,11539,JavaScript,SECURITY.md,A standalone version of the readability lib
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/rhino,https://github.com/mozilla/rhino,4641,JavaScript,SECURITY.md,Rhino is an open-source implementation of JavaScript written entirely in Java
@@ -9437,35 +9439,35 @@ Airbnb,HackerOne,airbnb,airbnb/etcd,https://github.com/airbnb/etcd,1,Go,.github/
 Airbnb,HackerOne,airbnb,airbnb/coredns,https://github.com/airbnb/coredns,,Go,SECURITY.md,CoreDNS is a DNS server that chains plugins
 Twitter/X,HackerOne,twitter,twitter/.github,https://github.com/twitter/.github,66,,security.md,Twitter GitHub Organization-wide files
 Twitter/X,HackerOne,twitter,twitter/check-my-repo,https://github.com/twitter/check-my-repo,13,Vue,SECURITY.md,Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories
-Shopify,HackerOne,shopify,Shopify/shopify_app,https://github.com/Shopify/shopify_app,1948,Ruby,SECURITY.md,A Rails Engine for building Shopify Apps
-Shopify,HackerOne,shopify,Shopify/shopify_python_api,https://github.com/Shopify/shopify_python_api,1430,Python,SECURITY.md,ShopifyAPI library allows Python developers to programmatically access the admin section of stores
-Shopify,HackerOne,shopify,Shopify/remote-dom,https://github.com/Shopify/remote-dom,1347,TypeScript,SECURITY.md,
+Shopify,HackerOne,shopify,Shopify/shopify_app,https://github.com/Shopify/shopify_app,1949,Ruby,SECURITY.md,A Rails Engine for building Shopify Apps
+Shopify,HackerOne,shopify,Shopify/shopify_python_api,https://github.com/Shopify/shopify_python_api,1429,Python,SECURITY.md,ShopifyAPI library allows Python developers to programmatically access the admin section of stores
+Shopify,HackerOne,shopify,Shopify/remote-dom,https://github.com/Shopify/remote-dom,1348,TypeScript,SECURITY.md,
 Shopify,HackerOne,shopify,Shopify/themekit,https://github.com/Shopify/themekit,1325,Go,SECURITY.md,Shopify theme development command line tool.
-Shopify,HackerOne,shopify,Shopify/shopify-api-ruby,https://github.com/Shopify/shopify-api-ruby,1112,Ruby,SECURITY.md,ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.
+Shopify,HackerOne,shopify,Shopify/shopify-api-ruby,https://github.com/Shopify/shopify-api-ruby,1116,Ruby,SECURITY.md,ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.
 Shopify,HackerOne,shopify,Shopify/shopify-cli,https://github.com/Shopify/shopify-cli,1054,Ruby,SECURITY.md,Shopify CLI helps you build against the Shopify platform faster.
-Shopify,HackerOne,shopify,Shopify/shopify-app-template-node,https://github.com/Shopify/shopify-app-template-node,1020,JavaScript,SECURITY.md,
-Shopify,HackerOne,shopify,Shopify/web-configs,https://github.com/Shopify/web-configs,492,JavaScript,SECURITY.md,Common configurations for building web apps at Shopify
+Shopify,HackerOne,shopify,Shopify/shopify-app-template-node,https://github.com/Shopify/shopify-app-template-node,1018,JavaScript,SECURITY.md,
+Shopify,HackerOne,shopify,Shopify/web-configs,https://github.com/Shopify/web-configs,493,JavaScript,SECURITY.md,Common configurations for building web apps at Shopify
 Shopify,HackerOne,shopify,Shopify/shopify-demo-app-node-react,https://github.com/Shopify/shopify-demo-app-node-react,443,JavaScript,SECURITY.md,
-Shopify,HackerOne,shopify,Shopify/product-reviews-sample-app,https://github.com/Shopify/product-reviews-sample-app,379,JavaScript,SECURITY.md,"A sample Shopify application that creates and stores product reviews for a store, written in Node.js"
+Shopify,HackerOne,shopify,Shopify/product-reviews-sample-app,https://github.com/Shopify/product-reviews-sample-app,378,JavaScript,SECURITY.md,"[Deprecated] A sample Shopify application that creates and stores product reviews for a store, written in Node.js"
 Shopify,HackerOne,shopify,Shopify/node-themekit,https://github.com/Shopify/node-themekit,113,JavaScript,SECURITY.md,Theme asset interaction library and management tools written in Node.js
 Shopify,HackerOne,shopify,Shopify/pyactiveresource,https://github.com/Shopify/pyactiveresource,102,Python,SECURITY.md,
 Shopify,HackerOne,shopify,Shopify/omniauth-shopify-oauth2,https://github.com/Shopify/omniauth-shopify-oauth2,92,Ruby,SECURITY.md,Shopify OAuth2 Strategy for OmniAuth 1.0
-Shopify,HackerOne,shopify,Shopify/ruby,https://github.com/Shopify/ruby,52,Ruby,.github/SECURITY.md,The Ruby Programming Language [mirror]
+Shopify,HackerOne,shopify,Shopify/ruby,https://github.com/Shopify/ruby,52,Ruby,.github/SECURITY.md,The Ruby Programming Language [mirror]. Please file PRs to ruby/ruby.
 Shopify,HackerOne,shopify,Shopify/tokengating-example-app,https://github.com/Shopify/tokengating-example-app,38,JavaScript,SECURITY.md,"A Shopify example app that creates and enforces tokengated product discounts, written in Node.js"
-Shopify,HackerOne,shopify,Shopify/shopify-app-template-none,https://github.com/Shopify/shopify-app-template-none,25,JavaScript,SECURITY.md,
+Shopify,HackerOne,shopify,Shopify/shopify-app-template-none,https://github.com/Shopify/shopify-app-template-none,25,JavaScript,SECURITY.md,[Deprecated]
 Shopify,HackerOne,shopify,Shopify/voucher,https://github.com/Shopify/voucher,24,Go,SECURITY.md,🎟 Voucher creates attestations for Binary Authorization
-Shopify,HackerOne,shopify,Shopify/fulfillment-order-sample-app,https://github.com/Shopify/fulfillment-order-sample-app,20,JavaScript,SECURITY.md,
+Shopify,HackerOne,shopify,Shopify/fulfillment-order-sample-app,https://github.com/Shopify/fulfillment-order-sample-app,20,JavaScript,SECURITY.md,[Deprecated]
 Shopify,HackerOne,shopify,Shopify/usage-billing-example-shopify-app,https://github.com/Shopify/usage-billing-example-shopify-app,20,JavaScript,SECURITY.md,
 Shopify,HackerOne,shopify,Shopify/rails,https://github.com/Shopify/rails,19,Ruby,.github/security.md,Ruby on Rails
 Shopify,HackerOne,shopify,Shopify/chatbot-ui,https://github.com/Shopify/chatbot-ui,16,TypeScript,SECURITY.md,An open source ChatGPT UI.
 Shopify,HackerOne,shopify,Shopify/truffleruby,https://github.com/Shopify/truffleruby,15,Ruby,SECURITY.md,A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
-Shopify,HackerOne,shopify,Shopify/unite-workshop-functions-volume-discount,https://github.com/Shopify/unite-workshop-functions-volume-discount,13,JavaScript,SECURITY.md,
-Shopify,HackerOne,shopify,Shopify/shop,https://github.com/Shopify/shop,11,JavaScript,SECURITY.md,"shop lets agents search millions of stores, build carts, check out and pay with the shopper's Shop account, and track orders."
+Shopify,HackerOne,shopify,Shopify/shop,https://github.com/Shopify/shop,14,JavaScript,SECURITY.md,"shop lets agents search millions of stores, build carts, check out and pay with the shopper's Shop account, and track orders."
+Shopify,HackerOne,shopify,Shopify/unite-workshop-functions-volume-discount,https://github.com/Shopify/unite-workshop-functions-volume-discount,13,JavaScript,SECURITY.md,[Deprecated]
 Shopify,HackerOne,shopify,Shopify/shopify-cli-action,https://github.com/Shopify/shopify-cli-action,11,JavaScript,SECURITY.md,
 Shopify,HackerOne,shopify,Shopify/unite-workshop-shopifyql,https://github.com/Shopify/unite-workshop-shopifyql,10,JavaScript,SECURITY.md,
 Shopify,HackerOne,shopify,Shopify/shopify-cli-example-app,https://github.com/Shopify/shopify-cli-example-app,10,JavaScript,SECURITY.md,
 Shopify,HackerOne,shopify,Shopify/vitess,https://github.com/Shopify/vitess,9,Go,SECURITY.md,Vitess is a database clustering system for horizontal scaling of MySQL.
-Shopify,HackerOne,shopify,Shopify/unite-workshop-checkout-ui,https://github.com/Shopify/unite-workshop-checkout-ui,8,JavaScript,SECURITY.md,
+Shopify,HackerOne,shopify,Shopify/unite-workshop-checkout-ui,https://github.com/Shopify/unite-workshop-checkout-ui,8,JavaScript,SECURITY.md,[Deprecated]
 Shopify,HackerOne,shopify,Shopify/checkout-ui-extensions-po-box-validator,https://github.com/Shopify/checkout-ui-extensions-po-box-validator,6,JavaScript,SECURITY.md,
 Shopify,HackerOne,shopify,Shopify/octobox,https://github.com/Shopify/octobox,6,Ruby,SECURITY.md,:postbox: Take back control of your GitHub Notifications
 Shopify,HackerOne,shopify,Shopify/rubygems.org,https://github.com/Shopify/rubygems.org,5,Ruby,SECURITY.md,The Ruby community's gem hosting service.
@@ -9488,7 +9490,7 @@ Shopify,HackerOne,shopify,Shopify/shopify-app-cli-extensions,https://github.com/
 Shopify,HackerOne,shopify,Shopify/opentelemetry-ebpf-profiler,https://github.com/Shopify/opentelemetry-ebpf-profiler,2,Go,SECURITY.md,"The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)"
 Shopify,HackerOne,shopify,Shopify/percona-server,https://github.com/Shopify/percona-server,2,C++,SECURITY.md,Percona Server
 Shopify,HackerOne,shopify,Shopify/neocache,https://github.com/Shopify/neocache,2,Rust,SECURITY.md,"A low-latency concurrent hashmap with S3-FIFO, forked from DashMap"
-Shopify,HackerOne,shopify,Shopify/dotdev-2026-static-apps,https://github.com/Shopify/dotdev-2026-static-apps,2,JavaScript,SECURITY.md,
+Shopify,HackerOne,shopify,Shopify/dotdev-2026-static-apps,https://github.com/Shopify/dotdev-2026-static-apps,2,JavaScript,SECURITY.md,[Deprecated]
 Shopify,HackerOne,shopify,Shopify/argo-cd-1,https://github.com/Shopify/argo-cd-1,2,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 Shopify,HackerOne,shopify,Shopify/git,https://github.com/Shopify/git,2,C,SECURITY.md,Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of…
 Shopify,HackerOne,shopify,Shopify/oj,https://github.com/Shopify/oj,2,C,SECURITY.md,Optimized JSON
@@ -9508,7 +9510,7 @@ Shopify,HackerOne,shopify,Shopify/metaflow,https://github.com/Shopify/metaflow,1
 Shopify,HackerOne,shopify,Shopify/open-webui,https://github.com/Shopify/open-webui,1,Svelte,docs/SECURITY.md,User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 Shopify,HackerOne,shopify,Shopify/example-checkout--format-suggestion--js,https://github.com/Shopify/example-checkout--format-suggestion--js,1,JavaScript,SECURITY.md,Example tutorial code for format suggestion
 Shopify,HackerOne,shopify,Shopify/kyverno,https://github.com/Shopify/kyverno,1,Go,SECURITY.md,Kubernetes Native Policy Management
-Shopify,HackerOne,shopify,Shopify/editions-dev-2024-workshop-functions,https://github.com/Shopify/editions-dev-2024-workshop-functions,1,JavaScript,SECURITY.md,Code for the 2024 Editions.dev workshop on functions development workflow.
+Shopify,HackerOne,shopify,Shopify/editions-dev-2024-workshop-functions,https://github.com/Shopify/editions-dev-2024-workshop-functions,1,JavaScript,SECURITY.md,[Deprecated] Code for the 2024 Editions.dev workshop on functions development workflow.
 Shopify,HackerOne,shopify,Shopify/semgrep-rules-1,https://github.com/Shopify/semgrep-rules-1,1,Java,SECURITY.md,Semgrep rules registry
 Shopify,HackerOne,shopify,Shopify/grafana-plugin-sdk-go,https://github.com/Shopify/grafana-plugin-sdk-go,1,Go,SECURITY.md,A Go SDK for building backend plugins for Grafana
 Shopify,HackerOne,shopify,Shopify/client_golang,https://github.com/Shopify/client_golang,1,Go,SECURITY.md,Prometheus instrumentation library for Go applications
@@ -9618,7 +9620,7 @@ Citi,HackerOne,citi,Citi/trino,https://github.com/Citi/trino,,Java,.github/SECUR
 Citi,HackerOne,citi,Citi/frontend,https://github.com/Citi/frontend,,Vue,SECURITY.md,Frontend UI for Dependency-Track
 Capital One,HackerOne,capitalone,capitalone/VulnHunter,https://github.com/capitalone/VulnHunter,1167,Python,SECURITY.md,"Agentic AI security tool that applies proactive, attacker-first analysis directly to source code."
 Robinhood,HackerOne,robinhoodmarkets,robinhoodmarkets/viem,https://github.com/robinhoodmarkets/viem,0,TypeScript,.github/SECURITY.md,TypeScript Interface for Ethereum
-Revolut,HackerOne,revolut-engineering,revolut-engineering/revolut-x-api,https://github.com/revolut-engineering/revolut-x-api,76,TypeScript,SECURITY.md,
+Revolut,HackerOne,revolut-engineering,revolut-engineering/revolut-x-api,https://github.com/revolut-engineering/revolut-x-api,77,TypeScript,SECURITY.md,
 Revolut,HackerOne,revolut-engineering,revolut-engineering/polaris,https://github.com/revolut-engineering/polaris,1,Python,SECURITY.md,"The interoperable, open source catalog for Apache Iceberg"
 Revolut,HackerOne,revolut-engineering,revolut-engineering/parse-server,https://github.com/revolut-engineering/parse-server,1,JavaScript,SECURITY.md,Parse Server for Node/Express
 Revolut,HackerOne,revolut-engineering,revolut-engineering/trino,https://github.com/revolut-engineering/trino,0,Java,.github/SECURITY.md,"Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
@@ -9742,11 +9744,11 @@ OKX,HackerOne,okx,okx/cw-storage-plus,https://github.com/okx/cw-storage-plus,0,R
 OKX,HackerOne,okx,okx/wasmer,https://github.com/okx/wasmer,0,Rust,SECURITY.md,🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 OKX,HackerOne,okx,okx/cw-plus,https://github.com/okx/cw-plus,0,Rust,SECURITY.md,Production Quality contracts under open source licenses
 Bybit,HackerOne,bybit-exchange,bybit-exchange/kaas,https://github.com/bybit-exchange/kaas,153,Python,SECURITY.md,"Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted."
-PayPal,自建BB,paypal,paypal/junodb,https://github.com/paypal/junodb,2637,Go,SECURITY.md,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale."
-PayPal,自建BB,paypal,paypal/paypal-checkout-components,https://github.com/paypal/paypal-checkout-components,1339,JavaScript,SECURITY.md,please submit Issues about the PayPal JS SDK here: https://github.com/paypal/paypal-js/issues
+PayPal,自建BB,paypal,paypal/junodb,https://github.com/paypal/junodb,2635,Go,SECURITY.md,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale."
+PayPal,自建BB,paypal,paypal/paypal-checkout-components,https://github.com/paypal/paypal-checkout-components,1340,JavaScript,SECURITY.md,please submit Issues about the PayPal JS SDK here: https://github.com/paypal/paypal-js/issues
 PayPal,自建BB,paypal,paypal/paypal-sdk-client,https://github.com/paypal/paypal-sdk-client,78,JavaScript,SECURITY.md,Shared config for PayPal/Braintree client SDKs
+PayPal,自建BB,paypal,paypal/AI-Toolkit,https://github.com/paypal/AI-Toolkit,48,,SECURITY.md,"A plugin that integrates PayPal's APIs and MCP server across multiple AI coding agents (Claude Code, Cursor and more) into your development workflow."
 PayPal,自建BB,paypal,paypal/paypal-sdk-release,https://github.com/paypal/paypal-sdk-release,45,JavaScript,SECURITY.md,"Unified SDK wrapper module for tests, shared build config, and deploy"
-PayPal,自建BB,paypal,paypal/AI-Toolkit,https://github.com/paypal/AI-Toolkit,43,,SECURITY.md,"A plugin that integrates PayPal's APIs and MCP server across multiple AI coding agents (Claude Code, Cursor and more) into your development workflow."
 PayPal,自建BB,paypal,paypal/paypal-sdk-constants,https://github.com/paypal/paypal-sdk-constants,32,JavaScript,SECURITY.md,
 PayPal,自建BB,paypal,paypal/paypal-funding-components,https://github.com/paypal/paypal-funding-components,22,JavaScript,SECURITY.md,PayPal JavaScript SDK Funding Components
 PayPal,自建BB,paypal,paypal/paypal-common-components,https://github.com/paypal/paypal-common-components,18,JavaScript,SECURITY.md,Common components for PayPal JavaScript SDK
@@ -9786,10 +9788,10 @@ Canva,Bugcrowd,canva,Canva/open-webui,https://github.com/Canva/open-webui,,Pytho
 Canva,Bugcrowd,canva,Canva/argo-cd,https://github.com/Canva/argo-cd,,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 Canva,Bugcrowd,canva,Canva/trace2receiver,https://github.com/Canva/trace2receiver,,Go,SECURITY.md,GOLANG based OTEL custom collector receiver component for Trace2 data
 Canva,Bugcrowd,canva,Canva/jaeger-public,https://github.com/Canva/jaeger-public,,Go,SECURITY.md,A fork of the official jaegertracing/jaeger repository in order to apply Canva-specific customisations
-Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/KIEMPossible,https://github.com/PaloAltoNetworks/KIEMPossible,39,Go,SECURITY.md,
+Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/KIEMPossible,https://github.com/PaloAltoNetworks/KIEMPossible,40,Go,SECURITY.md,
 Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/shifter,https://github.com/PaloAltoNetworks/shifter,7,Python,SECURITY.md,Multi-User Cyber Range Platform
 Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/terraform-provider-bridgecrew,https://github.com/PaloAltoNetworks/terraform-provider-bridgecrew,7,Go,SECURITY.md,The Terraform Provider for the Bridgecrew Platform
-Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/pan-scm-sdk,https://github.com/PaloAltoNetworks/pan-scm-sdk,4,Python,SECURITY.md,Python SDK for Palo Alto Networks Strata Cloud Manager.
+Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/pan-scm-sdk,https://github.com/PaloAltoNetworks/pan-scm-sdk,5,Python,SECURITY.md,Python SDK for Palo Alto Networks Strata Cloud Manager.
 Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/secops_ctf_scoreboard,https://github.com/PaloAltoNetworks/secops_ctf_scoreboard,4,CSS,SECURITY.md,
 Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/.github,https://github.com/PaloAltoNetworks/.github,4,,SECURITY.md,Default community health files for all Palo Alto Networks public repositories
 Palo Alto Networks,Bugcrowd,paloaltonetworks,PaloAltoNetworks/prisma-access-egress-ips,https://github.com/PaloAltoNetworks/prisma-access-egress-ips,1,Python,SECURITY.md,

@@ -35,6 +35,18 @@
  },
  {
   "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/rancher-cli",
+  "url": "https://github.com/rancher/rancher-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 15,
+  "language": "Go",
+  "description": "An AI-native command-line tool for operating Rancher Manager",
+  "license": null,
+  "first_seen": "2026-11-13 14:35:35"
+ },
+ {
+  "vendor": "SUSE",
   "org": "SUSE",
   "full_name": "SUSE/ceph",
   "url": "https://github.com/SUSE/ceph",
@@ -385,5 +397,17 @@
   "description": "Go client for kubevirt",
   "license": null,
   "first_seen": "2026-11-01 23:30:50"
+ },
+ {
+  "vendor": "SUSE",
+  "org": "rancher",
+  "full_name": "rancher/kube-logging-fluent-bit",
+  "url": "https://github.com/rancher/kube-logging-fluent-bit",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "C",
+  "description": "A fork of https://github.com/fluent/fluent-bit to build kube-logging images ourselves so that we have control over the dependencies for CVE remediation.",
+  "license": null,
+  "first_seen": "2026-11-13 14:35:35"
  }
 ]
