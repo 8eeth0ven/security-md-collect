@@ -2,14 +2,28 @@
  {
   "vendor": "OKX",
   "org": "okx",
+  "full_name": "okx/go-wallet-sdk",
+  "url": "https://github.com/okx/go-wallet-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 575,
+  "language": "Go",
+  "description": "Multi-chain golang signature sdk, supports bitcoin, ethereum, solana, ton, etc.",
+  "license": null,
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 13:00:49"
+ },
+ {
+  "vendor": "OKX",
+  "org": "okx",
   "full_name": "okx/agent-trade-kit",
   "url": "https://github.com/okx/agent-trade-kit",
   "sec_path": "SECURITY.md",
-  "stars": 509,
+  "stars": 511,
   "language": "TypeScript",
   "description": "OKX trading MCP server — connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.  ",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -21,7 +35,8 @@
   "language": "TypeScript",
   "description": "Multi-chain typescript signature sdk, supports bitcoin, ethereum, solana, cosmos, etc.",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -33,7 +48,8 @@
   "language": "Rust",
   "description": "Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting.",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -45,7 +61,8 @@
   "language": "Shell",
   "description": "Plug-and-play AI agent skills for OKX — letting any LLM agent trade, manage portfolios, query live market data, and run grid/DCA bots through a single okx CLI, …",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -57,7 +74,8 @@
   "language": "Rust",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -69,7 +87,8 @@
   "language": "Rust",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -81,7 +100,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -93,7 +113,8 @@
   "language": "Go",
   "description": "Optimism is Ethereum, scaled.",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -105,7 +126,8 @@
   "language": "Go",
   "description": "Optimism is Ethereum, scaled.",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -117,7 +139,8 @@
   "language": "Go",
   "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -129,7 +152,8 @@
   "language": "Rust",
   "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -141,7 +165,8 @@
   "language": "Go",
   "description": "Official Go implementation of the Ethereum protocol",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -153,7 +178,8 @@
   "language": "Go",
   "description": "⟁ Tendermint Core (BFT Consensus) in Go",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -165,7 +191,8 @@
   "language": "TypeScript",
   "description": "A payments protocol for the internet. Built on HTTP.",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:38"
  },
  {
   "vendor": "OKX",
@@ -177,7 +204,8 @@
   "language": "Rust",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -189,20 +217,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
- },
- {
-  "vendor": "OKX",
-  "org": "okx",
-  "full_name": "okx/go-wallet-sdk",
-  "url": "https://github.com/okx/go-wallet-sdk",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
   "first_seen": "2026-11-01 23:05:15",
-  "last_verified": "2026-11-14 13:00:49"
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -214,7 +230,8 @@
   "language": "Rust",
   "description": "Rust implementation of the Ethereum Virtual Machine.",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -226,7 +243,8 @@
   "language": "Rust",
   "description": "Slab allocator for Rust",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -238,7 +256,8 @@
   "language": "Rust",
   "description": "Transports, Middleware, and Networks for the Alloy project",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -250,7 +269,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -262,7 +282,8 @@
   "language": "Go",
   "description": "Go bindings to the running cosmwasm contracts with wasmer ",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -274,7 +295,8 @@
   "language": "Rust",
   "description": "Framework for building smart contracts in Wasm for the Cosmos SDK",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -286,7 +308,8 @@
   "language": "Rust",
   "description": "Storage abstractions for CosmWasm smart contracts",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -298,7 +321,8 @@
   "language": "Rust",
   "description": "🚀 The leading WebAssembly Runtime supporting WASI and Emscripten",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  },
  {
   "vendor": "OKX",
@@ -310,6 +334,7 @@
   "language": "Rust",
   "description": "Production Quality contracts under open source licenses",
   "license": null,
-  "first_seen": "2026-11-01 23:05:15"
+  "first_seen": "2026-11-01 23:05:15",
+  "last_verified": "2026-11-14 23:02:28"
  }
 ]

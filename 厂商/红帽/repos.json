@@ -163,7 +163,8 @@
   "language": "Go",
   "description": "This is the repo that tracks all patches to the OpenShift distribution of Kubernetes on branches corresponding to OpenShift releases.  See https://github.com/op…",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -175,7 +176,8 @@
   "language": "Go",
   "description": "Kubernetes integration for OVN",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -187,7 +189,8 @@
   "language": "Go",
   "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -221,7 +224,8 @@
   "language": "Go",
   "description": "The LVM Operator deploys and manages LVM storage on OpenShift clusters",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -244,7 +248,8 @@
   "language": "Go",
   "description": "A proxy that enforces a given label in a given PromQL query.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -322,7 +327,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -345,7 +351,8 @@
   "language": "Go",
   "description": "Operator to enable CEE members to collect must-gathers from OSDv4 clusters",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -368,7 +375,8 @@
   "language": "Go",
   "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -380,7 +388,8 @@
   "language": "Go",
   "description": "The Prometheus monitoring system and time series database.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -392,7 +401,8 @@
   "language": "Go",
   "description": "External-Secrets Operator for deploying and managing external-secrets.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -426,7 +436,8 @@
   "language": "Go",
   "description": "Alerts adapter for OpenShift Agentic Lightspeed",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -438,7 +449,8 @@
   "language": "Go",
   "description": "Analyzer of health of OpenShift clusters",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -461,7 +473,8 @@
   "language": "Go",
   "description": "Declarative node network configuration driven through Kubernetes API.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -473,7 +486,8 @@
   "language": "Go",
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -507,7 +521,8 @@
   "language": "Go",
   "description": "Gatekeeper is a validating (mutating TBA) webhook that enforces CRD-based policies executed by Open Policy Agent",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -525,12 +540,13 @@
   "org": "openshift",
   "full_name": "openshift/coredns",
   "url": "https://github.com/openshift/coredns",
-  "sec_path": "SECURITY.md",
+  "sec_path": ".github/SECURITY.md",
   "stars": 6,
   "language": "Go",
   "description": "CoreDNS is a DNS server that chains plugins",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -542,7 +558,8 @@
   "language": "Go",
   "description": "Prometheus Alertmanager",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -554,7 +571,8 @@
   "language": "Go",
   "description": "An implementation of the custom.metrics.k8s.io API using Prometheus",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -566,7 +584,8 @@
   "language": "TypeScript",
   "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -578,7 +597,8 @@
   "language": "Go",
   "description": " Highly available Prometheus setup with long term storage capabilities.",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -590,7 +610,8 @@
   "language": "Go",
   "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -602,7 +623,8 @@
   "language": "Go",
   "description": "Automatically provision and manage TLS certificates in Kubernetes",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -614,7 +636,8 @@
   "language": "Go",
   "description": "LeaderWorkerSet: An API for deploying a group of pods as a unit of replication",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -626,7 +649,8 @@
   "language": "Go",
   "description": "Add-on agent to generate and expose cluster-level metrics.",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -638,7 +662,8 @@
   "language": "Go",
   "description": "Exporter for machine metrics",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -650,7 +675,8 @@
   "language": "Go",
   "description": "Cloud provider for Azure",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -662,7 +688,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -674,7 +701,8 @@
   "language": "Shell",
   "description": "Terraform-based automation for Windows BYOH node provisioning in OpenShift clusters",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -686,7 +714,8 @@
   "language": "Go",
   "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -698,7 +727,8 @@
   "language": "Go",
   "description": "A set of Kubernetes controllers to manage your OpenStack infrastructure",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -710,7 +740,8 @@
   "language": "Go",
   "description": "CSI Driver for IBM® Power Systems™ Virtual Server",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -722,7 +753,8 @@
   "language": "Go",
   "description": "Kubernetes-native Job Queueing",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -756,7 +788,8 @@
   "language": "Go",
   "description": "Kubernetes-native declarative infrastructure for KubeVirt based cluster installation",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -768,7 +801,8 @@
   "language": "Rust",
   "description": "An eBPF Manager for Linux and Kubernetes",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -780,7 +814,8 @@
   "language": "Go",
   "description": "A Kubernetes operator for network observability",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -792,7 +827,8 @@
   "language": "Python",
   "description": "JobSet is a Kubernetes-native API for managing a group of k8s Jobs as a unit.",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -804,7 +840,8 @@
   "language": "Go",
   "description": "Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory (AAD) with po…",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -816,7 +853,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -828,7 +866,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -840,7 +879,8 @@
   "language": "Go",
   "description": "🔐 Azure Key Vault KMS plugin for Kubernetes",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -852,7 +892,8 @@
   "language": "Go",
   "description": "istio-csr is an agent that allows for Istio workload and control plane components to be secured using cert-manager.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -864,7 +905,21 @@
   "language": "Go",
   "description": "Custom Metrics Autoscaler for OpenShift",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
+ },
+ {
+  "vendor": "红帽",
+  "org": "openshift",
+  "full_name": "openshift/.github",
+  "url": "https://github.com/openshift/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 23:16:23",
+  "last_verified": "2026-11-14 12:56:14"
  },
  {
   "vendor": "红帽",
@@ -920,7 +975,8 @@
   "language": "Go",
   "description": "The SPIFFE Runtime Environment",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -932,7 +988,8 @@
   "language": "TypeScript",
   "description": "Network observability console plugin",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -944,7 +1001,8 @@
   "language": "Go",
   "description": "Kubernetes Cloud Provider for vSphere https://cloud-provider-vsphere.sigs.k8s.io",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -956,7 +1014,8 @@
   "language": "Go",
   "description": "About Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -968,7 +1027,8 @@
   "language": "Go",
   "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -980,7 +1040,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -992,7 +1053,8 @@
   "language": "Go",
   "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1004,7 +1066,8 @@
   "language": "Go",
   "description": "This is the PowerVS Cloud Provider repository which implements the PowerVS,IBM Cloud Controller Manager (CCM).",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1016,7 +1079,8 @@
   "language": "Go",
   "description": "The new Azure Storage data transfer utility - AzCopy v10",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1028,7 +1092,8 @@
   "language": "Go",
   "description": "Azure Service Operator allows you to create Azure resources using kubectl",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1040,7 +1105,8 @@
   "language": "Go",
   "description": "trust-manager is an operator for distributing trust bundles across a Kubernetes cluster",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1052,7 +1118,8 @@
   "language": "Go",
   "description": "Prometheus exporter for Windows machines",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1064,7 +1131,8 @@
   "language": "Go",
   "description": "Operator to manage installations of Cluster API providers for various cloud platforms",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1076,7 +1144,8 @@
   "language": "Go",
   "description": "Terraform on IBM provider https://cloud.ibm.com/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1088,7 +1157,8 @@
   "language": "Go",
   "description": "Prometheus Utility Tool",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1100,7 +1170,8 @@
   "language": "Go",
   "description": "Kubernetes OpenAPI spec generation & serving",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1202,7 +1273,8 @@
   "language": "Go",
   "description": "Transform flow logs into metrics",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -1214,7 +1286,8 @@
   "language": "Go",
   "description": "An OpenShift / Kubernetes CLI tool for network observability",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -1226,7 +1299,8 @@
   "language": "C",
   "description": "Network Observability eBPF Agent",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -1238,7 +1312,8 @@
   "language": "Go",
   "description": "Knative Functions client API and CLI",
   "license": null,
-  "first_seen": "2026-11-01 23:12:46"
+  "first_seen": "2026-11-01 23:12:46",
+  "last_verified": "2026-11-14 23:04:38"
  },
  {
   "vendor": "红帽",
@@ -1250,7 +1325,8 @@
   "language": "Go",
   "description": "This repo contains sidecar controller for the snapshot metadata service.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1262,7 +1338,8 @@
   "language": "Shell",
   "description": "Controller responsible for validating PVC data sources",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1274,7 +1351,8 @@
   "language": "Go",
   "description": "This repository contains a simple REST wrapper for the Bitwarden Rust SDK",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1286,7 +1364,8 @@
   "language": "Go",
   "description": "resource-state-metrics is a Kubernetes controller that builds on Kube-State-Metrics' Custom Resource State feature-set",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1298,7 +1377,8 @@
   "language": "Go",
   "description": "Add-on for Custom Metrics Autoscaler to scale HTTP workloads",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1310,7 +1390,8 @@
   "language": "Go",
   "description": "approver-policy is a cert-manager approver that allows users to define policies that restrict what certificates can be requested.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1322,7 +1403,8 @@
   "language": "Go",
   "description": "Contour is an Ingress controller for Kubernetes that works by deploying the Envoy proxy as a reverse proxy and load balancer.",
   "license": null,
-  "first_seen": "2026-11-01 23:13:57"
+  "first_seen": "2026-11-01 23:13:57",
+  "last_verified": "2026-11-14 23:04:43"
  },
  {
   "vendor": "红帽",
@@ -1334,7 +1416,8 @@
   "language": "Go",
   "description": "oc plugin for Two Node with Fencing (TNF) cluster tooling, distributed via krew",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1346,7 +1429,8 @@
   "language": "Go",
   "description": "A Kubernetes operator that provides a declarative API to deploy, manage, and safely roll out MCP Servers, handling their full lifecycle with production-grade au…",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  },
  {
   "vendor": "红帽",
@@ -1358,19 +1442,7 @@
   "language": "Go",
   "description": "This is the repo that tracks all patches to the OpenShift distribution of Kubernetes on branches corresponding to OpenShift releases.  See https://github.com/op…",
   "license": null,
-  "first_seen": "2026-11-01 23:15:07"
- },
- {
-  "vendor": "红帽",
-  "org": "openshift",
-  "full_name": "openshift/.github",
-  "url": "https://github.com/openshift/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 23:16:23",
-  "last_verified": "2026-11-14 12:56:14"
+  "first_seen": "2026-11-01 23:15:07",
+  "last_verified": "2026-11-14 23:04:47"
  }
 ]

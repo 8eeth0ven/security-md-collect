@@ -126,11 +126,12 @@
   "full_name": "oneapi-src/oneAPI-samples",
   "url": "https://github.com/oneapi-src/oneAPI-samples",
   "sec_path": "SECURITY.md",
-  "stars": 1170,
+  "stars": 1169,
   "language": "C++",
   "description": "Samples for Intel® oneAPI Toolkits",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -516,7 +517,8 @@
   "language": "C++",
   "description": "oneAPI Level Zero Specification Headers and Loader",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -616,7 +618,8 @@
   "language": "LLVM",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -1218,11 +1221,12 @@
   "full_name": "oneapi-src/oneapi-ci",
   "url": "https://github.com/oneapi-src/oneapi-ci",
   "sec_path": "SECURITY.md",
-  "stars": 112,
+  "stars": 111,
   "language": "Shell",
   "description": "Sample configuration files for using oneAPI in CI systems",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -1278,7 +1282,8 @@
   "language": "C",
   "description": "A library for constructing allocators and memory pools. It also contains broadly useful abstractions and utilities for memory management. UMF allows users to ma…",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -1676,7 +1681,8 @@
   "language": "C++",
   "description": "oneAPI Level Zero Conformance & Performance test content",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -1842,7 +1848,8 @@
   "language": "C++",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -1898,7 +1905,8 @@
   "language": "C++",
   "description": "Distributed ranges is a generalization of C++ ranges for distributed data structures.",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -2086,7 +2094,8 @@
   "language": "C++",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -2406,7 +2415,8 @@
   "language": "C++",
   "description": "Intel® SHMEM - Device initiated shared memory based communication library",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -2935,7 +2945,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -2947,7 +2958,8 @@
   "language": "Python",
   "description": "AI Starter Kit for AI applications in Drone technology using Intel® Optimized Tensorflow*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -3069,7 +3081,8 @@
   "language": "Python",
   "description": "AI Starter Kit for traffic camera object detection using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -3664,7 +3677,8 @@
   "language": "LLVM",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -4006,7 +4020,8 @@
   "language": "C++",
   "description": "Samples for Intel® oneAPI Math Kernel Library (oneMKL)",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -4150,7 +4165,8 @@
   "language": "Python",
   "description": "AI Starter Kit for AI Unstructured Synthetic Data Generation using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -4162,7 +4178,8 @@
   "language": "Python",
   "description": "AI Starter Kit for demand forecasting using Intel® Optimized Tensorflow*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -4328,7 +4345,8 @@
   "language": "Python",
   "description": "AI Starter Kit for fluid Flow Profiling using Intel® Optimized Tensorflow*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -4340,7 +4358,8 @@
   "language": "Python",
   "description": "AI Starter Kit for the implementation of AI-based NLP Disease Prediction system using Intel® Extension for PyTorch* and Intel® Neural Compressor",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -4629,7 +4648,8 @@
   "language": "Python",
   "description": "Ai starter kit for trade promotion and claim documents categorization using pytorch* and Tensorflow*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -4641,7 +4661,8 @@
   "language": "Python",
   "description": "AI Starter Kit for the implementation of an AI transcribe system using Intel® Extension for PyTorch* ",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -4653,7 +4674,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Historical Assets document processing using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -4819,7 +4841,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Quality Visual Inspection using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -5150,7 +5173,8 @@
   "language": "Python",
   "description": "AI Starter Kit for applications in Satellite Image processing using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -5162,7 +5186,8 @@
   "language": "Python",
   "description": "AI Starter Kit to build a MOSFET Digital Twin for Design Exploration using Intel® optimized version of XGBoost",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -5427,7 +5452,8 @@
   "language": "Python",
   "description": "AI Starter Kit for detect faulty signals in power line voltage using Intel® Extension for Scikit-learn*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -5439,7 +5465,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Customer Segmentation for Online Retail using Intel® Extension for Scikit-learn*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -5865,7 +5892,8 @@
   "language": "Rust",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -5877,7 +5905,8 @@
   "language": "C++",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -5889,7 +5918,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Semantic Vertical Search Engines using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -5901,7 +5931,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Purchase Prediction model using Intel® Extension for Scikit-learn*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -5913,7 +5944,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Engineering Design Optimization using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -5925,7 +5957,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Data Streaming Anomaly Detection using Intel® Optimized Tensorflow*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -5937,7 +5970,8 @@
   "language": "Python",
   "description": "AI Starter Kit for image-based abnormalities for different diseases classification using Intel® Optimized Tensorflow*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -5949,7 +5983,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Customer Chatbot using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -6347,7 +6382,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Synthetic Voice and Audio Generation using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -6359,7 +6395,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Visual Process Discovery using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -6371,7 +6408,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Intelligent Indexing of Incoming Correspondence using Intel® Extension for Scikit-learn*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -6966,7 +7004,8 @@
   "language": "Python",
   "description": "AI Starter Kit to generate structured synthetic data using Intel® Distribution of Modin",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -6978,7 +7017,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Personal Identifiable Information Anonymization using Intel® Extension for Pytorch",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -6990,7 +7030,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Synthetic Image Generation using Intel® Optimized Tensorflow*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -7002,7 +7043,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Credit Card Fraud Detection model using Intel® Extension for Scikit-learn*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -7014,7 +7056,8 @@
   "language": "Jupyter Notebook",
   "description": "AI Starter Kit for product recommendation system using Intel® Extension for Scikit-learn*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -7026,7 +7069,8 @@
   "language": "Python",
   "description": "AI Starter Kit for Predictive Asset Maintenance using Intel® optimized version of XGBoost",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -7837,7 +7881,8 @@
   "language": "HTML",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -7862,7 +7907,8 @@
   "language": "Python",
   "description": "AI Starter Kit for customer churn prediction using Intel® Extension for Scikit-learn*",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  },
  {
   "vendor": "Intel",
@@ -7874,7 +7920,8 @@
   "language": "Python",
   "description": "AI Starter Kit of a delivery time forecasting solution using Intel® optimized version of XGBoost",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:50"
  },
  {
   "vendor": "Intel",
@@ -7886,6 +7933,7 @@
   "language": "Python",
   "description": "AI Starter Kit for Named Entity Recognition using Intel® Optimized Tensorflow (version 2.9.0 with oneDNN)",
   "license": null,
-  "first_seen": "2026-11-01 23:05:44"
+  "first_seen": "2026-11-01 23:05:44",
+  "last_verified": "2026-11-14 23:02:42"
  }
 ]
