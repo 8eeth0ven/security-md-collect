@@ -8,7 +8,9 @@
   "stars": 1,
   "language": "Go",
   "description": "A fork of the official benthosdev/benthos repository in order to apply Canva-specific customisations",
-  "first_seen": "2026-11-01 19:17:36"
+  "license": null,
+  "first_seen": "2026-11-01 19:17:36",
+  "last_verified": "2026-11-14 20:03:49"
  },
  {
   "vendor": "Canva",
@@ -19,7 +21,9 @@
   "stars": 1,
   "language": "Java",
   "description": ":coffee: SonarSource Static Analyzer for Java Code Quality and Security",
-  "first_seen": "2026-11-01 19:17:36"
+  "license": null,
+  "first_seen": "2026-11-01 19:17:36",
+  "last_verified": "2026-11-14 20:03:49"
  },
  {
   "vendor": "Canva",
@@ -27,10 +31,12 @@
   "full_name": "Canva/bazel",
   "url": "https://github.com/Canva/bazel",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Java",
   "description": "a fast, scalable, multi-language and extensible build system",
-  "first_seen": "2026-11-01 19:17:36"
+  "license": null,
+  "first_seen": "2026-11-01 19:17:36",
+  "last_verified": "2026-11-14 20:03:49"
  },
  {
   "vendor": "Canva",
@@ -38,10 +44,12 @@
   "full_name": "Canva/open-webui",
   "url": "https://github.com/Canva/open-webui",
   "sec_path": "docs/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-  "first_seen": "2026-11-01 19:17:36"
+  "license": null,
+  "first_seen": "2026-11-01 19:17:36",
+  "last_verified": "2026-11-14 20:03:49"
  },
  {
   "vendor": "Canva",
@@ -49,10 +57,12 @@
   "full_name": "Canva/argo-cd",
   "url": "https://github.com/Canva/argo-cd",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Declarative Continuous Deployment for Kubernetes",
-  "first_seen": "2026-11-01 19:17:36"
+  "license": null,
+  "first_seen": "2026-11-01 19:17:36",
+  "last_verified": "2026-11-14 20:03:49"
  },
  {
   "vendor": "Canva",
@@ -60,10 +70,12 @@
   "full_name": "Canva/trace2receiver",
   "url": "https://github.com/Canva/trace2receiver",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "GOLANG based OTEL custom collector receiver component for Trace2 data",
-  "first_seen": "2026-11-01 19:17:36"
+  "license": null,
+  "first_seen": "2026-11-01 19:17:36",
+  "last_verified": "2026-11-14 20:03:49"
  },
  {
   "vendor": "Canva",
@@ -71,9 +83,11 @@
   "full_name": "Canva/jaeger-public",
   "url": "https://github.com/Canva/jaeger-public",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "A fork of the official jaegertracing/jaeger repository in order to apply Canva-specific customisations",
-  "first_seen": "2026-11-01 19:17:36"
+  "license": null,
+  "first_seen": "2026-11-01 19:17:36",
+  "last_verified": "2026-11-14 20:03:49"
  }
 ]

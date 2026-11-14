@@ -2,13 +2,67 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
+  "full_name": "circlefin/stablecoin-evm",
+  "url": "https://github.com/circlefin/stablecoin-evm",
+  "sec_path": "SECURITY.md",
+  "stars": 812,
+  "language": "TypeScript",
+  "description": "Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/malachite",
+  "url": "https://github.com/circlefin/malachite",
+  "sec_path": "SECURITY.md",
+  "stars": 464,
+  "language": "Rust",
+  "description": "Flexible BFT consensus engine in Rust",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/evm-cctp-contracts",
+  "url": "https://github.com/circlefin/evm-cctp-contracts",
+  "sec_path": "SECURITY.md",
+  "stars": 234,
+  "language": "Solidity",
+  "description": "Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/arc-node",
+  "url": "https://github.com/circlefin/arc-node",
+  "sec_path": "SECURITY.md",
+  "stars": 208,
+  "language": "Rust",
+  "description": "The Economic OS for the internet",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
   "full_name": "circlefin/skills",
   "url": "https://github.com/circlefin/skills",
   "sec_path": "SECURITY.md",
-  "stars": 165,
+  "stars": 166,
   "language": "JavaScript",
   "description": "Circle's open source skills for AI-assisted development.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -19,7 +73,9 @@
   "stars": 136,
   "language": "TypeScript",
   "description": "This sample app demonstrates an end-to-end escrow workflow — from contract creation and deposit, through AI-validated deliverable submission, to fund release or…",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -30,7 +86,9 @@
   "stars": 90,
   "language": "TypeScript",
   "description": "Sample app to demonstrate capabilities of Cross-Chain Transfer Protocol (CCTP)",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -41,7 +99,22 @@
   "stars": 72,
   "language": "TypeScript",
   "description": "This sample app demonstrates how to integrate USDC as a payment method for purchasing credits on Arc.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/solana-cctp-contracts",
+  "url": "https://github.com/circlefin/solana-cctp-contracts",
+  "sec_path": "SECURITY.md",
+  "stars": 54,
+  "language": "Rust",
+  "description": "Official repository for Solana smart contracts used by the Cross-Chain Transfer Protocol",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -52,7 +125,9 @@
   "stars": 45,
   "language": "TypeScript",
   "description": "This sample app emonstrates how developers can build the best USDC interoperability UX for wallets using Arc and Gateway.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -63,7 +138,9 @@
   "stars": 45,
   "language": "TypeScript",
   "description": "This sample app demonstrates gasless USDC nanopayments using Circle Nanopayments on Arc.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -74,7 +151,9 @@
   "stars": 44,
   "language": "TypeScript",
   "description": "This sample app demonstrates a multi-chain treasury management system with cross-chain interoperability.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -85,7 +164,9 @@
   "stars": 34,
   "language": "TypeScript",
   "description": "Node.js SDK for Circle API",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -93,10 +174,12 @@
   "full_name": "circlefin/agent-stack-starter-kits",
   "url": "https://github.com/circlefin/agent-stack-starter-kits",
   "sec_path": "SECURITY.md",
-  "stars": 30,
+  "stars": 31,
   "language": "TypeScript",
   "description": "Runnable examples integrating Circle Agent Stack with LangChain, Claude Agent SDK, OpenAI Agents SDK, Vercel AI SDK and Google ADK.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -107,7 +190,22 @@
   "stars": 26,
   "language": "Kotlin",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/noble-cctp",
+  "url": "https://github.com/circlefin/noble-cctp",
+  "sec_path": "SECURITY.md",
+  "stars": 23,
+  "language": "Go",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -118,7 +216,9 @@
   "stars": 23,
   "language": "Swift",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",
@@ -129,7 +229,9 @@
   "stars": 21,
   "language": "TypeScript",
   "description": "Public source mirror and examples for Circle's Modular Wallets Web SDK.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -140,7 +242,9 @@
   "stars": 20,
   "language": "TypeScript",
   "description": "This sample application demonstrates Cross-Chain Transfer Protocol (CCTP) step-by-step capabilities on testnet networks.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -151,7 +255,9 @@
   "stars": 20,
   "language": "TypeScript",
   "description": "This sample app demonstrates a seamless, gasless P2P payment system on Arc.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -162,7 +268,22 @@
   "stars": 20,
   "language": "TypeScript",
   "description": "This sample app demonstrates stablecoin FX swaps between USDC and EURC using the App Kits Swap SDK on Arc.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/w3s-digital-wallet-iOS-sample-app",
+  "url": "https://github.com/circlefin/w3s-digital-wallet-iOS-sample-app",
+  "sec_path": "SECURITY.md",
+  "stars": 20,
+  "language": "JavaScript",
+  "description": "A demonstration of integrating social sign-in functionality with web3 wallet generation.",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -173,7 +294,22 @@
   "stars": 19,
   "language": null,
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/buidl-wallet-contracts",
+  "url": "https://github.com/circlefin/buidl-wallet-contracts",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "Solidity",
+  "description": "Official repository for all buidl wallet contracts",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -184,18 +320,22 @@
   "stars": 19,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
   "org": "circlefin",
-  "full_name": "circlefin/w3s-digital-wallet-iOS-sample-app",
-  "url": "https://github.com/circlefin/w3s-digital-wallet-iOS-sample-app",
+  "full_name": "circlefin/arc-remote-signer",
+  "url": "https://github.com/circlefin/arc-remote-signer",
   "sec_path": "SECURITY.md",
-  "stars": 19,
-  "language": "JavaScript",
-  "description": "A demonstration of integrating social sign-in functionality with web3 wallet generation.",
-  "first_seen": "2026-11-01 19:19:37"
+  "stars": 18,
+  "language": "Go",
+  "description": "Secure remote signing service for Arc Network using AWS Nitro Enclaves",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -206,7 +346,9 @@
   "stars": 17,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",
@@ -217,7 +359,9 @@
   "stars": 17,
   "language": "Solidity",
   "description": "Repository for all HyperEVM contracts developed by Circle",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -228,7 +372,22 @@
   "stars": 16,
   "language": "TypeScript",
   "description": "This sample app demonstrates a decentralized prediction markets platform powered by UMA protocol on Arc.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/sui-cctp",
+  "url": "https://github.com/circlefin/sui-cctp",
+  "sec_path": "SECURITY.md",
+  "stars": 16,
+  "language": "Move",
+  "description": "Official repository for Sui smart contracts used by the Cross-Chain Transfer Protocol",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:49"
  },
  {
   "vendor": "Circle",
@@ -239,7 +398,9 @@
   "stars": 15,
   "language": "TypeScript",
   "description": "Explore React Native mobile sample applications to learn and understand the capabilities of Circle's Web3 Services. This sample application provides a practical…",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",
@@ -250,7 +411,9 @@
   "stars": 15,
   "language": "TypeScript",
   "description": "CLI for Managing Smart Contracts",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -261,7 +424,9 @@
   "stars": 14,
   "language": "TypeScript",
   "description": "This sample app demonstrates DeFi lending by using cirBTC as collateral to borrow USDC on Arc.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -272,7 +437,9 @@
   "stars": 14,
   "language": "JavaScript",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",
@@ -283,7 +450,9 @@
   "stars": 13,
   "language": "Objective-C",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",
@@ -294,7 +463,9 @@
   "stars": 13,
   "language": "Python",
   "description": "Backend repo for the TXT2TXN Circle Research x Berkeley project on AI and Intents.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -305,7 +476,9 @@
   "stars": 13,
   "language": "Swift",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",
@@ -316,7 +489,9 @@
   "stars": 12,
   "language": "Swift",
   "description": "The Circle React Native SDK enables your mobile application to provide user-controlled programmable wallets. By integrating this SDK, your users can securely in…",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",
@@ -327,7 +502,9 @@
   "stars": 12,
   "language": "Solidity",
   "description": "The Official Repository for R&D on recoverable wrapper tokens",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -338,7 +515,22 @@
   "stars": 11,
   "language": "TypeScript",
   "description": "An onchain eCommerce demo on Circle Arc that uses the Commerce Payments Protocol (Coinbase x Shopify) as its payment processor.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/stablecoin-sui",
+  "url": "https://github.com/circlefin/stablecoin-sui",
+  "sec_path": "SECURITY.md",
+  "stars": 11,
+  "language": "Move",
+  "description": "Source repository for smart contracts used by Circle's stablecoins on Sui blockchain",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -349,7 +541,35 @@
   "stars": 10,
   "language": "TypeScript",
   "description": "Frontend repo for the TXT2TXN Circle Research x Berkeley project on AI and Intents.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/aptos-cctp",
+  "url": "https://github.com/circlefin/aptos-cctp",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Move",
+  "description": "Official repository for Aptos smart contracts used by the Cross-Chain Transfer Protocol",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/noble-fiattokenfactory",
+  "url": "https://github.com/circlefin/noble-fiattokenfactory",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Go",
+  "description": "Repository for Noble fiat token factory code",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -360,7 +580,9 @@
   "stars": 9,
   "language": "Kotlin",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -371,7 +593,22 @@
   "stars": 8,
   "language": "Rust",
   "description": "Fork of Foundry with Arc support",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/stellar-cctp",
+  "url": "https://github.com/circlefin/stellar-cctp",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Rust",
+  "description": "Source repository for Stellar smart contracts used by the Cross-Chain Transfer Protocol",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:49"
  },
  {
   "vendor": "Circle",
@@ -382,7 +619,22 @@
   "stars": 7,
   "language": "TypeScript",
   "description": "A sample application that demonstrates how to use Bridge Kit to make cross chain USDC transfers with a wallet connect experience.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/stablecoin-aptos",
+  "url": "https://github.com/circlefin/stablecoin-aptos",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Move",
+  "description": "Source repository for smart contracts used by Circle's stablecoins on Aptos blockchain",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -393,7 +645,22 @@
   "stars": 6,
   "language": "Python",
   "description": "Chainmail: authenticated email using the blockchain.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/sidequestor",
+  "url": "https://github.com/circlefin/sidequestor",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Python",
+  "description": "Yourself-as-a-service while you AFK: a personal Slack, email, and calendar agent that turns everything worth your attention into a trackable quest, watched by a…",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -404,7 +671,22 @@
   "stars": 5,
   "language": "TypeScript",
   "description": "A Next.js sample application that demonstrates how to buy USDC directly into a connected MetaMask wallet using Circle Onramp Kit.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/stablecoin-near",
+  "url": "https://github.com/circlefin/stablecoin-near",
+  "sec_path": "SECURITY.md",
+  "stars": 5,
+  "language": "Rust",
+  "description": "Repository for Circle stablecoins on NEAR",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -415,18 +697,9 @@
   "stars": 5,
   "language": "Python",
   "description": "Prototype implementation and research tooling for exploring an Ethereum confirmation rule",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/sidequestor",
-  "url": "https://github.com/circlefin/sidequestor",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "Python",
-  "description": "Yourself-as-a-service while you AFK: a personal Slack, email, and calendar agent that turns everything worth your attention into a trackable quest, watched by a…",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -437,7 +710,9 @@
   "stars": 4,
   "language": "Go",
   "description": "Terraform Provider for Quicknode",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -448,7 +723,9 @@
   "stars": 4,
   "language": "TypeScript",
   "description": "A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -459,7 +736,9 @@
   "stars": 4,
   "language": "Swift",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -470,7 +749,35 @@
   "stars": 3,
   "language": "TypeScript",
   "description": "A sample app demonstrating USDC borrowing on Arc using Borrow Kit.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/solana-gateway-contracts",
+  "url": "https://github.com/circlefin/solana-gateway-contracts",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "Official repository for all Solana smart contracts used by Circle Gateway",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/evm-cpn-contracts",
+  "url": "https://github.com/circlefin/evm-cpn-contracts",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Solidity",
+  "description": "Official repository for all EVM-compatible smart contracts used by the Circle Payments Network",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -481,7 +788,22 @@
   "stars": 3,
   "language": "TypeScript",
   "description": "This sample application demonstrates how a selected fulfiller can pay first and CCTP can settle reimbursement later across testnet networks.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/stablecoin-starknet",
+  "url": "https://github.com/circlefin/stablecoin-starknet",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Cairo",
+  "description": "Source repository for smart contracts used by Circle's stablecoins on Starknet blockchain",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -492,7 +814,22 @@
   "stars": 3,
   "language": "TypeScript",
   "description": "The official repository for the Circle Verifier in the Verite Protocol.",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/stablecoin-xlm",
+  "url": "https://github.com/circlefin/stablecoin-xlm",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Rust",
+  "description": "Source repository for smart contracts used by Circle's stablecoins on the Stellar blockchain",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -503,7 +840,22 @@
   "stars": 2,
   "language": "Go",
   "description": "Go bindings and CLI for CCTP",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/evm-xreserve-contracts",
+  "url": "https://github.com/circlefin/evm-xreserve-contracts",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Solidity",
+  "description": "Official repository for all EVM-compatible smart contracts used by Circle XReserve",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -514,7 +866,22 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "Official repository for interfacing with modular smart contract account (MSCA) wallets",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/formal-tendermint",
+  "url": "https://github.com/circlefin/formal-tendermint",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "TLA",
+  "description": "Formal specifications and model checking for Tendermint-style consensus algorithms, provided by Circle.",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -525,7 +892,9 @@
   "stars": 1,
   "language": "TypeScript",
   "description": "Repository for code samples from developer documentation",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -536,7 +905,9 @@
   "stars": 1,
   "language": "Solidity",
   "description": "Repository for Circle Sponsored CCTP Extension contracts",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -547,7 +918,22 @@
   "stars": 1,
   "language": null,
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:23"
+ },
+ {
+  "vendor": "Circle",
+  "org": "circlefin",
+  "full_name": "circlefin/starknet-cctp",
+  "url": "https://github.com/circlefin/starknet-cctp",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": "Cairo",
+  "description": "Official repository for Starknet smart contracts used by the Cross-Chain Transfer Protocol",
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Circle",
@@ -564,63 +950,15 @@
  {
   "vendor": "Circle",
   "org": "circlefin",
-  "full_name": "circlefin/stablecoin-xlm",
-  "url": "https://github.com/circlefin/stablecoin-xlm",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/formal-tendermint",
-  "url": "https://github.com/circlefin/formal-tendermint",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "TLA",
-  "description": "Formal specifications and model checking for Tendermint-style consensus algorithms, provided by Circle.",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/solana-gateway-contracts",
-  "url": "https://github.com/circlefin/solana-gateway-contracts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
   "full_name": "circlefin/fee-orchestrator-contracts",
   "url": "https://github.com/circlefin/fee-orchestrator-contracts",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Solidity",
   "description": "Circle Fee Orchestrator contracts",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/malachite",
-  "url": "https://github.com/circlefin/malachite",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
   "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -628,23 +966,12 @@
   "full_name": "circlefin/daa-node-sdk",
   "url": "https://github.com/circlefin/daa-node-sdk",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/arc-node",
-  "url": "https://github.com/circlefin/arc-node",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
   "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -652,114 +979,12 @@
   "full_name": "circlefin/seizure-registry-contracts",
   "url": "https://github.com/circlefin/seizure-registry-contracts",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Solidity",
   "description": "Source repository for Seizure Registry smart contracts used for Secondary Market Burn (SMB)",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/sui-cctp",
-  "url": "https://github.com/circlefin/sui-cctp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
   "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:49"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/arc-remote-signer",
-  "url": "https://github.com/circlefin/arc-remote-signer",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/buidl-wallet-contracts",
-  "url": "https://github.com/circlefin/buidl-wallet-contracts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/stablecoin-evm",
-  "url": "https://github.com/circlefin/stablecoin-evm",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/aptos-cctp",
-  "url": "https://github.com/circlefin/aptos-cctp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/stellar-cctp",
-  "url": "https://github.com/circlefin/stellar-cctp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:49"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/stablecoin-aptos",
-  "url": "https://github.com/circlefin/stablecoin-aptos",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/evm-cpn-contracts",
-  "url": "https://github.com/circlefin/evm-cpn-contracts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
+  "last_verified": "2026-11-14 20:04:27"
  },
  {
   "vendor": "Circle",
@@ -767,127 +992,12 @@
   "full_name": "circlefin/copilot-metrics-viewer",
   "url": "https://github.com/circlefin/copilot-metrics-viewer",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Bicep",
   "description": "Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)",
-  "first_seen": "2026-11-01 19:19:37"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/noble-fiattokenfactory",
-  "url": "https://github.com/circlefin/noble-fiattokenfactory",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
   "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/noble-cctp",
-  "url": "https://github.com/circlefin/noble-cctp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/starknet-cctp",
-  "url": "https://github.com/circlefin/starknet-cctp",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/evm-cctp-contracts",
-  "url": "https://github.com/circlefin/evm-cctp-contracts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/evm-xreserve-contracts",
-  "url": "https://github.com/circlefin/evm-xreserve-contracts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/stablecoin-sui",
-  "url": "https://github.com/circlefin/stablecoin-sui",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/solana-cctp-contracts",
-  "url": "https://github.com/circlefin/solana-cctp-contracts",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/stablecoin-near",
-  "url": "https://github.com/circlefin/stablecoin-near",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Circle",
-  "org": "circlefin",
-  "full_name": "circlefin/stablecoin-starknet",
-  "url": "https://github.com/circlefin/stablecoin-starknet",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:19:37",
-  "last_verified": "2026-11-14 13:00:45"
+  "last_verified": "2026-11-14 20:04:23"
  },
  {
   "vendor": "Circle",
@@ -895,10 +1005,12 @@
   "full_name": "circlefin/w3s-ios-sdk-podspecs",
   "url": "https://github.com/circlefin/w3s-ios-sdk-podspecs",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Ruby",
   "description": "",
-  "first_seen": "2026-11-01 19:19:37"
+  "license": null,
+  "first_seen": "2026-11-01 19:19:37",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",
@@ -910,7 +1022,8 @@
   "language": "Swift",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-05 09:06:14"
+  "first_seen": "2026-11-05 09:06:14",
+  "last_verified": "2026-11-14 20:04:31"
  },
  {
   "vendor": "Circle",

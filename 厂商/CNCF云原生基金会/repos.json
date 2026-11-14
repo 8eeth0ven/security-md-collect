@@ -62,10 +62,12 @@
   "full_name": "cilium/cilium",
   "url": "https://github.com/cilium/cilium",
   "sec_path": "SECURITY.md",
-  "stars": 25826,
+  "stars": 25833,
   "language": "Go",
   "description": "eBPF-based Networking, Security, and Observability",
-  "first_seen": "2026-11-01 19:18:45"
+  "license": null,
+  "first_seen": "2026-11-01 19:18:45",
+  "last_verified": "2026-11-14 20:04:15"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -212,10 +214,12 @@
   "full_name": "cilium/tetragon",
   "url": "https://github.com/cilium/tetragon",
   "sec_path": "SECURITY.md",
-  "stars": 5181,
+  "stars": 5183,
   "language": "C",
   "description": "eBPF-based Security Observability and Runtime Enforcement",
-  "first_seen": "2026-11-01 19:18:45"
+  "license": null,
+  "first_seen": "2026-11-01 19:18:45",
+  "last_verified": "2026-11-14 20:04:15"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -574,10 +578,12 @@
   "full_name": "cilium/cilium-cli",
   "url": "https://github.com/cilium/cilium-cli",
   "sec_path": "SECURITY.md",
-  "stars": 611,
+  "stars": 612,
   "language": "Makefile",
   "description": "CLI to install, manage & troubleshoot Kubernetes clusters running Cilium",
-  "first_seen": "2026-11-01 19:18:45"
+  "license": null,
+  "first_seen": "2026-11-01 19:18:45",
+  "last_verified": "2026-11-14 20:04:15"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1227,7 +1233,9 @@
   "stars": 8,
   "language": "Rust",
   "description": "Mutual TLS proxy for workload communication",
-  "first_seen": "2026-11-01 19:18:45"
+  "license": null,
+  "first_seen": "2026-11-01 19:18:45",
+  "last_verified": "2026-11-14 20:04:15"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1371,7 +1379,9 @@
   "stars": 1,
   "language": "C",
   "description": "Just local BPF wip branches for upstream",
-  "first_seen": "2026-11-01 19:18:45"
+  "license": null,
+  "first_seen": "2026-11-01 19:18:45",
+  "last_verified": "2026-11-14 20:04:15"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1382,7 +1392,9 @@
   "stars": 1,
   "language": "Go",
   "description": "Performance tests and benchmarks",
-  "first_seen": "2026-11-01 19:18:45"
+  "license": null,
+  "first_seen": "2026-11-01 19:18:45",
+  "last_verified": "2026-11-14 20:04:15"
  },
  {
   "vendor": "CNCF云原生基金会",

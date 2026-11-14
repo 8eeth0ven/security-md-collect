@@ -5,7 +5,7 @@
   "full_name": "cloudflare/computer",
   "url": "https://github.com/cloudflare/computer",
   "sec_path": ".github/SECURITY.md",
-  "stars": 9907,
+  "stars": 9917,
   "language": "TypeScript",
   "description": "Give your agent a computer 👾",
   "first_seen": "2026-11-01 19:21:55"
@@ -13,10 +13,36 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
+  "full_name": "cloudflare/vinext",
+  "url": "https://github.com/cloudflare/vinext",
+  "sec_path": "SECURITY.md",
+  "stars": 9368,
+  "language": "TypeScript",
+  "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-14 13:00:49"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
+  "full_name": "cloudflare/workerd",
+  "url": "https://github.com/cloudflare/workerd",
+  "sec_path": "SECURITY.md",
+  "stars": 9185,
+  "language": "C++",
+  "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-14 13:00:49"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
   "full_name": "cloudflare/workers-sdk",
   "url": "https://github.com/cloudflare/workers-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 4719,
+  "stars": 4726,
   "language": "TypeScript",
   "description": "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®",
   "first_seen": "2026-11-01 19:21:55"
@@ -27,7 +53,7 @@
   "full_name": "cloudflare/capnweb",
   "url": "https://github.com/cloudflare/capnweb",
   "sec_path": "SECURITY.md",
-  "stars": 4032,
+  "stars": 4034,
   "language": "TypeScript",
   "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
   "first_seen": "2026-11-01 19:21:55"
@@ -46,17 +72,6 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
-  "full_name": "cloudflare/cloudflare-go",
-  "url": "https://github.com/cloudflare/cloudflare-go",
-  "sec_path": "SECURITY.md",
-  "stars": 2115,
-  "language": "Go",
-  "description": "The official Go library for the Cloudflare API",
-  "first_seen": "2026-11-01 19:21:55"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
   "full_name": "cloudflare/wildebeest",
   "url": "https://github.com/cloudflare/wildebeest",
   "sec_path": "SECURITY.md",
@@ -68,10 +83,21 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
+  "full_name": "cloudflare/cloudflare-go",
+  "url": "https://github.com/cloudflare/cloudflare-go",
+  "sec_path": "SECURITY.md",
+  "stars": 2114,
+  "language": "Go",
+  "description": "The official Go library for the Cloudflare API",
+  "first_seen": "2026-11-01 19:21:55"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
   "full_name": "cloudflare/workers-oauth-provider",
   "url": "https://github.com/cloudflare/workers-oauth-provider",
   "sec_path": "SECURITY.md",
-  "stars": 1896,
+  "stars": 1897,
   "language": "TypeScript",
   "description": "OAuth provider library for Cloudflare Workers",
   "first_seen": "2026-11-01 19:21:55"
@@ -82,7 +108,7 @@
   "full_name": "cloudflare/nimbus",
   "url": "https://github.com/cloudflare/nimbus",
   "sec_path": "SECURITY.md",
-  "stars": 1760,
+  "stars": 1763,
   "language": "TypeScript",
   "description": "Docs for humans and agents, built on Astro",
   "first_seen": "2026-11-01 19:21:55"
@@ -93,7 +119,7 @@
   "full_name": "cloudflare/terraform-provider-cloudflare",
   "url": "https://github.com/cloudflare/terraform-provider-cloudflare",
   "sec_path": "SECURITY.md",
-  "stars": 1353,
+  "stars": 1356,
   "language": "Go",
   "description": "Cloudflare Terraform Provider",
   "first_seen": "2026-11-01 19:21:55"
@@ -104,10 +130,22 @@
   "full_name": "cloudflare/cf",
   "url": "https://github.com/cloudflare/cf",
   "sec_path": ".github/SECURITY.md",
-  "stars": 1034,
+  "stars": 1043,
   "language": "TypeScript",
   "description": "The agentic CLI for the entire Cloudflare API",
   "first_seen": "2026-11-01 19:21:55"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
+  "full_name": "cloudflare/kitesurf",
+  "url": "https://github.com/cloudflare/kitesurf",
+  "sec_path": "SECURITY.md",
+  "stars": 885,
+  "language": "TypeScript",
+  "description": "Kitesurf is an experimental browser engine that runs on Cloudflare Workers.",
+  "license": null,
+  "first_seen": "2026-11-13 12:38:48"
  },
  {
   "vendor": "Cloudflare",
@@ -189,18 +227,6 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
-  "full_name": "cloudflare/kitesurf",
-  "url": "https://github.com/cloudflare/kitesurf",
-  "sec_path": "SECURITY.md",
-  "stars": 91,
-  "language": "TypeScript",
-  "description": "Kitesurf is an experimental browser engine that runs on Cloudflare Workers.",
-  "license": null,
-  "first_seen": "2026-11-13 12:38:48"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
   "full_name": "cloudflare/privacy-gateway-server-go",
   "url": "https://github.com/cloudflare/privacy-gateway-server-go",
   "sec_path": "SECURITY.md",
@@ -230,6 +256,19 @@
   "language": "JavaScript",
   "description": "A Oblivious HTTP (\"OHTTP\") Relay built on Cloudflare Workers.",
   "first_seen": "2026-11-01 19:23:06"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
+  "full_name": "cloudflare/.github",
+  "url": "https://github.com/cloudflare/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 41,
+  "language": null,
+  "description": "Cloudflare's template for open source community resources",
+  "license": null,
+  "first_seen": "2026-11-01 19:24:21",
+  "last_verified": "2026-11-14 13:00:49"
  },
  {
   "vendor": "Cloudflare",
@@ -380,7 +419,7 @@
   "full_name": "cloudflare/fedramp",
   "url": "https://github.com/cloudflare/fedramp",
   "sec_path": "SECURITY.md",
-  "stars": 3,
+  "stars": 4,
   "language": null,
   "description": "Cloudflare's authoritative FedRAMP Marketplace Certification Package Overview (Cloudflare for Government, Class C + Class D).",
   "first_seen": "2026-11-01 19:21:55"
@@ -432,32 +471,6 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
-  "full_name": "cloudflare/workerd",
-  "url": "https://github.com/cloudflare/workerd",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:21:55",
-  "last_verified": "2026-11-14 13:00:49"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
-  "full_name": "cloudflare/vinext",
-  "url": "https://github.com/cloudflare/vinext",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:21:55",
-  "last_verified": "2026-11-14 13:00:49"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
   "full_name": "cloudflare/prometheus-client-rust",
   "url": "https://github.com/cloudflare/prometheus-client-rust",
   "sec_path": "SECURITY.md",
@@ -487,18 +500,5 @@
   "language": "Go",
   "description": "SNMP Exporter for Prometheus (Fork)",
   "first_seen": "2026-11-01 19:23:06"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
-  "full_name": "cloudflare/.github",
-  "url": "https://github.com/cloudflare/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 19:24:21",
-  "last_verified": "2026-11-14 13:00:49"
  }
 ]

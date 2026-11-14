@@ -5,10 +5,12 @@
   "full_name": "elastic/kibana",
   "url": "https://github.com/elastic/kibana",
   "sec_path": "SECURITY.md",
-  "stars": 21377,
+  "stars": 21376,
   "language": "TypeScript",
   "description": "Your window into all of your data",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -19,7 +21,9 @@
   "stars": 5290,
   "language": "TypeScript",
   "description": "Official Elasticsearch client library for Node.js",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -30,7 +34,9 @@
   "stars": 533,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -41,7 +47,9 @@
   "stars": 270,
   "language": "PHP",
   "description": "",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -64,7 +72,9 @@
   "stars": 19,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -75,7 +85,9 @@
   "stars": 13,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -86,7 +98,9 @@
   "stars": 8,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 19:13:07"
+  "license": null,
+  "first_seen": "2026-11-01 19:13:07",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -97,7 +111,9 @@
   "stars": 7,
   "language": "Python",
   "description": "source-agnostic tooling for migrating observability assets",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -108,7 +124,9 @@
   "stars": 6,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -119,7 +137,9 @@
   "stars": 2,
   "language": "Go",
   "description": "Harp Plugins - It uses Harp SDK to provide new features to your secret management pipelines.",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -142,7 +162,9 @@
   "stars": 1,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -153,7 +175,22 @@
   "stars": 1,
   "language": "Shell",
   "description": "",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
+ },
+ {
+  "vendor": "Elastic",
+  "org": "elastic",
+  "full_name": "elastic/.github",
+  "url": "https://github.com/elastic/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 12:58:59"
  },
  {
   "vendor": "Elastic",
@@ -165,7 +202,8 @@
   "language": "C#",
   "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
   "license": null,
-  "first_seen": "2026-11-02 03:20:22"
+  "first_seen": "2026-11-02 03:20:22",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -177,7 +215,8 @@
   "language": "TypeScript",
   "description": "Your window into the Elastic Stack",
   "license": null,
-  "first_seen": "2026-11-02 03:21:22"
+  "first_seen": "2026-11-02 03:21:22",
+  "last_verified": "2026-11-14 20:03:43"
  },
  {
   "vendor": "Elastic",
@@ -233,10 +272,12 @@
   "full_name": "elastic/distillate",
   "url": "https://github.com/elastic/distillate",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -244,10 +285,12 @@
   "full_name": "elastic/eui-kibana",
   "url": "https://github.com/elastic/eui-kibana",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "A fork of elastic/kibana to serve as the integration testing point between Kibana and EUI",
-  "first_seen": "2026-11-01 19:11:51"
+  "license": null,
+  "first_seen": "2026-11-01 19:11:51",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -255,23 +298,12 @@
   "full_name": "elastic/kibana-kes-fork",
   "url": "https://github.com/elastic/kibana-kes-fork",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Your window into all of your data",
-  "first_seen": "2026-11-01 19:11:51"
- },
- {
-  "vendor": "Elastic",
-  "org": "elastic",
-  "full_name": "elastic/.github",
-  "url": "https://github.com/elastic/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
   "first_seen": "2026-11-01 19:11:51",
-  "last_verified": "2026-11-14 12:58:59"
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -279,10 +311,12 @@
   "full_name": "elastic/kiriver-kibana",
   "url": "https://github.com/elastic/kiriver-kibana",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Your window into all of your data",
-  "first_seen": "2026-11-01 19:13:07"
+  "license": null,
+  "first_seen": "2026-11-01 19:13:07",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -294,7 +328,8 @@
   "language": "Python",
   "description": "A library for converting HTML into PDFs using ReportLab",
   "license": null,
-  "first_seen": "2026-11-02 03:20:22"
+  "first_seen": "2026-11-02 03:20:22",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -306,7 +341,8 @@
   "language": "Python",
   "description": "Official Elastic connectors for third-party data sources",
   "license": null,
-  "first_seen": "2026-11-02 03:20:22"
+  "first_seen": "2026-11-02 03:20:22",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -318,7 +354,8 @@
   "language": "TypeScript",
   "description": "Your window into the Elastic Stack",
   "license": null,
-  "first_seen": "2026-11-02 03:21:22"
+  "first_seen": "2026-11-02 03:21:22",
+  "last_verified": "2026-11-14 20:03:43"
  },
  {
   "vendor": "Elastic",
@@ -330,7 +367,8 @@
   "language": "TypeScript",
   "description": "Your window into the Elastic Stack",
   "license": null,
-  "first_seen": "2026-11-02 03:21:22"
+  "first_seen": "2026-11-02 03:21:22",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -342,7 +380,8 @@
   "language": "TypeScript",
   "description": "Your window into the Elastic Stack",
   "license": null,
-  "first_seen": "2026-11-02 03:21:22"
+  "first_seen": "2026-11-02 03:21:22",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
@@ -354,7 +393,8 @@
   "language": "TypeScript",
   "description": "Your window into the Elastic Stack",
   "license": null,
-  "first_seen": "2026-11-02 03:21:22"
+  "first_seen": "2026-11-02 03:21:22",
+  "last_verified": "2026-11-14 20:03:37"
  },
  {
   "vendor": "Elastic",
