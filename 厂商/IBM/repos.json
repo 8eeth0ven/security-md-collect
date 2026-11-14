@@ -290,17 +290,6 @@
  {
   "vendor": "IBM",
   "org": "IBM",
-  "full_name": "IBM/mcp-composer",
-  "url": "https://github.com/IBM/mcp-composer",
-  "sec_path": "SECURITY.md",
-  "stars": 22,
-  "language": "Python",
-  "description": "MCP Composer",
-  "first_seen": "2026-11-01 16:45:41"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
   "full_name": "IBM/cloudant-go-sdk",
   "url": "https://github.com/IBM/cloudant-go-sdk",
   "sec_path": "SECURITY.md",
@@ -341,17 +330,6 @@
   "language": "Python",
   "description": "Diagnosing policy grounding in LLM judges via causal erasure. Companion code to the AIES 2026 submission READ.",
   "first_seen": "2026-11-01 16:47:40"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
-  "full_name": "IBM/text2sql-eval-toolkit",
-  "url": "https://github.com/IBM/text2sql-eval-toolkit",
-  "sec_path": "SECURITY.md",
-  "stars": 19,
-  "language": "Python",
-  "description": "Text-to-SQL Evaluation Toolkit: A modular framework for evaluating natural language to SQL systems",
-  "first_seen": "2026-11-01 16:46:39"
  },
  {
   "vendor": "IBM",
@@ -786,6 +764,17 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/mcp-composer",
+  "url": "https://github.com/IBM/mcp-composer",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "> MCP Composer",
+  "first_seen": "2026-11-01 16:45:41"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/ocp4-upi-compute-powervs",
   "url": "https://github.com/IBM/ocp4-upi-compute-powervs",
   "sec_path": "SECURITY.md",
@@ -902,6 +891,17 @@
   "stars": 2,
   "language": null,
   "description": "Host supplemental Turbonomic ARM kubernetes deployments",
+  "first_seen": "2026-11-01 16:46:39"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/text2sql-eval-toolkit",
+  "url": "https://github.com/IBM/text2sql-eval-toolkit",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Python",
+  "description": "Text-to-SQL Evaluation Toolkit: A modular framework for evaluating natural language to SQL systems",
   "first_seen": "2026-11-01 16:46:39"
  },
  {

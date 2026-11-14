@@ -4736,12 +4736,10 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/vllm,https://github.com/IBM/vllm,27,Python,
 IBM,自建PSIRT（X-Force）,IBM,IBM/chuk-tool-processor,https://github.com/IBM/chuk-tool-processor,25,Python,docs/security.md,
 IBM,自建PSIRT（X-Force）,IBM,IBM/topography-searcher,https://github.com/IBM/topography-searcher,25,Python,SECURITY.md,This Python package is designed for mapping the solution space of machine learning models. An understanding of the organisation of the solution space can answer…
 IBM,自建PSIRT（X-Force）,IBM,IBM/mac-ibm-enrollment-helper,https://github.com/IBM/mac-ibm-enrollment-helper,24,Swift,SECURITY.md,Native macOS application that assists with the Jamf Pro OTA enrollment experience
-IBM,自建PSIRT（X-Force）,IBM,IBM/mcp-composer,https://github.com/IBM/mcp-composer,22,Python,SECURITY.md,MCP Composer
 IBM,自建PSIRT（X-Force）,IBM,IBM/cloudant-go-sdk,https://github.com/IBM/cloudant-go-sdk,22,Go,SECURITY.md,Cloudant SDK for Go
 IBM,自建PSIRT（X-Force）,IBM,IBM/CRAIG,https://github.com/IBM/CRAIG,22,JavaScript,SECURITY.md,Cloud Resource and Infrastructure-as-Code Generator (or CRAIG) allows users to generate Terraform to create a fully customizable environment on IBM Cloud.
 IBM,自建PSIRT（X-Force）,IBM,IBM/oper8,https://github.com/IBM/oper8,21,Python,SECURITY.md,Oper8 is a framework for writing kubernetes operators in python. It implements many common patterns used by large cloud applications that are reusable across ma…
 IBM,自建PSIRT（X-Force）,IBM,IBM/READ,https://github.com/IBM/READ,21,Python,SECURITY.md,Diagnosing policy grounding in LLM judges via causal erasure. Companion code to the AIES 2026 submission READ.
-IBM,自建PSIRT（X-Force）,IBM,IBM/text2sql-eval-toolkit,https://github.com/IBM/text2sql-eval-toolkit,19,Python,SECURITY.md,Text-to-SQL Evaluation Toolkit: A modular framework for evaluating natural language to SQL systems
 IBM,自建PSIRT（X-Force）,IBM,IBM/cics-bundle-maven,https://github.com/IBM/cics-bundle-maven,18,Java,SECURITY.md,The plugin to build and deploy CICS bundles in a Maven build.
 IBM,自建PSIRT（X-Force）,IBM,IBM/network-config-analyzer,https://github.com/IBM/network-config-analyzer,18,Python,SECURITY.md,"A semantic analyzer for resources that configure network connectivity (e.g., Kubernetes NetworkPolicy)."
 IBM,自建PSIRT（X-Force）,IBM,IBM/smith,https://github.com/IBM/smith,17,Python,SECURITY.md,Automated Policy Lifecycle Management for AI Agents
@@ -4781,6 +4779,7 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/ibm-watsonxdata-dl-retrieval-mcp-server,htt
 IBM,自建PSIRT（X-Force）,IBM,IBM/substrait-compliance,https://github.com/IBM/substrait-compliance,4,Python,SECURITY.md,Substrait Decentralized Compliance Framework
 IBM,自建PSIRT（X-Force）,IBM,IBM/fusion-lab-workbooks,https://github.com/IBM/fusion-lab-workbooks,4,Shell,SECURITY.md,IBM Technology Zone Lab Guides
 IBM,自建PSIRT（X-Force）,IBM,IBM/chuk-virtual-fs,https://github.com/IBM/chuk-virtual-fs,4,Python,SECURITY.md,
+IBM,自建PSIRT（X-Force）,IBM,IBM/mcp-composer,https://github.com/IBM/mcp-composer,3,Python,SECURITY.md,> MCP Composer
 IBM,自建PSIRT（X-Force）,IBM,IBM/ocp4-upi-compute-powervs,https://github.com/IBM/ocp4-upi-compute-powervs,3,Shell,SECURITY.md,Automation to support additional workers on the Red Hat OpenShift Container Platform compute plane on IBM Power Virtual Servers
 IBM,自建PSIRT（X-Force）,IBM,IBM/codehelm,https://github.com/IBM/codehelm,3,Python,SECURITY.md,CodeHelm
 IBM,自建PSIRT（X-Force）,IBM,IBM/md-to-pdf,https://github.com/IBM/md-to-pdf,3,Python,SECURITY.md,"Professional Markdown to PDF converter with Mermaid diagrams, clickable links, table of contents, and custom styles"
@@ -4792,6 +4791,7 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/ocp4-upi-compute-powervs-ibmcloud,https://g
 IBM,自建PSIRT（X-Force）,IBM,IBM/GeoVLM-R1-Toolkit,https://github.com/IBM/GeoVLM-R1-Toolkit,2,Python,SECURITY.md,"GeoVLM-R1: A specialized VLM for high-resolution remote sensing image Reasoning. We propose GeoVLM-R1, a reinforcement learning framework that encourages VLM to…"
 IBM,自建PSIRT（X-Force）,IBM,IBM/dbt-watsonx-presto,https://github.com/IBM/dbt-watsonx-presto,2,Python,SECURITY.md,A DBT adapter for integrating DBT with watsonx.data Presto
 IBM,自建PSIRT（X-Force）,IBM,IBM/t8c-operator,https://github.com/IBM/t8c-operator,2,,SECURITY.md,Host supplemental Turbonomic ARM kubernetes deployments
+IBM,自建PSIRT（X-Force）,IBM,IBM/text2sql-eval-toolkit,https://github.com/IBM/text2sql-eval-toolkit,2,Python,SECURITY.md,Text-to-SQL Evaluation Toolkit: A modular framework for evaluating natural language to SQL systems
 IBM,自建PSIRT（X-Force）,IBM,IBM/DrBencher,https://github.com/IBM/DrBencher,2,Python,SECURITY.md,DrBencher
 IBM,自建PSIRT（X-Force）,IBM,IBM/verify-mcp-server,https://github.com/IBM/verify-mcp-server,2,Python,SECURITY.md,
 IBM,自建PSIRT（X-Force）,IBM,IBM/ibm-bob-plugin-marketplace,https://github.com/IBM/ibm-bob-plugin-marketplace,2,,SECURITY.md,ibm-bob-plugin-marketplace
@@ -6880,7 +6880,7 @@ SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/.github,https://git
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/dc-rl,https://github.com/HewlettPackard/dc-rl,135,HTML,SECURITY.md,SustainDC is a set of Python environments for Data Center simulation and control using Heterogeneous Multi Agent Reinforcement Learning. Includes customizable e…
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/sustain-cluster,https://github.com/HewlettPackard/sustain-cluster,94,Jupyter Notebook,SECURITY.md,"SustainCluster: A high-fidelity, open-source Gymnasium environment for benchmarking multi-objective, sustainable workload scheduling across geo-distributed data…"
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/llmesh,https://github.com/HewlettPackard/llmesh,93,Python,SECURITY.md,LLM Agentic Tool Mesh Platform is an innovative platform designed to streamline and enhance the use of AI in various applications. It serves as a central hub to…
-HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/sustain-lc,https://github.com/HewlettPackard/sustain-lc,47,Jupyter Notebook,SECURITY.md,Sustain-LC is a benchmarking environment for traditional and reinforcement learning based controls as well as LLM based control
+HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/sustain-lc,https://github.com/HewlettPackard/sustain-lc,48,Jupyter Notebook,SECURITY.md,Sustain-LC is a benchmarking environment for traditional and reinforcement learning based controls as well as LLM based control
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/galadriel,https://github.com/HewlettPackard/galadriel,21,Go,SECURITY.md,SPIFFE Federation the easy way
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,hpe,HPE/torch-hammer,https://github.com/HPE/torch-hammer,18,Python,SECURITY.md,Torch Hammer: Strike while the GPU is hot
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/shs-ccl-docs,https://github.com/HewlettPackard/shs-ccl-docs,15,Shell,SECURITY.md,
@@ -6896,9 +6896,9 @@ HP/HPE,自建PSIRT + ZDI（HP/HPE）,hpe,HPE/terraform-provider-opsramp,https://
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/k8s-sigstore-attestor,https://github.com/HewlettPackard/k8s-sigstore-attestor,3,Go,SECURITY.md,
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/IMC-MCTS,https://github.com/HewlettPackard/IMC-MCTS,1,Python,SECURITY.md,
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,hpe,HPE/ompi,https://github.com/HPE/ompi,1,C,SECURITY.md,Open MPI main development repository
-HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/shs-governance-model,https://github.com/HewlettPackard/shs-governance-model,,,SECURITY.md,Singshot Host Software Governance Model
-HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/create-react-app,https://github.com/HewlettPackard/create-react-app,,JavaScript,SECURITY.md,Set up a modern web app by running one command.
-HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/istio,https://github.com/HewlettPackard/istio,,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
+HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/shs-governance-model,https://github.com/HewlettPackard/shs-governance-model,0,,SECURITY.md,Singshot Host Software Governance Model
+HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/create-react-app,https://github.com/HewlettPackard/create-react-app,0,JavaScript,SECURITY.md,Set up a modern web app by running one command.
+HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/istio,https://github.com/HewlettPackard/istio,0,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
 红帽,自建（Red Hat Product Security）,ansible,ansible/ansible,https://github.com/ansible/ansible,71453,Python,.github/SECURITY.md,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deplo…
 红帽,自建（Red Hat Product Security）,ansible,ansible/awx,https://github.com/ansible/awx,15625,Python,SECURITY.md,"AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pl…"
 红帽,自建（Red Hat Product Security）,ansible,ansible/molecule,https://github.com/ansible/molecule,4166,Python,SECURITY.md,"An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service"
@@ -7389,7 +7389,7 @@ Unity,自建（Unity Security）,Unity-Technologies,Unity-Technologies/format,ht
 Unity,自建（Unity Security）,Unity-Technologies,Unity-Technologies/grafana,https://github.com/Unity-Technologies/grafana,1,TypeScript,SECURITY.md,"The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More"
 Unity,自建（Unity Security）,Unity-Technologies,Unity-Technologies/kueue,https://github.com/Unity-Technologies/kueue,,Go,SECURITY.md,Kubernetes-native Job Queueing
 Unity,自建（Unity Security）,Unity-Technologies,Unity-Technologies/uvcs-agent-plugin,https://github.com/Unity-Technologies/uvcs-agent-plugin,0,JavaScript,SECURITY.md,Portable agent plugin that teaches AI coding agents how to use Unity Version Control (UVCS / Plastic SCM).
-EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/lore,https://github.com/EpicGames/lore,9142,Rust,SECURITY.md,"Lore is a next-generation, open source version control system"
+EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/lore,https://github.com/EpicGames/lore,9152,Rust,SECURITY.md,"Lore is a next-generation, open source version control system"
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/PixelStreamingInfrastructure-archived-2024,https://github.com/EpicGames/PixelStreamingInfrastructure-archived-2024,598,TypeScript,SECURITY.md,Moved to: https://github.com/EpicGamesExt/PixelStreamingInfrastructure
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/PixelStreamingInfrastructure,https://github.com/EpicGames/PixelStreamingInfrastructure,560,TypeScript,SECURITY.md,The official Pixel Streaming servers and frontend.
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/OpenRigLogic,https://github.com/EpicGames/OpenRigLogic,328,C++,SECURITY.md,
@@ -8040,13 +8040,9 @@ Datadog,HackerOne（Datadog）,DataDog,DataDog/guarddog,https://github.com/DataD
 Datadog,HackerOne（Datadog）,DataDog,DataDog/KubeHound,https://github.com/DataDog/KubeHound,1021,Go,SECURITY.md,Tool for building Kubernetes attack paths
 Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-go,https://github.com/DataDog/dd-trace-go,863,Go,SECURITY.md,"Datadog Go Library including APM tracing, profiling, and security monitoring."
 Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-js,https://github.com/DataDog/dd-trace-js,841,JavaScript,SECURITY.md,Datadog APM client for Node.js
-Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-java,https://github.com/DataDog/dd-trace-java,740,Java,SECURITY.md,Datadog APM client for Java
-Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-py,https://github.com/DataDog/dd-trace-py,654,Python,SECURITY.md,Datadog Python APM Client
 Datadog,HackerOne（Datadog）,DataDog,DataDog/orchestrion,https://github.com/DataDog/orchestrion,625,Go,SECURITY.md,Automatic compile-time instrumentation of Go code
 Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-dotnet,https://github.com/DataDog/dd-trace-dotnet,573,C#,docs/SECURITY.md,.NET Client Library for Datadog APM
-Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-php,https://github.com/DataDog/dd-trace-php,560,PHP,SECURITY.md,Datadog PHP Clients
 Datadog,HackerOne（Datadog）,DataDog,DataDog/yubikey,https://github.com/DataDog/yubikey,493,Shell,SECURITY.md,## Auto-archived due to inactivity. ## YubiKey at Datadog
-Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-rb,https://github.com/DataDog/dd-trace-rb,419,Ruby,SECURITY.md,Datadog's client library for Ruby
 Datadog,HackerOne（Datadog）,DataDog,DataDog/supply-chain-firewall,https://github.com/DataDog/supply-chain-firewall,404,Go,SECURITY.md,Supply Chain Firewall (SCFW) is a tool for preventing the installation of malicious npm and PyPI packages :fire:
 Datadog,HackerOne（Datadog）,DataDog,DataDog/pathfinding.cloud,https://github.com/DataDog/pathfinding.cloud,162,Python,SECURITY.md,An AWS IAM Privilege Escalation Path Library
 Datadog,HackerOne（Datadog）,DataDog,DataDog/java-reggie,https://github.com/DataDog/java-reggie,57,Java,SECURITY.md,"A novel, bytecode generation based Java regular expression library"
@@ -8068,6 +8064,10 @@ Datadog,HackerOne（Datadog）,DataDog,DataDog/httpd-datadog,https://github.com/
 Datadog,HackerOne（Datadog）,DataDog,DataDog/azure-log-forwarding-orchestration,https://github.com/DataDog/azure-log-forwarding-orchestration,4,Python,SECURITY.md,Azure LFO
 Datadog,HackerOne（Datadog）,DataDog,DataDog/graft-rb,https://github.com/DataDog/graft-rb,4,Ruby,docs/SECURITY.md,## Auto-archived due to inactivity. ## Generic vendor-independent hooking library for Ruby
 Datadog,HackerOne（Datadog）,DataDog,DataDog/gatekeeper,https://github.com/DataDog/gatekeeper,4,Go,SECURITY.md,Gatekeeper - Policy Controller for Kubernetes
+Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-php,https://github.com/DataDog/dd-trace-php,3,PHP,SECURITY.md,> Datadog PHP Clients
+Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-rb,https://github.com/DataDog/dd-trace-rb,3,Ruby,SECURITY.md,Datadog's client library for Ruby
+Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-py,https://github.com/DataDog/dd-trace-py,3,Python,SECURITY.md,> Datadog Python APM Client
+Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-trace-java,https://github.com/DataDog/dd-trace-java,3,Java,SECURITY.md,> Datadog APM client for Java
 Datadog,HackerOne（Datadog）,DataDog,DataDog/dd-instrument-java,https://github.com/DataDog/dd-instrument-java,3,Java,SECURITY.md,Datadog Instrumentation Helpers for Java
 Datadog,HackerOne（Datadog）,DataDog,DataDog/libdatadog-nodejs,https://github.com/DataDog/libdatadog-nodejs,3,JavaScript,SECURITY.md,libdatadog bindings for NodeJS
 Datadog,HackerOne（Datadog）,DataDog,DataDog/flask-realworld-example-app,https://github.com/DataDog/flask-realworld-example-app,3,Python,SECURITY.md,Exemplary real world JSON API built with Flask (Python)
@@ -9435,7 +9435,7 @@ CyberArk,Bugcrowd,cyberark,cyberark/oss-template,https://github.com/cyberark/oss
 CyberArk,Bugcrowd,cyberark,cyberark/conjur-instruqt,https://github.com/cyberark/conjur-instruqt,0,Shell,SECURITY.md,Instruqt Tutorials for Conjur.org
 F5,Bugcrowd,F5Networks,F5Networks/aip-to-sigma,https://github.com/F5Networks/aip-to-sigma,7,,SECURITY.md,AIP Rules Converted To The Sigma Format
 F5,Bugcrowd,F5Networks,F5Networks/terraform-provider-f5os,https://github.com/F5Networks/terraform-provider-f5os,5,Go,SECURITY.md,Terraform Provider F5OS used to manage F5OS platforms like Velos/rSeries
-F5,Bugcrowd,F5Networks,F5Networks/terraform-provider-f5ads,https://github.com/F5Networks/terraform-provider-f5ads,,Go,SECURITY.md,Terraform provider for F5 Application Delivery Service powered by NGINX (formerly NGINXaaS)
+F5,Bugcrowd,F5Networks,F5Networks/terraform-provider-f5ads,https://github.com/F5Networks/terraform-provider-f5ads,0,Go,SECURITY.md,Terraform provider for F5 Application Delivery Service powered by NGINX (formerly NGINXaaS)
 Dropbox,自建BB,dropbox,dropbox/dbxcli,https://github.com/dropbox/dbxcli,1173,Go,SECURITY.md,"A scriptable Dropbox CLI for files, shared links, teams, and automation workflows"
 Dropbox,自建BB,dropbox,dropbox/incubator-superset-internal,https://github.com/dropbox/incubator-superset-internal,12,TypeScript,.github/SECURITY.md,
 Dropbox,自建BB,dropbox,dropbox/agent-filesystem-samples,https://github.com/dropbox/agent-filesystem-samples,1,TypeScript,SECURITY.md,Sample apps and services for DBX Agent Filesystem
@@ -9484,7 +9484,7 @@ Adyen,自建BB,adyen,Adyen/adyen-pos-mobile-ios-test,https://github.com/Adyen/ad
 Adyen,自建BB,adyen,Adyen/.github,https://github.com/Adyen/.github,5,,SECURITY.md,Organization-wide community health files in the @adyen organization
 Adyen,自建BB,adyen,Adyen/adyen-issuing-ios,https://github.com/Adyen/adyen-issuing-ios,,,SECURITY.md,"Adyen Issuing SDK for iOS: Apple Wallet provisioning, card reveal, PIN management."
 Adyen,自建BB,adyen,adyen/.github,https://github.com/adyen/.github,,,SECURITY.md,
-Visa,自建BB,visa,visa/visa-vulnerability-agentic-harness,https://github.com/visa/visa-vulnerability-agentic-harness,3085,Python,SECURITY.md,Visa Vulnerability Agentic Harness
+Visa,自建BB,visa,visa/visa-vulnerability-agentic-harness,https://github.com/visa/visa-vulnerability-agentic-harness,3091,Python,SECURITY.md,Visa Vulnerability Agentic Harness
 Mastercard,自建BB,mastercard,Mastercard/terraform-provider-restapi,https://github.com/Mastercard/terraform-provider-restapi,931,Go,SECURITY.md,A terraform provider to manage objects in a RESTful API
 Mastercard,自建BB,mastercard,Mastercard/karate,https://github.com/Mastercard/karate,0,Java,SECURITY.md,Test Automation Made Simple
 Morgan Stanley,自建BB,morganstanley,morganstanley/hobbes,https://github.com/morganstanley/hobbes,1234,C,SECURITY.md,A language and an embedded JIT compiler
@@ -9710,9 +9710,9 @@ Avast,自建BB,avast,avast/tlshc,https://github.com/avast/tlshc,6,C,SECURITY.md,
 Check Point,自建BB,CheckPointSW,CheckPointSW/pint-benchmark,https://github.com/CheckPointSW/pint-benchmark,2,Jupyter Notebook,SECURITY.md,A benchmark for prompt injection detection systems.
 Check Point,自建BB,CheckPointSW,CheckPointSW/workforce-ai-mcp,https://github.com/CheckPointSW/workforce-ai-mcp,2,TypeScript,SECURITY.md,Official Check Point MCP server for managing Workforce AI & Browse Security through LLM tool calls
 Check Point,自建BB,CheckPointSW,CheckPointSW/ai-security-js-ts-sdk,https://github.com/CheckPointSW/ai-security-js-ts-sdk,1,Mustache,SECURITY.md,Official Check Point JavaScript/TypeScript SDK for the Workforce AI Security APIs.
-Check Point,自建BB,CheckPointSW,CheckPointSW/terraform-provider-checkpoint-workforce-ai,https://github.com/CheckPointSW/terraform-provider-checkpoint-workforce-ai,,Go,SECURITY.md,Terraform provider for managing Check Point AI Security and Browse Security policies as code.
-Check Point,自建BB,CheckPointSW,CheckPointSW/terraform-provider-checkpoint-wai-tests,https://github.com/CheckPointSW/terraform-provider-checkpoint-wai-tests,,Go,SECURITY.md,Terraform provider for managing Check Point AI Security and Browse Security policies as code.
-Check Point,自建BB,CheckPointSW,CheckPointSW/ai-security-py-sdk,https://github.com/CheckPointSW/ai-security-py-sdk,,Python,SECURITY.md,Official Check Point Python SDK for the Workforce AI Security APIs
+Check Point,自建BB,CheckPointSW,CheckPointSW/terraform-provider-checkpoint-workforce-ai,https://github.com/CheckPointSW/terraform-provider-checkpoint-workforce-ai,0,Go,SECURITY.md,Terraform provider for managing Check Point AI Security and Browse Security policies as code.
+Check Point,自建BB,CheckPointSW,CheckPointSW/terraform-provider-checkpoint-wai-tests,https://github.com/CheckPointSW/terraform-provider-checkpoint-wai-tests,0,Go,SECURITY.md,Terraform provider for managing Check Point AI Security and Browse Security policies as code.
+Check Point,自建BB,CheckPointSW,CheckPointSW/ai-security-py-sdk,https://github.com/CheckPointSW/ai-security-py-sdk,0,Python,SECURITY.md,Official Check Point Python SDK for the Workforce AI Security APIs
 Nubank,自建BB,nubank,nubank/matcher-combinators,https://github.com/nubank/matcher-combinators,547,Clojure,SECURITY.md,Library for creating matcher combinator to compare nested data structures
 Nubank,自建BB,nubank,nubank/workspaces,https://github.com/nubank/workspaces,520,Clojure,SECURITY.md,Live development environment for Clojurescript
 Nubank,自建BB,nubank,nubank/morse,https://github.com/nubank/morse,407,JavaScript,SECURITY.md,"A graphical, interactive tool for browsing Clojure data"

@@ -8,7 +8,9 @@
   "stars": 7,
   "language": null,
   "description": "AIP Rules Converted To The Sigma Format",
-  "first_seen": "2026-11-01 16:34:35"
+  "license": null,
+  "first_seen": "2026-11-01 16:34:35",
+  "last_verified": "2026-11-15 01:33:29"
  },
  {
   "vendor": "F5",
@@ -19,7 +21,9 @@
   "stars": 5,
   "language": "Go",
   "description": "Terraform Provider F5OS used to manage F5OS platforms like Velos/rSeries",
-  "first_seen": "2026-11-01 16:34:35"
+  "license": null,
+  "first_seen": "2026-11-01 16:34:35",
+  "last_verified": "2026-11-15 01:33:29"
  },
  {
   "vendor": "F5",
@@ -27,9 +31,11 @@
   "full_name": "F5Networks/terraform-provider-f5ads",
   "url": "https://github.com/F5Networks/terraform-provider-f5ads",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Terraform provider for F5 Application Delivery Service powered by NGINX (formerly NGINXaaS)",
-  "first_seen": "2026-11-01 16:34:35"
+  "license": null,
+  "first_seen": "2026-11-01 16:34:35",
+  "last_verified": "2026-11-15 01:33:29"
  }
 ]

@@ -8,7 +8,9 @@
   "stars": 2,
   "language": "Jupyter Notebook",
   "description": "A benchmark for prompt injection detection systems.",
-  "first_seen": "2026-11-01 16:27:03"
+  "license": null,
+  "first_seen": "2026-11-01 16:27:03",
+  "last_verified": "2026-11-15 01:32:09"
  },
  {
   "vendor": "Check Point",
@@ -19,7 +21,9 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "Official Check Point MCP server for managing Workforce AI & Browse Security through LLM tool calls",
-  "first_seen": "2026-11-01 16:27:03"
+  "license": null,
+  "first_seen": "2026-11-01 16:27:03",
+  "last_verified": "2026-11-15 01:32:09"
  },
  {
   "vendor": "Check Point",
@@ -30,7 +34,9 @@
   "stars": 1,
   "language": "Mustache",
   "description": "Official Check Point JavaScript/TypeScript SDK for the Workforce AI Security APIs.",
-  "first_seen": "2026-11-01 16:27:03"
+  "license": null,
+  "first_seen": "2026-11-01 16:27:03",
+  "last_verified": "2026-11-15 01:32:09"
  },
  {
   "vendor": "Check Point",
@@ -38,10 +44,12 @@
   "full_name": "CheckPointSW/terraform-provider-checkpoint-workforce-ai",
   "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint-workforce-ai",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Terraform provider for managing Check Point AI Security and Browse Security policies as code.",
-  "first_seen": "2026-11-01 16:27:03"
+  "license": null,
+  "first_seen": "2026-11-01 16:27:03",
+  "last_verified": "2026-11-15 01:32:09"
  },
  {
   "vendor": "Check Point",
@@ -49,10 +57,12 @@
   "full_name": "CheckPointSW/terraform-provider-checkpoint-wai-tests",
   "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint-wai-tests",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Terraform provider for managing Check Point AI Security and Browse Security policies as code.",
-  "first_seen": "2026-11-01 16:27:03"
+  "license": null,
+  "first_seen": "2026-11-01 16:27:03",
+  "last_verified": "2026-11-15 01:32:09"
  },
  {
   "vendor": "Check Point",
@@ -60,9 +70,11 @@
   "full_name": "CheckPointSW/ai-security-py-sdk",
   "url": "https://github.com/CheckPointSW/ai-security-py-sdk",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "Official Check Point Python SDK for the Workforce AI Security APIs",
-  "first_seen": "2026-11-01 16:27:03"
+  "license": null,
+  "first_seen": "2026-11-01 16:27:03",
+  "last_verified": "2026-11-15 01:32:09"
  }
 ]

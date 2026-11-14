@@ -57,28 +57,6 @@
  {
   "vendor": "Datadog",
   "org": "DataDog",
-  "full_name": "DataDog/dd-trace-java",
-  "url": "https://github.com/DataDog/dd-trace-java",
-  "sec_path": "SECURITY.md",
-  "stars": 740,
-  "language": "Java",
-  "description": "Datadog APM client for Java",
-  "first_seen": "2026-11-01 16:28:50"
- },
- {
-  "vendor": "Datadog",
-  "org": "DataDog",
-  "full_name": "DataDog/dd-trace-py",
-  "url": "https://github.com/DataDog/dd-trace-py",
-  "sec_path": "SECURITY.md",
-  "stars": 654,
-  "language": "Python",
-  "description": "Datadog Python APM Client",
-  "first_seen": "2026-11-01 16:28:50"
- },
- {
-  "vendor": "Datadog",
-  "org": "DataDog",
   "full_name": "DataDog/orchestrion",
   "url": "https://github.com/DataDog/orchestrion",
   "sec_path": "SECURITY.md",
@@ -101,17 +79,6 @@
  {
   "vendor": "Datadog",
   "org": "DataDog",
-  "full_name": "DataDog/dd-trace-php",
-  "url": "https://github.com/DataDog/dd-trace-php",
-  "sec_path": "SECURITY.md",
-  "stars": 560,
-  "language": "PHP",
-  "description": "Datadog PHP Clients",
-  "first_seen": "2026-11-01 16:28:50"
- },
- {
-  "vendor": "Datadog",
-  "org": "DataDog",
   "full_name": "DataDog/yubikey",
   "url": "https://github.com/DataDog/yubikey",
   "sec_path": "SECURITY.md",
@@ -119,17 +86,6 @@
   "language": "Shell",
   "description": "## Auto-archived due to inactivity. ## YubiKey at Datadog",
   "first_seen": "2026-11-01 16:30:54"
- },
- {
-  "vendor": "Datadog",
-  "org": "DataDog",
-  "full_name": "DataDog/dd-trace-rb",
-  "url": "https://github.com/DataDog/dd-trace-rb",
-  "sec_path": "SECURITY.md",
-  "stars": 419,
-  "language": "Ruby",
-  "description": "Datadog's client library for Ruby",
-  "first_seen": "2026-11-01 16:28:50"
  },
  {
   "vendor": "Datadog",
@@ -362,6 +318,58 @@
   "language": "Go",
   "description": "Gatekeeper - Policy Controller for Kubernetes",
   "first_seen": "2026-11-01 16:33:04"
+ },
+ {
+  "vendor": "Datadog",
+  "org": "DataDog",
+  "full_name": "DataDog/dd-trace-php",
+  "url": "https://github.com/DataDog/dd-trace-php",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "PHP",
+  "description": "> Datadog PHP Clients",
+  "license": null,
+  "first_seen": "2026-11-01 16:28:50",
+  "last_verified": "2026-11-15 01:33:16"
+ },
+ {
+  "vendor": "Datadog",
+  "org": "DataDog",
+  "full_name": "DataDog/dd-trace-rb",
+  "url": "https://github.com/DataDog/dd-trace-rb",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Ruby",
+  "description": "Datadog's client library for Ruby",
+  "license": null,
+  "first_seen": "2026-11-01 16:28:50",
+  "last_verified": "2026-11-15 01:33:16"
+ },
+ {
+  "vendor": "Datadog",
+  "org": "DataDog",
+  "full_name": "DataDog/dd-trace-py",
+  "url": "https://github.com/DataDog/dd-trace-py",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "> Datadog Python APM Client",
+  "license": null,
+  "first_seen": "2026-11-01 16:28:50",
+  "last_verified": "2026-11-15 01:33:16"
+ },
+ {
+  "vendor": "Datadog",
+  "org": "DataDog",
+  "full_name": "DataDog/dd-trace-java",
+  "url": "https://github.com/DataDog/dd-trace-java",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "> Datadog APM client for Java",
+  "license": null,
+  "first_seen": "2026-11-01 16:28:50",
+  "last_verified": "2026-11-15 01:33:16"
  },
  {
   "vendor": "Datadog",
