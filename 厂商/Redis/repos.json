@@ -5,11 +5,12 @@
   "full_name": "redis/redis",
   "url": "https://github.com/redis/redis",
   "sec_path": "SECURITY.md",
-  "stars": 77486,
+  "stars": 77494,
   "language": "C",
   "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -17,11 +18,12 @@
   "full_name": "redis/go-redis",
   "url": "https://github.com/redis/go-redis",
   "sec_path": "SECURITY.md",
-  "stars": 22292,
+  "stars": 22289,
   "language": "Go",
   "description": "Redis Go client",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -29,11 +31,12 @@
   "full_name": "redis/node-redis",
   "url": "https://github.com/redis/node-redis",
   "sec_path": "SECURITY.md",
-  "stars": 17596,
+  "stars": 17595,
   "language": "TypeScript",
   "description": "Redis Node.js client",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -41,11 +44,12 @@
   "full_name": "redis/ioredis",
   "url": "https://github.com/redis/ioredis",
   "sec_path": "SECURITY.md",
-  "stars": 15354,
+  "stars": 15355,
   "language": "TypeScript",
   "description": "🚀 A robust, performance-focused, and full-featured Redis client for Node.js.",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -53,11 +57,12 @@
   "full_name": "redis/jedis",
   "url": "https://github.com/redis/jedis",
   "sec_path": "SECURITY.md",
-  "stars": 12376,
+  "stars": 12377,
   "language": "Java",
   "description": "Redis Java client",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -65,11 +70,12 @@
   "full_name": "redis/hiredis",
   "url": "https://github.com/redis/hiredis",
   "sec_path": "SECURITY.md",
-  "stars": 6693,
+  "stars": 6694,
   "language": "C",
   "description": "Minimalistic C client for Redis >= 1.2",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -77,11 +83,12 @@
   "full_name": "redis/lettuce",
   "url": "https://github.com/redis/lettuce",
   "sec_path": ".github/SECURITY.md",
-  "stars": 5787,
+  "stars": 5786,
   "language": "Java",
   "description": "Redis Java client",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -93,7 +100,8 @@
   "language": "C",
   "description": "Python wrapper for hiredis",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -105,7 +113,8 @@
   "language": "Python",
   "description": "FastAPI SDK for Redis",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -117,7 +126,8 @@
   "language": "C#",
   "description": "Redis Stack .Net client",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -129,7 +139,8 @@
   "language": "Shell",
   "description": "Debian packaging",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -141,7 +152,8 @@
   "language": "Rust",
   "description": "Unified CLI for Redis Cloud and Enterprise management",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -153,7 +165,8 @@
   "language": "Go",
   "description": "Redis Vector Library (RedisVL) — the AI-native Golang client for Redis.",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -165,7 +178,8 @@
   "language": "HCL",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -188,7 +202,8 @@
   "language": "C",
   "description": "Used by automation (GH app)",
   "license": null,
-  "first_seen": "2026-11-01 23:32:38"
+  "first_seen": "2026-11-01 23:32:38",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",
@@ -200,7 +215,8 @@
   "language": "TypeScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-04 22:03:50"
+  "first_seen": "2026-11-04 22:03:50",
+  "last_verified": "2026-11-14 23:35:00"
  },
  {
   "vendor": "Redis",

@@ -5,11 +5,12 @@
   "full_name": "qualcomm/GenieX",
   "url": "https://github.com/qualcomm/GenieX",
   "sec_path": "SECURITY.md",
-  "stars": 8521,
+  "stars": 8527,
   "language": "Go",
   "description": "Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -21,7 +22,8 @@
   "language": "C++",
   "description": "Hexagon-MLIR is a compiler toolchain for compiling and executing AI kernels and models on Qualcomm Hexagon Neural Processing Units (NPUs).",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -33,7 +35,21 @@
   "language": "Python",
   "description": "This library empowers users to seamlessly port pretrained models and checkpoints on the HuggingFace (HF) hub (developed using HF transformers library) into infe…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
+ },
+ {
+  "vendor": "高通",
+  "org": "qualcomm",
+  "full_name": "qualcomm/qdlrs",
+  "url": "https://github.com/qualcomm/qdlrs",
+  "sec_path": "SECURITY.md",
+  "stars": 87,
+  "language": "Rust",
+  "description": "Device flashing utility and library",
+  "license": null,
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -45,31 +61,21 @@
   "language": "Jupyter Notebook",
   "description": "Qualcomm Cloud AI SDK (Platform and Apps) enable high performance deep learning inference on Qualcomm Cloud AI platforms delivering high throughput and low late…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
- },
- {
-  "vendor": "高通",
-  "org": "qualcomm",
-  "full_name": "qualcomm/qdlrs",
-  "url": "https://github.com/qualcomm/qdlrs",
-  "sec_path": "SECURITY.md",
-  "stars": 86,
-  "language": "Rust",
-  "description": "Device flashing utility and library",
-  "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
   "org": "qualcomm",
   "full_name": "qualcomm/qcom-usb-kernel-drivers",
   "url": "https://github.com/qualcomm/qcom-usb-kernel-drivers",
-  "sec_path": "SECURITY.md",
+  "sec_path": ".github/SECURITY.md",
   "stars": 62,
   "language": "C",
   "description": "Qualcomm kernel drivers provide logical representations of Qualcomm chipset-enabled mobile devices over USB connections. This repository includes source code, b…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -77,11 +83,12 @@
   "full_name": "qualcomm/PatchWise",
   "url": "https://github.com/qualcomm/PatchWise",
   "sec_path": "SECURITY.md",
-  "stars": 52,
+  "stars": 53,
   "language": "Python",
   "description": "PatchWise automates patch review and static analysis for the Linux kernel, streamlining upstream contributions and ensuring code quality.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -93,7 +100,8 @@
   "language": "C++",
   "description": "The plugins of crash-utility",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -105,7 +113,8 @@
   "language": "Haskell",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -117,7 +126,8 @@
   "language": "LLVM",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -129,7 +139,8 @@
   "language": "C++",
   "description": "QCNode is Qualcomm's next-generation ADAS Hardware Abstraction Layer (HAL). It provides a set of user-friendly APIs that abstract the complexities of interactin…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -141,7 +152,8 @@
   "language": "C++",
   "description": "Software kit for Qualcomm Cloud AI 100",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -153,7 +165,8 @@
   "language": "C++",
   "description": "LLM inference in C/C++",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -165,7 +178,8 @@
   "language": "Python",
   "description": "Qaic plugin backend for vllm to utilize Cloud AI accelerators",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -177,7 +191,8 @@
   "language": "C++",
   "description": "use of namespaces for run-time isolation of applications",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -189,7 +204,8 @@
   "language": "C",
   "description": "Libraries that implement and clients that utilize the Mink-IPC interface",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -201,7 +217,8 @@
   "language": "C",
   "description": "libqcperf is a lightweight, open‑source library for profiling system performance metrics. It enables flexible trace collection across diverse metrics, easy exte…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -213,7 +230,8 @@
   "language": "C++",
   "description": "Software kit for Qualcomm Cloud AI 100 cc",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -225,7 +243,8 @@
   "language": "C",
   "description": "Qualcomm® IM SDK provides hardware-accelerated GStreamer plugins and reference apps for multimedia development, along with AI SDK integrations like Neural Proce…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -237,7 +256,8 @@
   "language": "C++",
   "description": "Lightweight 3D Gaussian Splat Codec",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -249,7 +269,8 @@
   "language": "C++",
   "description": "QHWI (Qualcomm Hardware Interface) is a modern, high performance graphics API abstraction library over multiple graphics backends",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -261,7 +282,8 @@
   "language": "C",
   "description": "Hexagon Hypervisor (AKA h2) is a light weight OS / Hypervisor for the Qualcomm Hexagon processor family",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -273,7 +295,8 @@
   "language": "Java",
   "description": "Sample code for 3rd party developers working on Android On Snapdragon",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -285,7 +308,8 @@
   "language": "JavaScript",
   "description": "Catalog of projects that build upon Qualcomm's platforms",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -297,7 +321,8 @@
   "language": "C",
   "description": "Test programs to exercise QEMU hexagon",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -309,7 +334,8 @@
   "language": "Rust",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -321,7 +347,8 @@
   "language": "TypeScript",
   "description": "Qualcomm UI component library ",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -333,7 +360,8 @@
   "language": "C++",
   "description": "Perform power off, power on, EDL, UEFI and more on Qualcomm devices remotely using debug board",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -345,19 +373,21 @@
   "language": "C++",
   "description": "Userspace Resource Manager: System Resource Provisioning Framework",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
   "org": "qualcomm",
   "full_name": "qualcomm/qcom-usb-userspace-drivers",
   "url": "https://github.com/qualcomm/qcom-usb-userspace-drivers",
-  "sec_path": "SECURITY.md",
+  "sec_path": ".github/SECURITY.md",
   "stars": 10,
   "language": "Shell",
   "description": "Qualcomm Userspace drivers provides logical representations of Qualcomm chipset-enabled mobile devices over USB connection. The drivers support Windows & Linux …",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -369,7 +399,8 @@
   "language": "C++",
   "description": "Initial geniex-qairt-plugin",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -381,7 +412,8 @@
   "language": "C++",
   "description": "QRE (pronounced \"core\") is a supplement to the C/C++ standard libraries that provides additional containers and support functions specifically designed for use …",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -393,7 +425,8 @@
   "language": "C++",
   "description": "Enables power measurement features that are available through debug board with PSOC chipset  ",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -405,7 +438,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -417,7 +451,8 @@
   "language": "C",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -429,7 +464,8 @@
   "language": "C++",
   "description": "Camera Service : It provides a camera service that loads the CamX libraries to interact with the camera hardware module. Additionally, it offers client APIs for…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -441,7 +477,8 @@
   "language": "C++",
   "description": "Qualcomm Image Loader (QIL) is a lightweight tool for flashing the Qualcomm software builds/images to the hardware. ",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -453,7 +490,8 @@
   "language": "HTML",
   "description": "Sample code from various blog posts about our cloud AI inference cards and software",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -465,7 +503,8 @@
   "language": "C",
   "description": "This is for imsdk agentic skills",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -477,7 +516,8 @@
   "language": "C",
   "description": "A Simple Lightweight NPU Metrics collection Library",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -489,7 +529,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -501,7 +542,8 @@
   "language": "Python",
   "description": "Qualcomm reusable workflows",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -513,7 +555,8 @@
   "language": "C++",
   "description": "A MLIR-based compilation stack targeting ARM64 ISA for high performance AI/ML kernel and models.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -525,7 +568,8 @@
   "language": "LLVM",
   "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -537,7 +581,8 @@
   "language": "Python",
   "description": "License Checker",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -549,7 +594,8 @@
   "language": "C++",
   "description": "A high-performance C++ library for multimodal data preprocessing, designed to efficiently prepare image, audio, video, and text data for local inference models …",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -561,7 +607,8 @@
   "language": "C++",
   "description": "Userspace Resource Manager Extensions: Extension Configs & Plugins",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -573,7 +620,8 @@
   "language": "C",
   "description": "device tree framework",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -585,7 +633,8 @@
   "language": "SystemVerilog",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -597,7 +646,8 @@
   "language": "Python",
   "description": "EasyWoS is An end‑to‑end agentic solution for scalable, efficient, high‑quality code porting and performance optimization on Windows on Snapdragon.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -609,7 +659,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -621,7 +672,8 @@
   "language": "Python",
   "description": "Lightweight device tree editor for Qualcomm config-ELF containers",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -633,7 +685,21 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
+ },
+ {
+  "vendor": "高通",
+  "org": "qualcomm",
+  "full_name": "qualcomm/.github",
+  "url": "https://github.com/qualcomm/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "C",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 12:55:37"
  },
  {
   "vendor": "高通",
@@ -645,7 +711,8 @@
   "language": "C++",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -657,7 +724,8 @@
   "language": "Python",
   "description": "GUI tool for editing Qualcomm NonHLOS device tree blob elf files.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -669,7 +737,8 @@
   "language": "Rust",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -681,7 +750,8 @@
   "language": "Jupyter Notebook",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -693,7 +763,8 @@
   "language": "C++",
   "description": "Behavior Tree visualisation and monitoring plugin for RVIZ",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -705,7 +776,8 @@
   "language": "C++",
   "description": "Intercept Layer for Debugging and Analyzing OpenCL Applications",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -717,7 +789,8 @@
   "language": "Rust",
   "description": "QEMU TCG plugin for profiling",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -729,7 +802,8 @@
   "language": "TypeScript",
   "description": "Qualcomm UI Utilities ",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -741,7 +815,8 @@
   "language": "C++",
   "description": "This repository is a read-only mirror of https://gitlab.arm.com/kleidi/kleidiai",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -753,7 +828,8 @@
   "language": "TypeScript",
   "description": "AI-Harness: More convenient, secure, and cost‑efficient hybrid AI Personal AI Assistant based on OpenClaw",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -765,7 +841,8 @@
   "language": null,
   "description": "Hosts Qualcomm Trusted Execution Environment supported Trusted Application",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -777,7 +854,8 @@
   "language": "C++",
   "description": "Qualcomm Diagnostic Log Collector — a tool for collecting diagnostic data from Qualcomm-based devices",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -789,7 +867,8 @@
   "language": "Makefile",
   "description": "Qualcomm's non-Standard Extensions to RISC-V ELF psABI",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -801,7 +880,8 @@
   "language": "C++",
   "description": "Tool to collect the memory dump from devices.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -813,7 +893,8 @@
   "language": "Python",
   "description": "WoS Porter is an AI-powered VS Code Copilot extension and Claude Code plugin for porting x64 Windows projects to native ARM64. It automates code and build syste…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -825,7 +906,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -837,7 +919,8 @@
   "language": null,
   "description": "GitHub Actions information and workflows for Qualcomm",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -849,7 +932,8 @@
   "language": "Rust",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -861,7 +945,8 @@
   "language": "C#",
   "description": "This project adds input and interaction providers to MRTK2 to support additional OpenXR platforms, including Android XR devices.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -873,7 +958,8 @@
   "language": "Python",
   "description": "LangChain integration with Qualcomm AI Inference Suite",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -885,7 +971,8 @@
   "language": "C",
   "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -897,7 +984,8 @@
   "language": "Python",
   "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -909,7 +997,8 @@
   "language": "TypeScript",
   "description": "Qualcomm UI Template Applications",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -921,7 +1010,8 @@
   "language": null,
   "description": "Contains patch files for GStreamer opensource plugins, introducing enhancements, fixes and support for Qualcomm specific pixel formats.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -933,7 +1023,8 @@
   "language": "Python",
   "description": "A GitHub Action for Qualcomm projects that validates commit message formatting",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -945,7 +1036,8 @@
   "language": "Python",
   "description": "GitHub action to enforce repository policy",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -957,7 +1049,8 @@
   "language": null,
   "description": "Qualcomm Enterprise Workflows",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -969,7 +1062,8 @@
   "language": null,
   "description": "Agent Skills for Qualcomm products. These skills can be installed into coding agents to run Qualcomm Product specific workflows.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -981,7 +1075,8 @@
   "language": null,
   "description": "Template Repository for Qualcomm Open Source Projects",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -993,7 +1088,8 @@
   "language": "C",
   "description": "Provides source and binaries for enabling CAN HW present in RTSS present on Qualcomm SoC",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -1005,7 +1101,8 @@
   "language": "C",
   "description": "Dependencies for Qualcomm Platforms on edk2-platforms repository",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -1017,20 +1114,8 @@
   "language": null,
   "description": "Repository to house Security Profiles.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
- },
- {
-  "vendor": "高通",
-  "org": "qualcomm",
-  "full_name": "qualcomm/.github",
-  "url": "https://github.com/qualcomm/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
   "first_seen": "2026-11-01 23:27:54",
-  "last_verified": "2026-11-14 12:55:37"
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -1042,7 +1127,8 @@
   "language": "HTML",
   "description": "This container is to Host the webserver we've made for the VLM wall demo. We plan to use this project to enhance/host webservers for imsdk and possibly microser…",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -1054,7 +1140,8 @@
   "language": null,
   "description": "This project is used to release voice samples dataset we use in voiceai models",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -1066,7 +1153,8 @@
   "language": "Shell",
   "description": "Qualcomm early boot optimizations for display, camera, and audio subsystems",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:18"
  },
  {
   "vendor": "高通",
@@ -1078,7 +1166,8 @@
   "language": null,
   "description": "Reference assets for qhwi repo tests.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  },
  {
   "vendor": "高通",
@@ -1090,7 +1179,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -1102,7 +1192,8 @@
   "language": "Python",
   "description": "An agent skill to help users enable build configuration on windows on arm64.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -1114,7 +1205,8 @@
   "language": "Python",
   "description": "Fork of the public makeelf (ELF reader-writer library for Python3) repository.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:11"
  },
  {
   "vendor": "高通",
@@ -1126,7 +1218,8 @@
   "language": "C++",
   "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:05"
  },
  {
   "vendor": "高通",
@@ -1138,6 +1231,7 @@
   "language": "C++",
   "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
   "license": null,
-  "first_seen": "2026-11-01 23:27:54"
+  "first_seen": "2026-11-01 23:27:54",
+  "last_verified": "2026-11-14 23:34:14"
  }
 ]

@@ -18,11 +18,12 @@
   "full_name": "prometheus/prometheus",
   "url": "https://github.com/prometheus/prometheus",
   "sec_path": "SECURITY.md",
-  "stars": 67599,
+  "stars": 67602,
   "language": "Go",
   "description": "The Prometheus monitoring system and time series database.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -169,11 +170,12 @@
   "full_name": "prometheus/node_exporter",
   "url": "https://github.com/prometheus/node_exporter",
   "sec_path": "SECURITY.md",
-  "stars": 13923,
+  "stars": 13927,
   "language": "Go",
   "description": "Exporter for machine metrics",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -263,7 +265,8 @@
   "language": "Go",
   "description": "Prometheus Alertmanager",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -301,7 +304,8 @@
   "language": "Go",
   "description": "Prometheus instrumentation library for Go applications",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -313,7 +317,8 @@
   "language": "Go",
   "description": "Blackbox prober exporter",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -377,7 +382,8 @@
   "language": "Python",
   "description": "Prometheus instrumentation library for Python applications",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -439,7 +445,8 @@
   "language": "JavaScript",
   "description": "Prometheus client for node.js",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -464,7 +471,8 @@
   "language": "Go",
   "description": "Push acceptor for ephemeral and batch jobs.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -476,7 +484,8 @@
   "language": "Java",
   "description": "A process for collecting metrics using JMX MBeans for Prometheus consumption",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -534,11 +543,12 @@
   "full_name": "prometheus/OpenMetrics",
   "url": "https://github.com/prometheus/OpenMetrics",
   "sec_path": "SECURITY.md",
-  "stars": 2543,
+  "stars": 2544,
   "language": "Go",
   "description": "Evolving the Prometheus exposition format into a standard.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -550,7 +560,8 @@
   "language": "Go",
   "description": "Exporter for MySQL server metrics",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -569,11 +580,12 @@
   "full_name": "prometheus/client_java",
   "url": "https://github.com/prometheus/client_java",
   "sec_path": "SECURITY.md",
-  "stars": 2291,
+  "stars": 2292,
   "language": "Java",
   "description": "Prometheus instrumentation library for JVM applications",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -594,11 +606,12 @@
   "full_name": "prometheus/snmp_exporter",
   "url": "https://github.com/prometheus/snmp_exporter",
   "sec_path": "SECURITY.md",
-  "stars": 2199,
+  "stars": 2200,
   "language": "Go",
   "description": "SNMP Exporter for Prometheus",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -662,7 +675,8 @@
   "language": "Go",
   "description": "StatsD to Prometheus metrics exporter",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -687,7 +701,8 @@
   "language": "Java",
   "description": "Metrics exporter for Amazon AWS CloudWatch",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -725,7 +740,8 @@
   "language": "Go",
   "description": "procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -761,7 +777,8 @@
   "language": "TypeScript",
   "description": "Prometheus documentation: content and static site generator",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -786,7 +803,8 @@
   "language": "TypeScript",
   "description": "PromLens – The query builder, analyzer, and explainer for PromQL",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -811,7 +829,8 @@
   "language": "Go",
   "description": "Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -823,7 +842,8 @@
   "language": "Rust",
   "description": "Prometheus / OpenMetrics client library in Rust",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -887,7 +907,8 @@
   "language": "Ruby",
   "description": "Prometheus instrumentation library for Ruby applications",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -951,7 +972,8 @@
   "language": "Go",
   "description": "Exporter for Consul metrics",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -976,7 +998,8 @@
   "language": "Go",
   "description": "A tool to scrape a Prometheus client and dump the result as JSON.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -988,7 +1011,8 @@
   "language": "Go",
   "description": "Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1039,7 +1063,8 @@
   "language": "Go",
   "description": "Utility package to build exporters",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1060,11 +1085,12 @@
   "full_name": "prometheus/common",
   "url": "https://github.com/prometheus/common",
   "sec_path": "SECURITY.md",
-  "stars": 297,
+  "stars": 296,
   "language": "Go",
   "description": "Go libraries shared across Prometheus components and libraries.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1076,7 +1102,8 @@
   "language": "Go",
   "description": "A server that accepts InfluxDB metrics via the HTTP API and exports them via HTTP for Prometheus consumption",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1088,7 +1115,8 @@
   "language": "Go",
   "description": "Prometheus Utility Tool",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1126,7 +1154,8 @@
   "language": "Go",
   "description": "A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1164,7 +1193,8 @@
   "language": "Go",
   "description": "Exports metrics from memcached servers for consumption by Prometheus.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1215,7 +1245,8 @@
   "language": "Go",
   "description": "Prometheus E2E benchmarking tool",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1227,7 +1258,8 @@
   "language": "Go",
   "description": "A set of tests to check compliance with various Prometheus interfaces",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1252,7 +1284,8 @@
   "language": "Go",
   "description": "MCP server for LLMs to interact with Prometheus",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1264,7 +1297,8 @@
   "language": "HTML",
   "description": "Demo site auto-deployed with Ansible.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1302,7 +1336,8 @@
   "language": "Shell",
   "description": "Nagios plugins for alerting on Prometheus query results",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1366,7 +1401,8 @@
   "language": "Makefile",
   "description": "Data model artifacts for Prometheus.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1378,7 +1414,8 @@
   "language": "Shell",
   "description": "Prometheus Golang builder Docker images",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1455,7 +1492,8 @@
   "language": "TypeScript",
   "description": "PromQL support for the CodeMirror code editor",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1467,7 +1505,8 @@
   "language": "Makefile",
   "description": "Prometheus Busybox Docker base images",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1479,7 +1518,8 @@
   "language": "Ruby",
   "description": "A Ruby library for reading metrics stored on a Prometheus server",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1517,7 +1557,8 @@
   "language": "Shell",
   "description": "Design documents for Prometheus Ecosystem",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1542,7 +1583,8 @@
   "language": null,
   "description": "Track Prometheus talks",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1567,7 +1609,8 @@
   "language": "Go",
   "description": "Library to translate OTLP metric and attribute names to Prometheus metric and label names.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1605,7 +1648,8 @@
   "language": "JavaScript",
   "description": "A lezer-based PromQL grammar",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1643,7 +1687,8 @@
   "language": "Go",
   "description": "[EXPERIMENTAL] A Prometheus-branded OpenTelemetry Collector distribution.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1655,7 +1700,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1693,7 +1739,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1705,7 +1752,8 @@
   "language": "Go",
   "description": "A http.RoundTripper that will sign requests using Amazon's Signature Verification V4 signing procedure",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1717,7 +1765,8 @@
   "language": "Go",
   "description": "[EXPERIMENTAL] An adapter between client_golang's registry and OTel Collector's Receiver Interfaces",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1729,7 +1778,8 @@
   "language": "Shell",
   "description": "GitHub Actions repository",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1741,7 +1791,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:43"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1766,7 +1817,8 @@
   "language": "Go",
   "description": "Kubernetes Demo Site",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1778,7 +1830,8 @@
   "language": "Go",
   "description": "Cloudflare Access authentication for Prometheus HTTP clients.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1790,7 +1843,8 @@
   "language": null,
   "description": "Prometheus CI Setup",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1802,7 +1856,8 @@
   "language": null,
   "description": "GitHub Actions for handling container images.",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1879,7 +1934,8 @@
   "language": null,
   "description": "GitHub Actions for artifact persistence between jobs",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:39"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1891,7 +1947,8 @@
   "language": null,
   "description": "Project metadata for prometheus - CNCF .project automation",
   "license": null,
-  "first_seen": "2026-11-01 23:27:06"
+  "first_seen": "2026-11-01 23:27:06",
+  "last_verified": "2026-11-14 23:33:33"
  },
  {
   "vendor": "CNCF云原生基金会",
