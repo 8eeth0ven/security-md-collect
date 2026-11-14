@@ -886,17 +886,6 @@
  },
  {
   "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-sdk-for-net",
-  "url": "https://github.com/Azure/azure-sdk-for-net",
-  "sec_path": "SECURITY.md",
-  "stars": 6073,
-  "language": "C#",
-  "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.m…",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/TokenEconomizer",
   "url": "https://github.com/microsoft/TokenEconomizer",
@@ -1064,17 +1053,6 @@
   "description": "Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-powershell",
-  "url": "https://github.com/Azure/azure-powershell",
-  "sec_path": "SECURITY.md",
-  "stars": 4813,
-  "language": "C#",
-  "description": "Microsoft Azure PowerShell",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -3069,17 +3047,6 @@
  },
  {
   "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/agent-landing-zone",
-  "url": "https://github.com/Azure/agent-landing-zone",
-  "sec_path": "SECURITY.md",
-  "stars": 1204,
-  "language": "Python",
-  "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Microsoft Foundry and Micr…",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/aspire-samples",
   "url": "https://github.com/microsoft/aspire-samples",
@@ -4946,17 +4913,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/Azure-Verified-Modules",
-  "url": "https://github.com/Azure/Azure-Verified-Modules",
-  "sec_path": "SECURITY.md",
-  "stars": 591,
-  "language": "PowerShell",
-  "description": "Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Modules will then a…",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/kubelogin",
   "url": "https://github.com/Azure/kubelogin",
   "sec_path": "SECURITY.md",
@@ -5886,17 +5842,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/azure-container-networking",
-  "url": "https://github.com/Azure/azure-container-networking",
-  "sec_path": "SECURITY.md",
-  "stars": 438,
-  "language": "Go",
-  "description": "Azure Container Networking Solutions for Linux and Windows Containers",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/azure-iot-sdk-python",
   "url": "https://github.com/Azure/azure-iot-sdk-python",
   "sec_path": "SECURITY.md",
@@ -6457,17 +6402,6 @@
   "stars": 358,
   "language": "Python",
   "description": "Python worker for Azure Functions.",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/AI-Landing-Zones",
-  "url": "https://github.com/Azure/AI-Landing-Zones",
-  "sec_path": "SECURITY.md",
-  "stars": 356,
-  "language": "Python",
-  "description": "The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -13595,17 +13529,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/taugrid",
-  "url": "https://github.com/Azure/taugrid",
-  "sec_path": "SECURITY.md",
-  "stars": 61,
-  "language": "Go",
-  "description": "Cloud-native AI infrastructure for teams to run, schedule, and monitor AI workloads on GPU-enabled Kubernetes clusters, from data preparation to distributed tra…",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/mapotf",
   "url": "https://github.com/Azure/mapotf",
   "sec_path": "SECURITY.md",
@@ -13892,17 +13815,6 @@
   "language": "TypeScript",
   "description": "GitHub Action for setting context (retrieving Kubeconfig) before interacting with Kubernetes cluster",
   "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/vld",
-  "url": "https://github.com/Azure/vld",
-  "sec_path": "SECURITY.md",
-  "stars": 57,
-  "language": "C++",
-  "description": "Visual Leak Detector for Visual C++ 2008-2015",
-  "first_seen": "2026-11-01 16:24:54"
  },
  {
   "vendor": "微软",
@@ -14974,17 +14886,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/unbounded",
-  "url": "https://github.com/Azure/unbounded",
-  "sec_path": "SECURITY.md",
-  "stars": 46,
-  "language": "Go",
-  "description": "Kubernetes Without Boundaries",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/azure-kusto-java",
   "url": "https://github.com/Azure/azure-kusto-java",
   "sec_path": "SECURITY.md",
@@ -15778,17 +15679,6 @@
   "stars": 40,
   "language": "TypeScript",
   "description": "GitHub Action to create Kubernetes cluster secrets",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/ARO-HCP",
-  "url": "https://github.com/Azure/ARO-HCP",
-  "sec_path": "SECURITY.md",
-  "stars": 40,
-  "language": "Go",
-  "description": "",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -26942,6 +26832,17 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/azure-sdk-for-net",
+  "url": "https://github.com/Azure/azure-sdk-for-net",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C#",
+  "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.m…",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/azure-iot-sdk",
   "url": "https://github.com/Azure/azure-iot-sdk",
   "sec_path": "SECURITY.md",
@@ -26964,12 +26865,56 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/ARO-HCP",
+  "url": "https://github.com/Azure/ARO-HCP",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/appcat-konveyor-rulesets",
   "url": "https://github.com/Azure/appcat-konveyor-rulesets",
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "Java",
   "description": "This repository contains the rulesets in YAML format for appcat-cli-java static code analysis. ",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/unbounded",
+  "url": "https://github.com/Azure/unbounded",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "> Kubernetes Without Boundaries",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/agent-landing-zone",
+  "url": "https://github.com/Azure/agent-landing-zone",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Microsoft Foundry and Micr…",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/taugrid",
+  "url": "https://github.com/Azure/taugrid",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "Cloud-native AI infrastructure for teams to run, schedule, and monitor AI workloads on GPU-enabled Kubernetes clusters, from data preparation to distributed tra…",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -26986,12 +26931,45 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/azure-powershell",
+  "url": "https://github.com/Azure/azure-powershell",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C#",
+  "description": "> Microsoft Azure PowerShell",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-container-networking",
+  "url": "https://github.com/Azure/azure-container-networking",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "Azure Container Networking Solutions for Linux and Windows Containers",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/azure-guest-attestation-sdk",
   "url": "https://github.com/Azure/azure-guest-attestation-sdk",
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "Rust",
   "description": "Azure Guest Attestation SDK",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/AI-Landing-Zones",
+  "url": "https://github.com/Azure/AI-Landing-Zones",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -27025,6 +27003,17 @@
   "stars": 3,
   "language": "C#",
   "description": "A rich .NET SDK providing runtime components for typed Azure connector clients.",
+  "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/Azure-Verified-Modules",
+  "url": "https://github.com/Azure/Azure-Verified-Modules",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "PowerShell",
+  "description": "Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Modules will then a…",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -27256,6 +27245,17 @@
   "stars": 3,
   "language": "HCL",
   "description": "Terraform Azure Verified Resource Module for DNS Resolver",
+  "first_seen": "2026-11-01 16:24:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/vld",
+  "url": "https://github.com/Azure/vld",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C++",
+  "description": "Visual Leak Detector for Visual C++ 2008-2015",
   "first_seen": "2026-11-01 16:24:54"
  },
  {

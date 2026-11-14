@@ -5,11 +5,12 @@
   "full_name": "zalando/postgres-operator",
   "url": "https://github.com/zalando/postgres-operator",
   "sec_path": "SECURITY.md",
-  "stars": 5273,
+  "stars": 5272,
   "language": "Go",
   "description": "Postgres operator creates and manages PostgreSQL clusters running in Kubernetes",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -21,7 +22,8 @@
   "language": "Go",
   "description": "An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -33,7 +35,8 @@
   "language": "Java",
   "description": "A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:51"
  },
  {
   "vendor": "Zalando",
@@ -41,11 +44,12 @@
   "full_name": "zalando/logbook",
   "url": "https://github.com/zalando/logbook",
   "sec_path": "SECURITY.md",
-  "stars": 2074,
+  "stars": 2073,
   "language": "Java",
   "description": "An extensible Java library for HTTP request and response logging",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -57,7 +61,8 @@
   "language": "Go",
   "description": "Cross-platform keyring interface for Go",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -69,7 +74,8 @@
   "language": "Java",
   "description": "A library for handling Problems in Spring Web MVC",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -81,7 +87,8 @@
   "language": "Java",
   "description": "A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -93,7 +100,8 @@
   "language": "Java",
   "description": "A Java library that implements application/problem+json",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -105,7 +113,8 @@
   "language": "Go",
   "description": "Middleware for Gin Framework users who also want to use OAuth2",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -117,7 +126,8 @@
   "language": "JavaScript",
   "description": "An agent that enforces guidelines for your GitHub repositories",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:51"
  },
  {
   "vendor": "Zalando",
@@ -129,7 +139,8 @@
   "language": "Java",
   "description": "Client-side response routing for Spring",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -141,7 +152,8 @@
   "language": "Java",
   "description": "Extension module to properly support datatypes of javax.money",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -153,7 +165,8 @@
   "language": "Scala",
   "description": "Grafter is a library to configure and wire Scala applications",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -165,7 +178,8 @@
   "language": null,
   "description": "List of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -177,7 +191,8 @@
   "language": "Java",
   "description": "Best-of-breed OpenTracing utilities, instrumentations and extensions",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -189,7 +204,8 @@
   "language": "Java",
   "description": "Java library for conveniently verifying and storing OAuth 2.0 service access tokens",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -201,7 +217,8 @@
   "language": "Java",
   "description": "A library that simplifies error handling for Functional Programming in Java",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -213,7 +230,8 @@
   "language": "Scala",
   "description": "A lightweight, logicless templating engine, written in Scala and inspired by Mustache",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -225,7 +243,8 @@
   "language": "HTML",
   "description": "Open Source Documentation and guidelines for Zalando developers",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:51"
  },
  {
   "vendor": "Zalando",
@@ -237,7 +256,8 @@
   "language": "Java",
   "description": "Spring Cloud AWS add-on that provides encryption via AWS KMS",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -249,7 +269,8 @@
   "language": "Java",
   "description": "Endpoint library for the failsafe framework",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -261,7 +282,8 @@
   "language": "Go",
   "description": "discover anomalies, performance issues and optimization within AWS RDS",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -273,7 +295,8 @@
   "language": "Ruby",
   "description": "A toolset for building system packages using Docker and fpm-cookery",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -285,7 +308,8 @@
   "language": "Shell",
   "description": "Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -297,7 +321,8 @@
   "language": "TypeScript",
   "description": "API Linter is a quality assurance tool that checks the compliance of API's specifications to Zalando's API rules.",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -309,7 +334,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  },
  {
   "vendor": "Zalando",
@@ -321,6 +347,7 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-02 01:20:08"
+  "first_seen": "2026-11-02 01:20:08",
+  "last_verified": "2026-11-15 01:02:43"
  }
 ]

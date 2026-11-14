@@ -5,10 +5,12 @@
   "full_name": "ARM-software/ComputeLibrary",
   "url": "https://github.com/ARM-software/ComputeLibrary",
   "sec_path": "SECURITY.md",
-  "stars": 3208,
+  "stars": 3209,
   "language": "C++",
   "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -16,10 +18,12 @@
   "full_name": "ARM-software/arm-trusted-firmware",
   "url": "https://github.com/ARM-software/arm-trusted-firmware",
   "sec_path": ".github/SECURITY.md",
-  "stars": 2283,
+  "stars": 2284,
   "language": "C",
   "description": "Read-only mirror of Trusted Firmware-A",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -30,7 +34,9 @@
   "stars": 1319,
   "language": "C++",
   "description": "Arm NN ML Software.",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -52,7 +58,9 @@
   "stars": 281,
   "language": "Python",
   "description": "Scripts to build a wheel and a Docker image containing a complete ML framework stack, including dependencies, for AArch64 CPUs, as well as a selection of exampl…",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -74,7 +82,9 @@
   "stars": 263,
   "language": "C",
   "description": "This System Control Processor (SCP) firmware repository is no longer used and has been set to Read-only for archiving purposes. Please refer to the following ac…",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -85,7 +95,9 @@
   "stars": 206,
   "language": "Assembly",
   "description": "This repository is a read-only mirror of https://gitlab.arm.com/kleidi/kleidiai",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -96,7 +108,9 @@
   "stars": 158,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -140,7 +154,9 @@
   "stars": 71,
   "language": "C++",
   "description": "Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -184,7 +200,9 @@
   "stars": 40,
   "language": "Go",
   "description": "Helpers and utilities for Golang in order to do actions not available in the standard library.",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -217,7 +235,9 @@
   "stars": 29,
   "language": "C",
   "description": "CMSIS Pack for the mbedTLS software stack",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -250,7 +270,9 @@
   "stars": 17,
   "language": "C++",
   "description": "Open-CMSIS-Pack development tools - C++ ",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -305,7 +327,9 @@
   "stars": 11,
   "language": "Java",
   "description": "Example java web application that run on top of mbed Device Server",
-  "first_seen": "2026-11-01 16:18:16"
+  "license": null,
+  "first_seen": "2026-11-01 16:18:16",
+  "last_verified": "2026-11-15 01:04:55"
  },
  {
   "vendor": "ARM",
@@ -338,7 +362,9 @@
   "stars": 9,
   "language": "C++",
   "description": "Experimental Vulkan tracer",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -349,7 +375,9 @@
   "stars": 9,
   "language": "TypeScript",
   "description": "Theia is a cloud & desktop IDE framework implemented in TypeScript.",
-  "first_seen": "2026-11-01 16:18:16"
+  "license": null,
+  "first_seen": "2026-11-01 16:18:16",
+  "last_verified": "2026-11-15 01:04:55"
  },
  {
   "vendor": "ARM",
@@ -437,7 +465,9 @@
   "stars": 3,
   "language": "Go",
   "description": "Golang HTTP client for our embedded development online services offering",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -448,7 +478,9 @@
   "stars": 3,
   "language": "Go",
   "description": "Helpers and utilities for Golang HTTP clients using our embedded development online services",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
@@ -459,7 +491,9 @@
   "stars": 3,
   "language": "Python",
   "description": "Open source Python library for programming and debugging Arm Cortex-M microcontrollers using CMSIS-DAP",
-  "first_seen": "2026-11-01 16:19:26"
+  "license": null,
+  "first_seen": "2026-11-01 16:19:26",
+  "last_verified": "2026-11-15 01:04:55"
  },
  {
   "vendor": "ARM",
@@ -481,7 +515,9 @@
   "stars": 1,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 16:16:44"
+  "license": null,
+  "first_seen": "2026-11-01 16:16:44",
+  "last_verified": "2026-11-15 01:04:11"
  },
  {
   "vendor": "ARM",
