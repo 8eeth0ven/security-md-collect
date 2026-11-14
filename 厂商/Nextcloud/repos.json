@@ -14,6 +14,19 @@
  },
  {
   "vendor": "Nextcloud",
+  "org": "roundcube",
+  "full_name": "roundcube/roundcubemail",
+  "url": "https://github.com/roundcube/roundcubemail",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 7278,
+  "language": "PHP",
+  "description": "The Roundcube Webmail suite",
+  "license": null,
+  "first_seen": "2026-11-14 13:00:25",
+  "last_verified": "2026-11-14 13:00:25"
+ },
+ {
+  "vendor": "Nextcloud",
   "org": "nextcloud",
   "full_name": "nextcloud/android",
   "url": "https://github.com/nextcloud/android",
@@ -258,19 +271,6 @@
   "license": null,
   "first_seen": "2026-11-14 16:33:19",
   "last_verified": "2026-11-14 16:33:19"
- },
- {
-  "vendor": "Nextcloud",
-  "org": "roundcube",
-  "full_name": "roundcube/roundcubemail",
-  "url": "https://github.com/roundcube/roundcubemail",
-  "sec_path": "docs/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-14 13:00:25",
-  "last_verified": "2026-11-14 13:00:25"
  },
  {
   "vendor": "Nextcloud",

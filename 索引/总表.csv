@@ -10275,6 +10275,7 @@ Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/snippets,https://github.com/nebius/snippets,0,Python,SECURITY.md,
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/tokenfactory-rl,https://github.com/nebius/tokenfactory-rl,0,Python,SECURITY.md,
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/server,https://github.com/nextcloud/server,37512,PHP,SECURITY.md,"☁️ Nextcloud server, a safe home for all your data"
+Nextcloud,公开平台范围（仅用于策略发现）,roundcube,roundcube/roundcubemail,https://github.com/roundcube/roundcubemail,7278,PHP,docs/SECURITY.md,The Roundcube Webmail suite
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/android,https://github.com/nextcloud/android,5706,Kotlin,SECURITY.md,📱 Nextcloud Android app
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/ios,https://github.com/nextcloud/ios,2557,Swift,SECURITY.md,📱 Nextcloud iOS App
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/deck,https://github.com/nextcloud/deck,1439,JavaScript,SECURITY.md,"🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello"
@@ -10294,14 +10295,24 @@ Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/inte
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_gptzero,https://github.com/nextcloud/integration_gptzero,5,Vue,SECURITY.md,Nextcloud GPTZero integration to detect AI generated content
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/nextcloud-skills,https://github.com/nextcloud/nextcloud-skills,5,Python,SECURITY.md,"Skills for AI agents working with Nextcloud: dev environments, ExApp development in any language, maintenance of installed apps, and AppAPI operations."
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_tmdb,https://github.com/nextcloud/integration_tmdb,3,JavaScript,SECURITY.md,The Movie Database integration in Nextcloud
-Nextcloud,公开平台范围（仅用于策略发现）,roundcube,roundcube/roundcubemail,https://github.com/roundcube/roundcubemail,,,docs/SECURITY.md,
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/intrusion_detection,https://github.com/nextcloud/intrusion_detection,0,PHP,SECURITY.md,
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/users_picker,https://github.com/nextcloud/users_picker,0,Vue,SECURITY.md,Profile smart picker and link preview
 Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/node,https://github.com/nodejs/node,123708,JavaScript,SECURITY.md,Node.js JavaScript runtime ✨🐢🚀✨
 Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/.github,https://github.com/nodejs/.github,22,,SECURITY.md,Node.js .github metarepository
-Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/oasis-core,https://github.com/oasisprotocol/oasis-core,,,docs/SECURITY.md,
+Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/oasis-core,https://github.com/oasisprotocol/oasis-core,369,Go,docs/SECURITY.md,Performant and Confidentiality-Preserving Smart Contracts + Blockchains
+Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/privana,https://github.com/oasisprotocol/privana,3,Python,SECURITY.md,ROFL Accounting module
+Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/tendermint,https://github.com/oasisprotocol/tendermint,3,Go,SECURITY.md,⟁ Tendermint Core (BFT Consensus) in Go
+Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/cometbft,https://github.com/oasisprotocol/cometbft,0,Go,SECURITY.md,"CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core."
 Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/.github,https://github.com/OctopusDeploy/.github,,,SECURITY.md,| Public |  This is the home repository for the https://github.com/OctopusDeploy organization.
-Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy,https://github.com/omacom/omarchy,,,.github/SECURITY.md,
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy,https://github.com/omacom/omarchy,46968,Shell,.github/SECURITY.md,"Beautiful, Modern & Opinionated Linux"
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/try-omarchy,https://github.com/omacom/try-omarchy,2982,Swift,SECURITY.md,Run Omarchy on MacOS without any setup.
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-mac,https://github.com/omacom/omarchy-mac,2105,Shell,.github/SECURITY.md,"Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support"
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/try-omarchy-windows,https://github.com/omacom/try-omarchy-windows,782,Go,SECURITY.md,Use Omarchy Linux on Windows without any hassle.
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-plugin-marketplace,https://github.com/omacom/omarchy-plugin-marketplace,382,JavaScript,SECURITY.md,Community-curated marketplace for Omarchy plugins
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omapager,https://github.com/omacom/omapager,86,QML,SECURITY.md,Rich notifications for Omarchy
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/libva-v4l2_request,https://github.com/omacom/libva-v4l2_request,10,C,SECURITY.md,"VA-API driver for V4L2 stateless decoders with Apple Video Decoder (AVD) fixes, used by omarchy-m1-video"
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-theme-sync,https://github.com/omacom/omarchy-theme-sync,5,JavaScript,docs/security.md,Sync Omarchy desktop theme colors with websites through CSS variables and JavaScript.
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-speedtest,https://github.com/omacom/omarchy-speedtest,2,Go,SECURITY.md,Omarchy's network speed test client for speed.omarchy.org
 OpenMage,公开平台范围（仅用于策略发现）,OpenMage,OpenMage/magento-lts,https://github.com/OpenMage/magento-lts,938,PHP,.github/SECURITY.md,Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Sec…
 OpenMage,公开平台范围（仅用于策略发现）,OpenMage,OpenMage/magento-composer-installer,https://github.com/OpenMage/magento-composer-installer,1,PHP,SECURITY.md,Composer installer for Magento modules
 OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/opensea-sdk,https://github.com/ProjectOpenSea/opensea-sdk,2337,TypeScript,SECURITY.md,TypeScript SDK for the OpenSea marketplace
@@ -10314,16 +10325,19 @@ OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）
 OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/wallet-adapters,https://github.com/ProjectOpenSea/wallet-adapters,3,TypeScript,SECURITY.md,"Unified wallet adapter interface for managed signing providers (Privy, Turnkey, Fireblocks, Bankr) and local keys"
 OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/api-types,https://github.com/ProjectOpenSea/api-types,2,TypeScript,SECURITY.md,TypeScript types auto-generated from the OpenSea API OpenAPI spec
 PagerDuty,公开平台范围（仅用于策略发现）,rundeck,rundeck/rundeck,https://github.com/rundeck/rundeck,,,SECURITY.md,
-Plaid,公开平台范围（仅用于策略发现）,plaid,plaid/react-native-plaid-link-sdk,https://github.com/plaid/react-native-plaid-link-sdk,,,SECURITY.md,
+Plaid,公开平台范围（仅用于策略发现）,plaid,plaid/react-native-plaid-link-sdk,https://github.com/plaid/react-native-plaid-link-sdk,203,TypeScript,SECURITY.md,Plaid Link for React Native
+Plaid,公开平台范围（仅用于策略发现）,plaid,plaid/core-exchange-node-example,https://github.com/plaid/core-exchange-node-example,4,TypeScript,SECURITY.md,Core Exchange Sample Node.js App
+Plaid,公开平台范围（仅用于策略发现）,plaid,plaid/plaid-link-flutter,https://github.com/plaid/plaid-link-flutter,0,Dart,SECURITY.md,Official Plaid Link SDK for Flutter.
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/whois,https://github.com/RIPE-NCC/whois,410,Java,SECURITY.md,RIPE Database whois code repository
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/rpki-validator-3,https://github.com/RIPE-NCC/rpki-validator-3,61,Java,SECURITY.md,RIPE NCC RPKI Validator 3
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/db-web-ui,https://github.com/RIPE-NCC/db-web-ui,12,TypeScript,SECURITY.md,RIPE Database Web Application
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/ripe-database-documentation,https://github.com/RIPE-NCC/ripe-database-documentation,7,Shell,SECURITY.md,RIPE Database Documentation
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/pretalx,https://github.com/RIPE-NCC/pretalx,1,Python,.github/SECURITY.md,"Conference planning tool: CfP, scheduling, speaker management"
-Revive Adserver,公开平台范围（仅用于策略发现）,revive-adserver,revive-adserver/revive-adserver,https://github.com/revive-adserver/revive-adserver,,,SECURITY.md,
-Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/.github,https://github.com/ruby/.github,,,SECURITY.md,
-Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/ruby,https://github.com/ruby/ruby,,,.github/SECURITY.md,
-Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/rails,https://github.com/rails/rails,,,.github/security.md,
+Revive Adserver,公开平台范围（仅用于策略发现）,revive-adserver,revive-adserver/revive-adserver,https://github.com/revive-adserver/revive-adserver,1520,PHP,SECURITY.md,"The world's most popular free, open source ad serving system. You can download the latest release at:"
+Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/ruby,https://github.com/ruby/ruby,23812,Ruby,.github/SECURITY.md,The Ruby Programming Language
+Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/.github,https://github.com/ruby/.github,2,,SECURITY.md,
+Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/rails,https://github.com/rails/rails,59092,Ruby,.github/security.md,Ruby on Rails
+Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/marcel,https://github.com/rails/marcel,466,Ruby,SECURITY.md,"Find the mime type of files, examining file, filename and declared type"
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/dangerzone,https://github.com/freedomofpress/dangerzone,5843,Python,SECURITY.md,"Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs"
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop,https://github.com/freedomofpress/securedrop,3894,Python,SECURITY.md,GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-workstation,https://github.com/freedomofpress/securedrop-workstation,188,Python,SECURITY.md,Qubes-based SecureDrop Journalist Workstation environment for submission handling
@@ -10343,13 +10357,13 @@ Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,world
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-messages,https://github.com/worldcoin/orb-messages,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-secure-element,https://github.com/worldcoin/orb-secure-element,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-software,https://github.com/worldcoin/orb-software,,,SECURITY.md,
+Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,61071,TypeScript,SECURITY.md,The full-stack Vue framework.
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,30742,TypeScript,SECURITY.md,The most comprehensive authentication framework
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-hub,https://github.com/better-auth/better-hub,1268,TypeScript,SECURITY.md,Re-imagining code collaboration for humans and agents
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-call,https://github.com/better-auth/better-call,823,TypeScript,SECURITY.md,a tiny web framework for typescript
+Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/.github,https://github.com/nuxt/.github,6,,SECURITY.md, Default community health files for nuxt repositories
 Vercel,公开平台范围（仅用于策略发现）,nitrojs,nitrojs/nitro-v2,https://github.com/nitrojs/nitro-v2,1,TypeScript,SECURITY.md,Nitro v2 (nitropack) maintenance repo. Active development is at nitrojs/nitro.
 Vercel,公开平台范围（仅用于策略发现）,nitrojs,nitrojs/.github,https://github.com/nitrojs/.github,,,SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/.github,https://github.com/nuxt/.github,,,SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,sveltejs,sveltejs/.github,https://github.com/sveltejs/.github,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/.github,https://github.com/vercel/.github,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai,https://github.com/vercel/ai,,,.github/SECURITY.md,

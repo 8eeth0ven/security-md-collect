@@ -5,11 +5,50 @@
   "full_name": "oasisprotocol/oasis-core",
   "url": "https://github.com/oasisprotocol/oasis-core",
   "sec_path": "docs/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
+  "stars": 369,
+  "language": "Go",
+  "description": "Performant and Confidentiality-Preserving Smart Contracts + Blockchains",
   "license": null,
   "first_seen": "2026-11-14 13:00:18",
   "last_verified": "2026-11-14 13:00:18"
+ },
+ {
+  "vendor": "Oasis Protocol Foundation",
+  "org": "oasisprotocol",
+  "full_name": "oasisprotocol/privana",
+  "url": "https://github.com/oasisprotocol/privana",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "ROFL Accounting module",
+  "license": null,
+  "first_seen": "2026-11-14 17:02:33",
+  "last_verified": "2026-11-14 17:02:33"
+ },
+ {
+  "vendor": "Oasis Protocol Foundation",
+  "org": "oasisprotocol",
+  "full_name": "oasisprotocol/tendermint",
+  "url": "https://github.com/oasisprotocol/tendermint",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "⟁ Tendermint Core (BFT Consensus) in Go",
+  "license": null,
+  "first_seen": "2026-11-14 17:02:39",
+  "last_verified": "2026-11-14 17:02:39"
+ },
+ {
+  "vendor": "Oasis Protocol Foundation",
+  "org": "oasisprotocol",
+  "full_name": "oasisprotocol/cometbft",
+  "url": "https://github.com/oasisprotocol/cometbft",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core.",
+  "license": null,
+  "first_seen": "2026-11-14 17:02:17",
+  "last_verified": "2026-11-14 17:02:17"
  }
 ]
