@@ -50,10 +50,12 @@ def normalize(platform, record):
         program = record.get('name') or handle
         url = 'https://yeswehack.com/programs/'+quote(handle,safe='')
         bounty = {'bounty':'cash','vdp':'vdp'}.get(record.get('bounty_type'),'unknown')
+        if record.get('archived') or record.get('disabled'):
+            bounty = 'inactive'
     elif platform == 'h1':
         program = record.get('name') or handle
         url = 'https://hackerone.com/'+quote(handle,safe='')
-        if record.get('archived') is True or record.get('eligible_for_submission') is False:
+        if record.get('archived') is True or record.get('eligible_for_submission') is False or record.get('submission_state') == 'closed':
             bounty = 'inactive'
         elif record.get('offers_bounties') is True and record.get('eligible_for_bounty') is True:
             bounty = 'cash'
@@ -65,6 +67,10 @@ def normalize(platform, record):
         program = record.get('name') or handle
         url = safe_url(record.get('program_url')) or 'https://app.intigriti.com/programs/'+quote(str(record.get('company') or ''),safe='')+'/'+quote(handle,safe='')
         bounty = {'bounty':'cash','vdp':'vdp'}.get(record.get('bounty_type'),'unknown')
+        if record.get('eligible_for_bounty') is False:
+            bounty = 'vdp'
+        if record.get('status') and record['status'] != 'open':
+            bounty = 'inactive'
     raw_package = str(record.get('package') or '').strip()
     package = raw_package if PACKAGE.fullmatch(raw_package) else ''
     play = safe_url(record.get('play'))
@@ -72,7 +78,7 @@ def normalize(platform, record):
     needs_review = bool(re.search(r'兜底|人工|待验证|候选|fallback|guess',origin,re.I))
     if package:
         play = play or 'https://play.google.com/store/apps/details?id='+quote(package,safe='.')
-    source = 'manual' if needs_review else 'unspecified'
+    source = 'manual' if needs_review else 'scope' if origin == 'scope包名' else 'unspecified'
     for field in ('uri','target','play'):
         raw = safe_url(record.get(field))
         parsed = urlsplit(raw)
@@ -90,6 +96,9 @@ def normalize(platform, record):
         'xapk':(safe_url(record.get('apkpure_xapk')) or 'https://d.apkpure.com/b/XAPK/'+quote(package,safe='.')+'?version=latest') if package else '',
         'apk':(safe_url(record.get('apkpure_apk')) or 'https://d.apkpure.com/b/APK/'+quote(package,safe='.')+'?version=latest') if package else '',
         'download_verified':False,
+        'scope_observation':record.get('scope_observation','historical'),
+        'scope_observed_at':str(record.get('scope_observed_at') or ''),
+        'scope_source':safe_url(record.get('scope_source')),
     }
 
 
@@ -97,17 +106,18 @@ def row_html(row):
     e = lambda value: html.escape(str(value or ''),quote=True)
     label = {'cash':'有赏金','vdp':'VDP / 无赏金','points':'积分','inactive':'已归档 / 不接收','unknown':'待确认'}[row['bounty']]
     platform = dict((key,name) for key,name,*_ in PLATFORMS)[row['platform']]
-    links = [('项目页',row['url']),('Google Play',row['play']),('来源 APK',row['apk_direct']),('XAPK 候选',row['xapk']),('APK 候选',row['apk'])]
+    links = [('项目页',row['url']),('范围来源',row['scope_source']),('Google Play',row['play']),('来源 APK',row['apk_direct']),('XAPK 候选',row['xapk']),('APK 候选',row['apk'])]
     anchors = ''.join('<a href="%s">%s ↗</a>'%(e(url),text) for text,url in links if url)
     target = row['target']
     if safe_url(target) and urlsplit(target).hostname == 'play.google.com':
         target = 'Google Play 应用'
     elif row['package'] and target == row['package']:
         target = 'Android 应用'
-    return ('<tr><td><a class="program-link" href="%s">%s ↗</a><div class="apk-meta">%s · %s</div></td>'
+    observation = '本轮来源有记录' if row['scope_observation']=='observed' else '历史快照 · 本轮未确认'
+    return ('<tr><td><a class="program-link" href="%s">%s ↗</a><div class="apk-meta">%s · %s</div><div class="apk-meta">%s</div></td>'
             '<td><div class="target-text">%s</div><code class="package">%s</code></td>'
             '<td><span class="reward-badge">%s</span><div class="apk-meta">%s</div></td>'
-            '<td><div class="apk-links">%s</div></td></tr>') % (e(row['url']),e(row['program']),platform,label,e(target),e(row['package'] or '包名待补充'),label,e(row['reward']),anchors)
+            '<td><div class="apk-links">%s</div></td></tr>') % (e(row['url']),e(row['program']),platform,label,observation,e(target),e(row['package'] or '包名待补充'),label,e(row['reward']),anchors)
 
 
 def build_apk_board(base):
@@ -136,11 +146,13 @@ def build_apk_board(base):
         'entries':sum(row['platform']==key and bool(row['play'] or row['apk_direct'] or row['xapk']) for row in rows),
     } for key,name,_,_ in PLATFORMS]
     stats = {'generated_at':stamp,'targets':len(rows),'programs':len({(r['platform'],r['url']) for r in rows}),
+             'unique_packages':len({r['package'] for r in rows if r['package']}),
+             'observed':sum(r['scope_observation']=='observed' for r in rows),
              'packages':sum(bool(r['package']) for r in rows),'cash':counts['cash'],'platforms':platforms,'bounty_counts':dict(counts)}
     write(out / 'dashboard.json',json.dumps({'stats':stats,'rows':rows},ensure_ascii=False,separators=(',',':'))+'\n')
     buffer = io.StringIO(newline='')
     writer = csv.writer(buffer,lineterminator='\n')
-    columns = ['platform','program','bounty','reward','target','package','package_source','needs_review','url','play','apk_direct','xapk','apk','download_verified']
+    columns = ['platform','program','bounty','reward','target','package','package_source','needs_review','url','play','apk_direct','xapk','apk','download_verified','scope_observation','scope_observed_at','scope_source']
     writer.writerow(columns)
     for row in rows:
         # Prevent a downloaded spreadsheet from interpreting source text as a formula.
@@ -164,12 +176,27 @@ def build_apk_board(base):
     readme += ['| %s | %s | %s | %s |'%(p['name'],p['targets'],p['cash'],p['entries']) for p in platforms]
     readme += ['', '## 字段与边界','',
                '- 目标条目数与唯一应用数不同；同一个包名可能属于多个项目或目标。',
+               '- 最新来源观察到 %s 条；其他为历史快照待复核，不因本轮缺失就判定已出范围。唯一有效格式包名 %s 个，尚未逐个验证商店存续。'%(stats['observed'],stats['unique_packages']),
+               '- [覆盖审计](coverage.json)记录来源项目数、Android 范围数、未解析包名与历史缺口；[来源目标快照](source-observations.json)保留本轮抽取证据。[国内 SRC 待核清单](../docs/coverage.md)单列，尚未冒充完整 APK 库。',
                '- “有赏金”依据快照的明确字段；HackerOne 同时要求计划有赏金且目标符合赏金资格，归档/不接收记录单独标注。积分、VDP 和未知状态不会默认算作有赏金。',
                '- Google Play 为应用商店入口；APKPure 为第三方镜像候选。生成候选 URL 不等于验证下载成功，`download_verified` 当前全部为 false。',
                '- 包名来源分为 Play 链接提取、人工映射待核对和未标注；无包名时保留项目页入口。',
                '- 快照不等于当前赏金范围，研究前核对项目官方页面。',
                '- 原始四平台 JSON 与清单保留在本目录。运行 `python 脚本/build_apk_board.py` 可离线重建。','']
     write(out / 'README.md','\n'.join(readme))
+    for key, name, filename, markdown in PLATFORMS:
+        selected = [r for r in rows if r['platform']==key]
+        lines = ['# '+name+' Android 范围清单', '',
+                 '[打开在线筛选](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html?platform='+key+'&bounty=all) · [原始记录]('+filename+') · [覆盖审计](../docs/coverage.md)', '',
+                 '目标记录 %s 条；唯一有效格式包名 %s 个。快照整理时间：%s。'%(len(selected),len({r['package'] for r in selected if r['package']}),stamp), '',
+                 '赏金状态基于各次快照；历史待核不代表当前仍在范围。镜像未验证，范围和维护版本以官方页面为准。', '',
+                 '| 项目 | 目标 / 包名 | 赏金状态 | 来源观察 |', '| --- | --- | --- | --- |']
+        for row in selected:
+            clean = lambda x: str(x or '').replace('|','\\|').replace('\n',' ').replace('\r',' ')
+            state = {'cash':'快照有赏金','vdp':'VDP / 无赏金','points':'积分','unknown':'待确认','inactive':'归档 / 不接收'}[row['bounty']]
+            observed = '本轮来源有记录' if row['scope_observation']=='observed' else '历史快照 · 本轮未确认'
+            lines.append('| [%s](%s) | %s | %s | %s |'%(clean(row['program']),row['url'],clean(row['package'] or row['target']),state,observed))
+        write(out/markdown,'\n'.join(lines)+'\n')
     return stats
 
 

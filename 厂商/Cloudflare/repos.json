@@ -13,28 +13,6 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
-  "full_name": "cloudflare/vinext",
-  "url": "https://github.com/cloudflare/vinext",
-  "sec_path": "SECURITY.md",
-  "stars": 9359,
-  "language": "TypeScript",
-  "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-  "first_seen": "2026-11-01 19:21:55"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
-  "full_name": "cloudflare/workerd",
-  "url": "https://github.com/cloudflare/workerd",
-  "sec_path": "SECURITY.md",
-  "stars": 9186,
-  "language": "C++",
-  "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-  "first_seen": "2026-11-01 19:21:55"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
   "full_name": "cloudflare/workers-sdk",
   "url": "https://github.com/cloudflare/workers-sdk",
   "sec_path": "SECURITY.md",
@@ -256,17 +234,6 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
-  "full_name": "cloudflare/.github",
-  "url": "https://github.com/cloudflare/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 41,
-  "language": null,
-  "description": "Cloudflare's template for open source community resources",
-  "first_seen": "2026-11-01 19:24:21"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
   "full_name": "cloudflare/pat-go",
   "url": "https://github.com/cloudflare/pat-go",
   "sec_path": "SECURITY.md",
@@ -465,6 +432,32 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
+  "full_name": "cloudflare/workerd",
+  "url": "https://github.com/cloudflare/workerd",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-14 13:00:49"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
+  "full_name": "cloudflare/vinext",
+  "url": "https://github.com/cloudflare/vinext",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-14 13:00:49"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
   "full_name": "cloudflare/prometheus-client-rust",
   "url": "https://github.com/cloudflare/prometheus-client-rust",
   "sec_path": "SECURITY.md",
@@ -494,5 +487,18 @@
   "language": "Go",
   "description": "SNMP Exporter for Prometheus (Fork)",
   "first_seen": "2026-11-01 19:23:06"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
+  "full_name": "cloudflare/.github",
+  "url": "https://github.com/cloudflare/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 19:24:21",
+  "last_verified": "2026-11-14 13:00:49"
  }
 ]

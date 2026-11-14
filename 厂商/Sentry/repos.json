@@ -24,17 +24,6 @@
  {
   "vendor": "Sentry",
   "org": "getsentry",
-  "full_name": "getsentry/.github",
-  "url": "https://github.com/getsentry/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 28,
-  "language": null,
-  "description": "Global repo settings for sentry.io",
-  "first_seen": "2026-11-01 20:22:32"
- },
- {
-  "vendor": "Sentry",
-  "org": "getsentry",
   "full_name": "getsentry/webvitals.com",
   "url": "https://github.com/getsentry/webvitals.com",
   "sec_path": "SECURITY.md",
@@ -120,6 +109,19 @@
   "description": "GitHub Action to expose slug value of GitHub environment variables inside your GitHub workflow",
   "license": null,
   "first_seen": "2026-11-02 03:52:35"
+ },
+ {
+  "vendor": "Sentry",
+  "org": "getsentry",
+  "full_name": "getsentry/.github",
+  "url": "https://github.com/getsentry/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 20:22:32",
+  "last_verified": "2026-11-14 13:00:49"
  },
  {
   "vendor": "Sentry",

@@ -24,17 +24,6 @@
  {
   "vendor": "Coinbase",
   "org": "coinbase",
-  "full_name": "coinbase/cb-mpc",
-  "url": "https://github.com/coinbase/cb-mpc",
-  "sec_path": "SECURITY.md",
-  "stars": 512,
-  "language": "C++",
-  "description": "Coinbase MPC Library",
-  "first_seen": "2026-11-01 18:51:41"
- },
- {
-  "vendor": "Coinbase",
-  "org": "coinbase",
   "full_name": "coinbase/cds",
   "url": "https://github.com/coinbase/cds",
   "sec_path": "SECURITY.md",
@@ -288,17 +277,6 @@
  {
   "vendor": "Coinbase",
   "org": "coinbase",
-  "full_name": "coinbase/.github",
-  "url": "https://github.com/coinbase/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": null,
-  "description": "Default community files",
-  "first_seen": "2026-11-01 18:51:41"
- },
- {
-  "vendor": "Coinbase",
-  "org": "coinbase",
   "full_name": "coinbase/cdp-agentcore-template",
   "url": "https://github.com/coinbase/cdp-agentcore-template",
   "sec_path": "SECURITY.md",
@@ -327,17 +305,6 @@
   "stars": 4,
   "language": "Go",
   "description": "Go SDK for the Coinbase Prime REST APIs",
-  "first_seen": "2026-11-01 18:51:41"
- },
- {
-  "vendor": "Coinbase",
-  "org": "coinbase",
-  "full_name": "coinbase/cb-mpc-go",
-  "url": "https://github.com/coinbase/cb-mpc-go",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "Go",
-  "description": "\"demo/beta\" Go wrappers around cb-mpc",
   "first_seen": "2026-11-01 18:51:41"
  },
  {
@@ -453,6 +420,19 @@
  {
   "vendor": "Coinbase",
   "org": "coinbase",
+  "full_name": "coinbase/cb-mpc",
+  "url": "https://github.com/coinbase/cb-mpc",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "coinbase",
   "full_name": "coinbase/core-java",
   "url": "https://github.com/coinbase/core-java",
   "sec_path": "SECURITY.md",
@@ -482,5 +462,31 @@
   "language": "C#",
   "description": "Coinbase .Net Core is a library that is used by other C# samples",
   "first_seen": "2026-11-01 18:51:41"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "coinbase",
+  "full_name": "coinbase/cb-mpc-go",
+  "url": "https://github.com/coinbase/cb-mpc-go",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "coinbase",
+  "full_name": "coinbase/.github",
+  "url": "https://github.com/coinbase/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 13:00:45"
  }
 ]

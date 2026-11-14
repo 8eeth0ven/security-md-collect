@@ -55,6 +55,10 @@ GitHub Pages 选择 `main` 的根目录。页面源码、`web/`、`索引/dashbo
 
 ## Android APK 目录
 
+覆盖边界与补采入口见 [覆盖审计](coverage.md)。`update_apk_sources.py` 固定上游 Git 提交后合并四平台，YesWeHack 可直接读取官方分页及详情；保留来源哈希、范围观察时间和未在本轮观察到的历史记录。只解析明确 Android 范围，不把通用描述里的排除应用误收进目录。`expand_policy_sources.py` 补账户默认策略与明确列出的 GitHub 仓库，和定时采集共用独占锁。`audit_coverage.py` 从公开数据与可选本机状态输出分母、未检查清单和国内 SRC 缺口，同步器在每次发布时重建审计。
+
+策略默认按 7 天重新核对，未找到的路径按 30 天重试，`first_seen` 保留、`last_verified` 更新。重新核对发生网络错误时保留上次有效快照；仅确认全部候选路径不存在才移出当前列表。分页中途失败或达到页数上限不标记完成；搜索的 `incomplete_results` 和 1,000 条上限记为未完整，不把搜索命中直接当已保存原文。
+
 `脚本/build_apk_board.py` 读取四份原始平台 JSON，输出 `赏金APK/dashboard.json`、CSV、分类说明和静态页面。页面模板为 `脚本/apk_dashboard.html`，交互为 `web/apk-board.js`；与主页共享明亮 / 深色主题、语言偏好和基础样式。`build_dashboard.py` 在每轮数据发布后调用该生成器，因此旧采集机的 HTML 不会覆盖发布仓库的新版界面。
 
 首屏静态输出前 25 条有赏金记录，完整 JSON 加载后再接管筛选、排序与分页；加载失败时保留首屏清单。Google Play、来源 APK 与第三方镜像候选分别标注，所有候选 `download_verified=false`。无效包名不会生成镜像候选。HackerOne 同时检查计划赏金、目标赏金资格、归档和接收状态，避免把公开 VDP 混作有赏金项目。

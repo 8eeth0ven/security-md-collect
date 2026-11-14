@@ -1589,7 +1589,8 @@
   "src": "HackerOne",
   "orgs": [
    "coinbase",
-   "base-org"
+   "base-org",
+   "base"
   ],
   "unverified": [],
   "note": "H1 与 Bugcrowd 均有公开项目；base-org 为其 L2 链 Base"
@@ -2238,7 +2239,8 @@
   "vendor": "Binance",
   "src": "自建BB",
   "orgs": [
-   "binance"
+   "binance",
+   "trustwallet"
   ],
   "unverified": [],
   "note": ""
@@ -2274,9 +2276,573 @@
   "vendor": "Spotify",
   "src": "自建BB",
   "orgs": [
-   "spotify"
+   "spotify",
+   "backstage"
   ],
   "unverified": [],
   "note": "自建赏金确认，自行补充"
+ },
+ {
+  "vendor": "8x8",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "jitsi"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "AWS VDP",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "amazon-research",
+   "amazonlinux",
+   "aws-actions",
+   "deepjavalibrary",
+   "strands-agents"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Aiven Managed Bug Bounty",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "Aiven",
+   "Aiven-Open"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Auth0 by Okta",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "auth0"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Basecamp",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "basecamp"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Bitwarden",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "bitwarden"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "CM.com",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "cmdotcom"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Chainlink",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "smartcontractkit"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Chia Network",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "Chia-Network"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "ClickHouse",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "ClickHouse"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Concrete CMS",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "concrete5"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "DailyPay VDP",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "dailypay"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Databricks",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "databricks"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "DefectDojo",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "DefectDojo"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Discourse",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "discourse"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Doppler",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "DopplerHQ"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Electroneum Legacy Blockchain: EOL",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "electroneum"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Electroneum Smart Chain (ETN-SC) — EVM-Compatible Blockchain",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "European Space Agency (ESA) VDP",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "ESA"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Exodus",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "ExodusOSS"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "ExpressVPN - Bug Bounty Program",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "expressvpn"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Fireblocks MPC Managed Bug Bounty Engagement",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "fireblocks"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "GoCardless Bug Bounty Program",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "gocardless"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "HackerOne",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "Hacker0x01"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Immutable Bug Bounty",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "immutable"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Infinite Athlete",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "tempus-ex"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Infomaniak Bug Bounty program",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "Infomaniak"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Just Eat Takeaway.com",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "justeattakeaway"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Kubernetes",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "kubernetes-client",
+   "kubernetes-incubator",
+   "kubernetes-security",
+   "kubernetes-sigs"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Lightspark Public Bug Bounty",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "buildonspark",
+   "lightsparkdev"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Matomo",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "innocraft",
+   "matomo-org"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Mattermost Public Bug Bounty Engagement",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "mattermost"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "MoonPay",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "moonpay"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Nebius AI Vulnerability Disclosure",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "nebius"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Nextcloud",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "nextcloud",
+   "roundcube"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Node.js",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "nodejs"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Oasis Protocol Foundation",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "oasisprotocol"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Octopus",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "OctopusDeploy"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Omarchy",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "omacom"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "OpenMage",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "OpenMage"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "OpenSea Managed Bug Bounty Program",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "ProjectOpenSea"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "PagerDuty",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "rundeck"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Plaid",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "plaid"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Posten Bring Responsible Disclosure",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "digipost"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "RIPE NCC",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "RIPE-NCC"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Revive Adserver",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "revive-adserver"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Ruby",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "ruby"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Ruby on Rails",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "rails"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "SecureDrop",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "freedomofpress"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Solidus",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "solidusio"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Supabase",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "supabase"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "TRON DAO",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "tronprotocol"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "TomTom",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "tomtom-international"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Tools for Humanity",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "worldcoin"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "U.S. Department of State",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "USStateDept"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Valve",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "valvesoftware"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Vercel",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "better-auth",
+   "nitrojs",
+   "nuxt",
+   "sveltejs",
+   "vercel",
+   "vercel-labs"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Version Cake",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "bwillis"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "WHO COVID-19 Mobile App",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "WorldHealthOrganization"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "Weblate",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "WeblateOrg"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
+ },
+ {
+  "vendor": "curl",
+  "src": "公开平台范围（仅用于策略发现）",
+  "orgs": [
+   "curl"
+  ],
+  "unverified": [],
+  "note": "组织在公开范围中出现，不代表其所有仓库均可测试；见 索引/policy-discovery.json。"
  }
 ]

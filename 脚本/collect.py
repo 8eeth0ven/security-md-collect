@@ -46,6 +46,8 @@ DEFAULT_CFG = {
     "html_sleep_sec": 0.4,
     "page_cap_profile": 200,
     "page_cap_org": 260,
+    "policy_resweep_days": 7,
+    "absent_resweep_days": 30,
 }
 try:
     DEFAULT_CFG.update(json.loads(CFG_PATH.read_text(encoding="utf-8")))
@@ -55,8 +57,8 @@ CFG = DEFAULT_CFG
 PROXY = os.environ.get("SECMD_PROXY", CFG.get("proxy", "")) or None
 
 SEC_CANDIDATES = [
-    "SECURITY.md", "security.md", "Security.md",
     ".github/SECURITY.md", ".github/security.md",
+    "SECURITY.md", "security.md", "Security.md",
     "docs/SECURITY.md", "docs/security.md",
 ]
 
@@ -257,7 +259,9 @@ def acquire_lock():
             age = time.time() - float(data.get("ts", 0))
             if age < 7200 and _pid_alive(int(data.get("pid", 0))):
                 return False
-        LOCK_PATH.write_text(json.dumps({"pid": os.getpid(), "ts": time.time()}), encoding="utf-8")
+            LOCK_PATH.unlink()
+        with LOCK_PATH.open('x', encoding='utf-8') as handle:
+            json.dump({'pid': os.getpid(), 'ts': time.time()}, handle)
         return True
     except Exception:
         return False
@@ -393,14 +397,14 @@ def list_profile(name):
         url = "https://github.com/%s?tab=repositories&page=%d" % (name, page)
         st, body = http_get(url, "web", timeout=30)
         if st != 200 or not body:
-            return (None if page == 1 else items)
+            return None  # Partial pagination is retryable, never a complete listing.
         new = parse_profile_items(body.decode("utf-8", "replace"), name)
         added = {k: v for k, v in new.items() if k not in items}
         if not added:
-            break
+            return items
         items.update(added)
         time.sleep(CFG["html_sleep_sec"] + random.random() * 0.3)
-    return items
+    return None  # Configured page cap reached; retry instead of marking complete.
 
 
 def list_org_react(name):
@@ -409,7 +413,7 @@ def list_org_react(name):
         url = "https://github.com/orgs/%s/repositories?page=%d" % (name, page)
         st, body = http_get(url, "web", timeout=30)
         if st != 200 or not body:
-            return (None if page == 1 else items)
+            return None  # Partial pagination is retryable, never a complete listing.
         html_text = body.decode("utf-8", "replace")
         page_items = {}
         for s in re.findall(r'<script type="application/json" data-target="react-app\.embeddedData">(.*?)</script>',
@@ -427,10 +431,10 @@ def list_org_react(name):
                     page_items[n["full"]] = {k: n[k] for k in ("stars", "language", "description")}
         added = {k: v for k, v in page_items.items() if k not in items}
         if not added:
-            break
+            return items
         items.update(added)
         time.sleep(CFG["html_sleep_sec"] + random.random() * 0.3)
-    return items
+    return None  # Configured page cap reached; retry instead of marking complete.
 
 
 def list_repos_any(name):
@@ -461,10 +465,13 @@ def list_repos_any(name):
 
 
 # ---------------------------------------------------------------- SECURITY.md 探测
-def probe_security(full):
+def probe_security(full, extra_paths=()):
     """返回 (sec_path, content)；sec_path ∈ str | None(确认没有) | "error"(网络失败，下轮重试)"""
-    for path in SEC_CANDIDATES:
-        st, body = http_get("https://raw.githubusercontent.com/%s/HEAD/%s" % (full, path),
+    paths = list(SEC_CANDIDATES)
+    paths.extend(p for p in extra_paths if p not in paths and p.lower().endswith('security.md')
+                 and '..' not in p.split('/') and not p.startswith('/'))
+    for path in paths:
+        st, body = http_get("https://raw.githubusercontent.com/%s/HEAD/%s" % (full, quote(path,safe='/')),
                             "raw", timeout=20)
         if st == 200 and body and body.strip():
             return path, body
@@ -482,8 +489,22 @@ def probe_security(full):
     return None, None
 
 
-def probe_and_record(state, org, vendor, names_meta, deadline):
-    todo = [full for full in names_meta if full not in state["repos_checked"]]
+def probe_due(state, full, now=None):
+    """A previously absent file can appear later; a saved policy can change too."""
+    checked = state['repos_checked'].get(full)
+    if not checked or checked.get('sec_path') == 'error':
+        return True
+    try:
+        age = (now or time.time()) - time.mktime(time.strptime(checked['checked_at'], '%Y-%m-%d %H:%M:%S'))
+    except (KeyError, ValueError, TypeError, OverflowError):
+        return True
+    days = CFG['policy_resweep_days'] if checked.get('sec_path') else CFG['absent_resweep_days']
+    return age >= float(days) * 86400
+
+
+def probe_and_record(state, org, vendor, names_meta, deadline, owner_vendors=None):
+    todo = [full for full in names_meta if probe_due(state, full)]
+    todo.sort(key=lambda full: (state['repos_checked'].get(full, {}).get('checked_at') or '', full))
     if not todo:
         return 0
     found = 0
@@ -492,39 +513,50 @@ def probe_and_record(state, org, vendor, names_meta, deadline):
     def work(full):
         if time.time() > deadline:
             return full, "error", None
-        path, content = probe_security(full)
+        paths = list(names_meta[full].get('security_paths') or [])
+        previous_path = state['repos_data'].get(full, {}).get('sec_path')
+        if previous_path:
+            paths.append(previous_path)
+        path, content = probe_security(full, paths)
         return full, path, content
 
     with ThreadPoolExecutor(int(CFG["threads_probe"])) as ex:
-        for i in range(0, len(todo), 240):
+        batch = max(1, int(CFG['threads_probe']) * 2)
+        for i in range(0, len(todo), batch):
             if time.time() > deadline:
                 break
-            chunk = todo[i:i + 240]
+            chunk = todo[i:i + batch]
             nows = time.strftime("%Y-%m-%d %H:%M:%S")
             for full, path, content in ex.map(work, chunk):
                 meta = names_meta.get(full) or {}
+                record_org = full.split('/')[0] if owner_vendors else org
+                record_vendor = owner_vendors[record_org] if owner_vendors else vendor
                 with state_lock:
                     if isinstance(path, str) and path != "error":
                         state["repos_checked"][full] = {"sec_path": path, "checked_at": nows}
+                        previous = state['repos_data'].get(full) or {}
                         state["repos_data"][full] = {
-                            "vendor": vendor, "org": org, "full_name": full,
+                            "vendor": record_vendor, "org": record_org, "full_name": full,
                             "url": "https://github.com/%s" % full, "sec_path": path,
-                            "stars": meta.get("stars"), "language": meta.get("language"),
-                            "description": meta.get("description"), "license": meta.get("license"),
-                            "first_seen": nows,
+                            "stars": meta.get("stars") if meta.get("stars") is not None else previous.get('stars'),
+                            "language": meta.get("language") or previous.get('language'),
+                            "description": meta.get("description") or previous.get('description'),
+                            "license": meta.get("license") or previous.get('license'),
+                            "first_seen": previous.get('first_seen') or nows, "last_verified": nows,
                         }
-                        found += 1
+                        found += not bool(previous)
                     elif path is None:
                         state["repos_checked"][full] = {"sec_path": None, "checked_at": nows}
+                        state['repos_data'].pop(full, None)
                 if isinstance(path, str) and content:
                     try:
-                        d = VDIR / safe_name(vendor) / full.replace("/", "__")
+                        d = VDIR / safe_name(record_vendor) / full.replace("/", "__")
                         d.mkdir(parents=True, exist_ok=True)
                         (d / "SECURITY.md").write_bytes(content)
                     except Exception as e:
                         log("内容写盘失败 %s: %s" % (full, e))
             save_state(state)
-            log("%s: 探测进度 %d/%d（累计命中 %d）" % (org, min(i + 240, len(todo)), len(todo), found))
+            log("%s: 探测进度 %d/%d（新增命中 %d）" % (org, min(i + batch, len(todo)), len(todo), found))
     return found
 
 
@@ -543,7 +575,7 @@ def sweep_html(state, org2vendor, deadline, force):
                 (time.time() - ent["last_swept"] < CFG["org_resweep_hours"] * 3600)
         try:
             if fresh:
-                pending = [f for f in (ent.get("pending") or []) if f not in state["repos_checked"]]
+                pending = [f for f in load_meta_cache(org) if probe_due(state, f)]
                 if not pending:
                     continue
                 cache = load_meta_cache(org)
@@ -576,7 +608,7 @@ def sweep_html(state, org2vendor, deadline, force):
                                 rec[k] = v
                 log("[列表] %s(%s) via %s：%d 个仓库" % (org, vendor, kind, len(items)))
             probe_and_record(state, org, vendor, names_meta, deadline)
-            ent["pending"] = [f for f in names_meta if f not in state["repos_checked"]]
+            ent["pending"] = [f for f in names_meta if probe_due(state, f)]
             state["orgs"][org] = ent
             save_state(state)
         except Exception as e:
@@ -594,6 +626,7 @@ def sweep_search(state, org2vendor, deadline, token):
             break
         qualifier = "org"
         page, hits, total = 1, [], 0
+        complete, incomplete = False, False
         while True:
             if time.time() > deadline:
                 break
@@ -601,8 +634,8 @@ def sweep_search(state, org2vendor, deadline, token):
             st, body = http_get("https://api.github.com/search/code?q=%s&per_page=100&page=%d" % (q, page),
                                 "api", timeout=25, token=token)
             if st in (403, 429):
-                time.sleep(70)
-                continue
+                log("[search限流] %s 下轮重试" % org)
+                break
             if st == 422 and qualifier == "org":
                 qualifier, page, hits = "user", 1, []
                 continue
@@ -613,6 +646,7 @@ def sweep_search(state, org2vendor, deadline, token):
                 data = json.loads(body.decode("utf-8", "replace"))
             except Exception:
                 break
+            incomplete = incomplete or bool(data.get("incomplete_results"))
             items = data.get("items", [])
             total = data.get("total_count", 0)
             for it in items:
@@ -621,52 +655,24 @@ def sweep_search(state, org2vendor, deadline, token):
                 if full:
                     hits.append((full, it.get("path") or "SECURITY.md", repo))
             if len(hits) >= min(total, 1000) or not items:
+                complete = not incomplete and total <= 1000
                 break
             page += 1
+        entry = state['orgs'].setdefault(org, {})
+        entry['search_total'] = total
+        entry['truncated'] = bool(total > 1000 or incomplete or not complete)
         if hits:
-            per_repo = {}
             metas = {}
             for full, path, repo in hits:
-                if full not in per_repo or path.count("/") < per_repo[full].count("/"):
-                    per_repo[full] = path
-                metas[full] = {"stars": repo.get("stargazers_count"),
-                               "language": repo.get("language"),
-                               "description": repo.get("description")}
-            names_meta = {full: metas[full] for full in per_repo}
-            dl_missing = []
-            nows = time.strftime("%Y-%m-%d %H:%M:%S")
-            for full, path in per_repo.items():
-                state["repos_checked"][full] = {"sec_path": path, "checked_at": nows}
-                if full not in state["repos_data"]:
-                    dl_missing.append(full)
-                meta = metas[full]
-                state["repos_data"][full] = {
-                    "vendor": org2vendor[org], "org": org, "full_name": full,
-                    "url": "https://github.com/%s" % full, "sec_path": path,
-                    "stars": meta.get("stars"), "language": meta.get("language"),
-                    "description": meta.get("description"), "first_seen": nows,
-                }
-
-            def dl(full):
-                st, body = http_get("https://raw.githubusercontent.com/%s/HEAD/%s"
-                                    % (full, per_repo[full]), "raw", timeout=20)
-                return full, body if st == 200 else None
-
-            with ThreadPoolExecutor(int(CFG["threads_download"])) as ex:
-                for full, content in ex.map(dl, dl_missing):
-                    if content:
-                        try:
-                            d = VDIR / safe_name(org2vendor[org]) / full.replace("/", "__")
-                            d.mkdir(parents=True, exist_ok=True)
-                            (d / "SECURITY.md").write_bytes(content)
-                        except Exception as e:
-                            log("内容写盘失败 %s: %s" % (full, e))
-            log("[search] %s: %d 个仓库含 SECURITY.md" % (org, len(per_repo)))
-        swept[org] = time.time()
-        state["orgs"][org] = state["orgs"].get(org) or {"last_swept": time.time()}
-        state["orgs"][org]["last_swept"] = time.time()
-        if total > 1000:
-            state["orgs"][org]["truncated"] = True
+                meta = metas.setdefault(full, {'stars': repo.get('stargazers_count'),
+                               'language': repo.get('language'), 'description': repo.get('description'), 'security_paths': []})
+                meta['security_paths'].append(path)
+            # A search hit is a discovery clue; confirm the actual default-branch file.
+            probe_and_record(state, org, org2vendor[org], metas, deadline)
+            save_meta_cache(org, {**load_meta_cache(org), **metas})
+        if complete:
+            swept[org] = time.time()
+            entry['last_swept'] = time.time()
         save_state(state)
 
 

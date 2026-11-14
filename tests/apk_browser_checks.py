@@ -38,8 +38,13 @@ def main():
                 expect(page.locator('#apk-count')).to_contain_text(str(platform['targets']))
                 expect(page.locator('#apk-results tr')).to_have_count(min(25,platform['targets']))
             # No package ID still has an official program link, with no invented mirror.
-            expect(page.locator('#apk-results .package')).to_have_text('包名待补充')
+            page.locator('#apk-platform').select_option('')
+            page.locator('#apk-access').select_option('missing')
+            expect(page.locator('#apk-results tr')).to_have_count(min(25,sum(not(r['play'] or r['apk_direct'] or r['xapk']) for r in payload['rows'])))
+            for package in page.locator('#apk-results .package').all():
+                expect(package).to_have_text('包名待补充')
             assert page.locator('#apk-results .mirror').count()==0
+            page.locator('#apk-access').select_option('')
             page.locator('#apk-platform').select_option('h1')
             page.locator('#apk-next').click()
             assert 'page=2' in page.url

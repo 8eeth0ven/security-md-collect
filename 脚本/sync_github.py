@@ -18,7 +18,7 @@ def public_files(base):
     for pattern in ('厂商/*/repos.json', '厂商/*/清单.md', '厂商/*/*/SECURITY.md',
                     '资产/vendors*.json', '资产/厂商映射-*.json',
                     '赏金APK/*.json', '赏金APK/*.md', '赏金APK/*.html',
-                    '索引/统计.json', '索引/总表.csv'):
+                    '索引/统计.json', '索引/总表.csv', '索引/policy-discovery.json'):
         yield from sorted(base.glob(pattern))
 
 
@@ -88,8 +88,14 @@ def main():
     changed = sync_public_data(base,destination)
     repair_snapshots(destination,apply=True)
     subprocess.run([sys.executable,str(builder),'--base',str(destination)],check=True,timeout=120)
+    auditor = destination / '脚本/audit_coverage.py'
+    if auditor.is_file():
+        subprocess.run([sys.executable,str(auditor),'--base',str(destination),'--collector',str(base)],check=True,timeout=120)
     if args.push:
         paths = ['厂商','赏金APK','资产','索引/统计.json','索引/总表.csv','索引/dashboard.json','index.html']
+        for name in ('索引/policy-discovery.json', '索引/coverage.json', 'docs/coverage.md'):
+            if (destination / name).exists():
+                paths.append(name)
         if (destination / '索引/retry-candidates.json').exists():
             paths.append('索引/retry-candidates.json')
         git(destination,'add','--',*paths)

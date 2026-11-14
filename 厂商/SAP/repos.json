@@ -123,17 +123,6 @@
  {
   "vendor": "SAP",
   "org": "SAP",
-  "full_name": "SAP/.github",
-  "url": "https://github.com/SAP/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 10,
-  "language": null,
-  "description": "Default community health files for the SAP organization",
-  "first_seen": "2026-11-01 17:16:20"
- },
- {
-  "vendor": "SAP",
-  "org": "SAP",
   "full_name": "SAP/fsm-shell",
   "url": "https://github.com/SAP/fsm-shell",
   "sec_path": "docs/security.md",
@@ -174,5 +163,18 @@
   "language": "HTML",
   "description": "Utilities to generate the UI5 flexibility changes programmatically",
   "first_seen": "2026-11-01 17:15:19"
+ },
+ {
+  "vendor": "SAP",
+  "org": "SAP",
+  "full_name": "SAP/.github",
+  "url": "https://github.com/SAP/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 17:16:20",
+  "last_verified": "2026-11-14 12:55:48"
  }
 ]

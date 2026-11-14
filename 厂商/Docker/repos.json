@@ -412,17 +412,6 @@
  {
   "vendor": "Docker",
   "org": "docker",
-  "full_name": "docker/.github",
-  "url": "https://github.com/docker/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 10,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 19:05:16"
- },
- {
-  "vendor": "Docker",
-  "org": "docker",
   "full_name": "docker/docker-agent-action",
   "url": "https://github.com/docker/docker-agent-action",
   "sec_path": "SECURITY.md",
@@ -597,6 +586,19 @@
   "language": "Shell",
   "description": "",
   "first_seen": "2026-11-01 19:05:16"
+ },
+ {
+  "vendor": "Docker",
+  "org": "docker",
+  "full_name": "docker/.github",
+  "url": "https://github.com/docker/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 19:05:16",
+  "last_verified": "2026-11-14 12:58:54"
  },
  {
   "vendor": "Docker",

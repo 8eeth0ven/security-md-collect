@@ -717,17 +717,6 @@
  {
   "vendor": "思科",
   "org": "cisco-open",
-  "full_name": "cisco-open/.github",
-  "url": "https://github.com/cisco-open/.github",
-  "sec_path": "docs/SECURITY.md",
-  "stars": 1,
-  "language": null,
-  "description": "Org-wide GitHub configurations",
-  "first_seen": "2026-11-01 19:20:37"
- },
- {
-  "vendor": "思科",
-  "org": "cisco-open",
   "full_name": "cisco-open/semantic-architecture-retrieval-analysis-system",
   "url": "https://github.com/cisco-open/semantic-architecture-retrieval-analysis-system",
   "sec_path": "SECURITY.md",
@@ -889,6 +878,19 @@
   "language": "TypeScript",
   "description": "Automated testing for MCP servers: generate YAML scenarios from MCP Description - 'mcpdesc' files -, run them, and detect regressions with golden files.",
   "first_seen": "2026-11-01 19:20:37"
+ },
+ {
+  "vendor": "思科",
+  "org": "cisco-open",
+  "full_name": "cisco-open/.github",
+  "url": "https://github.com/cisco-open/.github",
+  "sec_path": "docs/SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 19:20:37",
+  "last_verified": "2026-11-14 12:55:53"
  },
  {
   "vendor": "思科",

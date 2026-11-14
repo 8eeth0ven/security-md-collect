@@ -2,17 +2,6 @@
  {
   "vendor": "亚马逊",
   "org": "aws",
-  "full_name": "aws/s2n-tls",
-  "url": "https://github.com/aws/s2n-tls",
-  "sec_path": "SECURITY.md",
-  "stars": 4788,
-  "language": "C",
-  "description": "An implementation of the TLS/SSL protocols",
-  "first_seen": "2026-11-01 18:15:10"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws",
   "full_name": "aws/aws-lambda-web-adapter",
   "url": "https://github.com/aws/aws-lambda-web-adapter",
   "sec_path": "SECURITY.md",
@@ -49,7 +38,7 @@
   "full_name": "awslabs/cli-agent-orchestrator",
   "url": "https://github.com/awslabs/cli-agent-orchestrator",
   "sec_path": "SECURITY.md",
-  "stars": 1548,
+  "stars": 1554,
   "language": "Python",
   "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
   "first_seen": "2026-11-01 18:22:43"
@@ -60,21 +49,10 @@
   "full_name": "awslabs/aws-support-tools",
   "url": "https://github.com/awslabs/aws-support-tools",
   "sec_path": "SECURITY.md",
-  "stars": 1510,
+  "stars": 1509,
   "language": "Python",
   "description": "Tools and sample code provided by AWS Premium Support.",
   "first_seen": "2026-11-01 18:23:38"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws",
-  "full_name": "aws/s2n-quic",
-  "url": "https://github.com/aws/s2n-quic",
-  "sec_path": "SECURITY.md",
-  "stars": 1380,
-  "language": "Rust",
-  "description": "An implementation of the IETF QUIC protocol",
-  "first_seen": "2026-11-01 18:15:10"
  },
  {
   "vendor": "亚马逊",
@@ -686,6 +664,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/uaef",
+  "url": "https://github.com/awslabs/uaef",
+  "sec_path": "SECURITY.md",
+  "stars": 91,
+  "language": "Python",
+  "description": "Universal Agent Evaluation Framework (UAEF) is a framework-agnostic evaluation system for AI agents. Invoke any agent and score it on multiple metrics spanning …",
+  "first_seen": "2026-11-01 18:22:43"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws",
   "full_name": "aws/modern-data-architecture-accelerator",
   "url": "https://github.com/aws/modern-data-architecture-accelerator",
@@ -742,12 +731,12 @@
  {
   "vendor": "亚马逊",
   "org": "awslabs",
-  "full_name": "awslabs/uaef",
-  "url": "https://github.com/awslabs/uaef",
+  "full_name": "awslabs/filemoverexpress",
+  "url": "https://github.com/awslabs/filemoverexpress",
   "sec_path": "SECURITY.md",
-  "stars": 84,
-  "language": "Python",
-  "description": "Universal Agent Evaluation Framework (UAEF) is a framework-agnostic evaluation system for AI agents. Invoke any agent and score it on multiple metrics spanning …",
+  "stars": 82,
+  "language": "TypeScript",
+  "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
   "first_seen": "2026-11-01 18:22:43"
  },
  {
@@ -760,17 +749,6 @@
   "language": "TypeScript",
   "description": "AI-Driven Threat Modeling & Attack Tree Generation with MITRE ATT&CK Integration",
   "first_seen": "2026-11-01 18:18:41"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/filemoverexpress",
-  "url": "https://github.com/awslabs/filemoverexpress",
-  "sec_path": "SECURITY.md",
-  "stars": 78,
-  "language": "TypeScript",
-  "description": "High-performance file transfer application for moving media assets between local filesystems and Amazon S3. https://awslabs.github.io/filemoverexpress/",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -1164,6 +1142,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/knfsd-file-cache",
+  "url": "https://github.com/awslabs/knfsd-file-cache",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 28,
+  "language": "Go",
+  "description": "A set of utilities for building, deploying and operating a high performance NFS Cache in Amazon Web Services. This is designed to be used for certain HPC and bu…",
+  "first_seen": "2026-11-01 18:22:43"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws",
   "full_name": "aws/aws-msk-iam-sasl-signer-go",
   "url": "https://github.com/aws/aws-msk-iam-sasl-signer-go",
@@ -1172,17 +1161,6 @@
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:16:12"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/knfsd-file-cache",
-  "url": "https://github.com/awslabs/knfsd-file-cache",
-  "sec_path": "docs/SECURITY.md",
-  "stars": 27,
-  "language": "Go",
-  "description": "A set of utilities for building, deploying and operating a high performance NFS Cache in Amazon Web Services. This is designed to be used for certain HPC and bu…",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -1538,6 +1516,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/pii-anonymizer",
+  "url": "https://github.com/awslabs/pii-anonymizer",
+  "sec_path": "SECURITY.md",
+  "stars": 16,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 18:22:43"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws-samples",
   "full_name": "aws-samples/sample-financial-fraud-detection-with-nvidia",
   "url": "https://github.com/aws-samples/sample-financial-fraud-detection-with-nvidia",
@@ -1569,17 +1558,6 @@
   "language": "Python",
   "description": "Amazon Bedrock observability dashboard. One-command CloudFormation deploy into your own account: per-account/model/tag cost attribution, applied-quota tracking,…",
   "first_seen": "2026-11-01 18:19:35"
- },
- {
-  "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/pii-anonymizer",
-  "url": "https://github.com/awslabs/pii-anonymizer",
-  "sec_path": "SECURITY.md",
-  "stars": 15,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 18:22:43"
  },
  {
   "vendor": "亚马逊",
@@ -2021,17 +1999,6 @@
  },
  {
   "vendor": "亚马逊",
-  "org": "aws",
-  "full_name": "aws/.github",
-  "url": "https://github.com/aws/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 18:16:12"
- },
- {
-  "vendor": "亚马逊",
   "org": "aws-samples",
   "full_name": "aws-samples/sample-serverless-ai-sandbox",
   "url": "https://github.com/aws-samples/sample-serverless-ai-sandbox",
@@ -2357,19 +2324,19 @@
  {
   "vendor": "亚马逊",
   "org": "awslabs",
-  "full_name": "awslabs/cid-gcp-cost-dashboard",
-  "url": "https://github.com/awslabs/cid-gcp-cost-dashboard",
+  "full_name": "awslabs/researchstack-on-aws",
+  "url": "https://github.com/awslabs/researchstack-on-aws",
   "sec_path": "SECURITY.md",
   "stars": 5,
-  "language": null,
-  "description": "",
+  "language": "Python",
+  "description": "CloudFormation templates and optional Service Catalog governance for research institutions on AWS. Pre-built compute, storage, ML, and networking templates with…",
   "first_seen": "2026-11-01 18:23:38"
  },
  {
   "vendor": "亚马逊",
   "org": "awslabs",
-  "full_name": "awslabs/.github",
-  "url": "https://github.com/awslabs/.github",
+  "full_name": "awslabs/cid-gcp-cost-dashboard",
+  "url": "https://github.com/awslabs/cid-gcp-cost-dashboard",
   "sec_path": "SECURITY.md",
   "stars": 5,
   "language": null,
@@ -2545,17 +2512,6 @@
  },
  {
   "vendor": "亚马逊",
-  "org": "awslabs",
-  "full_name": "awslabs/researchstack-on-aws",
-  "url": "https://github.com/awslabs/researchstack-on-aws",
-  "sec_path": "SECURITY.md",
-  "stars": 4,
-  "language": "Python",
-  "description": "CloudFormation templates and optional Service Catalog governance for research institutions on AWS. Pre-built compute, storage, ML, and networking templates with…",
-  "first_seen": "2026-11-01 18:23:38"
- },
- {
-  "vendor": "亚马逊",
   "org": "aws-samples",
   "full_name": "aws-samples/sample-eks-inference-platform",
   "url": "https://github.com/aws-samples/sample-eks-inference-platform",
@@ -2634,17 +2590,6 @@
   "language": "TypeScript",
   "description": "",
   "first_seen": "2026-11-01 18:16:12"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-amplify",
-  "full_name": "aws-amplify/.github",
-  "url": "https://github.com/aws-amplify/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 18:17:41"
  },
  {
   "vendor": "亚马逊",
@@ -3738,6 +3683,58 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "aws",
+  "full_name": "aws/s2n-quic",
+  "url": "https://github.com/aws/s2n-quic",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:15:10",
+  "last_verified": "2026-11-14 12:54:31"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws",
+  "full_name": "aws/s2n-tls",
+  "url": "https://github.com/aws/s2n-tls",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:15:10",
+  "last_verified": "2026-11-14 12:54:31"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws",
+  "full_name": "aws/.github",
+  "url": "https://github.com/aws/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:16:12",
+  "last_verified": "2026-11-14 12:54:31"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-amplify",
+  "full_name": "aws-amplify/.github",
+  "url": "https://github.com/aws-amplify/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:17:41",
+  "last_verified": "2026-11-14 12:54:37"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "aws-samples",
   "full_name": "aws-samples/sample-kiro-cli-job-scheduler",
   "url": "https://github.com/aws-samples/sample-kiro-cli-job-scheduler",
@@ -4230,6 +4227,19 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:23:38"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "awslabs",
+  "full_name": "awslabs/.github",
+  "url": "https://github.com/awslabs/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:23:38",
+  "last_verified": "2026-11-14 12:54:33"
  },
  {
   "vendor": "亚马逊",
@@ -4745,5 +4755,18 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-13 18:06:42"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/.github",
+  "url": "https://github.com/aws-samples/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 12:54:35",
+  "last_verified": "2026-11-14 12:54:35"
  }
 ]

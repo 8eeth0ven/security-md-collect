@@ -1,0 +1,403 @@
+{
+  "generated_at": "2026-11-14T05:06:59+00:00",
+  "security_md": {
+    "mapped_vendors": 304,
+    "mapped_accounts": 385,
+    "policy_records": 9869,
+    "local_documents": 9869,
+    "default_policy_repositories": 104,
+    "global_coverage_percent": null,
+    "limits": [
+      "Only mapped accounts and discovered repositories, not all GitHub.",
+      "Account default documents are counted once, not expanded across inheriting repos.",
+      "Successful listing does not prove all upstream repositories were enumerated."
+    ],
+    "known_catalog_repositories": 58497,
+    "checked_in_known_catalog": 58497,
+    "never_checked_in_known_catalog": 0,
+    "accounts_with_listing_failures": 0,
+    "accounts_with_truncated_search": 0,
+    "historical_error_rechecks": {
+      "confirmed_absent": 883,
+      "policy_found": 25
+    }
+  },
+  "android": {
+    "generated_at": "2026-11-14T04:55:03+00:00",
+    "targets": 1113,
+    "programs": 420,
+    "unique_packages": 987,
+    "observed": 775,
+    "packages": 1034,
+    "cash": 640,
+    "platforms": [
+      {
+        "key": "bugcrowd",
+        "name": "Bugcrowd",
+        "targets": 158,
+        "cash": 149,
+        "entries": 129
+      },
+      {
+        "key": "ywh",
+        "name": "YesWeHack",
+        "targets": 54,
+        "cash": 54,
+        "entries": 46
+      },
+      {
+        "key": "h1",
+        "name": "HackerOne",
+        "targets": 831,
+        "cash": 389,
+        "entries": 813
+      },
+      {
+        "key": "intigriti",
+        "name": "Intigriti",
+        "targets": 70,
+        "cash": 48,
+        "entries": 60
+      }
+    ],
+    "bounty_counts": {
+      "cash": 640,
+      "inactive": 197,
+      "vdp": 267,
+      "points": 8,
+      "unknown": 1
+    }
+  },
+  "android_sources": [
+    {
+      "platform": "bugcrowd",
+      "source_url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/40c359bae8650a5466ab97560548425ad01e9b64/data/bugcrowd_data.json",
+      "sha256": "3195d1cbdee8929a0001b6a6b250c66b023dc6662a792c6687d9a33ae9087859",
+      "source_programs": 296,
+      "android_scopes_in_source": 130,
+      "observed_records": 128,
+      "added_records": 0,
+      "historical_unconfirmed": 30,
+      "unresolved_packages": 28,
+      "bounty_eligible_observed": 128
+    },
+    {
+      "platform": "ywh",
+      "source_url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/40c359bae8650a5466ab97560548425ad01e9b64/data/yeswehack_data.json",
+      "sha256": "a0a7486c47591d4544e58bf38582a10bbc7d3ba7accdbde4bd047edb77b5bd77",
+      "source_programs": 52,
+      "android_scopes_in_source": 45,
+      "observed_records": 45,
+      "added_records": 0,
+      "historical_unconfirmed": 9,
+      "unresolved_packages": 3,
+      "bounty_eligible_observed": 45
+    },
+    {
+      "platform": "h1",
+      "source_url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/40c359bae8650a5466ab97560548425ad01e9b64/data/hackerone_data.json",
+      "sha256": "01ff53d72f1283cd983af96f7ec2a9caef9ac12603ebf37db06aabe9a29dd834",
+      "source_programs": 450,
+      "android_scopes_in_source": 544,
+      "observed_records": 532,
+      "added_records": 0,
+      "historical_unconfirmed": 299,
+      "unresolved_packages": 10,
+      "bounty_eligible_observed": 338
+    },
+    {
+      "platform": "intigriti",
+      "source_url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/40c359bae8650a5466ab97560548425ad01e9b64/data/intigriti_data.json",
+      "sha256": "88d2ace2e4e0bd37b3011d98134bf27f607d61f268562e99dc075862e420ef9f",
+      "source_programs": 144,
+      "android_scopes_in_source": 70,
+      "observed_records": 70,
+      "added_records": 0,
+      "historical_unconfirmed": 0,
+      "unresolved_packages": 10,
+      "bounty_eligible_observed": 48
+    }
+  ],
+  "domestic_src": {
+    "observed_at": "2026-11-14T04:55:58+00:00",
+    "status": "incomplete_not_part_of_confirmed_apk_totals",
+    "vendor_registry": [
+      {
+        "vendor": "腾讯",
+        "src": "TSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "阿里巴巴",
+        "src": "ASRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "蚂蚁集团",
+        "src": "蚂蚁SRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "字节跳动",
+        "src": "字节跳动SRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "美团",
+        "src": "美团MSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "京东",
+        "src": "JSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "京东云",
+        "src": "JSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "百度",
+        "src": "BSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "华为",
+        "src": "Huawei PSIRT",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "华为云",
+        "src": "Huawei PSIRT",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "荣耀",
+        "src": "HSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "小米",
+        "src": "MiSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "中兴",
+        "src": "ZTE PSIRT",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "360",
+        "src": "360SRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "哔哩哔哩",
+        "src": "哔哩哔哩SRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "快手",
+        "src": "快手SRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "网易",
+        "src": "网易SRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "滴滴",
+        "src": "DSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "携程",
+        "src": "携程SRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "唯品会",
+        "src": "VSRC",
+        "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "海康威视",
+        "src": "海康威视PSIRT",
+        "status": "package_scope_not_audited"
+      }
+    ],
+    "sources": [
+      {
+        "vendor": "360",
+        "url": "https://src.360.cn/Product/product",
+        "http_status": 200,
+        "sha256": "b7c75607f866d694a25417601f0c4500980cd9043c98d2996c54b9c885b4c846",
+        "status": "mobile_product_catalog_read"
+      },
+      {
+        "vendor": "360",
+        "url": "https://src.360.cn/Reward/reward",
+        "http_status": 200,
+        "sha256": "4433123351b31881c205de95817c30cb46366f98a7a8660e20dee69e63f5ea5e",
+        "status": "reward_rules_read_per_product_eligibility_unresolved"
+      },
+      {
+        "vendor": "vivo",
+        "url": "https://security.vivo.com.cn/assets/vivoSRC_process_2_0.pdf",
+        "http_status": 200,
+        "sha256": "e39a76e960b2b837cf2e41364fb263f5fdd338998016c5cdd86308dab0806691",
+        "status": "system_and_own_apps_rules_read_no_package_inventory",
+        "document_version": "V2.0 2023-07-03"
+      },
+      {
+        "vendor": "腾讯",
+        "url": "https://security.tencent.com/uploadimg_dir/other/TSRC.pdf",
+        "http_status": 404,
+        "status": "source_unavailable_search_snippets_not_used_as_scope"
+      }
+    ],
+    "mobile_products": [
+      {
+        "vendor": "360",
+        "product": "360手机卫士",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/21",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360手机助手",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/22",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360手机浏览器",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/23",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360清理大师",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/26",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360安全云盘 手机版",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/30",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360账号卫士",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/170",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360儿童卫士",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/223",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360手游大厅",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/228",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360商城",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/235",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360儿童机器人",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/237",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360亲情卫士",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/247",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360防骚扰大师",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/272",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "云趣",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/282",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360摄像机APP",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/307",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "行车记录仪APP",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/308",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "坦克营地",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/314",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360智慧生活",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/319",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "360壁纸",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/340",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      },
+      {
+        "vendor": "360",
+        "product": "快剪辑",
+        "scope_url": "https://src.360.cn/Product/productDetail/id/342",
+        "status": "mobile_product_listed_android_package_and_reward_unresolved",
+        "package": null
+      }
+    ],
+    "limits": [
+      "Product list includes mobile products; not all are confirmed Android APKs.",
+      "Product registration alone does not prove current cash bounty eligibility or maintained version.",
+      "Private scopes and temporary activities require separate current official verification."
+    ]
+  },
+  "verdict": "Incomplete: measured source coverage, with explicit unresolved and inaccessible scope."
+}

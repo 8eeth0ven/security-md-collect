@@ -14,6 +14,8 @@
 
 这里有两个在线入口：[开源 SECURITY.md 策略看板](https://8eeth0ven.github.io/security-md-collect/)和 [Android APK 与赏金项目目录](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html)。APK 目录覆盖四个平台的公开快照，支持赏金状态、平台与应用入口筛选，默认优先显示有赏金记录。
 
+**收集是否全面？目前仍有缺口。** 查看[覆盖审计与待补清单](docs/coverage.md)：分别列出已知 GitHub 仓库的检查进度、账户默认策略、四平台来源覆盖、历史待复核目标和国内 SRC 逐包缺口。APK 镜像入口仍为未验证候选。
+
 ## 先看效果
 
 默认使用纯白的明亮主题。右上角「外观」可切换 **明亮 / 深色 / 跟随系统**，自动记住选择。

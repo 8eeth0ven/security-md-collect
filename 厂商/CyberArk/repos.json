@@ -750,17 +750,6 @@
  {
   "vendor": "CyberArk",
   "org": "cyberark",
-  "full_name": "cyberark/.github",
-  "url": "https://github.com/cyberark/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": null,
-  "description": "Common github templates for cyberark",
-  "first_seen": "2026-11-01 18:56:00"
- },
- {
-  "vendor": "CyberArk",
-  "org": "cyberark",
   "full_name": "cyberark/authn-jwt-gitlab",
   "url": "https://github.com/cyberark/authn-jwt-gitlab",
   "sec_path": "SECURITY.md",
@@ -889,6 +878,19 @@
   "language": "Go",
   "description": "Buildpack for the CyberArk Secrets Manager / Cloud Foundry integration",
   "first_seen": "2026-11-01 18:56:00"
+ },
+ {
+  "vendor": "CyberArk",
+  "org": "cyberark",
+  "full_name": "cyberark/.github",
+  "url": "https://github.com/cyberark/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "CyberArk",

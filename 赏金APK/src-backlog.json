@@ -1,0 +1,281 @@
+{
+  "observed_at": "2026-11-14T04:55:58+00:00",
+  "status": "incomplete_not_part_of_confirmed_apk_totals",
+  "vendor_registry": [
+    {
+      "vendor": "腾讯",
+      "src": "TSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "阿里巴巴",
+      "src": "ASRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "蚂蚁集团",
+      "src": "蚂蚁SRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "字节跳动",
+      "src": "字节跳动SRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "美团",
+      "src": "美团MSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "京东",
+      "src": "JSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "京东云",
+      "src": "JSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "百度",
+      "src": "BSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "华为",
+      "src": "Huawei PSIRT",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "华为云",
+      "src": "Huawei PSIRT",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "荣耀",
+      "src": "HSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "小米",
+      "src": "MiSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "中兴",
+      "src": "ZTE PSIRT",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "360",
+      "src": "360SRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "哔哩哔哩",
+      "src": "哔哩哔哩SRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "快手",
+      "src": "快手SRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "网易",
+      "src": "网易SRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "滴滴",
+      "src": "DSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "携程",
+      "src": "携程SRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "唯品会",
+      "src": "VSRC",
+      "status": "package_scope_not_audited"
+    },
+    {
+      "vendor": "海康威视",
+      "src": "海康威视PSIRT",
+      "status": "package_scope_not_audited"
+    }
+  ],
+  "sources": [
+    {
+      "vendor": "360",
+      "url": "https://src.360.cn/Product/product",
+      "http_status": 200,
+      "sha256": "b7c75607f866d694a25417601f0c4500980cd9043c98d2996c54b9c885b4c846",
+      "status": "mobile_product_catalog_read"
+    },
+    {
+      "vendor": "360",
+      "url": "https://src.360.cn/Reward/reward",
+      "http_status": 200,
+      "sha256": "4433123351b31881c205de95817c30cb46366f98a7a8660e20dee69e63f5ea5e",
+      "status": "reward_rules_read_per_product_eligibility_unresolved"
+    },
+    {
+      "vendor": "vivo",
+      "url": "https://security.vivo.com.cn/assets/vivoSRC_process_2_0.pdf",
+      "http_status": 200,
+      "sha256": "e39a76e960b2b837cf2e41364fb263f5fdd338998016c5cdd86308dab0806691",
+      "status": "system_and_own_apps_rules_read_no_package_inventory",
+      "document_version": "V2.0 2023-07-03"
+    },
+    {
+      "vendor": "腾讯",
+      "url": "https://security.tencent.com/uploadimg_dir/other/TSRC.pdf",
+      "http_status": 404,
+      "status": "source_unavailable_search_snippets_not_used_as_scope"
+    }
+  ],
+  "mobile_products": [
+    {
+      "vendor": "360",
+      "product": "360手机卫士",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/21",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360手机助手",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/22",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360手机浏览器",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/23",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360清理大师",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/26",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360安全云盘 手机版",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/30",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360账号卫士",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/170",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360儿童卫士",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/223",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360手游大厅",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/228",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360商城",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/235",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360儿童机器人",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/237",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360亲情卫士",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/247",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360防骚扰大师",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/272",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "云趣",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/282",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360摄像机APP",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/307",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "行车记录仪APP",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/308",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "坦克营地",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/314",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360智慧生活",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/319",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "360壁纸",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/340",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    },
+    {
+      "vendor": "360",
+      "product": "快剪辑",
+      "scope_url": "https://src.360.cn/Product/productDetail/id/342",
+      "status": "mobile_product_listed_android_package_and_reward_unresolved",
+      "package": null
+    }
+  ],
+  "limits": [
+    "Product list includes mobile products; not all are confirmed Android APKs.",
+    "Product registration alone does not prove current cash bounty eligibility or maintained version.",
+    "Private scopes and temporary activities require separate current official verification."
+  ]
+}

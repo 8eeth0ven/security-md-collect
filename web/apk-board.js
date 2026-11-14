@@ -2,6 +2,7 @@
 (() => {
   const I18N = {
     zh: {
+      coverage: "覆盖与待补清单",
       skip: "跳到应用目录",
       explore: "探索数据",
       policies: "策略仓库",
@@ -59,6 +60,10 @@
       prev: "上一页",
       next: "下一页",
       last: "末页",
+      fromScope: "官方范围中的包名",
+      observed: "本轮来源有记录",
+      historical: "历史快照 · 本轮未确认",
+      scopeSource: "范围来源",
       notes: "数据说明",
       expand: "展开 / 收起 +",
       notesBody:
@@ -87,6 +92,7 @@
       retry: "重新加载",
     },
     en: {
+      coverage: "Coverage & gaps",
       skip: "Skip to app directory",
       explore: "EXPLORE",
       policies: "Policy repositories",
@@ -146,6 +152,10 @@
       prev: "Previous",
       next: "Next",
       last: "Last",
+      fromScope: "Package ID in scope",
+      observed: "Observed in this source refresh",
+      historical: "Historical · not reconfirmed",
+      scopeSource: "Scope source",
       notes: "About the data",
       expand: "Expand / collapse +",
       notesBody:
@@ -333,8 +343,8 @@
         ? "manual"
         : row.package_source === "play"
           ? "fromPlay"
-          : "unspecified";
-    return `<tr><td>${link(row.program, row.url)}<div class="apk-meta">${esc(names[row.platform] || row.platform)} · ${esc(t(row.bounty))}</div></td><td><div class="target-text" title="${esc(row.target)}">${esc(target)}</div><code class="package">${esc(row.package || t("missing"))}</code>${row.package ? `<span class="apk-review">${esc(t(source))}</span>` : ""}</td><td><span class="reward-badge">${esc(t(row.bounty))}</span><div class="apk-meta">${esc(row.reward)}</div></td><td><div class="apk-links">${link(t("project"), row.url)}${link("Google Play", row.play)}${link(t("direct"), row.apk_direct)}${link(t("xapk"), row.xapk, true)}${link(t("apk"), row.apk, true)}</div></td></tr>`;
+          : row.package_source === "scope" ? "fromScope" : "unspecified";
+    return `<tr><td>${link(row.program, row.url)}<div class="apk-meta">${esc(names[row.platform] || row.platform)} · ${esc(t(row.bounty))}</div><div class="apk-meta">${esc(t(row.scope_observation === "observed" ? "observed" : "historical"))}</div></td><td><div class="target-text" title="${esc(row.target)}">${esc(target)}</div><code class="package">${esc(row.package || t("missing"))}</code>${row.package ? `<span class="apk-review">${esc(t(source))}</span>` : ""}</td><td><span class="reward-badge">${esc(t(row.bounty))}</span><div class="apk-meta">${esc(row.reward)}</div></td><td><div class="apk-links">${link(t("project"), row.url)}${link(t("scopeSource"), row.scope_source)}${link("Google Play", row.play)}${link(t("direct"), row.apk_direct)}${link(t("xapk"), row.xapk, true)}${link(t("apk"), row.apk, true)}</div></td></tr>`;
   }
   function render() {
     if (!ready) return;

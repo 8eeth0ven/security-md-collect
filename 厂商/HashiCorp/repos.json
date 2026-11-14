@@ -119,18 +119,6 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
-  "full_name": "hashicorp/.github",
-  "url": "https://github.com/hashicorp/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 9,
-  "language": null,
-  "description": "HashiCorp Default Community Health Files",
-  "license": null,
-  "first_seen": "2026-11-02 05:21:46"
- },
- {
-  "vendor": "HashiCorp",
-  "org": "hashicorp",
   "full_name": "hashicorp/magic-modules",
   "url": "https://github.com/hashicorp/magic-modules",
   "sec_path": ".github/SECURITY.md",
@@ -257,5 +245,18 @@
   "description": "Moved to https://github.com/integrations/terraform-provider-github",
   "license": null,
   "first_seen": "2026-11-02 05:22:45"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
+  "full_name": "hashicorp/.github",
+  "url": "https://github.com/hashicorp/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 12:58:57"
  }
 ]

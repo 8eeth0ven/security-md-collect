@@ -1,39 +1,80 @@
-# Intigriti Android/APK 目标清单
+# Intigriti Android 范围清单
 
-> 抓取时间：2026-11-13 ｜ 来源：Algolia 公开索引 `programs_prod`（前端 JS 内嵌搜索凭据，AppID `AAZUKSYAR4`）全量 **195 项目**（赏金 115 + VDP 80）→ 逐项目匿名 preview 详情 182 成功 / 13 平台拒绝
->
-> **结论**：Intigriti 匿名可见面**不含 brief scope（目标清单）**——完整目标列表在研究者登录墙内（`/api/core/public/programs/{company}/{handle}` 返回 403）。匿名 preview 只有短描述 + 赏金表。因此本清单基于公开描述的 Android 线索提取，**无一个可确认的包名/APK 直链**；需登录研究者账号后按受阻记录补 scope。
+[打开在线筛选](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html?platform=intigriti&bounty=all) · [原始记录](intigriti_android.json) · [覆盖审计](../docs/coverage.md)
 
-## 一、有直达链接的 APK
+目标记录 70 条；唯一有效格式包名 60 个。快照整理时间：2026-11-14T04:55:03+00:00。
 
-**0 个** —— 匿名面无任何项目给出 Play 链接、包名或 .apk 直链。
+赏金状态基于各次快照；历史待核不代表当前仍在范围。镜像未验证，范围和维护版本以官方页面为准。
 
-## 二、公开描述提及 Android 但无直达链的项目（需登录补包名）
-
-| 项目 | 赏金属性 | 公开描述线索 | 项目页 |
-|---|---|---|---|
-| [Skoda Auto Bug Bounty Program](https://app.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram) | 赏金 | rogram run by Škoda Auto a.s. It is focused on the newest version of MyŠkoda mobile application available for iOS and Android. We appreciate the possibility to work with you either remotely or by join | `skodaauto/skodaautoprivatebugbountyprogram` |
-
-## 三、preview 被平台拒绝的项目（13 个，无法匿名读取任何描述）
-
-其中 Aylo 系列（Pornhub/Brazzers/Nutaku 等）为知名 Android App 发行方，scope 大概率含 Android 目标，优先补。
-
-| 项目 | 赏金属性 | 公司 |
-|---|---|---|
-| `app.intigriti.com/programs/skodaauto/cariadvdp` | VDP | skodaauto |
-| `app.intigriti.com/programs/aylo/nutaku-bbp` | 赏金 | aylo |
-| `app.intigriti.com/programs/aylo/brazzers-bbp` | 赏金 | aylo |
-| `app.intigriti.com/programs/aylo/pornhub-bbp` | 赏金 | aylo |
-| `app.intigriti.com/programs/aylo/mydirtyhobby-bbp` | 赏金 | aylo |
-| `app.intigriti.com/programs/aylo/trafficjunky-bbp` | 赏金 | aylo |
-| `app.intigriti.com/programs/aylo/probiller-bbp` | 赏金 | aylo |
-| `app.intigriti.com/programs/liveperson/livepersonconversationalcloud` | 赏金 | liveperson |
-| `app.intigriti.com/programs/colruyt/newpharma` | 赏金 | colruyt |
-| `app.intigriti.com/programs/colruyt/colruytgroupidcheck` | 赏金 | colruyt |
-| `app.intigriti.com/programs/sdworx/myworkandme` | 赏金 | sdworx |
-| `app.intigriti.com/programs/telenet/telenetgroup` | 赏金 | telenet |
-| `app.intigriti.com/programs/belfius/belfius` | 赏金 | belfius |
-
-## 受阻与端点尝试记录
-
-见 `Intigriti_受阻记录.md`。
+| 项目 | 目标 / 包名 | 赏金状态 | 来源观察 |
+| --- | --- | --- | --- |
+| [Attentia VDP](https://www.intigriti.com/programs/attentia/attentiavdp/detail) | Attie by Attentia - Android | VDP / 无赏金 | 本轮来源有记录 |
+| [Attentia VDP](https://www.intigriti.com/programs/attentia/attentiavdp/detail) | My Attentia - Android | VDP / 无赏金 | 本轮来源有记录 |
+| [Bitvavo VDP](https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail) | com.bitvavo.android | VDP / 无赏金 | 本轮来源有记录 |
+| [BMW Group Automotive](https://www.intigriti.com/programs/bmw/bmwgroup-automotive/detail) | de.bmw.connected.mobile20.row | 快照有赏金 | 本轮来源有记录 |
+| [Bpost](https://www.intigriti.com/programs/bpost/dummy/detail) | be.bpost.mobilecard | VDP / 无赏金 | 本轮来源有记录 |
+| [Bpost](https://www.intigriti.com/programs/bpost/dummy/detail) | be.bpost.mybpost | VDP / 无赏金 | 本轮来源有记录 |
+| [Canada Post - Responsible Disclosure Program](https://www.intigriti.com/programs/innovapost/innovapost/detail) | com.canadapost.android | VDP / 无赏金 | 本轮来源有记录 |
+| [Capital.com](https://www.intigriti.com/programs/capitalcom/capitalcom/detail) | com.capital.trading | 快照有赏金 | 本轮来源有记录 |
+| [CM.com](https://www.intigriti.com/programs/cmcom/cmcom/detail) | com.cm.cashregister | VDP / 无赏金 | 本轮来源有记录 |
+| [CM.com](https://www.intigriti.com/programs/cmcom/cmcom/detail) | com.ticketflow.ticketscanner | VDP / 无赏金 | 本轮来源有记录 |
+| [Coke One North America](https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail) | myCoke - Android | VDP / 无赏金 | 本轮来源有记录 |
+| [Delen Private Bank](https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail) | be.delen.digital | 快照有赏金 | 本轮来源有记录 |
+| [Donorbox Vulnerability Disclosure Project](https://www.intigriti.com/programs/donorbox/donorboxvdp/detail) | org.donorbox.cardreader | VDP / 无赏金 | 本轮来源有记录 |
+| [Dropbox Bug Bounty](https://www.intigriti.com/programs/dropbox/dropbox/detail) | com.dropbox.android | 快照有赏金 | 本轮来源有记录 |
+| [Dropbox Bug Bounty](https://www.intigriti.com/programs/dropbox/dropbox/detail) | com.dropbox.dash | VDP / 无赏金 | 本轮来源有记录 |
+| [ICI PARIS XL](https://www.intigriti.com/programs/aswatson/iciparisxl/detail) | com.iciparisxl.app | 快照有赏金 | 本轮来源有记录 |
+| [Intergamma](https://www.intigriti.com/programs/intergamma/intergamma/detail) | be.gamma.app.android | 快照有赏金 | 本轮来源有记录 |
+| [Intergamma](https://www.intigriti.com/programs/intergamma/intergamma/detail) | nl.gamma.app.android | 快照有赏金 | 本轮来源有记录 |
+| [Intergamma](https://www.intigriti.com/programs/intergamma/intergamma/detail) | nl.gamma.verf | VDP / 无赏金 | 本轮来源有记录 |
+| [Intergamma](https://www.intigriti.com/programs/intergamma/intergamma/detail) | nl.karwei.app.android | 快照有赏金 | 本轮来源有记录 |
+| [Kinepolis Group](https://www.intigriti.com/programs/kinepolis/website/detail) | com.inthepocket.kinepolis | 快照有赏金 | 本轮来源有记录 |
+| [Kinepolis Group](https://www.intigriti.com/programs/kinepolis/website/detail) | nz.co.vista.android.movie.mjrtheatres | 快照有赏金 | 本轮来源有记录 |
+| [Kruidvat](https://www.intigriti.com/programs/aswatson/kruidvat/detail) | be.kruidvat.voordeelkaart | 快照有赏金 | 本轮来源有记录 |
+| [Kruidvat](https://www.intigriti.com/programs/aswatson/kruidvat/detail) | nl.kruidvat.voordeelkaart | 快照有赏金 | 本轮来源有记录 |
+| [Marionnaud](https://www.intigriti.com/programs/aswatson/marionnaud/detail) | at.marionnaud.customer | 快照有赏金 | 本轮来源有记录 |
+| [Marionnaud](https://www.intigriti.com/programs/aswatson/marionnaud/detail) | ch.marionnaud.customer | 快照有赏金 | 本轮来源有记录 |
+| [Marionnaud](https://www.intigriti.com/programs/aswatson/marionnaud/detail) | com.marionnaud.marionnaudfrance | 快照有赏金 | 本轮来源有记录 |
+| [Marionnaud](https://www.intigriti.com/programs/aswatson/marionnaud/detail) | cz.marionnaud.customer | 快照有赏金 | 本轮来源有记录 |
+| [Marionnaud](https://www.intigriti.com/programs/aswatson/marionnaud/detail) | hu.marionnaud.customer | 快照有赏金 | 本轮来源有记录 |
+| [Marionnaud](https://www.intigriti.com/programs/aswatson/marionnaud/detail) | it.marionnaud.customer | 快照有赏金 | 本轮来源有记录 |
+| [Marionnaud](https://www.intigriti.com/programs/aswatson/marionnaud/detail) | ro.marionnaud.customer | 快照有赏金 | 本轮来源有记录 |
+| [Marionnaud](https://www.intigriti.com/programs/aswatson/marionnaud/detail) | sk.marionnaud.customer | 快照有赏金 | 本轮来源有记录 |
+| [Monzo Public Bug Bounty Program](https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail) | co.uk.getmondo | 快照有赏金 | 本轮来源有记录 |
+| [Nexuzhealth](https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail) | be.nexuzhealth.mobile.cpv | 快照有赏金 | 本轮来源有记录 |
+| [Nexuzhealth](https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail) | be.nexuzhealth.mobile.kws | 快照有赏金 | 本轮来源有记录 |
+| [Nexuzhealth](https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail) | be.nexuzhealth.mobile.mynexuz | 快照有赏金 | 本轮来源有记录 |
+| [Orbia Responsible Disclosure](https://www.intigriti.com/programs/orbia/orbiavdp/detail) | br.com.ideia2001.CatalogoWavin | VDP / 无赏金 | 本轮来源有记录 |
+| [Orbia Responsible Disclosure](https://www.intigriti.com/programs/orbia/orbiavdp/detail) | com.RD3Digital.AmancoWavinRA | VDP / 无赏金 | 本轮来源有记录 |
+| [Orbia Responsible Disclosure](https://www.intigriti.com/programs/orbia/orbiavdp/detail) | com.instalsoft.wavinsmartinstalsystem | VDP / 无赏金 | 本轮来源有记录 |
+| [Orbia Responsible Disclosure](https://www.intigriti.com/programs/orbia/orbiavdp/detail) | com.wavin.sentio | VDP / 无赏金 | 本轮来源有记录 |
+| [OURA Vulnerability Disclosure Program](https://www.intigriti.com/programs/ourahealthoy/ouravulnerabilitydisclosureprogram/detail) | Oura Android App | VDP / 无赏金 | 本轮来源有记录 |
+| [Posten Bring Responsible Disclosure](https://www.intigriti.com/programs/postenbringas/vdp/detail) | Digipost Android app | VDP / 无赏金 | 本轮来源有记录 |
+| [Posti Bug Bounty ](https://www.intigriti.com/programs/posti/postibugbounty/detail) | fi.itella.posti.android | 快照有赏金 | 本轮来源有记录 |
+| [Rivian Bug Bounty](https://www.intigriti.com/programs/rivian/rivianbugbounty/detail) | Rivian Android Application | 快照有赏金 | 本轮来源有记录 |
+| [Rivian Vulnerability Disclosure Program](https://www.intigriti.com/programs/rivian/rivianvdp/detail) | Rivian Android Application | VDP / 无赏金 | 本轮来源有记录 |
+| [Skoda Auto Bug Bounty Program](https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail) | cz.skodaauto.myskoda | 快照有赏金 | 本轮来源有记录 |
+| [Social Deal](https://www.intigriti.com/programs/socialdeal/socialdeal/detail) | app.nl.socialdeal | 快照有赏金 | 本轮来源有记录 |
+| [Speakap Responsible Disclosure](https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail) | nl.speakap.speakap | VDP / 无赏金 | 本轮来源有记录 |
+| [Storebrand Responsible Disclosure](https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail) | Kron - Sparing og pensjon - Android | VDP / 无赏金 | 本轮来源有记录 |
+| [Superdrug](https://www.intigriti.com/programs/aswatson/superdrug/detail) | superdrug.com.beautycard | 快照有赏金 | 本轮来源有记录 |
+| [Superdrug](https://www.intigriti.com/programs/aswatson/superdrug/detail) | uk.co.savers | 快照有赏金 | 本轮来源有记录 |
+| [The Perfume Shop](https://www.intigriti.com/programs/aswatson/theperfumeshop/detail) | com.theperfumeshop.customer | 快照有赏金 | 本轮来源有记录 |
+| [Toast VDP](https://www.intigriti.com/programs/toast/toastvdp/detail) | All Toast's Android Apps | VDP / 无赏金 | 本轮来源有记录 |
+| [Tomorrowland](https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail) | com.tomorrowland.oneworldradio | 快照有赏金 | 本轮来源有记录 |
+| [Veriff Bug Bounty](https://www.intigriti.com/programs/veriff/veriffbugbounty/detail) | com.veriff.demo | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | LookAtMe Philippines Android | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.asw.moneyback | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.mobular.watsons | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.mtelnet.watson.ph | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.mtelnet.watson.thailand | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.ndn.android.watsons | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.parknshop.parknshopapp | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.watsons.id.android | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.watsons.mcommerce | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.watsons.sg.android | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | com.watsons.vn.android | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | fortress.fortressapp | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | lt.drogas.consumer | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | lv.drogas.consumer | 快照有赏金 | 本轮来源有记录 |
+| [Watsons](https://www.intigriti.com/programs/aswatson/watsons/detail) | tw.com.watsons.app | 快照有赏金 | 本轮来源有记录 |

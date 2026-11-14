@@ -150,17 +150,6 @@
  {
   "vendor": "Block (Square/Cash App)",
   "org": "block",
-  "full_name": "block/.github",
-  "url": "https://github.com/block/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 18:29:54"
- },
- {
-  "vendor": "Block (Square/Cash App)",
-  "org": "block",
   "full_name": "block/echoapp",
   "url": "https://github.com/block/echoapp",
   "sec_path": "SECURITY.md",
@@ -224,5 +213,18 @@
   "language": "Go",
   "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data sil…",
   "first_seen": "2026-11-01 18:29:54"
+ },
+ {
+  "vendor": "Block (Square/Cash App)",
+  "org": "block",
+  "full_name": "block/.github",
+  "url": "https://github.com/block/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:29:54",
+  "last_verified": "2026-11-14 13:00:38"
  }
 ]

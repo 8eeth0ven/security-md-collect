@@ -2,6 +2,7 @@
 (() => {
   const strings = {
     zh: {
+      coverage: "覆盖与待补清单",
       skip: "跳到仓库目录",
       workspace: "探索数据",
       catalog: "策略仓库",
@@ -71,6 +72,7 @@
       contribute: "参与维护 ↗",
     },
     en: {
+      coverage: "Coverage & gaps",
       skip: "Skip to repositories",
       workspace: "EXPLORE",
       catalog: "Policy repositories",

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14 11:39:00",
+ "generated_at": "2026-11-14 13:00:52",
  "mode": "html",
  "totals": {
-  "vendors": 243,
-  "orgs": 306,
+  "vendors": 304,
+  "orgs": 385,
   "orgs_swept": 306,
-  "sec_repos": 9750,
-  "negative_cached": 49370
+  "sec_repos": 9869,
+  "negative_cached": 49674
  },
  "vendors": [
   {
@@ -15,7 +15,7 @@
    "orgs": [
     "apache"
    ],
-   "sec_repos": 292
+   "sec_repos": 293
   },
   {
    "vendor": "CNCF云原生基金会",
@@ -31,7 +31,7 @@
     "envoyproxy",
     "argoproj"
    ],
-   "sec_repos": 153
+   "sec_repos": 157
   },
   {
    "vendor": "深度求索DeepSeek",
@@ -689,7 +689,7 @@
     "ms-iot",
     "nuget"
    ],
-   "sec_repos": 2986
+   "sec_repos": 2987
   },
   {
    "vendor": "谷歌",
@@ -716,7 +716,7 @@
     "pytorch",
     "Meta"
    ],
-   "sec_repos": 32
+   "sec_repos": 34
   },
   {
    "vendor": "亚马逊",
@@ -727,7 +727,7 @@
     "aws-samples",
     "aws-amplify"
    ],
-   "sec_repos": 423
+   "sec_repos": 424
   },
   {
    "vendor": "苹果",
@@ -834,7 +834,7 @@
     "Salesforce",
     "forcedotcom"
    ],
-   "sec_repos": 498
+   "sec_repos": 499
   },
   {
    "vendor": "SAP",
@@ -978,7 +978,7 @@
    "orgs": [
     "ericsson"
    ],
-   "sec_repos": 13
+   "sec_repos": 14
   },
   {
    "vendor": "西门子",
@@ -1366,7 +1366,8 @@
    "src": "HackerOne",
    "orgs": [
     "coinbase",
-    "base-org"
+    "base-org",
+    "base"
    ],
    "sec_repos": 44
   },
@@ -1406,7 +1407,7 @@
    "orgs": [
     "shopify"
    ],
-   "sec_repos": 94
+   "sec_repos": 95
   },
   {
    "vendor": "Goldman Sachs",
@@ -1438,7 +1439,7 @@
    "orgs": [
     "citi"
    ],
-   "sec_repos": 14
+   "sec_repos": 15
   },
   {
    "vendor": "Capital One",
@@ -1561,7 +1562,7 @@
    "orgs": [
     "paloaltonetworks"
    ],
-   "sec_repos": 8
+   "sec_repos": 9
   },
   {
    "vendor": "NETGEAR",
@@ -1643,7 +1644,7 @@
    "orgs": [
     "adyen"
    ],
-   "sec_repos": 8
+   "sec_repos": 9
   },
   {
    "vendor": "Visa",
@@ -1802,7 +1803,7 @@
    "orgs": [
     "comcast"
    ],
-   "sec_repos": 11
+   "sec_repos": 12
   },
   {
    "vendor": "Disney",
@@ -1872,7 +1873,7 @@
    "orgs": [
     "crowdstrike"
    ],
-   "sec_repos": 74
+   "sec_repos": 75
   },
   {
    "vendor": "Fortinet",
@@ -1934,7 +1935,8 @@
    "vendor": "Binance",
    "src": "自建BB",
    "orgs": [
-    "binance"
+    "binance",
+    "trustwallet"
    ],
    "sec_repos": 0
   },
@@ -1966,9 +1968,512 @@
    "vendor": "Spotify",
    "src": "自建BB",
    "orgs": [
-    "spotify"
+    "spotify",
+    "backstage"
    ],
-   "sec_repos": 25
+   "sec_repos": 26
+  },
+  {
+   "vendor": "8x8",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "jitsi"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "AWS VDP",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "amazon-research",
+    "amazonlinux",
+    "aws-actions",
+    "deepjavalibrary",
+    "strands-agents"
+   ],
+   "sec_repos": 5
+  },
+  {
+   "vendor": "Aiven Managed Bug Bounty",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "Aiven",
+    "Aiven-Open"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Auth0 by Okta",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "auth0"
+   ],
+   "sec_repos": 3
+  },
+  {
+   "vendor": "Basecamp",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "basecamp"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Bitwarden",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "bitwarden"
+   ],
+   "sec_repos": 6
+  },
+  {
+   "vendor": "CM.com",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "cmdotcom"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Chainlink",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "smartcontractkit"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Chia Network",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "Chia-Network"
+   ],
+   "sec_repos": 6
+  },
+  {
+   "vendor": "ClickHouse",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "ClickHouse"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Concrete CMS",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "concrete5"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "DailyPay VDP",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "dailypay"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Databricks",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "databricks"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "DefectDojo",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "DefectDojo"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Discourse",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "discourse"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Doppler",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "DopplerHQ"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Electroneum Legacy Blockchain: EOL",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "electroneum"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Electroneum Smart Chain (ETN-SC) — EVM-Compatible Blockchain",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "European Space Agency (ESA) VDP",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "ESA"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Exodus",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "ExodusOSS"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "ExpressVPN - Bug Bounty Program",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "expressvpn"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Fireblocks MPC Managed Bug Bounty Engagement",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "fireblocks"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "GoCardless Bug Bounty Program",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "gocardless"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "HackerOne",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "Hacker0x01"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Immutable Bug Bounty",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "immutable"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Infinite Athlete",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "tempus-ex"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Infomaniak Bug Bounty program",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "Infomaniak"
+   ],
+   "sec_repos": 3
+  },
+  {
+   "vendor": "Just Eat Takeaway.com",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "justeattakeaway"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Kubernetes",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "kubernetes-client",
+    "kubernetes-incubator",
+    "kubernetes-security",
+    "kubernetes-sigs"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Lightspark Public Bug Bounty",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "buildonspark",
+    "lightsparkdev"
+   ],
+   "sec_repos": 6
+  },
+  {
+   "vendor": "Matomo",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "innocraft",
+    "matomo-org"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Mattermost Public Bug Bounty Engagement",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "mattermost"
+   ],
+   "sec_repos": 3
+  },
+  {
+   "vendor": "MoonPay",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "moonpay"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Nebius AI Vulnerability Disclosure",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "nebius"
+   ],
+   "sec_repos": 5
+  },
+  {
+   "vendor": "Nextcloud",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "nextcloud",
+    "roundcube"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Node.js",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "nodejs"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Oasis Protocol Foundation",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "oasisprotocol"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Octopus",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "OctopusDeploy"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Omarchy",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "omacom"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "OpenMage",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "OpenMage"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "OpenSea Managed Bug Bounty Program",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "ProjectOpenSea"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "PagerDuty",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "rundeck"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Plaid",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "plaid"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Posten Bring Responsible Disclosure",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "digipost"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "RIPE NCC",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "RIPE-NCC"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Revive Adserver",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "revive-adserver"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Ruby",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "ruby"
+   ],
+   "sec_repos": 2
+  },
+  {
+   "vendor": "Ruby on Rails",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "rails"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "SecureDrop",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "freedomofpress"
+   ],
+   "sec_repos": 3
+  },
+  {
+   "vendor": "Solidus",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "solidusio"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Supabase",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "supabase"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "TRON DAO",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "tronprotocol"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "TomTom",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "tomtom-international"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Tools for Humanity",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "worldcoin"
+   ],
+   "sec_repos": 5
+  },
+  {
+   "vendor": "U.S. Department of State",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "USStateDept"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Valve",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "valvesoftware"
+   ],
+   "sec_repos": 0
+  },
+  {
+   "vendor": "Vercel",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "better-auth",
+    "nitrojs",
+    "nuxt",
+    "sveltejs",
+    "vercel",
+    "vercel-labs"
+   ],
+   "sec_repos": 11
+  },
+  {
+   "vendor": "Version Cake",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "bwillis"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "WHO COVID-19 Mobile App",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "WorldHealthOrganization"
+   ],
+   "sec_repos": 1
+  },
+  {
+   "vendor": "Weblate",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "WeblateOrg"
+   ],
+   "sec_repos": 6
+  },
+  {
+   "vendor": "curl",
+   "src": "公开平台范围（仅用于策略发现）",
+   "orgs": [
+    "curl"
+   ],
+   "sec_repos": 1
   }
  ],
  "orgs_failed": []

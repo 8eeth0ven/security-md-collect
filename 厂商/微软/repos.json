@@ -27273,17 +27273,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/.github",
-  "url": "https://github.com/Azure/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": null,
-  "description": "Default Community Health Files for the Azure organization on GitHub",
-  "first_seen": "2026-11-01 16:25:10"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/azure-javaee-iaas",
   "url": "https://github.com/Azure/azure-javaee-iaas",
   "sec_path": "SECURITY.md",
@@ -28645,17 +28634,6 @@
   "language": "Shell",
   "description": "",
   "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
-  "org": "aspnet",
-  "full_name": "aspnet/.github",
-  "url": "https://github.com/aspnet/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": null,
-  "description": "",
-  "first_seen": "2026-11-01 18:09:57"
  },
  {
   "vendor": "微软",
@@ -32977,6 +32955,19 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/.github",
+  "url": "https://github.com/Azure/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 16:25:10",
+  "last_verified": "2026-11-14 12:53:54"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/fluent-plugin-process-redfishalert",
   "url": "https://github.com/Azure/fluent-plugin-process-redfishalert",
   "sec_path": "SECURITY.md",
@@ -33534,6 +33525,19 @@
   "language": "Python",
   "description": "OFP AI Bootcamp 2025 - Tutorial for building a simple MCP Server in Python",
   "first_seen": "2026-11-01 16:25:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "aspnet",
+  "full_name": "aspnet/.github",
+  "url": "https://github.com/aspnet/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:09:57",
+  "last_verified": "2026-11-14 12:53:56"
  },
  {
   "vendor": "微软",
@@ -34553,5 +34557,18 @@
   "description": "Code related to Neurips paper 2026 \"The Missing Corpus: Infinite Ground Truth for File-Grounded Enterprise LLM Evaluation\"",
   "license": null,
   "first_seen": "2026-11-13 16:35:17"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/.github",
+  "url": "https://github.com/microsoft/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 12:53:52",
+  "last_verified": "2026-11-14 12:53:52"
  }
 ]

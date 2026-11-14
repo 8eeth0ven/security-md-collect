@@ -1,0 +1,335 @@
+{
+  "fetched_at": "2026-11-14T04:55:03+00:00",
+  "upstream": "https://github.com/arkadiyt/bounty-targets-data",
+  "license": "MIT",
+  "revision": {
+    "sha": "40c359bae8650a5466ab97560548425ad01e9b64",
+    "committed_at": "2026-11-14T04:34:56Z"
+  },
+  "platforms": [
+    {
+      "platform": "bugcrowd",
+      "source_url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/40c359bae8650a5466ab97560548425ad01e9b64/data/bugcrowd_data.json",
+      "sha256": "3195d1cbdee8929a0001b6a6b250c66b023dc6662a792c6687d9a33ae9087859",
+      "source_programs": 296,
+      "android_scopes_in_source": 130,
+      "observed_records": 128,
+      "added_records": 0,
+      "historical_unconfirmed": 30,
+      "unresolved_packages": 28,
+      "bounty_eligible_observed": 128
+    },
+    {
+      "platform": "ywh",
+      "source_url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/40c359bae8650a5466ab97560548425ad01e9b64/data/yeswehack_data.json",
+      "sha256": "a0a7486c47591d4544e58bf38582a10bbc7d3ba7accdbde4bd047edb77b5bd77",
+      "source_programs": 52,
+      "android_scopes_in_source": 45,
+      "observed_records": 45,
+      "added_records": 0,
+      "historical_unconfirmed": 9,
+      "unresolved_packages": 3,
+      "bounty_eligible_observed": 45
+    },
+    {
+      "platform": "h1",
+      "source_url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/40c359bae8650a5466ab97560548425ad01e9b64/data/hackerone_data.json",
+      "sha256": "01ff53d72f1283cd983af96f7ec2a9caef9ac12603ebf37db06aabe9a29dd834",
+      "source_programs": 450,
+      "android_scopes_in_source": 544,
+      "observed_records": 532,
+      "added_records": 0,
+      "historical_unconfirmed": 299,
+      "unresolved_packages": 10,
+      "bounty_eligible_observed": 338
+    },
+    {
+      "platform": "intigriti",
+      "source_url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/40c359bae8650a5466ab97560548425ad01e9b64/data/intigriti_data.json",
+      "sha256": "88d2ace2e4e0bd37b3011d98134bf27f607d61f268562e99dc075862e420ef9f",
+      "source_programs": 144,
+      "android_scopes_in_source": 70,
+      "observed_records": 70,
+      "added_records": 0,
+      "historical_unconfirmed": 0,
+      "unresolved_packages": 10,
+      "bounty_eligible_observed": 48
+    }
+  ],
+  "yeswehack_official_sources": [
+    {
+      "url": "https://api.yeswehack.com/programs?page=1",
+      "sha256": "a4b43161d58aadefe2dcb21069217135071f2f582410032bc6372866c9988f11"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs?page=2",
+      "sha256": "a962096761d285de8a2c67f86ca9d5dcc55215a9411a8bcf5b2f63d2e26f97bc"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/infomaniak-bug-bounty-program",
+      "sha256": "9424dd6188f284464781347b18fad2ba878ad488fd4ec2d65cb64328a11009dd",
+      "upstream_updated_at": "2026-11-13T17:37:14+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/telenor-sweden-public-bug-bounty-program",
+      "sha256": "cd5589dfdf041f519aeb28d71135c31c8f0909e4b9a2904362a89f76e4f2d470",
+      "upstream_updated_at": "2026-11-13T12:20:29+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/outscale",
+      "sha256": "69178f6935635077187ac43bc0ed930958007d7170c59bc0ae56c7dec8e0a4a0",
+      "upstream_updated_at": "2026-11-12T15:59:45+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/doctolib-public-bug-bounty-program",
+      "sha256": "fbe8bb0dee2781b597d1c82353d7e402f67992f3a92fdfc2ca08f7ac0a5b7415",
+      "upstream_updated_at": "2026-11-10T10:13:41+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/govtech-vulnerability-disclosure-programme-policy",
+      "sha256": "96f48c7ffaa4e6610cab3d50a986dddc5cce71ccdab33676ae956846892c17d3",
+      "upstream_updated_at": "2026-11-10T08:40:29+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/harman-international-web-applications",
+      "sha256": "b5e5559e3f14d8eddafc9825c6d13fa78ed52db27f5df1f1c49af57ad04b91e3",
+      "upstream_updated_at": "2026-11-06T11:48:05+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/dojo",
+      "sha256": "ac3b914834eb6fd9b40850b21d661d0ebde57f850dbffd1bd3f41eea51bcb1f6",
+      "upstream_updated_at": "2026-11-06T10:39:28+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/cyberghost-bug-bounty-program",
+      "sha256": "20dc7656d82fc468d007051e57aedbf2dc2260ccf147df80fecf43fccb89a360",
+      "upstream_updated_at": "2026-11-05T10:33:12+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/mediamarktsaturn-bug-bounty-program",
+      "sha256": "526c8f8f6d4bc0dc15931fe432e9b3def5fd4c9bbf2f1e4dbdbbeaec5c66048d",
+      "upstream_updated_at": "2026-11-04T16:42:40+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/expressvpn-bug-bounty-program",
+      "sha256": "8b0cb5aed64be319ed4a312de8c57d1e7eb109383f03b86d580366d60dd1599c",
+      "upstream_updated_at": "2026-11-03T11:04:42+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/zecible-public-bug-bounty-program",
+      "sha256": "3c3b2b01b06400268cb77d4411aaec6bca94279126de82025a424b0cc8266954",
+      "upstream_updated_at": "2026-11-03T10:31:15+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/dana-bug-bounty-program",
+      "sha256": "4e6550a6337484b090bbef6b1a82007abec69e04f12a178d3821ca6424b7ce3d",
+      "upstream_updated_at": "2026-11-02T04:47:48+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/otto-de-bug-bounty",
+      "sha256": "8764ea44c68dee04e69cfeea56c87dc5e8eafedd148290983c87768632803517",
+      "upstream_updated_at": "2026-10-28T09:42:59+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program",
+      "sha256": "998fd03ad6b92158d91841cda1cb465d29b02c000bfa93f83fbbcba0600092c0",
+      "upstream_updated_at": "2026-10-23T14:12:18+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/vincisa-public-program",
+      "sha256": "1c50c9bb41a362dd9fc8415a6e2c17f991fe360d941a438b1402f1a5e80b2641",
+      "upstream_updated_at": "2026-10-20T16:07:33+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/bug-bounty-program-blablacar",
+      "sha256": "f2a6dc7df538b41fb57bfd68864f1e32c18522e2f03db950e68f188a1229f2f5",
+      "upstream_updated_at": "2026-10-19T18:09:19+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/ezviz-bug-bounty-program",
+      "sha256": "ccd4ba0a9d075578c99a3d65ae3a68499291ee1fdaa0f6e3b56488c26a4a1290",
+      "upstream_updated_at": "2026-10-19T04:56:04+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/vfs-global-bug-bounty-program",
+      "sha256": "f5860d4b9b79cd19aae27903074ff3a915c2c08579f4da41de99b1f980ad5d43",
+      "upstream_updated_at": "2026-10-15T07:12:06+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/onedoc-sa-bug-bounty-program",
+      "sha256": "10039fdc9a44b5347f8f845c170aeeefd1958bc7333ec15e8fe3e6cb85c199e8",
+      "upstream_updated_at": "2026-10-14T13:46:38+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/pine-labs-bug-bounty-program",
+      "sha256": "0bbb5a2b6730aa552daa776346042a8f02581cad998a8eea9a867ea23e10bb07",
+      "upstream_updated_at": "2026-10-13T07:51:55+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/cryptobox-bug-bounty",
+      "sha256": "57dfc6939d9f0d74ab3914c7c7c3c166223988166cde75b71379ddaaf985b83e",
+      "upstream_updated_at": "2026-10-08T15:45:36+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/swiss-post",
+      "sha256": "ffc788d0ecd49ef969177e15d8654b5870fb8d4bd9d492a818e129f47ee50328",
+      "upstream_updated_at": "2026-10-06T11:07:25+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/kiteworks-public-bug-bounty-program-1",
+      "sha256": "1d6a0e22100d0c12cd83c2ab287c3f741e7c7e4d942b593a12d5368f64b56f21",
+      "upstream_updated_at": "2026-10-06T10:31:46+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/datadome-bot-bounty",
+      "sha256": "1848f5c80998a4733c3c71ff086f32bbea1dd999552e1b8bd3ca2513ff6f3282",
+      "upstream_updated_at": "2026-09-24T17:12:59+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/toom-baumarkt-gmbh-bug-bounty-program",
+      "sha256": "a648fe1764201c2a14769c74549ebbc55b97a65ae68f88bfadbc55f8b47c5e28",
+      "upstream_updated_at": "2026-09-22T15:38:15+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/swiss-post-evoting",
+      "sha256": "1225ed136072c1ea62b48ab64f9619d71a4dda67cea0a8cd568989d5d56db67d",
+      "upstream_updated_at": "2026-09-22T12:02:29+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/vidaxl-services-open-bug-bounty-program",
+      "sha256": "b3abd1a1b1a20947a6df4fb9833da88ed7e25f69e07a56efab1e8b3d0cb662d4",
+      "upstream_updated_at": "2026-09-15T17:56:52+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/atg-public-bug-bounty-program",
+      "sha256": "bc4ef6b3eb21cc8bba20192802f933a93cfbd8e516d89429a555a217a506e70e",
+      "upstream_updated_at": "2026-09-09T18:07:34+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd",
+      "sha256": "331c974cdde2fa8e54a7ccd497dace0a175db46075e6dd2a1b3e631e847b152b",
+      "upstream_updated_at": "2026-09-03T15:41:37+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/bookbeat",
+      "sha256": "510dc76ad2f1e5cad1e9cb0b7111324bd16778bbc8ffcde30e31675e7eb7a8ed",
+      "upstream_updated_at": "2026-09-02T08:56:20+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/private-internet-access-bug-bounty-program",
+      "sha256": "ae4afe262447579ba64d2fb5e872c0dc53e3f6d27e6d230903aa3b4a562ea191",
+      "upstream_updated_at": "2026-08-31T04:31:37+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/decathlon",
+      "sha256": "4d0d88be81800200d416daf9be0d29780d1f38df1f335ef9eafae70d91cda930",
+      "upstream_updated_at": "2026-08-03T09:22:01+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+      "sha256": "3f3338826354a15607f6c90d4af210054d6b535e8112905aebf080b74e67be65",
+      "upstream_updated_at": "2026-08-03T08:40:21+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/alasco-gmbh-bug-bounty-program",
+      "sha256": "1a827a20ea786db32f432b04d8642746a4f36884d4c957f897b50b85425cc578",
+      "upstream_updated_at": "2026-07-22T11:15:14+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program",
+      "sha256": "471064832223c1a31c54556293544658114633d7a4652c508431c5ee7ab5bd2c",
+      "upstream_updated_at": "2026-07-21T13:54:11+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/teamviewer-bounty-program",
+      "sha256": "fb5660cefe9d707aef382d11dbee735b8193b16992253e579238444aa04e52af",
+      "upstream_updated_at": "2026-07-16T17:52:35+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/moneybox-bug-bounty",
+      "sha256": "af0e96b6cac0f46a4b0d8bfc89df032859424c2936c6529908255ff56d63cd2e",
+      "upstream_updated_at": "2026-05-26T16:26:25+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/mon-espace-sante-mes",
+      "sha256": "a17bf3525c101ac8a09956ed9f7342ff3c58db592d27175f676d6071ffa44001",
+      "upstream_updated_at": "2026-04-20T09:06:20+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/dossier-medical-partage-program",
+      "sha256": "46699c79ec8f0570dd608a47109d2dc279425642fa0adf73668448b10d241a05",
+      "upstream_updated_at": "2026-04-20T08:54:54+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/datadome-bug-bounty",
+      "sha256": "f041d4400302423e3186800280d17a226fe8df9253d0b0fe5b7c2b72907e33d6",
+      "upstream_updated_at": "2026-03-24T12:06:08+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/sante-publique-france-bugbounty-public-program",
+      "sha256": "188511c4e9751d193db9898da2ac9de0c814a0f5e272d21655a85ce5e89e6519",
+      "upstream_updated_at": "2026-03-09T15:38:45+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program",
+      "sha256": "2bcfc08cde048aabc2d4a9baaf37e25c964b71d0613f49a5612674664329a900",
+      "upstream_updated_at": "2026-02-18T08:57:23+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/harman-international-public-bug-bounty",
+      "sha256": "467866f88d0295e280c9bc1a49aa7396c97362ede61560299354f615a38f321f",
+      "upstream_updated_at": "2026-02-17T15:05:38+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/grw-trading-fze-bug-bounty-program",
+      "sha256": "8e249bcc105ef9afd8108db2c20f4b12eab43f1637dae49cfd9830acd39fc934",
+      "upstream_updated_at": "2026-01-22T18:05:43+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/swapcard",
+      "sha256": "ef70d14f2fa35195a31c35cf95edbf48aaac41b5bdbb54071ca22ab7d571f5ae",
+      "upstream_updated_at": "2025-11-13T17:56:29+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/paddle-com-public-bug-bounty-program",
+      "sha256": "724f83d3856f2f16b56175e2e22ea632d1574c150a65b6aac9a5a6e65761ff5e",
+      "upstream_updated_at": "2025-11-06T17:12:35+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/ovh",
+      "sha256": "f5ad9c7bdbc7b9fed213afed820fed3222c2ab01232600317e4d5946702300ca",
+      "upstream_updated_at": "2025-10-16T11:53:27+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/imou-public-bug-bounty-program",
+      "sha256": "d765a1fac4ba12bab777e5966606d4d2d8fe7b960e2f8180770eaa9a47186a9b",
+      "upstream_updated_at": "2025-09-15T11:17:37+02:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/maya-public-bug-bounty-program",
+      "sha256": "0c35bfb3da154967bd1c77856a17295a372dd493f318bb6e8ac0f2e0e523496f",
+      "upstream_updated_at": "2025-03-17T07:54:59+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program",
+      "sha256": "3902c1e7be5818ad049034bfb9d246f8b03722f67b55767350a620aecbf5cd30",
+      "upstream_updated_at": "2025-03-04T09:18:50+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/yes-we-hack",
+      "sha256": "95faba95b391c3a6c877a1950280685c72195c5b36ee1fc1f58c203faa3c190f",
+      "upstream_updated_at": "2025-01-21T17:43:52+01:00"
+    },
+    {
+      "url": "https://api.yeswehack.com/programs/sogexia",
+      "sha256": "99a06f084de16f692bc868a00874b92ae7194a343161591ad44893d6172b3e0e",
+      "upstream_updated_at": "2024-10-09T11:51:09+02:00"
+    }
+  ],
+  "limits": [
+    "Public accessible scopes only; private/login/TAC/2FA scopes are not a complete universe.",
+    "A missing historical record is unconfirmed, never an out-of-scope determination.",
+    "Only typed Android scope values are parsed; description links may explicitly be excluded.",
+    "Package syntax and mirror URL generation do not verify an app, download or bounty scope."
+  ]
+}

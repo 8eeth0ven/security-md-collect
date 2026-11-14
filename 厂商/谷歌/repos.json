@@ -591,18 +591,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/.github",
-  "url": "https://github.com/google/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 142,
-  "language": null,
-  "description": "default configuration for @google repos",
-  "license": null,
-  "first_seen": "2026-11-02 04:21:32"
- },
- {
-  "vendor": "谷歌",
   "org": "angular",
   "full_name": "angular/code-of-conduct",
   "url": "https://github.com/angular/code-of-conduct",
@@ -717,17 +705,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "flutter",
-  "full_name": "flutter/.github",
-  "url": "https://github.com/flutter/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 38,
-  "language": null,
-  "description": "Default community health files for Flutter",
-  "first_seen": "2026-11-01 20:19:21"
- },
- {
-  "vendor": "谷歌",
   "org": "google",
   "full_name": "google/mpact-riscv",
   "url": "https://github.com/google/mpact-riscv",
@@ -835,17 +812,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "dart-lang",
-  "full_name": "dart-lang/.github",
-  "url": "https://github.com/dart-lang/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 11,
-  "language": null,
-  "description": "GitHub default community health file for dart-lang repos",
-  "first_seen": "2026-11-01 18:56:43"
- },
- {
-  "vendor": "谷歌",
   "org": "google",
   "full_name": "google/basis_universal",
   "url": "https://github.com/google/basis_universal",
@@ -870,17 +836,6 @@
  },
  {
   "vendor": "谷歌",
-  "org": "firebase",
-  "full_name": "firebase/.github",
-  "url": "https://github.com/firebase/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 10,
-  "language": null,
-  "description": "Default configuration for Firebase repos",
-  "first_seen": "2026-11-01 20:18:47"
- },
- {
-  "vendor": "谷歌",
   "org": "google",
   "full_name": "google/TPM",
   "url": "https://github.com/google/TPM",
@@ -890,17 +845,6 @@
   "description": "Google's fork of the TPM reference code. Tracks https://github.com/TrustedComputingGroup/TPM  for v1.83 onward. Tracked https://github.com/microsoft/ms-tpm-20-r…",
   "license": null,
   "first_seen": "2026-11-02 04:19:36"
- },
- {
-  "vendor": "谷歌",
-  "org": "angular",
-  "full_name": "angular/.github",
-  "url": "https://github.com/angular/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": null,
-  "description": "default community health files",
-  "first_seen": "2026-11-01 17:57:40"
  },
  {
   "vendor": "谷歌",
@@ -1095,6 +1039,58 @@
  },
  {
   "vendor": "谷歌",
+  "org": "angular",
+  "full_name": "angular/.github",
+  "url": "https://github.com/angular/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 17:57:40",
+  "last_verified": "2026-11-14 12:54:08"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "dart-lang",
+  "full_name": "dart-lang/.github",
+  "url": "https://github.com/dart-lang/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 18:56:43",
+  "last_verified": "2026-11-14 12:54:06"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "firebase",
+  "full_name": "firebase/.github",
+  "url": "https://github.com/firebase/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 20:18:47",
+  "last_verified": "2026-11-14 12:54:10"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "flutter",
+  "full_name": "flutter/.github",
+  "url": "https://github.com/flutter/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 20:19:21",
+  "last_verified": "2026-11-14 12:54:04"
+ },
+ {
+  "vendor": "谷歌",
   "org": "google",
   "full_name": "google/makerspace-pcb2cnc",
   "url": "https://github.com/google/makerspace-pcb2cnc",
@@ -1104,6 +1100,19 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-02 04:19:36"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
+  "full_name": "google/.github",
+  "url": "https://github.com/google/.github",
+  "sec_path": "SECURITY.md",
+  "stars": null,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-02 04:21:32",
+  "last_verified": "2026-11-14 12:54:02"
  },
  {
   "vendor": "谷歌",
