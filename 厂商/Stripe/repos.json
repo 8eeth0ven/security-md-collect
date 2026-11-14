@@ -5,11 +5,12 @@
   "full_name": "stripe/ai",
   "url": "https://github.com/stripe/ai",
   "sec_path": "SECURITY.md",
-  "stars": 2059,
+  "stars": 2061,
   "language": "TypeScript",
   "description": "One-stop shop for building AI-powered products and businesses with Stripe.",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -21,7 +22,8 @@
   "language": "TypeScript",
   "description": "Stripe Apps lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API.",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -29,11 +31,12 @@
   "full_name": "stripe/ft3",
   "url": "https://github.com/stripe/ft3",
   "sec_path": "SECURITY.md",
-  "stars": 120,
+  "stars": 121,
   "language": null,
   "description": "FT3: Fraud Tools, Tactics, and Techniques Framework",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -45,7 +48,8 @@
   "language": null,
   "description": "Postman collection for Stripe's API",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -57,7 +61,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -69,7 +74,21 @@
   "language": "TypeScript",
   "description": "Stripe payments integration with commercetools Connect",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
+ },
+ {
+  "vendor": "Stripe",
+  "org": "stripe",
+  "full_name": "stripe/.github",
+  "url": "https://github.com/stripe/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 11,
+  "language": null,
+  "description": "Stripe uses the Contributor Covenant Code of Conduct for our open-source community.",
+  "license": null,
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-14 13:00:49"
  },
  {
   "vendor": "Stripe",
@@ -81,7 +100,8 @@
   "language": "TypeScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -93,7 +113,8 @@
   "language": "TypeScript",
   "description": "Stripe payments integration with commercetools Checkout",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -105,7 +126,8 @@
   "language": "Go",
   "description": "Memlink library for memcache",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -117,7 +139,8 @@
   "language": "TypeScript",
   "description": "Stripe SDK migrator to upgrade versions",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -129,7 +152,8 @@
   "language": null,
   "description": "The Microsoft community Windows Package Manager manifest repository",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
+  "first_seen": "2026-11-02 04:52:43",
+  "last_verified": "2026-11-15 00:04:59"
  },
  {
   "vendor": "Stripe",
@@ -141,19 +165,7 @@
   "language": "JavaScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-02 04:52:43"
- },
- {
-  "vendor": "Stripe",
-  "org": "stripe",
-  "full_name": "stripe/.github",
-  "url": "https://github.com/stripe/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
   "first_seen": "2026-11-02 04:52:43",
-  "last_verified": "2026-11-14 13:00:49"
+  "last_verified": "2026-11-15 00:04:59"
  }
 ]

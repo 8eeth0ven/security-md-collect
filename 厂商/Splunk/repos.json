@@ -9,7 +9,8 @@
   "language": "Python",
   "description": "Splunk Security Content",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -21,7 +22,8 @@
   "language": "Python",
   "description": "Splunk Docker GitHub Repository",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -33,7 +35,8 @@
   "language": "Python",
   "description": "Splunk Connect for Syslog",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -45,7 +48,8 @@
   "language": "Java",
   "description": "Kafka connector for Splunk",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -53,11 +57,12 @@
   "full_name": "splunk/splunk-agent-skills",
   "url": "https://github.com/splunk/splunk-agent-skills",
   "sec_path": "SECURITY.md",
-  "stars": 66,
+  "stars": 68,
   "language": "JavaScript",
   "description": "Open source, enterprise-ready AI skills for Splunk use cases, built for secure discovery, consistent execution, and production-grade customer workflows.",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -69,7 +74,8 @@
   "language": "Python",
   "description": "Splunk connect for SNMP",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -81,7 +87,8 @@
   "language": "Python",
   "description": "This project contains the snmp MIB library as a container bundle for use with Splunk Connect for SNMP",
   "license": null,
-  "first_seen": "2026-11-01 23:48:38"
+  "first_seen": "2026-11-01 23:48:38",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -93,7 +100,8 @@
   "language": "Python",
   "description": "This project connects SNMP Trap sending source to Splunk Enterprise and Splunk Enterprise Cloud",
   "license": null,
-  "first_seen": "2026-11-01 23:48:38"
+  "first_seen": "2026-11-01 23:48:38",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -105,7 +113,8 @@
   "language": "Shell",
   "description": "Splunk AI Operator for Kubernetes",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -117,7 +126,8 @@
   "language": "Go",
   "description": "kubectl plugin for interacting with OpenTelemetry deployments",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -129,7 +139,8 @@
   "language": "Java",
   "description": "Retail banking sample application showcasing Kubernetes and Google Cloud",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -141,7 +152,8 @@
   "language": null,
   "description": "The Microsoft community Windows Package Manager manifest repository",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -153,7 +165,8 @@
   "language": "JavaScript",
   "description": "MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and…",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -165,7 +178,8 @@
   "language": null,
   "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -177,7 +191,8 @@
   "language": "TypeScript",
   "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elastics…",
   "license": null,
-  "first_seen": "2026-11-01 23:48:38"
+  "first_seen": "2026-11-01 23:48:38",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -201,7 +216,8 @@
   "language": "JavaScript",
   "description": "Unified discovery, deployment, and management dashboard for the full portfolio of Cisco Splunk apps and add-ons. Browse the product catalog, check installation …",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -213,7 +229,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -225,7 +242,8 @@
   "language": "LLVM",
   "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  },
  {
   "vendor": "Splunk",
@@ -237,6 +255,7 @@
   "language": "TypeScript",
   "description": "Backstage is an open platform for building developer portals",
   "license": null,
-  "first_seen": "2026-11-01 23:47:32"
+  "first_seen": "2026-11-01 23:47:32",
+  "last_verified": "2026-11-15 00:03:59"
  }
 ]

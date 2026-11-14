@@ -1,6 +1,19 @@
 [
  {
   "vendor": "Slack",
+  "org": "slackhq",
+  "full_name": "slackhq/nebula",
+  "url": "https://github.com/slackhq/nebula",
+  "sec_path": "SECURITY.md",
+  "stars": 18529,
+  "language": "Go",
+  "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+  "license": null,
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-14 13:00:49"
+ },
+ {
+  "vendor": "Slack",
   "org": "slackapi",
   "full_name": "slackapi/python-slack-sdk",
   "url": "https://github.com/slackapi/python-slack-sdk",
@@ -41,11 +54,12 @@
   "full_name": "slackhq/circuit",
   "url": "https://github.com/slackhq/circuit",
   "sec_path": "SECURITY.md",
-  "stars": 1859,
+  "stars": 1860,
   "language": "Kotlin",
   "description": "⚡️ A Compose-driven architecture for Kotlin and Android applications.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -57,7 +71,8 @@
   "language": "Go",
   "description": "go-audit is an alternative to the auditd daemon that ships with many distros",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -93,7 +108,8 @@
   "language": "Kotlin",
   "description": "A multiplatform, pluggable, and sealed API result type for modeling network API responses.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -113,11 +129,12 @@
   "full_name": "slackhq/compose-lints",
   "url": "https://github.com/slackhq/compose-lints",
   "sec_path": "SECURITY.md",
-  "stars": 523,
+  "stars": 522,
   "language": "Kotlin",
   "description": "Lint checks to aid with a healthy adoption of Compose",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -129,7 +146,8 @@
   "language": "Kotlin",
   "description": "Gradle and IntelliJ build tooling used in Slack's Android repo",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -165,7 +183,8 @@
   "language": "Kotlin",
   "description": "A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -177,7 +196,8 @@
   "language": "Kotlin",
   "description": "A collection of custom Android/Kotlin lint checks we use in our Android and Kotlin code bases at Slack.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -201,7 +221,8 @@
   "language": "Ruby",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -213,7 +234,8 @@
   "language": "Go",
   "description": "This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -225,7 +247,8 @@
   "language": "JavaScript",
   "description": "A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -249,7 +272,8 @@
   "language": "Rust",
   "description": "Another typechecker for Hack, built by Slack",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -261,7 +285,8 @@
   "language": "TypeScript",
   "description": "Hack language & HHVM debugger support for Visual Studio Code",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -273,7 +298,8 @@
   "language": "Hack",
   "description": "A library for testing database driven code in Hack",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -285,7 +311,8 @@
   "language": "Kotlin",
   "description": "An interop tool for safely mixing Moshi and Gson models in JSON serialization.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -321,7 +348,8 @@
   "language": "Hack",
   "description": "Generate Hack JSON Schema validators based on a JSON Schema.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -333,7 +361,8 @@
   "language": "Kotlin",
   "description": "An AutoValue extension that generates binary and source compatible equivalent Kotlin data classes of AutoValue models.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -345,7 +374,8 @@
   "language": "Go",
   "description": "Go package that can detect animated images and \"deanimate\" them by rendering just the first frame as a static image.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -357,7 +387,8 @@
   "language": "TypeScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -369,7 +400,8 @@
   "language": "Go",
   "description": "Parses and forwards rsyslog process stats to a local statsite, statsd, or wire protocol compatible service.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -405,7 +437,8 @@
   "language": "Go",
   "description": "A project to ensure that your backend onsite interview at Slack runs smoothly.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -417,7 +450,8 @@
   "language": "Go",
   "description": "REST API for interacting with batch Spark Applications on Kubernetes",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -477,7 +511,8 @@
   "language": "Hack",
   "description": "A port of the PHP HTML Purifier originally developed by Edward Z. Yang into Hacklang",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -489,7 +524,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -501,7 +537,8 @@
   "language": "Go",
   "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -513,7 +550,8 @@
   "language": "C++",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -525,7 +563,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -537,7 +576,8 @@
   "language": "Hack",
   "description": "hacklang generator for protobuf",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -549,7 +589,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -561,7 +602,8 @@
   "language": "Go",
   "description": "TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : http…",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -578,19 +620,6 @@
  {
   "vendor": "Slack",
   "org": "slackhq",
-  "full_name": "slackhq/nebula",
-  "url": "https://github.com/slackhq/nebula",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 23:43:40",
-  "last_verified": "2026-11-14 13:00:49"
- },
- {
-  "vendor": "Slack",
-  "org": "slackhq",
   "full_name": "slackhq/bigredbutton",
   "url": "https://github.com/slackhq/bigredbutton",
   "sec_path": "SECURITY.md",
@@ -598,7 +627,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -610,7 +640,8 @@
   "language": "Go",
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  },
  {
   "vendor": "Slack",
@@ -622,7 +653,8 @@
   "language": "Go",
   "description": "TiDB operator creates and manages TiDB clusters running in Kubernetes.",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:49"
  },
  {
   "vendor": "Slack",
@@ -634,6 +666,7 @@
   "language": "HCL",
   "description": "A collection of tools and code made available to Honeycomb's customers by field teams",
   "license": null,
-  "first_seen": "2026-11-01 23:43:40"
+  "first_seen": "2026-11-01 23:43:40",
+  "last_verified": "2026-11-15 00:02:45"
  }
 ]
