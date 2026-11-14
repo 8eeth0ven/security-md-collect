@@ -5,10 +5,12 @@
   "full_name": "fastly/pushpin",
   "url": "https://github.com/fastly/pushpin",
   "sec_path": "SECURITY.md",
-  "stars": 3867,
+  "stars": 3866,
   "language": "Rust",
   "description": "A proxy server for adding push to your API, used at the core of Fastly's Fanout service",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -19,7 +21,9 @@
   "stars": 226,
   "language": "JavaScript",
   "description": "JavaScript SDK and runtime for building Fastly Compute applications",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -30,7 +34,9 @@
   "stars": 178,
   "language": "Rust",
   "description": "Viceroy provides local testing for developers working with Compute.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -41,7 +47,9 @@
   "stars": 164,
   "language": "Go",
   "description": "Build, deploy and configure Fastly services from your terminal",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -52,7 +60,9 @@
   "stars": 97,
   "language": "Ruby",
   "description": "A Fastly API client for Ruby",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -63,7 +73,9 @@
   "stars": 79,
   "language": "TypeScript",
   "description": "Run Next.js on Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -71,10 +83,12 @@
   "full_name": "fastly/fastly-py",
   "url": "https://github.com/fastly/fastly-py",
   "sec_path": "SECURITY.md",
-  "stars": 76,
+  "stars": 77,
   "language": "Python",
   "description": "A Fastly API client for Python",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -85,7 +99,9 @@
   "stars": 55,
   "language": "Rust",
   "description": "Default package template for Rust based Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -96,7 +112,9 @@
   "stars": 50,
   "language": "TypeScript",
   "description": "Static Publisher for Fastly Compute JavaScript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -107,7 +125,9 @@
   "stars": 50,
   "language": "JavaScript",
   "description": "Automatic polyfill service.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -118,7 +138,9 @@
   "stars": 48,
   "language": "JavaScript",
   "description": "GitHub Actions for building on Fastly Compute.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -126,10 +148,12 @@
   "full_name": "fastly/mcp",
   "url": "https://github.com/fastly/mcp",
   "sec_path": "SECURITY.md",
-  "stars": 39,
+  "stars": 40,
   "language": "JavaScript",
   "description": "Model Context Protocol (MCP) server for AI-powered Fastly CDN management.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -140,7 +164,9 @@
   "stars": 37,
   "language": "Shell",
   "description": "Fastly skills for AI Agents.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -151,7 +177,9 @@
   "stars": 28,
   "language": "TypeScript",
   "description": "Node.js-compatible request and response objects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -162,7 +190,9 @@
   "stars": 26,
   "language": "PHP",
   "description": "A Fastly API client for PHP",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -173,7 +203,9 @@
   "stars": 25,
   "language": "Rust",
   "description": "Static content starter kit for Rust based Fastly Compute projects. Speed up your websites with a Compute application serving content from a static bucket, redir…",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -184,7 +216,9 @@
   "stars": 23,
   "language": "TypeScript",
   "description": "Remix for Fastly Compute JavaScript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -195,7 +229,9 @@
   "stars": 22,
   "language": "JavaScript",
   "description": "Default package template for JavaScript based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -206,7 +242,9 @@
   "stars": 20,
   "language": "TypeScript",
   "description": "Default package template for AssemblyScript based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -217,7 +255,9 @@
   "stars": 19,
   "language": "Rust",
   "description": "A Rust Fastly API client library.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -228,7 +268,9 @@
   "stars": 18,
   "language": "Perl",
   "description": "A Fastly API client for Perl",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -239,7 +281,9 @@
   "stars": 18,
   "language": "TypeScript",
   "description": "An implementation of OpenTelemetry for Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -250,7 +294,9 @@
   "stars": 17,
   "language": "TypeScript",
   "description": "Fanout Fastly Compute JavaScript demo",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -261,7 +307,9 @@
   "stars": 15,
   "language": "Rust",
   "description": "Interface definitions for the Compute@Edge platform in witx.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -272,7 +320,9 @@
   "stars": 14,
   "language": "JavaScript",
   "description": "A Fastly API client for JavaScript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -283,7 +333,9 @@
   "stars": 14,
   "language": "HCL",
   "description": "Security products related use cases and demos",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -294,7 +346,9 @@
   "stars": 10,
   "language": "Go",
   "description": "fastly-terraformer",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -305,7 +359,9 @@
   "stars": 10,
   "language": "JavaScript",
   "description": "OpenAPI Validation Starter Kit for Fastly Compute (JavaScript)",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -316,7 +372,9 @@
   "stars": 10,
   "language": "TypeScript",
   "description": "A runtime environment that executes output that targets the Vercel Build Output API on Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -327,7 +385,9 @@
   "stars": 10,
   "language": "Rust",
   "description": "Pub/sub at the edge",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -338,7 +398,9 @@
   "stars": 9,
   "language": "C++",
   "description": "The Official Fastly Compute C++ SDK",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -349,7 +411,9 @@
   "stars": 9,
   "language": "Rust",
   "description": "A Rust implementation of the CTA-Wave Common Access Token (CAT) specification.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -360,7 +424,9 @@
   "stars": 9,
   "language": "TypeScript",
   "description": "A simple Fastly starter kit for Typescript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -371,7 +437,9 @@
   "stars": 9,
   "language": "TypeScript",
   "description": "Write JavaScript tests from Node.js, against a local or remote Fastly Compute application",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -382,7 +450,9 @@
   "stars": 8,
   "language": "Python",
   "description": "Combine Fastly Real-Time Log Streaming and Fastly Object Storage to search, filter, and visualize request-level data through an interactive web UI.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -393,7 +463,9 @@
   "stars": 7,
   "language": "Rust",
   "description": "A tool makes your message easier to read",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -404,7 +476,9 @@
   "stars": 6,
   "language": "Go Template",
   "description": "A comprehensive, out-of-the-box monitoring and alerting solution for Fastly services.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -415,7 +489,9 @@
   "stars": 6,
   "language": "Go",
   "description": "Default package template for Go based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -426,7 +502,9 @@
   "stars": 6,
   "language": "TypeScript",
   "description": "An implementation of ESI (Edge Side Includes) for Fastly Compute JavaScript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -437,7 +515,9 @@
   "stars": 6,
   "language": "Go",
   "description": "Example of automating waf tests with Fastly's waf simulator",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -448,7 +528,9 @@
   "stars": 6,
   "language": "Go",
   "description": "Fastly Compute enrichment to detect compromised passwords",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -459,7 +541,9 @@
   "stars": 5,
   "language": "Python",
   "description": "Python SDK for Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -470,7 +554,9 @@
   "stars": 5,
   "language": "TypeScript",
   "description": "Helper utilities for using Hono with Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -481,7 +567,9 @@
   "stars": 5,
   "language": "JavaScript",
   "description": "Queuing package template for JavaScript based Fastly Compute projects. Park your users in a virtual queue to reduce the demand on your origins during peak times…",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -492,7 +580,9 @@
   "stars": 5,
   "language": "Rust",
   "description": "Beacon Termination package template for Rust based Fastly Compute projects.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -503,7 +593,9 @@
   "stars": 5,
   "language": "Rust",
   "description": "Send error reports from Rust Fastly Compute services to Sentry.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -514,7 +606,9 @@
   "stars": 4,
   "language": "Rust",
   "description": "WebSockets starter kit for Fastly Compute (Rust)",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -525,7 +619,9 @@
   "stars": 4,
   "language": "Rust",
   "description": "Empty package template for Rust based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -536,7 +632,9 @@
   "stars": 4,
   "language": "Rust",
   "description": "POC: similarity search recommendation engine at the edge using only Fastly Compute & Rust",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -547,7 +645,9 @@
   "stars": 4,
   "language": "Python",
   "description": "Demonstrates the use of Fastly Fanout to maintain a chat system and send update messages across devices in real time.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -558,7 +658,9 @@
   "stars": 3,
   "language": "JavaScript",
   "description": "A lightweight starter kit for Fastly Compute, demonstrating the expressly framework.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -569,7 +671,9 @@
   "stars": 3,
   "language": "JavaScript",
   "description": "Empty package template for JavaScript based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -580,7 +684,9 @@
   "stars": 3,
   "language": "TypeScript",
   "description": "Implementation of Next.js Server class for Fastly Compute JavaScript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -591,7 +697,9 @@
   "stars": 3,
   "language": "Rust",
   "description": "Package template for a Rust based Network Error Logging Fastly Compute service",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -602,7 +710,9 @@
   "stars": 3,
   "language": "C",
   "description": "DOOM Open Source Release",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -613,7 +723,9 @@
   "stars": 3,
   "language": "JavaScript",
   "description": "Leaderboard Demo for Fastly Fanout",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -624,7 +736,9 @@
   "stars": 3,
   "language": "JavaScript",
   "description": "compute-js-apiclarity",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -635,7 +749,9 @@
   "stars": 3,
   "language": "Rust",
   "description": "Segmented Caching as a Fastly Compute app",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -646,7 +762,9 @@
   "stars": 2,
   "language": null,
   "description": "GitHub Actions workflows that are used in many DevEx Engineering repositories",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -657,7 +775,9 @@
   "stars": 2,
   "language": "Ruby",
   "description": "Homebrew Formulae",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -668,7 +788,9 @@
   "stars": 2,
   "language": "Rust",
   "description": "Stateless Model Context Protocol (MCP) server for Fastly Compute — an edge-native, WebAssembly reference implementation of the 2026-07-28 spec.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -679,7 +801,9 @@
   "stars": 2,
   "language": "Rust",
   "description": "Google BigQuery package template for Rust based Fastly Compute projects.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -690,7 +814,9 @@
   "stars": 2,
   "language": "Rust",
   "description": "Fanout package template for Rust based Fastly Compute projects.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -701,7 +827,9 @@
   "stars": 2,
   "language": "JavaScript",
   "description": "Fanout package template for JavaScript based Fastly Compute projects.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -712,7 +840,9 @@
   "stars": 2,
   "language": "C",
   "description": "Language support for Fastly VCL in the Zed editor",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:51"
  },
  {
   "vendor": "Fastly",
@@ -723,7 +853,9 @@
   "stars": 2,
   "language": "HTML",
   "description": "Benchmarking tool for compute store read/write latencies",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -734,7 +866,9 @@
   "stars": 2,
   "language": "Jupyter Notebook",
   "description": "Search for threats associated with Out-of-Band Domains (OOB-DOMAIN)",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:51"
  },
  {
   "vendor": "Fastly",
@@ -745,7 +879,9 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "Extension of js-serve-grip to work with Expressly",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -756,7 +892,9 @@
   "stars": 2,
   "language": "Python",
   "description": "Signal Sciences WSGI python middleware",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -767,7 +905,9 @@
   "stars": 2,
   "language": "Go",
   "description": "A repository for sharing test code and experimenting with anycast in preparation for the MQP",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -778,7 +918,9 @@
   "stars": 1,
   "language": "Go",
   "description": "Terraform Fastly provider",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -789,7 +931,9 @@
   "stars": 1,
   "language": "Go",
   "description": "OpenTelemetry Collector receiver for Tetragon security events. Converts Tetragon gRPC streams to OpenTelemetry logs for observability and threat detection.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -800,7 +944,9 @@
   "stars": 1,
   "language": "TypeScript",
   "description": "Surfaces Fastly Compute environment as a context object",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -811,7 +957,9 @@
   "stars": 1,
   "language": "TypeScript",
   "description": "A CLI for creating new JavaScript (TypeScript) applications on Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -822,7 +970,9 @@
   "stars": 1,
   "language": "Rust",
   "description": "A Fastly Compute reference for AI agents controlling physical hardware over Anthropic's Model Hardware Standard",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -833,7 +983,9 @@
   "stars": 1,
   "language": "TypeScript",
   "description": "Starter kit demonstrating how to use the Fastly KV store from within a TypeScript compute project.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -844,7 +996,9 @@
   "stars": 1,
   "language": "Rust",
   "description": "Fastly Compute Rust starter application for forwarding requests through Fastly Fanout.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -855,7 +1009,9 @@
   "stars": 1,
   "language": "Go",
   "description": "Starter kit demonstrating how to use the Fastly KV store from within a Go-based Fastly compute project.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -866,7 +1022,9 @@
   "stars": 1,
   "language": "Rust",
   "description": "Rust Starter Kit for Fastly Compute with advanced caching features",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -877,7 +1035,9 @@
   "stars": 1,
   "language": "Go",
   "description": "Fanout package template for Go based Fastly Compute projects.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -888,7 +1048,9 @@
   "stars": 1,
   "language": "Rust",
   "description": "Starter kit demonstrating how to use the Fastly KV store from within a Rust-based Fastly compute project.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -899,7 +1061,9 @@
   "stars": 1,
   "language": "JavaScript",
   "description": "An app for learning about edge computing!",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -910,7 +1074,9 @@
   "stars": 1,
   "language": "Shell",
   "description": "An eleventy blog you can publish to Fastly Compute!",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -921,7 +1087,9 @@
   "stars": 1,
   "language": "JavaScript",
   "description": "Learning about edge computing in a GitHub codespace",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -932,7 +1100,9 @@
   "stars": 1,
   "language": "Python",
   "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that u…",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -943,7 +1113,9 @@
   "stars": 1,
   "language": "Go",
   "description": "using apache kafka to conenct to routeviews data and monitor any of the incoming changes",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:51"
  },
  {
   "vendor": "Fastly",
@@ -954,7 +1126,9 @@
   "stars": 1,
   "language": "VCL",
   "description": "Example of Fastly's Edge Rate Limiting using Terraform",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -962,10 +1136,12 @@
   "full_name": "fastly/stripe-mpp-payment-fanout",
   "url": "https://github.com/fastly/stripe-mpp-payment-fanout",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -973,10 +1149,12 @@
   "full_name": "fastly/fastly-go",
   "url": "https://github.com/fastly/fastly-go",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "A Fastly API client for Go",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -984,10 +1162,12 @@
   "full_name": "fastly/webmcp-on-demand-proto",
   "url": "https://github.com/fastly/webmcp-on-demand-proto",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "WebMCP on Demand",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:51"
  },
  {
   "vendor": "Fastly",
@@ -995,10 +1175,12 @@
   "full_name": "fastly/fastly-typo3",
   "url": "https://github.com/fastly/fastly-typo3",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "PHP",
   "description": "Extension for integrating Fastly CDN with TYPO3 installations",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -1006,10 +1188,12 @@
   "full_name": "fastly/compute-starter-kit-python-default",
   "url": "https://github.com/fastly/compute-starter-kit-python-default",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "Default starter kit for Python",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1017,10 +1201,12 @@
   "full_name": "fastly/compute-starter-kit-javascript-remix",
   "url": "https://github.com/fastly/compute-starter-kit-javascript-remix",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "Remix Template for JavaScript based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1028,10 +1214,12 @@
   "full_name": "fastly/compute-starter-kit-typescript-hono",
   "url": "https://github.com/fastly/compute-starter-kit-typescript-hono",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Starter Kit for using Hono with Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -1039,10 +1227,12 @@
   "full_name": "fastly/compute-starter-kit-javascript-websockets",
   "url": "https://github.com/fastly/compute-starter-kit-javascript-websockets",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "Fastly Compute WebSockets starter kit for JavaScript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1050,10 +1240,12 @@
   "full_name": "fastly/compute-starter-kit-javascript-fanout-forward",
   "url": "https://github.com/fastly/compute-starter-kit-javascript-fanout-forward",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "Fastly Compute JavaScript starter application for forwarding requests through Fastly Fanout.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1061,10 +1253,12 @@
   "full_name": "fastly/compute-starter-kit-javascript-esbuild",
   "url": "https://github.com/fastly/compute-starter-kit-javascript-esbuild",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "Fastly Compute starter kit for JavaScript, demonstrating esbuild for bundling",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1072,10 +1266,12 @@
   "full_name": "fastly/compute-starter-kit-javascript-advanced-caching",
   "url": "https://github.com/fastly/compute-starter-kit-javascript-advanced-caching",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "JavaScript Starter Kit for Fastly Compute with advanced caching features",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1083,10 +1279,12 @@
   "full_name": "fastly/compute-starter-kit-go-websockets",
   "url": "https://github.com/fastly/compute-starter-kit-go-websockets",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Fastly Compute WebSockets starter kit for Go",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1094,10 +1292,12 @@
   "full_name": "fastly/compute-starter-kit-go-fanout-forward",
   "url": "https://github.com/fastly/compute-starter-kit-go-fanout-forward",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Fastly Compute Go starter application for forwarding requests through Fastly Fanout.",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1105,10 +1305,12 @@
   "full_name": "fastly/compute-starter-kit-go-advanced-caching",
   "url": "https://github.com/fastly/compute-starter-kit-go-advanced-caching",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Advanced Caching Starter Kit for Go",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1116,10 +1318,12 @@
   "full_name": "fastly/compute-starter-kit-cpp-empty",
   "url": "https://github.com/fastly/compute-starter-kit-cpp-empty",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "CMake",
   "description": "Empty package template for C++ based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -1127,10 +1331,12 @@
   "full_name": "fastly/compute-starter-kit-typescript-full",
   "url": "https://github.com/fastly/compute-starter-kit-typescript-full",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Fastly Compute TypeScript starter kit using full TypeScript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -1138,10 +1344,12 @@
   "full_name": "fastly/compute-starter-kit-javascript-webpack",
   "url": "https://github.com/fastly/compute-starter-kit-javascript-webpack",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "Fastly Compute starter kit for JavaScript, demonstrating webpack for bundling",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1149,10 +1357,12 @@
   "full_name": "fastly/compute-starter-kit-go-tinygo",
   "url": "https://github.com/fastly/compute-starter-kit-go-tinygo",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Package template for TinyGo-based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:36"
  },
  {
   "vendor": "Fastly",
@@ -1160,10 +1370,12 @@
   "full_name": "fastly/compute-starter-kit-cpp-default",
   "url": "https://github.com/fastly/compute-starter-kit-cpp-default",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "C++",
   "description": "Default package template for C++ based Fastly Compute projects",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -1171,10 +1383,12 @@
   "full_name": "fastly/compute-rust-opentelemetry-exporter",
   "url": "https://github.com/fastly/compute-rust-opentelemetry-exporter",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Rust",
   "description": "Export OpenTelemetry traces from your Rust Compute services",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -1182,10 +1396,12 @@
   "full_name": "fastly/html-2-md",
   "url": "https://github.com/fastly/html-2-md",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -1193,10 +1409,12 @@
   "full_name": "fastly/leaderboard",
   "url": "https://github.com/fastly/leaderboard",
   "sec_path": "security.md",
-  "stars": null,
+  "stars": 0,
   "language": "Rust",
   "description": "Leaderboard Compute Service for Games Support",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -1204,10 +1422,12 @@
   "full_name": "fastly/bot-invaders",
   "url": "https://github.com/fastly/bot-invaders",
   "sec_path": "security.md",
-  "stars": null,
+  "stars": 0,
   "language": "Rust",
   "description": "Bot Invaders Game",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -1215,10 +1435,12 @@
   "full_name": "fastly/my-site",
   "url": "https://github.com/fastly/my-site",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "XSLT",
   "description": "",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -1226,10 +1448,12 @@
   "full_name": "fastly/hit-counter",
   "url": "https://github.com/fastly/hit-counter",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -1237,10 +1461,12 @@
   "full_name": "fastly/compute-origin",
   "url": "https://github.com/fastly/compute-origin",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "CSS",
   "description": "An origin website for learning about edge computing!",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -1248,10 +1474,12 @@
   "full_name": "fastly/fastly-io-demo",
   "url": "https://github.com/fastly/fastly-io-demo",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "CSS",
   "description": "A demo of Fastly image optimizer",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -1259,10 +1487,12 @@
   "full_name": "fastly/pics-site",
   "url": "https://github.com/fastly/pics-site",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": null,
   "description": "A daft site with some images in it",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -1270,10 +1500,12 @@
   "full_name": "fastly/hono-compute-js-static-publish",
   "url": "https://github.com/fastly/hono-compute-js-static-publish",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Compute Static Publisher for Hono",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -1281,10 +1513,12 @@
   "full_name": "fastly/polyfill-service-self-hosted",
   "url": "https://github.com/fastly/polyfill-service-self-hosted",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -1292,10 +1526,12 @@
   "full_name": "fastly/jiralert",
   "url": "https://github.com/fastly/jiralert",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "JIRA integration for Prometheus Alertmanager",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -1303,10 +1539,12 @@
   "full_name": "fastly/compute-mcp-server-sample",
   "url": "https://github.com/fastly/compute-mcp-server-sample",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "A sample code to run a remote mcp server on Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:31"
  },
  {
   "vendor": "Fastly",
@@ -1314,10 +1552,12 @@
   "full_name": "fastly/fanout-io-app",
   "url": "https://github.com/fastly/fanout-io-app",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "Fanout.io Fastly Compute App",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:40"
  },
  {
   "vendor": "Fastly",
@@ -1325,10 +1565,12 @@
   "full_name": "fastly/js-grip-compute-js",
   "url": "https://github.com/fastly/js-grip-compute-js",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Extension of js-grip to work with Fastly Compute JavaScript",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -1336,10 +1578,12 @@
   "full_name": "fastly/nextjs-examples",
   "url": "https://github.com/fastly/nextjs-examples",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "MDX",
   "description": "Examples for using Next.js on Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  },
  {
   "vendor": "Fastly",
@@ -1347,10 +1591,12 @@
   "full_name": "fastly/graphql-compute-example",
   "url": "https://github.com/fastly/graphql-compute-example",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "An example of using GraphQL inside Fastly Compute",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:44"
  },
  {
   "vendor": "Fastly",
@@ -1358,9 +1604,11 @@
   "full_name": "fastly/scoop-cli",
   "url": "https://github.com/fastly/scoop-cli",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": null,
   "description": "scoop packaging for the Fastly CLI",
-  "first_seen": "2026-11-01 20:17:39"
+  "license": null,
+  "first_seen": "2026-11-01 20:17:39",
+  "last_verified": "2026-11-14 20:33:48"
  }
 ]

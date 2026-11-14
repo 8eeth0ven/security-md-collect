@@ -293,10 +293,10 @@ Apache软件基金会,无(开源基金会),apache,apache/pulsar-spring,https://g
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
 Apache软件基金会,无(开源基金会),apache,apache/.github,https://github.com/apache/.github,,,.github/SECURITY.md,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,67599,Go,SECURITY.md,The Prometheus monitoring system and time series database.
-CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52601,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
+CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52603,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45444,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38505,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
-CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29229,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
+CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29230,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25833,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24601,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23110,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
@@ -318,7 +318,7 @@ CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-rollouts,http
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_js,https://github.com/prometheus/client_js,3501,JavaScript,SECURITY.md,Prometheus client for node.js
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/pushgateway,https://github.com/prometheus/pushgateway,3378,Go,SECURITY.md,Push acceptor for ephemeral and batch jobs.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/jmx_exporter,https://github.com/prometheus/jmx_exporter,3335,Java,SECURITY.md,A process for collecting metrics using JMX MBeans for Prometheus consumption
-CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/gateway,https://github.com/envoyproxy/gateway,3143,Go,SECURITY.md,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/gateway,https://github.com/envoyproxy/gateway,3145,Go,SECURITY.md,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 CNCF云原生基金会,无(开源基金会),istio,istio/community,https://github.com/istio/community,3118,Go,.github/SECURITY.md,Istio governance material.
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-events,https://github.com/argoproj/argo-events,2714,Go,SECURITY.md,Event-driven Automation Framework for Kubernetes
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/OpenMetrics,https://github.com/prometheus/OpenMetrics,2543,Go,SECURITY.md,Evolving the Prometheus exposition format into a standard.
@@ -3908,6 +3908,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mpact-sim,https://github.com/google/mpact-sim,62,C++,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/material-tools,https://github.com/angular/material-tools,48,TypeScript,SECURITY.md,Tools for AngularJS Material
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/cybernetic-agent-governance-engine,https://github.com/google/cybernetic-agent-governance-engine,45,Python,SECURITY.md,
+谷歌,"自建（Google VRP, bughunters.google.com）",flutter,flutter/.github,https://github.com/flutter/.github,38,,SECURITY.md,Default community health files for Flutter
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mpact-riscv,https://github.com/google/mpact-riscv,36,C++,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/project-montage,https://github.com/google/project-montage,28,Python,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/secure-aggregation,https://github.com/google/secure-aggregation,24,Rust,SECURITY.md,
@@ -3920,6 +3921,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",dart-lang,dart-lang/.github,https://github.com/dart-lang/.github,11,,SECURITY.md,GitHub default community health file for dart-lang repos
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/basis_universal,https://github.com/google/basis_universal,11,C++,SECURITY.md,Basis Universal GPU Texture Codec - please make contributions upstream at BinomialLLC
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/vera,https://github.com/google/vera,11,Python,docs/security.md,
+谷歌,"自建（Google VRP, bughunters.google.com）",firebase,firebase/.github,https://github.com/firebase/.github,10,,SECURITY.md,Default configuration for Firebase repos
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/TPM,https://github.com/google/TPM,9,C,SECURITY.md,Google's fork of the TPM reference code. Tracks https://github.com/TrustedComputingGroup/TPM  for v1.83 onward. Tracked https://github.com/microsoft/ms-tpm-20-r…
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/mpact-cheriot,https://github.com/google/mpact-cheriot,8,C++,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/xmc,https://github.com/google/xmc,8,Go,SECURITY.md,
@@ -3938,8 +3940,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/x-edr-eigenmath_tf2,https://github.com/google/x-edr-eigenmath_tf2,1,C++,SECURITY.md,Port of ROS/TF2 to eigenmath library.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/vtfx,https://github.com/google/vtfx,1,Kotlin,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/.github,https://github.com/angular/.github,,,SECURITY.md,
-谷歌,"自建（Google VRP, bughunters.google.com）",firebase,firebase/.github,https://github.com/firebase/.github,,,SECURITY.md,
-谷歌,"自建（Google VRP, bughunters.google.com）",flutter,flutter/.github,https://github.com/flutter/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/.github,https://github.com/google/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/secure-cua,https://github.com/google/secure-cua,0,Python,SECURITY.md,
@@ -3973,7 +3973,7 @@ Meta,自建（Meta Bug Bounty）,Meta,meta/clap_types,https://github.com/meta/cl
 Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/electron,https://github.com/facebookincubator/electron,3,C++,SECURITY.md,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/xr-ed-bv0-sample-code,https://github.com/facebookresearch/xr-ed-bv0-sample-code,3,C#,SECURITY.md,Sample code for Bundle V0
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/hear_voice_bias_benchmark,https://github.com/facebookresearch/hear_voice_bias_benchmark,2,Python,SECURITY.md,"HEAR (Human-recorded Evaluation of Audio-LLM bias by Real speakers), a large-scale, ecologically valid benchmark comprising real human audio samples from demogr…"
-Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/.github,https://github.com/facebookincubator/.github,,,SECURITY.md,
+Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/.github,https://github.com/facebookincubator/.github,,,SECURITY.md,Default Community health files for Facebook projects
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/.github,https://github.com/facebookresearch/.github,,,SECURITY.md,
 Meta,自建（Meta Bug Bounty）,facebook,facebook/.github,https://github.com/facebook/.github,,,SECURITY.md,
 Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.github,,,SECURITY.md,
@@ -6256,7 +6256,7 @@ Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ALBEF,https://github.
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/sloop,https://github.com/salesforce/sloop,1585,Go,SECURITY.md,Kubernetes History Visualization
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/CodeTF,https://github.com/salesforce/CodeTF,1476,Python,SECURITY.md,CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/jarm,https://github.com/salesforce/jarm,1329,Python,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/sf-skills,https://github.com/forcedotcom/sf-skills,1163,Python,SECURITY.md,"Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools."
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/sf-skills,https://github.com/forcedotcom/sf-skills,1167,Python,SECURITY.md,"Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools."
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/tough-cookie,https://github.com/salesforce/tough-cookie,1067,TypeScript,SECURITY.md,RFC6265 Cookies and CookieJar for Node.js
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/salesforcedx-vscode,https://github.com/forcedotcom/salesforcedx-vscode,1042,TypeScript,SECURITY.md,Salesforce Extensions for VS Code
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/design-system-react,https://github.com/salesforce/design-system-react,992,JavaScript,SECURITY.md,Salesforce Lightning Design System for React
@@ -6704,6 +6704,7 @@ Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/tdx23-sfca-demo,htt
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/codey-high-noon,https://github.com/forcedotcom/codey-high-noon,1,,SECURITY.md,Light theme for VS Code configured for accessibility and Salesforce development
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/Injectable-Swift,https://github.com/forcedotcom/Injectable-Swift,1,Swift,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/SalesforceMobileSDK-Benchmarks,https://github.com/forcedotcom/SalesforceMobileSDK-Benchmarks,1,,SECURITY.md,A collection of sample apps for benchmarking different features in the Mobile SDK.
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/.github,https://github.com/forcedotcom/.github,1,,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/zana-marketplace,https://github.com/salesforce/zana-marketplace,,JavaScript,SECURITY.md,Public marketplace for the Zana IDE
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/agentforce-byoc-python-sdk,https://github.com/salesforce/agentforce-byoc-python-sdk,,Python,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/docs-template,https://github.com/salesforce/docs-template,,,SECURITY.md,
@@ -6725,19 +6726,18 @@ Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/sshme,https://github.
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/docker-phoenix-mini,https://github.com/salesforce/docker-phoenix-mini,,Java,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/TestAdvisor-Lib-Selenium-3,https://github.com/salesforce/TestAdvisor-Lib-Selenium-3,,Java,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/TestAdvisor-CLI,https://github.com/salesforce/TestAdvisor-CLI,,Java,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/change-case-management,https://github.com/forcedotcom/change-case-management,,TypeScript,SECURITY.md,scripts to automate change case management in Salesforce
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/ace-context-pack,https://github.com/forcedotcom/ace-context-pack,,,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/sf-pack,https://github.com/forcedotcom/sf-pack,,TypeScript,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/eslint-config-salesforce-license,https://github.com/forcedotcom/eslint-config-salesforce-license,,JavaScript,SECURITY.md,Salesforce eslint configuration for adding license headers to all source files.
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/SalesforceMobileSDK-UITests,https://github.com/forcedotcom/SalesforceMobileSDK-UITests,,Kotlin,SECURITY.md,UI tests for the Mobile SDK
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/lwc-agentscript-viewer,https://github.com/forcedotcom/lwc-agentscript-viewer,,JavaScript,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/library-template,https://github.com/forcedotcom/library-template,,JavaScript,SECURITY.md,Template npm library for Salesforce CLI and VSCode Extensions
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/bundle-publish-scripts,https://github.com/forcedotcom/bundle-publish-scripts,,JavaScript,SECURITY.md,store the scripts to do modifications before publishing the bundled module 
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/salesforcedx-vscode-capture-startup-performance,https://github.com/forcedotcom/salesforcedx-vscode-capture-startup-performance,,TypeScript,SECURITY.md,An extension that contains a command to capture startup performance data and send it to Azure AppInsights.
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/commerce-heroku-sample-response,https://github.com/forcedotcom/commerce-heroku-sample-response,,JavaScript,SECURITY.md,Sample Heroku app with mock responses
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/ManagedAssetValidationReferenceTool,https://github.com/forcedotcom/ManagedAssetValidationReferenceTool,,Apex,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/oss-template,https://github.com/forcedotcom/oss-template,,,SECURITY.md,
-Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/.github,https://github.com/forcedotcom/.github,,,SECURITY.md,
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/change-case-management,https://github.com/forcedotcom/change-case-management,0,TypeScript,SECURITY.md,scripts to automate change case management in Salesforce
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/ace-context-pack,https://github.com/forcedotcom/ace-context-pack,0,,SECURITY.md,
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/sf-pack,https://github.com/forcedotcom/sf-pack,0,TypeScript,SECURITY.md,
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/eslint-config-salesforce-license,https://github.com/forcedotcom/eslint-config-salesforce-license,0,JavaScript,SECURITY.md,Salesforce eslint configuration for adding license headers to all source files.
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/SalesforceMobileSDK-UITests,https://github.com/forcedotcom/SalesforceMobileSDK-UITests,0,Kotlin,SECURITY.md,UI tests for the Mobile SDK
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/lwc-agentscript-viewer,https://github.com/forcedotcom/lwc-agentscript-viewer,0,JavaScript,SECURITY.md,
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/library-template,https://github.com/forcedotcom/library-template,0,JavaScript,SECURITY.md,Template npm library for Salesforce CLI and VSCode Extensions
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/bundle-publish-scripts,https://github.com/forcedotcom/bundle-publish-scripts,0,JavaScript,SECURITY.md,store the scripts to do modifications before publishing the bundled module 
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/salesforcedx-vscode-capture-startup-performance,https://github.com/forcedotcom/salesforcedx-vscode-capture-startup-performance,0,TypeScript,SECURITY.md,An extension that contains a command to capture startup performance data and send it to Azure AppInsights.
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/commerce-heroku-sample-response,https://github.com/forcedotcom/commerce-heroku-sample-response,0,JavaScript,SECURITY.md,Sample Heroku app with mock responses
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/ManagedAssetValidationReferenceTool,https://github.com/forcedotcom/ManagedAssetValidationReferenceTool,0,Apex,SECURITY.md,
+Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/oss-template,https://github.com/forcedotcom/oss-template,0,,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/o11y-reporter,https://github.com/forcedotcom/o11y-reporter,0,TypeScript,SECURITY.md,
 Salesforce,HackerOne（Salesforce）,Salesforce,Salesforce/.github,https://github.com/Salesforce/.github,,,SECURITY.md,
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/SapMachine,https://github.com/SAP/SapMachine,630,Java,SECURITY.md,An OpenJDK release maintained and supported by SAP
@@ -7046,7 +7046,7 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 富士通,自建PSIRT,fujitsu,fujitsu/clangfx,https://github.com/fujitsu/clangfx,5,,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this …
 富士通,自建PSIRT,fujitsu,fujitsu/tensorflow,https://github.com/fujitsu/tensorflow,3,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
 富士通,自建PSIRT,fujitsu,fujitsu/OpenBLAS,https://github.com/fujitsu/OpenBLAS,1,C,SECURITY.md,This is a fork of the OpenBLAS tuned for the FUJITSU processor A64FX with 512-bit Scalable Vector Extension (SVE) support.
-富士通,自建PSIRT,fujitsu,fujitsu/docker-machine-driver-fsas,https://github.com/fujitsu/docker-machine-driver-fsas,,Go,SECURITY.md,"This is a driver for installing RKE2 from Rancher, a Kubernetes management software, onto Fsas Technologies Inc.'s PRIMERGY CDI."
+富士通,自建PSIRT,fujitsu,fujitsu/docker-machine-driver-fsas,https://github.com/fujitsu/docker-machine-driver-fsas,0,Go,SECURITY.md,"This is a driver for installing RKE2 from Rancher, a Kubernetes management software, onto Fsas Technologies Inc.'s PRIMERGY CDI."
 富士通,自建PSIRT,fujitsu,fujitsu/jpug-doc,https://github.com/fujitsu/jpug-doc,0,C,.github/SECURITY.md,PostgreSQL database manual Japanese translation by Japan PostgreSQL Users Group
 日立,自建PSIRT,hitachi,Hitachi/keycloak,https://github.com/Hitachi/keycloak,2,Java,SECURITY.md,Open Source Identity and Access Management For Modern Applications and Services
 日立,自建PSIRT,hitachi,Hitachi/podman,https://github.com/Hitachi/podman,1,Go,SECURITY.md,Podman: A tool for managing OCI containers and pods.
@@ -7142,8 +7142,8 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 爱立信,自建PSIRT,ericsson,Ericsson/trivy,https://github.com/Ericsson/trivy,2,Go,SECURITY.md,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues"
 爱立信,自建PSIRT,ericsson,Ericsson/backstage,https://github.com/Ericsson/backstage,2,TypeScript,SECURITY.md,Backstage is an open platform for building developer portals
 爱立信,自建PSIRT,ericsson,Ericsson/SpecPressExt,https://github.com/Ericsson/SpecPressExt,1,JavaScript,SECURITY.md,SpecPress extension for VS Code
-爱立信,自建PSIRT,ericsson,Ericsson/.github,https://github.com/Ericsson/.github,,,SECURITY.md,
-爱立信,自建PSIRT,ericsson,Ericsson/kubernetes,https://github.com/Ericsson/kubernetes,,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
+爱立信,自建PSIRT,ericsson,Ericsson/.github,https://github.com/Ericsson/.github,0,,SECURITY.md,
+爱立信,自建PSIRT,ericsson,Ericsson/kubernetes,https://github.com/Ericsson/kubernetes,0,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
 爱立信,自建PSIRT,ericsson,ericsson/.github,https://github.com/ericsson/.github,,,SECURITY.md,
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ros-sharp,https://github.com/siemens/ros-sharp,1204,C#,SECURITY.md,"ROS# is a set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity3D"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/kas,https://github.com/siemens/kas,612,Python,SECURITY.md,Setup tool for bitbake based projects
@@ -7911,18 +7911,18 @@ Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/nomulus,https://githu
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/prometheus-client-rust,https://github.com/cloudflare/prometheus-client-rust,,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/prometheus-client,https://github.com/cloudflare/prometheus-client,,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/snmp_exporter,https://github.com/cloudflare/snmp_exporter,,Go,SECURITY.md,SNMP Exporter for Prometheus (Fork)
-Fastly,HackerOne（Fastly）,fastly,fastly/pushpin,https://github.com/fastly/pushpin,3867,Rust,SECURITY.md,"A proxy server for adding push to your API, used at the core of Fastly's Fanout service"
+Fastly,HackerOne（Fastly）,fastly,fastly/pushpin,https://github.com/fastly/pushpin,3866,Rust,SECURITY.md,"A proxy server for adding push to your API, used at the core of Fastly's Fanout service"
 Fastly,HackerOne（Fastly）,fastly,fastly/js-compute-runtime,https://github.com/fastly/js-compute-runtime,226,JavaScript,SECURITY.md,JavaScript SDK and runtime for building Fastly Compute applications
 Fastly,HackerOne（Fastly）,fastly,fastly/Viceroy,https://github.com/fastly/Viceroy,178,Rust,SECURITY.md,Viceroy provides local testing for developers working with Compute.
 Fastly,HackerOne（Fastly）,fastly,fastly/cli,https://github.com/fastly/cli,164,Go,SECURITY.md,"Build, deploy and configure Fastly services from your terminal"
 Fastly,HackerOne（Fastly）,fastly,fastly/fastly-ruby,https://github.com/fastly/fastly-ruby,97,Ruby,SECURITY.md,A Fastly API client for Ruby
 Fastly,HackerOne（Fastly）,fastly,fastly/next-compute-js,https://github.com/fastly/next-compute-js,79,TypeScript,SECURITY.md,Run Next.js on Fastly Compute
-Fastly,HackerOne（Fastly）,fastly,fastly/fastly-py,https://github.com/fastly/fastly-py,76,Python,SECURITY.md,A Fastly API client for Python
+Fastly,HackerOne（Fastly）,fastly,fastly/fastly-py,https://github.com/fastly/fastly-py,77,Python,SECURITY.md,A Fastly API client for Python
 Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-rust-default,https://github.com/fastly/compute-starter-kit-rust-default,55,Rust,SECURITY.md,Default package template for Rust based Compute projects
 Fastly,HackerOne（Fastly）,fastly,fastly/compute-js-static-publish,https://github.com/fastly/compute-js-static-publish,50,TypeScript,SECURITY.md,Static Publisher for Fastly Compute JavaScript
 Fastly,HackerOne（Fastly）,fastly,fastly/polyfill-service,https://github.com/fastly/polyfill-service,50,JavaScript,SECURITY.md,Automatic polyfill service.
 Fastly,HackerOne（Fastly）,fastly,fastly/compute-actions,https://github.com/fastly/compute-actions,48,JavaScript,SECURITY.md,GitHub Actions for building on Fastly Compute.
-Fastly,HackerOne（Fastly）,fastly,fastly/mcp,https://github.com/fastly/mcp,39,JavaScript,SECURITY.md,Model Context Protocol (MCP) server for AI-powered Fastly CDN management.
+Fastly,HackerOne（Fastly）,fastly,fastly/mcp,https://github.com/fastly/mcp,40,JavaScript,SECURITY.md,Model Context Protocol (MCP) server for AI-powered Fastly CDN management.
 Fastly,HackerOne（Fastly）,fastly,fastly/fastly-agent-toolkit,https://github.com/fastly/fastly-agent-toolkit,37,Shell,SECURITY.md,Fastly skills for AI Agents.
 Fastly,HackerOne（Fastly）,fastly,fastly/http-compute-js,https://github.com/fastly/http-compute-js,28,TypeScript,SECURITY.md,Node.js-compatible request and response objects
 Fastly,HackerOne（Fastly）,fastly,fastly/fastly-php,https://github.com/fastly/fastly-php,26,PHP,SECURITY.md,A Fastly API client for PHP
@@ -7998,43 +7998,43 @@ Fastly,HackerOne（Fastly）,fastly,fastly/learn-edge-computing,https://github.c
 Fastly,HackerOne（Fastly）,fastly,fastly/certbot,https://github.com/fastly/certbot,1,Python,SECURITY.md,Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that u…
 Fastly,HackerOne（Fastly）,fastly,fastly/wpi-mira,https://github.com/fastly/wpi-mira,1,Go,SECURITY.md,using apache kafka to conenct to routeviews data and monitor any of the incoming changes
 Fastly,HackerOne（Fastly）,fastly,fastly/edge-rate-limiting-terraform-example,https://github.com/fastly/edge-rate-limiting-terraform-example,1,VCL,SECURITY.md,Example of Fastly's Edge Rate Limiting using Terraform
-Fastly,HackerOne（Fastly）,fastly,fastly/stripe-mpp-payment-fanout,https://github.com/fastly/stripe-mpp-payment-fanout,,TypeScript,SECURITY.md,
-Fastly,HackerOne（Fastly）,fastly,fastly/fastly-go,https://github.com/fastly/fastly-go,,Go,SECURITY.md,A Fastly API client for Go
-Fastly,HackerOne（Fastly）,fastly,fastly/webmcp-on-demand-proto,https://github.com/fastly/webmcp-on-demand-proto,,JavaScript,SECURITY.md,WebMCP on Demand
-Fastly,HackerOne（Fastly）,fastly,fastly/fastly-typo3,https://github.com/fastly/fastly-typo3,,PHP,SECURITY.md,Extension for integrating Fastly CDN with TYPO3 installations
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-python-default,https://github.com/fastly/compute-starter-kit-python-default,,Python,SECURITY.md,Default starter kit for Python
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-remix,https://github.com/fastly/compute-starter-kit-javascript-remix,,JavaScript,SECURITY.md,Remix Template for JavaScript based Fastly Compute projects
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-typescript-hono,https://github.com/fastly/compute-starter-kit-typescript-hono,,TypeScript,SECURITY.md,Starter Kit for using Hono with Fastly Compute
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-websockets,https://github.com/fastly/compute-starter-kit-javascript-websockets,,JavaScript,SECURITY.md,Fastly Compute WebSockets starter kit for JavaScript
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-fanout-forward,https://github.com/fastly/compute-starter-kit-javascript-fanout-forward,,JavaScript,SECURITY.md,Fastly Compute JavaScript starter application for forwarding requests through Fastly Fanout.
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-esbuild,https://github.com/fastly/compute-starter-kit-javascript-esbuild,,JavaScript,SECURITY.md,"Fastly Compute starter kit for JavaScript, demonstrating esbuild for bundling"
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-advanced-caching,https://github.com/fastly/compute-starter-kit-javascript-advanced-caching,,JavaScript,SECURITY.md,JavaScript Starter Kit for Fastly Compute with advanced caching features
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-go-websockets,https://github.com/fastly/compute-starter-kit-go-websockets,,Go,SECURITY.md,Fastly Compute WebSockets starter kit for Go
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-go-fanout-forward,https://github.com/fastly/compute-starter-kit-go-fanout-forward,,Go,SECURITY.md,Fastly Compute Go starter application for forwarding requests through Fastly Fanout.
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-go-advanced-caching,https://github.com/fastly/compute-starter-kit-go-advanced-caching,,Go,SECURITY.md,Advanced Caching Starter Kit for Go
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-cpp-empty,https://github.com/fastly/compute-starter-kit-cpp-empty,,CMake,SECURITY.md,Empty package template for C++ based Fastly Compute projects
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-typescript-full,https://github.com/fastly/compute-starter-kit-typescript-full,,TypeScript,SECURITY.md,Fastly Compute TypeScript starter kit using full TypeScript
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-webpack,https://github.com/fastly/compute-starter-kit-javascript-webpack,,JavaScript,SECURITY.md,"Fastly Compute starter kit for JavaScript, demonstrating webpack for bundling"
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-go-tinygo,https://github.com/fastly/compute-starter-kit-go-tinygo,,Go,SECURITY.md,Package template for TinyGo-based Fastly Compute projects
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-cpp-default,https://github.com/fastly/compute-starter-kit-cpp-default,,C++,SECURITY.md,Default package template for C++ based Fastly Compute projects
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-rust-opentelemetry-exporter,https://github.com/fastly/compute-rust-opentelemetry-exporter,,Rust,SECURITY.md,Export OpenTelemetry traces from your Rust Compute services
-Fastly,HackerOne（Fastly）,fastly,fastly/html-2-md,https://github.com/fastly/html-2-md,,JavaScript,SECURITY.md,
-Fastly,HackerOne（Fastly）,fastly,fastly/leaderboard,https://github.com/fastly/leaderboard,,Rust,security.md,Leaderboard Compute Service for Games Support
-Fastly,HackerOne（Fastly）,fastly,fastly/bot-invaders,https://github.com/fastly/bot-invaders,,Rust,security.md,Bot Invaders Game
-Fastly,HackerOne（Fastly）,fastly,fastly/my-site,https://github.com/fastly/my-site,,XSLT,SECURITY.md,
-Fastly,HackerOne（Fastly）,fastly,fastly/hit-counter,https://github.com/fastly/hit-counter,,JavaScript,SECURITY.md,
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-origin,https://github.com/fastly/compute-origin,,CSS,SECURITY.md,An origin website for learning about edge computing!
-Fastly,HackerOne（Fastly）,fastly,fastly/fastly-io-demo,https://github.com/fastly/fastly-io-demo,,CSS,SECURITY.md,A demo of Fastly image optimizer
-Fastly,HackerOne（Fastly）,fastly,fastly/pics-site,https://github.com/fastly/pics-site,,,SECURITY.md,A daft site with some images in it
-Fastly,HackerOne（Fastly）,fastly,fastly/hono-compute-js-static-publish,https://github.com/fastly/hono-compute-js-static-publish,,TypeScript,SECURITY.md,Compute Static Publisher for Hono
-Fastly,HackerOne（Fastly）,fastly,fastly/polyfill-service-self-hosted,https://github.com/fastly/polyfill-service-self-hosted,,JavaScript,SECURITY.md,
-Fastly,HackerOne（Fastly）,fastly,fastly/jiralert,https://github.com/fastly/jiralert,,Go,SECURITY.md,JIRA integration for Prometheus Alertmanager
-Fastly,HackerOne（Fastly）,fastly,fastly/compute-mcp-server-sample,https://github.com/fastly/compute-mcp-server-sample,,Go,SECURITY.md,A sample code to run a remote mcp server on Fastly Compute
-Fastly,HackerOne（Fastly）,fastly,fastly/fanout-io-app,https://github.com/fastly/fanout-io-app,,JavaScript,SECURITY.md,Fanout.io Fastly Compute App
-Fastly,HackerOne（Fastly）,fastly,fastly/js-grip-compute-js,https://github.com/fastly/js-grip-compute-js,,TypeScript,SECURITY.md,Extension of js-grip to work with Fastly Compute JavaScript
-Fastly,HackerOne（Fastly）,fastly,fastly/nextjs-examples,https://github.com/fastly/nextjs-examples,,MDX,SECURITY.md,Examples for using Next.js on Fastly Compute
-Fastly,HackerOne（Fastly）,fastly,fastly/graphql-compute-example,https://github.com/fastly/graphql-compute-example,,JavaScript,SECURITY.md,An example of using GraphQL inside Fastly Compute
-Fastly,HackerOne（Fastly）,fastly,fastly/scoop-cli,https://github.com/fastly/scoop-cli,,,SECURITY.md,scoop packaging for the Fastly CLI
+Fastly,HackerOne（Fastly）,fastly,fastly/stripe-mpp-payment-fanout,https://github.com/fastly/stripe-mpp-payment-fanout,0,TypeScript,SECURITY.md,
+Fastly,HackerOne（Fastly）,fastly,fastly/fastly-go,https://github.com/fastly/fastly-go,0,Go,SECURITY.md,A Fastly API client for Go
+Fastly,HackerOne（Fastly）,fastly,fastly/webmcp-on-demand-proto,https://github.com/fastly/webmcp-on-demand-proto,0,JavaScript,SECURITY.md,WebMCP on Demand
+Fastly,HackerOne（Fastly）,fastly,fastly/fastly-typo3,https://github.com/fastly/fastly-typo3,0,PHP,SECURITY.md,Extension for integrating Fastly CDN with TYPO3 installations
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-python-default,https://github.com/fastly/compute-starter-kit-python-default,0,Python,SECURITY.md,Default starter kit for Python
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-remix,https://github.com/fastly/compute-starter-kit-javascript-remix,0,JavaScript,SECURITY.md,Remix Template for JavaScript based Fastly Compute projects
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-typescript-hono,https://github.com/fastly/compute-starter-kit-typescript-hono,0,TypeScript,SECURITY.md,Starter Kit for using Hono with Fastly Compute
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-websockets,https://github.com/fastly/compute-starter-kit-javascript-websockets,0,JavaScript,SECURITY.md,Fastly Compute WebSockets starter kit for JavaScript
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-fanout-forward,https://github.com/fastly/compute-starter-kit-javascript-fanout-forward,0,JavaScript,SECURITY.md,Fastly Compute JavaScript starter application for forwarding requests through Fastly Fanout.
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-esbuild,https://github.com/fastly/compute-starter-kit-javascript-esbuild,0,JavaScript,SECURITY.md,"Fastly Compute starter kit for JavaScript, demonstrating esbuild for bundling"
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-advanced-caching,https://github.com/fastly/compute-starter-kit-javascript-advanced-caching,0,JavaScript,SECURITY.md,JavaScript Starter Kit for Fastly Compute with advanced caching features
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-go-websockets,https://github.com/fastly/compute-starter-kit-go-websockets,0,Go,SECURITY.md,Fastly Compute WebSockets starter kit for Go
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-go-fanout-forward,https://github.com/fastly/compute-starter-kit-go-fanout-forward,0,Go,SECURITY.md,Fastly Compute Go starter application for forwarding requests through Fastly Fanout.
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-go-advanced-caching,https://github.com/fastly/compute-starter-kit-go-advanced-caching,0,Go,SECURITY.md,Advanced Caching Starter Kit for Go
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-cpp-empty,https://github.com/fastly/compute-starter-kit-cpp-empty,0,CMake,SECURITY.md,Empty package template for C++ based Fastly Compute projects
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-typescript-full,https://github.com/fastly/compute-starter-kit-typescript-full,0,TypeScript,SECURITY.md,Fastly Compute TypeScript starter kit using full TypeScript
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-javascript-webpack,https://github.com/fastly/compute-starter-kit-javascript-webpack,0,JavaScript,SECURITY.md,"Fastly Compute starter kit for JavaScript, demonstrating webpack for bundling"
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-go-tinygo,https://github.com/fastly/compute-starter-kit-go-tinygo,0,Go,SECURITY.md,Package template for TinyGo-based Fastly Compute projects
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-starter-kit-cpp-default,https://github.com/fastly/compute-starter-kit-cpp-default,0,C++,SECURITY.md,Default package template for C++ based Fastly Compute projects
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-rust-opentelemetry-exporter,https://github.com/fastly/compute-rust-opentelemetry-exporter,0,Rust,SECURITY.md,Export OpenTelemetry traces from your Rust Compute services
+Fastly,HackerOne（Fastly）,fastly,fastly/html-2-md,https://github.com/fastly/html-2-md,0,JavaScript,SECURITY.md,
+Fastly,HackerOne（Fastly）,fastly,fastly/leaderboard,https://github.com/fastly/leaderboard,0,Rust,security.md,Leaderboard Compute Service for Games Support
+Fastly,HackerOne（Fastly）,fastly,fastly/bot-invaders,https://github.com/fastly/bot-invaders,0,Rust,security.md,Bot Invaders Game
+Fastly,HackerOne（Fastly）,fastly,fastly/my-site,https://github.com/fastly/my-site,0,XSLT,SECURITY.md,
+Fastly,HackerOne（Fastly）,fastly,fastly/hit-counter,https://github.com/fastly/hit-counter,0,JavaScript,SECURITY.md,
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-origin,https://github.com/fastly/compute-origin,0,CSS,SECURITY.md,An origin website for learning about edge computing!
+Fastly,HackerOne（Fastly）,fastly,fastly/fastly-io-demo,https://github.com/fastly/fastly-io-demo,0,CSS,SECURITY.md,A demo of Fastly image optimizer
+Fastly,HackerOne（Fastly）,fastly,fastly/pics-site,https://github.com/fastly/pics-site,0,,SECURITY.md,A daft site with some images in it
+Fastly,HackerOne（Fastly）,fastly,fastly/hono-compute-js-static-publish,https://github.com/fastly/hono-compute-js-static-publish,0,TypeScript,SECURITY.md,Compute Static Publisher for Hono
+Fastly,HackerOne（Fastly）,fastly,fastly/polyfill-service-self-hosted,https://github.com/fastly/polyfill-service-self-hosted,0,JavaScript,SECURITY.md,
+Fastly,HackerOne（Fastly）,fastly,fastly/jiralert,https://github.com/fastly/jiralert,0,Go,SECURITY.md,JIRA integration for Prometheus Alertmanager
+Fastly,HackerOne（Fastly）,fastly,fastly/compute-mcp-server-sample,https://github.com/fastly/compute-mcp-server-sample,0,Go,SECURITY.md,A sample code to run a remote mcp server on Fastly Compute
+Fastly,HackerOne（Fastly）,fastly,fastly/fanout-io-app,https://github.com/fastly/fanout-io-app,0,JavaScript,SECURITY.md,Fanout.io Fastly Compute App
+Fastly,HackerOne（Fastly）,fastly,fastly/js-grip-compute-js,https://github.com/fastly/js-grip-compute-js,0,TypeScript,SECURITY.md,Extension of js-grip to work with Fastly Compute JavaScript
+Fastly,HackerOne（Fastly）,fastly,fastly/nextjs-examples,https://github.com/fastly/nextjs-examples,0,MDX,SECURITY.md,Examples for using Next.js on Fastly Compute
+Fastly,HackerOne（Fastly）,fastly,fastly/graphql-compute-example,https://github.com/fastly/graphql-compute-example,0,JavaScript,SECURITY.md,An example of using GraphQL inside Fastly Compute
+Fastly,HackerOne（Fastly）,fastly,fastly/scoop-cli,https://github.com/fastly/scoop-cli,0,,SECURITY.md,scoop packaging for the Fastly CLI
 Akamai,自建（Akamai VDP）,akamai,akamai/envoy,https://github.com/akamai/envoy,1,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 Datadog,HackerOne（Datadog）,DataDog,DataDog/stratus-red-team,https://github.com/DataDog/stratus-red-team,2445,Go,SECURITY.md,":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud"
 Datadog,HackerOne（Datadog）,DataDog,DataDog/guarddog,https://github.com/DataDog/guarddog,1250,Python,SECURITY.md,:snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
@@ -8183,8 +8183,9 @@ New Relic,自建（New Relic Security）,newrelic,newrelic/nri-collectd,https://
 New Relic,自建（New Relic Security）,newrelic,newrelic/nri-zookeeper,https://github.com/newrelic/nri-zookeeper,1,Go,SECURITY.md,New Relic On Host Integration for Apache Zookeeper
 New Relic,自建（New Relic Security）,newrelic,newrelic/newrelic-grafana-plugin,https://github.com/newrelic/newrelic-grafana-plugin,0,Go,SECURITY.md,
 New Relic,自建（New Relic Security）,newrelic,newrelic/.github,https://github.com/newrelic/.github,,,SECURITY.md,
-Sentry,自建（Sentry Security）,getsentry,getsentry/MobileBuildMCP,https://github.com/getsentry/MobileBuildMCP,6566,TypeScript,SECURITY.md,A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+Sentry,自建（Sentry Security）,getsentry,getsentry/MobileBuildMCP,https://github.com/getsentry/MobileBuildMCP,6572,TypeScript,SECURITY.md,A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 Sentry,自建（Sentry Security）,getsentry,getsentry/sentry-go,https://github.com/getsentry/sentry-go,1107,Go,.github/SECURITY.md,The official Go SDK for Sentry (sentry.io)
+Sentry,自建（Sentry Security）,getsentry,getsentry/.github,https://github.com/getsentry/.github,28,,SECURITY.md,Global repo settings for sentry.io
 Sentry,自建（Sentry Security）,getsentry,getsentry/webvitals.com,https://github.com/getsentry/webvitals.com,12,TypeScript,SECURITY.md,
 Sentry,自建（Sentry Security）,getsentry,getsentry/salt,https://github.com/getsentry/salt,4,Python,SECURITY.md,Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
 Sentry,自建（Sentry Security）,getsentry,getsentry/gocd,https://github.com/getsentry/gocd,3,Java,SECURITY.md,
@@ -8193,7 +8194,6 @@ Sentry,自建（Sentry Security）,getsentry,getsentry/run-on-changed,https://gi
 Sentry,自建（Sentry Security）,getsentry,getsentry/pocket-casts-android,https://github.com/getsentry/pocket-casts-android,2,Kotlin,SECURITY.md,Pocket Casts Android 🎧
 Sentry,自建（Sentry Security）,getsentry,getsentry/temporal-adventure-bot-workflow,https://github.com/getsentry/temporal-adventure-bot-workflow,1,TypeScript,.github/SECURITY.md,A Vercel Workflow port of the choose-your-own-adventure Slack bot.
 Sentry,自建（Sentry Security）,getsentry,getsentry/action-github-slug,https://github.com/getsentry/action-github-slug,1,TypeScript,SECURITY.md,GitHub Action to expose slug value of GitHub environment variables inside your GitHub workflow
-Sentry,自建（Sentry Security）,getsentry,getsentry/.github,https://github.com/getsentry/.github,,,SECURITY.md,
 Sentry,自建（Sentry Security）,getsentry,getsentry/KSCrash,https://github.com/getsentry/KSCrash,,Objective-C,SECURITY.md,Sentry's fork of KSCrash
 Sentry,自建（Sentry Security）,getsentry,getsentry/google-cloud-storage-testbench,https://github.com/getsentry/google-cloud-storage-testbench,,Python,SECURITY.md,A testbench for Google Cloud Storage client libraries.
 Sentry,自建（Sentry Security）,getsentry,getsentry/jsonschema-gentypes,https://github.com/getsentry/jsonschema-gentypes,,Python,SECURITY.md,Tool to generate Python types based on TypedDict from a JSON Schema

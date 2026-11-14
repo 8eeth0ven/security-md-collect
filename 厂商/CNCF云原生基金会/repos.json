@@ -17,10 +17,12 @@
   "full_name": "etcd-io/etcd",
   "url": "https://github.com/etcd-io/etcd",
   "sec_path": ".github/SECURITY.md",
-  "stars": 52601,
+  "stars": 52603,
   "language": "Go",
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-  "first_seen": "2026-11-01 19:49:09"
+  "license": null,
+  "first_seen": "2026-11-01 19:49:09",
+  "last_verified": "2026-11-14 20:32:13"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -51,10 +53,12 @@
   "full_name": "envoyproxy/envoy",
   "url": "https://github.com/envoyproxy/envoy",
   "sec_path": "SECURITY.md",
-  "stars": 29229,
+  "stars": 29230,
   "language": "C++",
   "description": "Cloud-native high-performance edge/middle/service proxy",
-  "first_seen": "2026-11-01 19:47:48"
+  "license": null,
+  "first_seen": "2026-11-01 19:47:48",
+  "last_verified": "2026-11-14 20:31:54"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -308,10 +312,12 @@
   "full_name": "envoyproxy/gateway",
   "url": "https://github.com/envoyproxy/gateway",
   "sec_path": "SECURITY.md",
-  "stars": 3143,
+  "stars": 3145,
   "language": "Go",
   "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
-  "first_seen": "2026-11-01 19:47:48"
+  "license": null,
+  "first_seen": "2026-11-01 19:47:48",
+  "last_verified": "2026-11-14 20:31:54"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -702,7 +708,9 @@
   "stars": 315,
   "language": "Java",
   "description": "Java implementation of an Envoy gRPC control plane",
-  "first_seen": "2026-11-01 19:47:48"
+  "license": null,
+  "first_seen": "2026-11-01 19:47:48",
+  "last_verified": "2026-11-14 20:31:54"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -809,7 +817,9 @@
   "stars": 207,
   "language": "C++",
   "description": "*ATTENTION!: The content of this repo is merged into https://github.com/envoyproxy/envoy and future development is happening there.",
-  "first_seen": "2026-11-01 19:47:48"
+  "license": null,
+  "first_seen": "2026-11-01 19:47:48",
+  "last_verified": "2026-11-14 20:31:54"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -832,7 +842,9 @@
   "stars": 176,
   "language": "Go",
   "description": "The official Kubernetes operator for etcd.",
-  "first_seen": "2026-11-01 19:49:09"
+  "license": null,
+  "first_seen": "2026-11-01 19:49:09",
+  "last_verified": "2026-11-14 20:32:13"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -902,7 +914,9 @@
   "stars": 125,
   "language": "Go",
   "description": "Directly access data objects stored in etcd by Kubernetes.",
-  "first_seen": "2026-11-01 19:49:09"
+  "license": null,
+  "first_seen": "2026-11-01 19:49:09",
+  "last_verified": "2026-11-14 20:32:13"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -986,7 +1000,9 @@
   "stars": 57,
   "language": "C++",
   "description": "Envoy OpenSSL extensions",
-  "first_seen": "2026-11-01 19:47:48"
+  "license": null,
+  "first_seen": "2026-11-01 19:47:48",
+  "last_verified": "2026-11-14 20:31:54"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1186,7 +1202,9 @@
   "stars": 12,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 19:47:48"
+  "license": null,
+  "first_seen": "2026-11-01 19:47:48",
+  "last_verified": "2026-11-14 20:31:54"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1405,7 +1423,9 @@
   "stars": 1,
   "language": "C++",
   "description": "Windows build of Envoy",
-  "first_seen": "2026-11-01 19:47:48"
+  "license": null,
+  "first_seen": "2026-11-01 19:47:48",
+  "last_verified": "2026-11-14 20:31:54"
  },
  {
   "vendor": "CNCF云原生基金会",

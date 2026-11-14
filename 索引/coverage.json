@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:05:52+00:00",
+  "generated_at": "2026-11-14T12:35:54+00:00",
   "security_md": {
     "mapped_vendors": 304,
     "mapped_accounts": 385,
@@ -12,9 +12,9 @@
       "Account default documents are counted once, not expanded across inheriting repos.",
       "Successful listing does not prove all upstream repositories were enumerated."
     ],
-    "known_catalog_repositories": 65482,
-    "checked_in_known_catalog": 63124,
-    "never_checked_in_known_catalog": 2358,
+    "known_catalog_repositories": 64290,
+    "checked_in_known_catalog": 61928,
+    "never_checked_in_known_catalog": 2362,
     "accounts_with_listing_failures": 0,
     "accounts_with_truncated_search": 0,
     "historical_error_rechecks": {
