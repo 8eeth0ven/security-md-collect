@@ -26,11 +26,11 @@ Good for data protection but means manual cleanup on stack deletion. Document th
 
 ### Open — Medium
 
-**5. `prepare-commit-msg` hook is bypassable**
+**5. Codewatch local hooks are bypassable**
 
-Developers can skip with `--no-verify`, edit the hook file, or commit from machines without it installed. Trailer data is best-effort, not authoritative.
+`prism-cli enable codewatch` installs a gitleaks `pre-commit` hook and a report-only `pre-push` review. Developers can skip them with `--no-verify`, edit or remove the hook files, or commit on machines without them installed. A missing gitleaks allows the commit with a warning. A pushed commit with no recorded pre-commit scan is recorded in `.prism/results/` as skipped, but those results are local to the developer's clone.
 
-**Accepted risk:** The system is designed for honest teams measuring their own productivity. Document this limitation for users.
+**Accepted risk:** The local hooks are an early warning, not a control. The CI eval gate's gitleaks scan, which fails closed, is the enforcing check. (This item replaces the bypassable `prepare-commit-msg` trailer hook, which is retired.)
 
 ---
 
@@ -63,11 +63,18 @@ Session IDs are now generated with a CSPRNG (32 bytes, base64url), which closes 
 
 ## Design Decisions (Accepted)
 
-- **Git trailers are developer-asserted metadata, not cryptographically verified.** The system is designed for internal teams measuring productivity, not adversarial environments.
-- **Token tracker files** (`.prism/tokentracker/`) are already in `.gitignore` — not committed to the repo.
+- **Local tools stay local.** Each local surface documents its own exposure; read these before changing them:
+  - `prism-cli dashboard` binds `127.0.0.1` only, requires a per-run token, makes no AWS calls on load, and its Setup view runs only a fixed list of commands after a confirmation ([Local Dashboard](USER_GUIDE.md#local-dashboard)).
+  - `prism-cli mcp` speaks MCP over stdio only, with no network listener; it treats finding text as untrusted reviewer output ([MCP server](USER_GUIDE.md#mcp-server-prism-cli-mcp)).
+  - The editor extension opens no port, makes no network calls and does not run in untrusted folders ([Security](editor-extension/README.md#security)).
+  - The Kiro Crew app runs only after you trust it in Kiro Crew; its page uses the gateway's authenticated routes and sandboxes report HTML (see [the app README](kirocrew-app/README.md)).
+  - `prism-cli security pentest` never takes a URL: it tests only an app it deployed into a private VPC with no internet ingress, and tears it down afterwards ([Running a Penetration Test](USER_GUIDE.md#running-a-penetration-test-from-the-cli)).
+  - `prism-cli enable security`, `security pentest` and `team add-developer` show the account, region and plan and ask before writing to AWS.
+- **AI attribution is developer-machine data, not cryptographically verified.** codeburn attribution is pushed from each developer's machine. The system is designed for internal teams measuring productivity, not adversarial environments. (Commit trailers and the token tracker that fed them are retired.)
+- **Codewatch results** (`.prism/results/`) are gitignored, or excluded through `.git/info/exclude` with `--global`, so they are never committed. They store gitleaks rule ids and locations, never secret values.
 - **Pinned action SHAs** prevent supply-chain attacks via compromised actions.
 - **OIDC** eliminates long-lived AWS credentials in GitHub secrets.
-- **Hook always exits 0** — never blocks developer workflow on failure.
+- **Codewatch hooks fail open** — the `pre-push` review always exits 0, and `pre-commit` blocks only on a gitleaks finding (or a gitleaks run that errors), never because a tool is missing.
 
 ---
 

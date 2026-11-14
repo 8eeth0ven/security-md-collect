@@ -57,13 +57,21 @@ The stage's `run-session`, a Lambda function, creates short-lived STS credential
 
 Cline receives credentials only through `credential_process`, a credential helper. This helper asks `agentd`, the microVM supervisor program, over a Unix socket. AWS key variables are removed from Cline's environment. The Bedrock API key variable is also removed. Cline's profile has AWS instance metadata lookup switched off.
 
+`agentd` starts Cline as an unprivileged user inside the microVM. When it cannot find that user, the run ends before Cline starts and shows "Cline did not start". Cline never runs as root.
+
+Cline holds the same session credentials as `agentd`. Two routes of the private API, the one that completes a turn and the one that records events, also need a run key that only `run-session` and `agentd` can make. A process that has the session credentials and not the key cannot complete a turn or write events. A run that started before this check existed is accepted as it was.
+
+The session credentials can also write to the stage's bucket, so a process that holds them can put a newer version of the three files `agentd` uploads at the end of a run: the bundle, `summary.json` and `test-report.json`. `agentd` therefore keeps what the bucket answered to each of its own writes, the SHA-256 of the file and its version id, and sends those records in the call that completes the turn. That call needs the run key, so only `agentd` can make it. The delivery steps read the recorded version of each file, check its SHA-256, and read no other version. A file whose record is missing, whose version is gone or whose bytes differ is not used: the run says so and delivers nothing from its final files. A run that started before this check existed is read as it was. The periodic snapshot that `agentd` saves while Cline works has no record; the service delivers it only when a session ended without a final bundle, and the label says it is a snapshot.
+
 The CodeArtifact token, for the AWS package service, lives only in `agentd` memory. A local proxy adds it to requests. Cline never sees the token. The program wipes the token from memory when it is dropped.
 
 Source: `crates/pkgproxy/src/lib.rs`, using `Secret` and zeroize on drop.
 
-Output containing a session credential becomes `<redacted>` before leaving `agentd`. The same rule covers the refresh nonce and package token. Strings starting with `ASIA` or `AKIA` are scrubbed from details.
+Output containing a session credential becomes `<redacted>` before leaving `agentd`. The same rule covers the refresh nonce and package token, and every secret a credential refresh creates later. Events, the stored conversation and the end-of-run notes all use that one set. Strings starting with `ASIA` or `AKIA` are scrubbed from details.
 
 The Tavily web-search key sits in AWS Secrets Manager. The secret's resource policy denies GetSecretValue to every principal except the research Lambda's role, administrators included. An administrator who may change the secret's resource policy can remove the rule. The key never enters the microVM. A stage needs no key to search: it uses AgentCore Web Search, which authenticates with IAM, and only a stage whose owner stored a Tavily key sends queries to Tavily.
+
+The research Lambda accepts an event as a worker's only when it has the whole shape that API Gateway gives a worker session and the account of the function. Anyone who may invoke the function directly (`lambda:InvokeFunction`: account administrators and any role you name for the operator's key check) can send any event, so they can act as any worker session on the research routes. Worker sessions hold no such right. Grant it narrowly.
 
 A Tavily dashboard key does not expire; a leaked key stays valid until someone deletes it in the Tavily dashboard. Tavily advises rotating a key about every 90 days; a stage that has a Tavily key stored raises an alarm when that key is 30 days old (the deploy setting `HAMH_TAVILY_KEY_MAX_AGE_DAYS` changes the age) and when Tavily refuses the key. The metrics of the alarms hold the stage name and a number, never the key, a header, an answer of Tavily or an address. `python3 scripts/research-key-put.py --stage direct --rotate` checks the new key with Tavily before it stores it, waits until the research Lambda holds it, and prints nothing derived from the key: after the key is typed it prints only fixed messages, status codes and a short list of AWS error codes. It asks the AWS CLI whether its history is on and refuses to run when it is, or when the CLI cannot say, because that history would keep the key. On an Enterprise plan, `--rotate-enterprise` makes a key that Tavily deactivates by itself after the hours you choose; it deactivates the previous generation only when it is certain that the new key is stored, current and in use, and it keeps a ledger of every active generation in the secret's tags. Run one operator at a time. The wait uses the `key-state` question, which only a direct invoke of the research Lambda reaches; it is meant for the operator, the Lambda cannot tell an operator from another caller that sends the same event, and so no worker session role may hold `lambda:InvokeFunction` on the research Lambda (the worker session policy grants no Lambda action, and a test holds it to that). A Tavily key is optional: `python3 scripts/research-key-put.py --stage direct --clear` returns a stage to AgentCore Web Search, which needs no key, and deleting the key in the Tavily dashboard is what revokes it. The script reads an account file, as the deploy scripts do; the README item "Can Cline research the web?" says how to get one after a full setup.
 
@@ -87,7 +95,7 @@ AWS Network Firewall drops every outbound host outside its allowlist. It logs ea
 
 Only harness-authored events move a run to complete. Only those events show links. Cline cannot write these events. The harness records how Cline stopped. It shows one fixed label. It does not judge the code.
 
-Delivery runs gitleaks, a secret scanner, over the run's commits. It refuses bundles containing a secret. It also refuses changes to GitHub Actions workflow files. It refuses changes to the root `buildspec.yml`. It refuses changes to the engine's hooks, plugins and agents.
+Delivery runs gitleaks, a secret scanner, over the run's commits. It refuses bundles containing a secret. It refuses changes to the engine's hooks, plugins and agents. For a run that targets a repository, it also refuses changes to GitHub Actions workflow files and to the root `buildspec.yml`. A run that delivers only a zip delivers such a file and names it in the run's detail. Nothing runs a zip.
 
 Delivery refuses files over 100 MiB. It refuses bundles over 2 GiB. A bundle that fails one of these checks, or the secret scan, ends the run as `blocked`: `ham` exits 12 and nothing is delivered.
 
@@ -143,7 +151,7 @@ The file `infra/pnpm-lock.yaml` pins the CDK app's packages. You install them fr
 
 The Cline binary is pinned by SHA-256. It is also pinned to an upstream commit. The build applies a pinned patch series. One patch compiles telemetry out. Cline never updates itself.
 
-`agentd` hashes the Cline binary at start. It records the hash.
+`agentd` hashes the Cline binary at start and records the hash. It does not refuse to start Cline on a different hash. The image build checks the hash, the image is pinned by digest, and the repository's tags are immutable, so the build check protects the run.
 
 The worker image starts from a base image pinned by digest. Its binaries are checked against SHA-256 values at build time. These binaries are `agentd`, Cline, ripgrep, gitleaks and uv.
 

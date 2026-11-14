@@ -47,7 +47,9 @@
   "stars": 892,
   "language": "Python",
   "description": "Metis is an open-source, AI-driven tool for deep security code review",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -71,7 +73,9 @@
   "stars": 265,
   "language": "LLVM",
   "description": "A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -121,7 +125,9 @@
   "stars": 114,
   "language": null,
   "description": "Arm® Accuracy Super Resolution™",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -132,7 +138,9 @@
   "stars": 100,
   "language": "Python",
   "description": "An open-source protocol by Arm for connecting devices, robots, and AI agents",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -143,7 +151,9 @@
   "stars": 91,
   "language": "Python",
   "description": "Neural Graphics Model Gym is a Python® toolkit for developing real-time Neural Graphics machine learning models.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -167,7 +177,9 @@
   "stars": 64,
   "language": "C",
   "description": "Arm® Accuracy Super Resolution™ for Unreal® Engine",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -178,7 +190,9 @@
   "stars": 48,
   "language": "C",
   "description": "Arm® Accuracy Super Resolution™ Generic Library",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -189,7 +203,9 @@
   "stars": 42,
   "language": null,
   "description": "Arm assembly Language Server. This is a mirror repository.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -213,7 +229,9 @@
   "stars": 34,
   "language": "C++",
   "description": "The ML Emulation Layer for Vulkan® provides an implementation of the ML APIs enabling ML workloads to be executed on any Vulkan® Compute capable device.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -224,7 +242,9 @@
   "stars": 30,
   "language": "Python",
   "description": "The ML SDK for Vulkan® is an SDK to facilitate the development of projects using the ML extensions for Vulkan®. This repository contains scripts to facilitate b…",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -245,10 +265,12 @@
   "full_name": "arm/performix",
   "url": "https://github.com/arm/performix",
   "sec_path": "SECURITY.md",
-  "stars": 24,
+  "stars": 23,
   "language": "Go",
   "description": "Arm Performix",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -259,7 +281,22 @@
   "stars": 21,
   "language": "Jupyter Notebook",
   "description": "Examples showing how to use the Neural Graphics Model Gym",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
+ },
+ {
+  "vendor": "ARM",
+  "org": "arm",
+  "full_name": "arm/Optimized-Runtimes",
+  "url": "https://github.com/arm/Optimized-Runtimes",
+  "sec_path": "SECURITY.md",
+  "stars": 20,
+  "language": "C++",
+  "description": "Arm-optimized inference runtimes for supported models and platforms",
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -283,7 +320,9 @@
   "stars": 14,
   "language": "C++",
   "description": "The VGF Library is a library that encodes and decodes VGF files. The VGF format covers the entire model use cases. These use cases can be a combination of SPIR-…",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -294,7 +333,9 @@
   "stars": 14,
   "language": "C++",
   "description": "The Scenario Runner is an application that executes shader and neural network graph workloads through Vulkan® or the ML extensions for Vulkan®. ",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -305,7 +346,9 @@
   "stars": 13,
   "language": "C++",
   "description": "The ML SDK Model Converter is a command line application that translate TOSA ML Models to VGF files. A VGF file is a model file containing SPIR-V™ modules and c…",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -316,7 +359,9 @@
   "stars": 13,
   "language": "C++",
   "description": "LLM inference in C/C++",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -340,7 +385,9 @@
   "stars": 10,
   "language": "C++",
   "description": "Arm's open-source Random Number Generator library.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -351,7 +398,9 @@
   "stars": 10,
   "language": null,
   "description": "AArch64 assembly language support for VS Code. This is a mirror repository.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -385,10 +434,12 @@
   "full_name": "arm/mlia",
   "url": "https://github.com/arm/mlia",
   "sec_path": "SECURITY.md",
-  "stars": 9,
+  "stars": 8,
   "language": "Python",
   "description": "Machine Learning Inference Advisor.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -399,7 +450,9 @@
   "stars": 7,
   "language": "Python",
   "description": "VGF Adapter for model-explorer that enables visualization of VGF files from the Arm ML SDK for Vulkan®.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -410,18 +463,9 @@
   "stars": 6,
   "language": null,
   "description": "This repository contains the xml manifest describing how to checkout all the ML SDK for Vulkan® software plus all its dependencies.",
-  "first_seen": "2026-11-01 18:09:23"
- },
- {
-  "vendor": "ARM",
-  "org": "arm",
-  "full_name": "arm/Optimized-Runtimes",
-  "url": "https://github.com/arm/Optimized-Runtimes",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": "C++",
-  "description": "Arm-optimized inference runtimes for supported models and platforms",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -432,7 +476,9 @@
   "stars": 6,
   "language": "Python",
   "description": "TOSA Adapter for model-explorer that enables visualization of TOSA Flatbuffer files.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -443,7 +489,9 @@
   "stars": 6,
   "language": "C++",
   "description": "Capture datasets for developing Neural Graphics machine learning models.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -454,7 +502,9 @@
   "stars": 4,
   "language": "C++",
   "description": "C++ library for executing ML workloads through Vulkan.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -504,7 +554,9 @@
   "stars": 3,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -528,7 +580,9 @@
   "stars": 1,
   "language": "Rust",
   "description": "Build edge and physical AI applications on Arm Linux with composable, containerized camera, perception, and messaging services and Rust and Python APIs.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -539,7 +593,9 @@
   "stars": 1,
   "language": "Python",
   "description": "PTE adapter for Model Explorer that enables visualization of ExecuTorch PTE files.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -560,10 +616,12 @@
   "full_name": "arm/mlia-ethos-u",
   "url": "https://github.com/arm/mlia-ethos-u",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "MLIA Ethos-U Plugin.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -571,10 +629,12 @@
   "full_name": "arm/mlia-neural-technology",
   "url": "https://github.com/arm/mlia-neural-technology",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "MLIA Neural Technology plugin.",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -582,10 +642,12 @@
   "full_name": "arm/executorch-extension-model-explorer",
   "url": "https://github.com/arm/executorch-extension-model-explorer",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -593,10 +655,12 @@
   "full_name": "arm/GR00T-WholeBodyControl",
   "url": "https://github.com/arm/GR00T-WholeBodyControl",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC m…",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -604,10 +668,12 @@
   "full_name": "arm/tosa-for-spirv-codegen",
   "url": "https://github.com/arm/tosa-for-spirv-codegen",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:12"
  },
  {
   "vendor": "ARM",
@@ -615,10 +681,12 @@
   "full_name": "arm/SPIRV-Tools",
   "url": "https://github.com/arm/SPIRV-Tools",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -626,10 +694,12 @@
   "full_name": "arm/SPIRV-Headers",
   "url": "https://github.com/arm/SPIRV-Headers",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",
@@ -637,10 +707,12 @@
   "full_name": "arm/NXDelegate",
   "url": "https://github.com/arm/NXDelegate",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 18:09:23"
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",

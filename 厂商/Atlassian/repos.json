@@ -5,10 +5,12 @@
   "full_name": "atlassian/atlassian-mcp-server",
   "url": "https://github.com/atlassian/atlassian-mcp-server",
   "sec_path": "SECURITY.md",
-  "stars": 1159,
-  "language": "JavaScript",
+  "stars": 1163,
+  "language": "Python",
   "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code…",
-  "first_seen": "2026-11-01 18:10:46"
+  "license": null,
+  "first_seen": "2026-11-01 18:10:46",
+  "last_verified": "2026-11-15 05:02:43"
  },
  {
   "vendor": "Atlassian",
@@ -19,7 +21,9 @@
   "stars": 43,
   "language": "Kotlin",
   "description": "Kotlin implementation of Prosemirror",
-  "first_seen": "2026-11-01 18:12:40"
+  "license": null,
+  "first_seen": "2026-11-01 18:12:40",
+  "last_verified": "2026-11-15 05:02:49"
  },
  {
   "vendor": "Atlassian",
@@ -30,7 +34,9 @@
   "stars": 32,
   "language": "JavaScript",
   "description": "Public home for Atlassian Teamwork Graph CLI users, release notes, issue tracking, agent skills, and marketplace plugin integration notes.",
-  "first_seen": "2026-11-01 18:10:46"
+  "license": null,
+  "first_seen": "2026-11-01 18:10:46",
+  "last_verified": "2026-11-15 05:02:43"
  },
  {
   "vendor": "Atlassian",
@@ -41,7 +47,9 @@
   "stars": 16,
   "language": "JavaScript",
   "description": "An office full of characters, and the characters are your AI agents. A soft-3D isometric room that renders live agent sessions as people who walk in, sit down, …",
-  "first_seen": "2026-11-01 18:12:40"
+  "license": null,
+  "first_seen": "2026-11-01 18:12:40",
+  "last_verified": "2026-11-15 05:02:49"
  },
  {
   "vendor": "Atlassian",
@@ -49,10 +57,12 @@
   "full_name": "atlassian-labs/opensearch-aosc",
   "url": "https://github.com/atlassian-labs/opensearch-aosc",
   "sec_path": "SECURITY.md",
-  "stars": 10,
+  "stars": 11,
   "language": "Java",
   "description": "Zero-downtime* index migration & scaling for OpenSearch",
-  "first_seen": "2026-11-01 18:12:40"
+  "license": null,
+  "first_seen": "2026-11-01 18:12:40",
+  "last_verified": "2026-11-15 05:02:49"
  },
  {
   "vendor": "Atlassian",
@@ -63,7 +73,9 @@
   "stars": 6,
   "language": "Java",
   "description": "Open Source In-Memory Data Grid",
-  "first_seen": "2026-11-01 18:10:46"
+  "license": null,
+  "first_seen": "2026-11-01 18:10:46",
+  "last_verified": "2026-11-15 05:02:43"
  },
  {
   "vendor": "Atlassian",
@@ -86,7 +98,9 @@
   "stars": 2,
   "language": "Go",
   "description": "Container Cluster Manager from Google",
-  "first_seen": "2026-11-01 18:10:46"
+  "license": null,
+  "first_seen": "2026-11-01 18:10:46",
+  "last_verified": "2026-11-15 05:02:43"
  },
  {
   "vendor": "Atlassian",
@@ -97,7 +111,9 @@
   "stars": 1,
   "language": "Python",
   "description": "Data Visualization Skill based on plotly",
-  "first_seen": "2026-11-01 18:12:40"
+  "license": null,
+  "first_seen": "2026-11-01 18:12:40",
+  "last_verified": "2026-11-15 05:02:49"
  },
  {
   "vendor": "Atlassian",
@@ -109,6 +125,20 @@
   "language": "JavaScript",
   "description": "Early-access Atlassian plugins for Claude Code and Codex",
   "license": null,
-  "first_seen": "2026-11-04 04:03:55"
+  "first_seen": "2026-11-04 04:03:55",
+  "last_verified": "2026-11-15 05:02:49"
+ },
+ {
+  "vendor": "Atlassian",
+  "org": "atlassian-labs",
+  "full_name": "atlassian-labs/jsm-ops-migrator",
+  "url": "https://github.com/atlassian-labs/jsm-ops-migrator",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Migrate PagerDuty users, teams, schedules, escalation policies, services, contact methods and notification rules to Jira Service Management Operations through p…",
+  "license": null,
+  "first_seen": "2026-11-15 05:02:49",
+  "last_verified": "2026-11-15 05:02:49"
  }
 ]
