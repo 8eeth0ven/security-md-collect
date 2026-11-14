@@ -10366,27 +10366,58 @@ SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomo
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/wagtail-vega,https://github.com/freedomofpress/wagtail-vega,0,Python,docs/security.md,Proof of concept integration of Wagtail and Vega
 Solidus,公开平台范围（仅用于策略发现）,solidusio,solidusio/.github,https://github.com/solidusio/.github,1,,SECURITY.md,
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/.github,https://github.com/supabase/.github,15,,SECURITY.md,Org-wide default community health files & templates.
-TRON DAO,公开平台范围（仅用于策略发现）,tronprotocol,tronprotocol/java-tron,https://github.com/tronprotocol/java-tron,,,SECURITY.md,
-TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/.github,https://github.com/tomtom-international/.github,,,SECURITY.md,
+TRON DAO,公开平台范围（仅用于策略发现）,tronprotocol,tronprotocol/java-tron,https://github.com/tronprotocol/java-tron,4181,Java,SECURITY.md,Java implementation of the Tron whitepaper
+TRON DAO,公开平台范围（仅用于策略发现）,tronprotocol,tronprotocol/solidity,https://github.com/tronprotocol/solidity,47,C++,SECURITY.md,"Solidity, the Contract-Oriented Programming Language"
+TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/vault-assessment-prometheus-exporter,https://github.com/tomtom-international/vault-assessment-prometheus-exporter,33,Python,SECURITY.md,Provides a prometheus exporter for monitoring aspects secrets stored on a running HashiCorp Vault server
+TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/tomtom-navigation-android-examples,https://github.com/tomtom-international/tomtom-navigation-android-examples,29,Kotlin,SECURITY.md,TomTom Navigation SDK examples
+TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/tomtom-traffic-analytics-mcp,https://github.com/tomtom-international/tomtom-traffic-analytics-mcp,6,TypeScript,SECURITY.md,"A Model Context Protocol (MCP) server providing TomTom's MOVE traffic analytics services, including past, present and future traffic data to AI agents."
+TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/tomtom-example-app,https://github.com/tomtom-international/tomtom-example-app,5,Kotlin,SECURITY.md,Example applications demonstrating the usage of TomTom's Maps and Navigation SDK for Android.
+TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/.github,https://github.com/tomtom-international/.github,1,,SECURITY.md,TomTom GitHub Organization-wide files
+TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/technical-blogposts,https://github.com/tomtom-international/technical-blogposts,0,Shell,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-core,https://github.com/worldcoin/orb-core,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-firmware,https://github.com/worldcoin/orb-firmware,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-messages,https://github.com/worldcoin/orb-messages,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-secure-element,https://github.com/worldcoin/orb-secure-element,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-software,https://github.com/worldcoin/orb-software,,,SECURITY.md,
+Valve,公开平台范围（仅用于策略发现）,valvesoftware,ValveSoftware/GameNetworkingSockets,https://github.com/ValveSoftware/GameNetworkingSockets,10068,C++,SECURITY.md,Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
 Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,61071,TypeScript,SECURITY.md,The full-stack Vue framework.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,32490,TypeScript,.github/SECURITY.md,React Hooks for Data Fetching
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,31339,Rust,SECURITY.md,The build system for coding agents.
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,30742,TypeScript,SECURITY.md,The most comprehensive authentication framework
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai,https://github.com/vercel/ai,27931,TypeScript,.github/SECURITY.md,"The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents "
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/agent-desktop,https://github.com/vercel-labs/agent-desktop,23526,Rust,SECURITY.md,Computer use CLI for AI agents
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/deepsec,https://github.com/vercel-labs/deepsec,8413,TypeScript,SECURITY.md,Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/next-forge,https://github.com/vercel/next-forge,7775,TypeScript,.github/SECURITY.md,Production-grade Turborepo template for Next.js apps.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/eve,https://github.com/vercel/eve,5892,TypeScript,SECURITY.md,The Open Framework for Building Agents
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/streamdown,https://github.com/vercel/streamdown,5765,TypeScript,.github/SECURITY.md,"A drop-in replacement for react-markdown, designed for AI-powered streaming."
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai-elements,https://github.com/vercel/ai-elements,2525,TypeScript,.github/SECURITY.md,AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/chat,https://github.com/vercel/chat,2477,TypeScript,.github/SECURITY.md,Universal chat layer for building bots and agents.
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/lat.md,https://github.com/vercel-labs/lat.md,2072,TypeScript,SECURITY.md,"Agent Lattice: a knowledge graph for your codebase, written in markdown."
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-hub,https://github.com/better-auth/better-hub,1268,TypeScript,SECURITY.md,Re-imagining code collaboration for humans and agents
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/knowledge-agent-template,https://github.com/vercel-labs/knowledge-agent-template,1083,TypeScript,SECURITY.md,Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-call,https://github.com/better-auth/better-call,823,TypeScript,SECURITY.md,a tiny web framework for typescript
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/components.build,https://github.com/vercel/components.build,803,MDX,.github/SECURITY.md,"An open-source standard for building modern, composable and accessible UI components."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/issue-graph,https://github.com/vercel-labs/issue-graph,187,TypeScript,SECURITY.md,"Find related issues, competing changes, and unresolved follow-ups before you start work."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/arcade,https://github.com/vercel-labs/arcade,27,TypeScript,.github/SECURITY.md,"3D ASCII games rendered in the terminal. Watch agents duke it out or take them on yourself, powered by Vercel's AI Gateway."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/error,https://github.com/vercel-labs/error,21,TypeScript,SECURITY.md,"A lightweight toolkit for structured, actionable errors for humans and agents."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/nuxt-connect-starter,https://github.com/vercel-labs/nuxt-connect-starter,21,TypeScript,SECURITY.md,"Minimal Nuxt starter for Vercel Connect. OAuth integrations hub with GitHub and Linear, no provider secrets in your env."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/guarded-fetch,https://github.com/vercel-labs/guarded-fetch,15,TypeScript,SECURITY.md,SSRF-safe HTTP(S) fetch utilities backed by undici
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/catalyst,https://github.com/vercel/catalyst,12,TypeScript,SECURITY.md,Catalyst - for Composable Commerce
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/.github,https://github.com/vercel/.github,11,,SECURITY.md,
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turbo-private,https://github.com/vercel/turbo-private,11,Go,SECURITY.md,The High-performance Build System for JavaScript & TypeScript Codebases
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/just-secrets,https://github.com/vercel-labs/just-secrets,7,JavaScript,SECURITY.md,Native OS secret storage for Node.js. Zero dependencies.
 Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/.github,https://github.com/nuxt/.github,6,,SECURITY.md, Default community health files for nuxt repositories
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/tsyringe,https://github.com/vercel/tsyringe,6,TypeScript,SECURITY.md,Lightweight dependency injection container for JavaScript/TypeScript
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/coraza,https://github.com/vercel/coraza,5,Go,SECURITY.md,OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/openclaw,https://github.com/vercel-labs/openclaw,4,TypeScript,SECURITY.md,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/openclaw-sandbox,https://github.com/vercel-labs/openclaw-sandbox,3,TypeScript,SECURITY.md,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/agentenv-framework,https://github.com/vercel-labs/agentenv-framework,2,Python,SECURITY.md,AgentEnv + Vercel Sandbox: provider and runnable end-to-end evaluation POC
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/ai-test-clone,https://github.com/vercel-labs/ai-test-clone,2,TypeScript,.github/SECURITY.md,Testing factory automations
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/cbor-x,https://github.com/vercel-labs/cbor-x,2,JavaScript,SECURITY.md,Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/openclaw-archive,https://github.com/vercel-labs/openclaw-archive,2,TypeScript,SECURITY.md,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 Vercel,公开平台范围（仅用于策略发现）,nitrojs,nitrojs/nitro-v2,https://github.com/nitrojs/nitro-v2,1,TypeScript,SECURITY.md,Nitro v2 (nitropack) maintenance repo. Active development is at nitrojs/nitro.
 Vercel,公开平台范围（仅用于策略发现）,nitrojs,nitrojs/.github,https://github.com/nitrojs/.github,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,sveltejs,sveltejs/.github,https://github.com/sveltejs/.github,,,SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/.github,https://github.com/vercel/.github,,,SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai,https://github.com/vercel/ai,,,.github/SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/chat,https://github.com/vercel/chat,,,.github/SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/eve,https://github.com/vercel/eve,,,SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,,,.github/SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,,,SECURITY.md,
 Version Cake,公开平台范围（仅用于策略发现）,bwillis,bwillis/versioncake,https://github.com/bwillis/versioncake,652,Ruby,SECURITY.md,> 🍰 Version Cake is an unobtrusive way to version APIs in your Rails or Rack apps
 WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/app,https://github.com/WorldHealthOrganization/app,2114,Dart,SECURITY.md,COVID-19 App
 WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/godata,https://github.com/WorldHealthOrganization/godata,101,HTML,SECURITY.md,"Codebase and Community of Practice for Go.Data (https://goarn.who.int/virtual-spaces/godataproject), an outbreak investigation tool developed by WHO in collabor…"
