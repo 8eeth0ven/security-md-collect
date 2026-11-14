@@ -2,18 +2,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/vscode",
-  "url": "https://github.com/microsoft/vscode",
-  "sec_path": "SECURITY.md",
-  "stars": 195348,
-  "language": "TypeScript",
-  "description": "Visual Studio Code",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/markitdown",
   "url": "https://github.com/microsoft/markitdown",
   "sec_path": "SECURITY.md",
@@ -535,36 +523,12 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/windows-rs",
-  "url": "https://github.com/microsoft/windows-rs",
-  "sec_path": "docs/security.md",
-  "stars": 12913,
-  "language": "Rust",
-  "description": "Rust for Windows",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/garnet",
   "url": "https://github.com/microsoft/garnet",
   "sec_path": "SECURITY.md",
   "stars": 12090,
   "language": "C#",
   "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding…",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
-  "full_name": "microsoft/winget-pkgs",
-  "url": "https://github.com/microsoft/winget-pkgs",
-  "sec_path": "SECURITY.md",
-  "stars": 11310,
-  "language": null,
-  "description": "The Microsoft community Windows Package Manager manifest repository",
   "license": null,
   "first_seen": "2026-11-01 22:38:46"
  },
@@ -2729,18 +2693,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/waza",
-  "url": "https://github.com/microsoft/waza",
-  "sec_path": "SECURITY.md",
-  "stars": 1509,
-  "language": "Go",
-  "description": "CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness",
-  "license": null,
-  "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/automatic-graph-layout",
   "url": "https://github.com/microsoft/automatic-graph-layout",
   "sec_path": "SECURITY.md",
@@ -3210,18 +3162,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/power-platform-skills",
-  "url": "https://github.com/microsoft/power-platform-skills",
-  "sec_path": "SECURITY.md",
-  "stars": 1143,
-  "language": "JavaScript",
-  "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands fo…",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/mssql-jdbc",
   "url": "https://github.com/microsoft/mssql-jdbc",
   "sec_path": "SECURITY.md",
@@ -3336,7 +3276,8 @@
   "language": "TypeScript",
   "description": "Authentication Providers and UI components for Microsoft Graph 🦒",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -3997,18 +3938,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/nvx",
-  "url": "https://github.com/microsoft/nvx",
-  "sec_path": "SECURITY.md",
-  "stars": 837,
-  "language": "Rust",
-  "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/vscode-remote-try-node",
   "url": "https://github.com/microsoft/vscode-remote-try-node",
   "sec_path": "SECURITY.md",
@@ -4178,7 +4107,7 @@
   "full_name": "microsoftgraph/msgraph-sdk-dotnet",
   "url": "https://github.com/microsoftgraph/msgraph-sdk-dotnet",
   "sec_path": "SECURITY.md",
-  "stars": 795,
+  "stars": 796,
   "language": "C#",
   "description": "Microsoft Graph Client Library for .NET!",
   "license": null,
@@ -4639,6 +4568,18 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/msgraph-sdk-php",
+  "url": "https://github.com/microsoftgraph/msgraph-sdk-php",
+  "sec_path": "SECURITY.md",
+  "stars": 669,
+  "language": "PHP",
+  "description": "Microsoft Graph Library for PHP.",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24"
+ },
+ {
+  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/co-op-translator",
   "url": "https://github.com/Azure/co-op-translator",
@@ -4658,18 +4599,6 @@
   "language": "TypeScript",
   "description": "Azure Static Web Apps CLI ✨",
   "first_seen": "2026-11-01 16:24:54"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/msgraph-sdk-php",
-  "url": "https://github.com/microsoftgraph/msgraph-sdk-php",
-  "sec_path": "SECURITY.md",
-  "stars": 668,
-  "language": "PHP",
-  "description": "Microsoft Graph Library for PHP.",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -7474,7 +7403,8 @@
   "language": "TypeScript",
   "description": "React/Redux version of Graph Explorer used to learn the Microsoft Graph Api",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -8038,7 +7968,8 @@
   "language": "PowerShell",
   "description": "Microsoft Entra PowerShell",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -8520,7 +8451,8 @@
   "language": "C#",
   "description": "A repository of code snippets that use Microsoft Graph to perform common tasks such as sending email, managing groups, and other activities from an ASP.NET Core…",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -9050,7 +8982,8 @@
   "language": "XSLT",
   "description": "Microsoft Graph metadata captured and used for generating client library code files.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -9434,7 +9367,8 @@
   "language": "PowerShell",
   "description": "Documentation for the Microsoft Graph REST API",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -10024,7 +9958,8 @@
   "language": "C#",
   "description": "This sample shows how to subscribe for Microsoft Graph webhooks using application (app-only) permissions and the Azure AD endpoint.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -10138,7 +10073,8 @@
   "language": "C#",
   "description": "CLI tool for Microsoft Graph based on .NET",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -10522,7 +10458,8 @@
   "language": "C#",
   "description": "[ARCHIVED] This ASP.NET Core MVC sample shows how to connect to Microsoft Graph using delegated permissions and the Azure AD v2.0 (MSAL) endpoint.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -10796,6 +10733,19 @@
  },
  {
   "vendor": "微软",
+  "org": "microsoftgraph",
+  "full_name": "microsoftgraph/msgraph-beta-sdk-dotnet",
+  "url": "https://github.com/microsoftgraph/msgraph-beta-sdk-dotnet",
+  "sec_path": "SECURITY.md",
+  "stars": 114,
+  "language": "C#",
+  "description": "The Microsoft Graph Client Beta Library for .NET supports the Microsoft Graph /beta endpoint. (preview)",
+  "license": null,
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
+ },
+ {
+  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/process-migrator",
   "url": "https://github.com/microsoft/process-migrator",
@@ -10875,18 +10825,6 @@
   "description": "Agentic prompts are the most important code you're not engineering. PromptKit fixes that — composable, version-controlled prompt components (personas, protocols…",
   "license": null,
   "first_seen": "2026-11-01 22:39:34"
- },
- {
-  "vendor": "微软",
-  "org": "microsoftgraph",
-  "full_name": "microsoftgraph/msgraph-beta-sdk-dotnet",
-  "url": "https://github.com/microsoftgraph/msgraph-beta-sdk-dotnet",
-  "sec_path": "SECURITY.md",
-  "stars": 113,
-  "language": "C#",
-  "description": "The Microsoft Graph Client Beta Library for .NET supports the Microsoft Graph /beta endpoint. (preview)",
-  "license": null,
-  "first_seen": "2026-11-01 22:40:24"
  },
  {
   "vendor": "微软",
@@ -11027,7 +10965,8 @@
   "language": "C#",
   "description": "Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups.  Groups managed by GMM can have their membership defined u…",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -11483,7 +11422,8 @@
   "language": "C#",
   "description": "MSGraph SDK Code Generator",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -11612,7 +11552,8 @@
   "language": "Ruby",
   "description": "This sample demonstrates how to use the Microsoft Graph REST API to access data in Office 365 from Ruby on Rails apps.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -12435,7 +12376,8 @@
   "language": "TypeScript",
   "description": "Repo contains Microsoft Graph resource types to integrate with bicep templates.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -12482,7 +12424,8 @@
   "language": "C#",
   "description": "This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from ASP.NET Core apps.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -14504,7 +14447,8 @@
   "language": "TypeScript",
   "description": "This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from React Native mobile apps.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -15268,7 +15212,8 @@
   "language": "Java",
   "description": "Receive change notifications with data with the Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -15362,7 +15307,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -16103,7 +16049,8 @@
   "language": "Java",
   "description": "This sample demonstrates how to use the Microsoft Graph Java SDK to access data in Office 365 from native mobile Android applications.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -16970,7 +16917,8 @@
   "language": "C#",
   "description": "This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from .NET MAUI apps.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -17089,7 +17037,8 @@
   "language": "Java",
   "description": "Microsoft Graph Beta Java SDK",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -17381,7 +17330,8 @@
   "language": "C#",
   "description": "This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from UWP apps.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -18123,7 +18073,8 @@
   "language": "Go",
   "description": "Microsoft Graph Beta Go SDK",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -18382,7 +18333,8 @@
   "language": "JavaScript",
   "description": "This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from JavaScript browser apps.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -18719,18 +18671,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/go-images",
-  "url": "https://github.com/microsoft/go-images",
-  "sec_path": "SECURITY.md",
-  "stars": 22,
-  "language": "PowerShell",
-  "description": "Docker image packaging and publishing for the Microsoft build of Go",
-  "license": null,
-  "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/SimpleL7Proxy",
   "url": "https://github.com/microsoft/SimpleL7Proxy",
   "sec_path": "SECURITY.md",
@@ -19032,7 +18972,8 @@
   "language": "Swift",
   "description": "This sample demonstrates how to use the Microsoft Graph Objective-C SDK with Swift to access data in Office 365 from native mobile iOS applications.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -19044,7 +18985,8 @@
   "language": "TypeScript",
   "description": "Interactive tour to help you build your first React app using Microsoft Graph Toolkit",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -19612,7 +19554,8 @@
   "language": "C#",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -19624,7 +19567,8 @@
   "language": "CSS",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -19636,7 +19580,8 @@
   "language": "C#",
   "description": "Custom ODCM Writer built atop Vipr to auto-generate PowerShell cmdlets corresponding to CRUD operations for Microsoft Intune Graph Api. ",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -19900,7 +19845,8 @@
   "language": "C#",
   "description": "A sample Bot that uses adaptive cards and the .NET Graph SDK to send actionable messages requesting approval to release files on OneDrive.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -19912,7 +19858,8 @@
   "language": "C#",
   "description": "The Microsoft Graph Bot is a bot built with the Microsoft Bot Framework that allows interactive exploration of the Microsoft Graph.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -20203,7 +20150,8 @@
   "language": "C#",
   "description": "An extension for .NET Interactive Notebooks that provides authenticated Microsoft Graph clients.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -20440,18 +20388,6 @@
   "stars": 16,
   "language": "Python",
   "description": "",
-  "license": null,
-  "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
-  "full_name": "microsoft/copilot-studio-gallery",
-  "url": "https://github.com/microsoft/copilot-studio-gallery",
-  "sec_path": "SECURITY.md",
-  "stars": 16,
-  "language": "TypeScript",
-  "description": "Community driven gallery of agents and workflows for Copilot Studio",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
  },
@@ -20771,7 +20707,8 @@
   "language": "Python",
   "description": "This Python application shows how to create a Microsoft Graph connector for GitHub repos and issues.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -20783,7 +20720,8 @@
   "language": "TypeScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -21201,7 +21139,8 @@
   "language": "C#",
   "description": "This sample demonstrates a .NET 5.0 Desktop (WPF) application showcasing advanced Microsoft Graph Query Capabilities for Directory Objects with .NET Graph SDK.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -21213,7 +21152,8 @@
   "language": "JavaScript",
   "description": "This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from Office Add-ins.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -21595,7 +21535,8 @@
   "language": "PHP",
   "description": "Microsoft Graph beta model library for PHP (preview).",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -22462,7 +22403,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -22939,7 +22881,8 @@
   "language": "TypeScript",
   "description": "This GitHub Action retrieves a GitHub App installation token for use in workflows",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -23434,7 +23377,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -23446,7 +23390,8 @@
   "language": "Objective-C",
   "description": "This sample demonstrates how to use the Microsoft Graph Objective-C SDK to access data in Office 365 from native mobile iOS applications.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -23937,7 +23882,8 @@
   "language": "C#",
   "description": "Agentic skills for developers ",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -23949,7 +23895,8 @@
   "language": "Ruby",
   "description": "Microsoft Graph Beta Ruby SDK",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -23973,7 +23920,8 @@
   "language": "C#",
   "description": "This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Microsoft Bot Framework bots.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -24437,18 +24385,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/go-infra-images",
-  "url": "https://github.com/microsoft/go-infra-images",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": "PowerShell",
-  "description": "Docker images to support the Microsoft build of Go",
-  "license": null,
-  "first_seen": "2026-11-01 22:39:34"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/pxt-arcade-smart-shield",
   "url": "https://github.com/microsoft/pxt-arcade-smart-shield",
   "sec_path": "SECURITY.md",
@@ -24516,7 +24452,8 @@
   "language": "C#",
   "description": "This .NET application shows how to create a Microsoft Graph connector for GitHub repos and issues.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -24528,7 +24465,8 @@
   "language": "C#",
   "description": "This sample combines a Microsoft Graph connector, declarative agent, and API plugin to create an issue management agent for Microsoft 365 Copilot",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -24540,7 +24478,8 @@
   "language": "TypeScript",
   "description": "Microsoft Graph Beta TypeScript Type Definitions",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -24552,7 +24491,8 @@
   "language": "C#",
   "description": "This .NET application shows how to use the Microsoft Graph APIs to create a Microsoft 365 Copilot connector for people data",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -24564,7 +24504,8 @@
   "language": "C#",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -24576,7 +24517,8 @@
   "language": "PowerShell",
   "description": "Documentation for the Microsoft Graph REST API for Portuguese",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -25267,7 +25209,8 @@
   "language": "TypeScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -25291,7 +25234,8 @@
   "language": "C#",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -25779,18 +25723,6 @@
   "stars": 5,
   "language": "Python",
   "description": "A repo to contain the student resource files & codespace lab environments to support What The Hack hackathons. https://aka.ms/wth",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
-  "full_name": "microsoft/amplifier-unified",
-  "url": "https://github.com/microsoft/amplifier-unified",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "Unified shell for the Amplifier project",
   "license": null,
   "first_seen": "2026-11-01 22:38:46"
  },
@@ -26815,7 +26747,8 @@
   "language": "TypeScript",
   "description": "This Node.js application shows how to create a Microsoft Graph connector for GitHub repos and issues.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -26827,7 +26760,8 @@
   "language": "C#",
   "description": "Libraries and tools to process OData CSDL files and visualize them as diagrams.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -26839,7 +26773,8 @@
   "language": "C#",
   "description": "This C# sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -27620,6 +27555,32 @@
  {
   "vendor": "微软",
   "org": "microsoft",
+  "full_name": "microsoft/winget-pkgs",
+  "url": "https://github.com/microsoft/winget-pkgs",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": null,
+  "description": "The Microsoft community Windows Package Manager manifest repository",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-14 22:04:50"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "> Visual Studio Code",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-14 22:04:50"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
   "full_name": "microsoft/mu_feature_ffa",
   "url": "https://github.com/microsoft/mu_feature_ffa",
   "sec_path": "SECURITY.md",
@@ -27644,6 +27605,19 @@
  {
   "vendor": "微软",
   "org": "microsoft",
+  "full_name": "microsoft/nvx",
+  "url": "https://github.com/microsoft/nvx",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Rust",
+  "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-14 22:04:50"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
   "full_name": "microsoft/rulesxp",
   "url": "https://github.com/microsoft/rulesxp",
   "sec_path": "SECURITY.md",
@@ -27652,6 +27626,19 @@
   "description": "Mini Rules evaluator for JSONLogic or S-expression based rules",
   "license": null,
   "first_seen": "2026-11-01 22:38:46"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/amplifier-unified",
+  "url": "https://github.com/microsoft/amplifier-unified",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Unified shell for the Amplifier project",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-14 22:04:50"
  },
  {
   "vendor": "微软",
@@ -27668,6 +27655,19 @@
  {
   "vendor": "微软",
   "org": "microsoft",
+  "full_name": "microsoft/power-platform-skills",
+  "url": "https://github.com/microsoft/power-platform-skills",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands fo…",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-14 22:04:50"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
   "full_name": "microsoft/GitHub-Copilot-BYOK-with-APIM",
   "url": "https://github.com/microsoft/GitHub-Copilot-BYOK-with-APIM",
   "sec_path": "SECURITY.md",
@@ -27676,6 +27676,19 @@
   "description": "Per-organization multi-tenant BYOK gateway (APIM in front of Microsoft Foundry) for GitHub Copilot",
   "license": null,
   "first_seen": "2026-11-01 22:38:46"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/windows-rs",
+  "url": "https://github.com/microsoft/windows-rs",
+  "sec_path": "docs/security.md",
+  "stars": 3,
+  "language": "Rust",
+  "description": "> Rust for Windows",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-14 22:04:50"
  },
  {
   "vendor": "微软",
@@ -27712,6 +27725,19 @@
   "description": "Frontier GitHub Copilot Train-The-Trainer Real Value Acceleration Solution (RVAS)",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/waza",
+  "url": "https://github.com/microsoft/waza",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness",
+  "license": null,
+  "first_seen": "2026-11-01 22:39:08",
+  "last_verified": "2026-11-14 22:04:50"
  },
  {
   "vendor": "微软",
@@ -27824,6 +27850,32 @@
  {
   "vendor": "微软",
   "org": "microsoft",
+  "full_name": "microsoft/go-images",
+  "url": "https://github.com/microsoft/go-images",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "PowerShell",
+  "description": "Docker image packaging and publishing for the Microsoft build of Go",
+  "license": null,
+  "first_seen": "2026-11-01 22:39:21",
+  "last_verified": "2026-11-14 22:04:50"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/copilot-studio-gallery",
+  "url": "https://github.com/microsoft/copilot-studio-gallery",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "Community driven gallery of agents and workflows for Copilot Studio",
+  "license": null,
+  "first_seen": "2026-11-01 22:39:21",
+  "last_verified": "2026-11-14 22:04:50"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
   "full_name": "microsoft/MtReNIRS",
   "url": "https://github.com/microsoft/MtReNIRS",
   "sec_path": "SECURITY.md",
@@ -27856,6 +27908,19 @@
   "description": "Dynamic modes bundle for Amplifier project",
   "license": null,
   "first_seen": "2026-11-01 22:39:34"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/go-infra-images",
+  "url": "https://github.com/microsoft/go-infra-images",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "PowerShell",
+  "description": "Docker images to support the Microsoft build of Go",
+  "license": null,
+  "first_seen": "2026-11-01 22:39:34",
+  "last_verified": "2026-11-14 22:04:50"
  },
  {
   "vendor": "微软",
@@ -28023,7 +28088,8 @@
   "language": "TypeScript",
   "description": "This GitHub action assigns issues in the microsoft-graph-docs repository to the author of the referenced page",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -28035,7 +28101,8 @@
   "language": "C#",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -28047,7 +28114,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -28059,7 +28127,8 @@
   "language": "TypeScript",
   "description": "A sample grocery shopping experience powered by the Microsoft Graph Toolkit",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -29318,7 +29387,8 @@
   "language": "TypeScript",
   "description": "AutoRest PowerShell Generator",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -29330,7 +29400,8 @@
   "language": "TypeScript",
   "description": "This TypeScript/Node.js sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -30942,7 +31013,8 @@
   "language": "C#",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -30978,7 +31050,8 @@
   "language": "C#",
   "description": "Budget Tracker sample API used for API plugin",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -30990,7 +31063,8 @@
   "language": "JavaScript",
   "description": "Shared eslint and prettier configs for the microsoftgraph org",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -31002,7 +31076,8 @@
   "language": "Java",
   "description": "This Java Spring sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -31014,7 +31089,8 @@
   "language": "C#",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -31026,7 +31102,8 @@
   "language": "C#",
   "description": "This .NET application shows how to use the Microsoft Graph connector agent to create a connection to the Microsoft Search service and index custom items.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:09"
  },
  {
   "vendor": "微软",
@@ -34058,7 +34135,8 @@
   "language": "TypeScript",
   "description": "This GitHub action blocks pull requests that contain improper line-endings",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -34070,7 +34148,8 @@
   "language": "TypeScript",
   "description": "This GitHub action blocks pull requests that include invalid links in changelog files",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -34094,7 +34173,8 @@
   "language": "C#",
   "description": "diff tool for kiota dom exports which validates public API changes during generation",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
@@ -34106,7 +34186,8 @@
   "language": "TypeScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:18"
  },
  {
   "vendor": "微软",
@@ -34118,7 +34199,8 @@
   "language": "TypeScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-14 22:05:05"
  },
  {
   "vendor": "微软",
