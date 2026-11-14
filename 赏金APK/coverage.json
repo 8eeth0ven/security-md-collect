@@ -15,9 +15,17 @@
       "android_scopes_in_source": 130,
       "observed_records": 128,
       "added_records": 0,
-      "historical_unconfirmed": 30,
+      "historical_unconfirmed": 0,
       "unresolved_packages": 28,
-      "bounty_eligible_observed": 128
+      "bounty_eligible_observed": 128,
+      "historical_before_official_review": 30,
+      "officially_reviewed": 30,
+      "review_status_counts": {
+        "out_of_scope": 3,
+        "in_scope": 22,
+        "android_unresolved": 3,
+        "not_android": 2
+      }
     },
     {
       "platform": "ywh",
@@ -27,9 +35,15 @@
       "android_scopes_in_source": 45,
       "observed_records": 45,
       "added_records": 0,
-      "historical_unconfirmed": 9,
+      "historical_unconfirmed": 0,
       "unresolved_packages": 3,
-      "bounty_eligible_observed": 45
+      "bounty_eligible_observed": 45,
+      "historical_before_official_review": 9,
+      "officially_reviewed": 9,
+      "review_status_counts": {
+        "in_scope": 7,
+        "android_unresolved": 2
+      }
     },
     {
       "platform": "h1",
@@ -39,9 +53,18 @@
       "android_scopes_in_source": 544,
       "observed_records": 532,
       "added_records": 0,
-      "historical_unconfirmed": 299,
+      "historical_unconfirmed": 0,
       "unresolved_packages": 10,
-      "bounty_eligible_observed": 338
+      "bounty_eligible_observed": 338,
+      "historical_before_official_review": 299,
+      "officially_reviewed": 299,
+      "review_status_counts": {
+        "out_of_scope": 38,
+        "archived": 158,
+        "in_scope": 98,
+        "not_android": 4,
+        "android_unresolved": 1
+      }
     },
     {
       "platform": "intigriti",
@@ -331,5 +354,6 @@
     "A missing historical record is unconfirmed, never an out-of-scope determination.",
     "Only typed Android scope values are parsed; description links may explicitly be excluded.",
     "Package syntax and mirror URL generation do not verify an app, download or bounty scope."
-  ]
+  ],
+  "official_review_at": "2026-11-14T05:37:24+00:00"
 }

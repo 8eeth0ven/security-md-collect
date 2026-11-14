@@ -206,6 +206,8 @@ def update(base, source_dir=None, proxy=None, with_ywh=False, cache_dir=None):
     planned, coverage, observations, cached = {}, [], [], {}
     official_rows, official_sources, official_count = official_ywh(proxy) if with_ywh else (None, [], None)
     for platform, _, filename, _ in PLATFORMS:
+        if platform not in NAMES:
+            continue
         name = NAMES[platform]
         url = 'https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/%s/data/%s_data.json' % (revision['sha'], name)
         if source_dir:

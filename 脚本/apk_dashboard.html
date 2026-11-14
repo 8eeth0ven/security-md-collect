@@ -101,7 +101,7 @@
               从公开目标，<br /><span>找到 Android 应用入口。</span>
             </h1>
             <p data-i18n="intro">
-              汇集四大平台的公开 Android 目标。<br />查赏金状态、找包名，直达项目、Play
+              汇集赏金平台与国内 SRC 的公开 Android 目标。<br />查赏金状态、找包名，直达项目、Play
               与镜像候选。
             </p>
             <div class="hero-actions">
@@ -124,7 +124,7 @@
               <div class="device-line"></div>
               <span>PLAY / SOURCE / MIRROR</span>
             </div>
-            <span class="art-tag tag-one">4 public platforms</span>
+            <span class="art-tag tag-one">Bounty platforms + SRC</span>
           </div>
         </section>
         <section class="metrics" aria-label="APK snapshot statistics">
@@ -197,6 +197,7 @@
                   <option value="intigriti">Intigriti</option>
                   <option value="bugcrowd">Bugcrowd</option>
                   <option value="ywh">YesWeHack</option>
+                  <option value="src" data-i18n="srcName">国内 SRC</option>
                 </select></label
               ><label
                 ><span data-i18n="reward">赏金</span
@@ -206,6 +207,7 @@
                   <option value="vdp" data-i18n="vdp">VDP / 无赏金</option>
                   <option value="points" data-i18n="points">积分</option>
                   <option value="unknown" data-i18n="unknown">待确认</option>
+                  <option value="excluded" data-i18n="excluded">范围外 / 非 Android</option>
                   <option value="inactive" data-i18n="inactive">
                     已归档 / 不接收
                   </option>
@@ -219,6 +221,14 @@
                     仅项目页 / 待补包名
                   </option>
                   <option value="review" data-i18n="review">包名待核对</option>
+                </select></label
+              ><label><span data-i18n="scopeFilter">核查状态</span><select id="apk-scope" aria-label="核查状态">
+                  <option value="" data-i18n="scopeAll">全部核查状态</option>
+                  <option value="current" data-i18n="scopeCurrent">范围内 / 来源列入</option>
+                  <option value="reviewed" data-i18n="scopeReviewed">已逐项官方核查</option>
+                  <option value="archived" data-i18n="scopeArchived">已归档 / 项目暂停</option>
+                  <option value="excluded" data-i18n="scopeExcluded">范围外 / 非 Android</option>
+                  <option value="unresolved" data-i18n="scopeUnresolved">Android 对应待核</option>
                 </select></label
               ><button
                 class="reset"

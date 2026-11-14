@@ -40,11 +40,26 @@ def main():
             # No package ID still has an official program link, with no invented mirror.
             page.locator('#apk-platform').select_option('')
             page.locator('#apk-access').select_option('missing')
-            expect(page.locator('#apk-results tr')).to_have_count(min(25,sum(not(r['play'] or r['apk_direct'] or r['xapk']) for r in payload['rows'])))
+            expect(page.locator('#apk-results tr')).to_have_count(min(25,sum(not(r['play'] or r['apk_direct'] or r['xapk'] or r.get('download_page')) for r in payload['rows'])))
             for package in page.locator('#apk-results .package').all():
                 expect(package).to_have_text('包名待补充')
             assert page.locator('#apk-results .mirror').count()==0
             page.locator('#apk-access').select_option('')
+            page.locator('#apk-scope').select_option('reviewed')
+            reviewed=sum(r.get('scope_observation')=='reviewed' for r in payload['rows'])
+            expect(page.locator('#apk-count')).to_contain_text(str(reviewed))
+            page.reload()
+            expect(page.locator('#apk-scope')).to_have_value('reviewed')
+            assert 'scope=reviewed' in page.url
+            page.locator('#apk-scope').select_option('excluded')
+            excluded=sum(r.get('scope_status') in ('out_of_scope','not_android') for r in payload['rows'])
+            expect(page.locator('#apk-count')).to_contain_text(str(excluded))
+            page.locator('#apk-scope').select_option('')
+            page.locator('#apk-platform').select_option('src')
+            domestic=sum(r['platform']=='src' for r in payload['rows'])
+            expect(page.locator('#apk-count')).to_contain_text(str(domestic))
+            assert page.locator('#apk-results a').filter(has_text='官方下载页').count()>0
+            expect(page.locator('#apk-results')).to_contain_text('商店维护中')
             page.locator('#apk-platform').select_option('h1')
             page.locator('#apk-next').click()
             assert 'page=2' in page.url
@@ -63,7 +78,7 @@ def main():
             expect(page.locator('.empty')).to_be_visible()
             page.locator('#apk-reset').click()
             page.locator('#apk-access').select_option('missing')
-            missing=sum(r['bounty']=='cash' and not(r['play'] or r['apk_direct'] or r['xapk']) for r in payload['rows'])
+            missing=sum(r['bounty']=='cash' and not(r['play'] or r['apk_direct'] or r['xapk'] or r.get('download_page')) for r in payload['rows'])
             expect(page.locator('#apk-count')).to_contain_text(str(missing))
             page.locator('#theme-select').select_option('dark')
             page.goto(root)

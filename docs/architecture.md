@@ -57,6 +57,10 @@ GitHub Pages 选择 `main` 的根目录。页面源码、`web/`、`索引/dashbo
 
 覆盖边界与补采入口见 [覆盖审计](coverage.md)。`update_apk_sources.py` 固定上游 Git 提交后合并四平台，YesWeHack 可直接读取官方分页及详情；保留来源哈希、范围观察时间和未在本轮观察到的历史记录。只解析明确 Android 范围，不把通用描述里的排除应用误收进目录。`expand_policy_sources.py` 补账户默认策略与明确列出的 GitHub 仓库，和定时采集共用独占锁。`audit_coverage.py` 从公开数据与可选本机状态输出分母、未检查清单和国内 SRC 缺口，同步器在每次发布时重建审计。
 
+`verify_apk_history.py` 针对历史批次读取 HackerOne 当前和归档结构化范围（均完整分页）、Bugcrowd 当前版本 brief、YesWeHack 当前范围及明确 Android 规则条目，记录状态、官方目标、项目接收状态、响应哈希与检查时间。网页 / iOS 类型不升级为 Android；手工猜测包名不用于关联另一个目标。复跑保留原批次；缓存目录应按日期置于发布仓库外，重新在线核查时使用新的缓存目录。
+
+`import_domestic_apk.py` 读取经人工核查的范围与安装证据，只将 confirmed Android 行加入 `src_android.json`。产品更名和未确认 Android 入口保留在待核清单；包名必须有独立证据 URL，赏金兑换、最新版 / 系统版本限制与商店维护状态保留。HEAD 成功不是 APK 内容、签名、包名或整包下载验证。
+
 策略默认按 7 天重新核对，未找到的路径按 30 天重试，`first_seen` 保留、`last_verified` 更新。重新核对发生网络错误时保留上次有效快照；仅确认全部候选路径不存在才移出当前列表。分页中途失败或达到页数上限不标记完成；搜索的 `incomplete_results` 和 1,000 条上限记为未完整，不把搜索命中直接当已保存原文。
 
 `脚本/build_apk_board.py` 读取四份原始平台 JSON，输出 `赏金APK/dashboard.json`、CSV、分类说明和静态页面。页面模板为 `脚本/apk_dashboard.html`，交互为 `web/apk-board.js`；与主页共享明亮 / 深色主题、语言偏好和基础样式。`build_dashboard.py` 在每轮数据发布后调用该生成器，因此旧采集机的 HTML 不会覆盖发布仓库的新版界面。

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:34:53+00:00",
+  "generated_at": "2026-11-14T05:51:19+00:00",
   "security_md": {
     "mapped_vendors": 304,
     "mapped_accounts": 385,
@@ -23,34 +23,43 @@
     }
   },
   "android": {
-    "generated_at": "2026-11-14T04:55:03+00:00",
-    "targets": 1113,
-    "programs": 420,
-    "unique_packages": 987,
-    "observed": 775,
-    "packages": 1034,
-    "cash": 640,
+    "generated_at": "2026-11-14T05:50:08+00:00",
+    "targets": 1137,
+    "programs": 426,
+    "unique_packages": 985,
+    "observed": 799,
+    "reviewed": 338,
+    "scope_counts": {
+      "in_scope": 151,
+      "source_listed": 775,
+      "archived": 158,
+      "out_of_scope": 41,
+      "not_android": 6,
+      "android_unresolved": 6
+    },
+    "packages": 1031,
+    "cash": 600,
     "platforms": [
       {
         "key": "bugcrowd",
         "name": "Bugcrowd",
         "targets": 158,
-        "cash": 149,
-        "entries": 129
+        "cash": 142,
+        "entries": 121
       },
       {
         "key": "ywh",
         "name": "YesWeHack",
         "targets": 54,
-        "cash": 54,
-        "entries": 46
+        "cash": 52,
+        "entries": 44
       },
       {
         "key": "h1",
         "name": "HackerOne",
         "targets": 831,
-        "cash": 389,
-        "entries": 813
+        "cash": 339,
+        "entries": 809
       },
       {
         "key": "intigriti",
@@ -58,14 +67,22 @@
         "targets": 70,
         "cash": 48,
         "entries": 60
+      },
+      {
+        "key": "src",
+        "name": "国内 SRC",
+        "targets": 24,
+        "cash": 19,
+        "entries": 24
       }
     ],
     "bounty_counts": {
-      "cash": 640,
-      "inactive": 197,
-      "vdp": 267,
-      "points": 8,
-      "unknown": 1
+      "cash": 600,
+      "inactive": 255,
+      "excluded": 47,
+      "vdp": 216,
+      "points": 7,
+      "unknown": 12
     }
   },
   "android_sources": [
@@ -77,9 +94,17 @@
       "android_scopes_in_source": 130,
       "observed_records": 128,
       "added_records": 0,
-      "historical_unconfirmed": 30,
+      "historical_unconfirmed": 0,
       "unresolved_packages": 28,
-      "bounty_eligible_observed": 128
+      "bounty_eligible_observed": 128,
+      "historical_before_official_review": 30,
+      "officially_reviewed": 30,
+      "review_status_counts": {
+        "out_of_scope": 3,
+        "in_scope": 22,
+        "android_unresolved": 3,
+        "not_android": 2
+      }
     },
     {
       "platform": "ywh",
@@ -89,9 +114,15 @@
       "android_scopes_in_source": 45,
       "observed_records": 45,
       "added_records": 0,
-      "historical_unconfirmed": 9,
+      "historical_unconfirmed": 0,
       "unresolved_packages": 3,
-      "bounty_eligible_observed": 45
+      "bounty_eligible_observed": 45,
+      "historical_before_official_review": 9,
+      "officially_reviewed": 9,
+      "review_status_counts": {
+        "in_scope": 7,
+        "android_unresolved": 2
+      }
     },
     {
       "platform": "h1",
@@ -101,9 +132,18 @@
       "android_scopes_in_source": 544,
       "observed_records": 532,
       "added_records": 0,
-      "historical_unconfirmed": 299,
+      "historical_unconfirmed": 0,
       "unresolved_packages": 10,
-      "bounty_eligible_observed": 338
+      "bounty_eligible_observed": 338,
+      "historical_before_official_review": 299,
+      "officially_reviewed": 299,
+      "review_status_counts": {
+        "out_of_scope": 38,
+        "archived": 158,
+        "in_scope": 98,
+        "not_android": 4,
+        "android_unresolved": 1
+      }
     },
     {
       "platform": "intigriti",
@@ -119,8 +159,8 @@
     }
   ],
   "domestic_src": {
-    "observed_at": "2026-11-14T04:55:58+00:00",
-    "status": "incomplete_not_part_of_confirmed_apk_totals",
+    "observed_at": "2026-11-14T05:50:08+00:00",
+    "status": "partial_android_inventory_with_separate_unresolved_products",
     "vendor_registry": [
       {
         "vendor": "腾讯",
@@ -397,6 +437,145 @@
       "Product list includes mobile products; not all are confirmed Android APKs.",
       "Product registration alone does not prove current cash bounty eligibility or maintained version.",
       "Private scopes and temporary activities require separate current official verification."
+    ],
+    "confirmed_android_targets": 24,
+    "pending_products": [
+      {
+        "vendor": "360",
+        "src_name": "360SRC",
+        "product": "360账号卫士",
+        "scope_url": "https://src.360.cn/News/news/id/296",
+        "scope_evidence": "现行V2.0隐私安全章节具名范围；官方产品页 https://src.360.cn/Product/productDetail/id/170",
+        "reward_status": "cash",
+        "reward_url": "https://src.360.cn/News/news/id/296",
+        "reward_conditions": "安全币可每月1至7日兑换现金，至少20币；1币对应5元，需实名及有效报告；长期不更新/较旧版本不默认符合奖励",
+        "download_page": "https://i.360.cn/security/accountguard",
+        "apk_direct": null,
+        "package": null,
+        "package_source_url": null,
+        "scope_status": "android_unresolved",
+        "observed_at": "2026-11-14T05:25:36+00:00"
+      },
+      {
+        "vendor": "360",
+        "src_name": "360SRC",
+        "product": "360手机助手",
+        "scope_url": "https://src.360.cn/News/news/id/296",
+        "scope_evidence": "现行V2.0隐私安全章节具名范围；官方产品页 https://src.360.cn/Product/productDetail/id/22",
+        "reward_status": "cash",
+        "reward_url": "https://src.360.cn/News/news/id/296",
+        "reward_conditions": "安全币可每月1至7日兑换现金，至少20币；1币对应5元，需实名及有效报告；长期不更新/较旧版本不默认符合奖励",
+        "download_page": "https://sj.360.cn/",
+        "apk_direct": null,
+        "package": null,
+        "package_source_url": null,
+        "scope_status": "android_unresolved",
+        "observed_at": "2026-11-14T05:25:36+00:00"
+      },
+      {
+        "vendor": "360",
+        "src_name": "360SRC",
+        "product": "360安全云盘",
+        "scope_url": "https://src.360.cn/News/news/id/296",
+        "scope_evidence": "现行V2.0隐私安全章节具名范围；官方产品页 https://src.360.cn/Product/productDetail/id/30",
+        "reward_status": "cash",
+        "reward_url": "https://src.360.cn/News/news/id/296",
+        "reward_conditions": "安全币可每月1至7日兑换现金，至少20币；1币对应5元，需实名及有效报告；长期不更新/较旧版本不默认符合奖励",
+        "download_page": "https://www.yunpan.com/",
+        "apk_direct": null,
+        "package": null,
+        "package_source_url": null,
+        "scope_status": "product_rename",
+        "observed_at": "2026-11-14T05:25:36+00:00"
+      },
+      {
+        "vendor": "360",
+        "src_name": "360SRC",
+        "product": "360家庭防火墙",
+        "scope_url": "https://src.360.cn/News/news/id/296",
+        "scope_evidence": "现行V2.0隐私安全章节具名范围；逐包与官方下载仍待核",
+        "reward_status": "cash",
+        "reward_url": "https://src.360.cn/News/news/id/296",
+        "reward_conditions": "安全币可每月1至7日兑换现金，至少20币；1币对应5元，需实名及有效报告；长期不更新/较旧版本不默认符合奖励",
+        "download_page": null,
+        "apk_direct": null,
+        "package": null,
+        "package_source_url": null,
+        "scope_status": "android_unresolved",
+        "observed_at": "2026-11-14T05:25:36+00:00"
+      },
+      {
+        "vendor": "360",
+        "src_name": "360SRC",
+        "product": "360智慧生活",
+        "scope_url": "https://src.360.cn/News/news/id/296",
+        "scope_evidence": "现行V2.0隐私安全章节具名范围；官方产品页 https://src.360.cn/Product/productDetail/id/319",
+        "reward_status": "cash",
+        "reward_url": "https://src.360.cn/News/news/id/296",
+        "reward_conditions": "安全币可每月1至7日兑换现金，至少20币；1币对应5元，需实名及有效报告；长期不更新/较旧版本不默认符合奖励",
+        "download_page": "https://life.360.cn/",
+        "apk_direct": null,
+        "package": null,
+        "package_source_url": null,
+        "scope_status": "android_unresolved",
+        "observed_at": "2026-11-14T05:25:36+00:00"
+      },
+      {
+        "vendor": "360",
+        "src_name": "360SRC",
+        "product": "360扫地机器人",
+        "scope_url": "https://src.360.cn/News/news/id/296",
+        "scope_evidence": "现行V2.0隐私安全章节具名范围；逐包与官方下载仍待核",
+        "reward_status": "cash",
+        "reward_url": "https://src.360.cn/News/news/id/296",
+        "reward_conditions": "安全币可每月1至7日兑换现金，至少20币；1币对应5元，需实名及有效报告；长期不更新/较旧版本不默认符合奖励",
+        "download_page": null,
+        "apk_direct": null,
+        "package": null,
+        "package_source_url": null,
+        "scope_status": "android_unresolved",
+        "observed_at": "2026-11-14T05:25:36+00:00"
+      },
+      {
+        "vendor": "百度",
+        "src_name": "BSRC",
+        "product": "百度输入法",
+        "scope_url": "https://bj.bcebos.com/bsrc-public/2026073122193835faf944aea5bfa5.pdf",
+        "scope_evidence": "V9.0第8页2至6系数产品线含百度输入法；官网可读，Android安装链接待解析",
+        "reward_status": "cash",
+        "reward_url": "https://bj.bcebos.com/bsrc-public/2026073122193835faf944aea5bfa5.pdf",
+        "reward_conditions": "现行V9.0第15页：安全币可1:5兑换现金，需实名及绑定支付宝；产品线系数/功能模块与报告危害按规则，泛产品名不代表全部模块均最高系数",
+        "download_page": "https://shurufa.baidu.com/default",
+        "apk_direct": null,
+        "package": null,
+        "package_source_url": null,
+        "scope_status": "android_unresolved",
+        "observed_at": "2026-11-14T05:25:36+00:00"
+      }
+    ]
+  },
+  "history_review": {
+    "reviewed_at": "2026-11-14T05:37:24+00:00",
+    "baseline_targets": 338,
+    "programs_queried": 171,
+    "status_counts": {
+      "out_of_scope": 41,
+      "in_scope": 127,
+      "android_unresolved": 6,
+      "not_android": 6,
+      "archived": 158
+    },
+    "program_state_counts": {
+      "In progress": 30,
+      "other": 9,
+      "open": 181,
+      "paused": 67,
+      "disabled": 51
+    },
+    "limits": [
+      "not_listed is not an explicit exclusion or removal verdict.",
+      "Scope matching does not verify a manually guessed package or an APK download.",
+      "Unavailable private/deleted programs remain unresolved; no authentication is bypassed."
     ]
   },
   "verdict": "Incomplete: measured source coverage, with explicit unresolved and inaccessible scope."

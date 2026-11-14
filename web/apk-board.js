@@ -2,6 +2,31 @@
 (() => {
   const I18N = {
     zh: {
+      srcName: "国内 SRC",
+      scopeFilter: "核查状态",
+      scopeAll: "全部核查状态",
+      scopeCurrent: "范围内 / 来源列入",
+      scopeReviewed: "已逐项官方核查",
+      scopeArchived: "已归档 / 项目暂停",
+      scopeExcluded: "范围外 / 非 Android",
+      scopeUnresolved: "Android 对应待核",
+      in_scope: "官方范围内",
+      source_listed: "本轮来源列入",
+      archived: "官方已归档",
+      out_of_scope: "官方明确范围外",
+      not_android: "官方条目非 Android",
+      android_unresolved: "范围有记录 · Android 对应待核",
+      not_listed: "当前官方范围未列出",
+      unavailable: "官方来源待确认",
+      unreviewed: "未逐项官方核查",
+      excluded: "范围外 / 非 Android",
+      programPaused: "项目暂停 / 不接收",
+      officialDownload: "官方下载页",
+      reviewEvidence: "核查证据",
+      rewardConditions: "奖励条件",
+      downloadNotes: "入口状态",
+      storeMaintenance: "商店维护中，下载待恢复",
+
       coverage: "覆盖与待补清单",
       skip: "跳到应用目录",
       explore: "探索数据",
@@ -22,7 +47,7 @@
       system: "跟随系统",
       headline: "从公开目标，<br><span>找到 Android 应用入口。</span>",
       intro:
-        "汇集四大平台的公开 Android 目标。<br>查赏金状态、找包名，直达项目、Play 与镜像候选。",
+        "汇集赏金平台与国内 SRC 的公开 Android 目标。<br>查赏金状态、找包名，直达项目、Play 与镜像候选。",
       browse: "浏览有赏金目标",
       csv: "下载全量 CSV",
       totalLabel: "公开目标条目",
@@ -92,6 +117,31 @@
       retry: "重新加载",
     },
     en: {
+      srcName: "Domestic SRC",
+      scopeFilter: "Scope review",
+      scopeAll: "All review states",
+      scopeCurrent: "In scope / listed in source",
+      scopeReviewed: "Officially reviewed rows",
+      scopeArchived: "Archived / program paused",
+      scopeExcluded: "Out of scope / not Android",
+      scopeUnresolved: "Android mapping unresolved",
+      in_scope: "In official scope",
+      source_listed: "Listed in source snapshot",
+      archived: "Officially archived",
+      out_of_scope: "Explicitly out of scope",
+      not_android: "Official asset is not Android",
+      android_unresolved: "Listed scope · Android mapping unresolved",
+      not_listed: "Not listed in current official scope",
+      unavailable: "Official source unavailable",
+      unreviewed: "Not individually reviewed",
+      excluded: "Out of scope / not Android",
+      programPaused: "Program paused / not accepting",
+      officialDownload: "Official download page",
+      reviewEvidence: "Review evidence",
+      rewardConditions: "Reward conditions",
+      downloadNotes: "Download status",
+      storeMaintenance: "Store under maintenance",
+
       coverage: "Coverage & gaps",
       skip: "Skip to app directory",
       explore: "EXPLORE",
@@ -114,7 +164,7 @@
       headline:
         "Public Android targets.<br><span>Clear acquisition paths.</span>",
       intro:
-        "Explore public Android targets from four platforms.<br>Check bounty status, package IDs, Play pages and mirror candidates.",
+        "Explore public Android targets from bounty platforms and domestic SRCs.<br>Check bounty status, package IDs, Play pages and mirror candidates.",
       browse: "Browse bounty targets",
       csv: "Download full CSV",
       totalLabel: "Public target records",
@@ -192,6 +242,7 @@
     intigriti: "Intigriti",
     bugcrowd: "Bugcrowd",
     ywh: "YesWeHack",
+    src: "国内 SRC",
   };
   const esc = (value) =>
     String(value ?? "").replace(
@@ -241,11 +292,12 @@
     state = {
       q: p.get("q") || "",
       platform: names[p.get("platform")] ? p.get("platform") : "",
-      bounty: ["cash", "all", "vdp", "points", "unknown", "inactive"].includes(
+      bounty: ["cash", "all", "vdp", "points", "unknown", "inactive", "excluded"].includes(
         bounty,
       )
         ? bounty
         : "cash",
+      scope: ["current", "reviewed", "archived", "excluded", "unresolved"].includes(p.get("scope")) ? p.get("scope") : "",
       access: ["with", "missing", "review"].includes(p.get("access"))
         ? p.get("access")
         : "",
@@ -263,6 +315,7 @@
       ["platform", state.platform],
       ["bounty", state.bounty !== "cash" ? state.bounty : ""],
       ["access", state.access],
+      ["scope", state.scope],
       ["page", state.page > 1 ? state.page : ""],
       ["size", state.size !== 25 ? state.size : ""],
       ["order", state.desc ? "desc" : ""],
@@ -283,6 +336,7 @@
     $("apk-platform").value = state.platform;
     $("apk-bounty").value = state.bounty;
     $("apk-access").value = state.access;
+    $("apk-scope").value = state.scope;
     $("apk-size").value = state.size;
   }
   function translate() {
@@ -303,6 +357,7 @@
       ["apk-platform", "platform"],
       ["apk-bounty", "reward"],
       ["apk-access", "entry"],
+      ["apk-scope", "scopeFilter"],
       ["apk-size", "perPage"],
     ].forEach(([id, key]) => $(id).setAttribute("aria-label", t(key)));
     $("theme-select").value = window.secmdTheme.preference;
@@ -320,7 +375,7 @@
     $("platforms").innerHTML = stats.platforms
       .map(
         (p) =>
-          `<button class="platform-card" type="button" data-platform="${esc(p.key)}" aria-pressed="${state.platform === p.key}"><b>${esc(p.name)}</b><strong>${number(p.targets)}</strong><span>${esc(t("platformStats", { cash: number(p.cash), entries: number(p.entries) }))}</span></button>`,
+          `<button class="platform-card" type="button" data-platform="${esc(p.key)}" aria-pressed="${state.platform === p.key}"><b>${esc(p.key === "src" ? t("srcName") : p.name)}</b><strong>${number(p.targets)}</strong><span>${esc(t("platformStats", { cash: number(p.cash), entries: number(p.entries) }))}</span></button>`,
       )
       .join("");
   }
@@ -344,7 +399,7 @@
         : row.package_source === "play"
           ? "fromPlay"
           : row.package_source === "scope" ? "fromScope" : "unspecified";
-    return `<tr><td>${link(row.program, row.url)}<div class="apk-meta">${esc(names[row.platform] || row.platform)} · ${esc(t(row.bounty))}</div><div class="apk-meta">${esc(t(row.scope_observation === "observed" ? "observed" : "historical"))}</div></td><td><div class="target-text" title="${esc(row.target)}">${esc(target)}</div><code class="package">${esc(row.package || t("missing"))}</code>${row.package ? `<span class="apk-review">${esc(t(source))}</span>` : ""}</td><td><span class="reward-badge">${esc(t(row.bounty))}</span><div class="apk-meta">${esc(row.reward)}</div></td><td><div class="apk-links">${link(t("project"), row.url)}${link(t("scopeSource"), row.scope_source)}${link("Google Play", row.play)}${link(t("direct"), row.apk_direct)}${link(t("xapk"), row.xapk, true)}${link(t("apk"), row.apk, true)}</div></td></tr>`;
+    return `<tr><td>${link(row.program, row.url)}<div class="apk-meta">${esc(row.platform === "src" ? t("srcName") : names[row.platform] || row.platform)} · ${esc(t(row.bounty))}</div><div class="apk-meta">${esc(t(row.scope_status || "unreviewed"))}${["paused","disabled","closed"].includes(row.program_state) ? " · " + esc(t("programPaused")) : ""}</div></td><td><div class="target-text" title="${esc(row.target)}">${esc(target)}</div><code class="package">${esc(row.package || t("missing"))}</code>${row.package ? `<span class="apk-review">${esc(t(source))}</span>` : ""}</td><td><span class="reward-badge">${esc(t(row.bounty))}</span><div class="apk-meta">${esc(row.reward)}</div>${row.reward_conditions ? `<details class="apk-meta"><summary>${esc(t("rewardConditions"))}</summary><p>${esc(row.reward_conditions)}</p></details>` : ""}</td><td><div class="apk-links">${link(t("project"), row.url)}${link(t("scopeSource"), row.scope_source)}${link(t("reviewEvidence"), row.scope_review_source)}${link(t("officialDownload"), row.download_page)}${row.download_notes ? `<details class="apk-meta"><summary>${esc(t("downloadNotes"))}</summary><p>${esc(row.download_notes)}</p></details>` : ""}${row.download_state === "store_maintenance" ? `<span class="apk-review">${esc(t("storeMaintenance"))}</span>` : ""}${link("Google Play", row.play)}${link(t("direct"), row.apk_direct)}${link(t("xapk"), row.xapk, true)}${link(t("apk"), row.apk, true)}</div></td></tr>`;
   }
   function render() {
     if (!ready) return;
@@ -354,11 +409,16 @@
         (!state.platform || r.platform === state.platform) &&
         (state.bounty === "all" || r.bounty === state.bounty) &&
         (!q || r.search.includes(q)) &&
+        (!state.scope || (state.scope === "current" ? ["in_scope","source_listed"].includes(r.scope_status) && !["paused","disabled","closed"].includes(r.program_state)
+          : state.scope === "reviewed" ? r.scope_observation === "reviewed"
+          : state.scope === "archived" ? r.scope_status === "archived" || ["paused","disabled","closed"].includes(r.program_state)
+          : state.scope === "excluded" ? ["out_of_scope","not_android"].includes(r.scope_status)
+          : ["android_unresolved","not_listed","unavailable","product_rename"].includes(r.scope_status))) &&
         (!state.access ||
           (state.access === "with"
-            ? !!(r.play || r.apk_direct || r.xapk)
+            ? !!(r.play || r.apk_direct || r.xapk || r.download_page)
             : state.access === "missing"
-              ? !(r.play || r.apk_direct || r.xapk)
+              ? !(r.play || r.apk_direct || r.xapk || r.download_page)
               : r.needs_review)),
     );
     const collator = new Intl.Collator(lang === "zh" ? "zh-CN" : "en", {
@@ -446,6 +506,7 @@
     ["apk-platform", "platform"],
     ["apk-bounty", "bounty"],
     ["apk-access", "access"],
+    ["apk-scope", "scope"],
   ].forEach(([id, key]) =>
     $(id).addEventListener("change", (event) => {
       state[key] = event.target.value;
@@ -476,6 +537,7 @@
       platform: "",
       bounty: "cash",
       access: "",
+      scope: "",
       page: 1,
       size: 25,
       desc: false,

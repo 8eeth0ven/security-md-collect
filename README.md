@@ -12,9 +12,11 @@
 
 </div>
 
-这里有两个在线入口：[开源 SECURITY.md 策略看板](https://8eeth0ven.github.io/security-md-collect/)和 [Android APK 与赏金项目目录](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html)。APK 目录覆盖四个平台的公开快照，支持赏金状态、平台与应用入口筛选，默认优先显示有赏金记录。
+这里有两个在线入口：[开源 SECURITY.md 策略看板](https://8eeth0ven.github.io/security-md-collect/)和 [Android APK 与赏金项目目录](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html)。APK 目录汇集四个平台与国内 SRC 的公开信息，支持赏金状态、平台与应用入口筛选，默认优先显示有赏金记录。
 
 **收集是否全面？目前仍有缺口。** 查看[覆盖审计与待补清单](docs/coverage.md)：分别列出已知 GitHub 仓库的检查进度、账户默认策略、四平台来源覆盖、历史待复核目标和国内 SRC 逐包缺口。APK 镜像入口仍为未验证候选。
+
+338 条历史 Android 记录已逐项核对官方当前 / 归档范围；看板新增核查状态筛选，以及[国内 SRC Android 清单](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html?platform=src&bounty=all)。范围外、归档、非 Android 和暂停项目均从默认赏金结果排除。[逐项核查结果](赏金APK/history-review.json)与[国内来源证据](赏金APK/src-evidence.json)可下载追溯。
 
 ## 先看效果
 

@@ -1,0 +1,26 @@
+[
+  {
+    "vendor": "美团",
+    "url": "https://security.meituan.com/api/sign/standard/get/standard",
+    "status": "http_401_login_required",
+    "evidence": "官方主页公告确认V8.0于2026-06-11更新；未取得匿名可读的逐APP现行范围，不入Android确认总数"
+  },
+  {
+    "vendor": "京东",
+    "url": "https://security.jd.com/#/notice/287",
+    "status": "current_notice_read_but_app_scope_not_parsed",
+    "evidence": "现行公告V9.1可读，业务划分用图片；未提取明确Android app范围；猜测static/JSRC-V9.1.pdf返回404，不入库"
+  },
+  {
+    "vendor": "蚂蚁",
+    "url": "https://security.alipay.com/sc/afsrc/reward/reward.json?_output_charset=utf-8",
+    "status": "public_reward_api_discovered_scope_unverified",
+    "evidence": "当前前端公开奖励API返回JSON；具体业务分类API正常Referer请求进入登录，未解析现行逐APP范围，不入库"
+  },
+  {
+    "vendor": "华为",
+    "url": "https://www.huawei.com/cn/psirt/",
+    "status": "app_specific_scope_unverified",
+    "evidence": "本轮未核到可引用的当前具名Android app赏金范围，不以产品下载站补范围"
+  }
+]
