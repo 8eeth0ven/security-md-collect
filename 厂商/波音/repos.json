@@ -8,7 +8,9 @@
   "stars": 518,
   "language": "Go",
   "description": "Cross-platform config file CLI toolchain. Validates syntax, schema compliance, and formatting across 18 different configuration file types. Written in Go.",
-  "first_seen": "2026-11-01 18:31:19"
+  "license": null,
+  "first_seen": "2026-11-01 18:31:19",
+  "last_verified": "2026-11-15 05:33:07"
  },
  {
   "vendor": "波音",
@@ -19,7 +21,9 @@
   "stars": 2,
   "language": "Go",
   "description": ":octocat: Github Action to validate your config files using the config-file-validator",
-  "first_seen": "2026-11-01 18:31:19"
+  "license": null,
+  "first_seen": "2026-11-01 18:31:19",
+  "last_verified": "2026-11-15 05:33:07"
  },
  {
   "vendor": "波音",
@@ -27,10 +31,12 @@
   "full_name": "Boeing/scorecard",
   "url": "https://github.com/Boeing/scorecard",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "OpenSSF Scorecard - Security health metrics for Open Source",
-  "first_seen": "2026-11-01 18:31:19"
+  "license": null,
+  "first_seen": "2026-11-01 18:31:19",
+  "last_verified": "2026-11-15 05:33:07"
  },
  {
   "vendor": "波音",
@@ -38,9 +44,11 @@
   "full_name": "Boeing/backstage",
   "url": "https://github.com/Boeing/backstage",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Backstage is an open framework for building developer portals",
-  "first_seen": "2026-11-01 18:31:19"
+  "license": null,
+  "first_seen": "2026-11-01 18:31:19",
+  "last_verified": "2026-11-15 05:33:07"
  }
 ]
