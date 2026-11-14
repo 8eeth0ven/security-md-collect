@@ -5,10 +5,12 @@
   "full_name": "adobe/S3Mock",
   "url": "https://github.com/adobe/S3Mock",
   "sec_path": ".github/SECURITY.md",
-  "stars": 1184,
+  "stars": 1187,
   "language": "Kotlin",
   "description": "A mock implementation of the AWS S3 API startable as Docker image, TestContainer, JUnit Jupiter extension or TestNG listener",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -19,7 +21,9 @@
   "stars": 182,
   "language": "C++",
   "description": "A Spectrum-inspired fork of Dear ImGui (https://github.com/ocornut/imgui + https://github.com/adobe/spectrum-css)",
-  "first_seen": "2026-11-01 17:42:14"
+  "license": null,
+  "first_seen": "2026-11-01 17:42:14",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -30,7 +34,9 @@
   "stars": 41,
   "language": "JavaScript",
   "description": "Adobe's integration starter kit uses Adobe Developer App Builder to improve real-time connection reliability and reduce the time-to-market for integrations betw…",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -41,7 +47,22 @@
   "stars": 23,
   "language": "Go",
   "description": "Oh no! Yet another Kafka operator for Kubernetes",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
+ },
+ {
+  "vendor": "Adobe",
+  "org": "adobe",
+  "full_name": "adobe/commerce-checkout-starter-kit",
+  "url": "https://github.com/adobe/commerce-checkout-starter-kit",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 18,
+  "language": "JavaScript",
+  "description": "An AppBuilder starter kit that provides the scaffolding for checkout integration patterns with Adobe Commerce.",
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -52,18 +73,9 @@
   "stars": 17,
   "language": "Swift",
   "description": "Adobe Experience Platform Edge Network mobile extension in Swift",
-  "first_seen": "2026-11-01 17:34:17"
- },
- {
-  "vendor": "Adobe",
-  "org": "adobe",
-  "full_name": "adobe/commerce-checkout-starter-kit",
-  "url": "https://github.com/adobe/commerce-checkout-starter-kit",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 17,
-  "language": "JavaScript",
-  "description": "An AppBuilder starter kit that provides the scaffolding for checkout integration patterns with Adobe Commerce.",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -71,10 +83,12 @@
   "full_name": "adobe/aio-commerce-sdk",
   "url": "https://github.com/adobe/aio-commerce-sdk",
   "sec_path": ".github/SECURITY.md",
-  "stars": 13,
+  "stars": 14,
   "language": "TypeScript",
   "description": "Provides a collection of packages designed for use with Adobe App Builder together with Adobe Commerce.",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -85,7 +99,9 @@
   "stars": 11,
   "language": "HTML",
   "description": "SWC UXP wrappers",
-  "first_seen": "2026-11-01 17:42:14"
+  "license": null,
+  "first_seen": "2026-11-01 17:42:14",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -96,7 +112,9 @@
   "stars": 8,
   "language": "Kotlin",
   "description": "ClawDEA — IntelliJ plugin for native Claude Code integration.",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -107,7 +125,9 @@
   "stars": 8,
   "language": "Brightscript",
   "description": "Adobe Experience Platform Roku SDK",
-  "first_seen": "2026-11-01 17:43:16"
+  "license": null,
+  "first_seen": "2026-11-01 17:43:16",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -118,7 +138,9 @@
   "stars": 7,
   "language": "Java",
   "description": "Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka u…",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -129,7 +151,9 @@
   "stars": 4,
   "language": "Swift",
   "description": "The AEP Content Analytics mobile extension tracks content and experience interactions in iOS apps.",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -140,7 +164,9 @@
   "stars": 4,
   "language": "Swift",
   "description": "iOS Adobe Experience Platform Edge Bridge",
-  "first_seen": "2026-11-01 17:42:14"
+  "license": null,
+  "first_seen": "2026-11-01 17:42:14",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -151,7 +177,9 @@
   "stars": 3,
   "language": "JavaScript",
   "description": "Full-stack web app that helps teams produce Statement of Applicability (SOA), System Security Plan (SSP), and Cloud Control Matrix (CCM) artefacts from OSCAL ca…",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -162,7 +190,9 @@
   "stars": 3,
   "language": "TypeScript",
   "description": "A utility module for easy instrumentation of Adobe App Builder runtime actions via OpenTelemetry.",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -173,7 +203,22 @@
   "stars": 3,
   "language": null,
   "description": "This is a developer community hub – the one-stop place for all your questions, discussions, feature ideas, and collaborations.",
-  "first_seen": "2026-11-01 17:43:16"
+  "license": null,
+  "first_seen": "2026-11-01 17:43:16",
+  "last_verified": "2026-11-15 04:04:32"
+ },
+ {
+  "vendor": "Adobe",
+  "org": "adobe",
+  "full_name": "adobe/.github",
+  "url": "https://github.com/adobe/.github",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 3,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 17:44:32",
+  "last_verified": "2026-11-14 12:54:54"
  },
  {
   "vendor": "Adobe",
@@ -184,7 +229,9 @@
   "stars": 2,
   "language": "Kotlin",
   "description": "The AEP Content Analytics Android extension tracks content and experience interactions in Android apps.",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -195,7 +242,9 @@
   "stars": 2,
   "language": "Swift",
   "description": "Adobe Experience Platform Streaming Media for Edge Network Extension - iOS",
-  "first_seen": "2026-11-01 17:42:14"
+  "license": null,
+  "first_seen": "2026-11-01 17:42:14",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -206,7 +255,9 @@
   "stars": 1,
   "language": "Swift",
   "description": "AEP SDK extension for iOS that supports Concierge integrations.",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -217,7 +268,9 @@
   "stars": 1,
   "language": "TypeScript",
   "description": "An interactive offline analysis tool for CockroachDB workload-exporter ZIPs.",
-  "first_seen": "2026-11-01 17:34:17"
+  "license": null,
+  "first_seen": "2026-11-01 17:34:17",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -228,7 +281,9 @@
   "stars": 1,
   "language": "Python",
   "description": "This Guidance demonstrates how to deploy Cloud Intelligence Dashboards in your AWS environment using AWS CloudFormation templates or command line tools. These p…",
-  "first_seen": "2026-11-01 17:43:16"
+  "license": null,
+  "first_seen": "2026-11-01 17:43:16",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -239,7 +294,9 @@
   "stars": 1,
   "language": "Python",
   "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tac…",
-  "first_seen": "2026-11-01 17:43:16"
+  "license": null,
+  "first_seen": "2026-11-01 17:43:16",
+  "last_verified": "2026-11-15 04:04:37"
  },
  {
   "vendor": "Adobe",
@@ -250,7 +307,9 @@
   "stars": 1,
   "language": "Java",
   "description": "Apache Commons Collections",
-  "first_seen": "2026-11-01 17:43:16"
+  "license": null,
+  "first_seen": "2026-11-01 17:43:16",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -261,7 +320,9 @@
   "stars": 1,
   "language": "Swift",
   "description": "",
-  "first_seen": "2026-11-01 17:43:16"
+  "license": null,
+  "first_seen": "2026-11-01 17:43:16",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -269,23 +330,12 @@
   "full_name": "adobe/tiered-storage-for-apache-kafka",
   "url": "https://github.com/adobe/tiered-storage-for-apache-kafka",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Java",
   "description": "RemoteStorageManager for Apache Kafka® Tiered Storage",
-  "first_seen": "2026-11-01 17:42:14"
- },
- {
-  "vendor": "Adobe",
-  "org": "adobe",
-  "full_name": "adobe/.github",
-  "url": "https://github.com/adobe/.github",
-  "sec_path": ".github/SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
-  "first_seen": "2026-11-01 17:44:32",
-  "last_verified": "2026-11-14 12:54:54"
+  "first_seen": "2026-11-01 17:42:14",
+  "last_verified": "2026-11-15 04:04:32"
  },
  {
   "vendor": "Adobe",
@@ -293,10 +343,12 @@
   "full_name": "adobe/openwhisk",
   "url": "https://github.com/adobe/openwhisk",
   "sec_path": "docs/security.md",
-  "stars": null,
+  "stars": 0,
   "language": "Scala",
   "description": "Apache OpenWhisk is an open source serverless cloud platform",
-  "first_seen": "2026-11-01 17:44:32"
+  "license": null,
+  "first_seen": "2026-11-01 17:44:32",
+  "last_verified": "2026-11-15 04:04:37"
  },
  {
   "vendor": "Adobe",
@@ -304,10 +356,12 @@
   "full_name": "adobe/react",
   "url": "https://github.com/adobe/react",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-  "first_seen": "2026-11-01 17:45:34"
+  "license": null,
+  "first_seen": "2026-11-01 17:45:34",
+  "last_verified": "2026-11-15 04:04:37"
  },
  {
   "vendor": "Adobe",
