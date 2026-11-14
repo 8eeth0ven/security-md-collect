@@ -18,10 +18,12 @@
   "full_name": "meta/zstd",
   "url": "https://github.com/meta/zstd",
   "sec_path": "SECURITY.md",
-  "stars": 28256,
+  "stars": 28250,
   "language": "C",
   "description": "Zstandard - Fast real-time compression algorithm",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -29,10 +31,12 @@
   "full_name": "meta/astryx",
   "url": "https://github.com/meta/astryx",
   "sec_path": "SECURITY.md",
-  "stars": 26939,
+  "stars": 27937,
   "language": "TypeScript",
   "description": "An open source design system that's fully customizable and agent ready",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -40,10 +44,12 @@
   "full_name": "meta/hhvm",
   "url": "https://github.com/meta/hhvm",
   "sec_path": "SECURITY.md",
-  "stars": 18683,
+  "stars": 18685,
   "language": "C++",
   "description": "A virtual machine for executing programs written in Hack.",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -54,7 +60,9 @@
   "stars": 8117,
   "language": "Swift",
   "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -62,10 +70,12 @@
   "full_name": "meta/facebook-android-sdk",
   "url": "https://github.com/meta/facebook-android-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 6467,
+  "stars": 6469,
   "language": "Kotlin",
   "description": "Used to integrate Android apps with Facebook Platform.",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -115,7 +125,9 @@
   "stars": 268,
   "language": "PHP",
   "description": "The official plugin from Meta. This repository is now officially owned by Meta's Partner Engineering team. We welcome and encourage contributions from the commu…",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -126,7 +138,9 @@
   "stars": 75,
   "language": "C",
   "description": "Kernel-level eBPF sandbox for securing LLM agent tool calls made through the Model Context Protocol (MCP)",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -167,24 +181,28 @@
  {
   "vendor": "Meta",
   "org": "Meta",
+  "full_name": "meta/agentic-tools",
+  "url": "https://github.com/meta/agentic-tools",
+  "sec_path": "SECURITY.md",
+  "stars": 26,
+  "language": "Python",
+  "description": "Agentic tools plugin and skills",
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
+ },
+ {
+  "vendor": "Meta",
+  "org": "Meta",
   "full_name": "meta/meta-ray-ban-display-ui-toolkit-web",
   "url": "https://github.com/meta/meta-ray-ban-display-ui-toolkit-web",
   "sec_path": "SECURITY.md",
   "stars": 25,
   "language": "TypeScript",
   "description": "UI Toolkit brings the Meta Ray-Ban Display design system to React. Use its components, semantic tokens, materials, motion, accessibility behavior, and direction…",
-  "first_seen": "2026-11-01 17:01:10"
- },
- {
-  "vendor": "Meta",
-  "org": "Meta",
-  "full_name": "meta/agentic-tools",
-  "url": "https://github.com/meta/agentic-tools",
-  "sec_path": "SECURITY.md",
-  "stars": 23,
-  "language": "Python",
-  "description": "Agentic tools plugin and skills",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -195,7 +213,9 @@
   "stars": 20,
   "language": null,
   "description": "Default Community health files for Facebook projects",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -239,7 +259,9 @@
   "stars": 10,
   "language": null,
   "description": "WebMCP on Meta Ray-Ban Display Glasses enables developers to utilize Meta AI to create hands free and agentic interactions on web apps using user voice. ",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -295,7 +317,9 @@
   "stars": 4,
   "language": "PHP",
   "description": "A first-party extension plugin built for WooCommerce.",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",
@@ -306,7 +330,9 @@
   "stars": 3,
   "language": "Rust",
   "description": "Generate multi-language strongly-typed client libraries around Rust CLIs.",
-  "first_seen": "2026-11-01 17:01:10"
+  "license": null,
+  "first_seen": "2026-11-01 17:01:10",
+  "last_verified": "2026-11-15 02:05:03"
  },
  {
   "vendor": "Meta",

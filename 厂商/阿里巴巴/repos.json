@@ -195,7 +195,9 @@
   "stars": 1268,
   "language": "Go",
   "description": "普大喜奔，官方Minikube提供了完整对国内用户支持，完美支持Addon组件。 建议参考 https://yq.aliyun.com/articles/221687 或 https://github.com/AliyunContainerService/minikube/wiki 最新支持minikube v1.24…",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -239,7 +241,9 @@
   "stars": 622,
   "language": "Go",
   "description": "CNI plugin for Alibaba Cloud VPC/ENI",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -349,7 +353,9 @@
   "stars": 17,
   "language": "Go",
   "description": "ACK Secret Manager allows you to use external secret management systems (*e.g.*, Alibaba Cloud Secrets Manager) to securely add secrets in Kubernetes. ",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -371,7 +377,9 @@
   "stars": 10,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -415,7 +423,9 @@
   "stars": 5,
   "language": "Go",
   "description": "The Prometheus monitoring system and time series database.",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -470,7 +480,9 @@
   "stars": 4,
   "language": "Go",
   "description": "The Alibaba Cloud provider for the Secrets Store CSI Driver allows you to fetch secrets from Alibaba Cloud Secrets Manager and mount them into Kubernetes pods.",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -481,7 +493,9 @@
   "stars": 4,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -492,7 +506,9 @@
   "stars": 4,
   "language": "Go",
   "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -580,7 +596,9 @@
   "stars": 1,
   "language": "Scala",
   "description": "Apache Spark",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -591,7 +609,9 @@
   "stars": 1,
   "language": "Go",
   "description": "Add-on agent to generate and expose cluster-level metrics.",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -654,10 +674,12 @@
   "full_name": "AliyunContainerService/trainer",
   "url": "https://github.com/AliyunContainerService/trainer",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -665,10 +687,12 @@
   "full_name": "AliyunContainerService/argo-workflows",
   "url": "https://github.com/AliyunContainerService/argo-workflows",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Workflow engine for Kubernetes",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -676,10 +700,12 @@
   "full_name": "AliyunContainerService/keda",
   "url": "https://github.com/AliyunContainerService/keda",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": " KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -687,10 +713,12 @@
   "full_name": "AliyunContainerService/registration",
   "url": "https://github.com/AliyunContainerService/registration",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "hub / spoke registration controllers",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -698,10 +726,12 @@
   "full_name": "AliyunContainerService/work",
   "url": "https://github.com/AliyunContainerService/work",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "resource manifest distribution among multiple clusters.",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",
@@ -709,10 +739,12 @@
   "full_name": "AliyunContainerService/registration-operator",
   "url": "https://github.com/AliyunContainerService/registration-operator",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Minimum cluster registration and work",
-  "first_seen": "2026-11-01 16:21:46"
+  "license": null,
+  "first_seen": "2026-11-01 16:21:46",
+  "last_verified": "2026-11-15 02:02:51"
  },
  {
   "vendor": "阿里巴巴",

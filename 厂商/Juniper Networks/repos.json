@@ -8,7 +8,9 @@
   "stars": 716,
   "language": "Python",
   "description": "Python library for Junos automation",
-  "first_seen": "2026-11-01 16:58:24"
+  "license": null,
+  "first_seen": "2026-11-01 16:58:24",
+  "last_verified": "2026-11-15 02:04:19"
  },
  {
   "vendor": "Juniper Networks",
@@ -19,7 +21,9 @@
   "stars": 2,
   "language": "Go",
   "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
-  "first_seen": "2026-11-01 16:58:24"
+  "license": null,
+  "first_seen": "2026-11-01 16:58:24",
+  "last_verified": "2026-11-15 02:04:19"
  },
  {
   "vendor": "Juniper Networks",
@@ -27,9 +31,11 @@
   "full_name": "Juniper/paramiko",
   "url": "https://github.com/Juniper/paramiko",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "The leading native Python SSHv2 protocol library.",
-  "first_seen": "2026-11-01 16:58:24"
+  "license": null,
+  "first_seen": "2026-11-01 16:58:24",
+  "last_verified": "2026-11-15 02:04:19"
  }
 ]

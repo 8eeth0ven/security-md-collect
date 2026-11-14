@@ -552,12 +552,12 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 阿里巴巴,ASRC,aliyun,aliyun/alibabacloud-polardb-tool-agentic-server,https://github.com/aliyun/alibabacloud-polardb-tool-agentic-server,1,Python,SECURITY.md,
 阿里巴巴,ASRC,aliyun,aliyun/vllm,https://github.com/aliyun/vllm,1,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 阿里巴巴,ASRC,aliyun,aliyun/ray,https://github.com/aliyun/ray,1,Python,SECURITY.md,Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.(Fork for contributing. All chan…
-阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/trainer,https://github.com/AliyunContainerService/trainer,,Go,SECURITY.md,Distributed AI Model Training and LLM Fine-Tuning on Kubernetes
-阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/argo-workflows,https://github.com/AliyunContainerService/argo-workflows,,Go,SECURITY.md,Workflow engine for Kubernetes
-阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/keda,https://github.com/AliyunContainerService/keda,,Go,SECURITY.md, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/registration,https://github.com/AliyunContainerService/registration,,Go,SECURITY.md,hub / spoke registration controllers
-阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/work,https://github.com/AliyunContainerService/work,,Go,SECURITY.md,resource manifest distribution among multiple clusters.
-阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/registration-operator,https://github.com/AliyunContainerService/registration-operator,,Go,SECURITY.md,Minimum cluster registration and work
+阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/trainer,https://github.com/AliyunContainerService/trainer,0,Go,SECURITY.md,Distributed AI Model Training and LLM Fine-Tuning on Kubernetes
+阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/argo-workflows,https://github.com/AliyunContainerService/argo-workflows,0,Go,SECURITY.md,Workflow engine for Kubernetes
+阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/keda,https://github.com/AliyunContainerService/keda,0,Go,SECURITY.md, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/registration,https://github.com/AliyunContainerService/registration,0,Go,SECURITY.md,hub / spoke registration controllers
+阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/work,https://github.com/AliyunContainerService/work,0,Go,SECURITY.md,resource manifest distribution among multiple clusters.
+阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/registration-operator,https://github.com/AliyunContainerService/registration-operator,0,Go,SECURITY.md,Minimum cluster registration and work
 阿里巴巴,ASRC,alibaba,alibaba/aiconfigurator,https://github.com/alibaba/aiconfigurator,,Python,SECURITY.md,Offline optimization of your disaggregated Dynamo graph(Fork for contributing. All changes intended for upstream PRs.)
 阿里巴巴,ASRC,aliyun,aliyun/alibabacloud-maxcompute-docs,https://github.com/aliyun/alibabacloud-maxcompute-docs,,TypeScript,SECURITY.md,
 蚂蚁集团,蚂蚁SRC,ant-design,ant-design/ant-design,https://github.com/ant-design/ant-design,100185,TypeScript,SECURITY.md,An enterprise-class UI design language and React UI library
@@ -753,7 +753,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 华为,Huawei PSIRT,openharmony,openharmony/third_party_libuv,https://github.com/openharmony/third_party_libuv,1,C,SECURITY.md,暂无描述
 华为,Huawei PSIRT,openharmony,openharmony/third_party_icu,https://github.com/openharmony/third_party_icu,1,Java,SECURITY.md,三方库，提供日期时间格式化、Unicode支持等能力
 华为,Huawei PSIRT,openharmony,openharmony/third_party_mbedtls,https://github.com/openharmony/third_party_mbedtls,1,C,SECURITY.md,Third-party open-source software Mbed TLS | 三方开源软件Mbed TLS
-华为,Huawei PSIRT,Ascend,Ascend/msdebug,https://github.com/Ascend/msdebug,,LLVM,SECURITY.md,
+华为,Huawei PSIRT,Ascend,Ascend/msdebug,https://github.com/Ascend/msdebug,0,LLVM,SECURITY.md,
 华为,Huawei PSIRT,openharmony,openharmony/third_party_liburing,https://github.com/openharmony/third_party_liburing,0,C,SECURITY.md,内核iouring特性三方工具库
 华为,Huawei PSIRT,openharmony,openharmony/third_party_brotli,https://github.com/openharmony/third_party_brotli,0,C,SECURITY.md,
 华为,Huawei PSIRT,openharmony,openharmony/third_party_rust_rustix,https://github.com/openharmony/third_party_rust_rustix,0,Rust,SECURITY.md,一个纯Rust实现的UNIX系统调用库。 | A Rust library that provides support for working with UTF-8 encoded strings.
@@ -827,8 +827,8 @@ UCloud,无,ucloud,ucloud/spark,https://github.com/ucloud/spark,0,Scala,docs/secu
 同程旅行,无,TongchengOpenSource,TongchengOpenSource/starrocks,https://github.com/TongchengOpenSource/starrocks,,Java,SECURITY.md,"StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, re…"
 同程旅行,无,TongchengOpenSource,TongchengOpenSource/compass,https://github.com/TongchengOpenSource/compass,,Java,SECURITY.md,Compass is a task diagnosis platform for bigdata
 唯品会,VSRC,vipshop,vipshop/vllm,https://github.com/vipshop/vllm,7,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
-唯品会,VSRC,vipshop,vipshop/spring-ai-alibaba,https://github.com/vipshop/spring-ai-alibaba,3,Java,SECURITY.md,Agentic AI Framework for Java Developers
 唯品会,VSRC,vipshop,vipshop/koordinator,https://github.com/vipshop/koordinator,1,Go,SECURITY.md,"A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc."
+唯品会,VSRC,vipshop,vipshop/spring-ai-alibaba,https://github.com/vipshop/spring-ai-alibaba,0,Java,SECURITY.md,Agentic AI Framework for Java Developers
 唯品会,VSRC,vipshop,vipshop/kubeblocks,https://github.com/vipshop/kubeblocks,0,Go,SECURITY.md,"KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s."
 唯品会,VSRC,vipshop,vipshop/higress,https://github.com/vipshop/higress,0,Go,SECURITY.md,🤖 AI Gateway | AI Native API Gateway
 唯品会,VSRC,vipshop,vipshop/istio,https://github.com/vipshop/istio,0,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
@@ -849,11 +849,11 @@ UCloud,无,ucloud,ucloud/spark,https://github.com/ucloud/spark,0,Scala,docs/secu
 旷视,无,MegEngine,MegEngine/flatbuffers,https://github.com/MegEngine/flatbuffers,1,C++,SECURITY.md,FlatBuffers: Memory Efficient Serialization Library
 第四范式,无,4paradigm,4paradigm/spark,https://github.com/4paradigm/spark,12,Scala,docs/security.md,"This is OpenMLDB's Spark Distribution, which is particularly optimized for feature extraction. It includes a few novel techniques, such as native implementation…"
 百川智能,无,baichuan-inc,baichuan-inc/vllm,https://github.com/baichuan-inc/vllm,4,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
-MiniMax,无,MiniMax-AI,MiniMax-AI/minimax-code,https://github.com/MiniMax-AI/minimax-code,2227,TypeScript,SECURITY.md,"An open-source coding agent for your terminal, powered by MiniMax."
+MiniMax,无,MiniMax-AI,MiniMax-AI/minimax-code,https://github.com/MiniMax-AI/minimax-code,2235,TypeScript,SECURITY.md,"An open-source coding agent for your terminal, powered by MiniMax."
 MiniMax,无,MiniMax-AI,MiniMax-AI/OpenRoom,https://github.com/MiniMax-AI/OpenRoom,1272,TypeScript,SECURITY.md,A browser-based desktop where AI Agent operates every app through natural language.
 MiniMax,无,MiniMax-AI,MiniMax-AI/MSA,https://github.com/MiniMax-AI/MSA,438,Python,SECURITY.md,
-MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-MiniApps,https://github.com/MiniMax-AI/MiniMax-Code-MiniApps,73,JavaScript,docs/security.md,"We believe the Agent is evolving into the next-generation operating system (OS). In this paradigm shift, a plugin is no longer just a feature extension: a plugi…"
-MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-Plugins,https://github.com/MiniMax-AI/MiniMax-Code-Plugins,23,JavaScript,SECURITY.md,Community registry and contribution toolkit for MiniMax Code plugins.
+MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-MiniApps,https://github.com/MiniMax-AI/MiniMax-Code-MiniApps,74,JavaScript,docs/security.md,"We believe the Agent is evolving into the next-generation operating system (OS). In this paradigm shift, a plugin is no longer just a feature extension: a plugi…"
+MiniMax,无,MiniMax-AI,MiniMax-AI/MiniMax-Code-Plugins,https://github.com/MiniMax-AI/MiniMax-Code-Plugins,24,JavaScript,SECURITY.md,Community registry and contribution toolkit for MiniMax Code plugins.
 MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
 阶跃星辰,无,stepfun-ai,stepfun-ai/Step-Code,https://github.com/stepfun-ai/Step-Code,1039,TypeScript,SECURITY.md,
 阶跃星辰,无,stepfun-ai,stepfun-ai/vllm,https://github.com/stepfun-ai/vllm,46,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -3944,11 +3944,11 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/.github,https://github.com/google/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/secure-cua,https://github.com/google/secure-cua,0,Python,SECURITY.md,
 Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105483,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
-Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28256,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
-Meta,自建（Meta Bug Bounty）,Meta,meta/astryx,https://github.com/meta/astryx,26939,TypeScript,SECURITY.md,An open source design system that's fully customizable and agent ready
-Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18683,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
+Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28250,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
+Meta,自建（Meta Bug Bounty）,Meta,meta/astryx,https://github.com/meta/astryx,27937,TypeScript,SECURITY.md,An open source design system that's fully customizable and agent ready
+Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18685,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
 Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-ios-sdk,https://github.com/meta/facebook-ios-sdk,8117,Swift,SECURITY.md,Used to integrate the Facebook Platform with your iOS & tvOS apps.
-Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-android-sdk,https://github.com/meta/facebook-android-sdk,6467,Kotlin,SECURITY.md,Used to integrate Android apps with Facebook Platform.
+Meta,自建（Meta Bug Bounty）,Meta,meta/facebook-android-sdk,https://github.com/meta/facebook-android-sdk,6469,Kotlin,SECURITY.md,Used to integrate Android apps with Facebook Platform.
 Meta,自建（Meta Bug Bounty）,pytorch,pytorch/serve,https://github.com/pytorch/serve,4344,Java,SECURITY.md,"Serve, optimize and scale PyTorch models in production"
 Meta,自建（Meta Bug Bounty）,pytorch,pytorch/gloo,https://github.com/pytorch/gloo,1466,C++,SECURITY.md,Collective communications library with various primitives for multi-machine training.
 Meta,自建（Meta Bug Bounty）,pytorch,pytorch/tensordict,https://github.com/pytorch/tensordict,1046,Python,SECURITY.md,"A dict[str, torch.Tensor] that behaves like one tensor, and TensorClass: typed, batched dataclasses that compile."
@@ -3957,8 +3957,8 @@ Meta,自建（Meta Bug Bounty）,Meta,meta/mcpguard-dynamic,https://github.com/m
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/BigOBench,https://github.com/facebookresearch/BigOBench,44,Python,SECURITY.md,BigOBench assesses the capacity of Large Language Models (LLMs) to comprehend time-space computational complexity of input or generated code.
 Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/triton-shared,https://github.com/facebookincubator/triton-shared,39,MLIR,SECURITY.md,Shared Middle-Layer for Triton Compilation
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/CRV,https://github.com/facebookresearch/CRV,33,Python,SECURITY.md,"Code for the paper ""Verifying Chain-of-Thought Reasoning via its Computational Graph""."
+Meta,自建（Meta Bug Bounty）,Meta,meta/agentic-tools,https://github.com/meta/agentic-tools,26,Python,SECURITY.md,Agentic tools plugin and skills
 Meta,自建（Meta Bug Bounty）,Meta,meta/meta-ray-ban-display-ui-toolkit-web,https://github.com/meta/meta-ray-ban-display-ui-toolkit-web,25,TypeScript,SECURITY.md,"UI Toolkit brings the Meta Ray-Ban Display design system to React. Use its components, semantic tokens, materials, motion, accessibility behavior, and direction…"
-Meta,自建（Meta Bug Bounty）,Meta,meta/agentic-tools,https://github.com/meta/agentic-tools,23,Python,SECURITY.md,Agentic tools plugin and skills
 Meta,自建（Meta Bug Bounty）,Meta,meta/.github,https://github.com/meta/.github,20,,SECURITY.md,Default Community health files for Facebook projects
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/proxymate,https://github.com/facebookresearch/proxymate,17,Python,SECURITY.md,"Diagnose and correct proxy metrics against a primary outcome across four levels (representativity, unit, estimate, domain). It diagnoses failures, then apply ad…"
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/projectaria-plugins,https://github.com/facebookresearch/projectaria-plugins,15,Python,SECURITY.md,"Official Claude Code marketplace for Project Aria — install ARK plugins for Aria SDK development, VRS data processing, MPS workflows, and device operations."
@@ -4862,8 +4862,8 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/terraform-gcp-gdp,https://github.com/IBM/te
 IBM,自建PSIRT（X-Force）,IBM,IBM/.github,https://github.com/IBM/.github,,,SECURITY.md,
 IBM,自建PSIRT（X-Force）,IBM,IBM/fs-solution-guides-resources,https://github.com/IBM/fs-solution-guides-resources,,Dockerfile,SECURITY.md,Examples and resources for FS Cloud solution guides
 IBM,自建PSIRT（X-Force）,IBM,IBM/Kubernetes-Lite,https://github.com/IBM/Kubernetes-Lite,,Python,SECURITY.md,"Kubernetes Lite is a ""liteweight"" wrapper around various golang Kubernetes libraries using gopy"
-IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/key-protect-pkcs11,https://github.com/IBM-Cloud/key-protect-pkcs11,,,SECURITY.md,PKCS11 Libraries for Key Protect for IBM Cloud
-IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/redhat-ai-instructlab-taxonomy,https://github.com/IBM-Cloud/redhat-ai-instructlab-taxonomy,,Python,SECURITY.md,
+IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/key-protect-pkcs11,https://github.com/IBM-Cloud/key-protect-pkcs11,0,,SECURITY.md,PKCS11 Libraries for Key Protect for IBM Cloud
+IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/redhat-ai-instructlab-taxonomy,https://github.com/IBM-Cloud/redhat-ai-instructlab-taxonomy,0,Python,SECURITY.md,
 IBM,自建PSIRT（X-Force）,ibm-security,IBM-Security/iviadc-aries-askar,https://github.com/IBM-Security/iviadc-aries-askar,0,Rust,SECURITY.md,Private fork of the aries-askar project so that support for DB2 can be added.
 IBM,自建PSIRT（X-Force）,IBM,IBM/Datastax-Vector-Search-demos,https://github.com/IBM/Datastax-Vector-Search-demos,0,,SECURITY.md,Completed watsonx.data vector search demos
 IBM,自建PSIRT（X-Force）,IBM,IBM/ibm-smc-operator,https://github.com/IBM/ibm-smc-operator,0,,SECURITY.md,IBM SMC Operator for OpenShift on IBM Z and LinuxONE
@@ -7518,10 +7518,10 @@ Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/chippy,https://g
 Atlassian,Bugcrowd（Atlassian）,atlassian,atlassian/kubernetes,https://github.com/atlassian/kubernetes,2,Go,.github/SECURITY.md,Container Cluster Manager from Google
 Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/data-visualization-skill,https://github.com/atlassian-labs/data-visualization-skill,1,Python,SECURITY.md,Data Visualization Skill based on plotly
 Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/atlassian-agent-plugins-beta,https://github.com/atlassian-labs/atlassian-agent-plugins-beta,0,JavaScript,SECURITY.md,Early-access Atlassian plugins for Claude Code and Codex
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/kotlin,https://github.com/JetBrains/kotlin,53570,Kotlin,SECURITY.md,The Kotlin Programming Language. 
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/intellij-community,https://github.com/JetBrains/intellij-community,20732,Java,SECURITY.md,IntelliJ IDEA & IntelliJ Platform
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/compose-multiplatform,https://github.com/JetBrains/compose-multiplatform,19488,Kotlin,SECURITY.md,"Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable."
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/skiko,https://github.com/JetBrains/skiko,2194,Kotlin,SECURITY.md,Kotlin Multiplatform bindings to Skia
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/kotlin,https://github.com/JetBrains/kotlin,53575,Kotlin,SECURITY.md,The Kotlin Programming Language. 
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/intellij-community,https://github.com/JetBrains/intellij-community,20733,Java,SECURITY.md,IntelliJ IDEA & IntelliJ Platform
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/compose-multiplatform,https://github.com/JetBrains/compose-multiplatform,19487,Kotlin,SECURITY.md,"Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable."
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/skiko,https://github.com/JetBrains/skiko,2193,Kotlin,SECURITY.md,Kotlin Multiplatform bindings to Skia
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/JetBrainsRuntime,https://github.com/JetBrains/JetBrainsRuntime,2017,Java,SECURITY.md,"Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux"
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/kotlin-web-site,https://github.com/JetBrains/kotlin-web-site,1626,TypeScript,SECURITY.md,The Kotlin programming language website
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/jewel,https://github.com/JetBrains/jewel,860,Kotlin,SECURITY.md,[MOVED TO IJ PLATFORM] An implementation of the IntelliJ look and feels in Compose for Desktop
@@ -7551,17 +7551,17 @@ JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/jSerialComm,https
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/terraform-aws-s3-bucket-configuration,https://github.com/JetBrains/terraform-aws-s3-bucket-configuration,1,Makefile,SECURITY.md,A Terraform module to manage in code configurations for a given bucket or create a new bucket and apply a desired configuration set to it
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/wcf,https://github.com/JetBrains/wcf,1,C#,SECURITY.md,This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services.
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/jitsi-meet,https://github.com/JetBrains/jitsi-meet,1,JavaScript,SECURITY.md,"Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/teamcity-s3-artifacts-api-plugin,https://github.com/JetBrains/teamcity-s3-artifacts-api-plugin,,Kotlin,SECURITY.md,TeamCity server-side plugin exposing build artifacts over an S3-compatible HTTP API
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/modelcontextprotocol-csharp-sdk,https://github.com/JetBrains/modelcontextprotocol-csharp-sdk,,C#,SECURITY.md,The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/azure-artifacts-credprovider,https://github.com/JetBrains/azure-artifacts-credprovider,,C#,SECURITY.md,"The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds."
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/hermes-agent,https://github.com/JetBrains/hermes-agent,,Python,SECURITY.md,The agent that grows with you
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/permify-go,https://github.com/JetBrains/permify-go,,Go,SECURITY.md,Permify Go Client
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/sysbox-cri-o,https://github.com/JetBrains/sysbox-cri-o,,Go,SECURITY.md,Temporary CRI-O fork with minor changes required to work with Sysbox on K8s v1.21+. We will work with the CRI-O team to add these to the official CRI-O repo ver…
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/sysbox-runc,https://github.com/JetBrains/sysbox-runc,,Go,SECURITY.md,Sysbox-runc repository
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/bun,https://github.com/JetBrains/bun,,Zig,SECURITY.md,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/external-annotations-dotnet-runtime,https://github.com/JetBrains/external-annotations-dotnet-runtime,,C#,SECURITY.md,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/templating,https://github.com/JetBrains/templating,,C#,SECURITY.md,This repo contains the Template Engine which is used by dotnet new
-JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/react-buddy-react,https://github.com/JetBrains/react-buddy-react,,JavaScript,SECURITY.md,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/teamcity-s3-artifacts-api-plugin,https://github.com/JetBrains/teamcity-s3-artifacts-api-plugin,0,Kotlin,SECURITY.md,TeamCity server-side plugin exposing build artifacts over an S3-compatible HTTP API
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/modelcontextprotocol-csharp-sdk,https://github.com/JetBrains/modelcontextprotocol-csharp-sdk,0,C#,SECURITY.md,The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/azure-artifacts-credprovider,https://github.com/JetBrains/azure-artifacts-credprovider,0,C#,SECURITY.md,"The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds."
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/hermes-agent,https://github.com/JetBrains/hermes-agent,0,Python,SECURITY.md,The agent that grows with you
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/permify-go,https://github.com/JetBrains/permify-go,0,Go,SECURITY.md,Permify Go Client
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/sysbox-cri-o,https://github.com/JetBrains/sysbox-cri-o,0,Go,SECURITY.md,Temporary CRI-O fork with minor changes required to work with Sysbox on K8s v1.21+. We will work with the CRI-O team to add these to the official CRI-O repo ver…
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/sysbox-runc,https://github.com/JetBrains/sysbox-runc,0,Go,SECURITY.md,Sysbox-runc repository
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/bun,https://github.com/JetBrains/bun,0,Zig,SECURITY.md,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/external-annotations-dotnet-runtime,https://github.com/JetBrains/external-annotations-dotnet-runtime,0,C#,SECURITY.md,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/templating,https://github.com/JetBrains/templating,0,C#,SECURITY.md,This repo contains the Template Engine which is used by dotnet new
+JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/react-buddy-react,https://github.com/JetBrains/react-buddy-react,0,JavaScript,SECURITY.md,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/Anki-Android,https://github.com/JetBrains/Anki-Android,0,Kotlin,SECURITY.md,AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/spring-framework,https://github.com/JetBrains/spring-framework,0,Java,SECURITY.md,Spring Framework
 GitLab,HackerOne（GitLab）,gitlabhq,gitlabhq/cli,https://github.com/gitlabhq/cli,53,Go,SECURITY.md,Read only mirror of https://gitlab.com/gitlab-org/cli
@@ -9677,7 +9677,7 @@ CrowdStrike,自建BB,crowdstrike,CrowdStrike/alloy-react,https://github.com/Crow
 CrowdStrike,自建BB,crowdstrike,crowdstrike/.github,https://github.com/crowdstrike/.github,,,docs/SECURITY.md,
 Juniper Networks,自建BB,Juniper,Juniper/py-junos-eznc,https://github.com/Juniper/py-junos-eznc,716,Python,SECURITY.md,Python library for Junos automation
 Juniper Networks,自建BB,Juniper,Juniper/kubevirt,https://github.com/Juniper/kubevirt,2,Go,SECURITY.md,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-Juniper Networks,自建BB,Juniper,Juniper/paramiko,https://github.com/Juniper/paramiko,,Python,SECURITY.md,The leading native Python SSHv2 protocol library.
+Juniper Networks,自建BB,Juniper,Juniper/paramiko,https://github.com/Juniper/paramiko,0,Python,SECURITY.md,The leading native Python SSHv2 protocol library.
 Trend Micro,自建BB,trendmicro,trendmicro/adk-agui-middleware,https://github.com/trendmicro/adk-agui-middleware,40,Python,SECURITY.md,Python middleware bridging Google ADK agents with AGUI protocol via Server-Sent Events for real-time agent interactions
 Trend Micro,自建BB,trendmicro,trendmicro/tm-v1,https://github.com/trendmicro/tm-v1,30,,SECURITY.md,TrendAI Vision One Open Source Community Projects
 Trend Micro,自建BB,trendmicro,trendmicro/cloudone-community,https://github.com/trendmicro/cloudone-community,23,Python,SECURITY.md,Collection of Trend Micro Open Source Community Projects
