@@ -189,6 +189,19 @@
  {
   "vendor": "Grafana",
   "org": "grafana",
+  "full_name": "grafana/.github",
+  "url": "https://github.com/grafana/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-01 21:22:02",
+  "last_verified": "2026-11-14 13:00:49"
+ },
+ {
+  "vendor": "Grafana",
+  "org": "grafana",
   "full_name": "grafana/network-topology-exporter",
   "url": "https://github.com/grafana/network-topology-exporter",
   "sec_path": "SECURITY.md",
@@ -405,18 +418,5 @@
   "language": "Go",
   "description": "A generic, language-agnostic Go library for parsing and expanding Grafana macros",
   "first_seen": "2026-11-01 21:20:26"
- },
- {
-  "vendor": "Grafana",
-  "org": "grafana",
-  "full_name": "grafana/.github",
-  "url": "https://github.com/grafana/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 21:22:02",
-  "last_verified": "2026-11-14 13:00:49"
  }
 ]

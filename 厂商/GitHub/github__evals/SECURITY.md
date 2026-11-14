@@ -21,7 +21,8 @@ To help maintainers investigate, include:
 - Reproduction steps or a minimal, non-destructive proof of concept.
 - The security impact and any mitigation you have identified.
 
-Plugin and VS Code extension versions can differ; include the artifact name when
+Plugin, VS Code extension, and Visual Studio extension versions can differ;
+include the artifact name when
 reporting a released download. Redact tokens, credentials, personal data, and
 private workspace content before sharing evidence.
 
@@ -31,7 +32,8 @@ maintainers while they investigate and prepare a fix.
 ## Research policy
 
 This project is licensed under the GitHub Limited Use Source License (see
-[LICENSE](LICENSE); the VS Code Marketplace extension is governed by its bundled
+[LICENSE](LICENSE); the VS Code and Visual Studio Marketplace extensions are
+governed by their bundled
 GitHub License Terms for Extensions) and is not open-source software.
 
 Security research and coordinated disclosure follow

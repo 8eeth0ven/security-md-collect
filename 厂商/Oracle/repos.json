@@ -104,7 +104,9 @@
   "stars": 1757,
   "language": null,
   "description": "GraalVM CE binaires built by the GraalVM community",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -376,10 +378,12 @@
   "full_name": "graalvm/mandrel",
   "url": "https://github.com/graalvm/mandrel",
   "sec_path": "SECURITY.md",
-  "stars": 454,
+  "stars": 455,
   "language": null,
   "description": "Mandrel is a downstream distribution of the GraalVM community edition. Mandrel's main goal is to provide a native-image release specifically to support Quarkus.",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -618,7 +622,9 @@
   "stars": 190,
   "language": null,
   "description": "GraalVM container images",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -773,7 +779,9 @@
   "stars": 104,
   "language": "Java",
   "description": "Graal Languages - Demos and Guides",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -1732,7 +1740,9 @@
   "stars": 17,
   "language": "Java",
   "description": "Maintenance repository for GraalVM Community for JDK 21.",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -1743,7 +1753,9 @@
   "stars": 17,
   "language": "Java",
   "description": "Graal Script Agent is a Java library for adding AI-authored extensions to applications.",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -1970,7 +1982,9 @@
   "stars": 12,
   "language": "Java",
   "description": "JDK fork for building GraalVM CE.",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -2281,7 +2295,9 @@
   "stars": 7,
   "language": "C++",
   "description": "CLAMH (Cross-LAnguage Microbenchmark Harness) is a language-independent benchmark harness design and the implementation of that design for different languages.",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -2532,7 +2548,9 @@
   "stars": 2,
   "language": "Java",
   "description": "",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -2543,7 +2561,9 @@
   "stars": 2,
   "language": "Java",
   "description": "Maintenance repository for GraalVM Community for JDK 17",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
@@ -2731,10 +2751,12 @@
   "full_name": "graalvm/llvm-project",
   "url": "https://github.com/graalvm/llvm-project",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "LLVM",
   "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-  "first_seen": "2026-11-01 21:17:31"
+  "license": null,
+  "first_seen": "2026-11-01 21:17:31",
+  "last_verified": "2026-11-14 21:04:58"
  },
  {
   "vendor": "Oracle",
