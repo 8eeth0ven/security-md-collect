@@ -104,7 +104,7 @@
   "full_name": "aws/context-ontology-accelerator",
   "url": "https://github.com/aws/context-ontology-accelerator",
   "sec_path": "SECURITY.md",
-  "stars": 1121,
+  "stars": 1123,
   "language": "Python",
   "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
   "first_seen": "2026-11-01 18:15:10"
@@ -1009,6 +1009,17 @@
  },
  {
   "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-Agentic-Ai-Data-Operations",
+  "url": "https://github.com/aws-samples/sample-Agentic-Ai-Data-Operations",
+  "sec_path": "docs/security.md",
+  "stars": 39,
+  "language": "Python",
+  "description": "Agentic Data Onboarding Platform(ADOP) — an AI-driven system that automates Silver→Bronze→Gold data pipeline lifecycle (ETL scripts, quality checks, Airflow DAG…",
+  "first_seen": "2026-11-01 18:18:41"
+ },
+ {
+  "vendor": "亚马逊",
   "org": "awslabs",
   "full_name": "awslabs/unified-kg-rag-on-aws",
   "url": "https://github.com/awslabs/unified-kg-rag-on-aws",
@@ -1028,17 +1039,6 @@
   "language": "HCL",
   "description": "A QuickSight dashboard for containers cost allocation based on data from Kubecost",
   "first_seen": "2026-11-01 18:24:36"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-Agentic-Ai-Data-Operations",
-  "url": "https://github.com/aws-samples/sample-Agentic-Ai-Data-Operations",
-  "sec_path": "docs/security.md",
-  "stars": 38,
-  "language": "Python",
-  "description": "Agentic Data Onboarding Platform(ADOP) — an AI-driven system that automates Silver→Bronze→Gold data pipeline lifecycle (ETL scripts, quality checks, Airflow DAG…",
-  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
@@ -1286,6 +1286,17 @@
  {
   "vendor": "亚马逊",
   "org": "aws-samples",
+  "full_name": "aws-samples/sample-agentic-coding-harness-benchmarks",
+  "url": "https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks",
+  "sec_path": "SECURITY.md",
+  "stars": 22,
+  "language": "Python",
+  "description": "Run Claude Code with any foundation model on Amazon Bedrock (43 models) or a self-hosted model on EC2. Includes a HumanEval benchmark.",
+  "first_seen": "2026-11-01 18:18:41"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
   "full_name": "aws-samples/automated-devops-ai-toolkit",
   "url": "https://github.com/aws-samples/automated-devops-ai-toolkit",
   "sec_path": "SECURITY.md",
@@ -1315,17 +1326,6 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:16:12"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-agentic-coding-harness-benchmarks",
-  "url": "https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks",
-  "sec_path": "SECURITY.md",
-  "stars": 21,
-  "language": "Python",
-  "description": "Run Claude Code with any foundation model on Amazon Bedrock (43 models) or a self-hosted model on EC2. Includes a HumanEval benchmark.",
-  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
@@ -4721,5 +4721,29 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-13 12:05:58"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-Hadoop-to-Spark-AgenticAI-Converter",
+  "url": "https://github.com/aws-samples/sample-Hadoop-to-Spark-AgenticAI-Converter",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-13 18:06:42"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-offline-windows-server-upgrade-for-mgn",
+  "url": "https://github.com/aws-samples/sample-offline-windows-server-upgrade-for-mgn",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-13 18:06:42"
  }
 ]
