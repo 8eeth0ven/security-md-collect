@@ -9772,6 +9772,82 @@ AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/.g
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/.github,https://github.com/aws-actions/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,deepjavalibrary,deepjavalibrary/.github,https://github.com/deepjavalibrary/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/.github,https://github.com/strands-agents/.github,,,SECURITY.md,
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pghoard,https://github.com/Aiven-Open/pghoard,1428,Python,SECURITY.md,PostgreSQL® backup and restore service
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/karapace,https://github.com/Aiven-Open/karapace,641,Python,SECURITY.md,Karapace - Your Apache Kafka® essentials in one tool
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/tiered-storage-for-apache-kafka,https://github.com/Aiven-Open/tiered-storage-for-apache-kafka,248,Java,SECURITY.md,RemoteStorageManager for Apache Kafka® Tiered Storage
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/klaw,https://github.com/Aiven-Open/klaw,198,Java,SECURITY.md,"Klaw, the latest OS tool by Aiven, helps enterprises cope with Apache Kafka(r) topics, schema registry and connectors governance by introducing roles/authorizat…"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pglookout,https://github.com/Aiven-Open/pglookout,194,Python,SECURITY.md,PostgreSQL replication monitoring and failover daemon
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pgtracer,https://github.com/Aiven-Open/pgtracer,160,Python,SECURITY.md,"Tracing tools for PostgreSQL, using eBPF"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/terraform-provider-aiven,https://github.com/aiven/terraform-provider-aiven,133,Go,SECURITY.md,Aiven Terraform Provider
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/http-connector-for-apache-kafka,https://github.com/Aiven-Open/http-connector-for-apache-kafka,120,Java,SECURITY.md,Apache Kafka Connect sink connector for HTTP
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/jdbc-connector-for-apache-kafka,https://github.com/Aiven-Open/jdbc-connector-for-apache-kafka,113,Java,SECURITY.md,Aiven's JDBC Sink and Source Connectors for Apache Kafka®
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/myhoard,https://github.com/Aiven-Open/myhoard,97,Python,SECURITY.md,MySQL Backup and Point-in-time Recovery service
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/opensearch-connector-for-apache-kafka,https://github.com/Aiven-Open/opensearch-connector-for-apache-kafka,96,Java,SECURITY.md,Aiven's OpenSearch® Connector for Apache Kafka®
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-client,https://github.com/aiven/aiven-client,92,Python,SECURITY.md,aiven-client (avn) is the official command-line client for Aiven
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/transforms-for-apache-kafka-connect,https://github.com/Aiven-Open/transforms-for-apache-kafka-connect,91,Java,SECURITY.md,Aiven's collection of Single Message Transformations (SMTs) for Apache Kafka Connect
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/s3-connector-for-apache-kafka,https://github.com/Aiven-Open/s3-connector-for-apache-kafka,71,Java,SECURITY.md,Aiven's S3 Sink Connector for Apache Kafka®
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/gcs-connector-for-apache-kafka,https://github.com/Aiven-Open/gcs-connector-for-apache-kafka,70,Java,SECURITY.md,Aiven's GCS Sink Connector for Apache Kafka®
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/journalpump,https://github.com/Aiven-Open/journalpump,62,Python,SECURITY.md,"systemd journald to aws_cloudwatch, elasticsearch, google cloud logging, kafka, rsyslog or logplex log sender"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/devportal,https://github.com/aiven/devportal,59,PLpgSQL,SECURITY.md,Resources for users of the projects on the Aiven platform
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/cloud-storage-connectors-for-apache-kafka,https://github.com/Aiven-Open/cloud-storage-connectors-for-apache-kafka,59,Java,SECURITY.md,Repository containing Cloud Storage Connectors for Apache Kafka®
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-examples,https://github.com/aiven/aiven-examples,40,HCL,SECURITY.md,"Aiven ""getting started"" code examples"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-operator,https://github.com/aiven/aiven-operator,37,Go,SECURITY.md,Provision and manage Aiven Services from your Kubernetes cluster.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/astacus,https://github.com/Aiven-Open/astacus,37,Python,SECURITY.md,Clustered database backup
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/tsc-output-parser,https://github.com/Aiven-Open/tsc-output-parser,34,TypeScript,SECURITY.md,Parses errors from tsc output to a structured JSON format 
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/mcp-aiven,https://github.com/Aiven-Open/mcp-aiven,28,TypeScript,SECURITY.md,Model Context Protocol server for Aiven
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-db-migrate,https://github.com/aiven/aiven-db-migrate,25,Python,SECURITY.md,
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/kio,https://github.com/Aiven-Open/kio,25,Python,.github/SECURITY.md,Python data types for the Apache Kafka® Protocol.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/guardian-for-apache-kafka,https://github.com/Aiven-Open/guardian-for-apache-kafka,23,HTML,SECURITY.md,"Set of tools for creating backups, compaction and restoration of Apache Kafka® Clusters"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-docs,https://github.com/aiven/aiven-docs,22,TypeScript,SECURITY.md,The repository for the public documentation.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-extras,https://github.com/aiven/aiven-extras,22,PLpgSQL,SECURITY.md,Aiven PostgreSQL® extras
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-go-client,https://github.com/aiven/aiven-go-client,21,Go,SECURITY.md,Aiven Golang API Client
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/rohmu,https://github.com/Aiven-Open/rohmu,21,Python,SECURITY.md,Python library for database backups
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/encrypted-repository-opensearch,https://github.com/Aiven-Open/encrypted-repository-opensearch,16,Java,SECURITY.md,Client side encryption plugin for OpenSearch
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/aiven-mysql-migrate,https://github.com/Aiven-Open/aiven-mysql-migrate,14,Python,SECURITY.md,MySQL® migration tool
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/metadata-parser,https://github.com/Aiven-Open/metadata-parser,14,Python,SECURITY.md,A python tool scraping Aiven services metadata and building a connected graph
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pghostile,https://github.com/Aiven-Open/pghostile,12,Python,SECURITY.md,Pghostile is a tool to automate the exploitation of PostgreSQL® specific vulnerabilities that could lead to privilege escalation. It can be used to identify sec…
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/elasticsearch-connector-for-apache-kafka,https://github.com/Aiven-Open/elasticsearch-connector-for-apache-kafka,9,Java,SECURITY.md,Apache Kafka Connect sink connector for Elasticsearch
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/bigquery-connector-for-apache-flink,https://github.com/aiven/bigquery-connector-for-apache-flink,8,Java,SECURITY.md,Apache Flink® connector for BigQuery
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/aiven-pg-security,https://github.com/Aiven-Open/aiven-pg-security,8,C,SECURITY.md,Aiven PostgreSQL® add-on for adding some DBaaS security 
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/testcontainers-fake-gcs-server,https://github.com/Aiven-Open/testcontainers-fake-gcs-server,8,Java,SECURITY.md,The Testcontainers wrapper for https://github.com/fsouza/fake-gcs-server
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/go-client-codegen,https://github.com/aiven/go-client-codegen,7,Go,SECURITY.md,A code generated Go client for Aiven API
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/telegraf,https://github.com/aiven/telegraf,5,Go,SECURITY.md,The plugin-driven server agent for collecting & reporting metrics.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/slack-connector-for-apache-flink,https://github.com/Aiven-Open/slack-connector-for-apache-flink,5,Java,SECURITY.md,Apache Flink® connector for Slack
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/kafka,https://github.com/aiven/kafka,4,Java,SECURITY.md,Mirror of Apache Kafka
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/aiven-kafka-restore,https://github.com/Aiven-Open/aiven-kafka-restore,4,Python,SECURITY.md,Aiven Kafka Restore Utility
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/ClickHouse,https://github.com/aiven/ClickHouse,3,C++,SECURITY.md,ClickHouse® is a free analytics DBMS for big data
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/auth-for-apache-kafka,https://github.com/Aiven-Open/auth-for-apache-kafka,3,Java,SECURITY.md,Aiven Authentication and Authorization Plugins for Apache Kafka®
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/Aiven-apache-kafka-governance-compliance-checker-for-terraform,https://github.com/Aiven-Open/Aiven-apache-kafka-governance-compliance-checker-for-terraform,2,Go,SECURITY.md,Check whether the resources from aiven terraform provider comply with aiven governance rules
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/aiven-skills-bundle,https://github.com/Aiven-Open/aiven-skills-bundle,2,Java,SECURITY.md,"A curated collection of AI-ready skills for Aiven. This repository enables developers to manage, monitor, and scale Aiven-managed data services directly through…"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/kraft-last-standing,https://github.com/Aiven-Open/kraft-last-standing,2,Python,.github/SECURITY.md,Recover an Apache Kafka® KRaft cluster that has permanently lost controller quorum.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/rpm-s3-mirror,https://github.com/Aiven-Open/rpm-s3-mirror,2,Python,SECURITY.md,
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-ai-plugins,https://github.com/aiven/aiven-ai-plugins,1,,SECURITY.md,A plugin for Claude and Cursor for managing services and building applications with Aiven services.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/aiven-tools,https://github.com/aiven/aiven-tools,1,Python,SECURITY.md,Miscellaneous tools that can be used with Aiven
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/debezium-moneyconverter,https://github.com/aiven/debezium-moneyconverter,1,Java,SECURITY.md,
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/go-api-schemas,https://github.com/aiven/go-api-schemas,1,Go,SECURITY.md,A tool for generating and persisting user configuration option schemas from Aiven APIs
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/ai-gateway-cli,https://github.com/Aiven-Open/ai-gateway-cli,1,Go,SECURITY.md,"Launch AI coding tools (Claude Code, Codex, OpenCode, pi, OMP) through Aiven AI Gateway"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/aiven-kafka-connector-framework,https://github.com/Aiven-Open/aiven-kafka-connector-framework,1,Java,SECURITY.md,A collection of utilities and interfaces to simplify the building and homogenization of sink/source pairs of connectors.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/influxql-to-m3-dashboard-converter,https://github.com/Aiven-Open/influxql-to-m3-dashboard-converter,1,Python,SECURITY.md,Grafana® dashboard converter tool to convert InfluxQL® using dashboards to use M3 (subset of) PromQL™ instead. 
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/salesforce-connector-for-apache-kafka,https://github.com/Aiven-Open/salesforce-connector-for-apache-kafka,1,Java,SECURITY.md,This is a Kafka Source Connector developed to retrieve data from Salesforce and add it as events to Kafka 
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/OpenSearch,https://github.com/aiven/OpenSearch,0,Java,SECURITY.md,🔎 Open source distributed and RESTful search engine.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/alertmanager,https://github.com/aiven/alertmanager,0,Go,SECURITY.md,Prometheus Alertmanager
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/azure-sdk-for-cpp,https://github.com/aiven/azure-sdk-for-cpp,0,C++,SECURITY.md,This repository is for active development of the Azure SDK for C++.  For consumers of the SDK we recommend visiting our versioned developer docs at https://azur…
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/azure-sdk-for-python,https://github.com/aiven/azure-sdk-for-python,0,Python,SECURITY.md,This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.…
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/botocore,https://github.com/aiven/botocore,0,Python,.github/SECURITY.md,"The low-level, core functionality of boto 3."
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/commercial-marketplace-client-python,https://github.com/aiven/commercial-marketplace-client-python,0,Python,SECURITY.md,The Microsoft commercial marketplace SaaS offer billing SDK enables Partners and Startups to build the requirements for the implementation of transactable SaaS …
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/go-utils,https://github.com/aiven/go-utils,0,Go,SECURITY.md,Go utils that are used in other Aiven Go projects
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/influxdb,https://github.com/aiven/influxdb,0,Go,SECURITY.md,"Scalable datastore for metrics, events, and real-time analytics"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/list,https://github.com/aiven/list,0,Go,SECURITY.md,The Public Suffix List
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/redis,https://github.com/aiven/redis,0,C,SECURITY.md,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted…"
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/tfprovidertestfmt,https://github.com/aiven/tfprovidertestfmt,0,Go,SECURITY.md,DEPRECATED. Small tool to `terraform fmt` embedded manifests for acceptance testing
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/aiven-commons,https://github.com/Aiven-Open/aiven-commons,0,Shell,SECURITY.md,Collection of Java utilities for Kafka connector other use.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/aiven-string-replacer-for-grafana,https://github.com/Aiven-Open/aiven-string-replacer-for-grafana,0,Go,SECURITY.md,Small tool that replaces strings in marshalled dashboards. It is handy if you want to replace a metric expression that occurs more than once or if a metric was …
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/amqp-connector-for-apache-kafka,https://github.com/Aiven-Open/amqp-connector-for-apache-kafka,0,Java,SECURITY.md,The AMQP Connector project
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/colligate,https://github.com/Aiven-Open/colligate,0,Rust,SECURITY.md,Extract a flat image from internal podman overlay storage
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/common-util,https://github.com/Aiven-Open/common-util,0,Java,SECURITY.md,Common Java utilities for Aiven projects.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/kafka-config,https://github.com/Aiven-Open/kafka-config,0,Java,SECURITY.md,Utilities to help manage Kafka configuration and configuration definitions
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/kafka-testkit,https://github.com/Aiven-Open/kafka-testkit,0,Java,SECURITY.md,Integration testkit for Kafka connector projects.
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pulverize,https://github.com/Aiven-Open/pulverize,0,Rust,SECURITY.md,break a large file in smaller chunks
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/.github,https://github.com/auth0/.github,,,.github/SECURITY.md,
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/auth0-php,https://github.com/auth0/auth0-php,,,.github/SECURITY.md,
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/nextjs-auth0,https://github.com/auth0/nextjs-auth0,,,SECURITY.md,
@@ -9785,13 +9861,58 @@ Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/sdk-
 Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/server,https://github.com/bitwarden/server,,,SECURITY.md,
 Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink,https://github.com/smartcontractkit/chainlink,,,SECURITY.md,
 Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink-solana,https://github.com/smartcontractkit/chainlink-solana,,,SECURITY.md,
-Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-blockchain,https://github.com/Chia-Network/chia-blockchain,,,SECURITY.md,
-Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-blockchain-gui,https://github.com/Chia-Network/chia-blockchain-gui,,,SECURITY.md,
-Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia_rs,https://github.com/Chia-Network/chia_rs,,,SECURITY.md,
-Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chiapos,https://github.com/Chia-Network/chiapos,,,SECURITY.md,
-Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chiavdf,https://github.com/Chia-Network/chiavdf,,,SECURITY.md,
-Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/clvm_rs,https://github.com/Chia-Network/clvm_rs,,,SECURITY.md,
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickHouse,https://github.com/ClickHouse/ClickHouse,,,SECURITY.md,
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-blockchain,https://github.com/Chia-Network/chia-blockchain,10793,Python,SECURITY.md,"Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)"
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-blockchain-gui,https://github.com/Chia-Network/chia-blockchain-gui,343,TypeScript,SECURITY.md,Chia blockchain GUI in electron/react
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chiapos,https://github.com/Chia-Network/chiapos,269,HTML,SECURITY.md,Chia Proof of Space library
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/clvm_rs,https://github.com/Chia-Network/clvm_rs,76,Rust,SECURITY.md,Rust implementation of clvm
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chiavdf,https://github.com/Chia-Network/chiavdf,71,C++,SECURITY.md,Chia VDF utilities
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-gaming,https://github.com/Chia-Network/chia-gaming,66,TypeScript,SECURITY.md,
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia_rs,https://github.com/Chia-Network/chia_rs,33,Rust,SECURITY.md,Rust crate & wheel with consensus code
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-for-agents,https://github.com/Chia-Network/chia-for-agents,3,Python,SECURITY.md,
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/argon2-cffi,https://github.com/Chia-Network/argon2-cffi,0,Python,SECURITY.md,Secure Password Hashes for Python
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/blst,https://github.com/Chia-Network/blst,0,Assembly,SECURITY.md,Multilingual BLS12-381 signature library
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/dnspython,https://github.com/Chia-Network/dnspython,0,Python,SECURITY.md,a powerful DNS toolkit for python
+Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/miniupnp,https://github.com/Chia-Network/miniupnp,0,C,SECURITY.md,UPnP IGD implementation
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickHouse,https://github.com/ClickHouse/ClickHouse,50919,C++,SECURITY.md,ClickHouse® is a real-time analytics database management system
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickStack,https://github.com/ClickHouse/ClickStack,10035,TypeScript,SECURITY.md,"Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and Open…"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-java,https://github.com/ClickHouse/clickhouse-java,1632,Java,SECURITY.md,ClickHouse Java Clients & JDBC Driver
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-operator,https://github.com/ClickHouse/clickhouse-operator,317,Go,SECURITY.md,Official Kubernetes Operator for ClickHouse®
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/examples,https://github.com/ClickHouse/examples,233,Jupyter Notebook,SECURITY.md,A collection of examples for working and building with ClickHouse
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-kafka-connect,https://github.com/ClickHouse/clickhouse-kafka-connect,212,Java,SECURITY.md,ClickHouse Kafka Connector
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/loom,https://github.com/ClickHouse/loom,21,Python,SECURITY.md,"Shared long-term memory, document search and a code index for AI agents, linked to your code. Memories point at the files and symbols they're about and surface …"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/copier,https://github.com/ClickHouse/copier,15,C++,SECURITY.md,clickhouse-copier (obsolete)
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clicklisp,https://github.com/ClickHouse/clicklisp,8,Common Lisp,SECURITY.md,"A Common Lisp UDF runtime and query compiler for ClickHouse, shipped as a single binary."
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/DataflowTemplates,https://github.com/ClickHouse/DataflowTemplates,4,Java,SECURITY.md,Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/azure-sdk-for-cpp,https://github.com/ClickHouse/azure-sdk-for-cpp,1,C++,SECURITY.md,This repository is for active development of the Azure SDK for C++.  For consumers of the SDK we recommend visiting our versioned developer docs at https://azur…
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/docker-library-official-images,https://github.com/ClickHouse/docker-library-official-images,1,Shell,SECURITY.md,"Primary source of truth for the Docker ""Official Images"" program"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/envoy,https://github.com/ClickHouse/envoy,1,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/fast_float,https://github.com/ClickHouse/fast_float,1,C++,SECURITY.md,"Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, DuckDB, Chromium, Redis and…"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/google-protobuf,https://github.com/ClickHouse/google-protobuf,1,C++,SECURITY.md,Protocol Buffers - Google's data interchange format
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/isa-l,https://github.com/ClickHouse/isa-l,1,C,SECURITY.md,Intelligent Storage Acceleration Library
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/-shabroo,https://github.com/ClickHouse/-shabroo,0,C++,SECURITY.md,ClickHouse® is a free analytics DBMS for big data
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/CRoaring,https://github.com/ClickHouse/CRoaring,0,C,SECURITY.md,"Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, Alibaba Tair, Redpanda, YDB and StarRocks"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ai-gate,https://github.com/ClickHouse/ai-gate,0,Python,SECURITY.md,Block merge until a pull request has a clean AI review (Cursor Bugbot by default)
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/c-ares,https://github.com/ClickHouse/c-ares,0,C++,SECURITY.md,A C library for asynchronous DNS requests
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/curl,https://github.com/ClickHouse/curl,0,C,SECURITY.md,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS,…"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/cuvs,https://github.com/ClickHouse/cuvs,0,Cuda,SECURITY.md,cuVS - a library for vector search and clustering on the GPU
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/dd-trace-go,https://github.com/ClickHouse/dd-trace-go,0,Go,SECURITY.md,A Go tracing package for Datadog APM
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/docs-reference,https://github.com/ClickHouse/docs-reference,0,C++,SECURITY.md,ClickHouse® is a free analytics DBMS for big data
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/flatbuffers,https://github.com/ClickHouse/flatbuffers,0,C++,SECURITY.md,FlatBuffers: Memory Efficient Serialization Library
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/google-cloud-cpp,https://github.com/ClickHouse/google-cloud-cpp,0,C++,SECURITY.md,C++ Client Libraries for Google Cloud Services
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/helmcov,https://github.com/ClickHouse/helmcov,0,Go,SECURITY.md,Helm Unit Test Coverage Analysis
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ibis,https://github.com/ClickHouse/ibis,0,Python,SECURITY.md,The flexibility of Python with the scale and performance of modern SQL.
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/icu,https://github.com/ClickHouse/icu,0,C++,SECURITY.md,The home of the ICU project source code.
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/idna,https://github.com/ClickHouse/idna,0,C++,SECURITY.md,C++ library implementing the to_ascii and to_unicode functions from the Unicode Technical Standard.
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/idxd-config,https://github.com/ClickHouse/idxd-config,0,C,SECURITY.md,Accel-config / libaccel-config
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/json,https://github.com/ClickHouse/json,0,C++,.github/SECURITY.md,JSON for Modern C++
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/langchain,https://github.com/ClickHouse/langchain,0,Python,SECURITY.md,🦜🔗 Build context-aware reasoning applications
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/libarchive,https://github.com/ClickHouse/libarchive,0,C,SECURITY.md,Multi-format archive and compression library
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/liburing,https://github.com/ClickHouse/liburing,0,C,SECURITY.md,Library providing helpers for the Linux kernel io_uring support
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/llama_index,https://github.com/ClickHouse/llama_index,0,Python,SECURITY.md,LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/llvm-project,https://github.com/ClickHouse/llvm-project,0,LLVM,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this …
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/lz4,https://github.com/ClickHouse/lz4,0,C,SECURITY.md,Extremely Fast Compression algorithm
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/monaco-sql-languages,https://github.com/ClickHouse/monaco-sql-languages,0,TypeScript,SECURITY.md,SQL languages for monaco-editor
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/nfpm,https://github.com/ClickHouse/nfpm,0,Go,SECURITY.md,"nFPM is Not FPM - a simple deb, rpm and apk packager written in Go"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,,,SECURITY.md,
 Discourse,公开平台范围（仅用于策略发现）,discourse,discourse/discourse,https://github.com/discourse/discourse,,,docs/SECURITY.md,
 Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/cli,https://github.com/DopplerHQ/cli,,,SECURITY.md,
