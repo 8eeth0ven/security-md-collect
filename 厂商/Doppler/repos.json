@@ -5,11 +5,50 @@
   "full_name": "DopplerHQ/cli",
   "url": "https://github.com/DopplerHQ/cli",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
+  "stars": 404,
+  "language": "Go",
+  "description": "The official CLI for interacting with your Doppler secrets and configuration.",
   "license": null,
   "first_seen": "2026-11-14 12:59:21",
   "last_verified": "2026-11-14 12:59:21"
+ },
+ {
+  "vendor": "Doppler",
+  "org": "DopplerHQ",
+  "full_name": "DopplerHQ/gitops-secrets-nodejs",
+  "url": "https://github.com/DopplerHQ/gitops-secrets-nodejs",
+  "sec_path": "SECURITY.md",
+  "stars": 27,
+  "language": "JavaScript",
+  "description": "GitOps encrypted secrets workflow for Node.js",
+  "license": null,
+  "first_seen": "2026-11-14 13:31:24",
+  "last_verified": "2026-11-14 13:31:24"
+ },
+ {
+  "vendor": "Doppler",
+  "org": "DopplerHQ",
+  "full_name": "DopplerHQ/winget-pkgs",
+  "url": "https://github.com/DopplerHQ/winget-pkgs",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "PowerShell",
+  "description": "The Microsoft community Windows Package Manager manifest repository",
+  "license": null,
+  "first_seen": "2026-11-14 13:31:32",
+  "last_verified": "2026-11-14 13:31:32"
+ },
+ {
+  "vendor": "Doppler",
+  "org": "DopplerHQ",
+  "full_name": "DopplerHQ/node-newrelic",
+  "url": "https://github.com/DopplerHQ/node-newrelic",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "JavaScript",
+  "description": "New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support,…",
+  "license": null,
+  "first_seen": "2026-11-14 13:31:24",
+  "last_verified": "2026-11-14 13:31:24"
  }
 ]

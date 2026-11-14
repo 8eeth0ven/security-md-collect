@@ -9913,17 +9913,50 @@ ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/l
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/lz4,https://github.com/ClickHouse/lz4,0,C,SECURITY.md,Extremely Fast Compression algorithm
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/monaco-sql-languages,https://github.com/ClickHouse/monaco-sql-languages,0,TypeScript,SECURITY.md,SQL languages for monaco-editor
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/nfpm,https://github.com/ClickHouse/nfpm,0,Go,SECURITY.md,"nFPM is Not FPM - a simple deb, rpm and apk packager written in Go"
-DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,,,SECURITY.md,
+DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,5229,Python,SECURITY.md,"Open-Source Unified Vulnerability Management, DevSecOps & ASPM"
+DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/defectdojo-mcp,https://github.com/DefectDojo/defectdojo-mcp,3,Python,SECURITY.md,"Official MCP server for DefectDojo open source: connect Claude, Cursor and other AI agents to your findings through the DefectDojo API"
+DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/earlylight,https://github.com/DefectDojo/earlylight,3,Go,SECURITY.md,"Early Light: one open source engine for emerging-vulnerability detectors, from DefectDojo"
+DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/kimi-code,https://github.com/DefectDojo/kimi-code,3,TypeScript,SECURITY.md,DefectDojo's hardened fork of MoonshotAI/kimi-code (baseline v0.34.0).
+DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/defectdojo-action,https://github.com/DefectDojo/defectdojo-action,1,TypeScript,SECURITY.md,The official GitHub Action for DefectDojo: import scan results into DefectDojo Pro or Community Edition.
+DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/agent-skills,https://github.com/DefectDojo/agent-skills,0,Shell,SECURITY.md,"Official DefectDojo skills for Claude Code. Query, triage, import and report on DefectDojo Pro vulnerability data. Requires DefectDojo Pro."
 Discourse,公开平台范围（仅用于策略发现）,discourse,discourse/discourse,https://github.com/discourse/discourse,,,docs/SECURITY.md,
-Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/cli,https://github.com/DopplerHQ/cli,,,SECURITY.md,
+Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/cli,https://github.com/DopplerHQ/cli,404,Go,SECURITY.md,The official CLI for interacting with your Doppler secrets and configuration.
+Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/gitops-secrets-nodejs,https://github.com/DopplerHQ/gitops-secrets-nodejs,27,JavaScript,SECURITY.md,GitOps encrypted secrets workflow for Node.js
+Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/winget-pkgs,https://github.com/DopplerHQ/winget-pkgs,2,PowerShell,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
+Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/node-newrelic,https://github.com/DopplerHQ/node-newrelic,0,JavaScript,SECURITY.md,"New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support,…"
 Electroneum Legacy Blockchain: EOL,公开平台范围（仅用于策略发现）,electroneum,electroneum/electroneum-sc,https://github.com/electroneum/electroneum-sc,,,SECURITY.md,
+European Space Agency (ESA) VDP,公开平台范围（仅用于策略发现）,ESA,esa/nse2,https://github.com/esa/nse2,4,Python,SECURITY.md,A containerized network simulation & emulation environment (nse2) with support for fluctuating connectivity.
 Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/mpc-lib,https://github.com/fireblocks/mpc-lib,,,SECURITY.md,
 GoCardless Bug Bounty Program,公开平台范围（仅用于策略发现）,gocardless,gocardless/.github,https://github.com/gocardless/.github,,,SECURITY.md,
-HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/react-datepicker,https://github.com/Hacker0x01/react-datepicker,,,SECURITY.md,
+HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/react-datepicker,https://github.com/Hacker0x01/react-datepicker,8390,TypeScript,SECURITY.md,A simple and reusable datepicker component for React
+HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/cube,https://github.com/Hacker0x01/cube,0,Rust,SECURITY.md,"📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics"
+HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/cube-internal,https://github.com/Hacker0x01/cube-internal,0,Rust,SECURITY.md,"📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics"
+HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/migration-lock-timeout,https://github.com/Hacker0x01/migration-lock-timeout,0,Ruby,SECURITY.md,A Ruby gem that adds a lock timeout to Active Record migrations
+HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/ocsf-emitter,https://github.com/Hacker0x01/ocsf-emitter,0,Python,SECURITY.md,
 Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/ts-immutable-sdk,https://github.com/immutable/ts-immutable-sdk,,,SECURITY.md,
-Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kChat,https://github.com/Infomaniak/desktop-kChat,,,SECURITY.md,
-Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kDrive,https://github.com/Infomaniak/desktop-kDrive,,,SECURITY.md,
-Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kMeet,https://github.com/Infomaniak/desktop-kMeet,,,SECURITY.md,
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kDrive,https://github.com/Infomaniak/desktop-kDrive,124,C++,SECURITY.md,:computer: Desktop Syncing Client for kDrive
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/android-kSync,https://github.com/Infomaniak/android-kSync,25,Kotlin,SECURITY.md,Fork of DAVx⁵ with Infomaniak login and branding
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/kchat-webapp_old,https://github.com/Infomaniak/kchat-webapp_old,14,TypeScript,SECURITY.md,
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/mobile-kchat,https://github.com/Infomaniak/mobile-kchat,11,TypeScript,SECURITY.md,Fork of Mattermost mobile modified for integration in the Infomaniak ecosystem 
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/design-system,https://github.com/Infomaniak/design-system,6,TypeScript,SECURITY.md,
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/hoppscotch,https://github.com/Infomaniak/hoppscotch,4,TypeScript,SECURITY.md,"Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/LibreChat,https://github.com/Infomaniak/LibreChat,3,TypeScript,.github/SECURITY.md,"Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Arti…"
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/vllm,https://github.com/Infomaniak/vllm,2,Python,SECURITY.md,A high-throughput and memory-efficient inference and serving engine for LLMs
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kChat,https://github.com/Infomaniak/desktop-kChat,1,TypeScript,SECURITY.md,"kChat Desktop application for Windows, Mac and Linux"
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kMeet,https://github.com/Infomaniak/desktop-kMeet,1,TypeScript,SECURITY.md,kMeet desktop application powered by :electron:
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/Laravel-GitLab,https://github.com/Infomaniak/Laravel-GitLab,1,PHP,.github/SECURITY.md,A GitLab API bridge for Laravel
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/dovecot-core,https://github.com/Infomaniak/dovecot-core,1,C,SECURITY.md,Dovecot mail server
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/infomaniak-connect-openid,https://github.com/Infomaniak/infomaniak-connect-openid,1,PHP,SECURITY.md,
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/mattermost,https://github.com/Infomaniak/mattermost,1,TypeScript,SECURITY.md,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/octane,https://github.com/Infomaniak/octane,1,PHP,.github/SECURITY.md,Supercharge your Laravel application's performance.
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/tuist,https://github.com/Infomaniak/tuist,1,Swift,SECURITY.md,A virtual platform team for mobile devs who ship 
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/vitess,https://github.com/Infomaniak/vitess,1,Go,SECURITY.md,Vitess is a database clustering system for horizontal scaling of MySQL.
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/webapp-kChat,https://github.com/Infomaniak/webapp-kChat,1,TypeScript,SECURITY.md,kChat is an open source platform for secure collaboration across the entire software development lifecycle..
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/jibri,https://github.com/Infomaniak/jibri,0,Kotlin,SECURITY.md,Jitsi BRoadcasting Infrastructure
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/mattermost-desktop,https://github.com/Infomaniak/mattermost-desktop,0,TypeScript,SECURITY.md,"Mattermost Desktop application for Windows, Mac and Linux"
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/mqtt-nio,https://github.com/Infomaniak/mqtt-nio,0,Swift,SECURITY.md,A Swift NIO MQTT v3.1.1 and v5.0 Client
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/paperclip,https://github.com/Infomaniak/paperclip,0,TypeScript,SECURITY.md,Open-source orchestration for zero-human companies
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/wg-portal,https://github.com/Infomaniak/wg-portal,0,Go,SECURITY.md,WireGuard Configuration Portal with LDAP connection
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-client,kubernetes-client/.github,https://github.com/kubernetes-client/.github,,,SECURITY.md,
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/.github,https://github.com/kubernetes-sigs/.github,,,SECURITY.md,
 Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,buildonspark,buildonspark/spark,https://github.com/buildonspark/spark,,,SECURITY.md,
@@ -9947,7 +9980,7 @@ Nextcloud,公开平台范围（仅用于策略发现）,roundcube,roundcube/roun
 Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/.github,https://github.com/nodejs/.github,,,SECURITY.md,
 Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/node,https://github.com/nodejs/node,,,SECURITY.md,
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/oasis-core,https://github.com/oasisprotocol/oasis-core,,,docs/SECURITY.md,
-Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/.github,https://github.com/OctopusDeploy/.github,,,SECURITY.md,
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/.github,https://github.com/OctopusDeploy/.github,,,SECURITY.md,| Public |  This is the home repository for the https://github.com/OctopusDeploy organization.
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy,https://github.com/omacom/omarchy,,,.github/SECURITY.md,
 OpenMage,公开平台范围（仅用于策略发现）,OpenMage,OpenMage/magento-lts,https://github.com/OpenMage/magento-lts,,,.github/SECURITY.md,
 PagerDuty,公开平台范围（仅用于策略发现）,rundeck,rundeck/rundeck,https://github.com/rundeck/rundeck,,,SECURITY.md,
