@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-14T06:35:24+00:00",
+  "generated_at": "2026-11-14T07:05:24+00:00",
   "security_md": {
     "mapped_vendors": 304,
     "mapped_accounts": 385,
-    "policy_records": 10151,
-    "local_documents": 10151,
+    "policy_records": 10186,
+    "local_documents": 10186,
     "default_policy_repositories": 104,
     "global_coverage_percent": null,
     "limits": [
@@ -12,9 +12,9 @@
       "Account default documents are counted once, not expanded across inheriting repos.",
       "Successful listing does not prove all upstream repositories were enumerated."
     ],
-    "known_catalog_repositories": 61288,
-    "checked_in_known_catalog": 60565,
-    "never_checked_in_known_catalog": 723,
+    "known_catalog_repositories": 62326,
+    "checked_in_known_catalog": 60980,
+    "never_checked_in_known_catalog": 1346,
     "accounts_with_listing_failures": 0,
     "accounts_with_truncated_search": 0,
     "historical_error_rechecks": {

@@ -9785,6 +9785,7 @@ Spotify,自建BB,spotify,spotify/volcano,https://github.com/spotify/volcano,2,Go
 Spotify,自建BB,spotify,spotify/confidence-metrics-sync,https://github.com/spotify/confidence-metrics-sync,1,Go,SECURITY.md,Manage Confidence metrics as code with YAML and GitHub Actions
 Spotify,自建BB,spotify,spotify/argo-cd,https://github.com/spotify/argo-cd,0,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 Spotify,自建BB,spotify,spotify/bazel,https://github.com/spotify/bazel,0,Java,SECURITY.md,"a fast, scalable, multi-language and extensible build system"
+AWS VDP,公开平台范围（仅用于策略发现）,deepjavalibrary,deepjavalibrary/djl-serving,https://github.com/deepjavalibrary/djl-serving,257,Java,SECURITY.md,A universal scalable machine learning model deployment solution
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/vulnerability-scan-github-action-for-amazon-inspector,https://github.com/aws-actions/vulnerability-scan-github-action-for-amazon-inspector,60,Python,SECURITY.md,Scan artifacts with Amazon Inspector from GitHub Actions workflows.
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/codeguru-security,https://github.com/aws-actions/codeguru-security,12,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/smart-restart,https://github.com/amazonlinux/smart-restart,8,Shell,SECURITY.md,
@@ -9997,13 +9998,44 @@ ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/l
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/lz4,https://github.com/ClickHouse/lz4,0,C,SECURITY.md,Extremely Fast Compression algorithm
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/monaco-sql-languages,https://github.com/ClickHouse/monaco-sql-languages,0,TypeScript,SECURITY.md,SQL languages for monaco-editor
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/nfpm,https://github.com/ClickHouse/nfpm,0,Go,SECURITY.md,"nFPM is Not FPM - a simple deb, rpm and apk packager written in Go"
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/terraform-provider-databricks,https://github.com/databricks/terraform-provider-databricks,618,Go,SECURITY.md,Databricks Terraform Provider
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/databricks-sdk-py,https://github.com/databricks/databricks-sdk-py,576,Python,SECURITY.md,Databricks SDK for Python (Beta)
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/cli,https://github.com/databricks/cli,431,Go,SECURITY.md,Databricks CLI
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/terraform-databricks-sra,https://github.com/databricks/terraform-databricks-sra,224,HCL,SECURITY.md,The Security Reference Architecture (SRA) with Terraform enables deployment of Databricks workspaces and cloud infrastructure configured with security best prac…
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/databricks-vscode,https://github.com/databricks/databricks-vscode,183,TypeScript,SECURITY.md,VS Code extension for Databricks
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/zerobus-sdk,https://github.com/databricks/zerobus-sdk,95,Rust,SECURITY.md,Databricks's Zerobus Ingest SDKs
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/databricks-sdk-go,https://github.com/databricks/databricks-sdk-go,84,Go,SECURITY.md,Databricks SDK for Go
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/databricks-sql-go,https://github.com/databricks/databricks-sql-go,54,Go,SECURITY.md,Golang database/sql driver for Databricks SQL.
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/zerobus-sdk-py,https://github.com/databricks/zerobus-sdk-py,33,Python,SECURITY.md,Zerobus SDK for Python
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/pig-on-spark,https://github.com/databricks/pig-on-spark,29,Scala,docs/security.md,proof-of-concept implementation of Pig-on-Spark integrated at the logical node level
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/zerobus-sdk-java,https://github.com/databricks/zerobus-sdk-java,19,Java,SECURITY.md,Zerobus SDK for Java
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/genie-code-cli,https://github.com/databricks/genie-code-cli,14,,SECURITY.md,Genie command-line coding agent
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/thanos,https://github.com/databricks/thanos,9,Go,SECURITY.md,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/zerobus-sdk-go,https://github.com/databricks/zerobus-sdk-go,6,Go,SECURITY.md,Zerobus SDK for Go
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/sdk-js,https://github.com/databricks/sdk-js,5,TypeScript,SECURITY.md,Databricks Modular SDKs for JavaScript
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/zerobus-sdk-ts,https://github.com/databricks/zerobus-sdk-ts,5,Rust,SECURITY.md,Zerobus SDK for TypeScript
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/bazel,https://github.com/databricks/bazel,2,Java,SECURITY.md,"Correct, reproducible, and fast builds for everyone."
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/vector,https://github.com/databricks/vector,2,Rust,SECURITY.md,A high-performance observability data pipeline.
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/alertmanager,https://github.com/databricks/alertmanager,1,Go,SECURITY.md,Prometheus Alertmanager
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/databricks-sql-kernel-bindings,https://github.com/databricks/databricks-sql-kernel-bindings,1,Go,SECURITY.md,
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/environments,https://github.com/databricks/environments,1,,SECURITY.md,Per-compute dependency constraint artifacts (pyproject.toml / constraints.txt) for Databricks runtimes
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/jackson-module-scala,https://github.com/databricks/jackson-module-scala,1,Scala,SECURITY.md,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/api-linter,https://github.com/databricks/api-linter,0,Go,SECURITY.md,A linter for APIs defined in protocol buffers.
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/bootstrap,https://github.com/databricks/bootstrap,0,JavaScript,SECURITY.md,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/brew,https://github.com/databricks/brew,0,Ruby,SECURITY.md,🍺 The missing package manager for macOS (or Linux)
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/datableio-datable.io,https://github.com/databricks/datableio-datable.io,0,HTML,SECURITY.md,
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/django-rest-framework,https://github.com/databricks/django-rest-framework,0,Python,SECURITY.md,Web APIs for Django. 🎸
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/jsonschema,https://github.com/databricks/jsonschema,0,Python,.github/SECURITY.md,An implementation of the JSON Schema specification for Python
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/mssql-docker,https://github.com/databricks/mssql-docker,0,Dockerfile,SECURITY.md,Official Microsoft repository for SQL Server in Docker resources
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/superset,https://github.com/databricks/superset,0,TypeScript,.github/SECURITY.md,Apache Superset is a Data Visualization and Data Exploration Platform
+Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/tailscale,https://github.com/databricks/tailscale,0,Go,SECURITY.md,"The easiest, most secure way to use WireGuard and 2FA."
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,5229,Python,SECURITY.md,"Open-Source Unified Vulnerability Management, DevSecOps & ASPM"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/defectdojo-mcp,https://github.com/DefectDojo/defectdojo-mcp,3,Python,SECURITY.md,"Official MCP server for DefectDojo open source: connect Claude, Cursor and other AI agents to your findings through the DefectDojo API"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/earlylight,https://github.com/DefectDojo/earlylight,3,Go,SECURITY.md,"Early Light: one open source engine for emerging-vulnerability detectors, from DefectDojo"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/kimi-code,https://github.com/DefectDojo/kimi-code,3,TypeScript,SECURITY.md,DefectDojo's hardened fork of MoonshotAI/kimi-code (baseline v0.34.0).
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/defectdojo-action,https://github.com/DefectDojo/defectdojo-action,1,TypeScript,SECURITY.md,The official GitHub Action for DefectDojo: import scan results into DefectDojo Pro or Community Edition.
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/agent-skills,https://github.com/DefectDojo/agent-skills,0,Shell,SECURITY.md,"Official DefectDojo skills for Claude Code. Query, triage, import and report on DefectDojo Pro vulnerability data. Requires DefectDojo Pro."
-Discourse,公开平台范围（仅用于策略发现）,discourse,discourse/discourse,https://github.com/discourse/discourse,,,docs/SECURITY.md,
+Discourse,公开平台范围（仅用于策略发现）,discourse,discourse/discourse,https://github.com/discourse/discourse,48083,Ruby,docs/SECURITY.md,"A platform for community discussion. Free, open, simple."
 Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/cli,https://github.com/DopplerHQ/cli,404,Go,SECURITY.md,The official CLI for interacting with your Doppler secrets and configuration.
 Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/gitops-secrets-nodejs,https://github.com/DopplerHQ/gitops-secrets-nodejs,27,JavaScript,SECURITY.md,GitOps encrypted secrets workflow for Node.js
 Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/winget-pkgs,https://github.com/DopplerHQ/winget-pkgs,2,PowerShell,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
@@ -10149,4 +10181,7 @@ Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/webl
 Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/fonts,https://github.com/WeblateOrg/fonts,1,CSS,SECURITY.md,Weblate fonts collection
 Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/arsc-writer,https://github.com/WeblateOrg/arsc-writer,0,Python,SECURITY.md,"A pure-Python library for generating Android resource tables (ARSC) with support for strings, plurals, and styled text."
 Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/docker-dev,https://github.com/WeblateOrg/docker-dev,0,JavaScript,SECURITY.md,
-curl,公开平台范围（仅用于策略发现）,curl,curl/curl,https://github.com/curl/curl,,,SECURITY.md,
+curl,公开平台范围（仅用于策略发现）,curl,curl/curl,https://github.com/curl/curl,43514,C,SECURITY.md,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS,…"
+curl,公开平台范围（仅用于策略发现）,curl,curl/trurl,https://github.com/curl/trurl,3367,Perl,SECURITY.md,a command line tool for URL parsing and manipulation.
+curl,公开平台范围（仅用于策略发现）,curl,curl/curl-for-win,https://github.com/curl/curl-for-win,800,Shell,SECURITY.md,"Reproducible, static, curl binaries for Linux, macOS and Windows"
+curl,公开平台范围（仅用于策略发现）,curl,curl/curl-container,https://github.com/curl/curl-container,109,Shell,SECURITY.md,curl images
