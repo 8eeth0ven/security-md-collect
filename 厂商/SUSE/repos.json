@@ -8,7 +8,9 @@
   "stars": 50,
   "language": "Ruby",
   "description": "RPM repository mirroring tool and registration proxy for SUSE Customer Center.",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -19,7 +21,9 @@
   "stars": 32,
   "language": "Go",
   "description": "A comprehensive platform for managing and proxying Model Context Protocol (MCP) servers, providing scalable AI service orchestration across multiple microservic…",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -55,7 +59,9 @@
   "stars": 14,
   "language": "C++",
   "description": "Ceph is a distributed object, block, and file storage platform ",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -66,7 +72,9 @@
   "stars": 8,
   "language": "Ruby",
   "description": "Backend application for geekos.io",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -103,7 +111,9 @@
   "stars": 4,
   "language": "Go",
   "description": "Mirror of Docker with SUSE patches as branches.",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -114,7 +124,9 @@
   "stars": 4,
   "language": "Go",
   "description": "File, Block, and Object Storage Services for your Cloud-Native Environment",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -125,7 +137,9 @@
   "stars": 3,
   "language": "Python",
   "description": "Fork of Authentik containing SUSE patches.",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -136,7 +150,9 @@
   "stars": 3,
   "language": "Go",
   "description": "Work with remote images registries - retrieving information, images, signing content",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -160,7 +176,9 @@
   "stars": 1,
   "language": "Ruby",
   "description": "Cloud Foundry buildpack for running Java applications",
-  "first_seen": "2026-11-01 17:17:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:17:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -168,10 +186,12 @@
   "full_name": "SUSE/docker-compose",
   "url": "https://github.com/SUSE/docker-compose",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Define and run multi-container applications with Docker",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -179,10 +199,12 @@
   "full_name": "SUSE/netbox-healthcheck-plugin",
   "url": "https://github.com/SUSE/netbox-healthcheck-plugin",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -190,10 +212,12 @@
   "full_name": "SUSE/nerdctl",
   "url": "https://github.com/SUSE/nerdctl",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -201,10 +225,12 @@
   "full_name": "SUSE/buildah",
   "url": "https://github.com/SUSE/buildah",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "A tool that facilitates building OCI images.",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -212,10 +238,12 @@
   "full_name": "SUSE/docker-cli",
   "url": "https://github.com/SUSE/docker-cli",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "The Docker CLI",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -223,10 +251,12 @@
   "full_name": "SUSE/podman",
   "url": "https://github.com/SUSE/podman",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Podman: A tool for managing OCI containers and pods.",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -234,10 +264,12 @@
   "full_name": "SUSE/container-libs",
   "url": "https://github.com/SUSE/container-libs",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Monorepository with libraries used by the containers projects.",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -245,10 +277,12 @@
   "full_name": "SUSE/buildkit",
   "url": "https://github.com/SUSE/buildkit",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -256,10 +290,12 @@
   "full_name": "SUSE/netavark",
   "url": "https://github.com/SUSE/netavark",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Rust",
   "description": "",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -267,10 +303,12 @@
   "full_name": "SUSE/kubernetes",
   "url": "https://github.com/SUSE/kubernetes",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Production-Grade Container Scheduling and Management",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -278,10 +316,12 @@
   "full_name": "SUSE/docker-buildx",
   "url": "https://github.com/SUSE/docker-buildx",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Docker CLI plugin for extended build capabilities with BuildKit",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",
@@ -289,10 +329,12 @@
   "full_name": "SUSE/runc",
   "url": "https://github.com/SUSE/runc",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "CLI tool for spawning and running containers according to the OCI specification",
-  "first_seen": "2026-11-01 17:16:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:16:58",
+  "last_verified": "2026-11-15 03:32:59"
  },
  {
   "vendor": "SUSE",

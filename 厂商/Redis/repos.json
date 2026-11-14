@@ -190,7 +190,9 @@
   "stars": 1,
   "language": "C++",
   "description": "Cloud-native high-performance edge/middle/service proxy",
-  "first_seen": "2026-11-01 17:13:48"
+  "license": null,
+  "first_seen": "2026-11-01 17:13:48",
+  "last_verified": "2026-11-15 03:32:04"
  },
  {
   "vendor": "Redis",
@@ -224,10 +226,12 @@
   "full_name": "RedisLabs/statsd_exporter",
   "url": "https://github.com/RedisLabs/statsd_exporter",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "StatsD to Prometheus metrics exporter",
-  "first_seen": "2026-11-01 17:13:48"
+  "license": null,
+  "first_seen": "2026-11-01 17:13:48",
+  "last_verified": "2026-11-15 03:32:04"
  },
  {
   "vendor": "Redis",
@@ -235,10 +239,12 @@
   "full_name": "RedisLabs/node_exporter",
   "url": "https://github.com/RedisLabs/node_exporter",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Exporter for machine metrics",
-  "first_seen": "2026-11-01 17:13:48"
+  "license": null,
+  "first_seen": "2026-11-01 17:13:48",
+  "last_verified": "2026-11-15 03:32:04"
  },
  {
   "vendor": "Redis",
@@ -246,10 +252,12 @@
   "full_name": "RedisLabs/exporter-toolkit",
   "url": "https://github.com/RedisLabs/exporter-toolkit",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Utility package to build exporters",
-  "first_seen": "2026-11-01 17:13:48"
+  "license": null,
+  "first_seen": "2026-11-01 17:13:48",
+  "last_verified": "2026-11-15 03:32:04"
  },
  {
   "vendor": "Redis",
@@ -257,9 +265,11 @@
   "full_name": "RedisLabs/discourse",
   "url": "https://github.com/RedisLabs/discourse",
   "sec_path": "docs/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "A platform for community discussion. Free, open, simple.",
-  "first_seen": "2026-11-01 17:13:48"
+  "license": null,
+  "first_seen": "2026-11-01 17:13:48",
+  "last_verified": "2026-11-15 03:32:04"
  }
 ]
