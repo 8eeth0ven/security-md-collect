@@ -289,17 +289,6 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/k8s-snap",
-  "url": "https://github.com/canonical/k8s-snap",
-  "sec_path": "SECURITY.md",
-  "stars": 118,
-  "language": "Python",
-  "description": "Canonical Kubernetes is an opinionated and CNCF conformant Kubernetes operated by Snaps and Charms, which come together to bring simplified operations and an en…",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/rockcraft",
   "url": "https://github.com/canonical/rockcraft",
   "sec_path": "SECURITY.md",
@@ -1077,6 +1066,19 @@
   "language": "Python",
   "description": "A Charmed Operator for running Ory Hydra on Kubernetes",
   "first_seen": "2026-11-01 18:40:27"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/k8s-snap",
+  "url": "https://github.com/canonical/k8s-snap",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Python",
+  "description": "Canonical Kubernetes is an opinionated and CNCF conformant Kubernetes operated by Snaps and Charms, which come together to bring simplified operations and an en…",
+  "license": null,
+  "first_seen": "2026-11-01 18:39:48",
+  "last_verified": "2026-11-14 19:04:57"
  },
  {
   "vendor": "Canonical",
@@ -1950,6 +1952,19 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/penpot-operator",
+  "url": "https://github.com/canonical/penpot-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "penpot-operator - charm repository.",
+  "license": null,
+  "first_seen": "2026-11-01 18:39:48",
+  "last_verified": "2026-11-14 19:04:57"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/craft-archives",
   "url": "https://github.com/canonical/craft-archives",
   "sec_path": "SECURITY.md",
@@ -1968,6 +1983,19 @@
   "language": "Python",
   "description": "Advanced grammar for parts",
   "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/ubuntu-motd-server-operator",
+  "url": "https://github.com/canonical/ubuntu-motd-server-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "> Ubuntu MOTD server operator",
+  "license": null,
+  "first_seen": "2026-11-01 18:39:48",
+  "last_verified": "2026-11-14 19:04:57"
  },
  {
   "vendor": "Canonical",
@@ -3204,17 +3232,6 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/penpot-operator",
-  "url": "https://github.com/canonical/penpot-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "penpot-operator - charm repository.",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/maubot-operator",
   "url": "https://github.com/canonical/maubot-operator",
   "sec_path": "SECURITY.md",
@@ -3287,17 +3304,6 @@
   "stars": 1,
   "language": "Python",
   "description": "tmate-ssh-server-operator - charm repository.",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/ubuntu-motd-server-operator",
-  "url": "https://github.com/canonical/ubuntu-motd-server-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "Ubuntu MOTD server operator",
   "first_seen": "2026-11-01 18:39:48"
  },
  {

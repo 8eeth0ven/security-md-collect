@@ -34,7 +34,9 @@
   "stars": 1356,
   "language": "TypeScript",
   "description": "Every AI Agent deserves a wallet.",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -58,7 +60,9 @@
   "stars": 869,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -76,13 +80,28 @@
  {
   "vendor": "Coinbase",
   "org": "coinbase",
+  "full_name": "coinbase/cb-mpc",
+  "url": "https://github.com/coinbase/cb-mpc",
+  "sec_path": "SECURITY.md",
+  "stars": 512,
+  "language": "C++",
+  "description": "Coinbase MPC Library",
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "coinbase",
   "full_name": "coinbase/cds",
   "url": "https://github.com/coinbase/cds",
   "sec_path": "SECURITY.md",
   "stars": 510,
   "language": "TypeScript",
   "description": "Coinbase Design System",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -93,7 +112,9 @@
   "stars": 490,
   "language": "Solidity",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -127,10 +148,12 @@
   "full_name": "coinbase/cdp-sdk",
   "url": "https://github.com/coinbase/cdp-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 210,
+  "stars": 211,
   "language": "Python",
   "description": "Client libraries for managing EVM and Solana wallets while relying on CDP to secure private keys.",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -154,7 +177,9 @@
   "stars": 182,
   "language": "TypeScript",
   "description": "A payments protocol for the internet. Built on HTTP.",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -165,7 +190,9 @@
   "stars": 128,
   "language": "JavaScript",
   "description": "npx skills add coinbase/agentic-wallet-skills",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -176,7 +203,9 @@
   "stars": 123,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -200,7 +229,9 @@
   "stars": 107,
   "language": "Solidity",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -224,7 +255,9 @@
   "stars": 95,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -248,7 +281,9 @@
   "stars": 60,
   "language": "TypeScript",
   "description": "The Coinbase Developer Platform (CDP) AgentKit for Node.js simplifies the process of bringing your AI agents on-chain.",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -259,7 +294,9 @@
   "stars": 59,
   "language": "TypeScript",
   "description": "An npx installer for the Payments MCP application.",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -270,7 +307,9 @@
   "stars": 43,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -281,7 +320,9 @@
   "stars": 42,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -292,7 +333,9 @@
   "stars": 38,
   "language": "Ruby",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -303,7 +346,9 @@
   "stars": 31,
   "language": "HTML",
   "description": "We would like to request that all contributors please clone a *fresh copy* of this repository since the September 21st maintenance.",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -314,7 +359,9 @@
   "stars": 27,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -325,7 +372,9 @@
   "stars": 26,
   "language": "JavaScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -336,7 +385,9 @@
   "stars": 21,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -373,7 +424,9 @@
   "stars": 17,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -384,7 +437,9 @@
   "stars": 17,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -421,7 +476,9 @@
   "stars": 13,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -432,7 +489,9 @@
   "stars": 12,
   "language": "Solidity",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -443,7 +502,9 @@
   "stars": 9,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -467,7 +528,22 @@
   "stars": 8,
   "language": "PHP",
   "description": "Coinbase Business Payment Link Gateway for Adobe Commerce / Magento 2 — Accept USDC payments",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "coinbase",
+  "full_name": "coinbase/.github",
+  "url": "https://github.com/coinbase/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": null,
+  "description": "Default community files",
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Coinbase",
@@ -478,7 +554,9 @@
   "stars": 5,
   "language": "TypeScript",
   "description": "CDP × AWS AgentCore - Next.js starter template that gives AgentCore developers a ready-to-fork wallet UI with Coinbase Developer Platform embedded wallets and a…",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -502,7 +580,9 @@
   "stars": 4,
   "language": "Java",
   "description": "Java SDK for the Coinbase Prime REST APIs",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -513,7 +593,22 @@
   "stars": 4,
   "language": "Go",
   "description": "Go SDK for the Coinbase Prime REST APIs",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "coinbase",
+  "full_name": "coinbase/cb-mpc-go",
+  "url": "https://github.com/coinbase/cb-mpc-go",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "Go",
+  "description": "\"demo/beta\" Go wrappers around cb-mpc",
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "Coinbase",
@@ -524,7 +619,9 @@
   "stars": 3,
   "language": "Shell",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -535,7 +632,9 @@
   "stars": 3,
   "language": "C",
   "description": "Optimized C library for EC operations on curve secp256k1",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -546,7 +645,9 @@
   "stars": 3,
   "language": "Python",
   "description": "Python SDK for the Coinbase Prime REST APIs",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -557,7 +658,9 @@
   "stars": 3,
   "language": "TypeScript",
   "description": "Repository of CDP Embedded Wallet demo apps.",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -568,7 +671,9 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -579,7 +684,9 @@
   "stars": 2,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -590,7 +697,9 @@
   "stars": 1,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -601,7 +710,9 @@
   "stars": 1,
   "language": "C#",
   "description": ".Net SDK for the Coinbase Prime REST APIs",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -612,7 +723,9 @@
   "stars": 1,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -623,20 +736,9 @@
   "stars": 1,
   "language": "Rust",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
- },
- {
-  "vendor": "Coinbase",
-  "org": "coinbase",
-  "full_name": "coinbase/cb-mpc",
-  "url": "https://github.com/coinbase/cb-mpc",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
   "first_seen": "2026-11-01 18:51:41",
-  "last_verified": "2026-11-14 13:00:45"
+  "last_verified": "2026-11-14 19:05:14"
  },
  {
   "vendor": "Coinbase",
@@ -644,10 +746,12 @@
   "full_name": "coinbase/core-java",
   "url": "https://github.com/coinbase/core-java",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Java",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -655,10 +759,12 @@
   "full_name": "coinbase/core-ts",
   "url": "https://github.com/coinbase/core-ts",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 18:51:41"
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
@@ -666,36 +772,12 @@
   "full_name": "coinbase/core-dotnet",
   "url": "https://github.com/coinbase/core-dotnet",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "C#",
   "description": "Coinbase .Net Core is a library that is used by other C# samples",
-  "first_seen": "2026-11-01 18:51:41"
- },
- {
-  "vendor": "Coinbase",
-  "org": "coinbase",
-  "full_name": "coinbase/cb-mpc-go",
-  "url": "https://github.com/coinbase/cb-mpc-go",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
   "first_seen": "2026-11-01 18:51:41",
-  "last_verified": "2026-11-14 13:00:45"
- },
- {
-  "vendor": "Coinbase",
-  "org": "coinbase",
-  "full_name": "coinbase/.github",
-  "url": "https://github.com/coinbase/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 18:51:41",
-  "last_verified": "2026-11-14 13:00:45"
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
