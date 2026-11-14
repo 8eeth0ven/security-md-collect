@@ -1,40 +1,15 @@
-# Security
+Security
+---------
+NVIDIA is dedicated to the security and trust of our software products and services, including all source code repositories managed through our organization.
 
-## Reporting Security Issues
+If you need to report a security issue, please use the appropriate contact points outlined below. Please do not report security vulnerabilities through GitHub/GitLab.
 
-> [!WARNING]
-> Do not report security vulnerabilities through public GitHub issues!
+Reporting Potential Security Vulnerability in NVIDIA cuOpt
+----------------------------------------------------------
+To report a potential security vulnerability in NVIDIA cuOpt:
 
-Instead, please submit a private vulnerability report, see below.
-
-## Reporting a Vulnerability
-
-1. **NVIDIA Vulnerability Disclosure Program (preferred)**
-   Submit through the NVIDIA Product Security Incident Response Team (PSIRT) web form (<https://www.nvidia.com/en-us/security/report-vulnerability/>)
-   This is the fastest path to triage and tracking.
-
-2. **Email NVIDIA PSIRT**
-   `psirt@nvidia.com` — encrypt sensitive reports with the
-   [NVIDIA PSIRT PGP key](https://www.nvidia.com/en-us/security/pgp-key).
-
-3. **GitHub Private Vulnerability Reporting**
-   Use the **Security and quality** tab on this repository → *Report a vulnerability*.
-
-## Report Details
-
-We prefer all communications to be in English.
-
-Reports should include the following:
-
-* reproducible example showing how the vulnerability can be exploited
-* statement about the impact (including affected versions)
-
-And we'd appreciate if they also include:
-
-* statement about whether you are interested in implementing the fix yourself
-
-## Disclosure Policy
-
-NVIDIA PSIRT will acknowledge receipt and coordinate triage, fix development, and coordinated disclosure.
-
-More on NVIDIA's response process: <https://www.nvidia.com/en-us/security/psirt-policies/>.
+- Web: [Security Vulnerability Submission Form](https://www.nvidia.com/object/submit-security-vulnerability.html)
+- E-Mail: [psirt@nvidia.com](mailto:psirt@nvidia.com)
+- We encourage you to use the following PGP key for secure email communication: [NVIDIA public PGP Key for communication](https://www.nvidia.com/en-us/security/pgp-key)
+- Please include the following information:
+    - Product/Driver name and version/branch that contains the vulnerability

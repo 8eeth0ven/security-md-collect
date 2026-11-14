@@ -6,12 +6,12 @@ Each package versions independently (see the
 [README](./README.md#releases-and-roadmap)). The latest `1.x` release of each
 package is supported with security updates; earlier releases are not:
 
-| Package | Supported versions |
-|---|---|
-| `@nvidia/gui-icons` | latest `1.x` |
-| `@nvidia/react-gui-icons` | latest `1.x` |
-| `@nvidia/micro-gui-icons` | latest `1.x` |
-| `@nvidia/react-micro-gui-icons` | latest `1.x` |
+| Package                         | Supported versions |
+| ------------------------------- | ------------------ |
+| `@nvidia/gui-icons`             | latest `1.x`       |
+| `@nvidia/react-gui-icons`       | latest `1.x`       |
+| `@nvidia/micro-gui-icons`       | latest `1.x`       |
+| `@nvidia/react-micro-gui-icons` | latest `1.x`       |
 
 ## Reporting a Vulnerability
 
@@ -29,15 +29,15 @@ including these packages:
 
 - **Web:** [Security Vulnerability Submission Form](https://www.nvidia.com/object/submit-security-vulnerability.html)
 - **E-Mail:** psirt@nvidia.com
-    - We encourage you to use the following PGP key for secure email
-      communication: [NVIDIA public PGP Key for communication](https://www.nvidia.com/en-us/security/pgp-key)
-    - Please include:
-        - Package name(s) and version(s) affected
-        - Type of vulnerability (code execution, denial of service, etc.)
-        - Instructions to reproduce the vulnerability
-        - Proof-of-concept or exploit code, if available
-        - Potential impact of the vulnerability, including how an attacker
-          could exploit it
+  - We encourage you to use the following PGP key for secure email
+    communication: [NVIDIA public PGP Key for communication](https://www.nvidia.com/en-us/security/pgp-key)
+  - Please include:
+    - Package name(s) and version(s) affected
+    - Type of vulnerability (code execution, denial of service, etc.)
+    - Instructions to reproduce the vulnerability
+    - Proof-of-concept or exploit code, if available
+    - Potential impact of the vulnerability, including how an attacker
+      could exploit it
 
 While NVIDIA currently does not have a bug bounty program, we do offer
 acknowledgement when an externally reported security issue is addressed under

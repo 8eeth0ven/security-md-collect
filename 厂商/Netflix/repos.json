@@ -54,13 +54,27 @@
  {
   "vendor": "Netflix",
   "org": "Netflix-Skunkworks",
+  "full_name": "Netflix-Skunkworks/eventexplorer",
+  "url": "https://github.com/Netflix-Skunkworks/eventexplorer",
+  "sec_path": "SECURITY.md",
+  "stars": 2,
+  "language": "Rust",
+  "description": "FreeBSD EventLog processing and visualization tool",
+  "license": null,
+  "first_seen": "2026-11-13 16:06:29"
+ },
+ {
+  "vendor": "Netflix",
+  "org": "Netflix-Skunkworks",
   "full_name": "Netflix-Skunkworks/LightGBM",
   "url": "https://github.com/Netflix-Skunkworks/LightGBM",
   "sec_path": "SECURITY.md",
   "stars": 1,
   "language": "C++",
   "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classifica…",
-  "first_seen": "2026-11-01 17:07:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:07:58",
+  "last_verified": "2026-11-15 02:34:20"
  },
  {
   "vendor": "Netflix",
@@ -78,25 +92,15 @@
  {
   "vendor": "Netflix",
   "org": "Netflix-Skunkworks",
-  "full_name": "Netflix-Skunkworks/eventexplorer",
-  "url": "https://github.com/Netflix-Skunkworks/eventexplorer",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Rust",
-  "description": "FreeBSD EventLog processing and visualization tool",
-  "license": null,
-  "first_seen": "2026-11-13 16:06:29"
- },
- {
-  "vendor": "Netflix",
-  "org": "Netflix-Skunkworks",
   "full_name": "Netflix-Skunkworks/moby",
   "url": "https://github.com/Netflix-Skunkworks/moby",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-  "first_seen": "2026-11-01 17:07:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:07:58",
+  "last_verified": "2026-11-15 02:34:20"
  },
  {
   "vendor": "Netflix",
@@ -104,10 +108,12 @@
   "full_name": "Netflix-Skunkworks/kinvolk-kubernetes",
   "url": "https://github.com/Netflix-Skunkworks/kinvolk-kubernetes",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Container Cluster Manager from Google",
-  "first_seen": "2026-11-01 17:07:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:07:58",
+  "last_verified": "2026-11-15 02:34:20"
  },
  {
   "vendor": "Netflix",
@@ -115,10 +121,12 @@
   "full_name": "Netflix-Skunkworks/etcd",
   "url": "https://github.com/Netflix-Skunkworks/etcd",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-  "first_seen": "2026-11-01 17:07:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:07:58",
+  "last_verified": "2026-11-15 02:34:20"
  },
  {
   "vendor": "Netflix",
@@ -126,9 +134,11 @@
   "full_name": "Netflix-Skunkworks/makara",
   "url": "https://github.com/Netflix-Skunkworks/makara",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "JavaScript",
   "description": "An i18n module for Dust.js.",
-  "first_seen": "2026-11-01 17:07:58"
+  "license": null,
+  "first_seen": "2026-11-01 17:07:58",
+  "last_verified": "2026-11-15 02:34:20"
  }
 ]
