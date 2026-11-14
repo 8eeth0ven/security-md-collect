@@ -1,6 +1,32 @@
 [
  {
   "vendor": "AWS VDP",
+  "org": "aws-actions",
+  "full_name": "aws-actions/vulnerability-scan-github-action-for-amazon-inspector",
+  "url": "https://github.com/aws-actions/vulnerability-scan-github-action-for-amazon-inspector",
+  "sec_path": "SECURITY.md",
+  "stars": 60,
+  "language": "Python",
+  "description": "Scan artifacts with Amazon Inspector from GitHub Actions workflows.",
+  "license": null,
+  "first_seen": "2026-11-14 14:31:35",
+  "last_verified": "2026-11-14 14:31:35"
+ },
+ {
+  "vendor": "AWS VDP",
+  "org": "aws-actions",
+  "full_name": "aws-actions/codeguru-security",
+  "url": "https://github.com/aws-actions/codeguru-security",
+  "sec_path": "SECURITY.md",
+  "stars": 12,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:31:27",
+  "last_verified": "2026-11-14 14:31:27"
+ },
+ {
+  "vendor": "AWS VDP",
   "org": "amazonlinux",
   "full_name": "amazonlinux/smart-restart",
   "url": "https://github.com/amazonlinux/smart-restart",
@@ -11,6 +37,32 @@
   "license": null,
   "first_seen": "2026-11-14 14:04:51",
   "last_verified": "2026-11-14 14:04:51"
+ },
+ {
+  "vendor": "AWS VDP",
+  "org": "aws-actions",
+  "full_name": "aws-actions/.github",
+  "url": "https://github.com/aws-actions/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 12:59:36",
+  "last_verified": "2026-11-14 12:59:36"
+ },
+ {
+  "vendor": "AWS VDP",
+  "org": "aws-actions",
+  "full_name": "aws-actions/application-observability-for-aws",
+  "url": "https://github.com/aws-actions/application-observability-for-aws",
+  "sec_path": "docs/security.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:31:27",
+  "last_verified": "2026-11-14 14:31:27"
  },
  {
   "vendor": "AWS VDP",
@@ -30,19 +82,6 @@
   "org": "amazon-research",
   "full_name": "amazon-research/.github",
   "url": "https://github.com/amazon-research/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-14 12:59:36",
-  "last_verified": "2026-11-14 12:59:36"
- },
- {
-  "vendor": "AWS VDP",
-  "org": "aws-actions",
-  "full_name": "aws-actions/.github",
-  "url": "https://github.com/aws-actions/.github",
   "sec_path": "SECURITY.md",
   "stars": null,
   "language": null,
@@ -76,5 +115,31 @@
   "license": null,
   "first_seen": "2026-11-14 13:00:31",
   "last_verified": "2026-11-14 13:00:31"
+ },
+ {
+  "vendor": "AWS VDP",
+  "org": "aws-actions",
+  "full_name": "aws-actions/devops-agent-qa",
+  "url": "https://github.com/aws-actions/devops-agent-qa",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "TypeScript",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:31:27",
+  "last_verified": "2026-11-14 14:31:27"
+ },
+ {
+  "vendor": "AWS VDP",
+  "org": "aws-actions",
+  "full_name": "aws-actions/handle-non-labeled-issues",
+  "url": "https://github.com/aws-actions/handle-non-labeled-issues",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "TypeScript",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:31:27",
+  "last_verified": "2026-11-14 14:31:27"
  }
 ]

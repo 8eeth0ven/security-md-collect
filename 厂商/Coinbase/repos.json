@@ -1,6 +1,32 @@
 [
  {
   "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/node",
+  "url": "https://github.com/base/node",
+  "sec_path": "SECURITY.md",
+  "stars": 68287,
+  "language": "Shell",
+  "description": "Everything required to run your own Base node",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:15",
+  "last_verified": "2026-11-14 14:32:15"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/pessimism",
+  "url": "https://github.com/base/pessimism",
+  "sec_path": "SECURITY.md",
+  "stars": 1613,
+  "language": "Go",
+  "description": "Detect real-time threats and events on OP Stack compatible blockchains",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:21",
+  "last_verified": "2026-11-14 14:32:21"
+ },
+ {
+  "vendor": "Coinbase",
   "org": "coinbase",
   "full_name": "coinbase/agentkit",
   "url": "https://github.com/coinbase/agentkit",
@@ -12,6 +38,19 @@
  },
  {
   "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/base",
+  "url": "https://github.com/base/base",
+  "sec_path": "SECURITY.md",
+  "stars": 942,
+  "language": "Rust",
+  "description": "All components used to run Base",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:01",
+  "last_verified": "2026-11-14 14:32:01"
+ },
+ {
+  "vendor": "Coinbase",
   "org": "coinbase",
   "full_name": "coinbase/kryptology",
   "url": "https://github.com/coinbase/kryptology",
@@ -20,6 +59,19 @@
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 18:51:41"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/contract-deployments",
+  "url": "https://github.com/base/contract-deployments",
+  "sec_path": "SECURITY.md",
+  "stars": 534,
+  "language": "Solidity",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:32:08",
+  "last_verified": "2026-11-14 14:32:08"
  },
  {
   "vendor": "Coinbase",
@@ -45,6 +97,32 @@
  },
  {
   "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/contracts",
+  "url": "https://github.com/base/contracts",
+  "sec_path": "SECURITY.md",
+  "stars": 330,
+  "language": "Solidity",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:32:08",
+  "last_verified": "2026-11-14 14:32:08"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/bridge",
+  "url": "https://github.com/base/bridge",
+  "sec_path": "SECURITY.md",
+  "stars": 223,
+  "language": "TypeScript",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:32:01",
+  "last_verified": "2026-11-14 14:32:01"
+ },
+ {
+  "vendor": "Coinbase",
   "org": "coinbase",
   "full_name": "coinbase/cdp-sdk",
   "url": "https://github.com/coinbase/cdp-sdk",
@@ -53,6 +131,19 @@
   "language": "Python",
   "description": "Client libraries for managing EVM and Solana wallets while relying on CDP to secure private keys.",
   "first_seen": "2026-11-01 18:51:41"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/base-verify-demo",
+  "url": "https://github.com/base/base-verify-demo",
+  "sec_path": "docs/security.md",
+  "stars": 199,
+  "language": "TypeScript",
+  "description": "Demo airdrop claim application that is protected by Base Verify. ",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:01",
+  "last_verified": "2026-11-14 14:32:01"
  },
  {
   "vendor": "Coinbase",
@@ -89,6 +180,19 @@
  },
  {
   "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/skills",
+  "url": "https://github.com/base/skills",
+  "sec_path": "SECURITY.md",
+  "stars": 121,
+  "language": "Python",
+  "description": "npx skills add base/skills",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:21",
+  "last_verified": "2026-11-14 14:32:21"
+ },
+ {
+  "vendor": "Coinbase",
   "org": "coinbase",
   "full_name": "coinbase/MagicSpend",
   "url": "https://github.com/coinbase/MagicSpend",
@@ -100,6 +204,19 @@
  },
  {
   "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/optimism",
+  "url": "https://github.com/base/optimism",
+  "sec_path": "SECURITY.md",
+  "stars": 96,
+  "language": "Go",
+  "description": "Optimism is Ethereum, scaled.",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:15",
+  "last_verified": "2026-11-14 14:32:15"
+ },
+ {
+  "vendor": "Coinbase",
   "org": "coinbase",
   "full_name": "coinbase/cdp-sdk-python",
   "url": "https://github.com/coinbase/cdp-sdk-python",
@@ -108,6 +225,19 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:51:41"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/op-geth",
+  "url": "https://github.com/base/op-geth",
+  "sec_path": "SECURITY.md",
+  "stars": 77,
+  "language": "Go",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:32:15",
+  "last_verified": "2026-11-14 14:32:15"
  },
  {
   "vendor": "Coinbase",
@@ -210,6 +340,32 @@
  },
  {
   "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/reth",
+  "url": "https://github.com/base/reth",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "Rust",
+  "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:21",
+  "last_verified": "2026-11-14 14:32:21"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/fault-proof-monitors",
+  "url": "https://github.com/base/fault-proof-monitors",
+  "sec_path": "SECURITY.md",
+  "stars": 18,
+  "language": "Go",
+  "description": "Hexagate monitors for OP-Stack fault proofs",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:08",
+  "last_verified": "2026-11-14 14:32:08"
+ },
+ {
+  "vendor": "Coinbase",
   "org": "coinbase",
   "full_name": "coinbase/onramp-v2-mobile-demo",
   "url": "https://github.com/coinbase/onramp-v2-mobile-demo",
@@ -229,6 +385,32 @@
   "language": "Python",
   "description": "",
   "first_seen": "2026-11-01 18:51:41"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/op-rbuilder",
+  "url": "https://github.com/base/op-rbuilder",
+  "sec_path": "SECURITY.md",
+  "stars": 15,
+  "language": "Rust",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:32:15",
+  "last_verified": "2026-11-14 14:32:15"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/base-anvil",
+  "url": "https://github.com/base/base-anvil",
+  "sec_path": "SECURITY.md",
+  "stars": 14,
+  "language": "Rust",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:32:01",
+  "last_verified": "2026-11-14 14:32:01"
  },
  {
   "vendor": "Coinbase",
@@ -265,6 +447,19 @@
  },
  {
   "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/infra-routing",
+  "url": "https://github.com/base/infra-routing",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": "Go",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 14:32:15",
+  "last_verified": "2026-11-14 14:32:15"
+ },
+ {
+  "vendor": "Coinbase",
   "org": "coinbase",
   "full_name": "coinbase/coinbase-business-magento",
   "url": "https://github.com/coinbase/coinbase-business-magento",
@@ -284,6 +479,19 @@
   "language": "TypeScript",
   "description": "CDP × AWS AgentCore - Next.js starter template that gives AgentCore developers a ready-to-fork wallet UI with Coinbase Developer Platform embedded wallets and a…",
   "first_seen": "2026-11-01 18:51:41"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/based-ox",
+  "url": "https://github.com/base/based-ox",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 5,
+  "language": "TypeScript",
+  "description": "Standard Library for Ethereum",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:01",
+  "last_verified": "2026-11-14 14:32:01"
  },
  {
   "vendor": "Coinbase",
@@ -488,5 +696,18 @@
   "license": null,
   "first_seen": "2026-11-01 18:51:41",
   "last_verified": "2026-11-14 13:00:45"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "base",
+  "full_name": "base/commonware-monorepo",
+  "url": "https://github.com/base/commonware-monorepo",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Rust",
+  "description": "Commonware Library Primitives and Examples",
+  "license": null,
+  "first_seen": "2026-11-14 14:32:08",
+  "last_verified": "2026-11-14 14:32:08"
  }
 ]

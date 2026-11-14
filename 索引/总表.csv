@@ -8854,16 +8854,26 @@ Brave,HackerOne（Brave）,brave,brave/LavaMoat,https://github.com/brave/LavaMoa
 Brave,HackerOne（Brave）,brave,brave/near-verifier,https://github.com/brave/near-verifier,,Python,SECURITY.md,
 Brave,HackerOne（Brave）,brave,brave/vol,https://github.com/brave/vol,,Python,SECURITY.md,Tag-based EBS volume management
 Brave,HackerOne（Brave）,brave,brave/p3a-bot-bc-workspace,https://github.com/brave/p3a-bot-bc-workspace,,C++,SECURITY.md,Workspace for P3A Bot
+Coinbase,HackerOne,base,base/node,https://github.com/base/node,68287,Shell,SECURITY.md,Everything required to run your own Base node
+Coinbase,HackerOne,base,base/pessimism,https://github.com/base/pessimism,1613,Go,SECURITY.md,Detect real-time threats and events on OP Stack compatible blockchains
 Coinbase,HackerOne,coinbase,coinbase/agentkit,https://github.com/coinbase/agentkit,1356,TypeScript,SECURITY.md,Every AI Agent deserves a wallet.
+Coinbase,HackerOne,base,base/base,https://github.com/base/base,942,Rust,SECURITY.md,All components used to run Base
 Coinbase,HackerOne,coinbase,coinbase/kryptology,https://github.com/coinbase/kryptology,869,Go,SECURITY.md,
+Coinbase,HackerOne,base,base/contract-deployments,https://github.com/base/contract-deployments,534,Solidity,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/cds,https://github.com/coinbase/cds,510,TypeScript,SECURITY.md,Coinbase Design System
 Coinbase,HackerOne,coinbase,coinbase/smart-wallet,https://github.com/coinbase/smart-wallet,490,Solidity,SECURITY.md,
+Coinbase,HackerOne,base,base/contracts,https://github.com/base/contracts,330,Solidity,SECURITY.md,
+Coinbase,HackerOne,base,base/bridge,https://github.com/base/bridge,223,TypeScript,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/cdp-sdk,https://github.com/coinbase/cdp-sdk,210,Python,SECURITY.md,Client libraries for managing EVM and Solana wallets while relying on CDP to secure private keys.
+Coinbase,HackerOne,base,base/base-verify-demo,https://github.com/base/base-verify-demo,199,TypeScript,docs/security.md,Demo airdrop claim application that is protected by Base Verify. 
 Coinbase,HackerOne,coinbase,coinbase/x402,https://github.com/coinbase/x402,182,TypeScript,SECURITY.md,A payments protocol for the internet. Built on HTTP.
 Coinbase,HackerOne,coinbase,coinbase/agentic-wallet-skills,https://github.com/coinbase/agentic-wallet-skills,128,JavaScript,SECURITY.md,npx skills add coinbase/agentic-wallet-skills
 Coinbase,HackerOne,coinbase,coinbase/coinbase-sdk-nodejs,https://github.com/coinbase/coinbase-sdk-nodejs,123,TypeScript,SECURITY.md,
+Coinbase,HackerOne,base,base/skills,https://github.com/base/skills,121,Python,SECURITY.md,npx skills add base/skills
 Coinbase,HackerOne,coinbase,coinbase/MagicSpend,https://github.com/coinbase/MagicSpend,107,Solidity,SECURITY.md,
+Coinbase,HackerOne,base,base/optimism,https://github.com/base/optimism,96,Go,SECURITY.md,"Optimism is Ethereum, scaled."
 Coinbase,HackerOne,coinbase,coinbase/cdp-sdk-python,https://github.com/coinbase/cdp-sdk-python,95,Python,SECURITY.md,
+Coinbase,HackerOne,base,base/op-geth,https://github.com/base/op-geth,77,Go,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/cdp-agentkit-nodejs,https://github.com/coinbase/cdp-agentkit-nodejs,60,TypeScript,SECURITY.md,The Coinbase Developer Platform (CDP) AgentKit for Node.js simplifies the process of bringing your AI agents on-chain.
 Coinbase,HackerOne,coinbase,coinbase/payments-mcp,https://github.com/coinbase/payments-mcp,59,TypeScript,SECURITY.md,An npx installer for the Payments MCP application.
 Coinbase,HackerOne,coinbase,coinbase/onchain-agent-demo,https://github.com/coinbase/onchain-agent-demo,43,TypeScript,SECURITY.md,
@@ -8873,13 +8883,19 @@ Coinbase,HackerOne,coinbase,coinbase/salus,https://github.com/coinbase/salus,31,
 Coinbase,HackerOne,coinbase,coinbase/baseca,https://github.com/coinbase/baseca,27,Go,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/tg-trading-bot,https://github.com/coinbase/tg-trading-bot,26,JavaScript,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/coinbase-cloud-sdk-js,https://github.com/coinbase/coinbase-cloud-sdk-js,21,TypeScript,SECURITY.md,
+Coinbase,HackerOne,base,base/reth,https://github.com/base/reth,19,Rust,SECURITY.md,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust"
+Coinbase,HackerOne,base,base/fault-proof-monitors,https://github.com/base/fault-proof-monitors,18,Go,SECURITY.md,Hexagate monitors for OP-Stack fault proofs
 Coinbase,HackerOne,coinbase,coinbase/onramp-v2-mobile-demo,https://github.com/coinbase/onramp-v2-mobile-demo,17,TypeScript,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/onchain-agent-demo-backend,https://github.com/coinbase/onchain-agent-demo-backend,17,Python,SECURITY.md,
+Coinbase,HackerOne,base,base/op-rbuilder,https://github.com/base/op-rbuilder,15,Rust,SECURITY.md,
+Coinbase,HackerOne,base,base/base-anvil,https://github.com/base/base-anvil,14,Rust,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/onchaintestkit,https://github.com/coinbase/onchaintestkit,13,TypeScript,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/custom-stablecoin,https://github.com/coinbase/custom-stablecoin,12,Solidity,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/onramp-demo-mobile,https://github.com/coinbase/onramp-demo-mobile,9,TypeScript,SECURITY.md,
+Coinbase,HackerOne,base,base/infra-routing,https://github.com/base/infra-routing,9,Go,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/coinbase-business-magento,https://github.com/coinbase/coinbase-business-magento,8,PHP,SECURITY.md,Coinbase Business Payment Link Gateway for Adobe Commerce / Magento 2 — Accept USDC payments
 Coinbase,HackerOne,coinbase,coinbase/cdp-agentcore-template,https://github.com/coinbase/cdp-agentcore-template,5,TypeScript,SECURITY.md,CDP × AWS AgentCore - Next.js starter template that gives AgentCore developers a ready-to-fork wallet UI with Coinbase Developer Platform embedded wallets and a…
+Coinbase,HackerOne,base,base/based-ox,https://github.com/base/based-ox,5,TypeScript,.github/SECURITY.md,Standard Library for Ethereum
 Coinbase,HackerOne,coinbase,coinbase/prime-sdk-java,https://github.com/coinbase/prime-sdk-java,4,Java,SECURITY.md,Java SDK for the Coinbase Prime REST APIs
 Coinbase,HackerOne,coinbase,coinbase/prime-sdk-go,https://github.com/coinbase/prime-sdk-go,4,Go,SECURITY.md,Go SDK for the Coinbase Prime REST APIs
 Coinbase,HackerOne,coinbase,coinbase/cdp-swift,https://github.com/coinbase/cdp-swift,3,Shell,SECURITY.md,
@@ -8898,6 +8914,7 @@ Coinbase,HackerOne,coinbase,coinbase/core-ts,https://github.com/coinbase/core-ts
 Coinbase,HackerOne,coinbase,coinbase/core-dotnet,https://github.com/coinbase/core-dotnet,,C#,SECURITY.md,Coinbase .Net Core is a library that is used by other C# samples
 Coinbase,HackerOne,coinbase,coinbase/cb-mpc-go,https://github.com/coinbase/cb-mpc-go,,,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/.github,https://github.com/coinbase/.github,,,SECURITY.md,
+Coinbase,HackerOne,base,base/commonware-monorepo,https://github.com/base/commonware-monorepo,0,Rust,SECURITY.md,Commonware Library Primitives and Examples
 Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6043,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
 Uber,HackerOne,uber,uber/uber-poet,https://github.com/uber/uber-poet,98,Python,SECURITY.md,A mock swift project generator & build runner to help benchmark various module dependency graphs.
 Uber,HackerOne,uber,uber/jaeger,https://github.com/uber/jaeger,11,Go,SECURITY.md,"Uber fork of CNCF Jaeger, a Distributed Tracing Platform - for Pull Requests"
@@ -9741,11 +9758,13 @@ Zalando,自建BB,zalando,zalando/ghe-backup,https://github.com/zalando/ghe-backu
 Zalando,自建BB,zalando,zalando/backstage-plugin-api-linter,https://github.com/zalando/backstage-plugin-api-linter,17,TypeScript,SECURITY.md,API Linter is a quality assurance tool that checks the compliance of API's specifications to Zalando's API rules.
 Zalando,自建BB,zalando,zalando/lightstep-uql-to-promql-translator,https://github.com/zalando/lightstep-uql-to-promql-translator,9,Go,SECURITY.md,
 Zalando,自建BB,zalando,zalando/otelcol-lightstep-receiver,https://github.com/zalando/otelcol-lightstep-receiver,8,Go,SECURITY.md,
+Spotify,自建BB,backstage,backstage/backstage,https://github.com/backstage/backstage,34844,TypeScript,SECURITY.md,Backstage is an open framework for building developer portals
 Spotify,自建BB,spotify,spotify/luigi,https://github.com/spotify/luigi,18787,Python,SECURITY.md,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also…"
 Spotify,自建BB,spotify,spotify/basic-pitch,https://github.com/spotify/basic-pitch,6048,Python,SECURITY.md,A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 Spotify,自建BB,spotify,spotify/scio,https://github.com/spotify/scio,2630,Scala,SECURITY.md,A Scala API for Apache Beam and Google Cloud Dataflow.
 Spotify,自建BB,spotify,spotify/spotify-web-api-ts-sdk,https://github.com/spotify/spotify-web-api-ts-sdk,476,TypeScript,SECURITY.md,A Typescript SDK for the Spotify Web API with types for returned data.
 Spotify,自建BB,spotify,spotify/sourcekit-bazel-bsp,https://github.com/spotify/sourcekit-bazel-bsp,440,Swift,SECURITY.md,"iOS Development (and more) in alternative IDEs like Cursor / VSCode, for Bazel projects"
+Spotify,自建BB,backstage,backstage/community-plugins,https://github.com/backstage/community-plugins,430,TypeScript,SECURITY.md,Community plugins for Backstage
 Spotify,自建BB,spotify,spotify/fmt-maven-plugin,https://github.com/spotify/fmt-maven-plugin,388,Java,SECURITY.md,Opinionated Maven Plugin that formats your Java code.
 Spotify,自建BB,spotify,spotify/realbook,https://github.com/spotify/realbook,132,Python,SECURITY.md,Easier audio-based machine learning with TensorFlow.
 Spotify,自建BB,spotify,spotify/vispana,https://github.com/spotify/vispana,62,JavaScript,SECURITY.md,Web client for Vespa.ai
@@ -9766,13 +9785,17 @@ Spotify,自建BB,spotify,spotify/volcano,https://github.com/spotify/volcano,2,Go
 Spotify,自建BB,spotify,spotify/confidence-metrics-sync,https://github.com/spotify/confidence-metrics-sync,1,Go,SECURITY.md,Manage Confidence metrics as code with YAML and GitHub Actions
 Spotify,自建BB,spotify,spotify/argo-cd,https://github.com/spotify/argo-cd,0,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 Spotify,自建BB,spotify,spotify/bazel,https://github.com/spotify/bazel,0,Java,SECURITY.md,"a fast, scalable, multi-language and extensible build system"
-Spotify,自建BB,backstage,backstage/backstage,https://github.com/backstage/backstage,,,SECURITY.md,
+AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/vulnerability-scan-github-action-for-amazon-inspector,https://github.com/aws-actions/vulnerability-scan-github-action-for-amazon-inspector,60,Python,SECURITY.md,Scan artifacts with Amazon Inspector from GitHub Actions workflows.
+AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/codeguru-security,https://github.com/aws-actions/codeguru-security,12,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/smart-restart,https://github.com/amazonlinux/smart-restart,8,Shell,SECURITY.md,
+AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/.github,https://github.com/aws-actions/.github,3,,SECURITY.md,
+AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/application-observability-for-aws,https://github.com/aws-actions/application-observability-for-aws,3,JavaScript,docs/security.md,
 AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/.github,https://github.com/amazonlinux/.github,1,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,amazon-research,amazon-research/.github,https://github.com/amazon-research/.github,,,SECURITY.md,
-AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/.github,https://github.com/aws-actions/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,deepjavalibrary,deepjavalibrary/.github,https://github.com/deepjavalibrary/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/.github,https://github.com/strands-agents/.github,,,SECURITY.md,
+AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/devops-agent-qa,https://github.com/aws-actions/devops-agent-qa,0,TypeScript,SECURITY.md,
+AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/handle-non-labeled-issues,https://github.com/aws-actions/handle-non-labeled-issues,0,TypeScript,SECURITY.md,
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pghoard,https://github.com/Aiven-Open/pghoard,1428,Python,SECURITY.md,PostgreSQL® backup and restore service
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/karapace,https://github.com/Aiven-Open/karapace,641,Python,SECURITY.md,Karapace - Your Apache Kafka® essentials in one tool
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/tiered-storage-for-apache-kafka,https://github.com/Aiven-Open/tiered-storage-for-apache-kafka,248,Java,SECURITY.md,RemoteStorageManager for Apache Kafka® Tiered Storage
@@ -9852,14 +9875,74 @@ Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Ope
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/nextjs-auth0,https://github.com/auth0/nextjs-auth0,2315,TypeScript,SECURITY.md,Next.js SDK for signing in with Auth0
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/.github,https://github.com/auth0/.github,3,,.github/SECURITY.md,Org-wide repository files. 
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/auth0-php,https://github.com/auth0/auth0-php,,,.github/SECURITY.md,
-Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/.github,https://github.com/basecamp/.github,,,SECURITY.md,
-Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/once-campfire,https://github.com/basecamp/once-campfire,,,SECURITY.md,
-Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/.github,https://github.com/bitwarden/.github,,,SECURITY.md,
-Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/android,https://github.com/bitwarden/android,,,SECURITY.md,
-Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/clients,https://github.com/bitwarden/clients,,,SECURITY.md,
-Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/ios,https://github.com/bitwarden/ios,,,SECURITY.md,
-Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/sdk-internal,https://github.com/bitwarden/sdk-internal,,,SECURITY.md,
-Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/server,https://github.com/bitwarden/server,,,SECURITY.md,
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/once-campfire,https://github.com/basecamp/once-campfire,4833,Ruby,SECURITY.md,"Super simple group chat, without a subscription"
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/upright,https://github.com/basecamp/upright,844,Ruby,SECURITY.md,Synthetic monitoring engine with Playwright and Prometheus metrics
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/google_sign_in,https://github.com/basecamp/google_sign_in,565,Ruby,SECURITY.md,Sign in (or up) with Google for Rails applications
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/basecamp-cli,https://github.com/basecamp/basecamp-cli,299,Go,SECURITY.md,Basecamp CLI and Agent Skills
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/fizzy-cli,https://github.com/basecamp/fizzy-cli,252,Go,SECURITY.md,Fizzy CLI and Agent Skills
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/once-campfire-rust,https://github.com/basecamp/once-campfire-rust,137,Rust,SECURITY.md,"ONCE Campfire in Rust: one binary, the Rails app's data, 19–44× faster"
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/basecamp-sdk,https://github.com/basecamp/basecamp-sdk,53,Go,SECURITY.md,Basecamp software dev kit
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/rails,https://github.com/basecamp/rails,37,Ruby,.github/security.md,Ruby on Rails
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/surfguard,https://github.com/basecamp/surfguard,35,Ruby,SECURITY.md,Water's off-limits bruh
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/hey-sdk,https://github.com/basecamp/hey-sdk,24,Rust,SECURITY.md,HEY software dev kit
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/cli,https://github.com/basecamp/cli,10,Go,SECURITY.md,37signals Go CLI toolkit
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/fizzy-sdk,https://github.com/basecamp/fizzy-sdk,7,Rust,SECURITY.md,Fizzy software dev kit
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/.github,https://github.com/basecamp/.github,3,JavaScript,SECURITY.md,Organization-level workflows and community health files
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/openclaw,https://github.com/basecamp/openclaw,3,TypeScript,SECURITY.md,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/nono,https://github.com/basecamp/nono,2,Rust,SECURITY.md,"agent runtime security - zero trust, zero setup, zero latency micro sandboxes"
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/orchestrator,https://github.com/basecamp/orchestrator,2,Go,docs/security.md,
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/net-ssh,https://github.com/basecamp/net-ssh,1,Ruby,SECURITY.md,Pure Ruby implementation of an SSH (protocol 2) client
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/alertmanager,https://github.com/basecamp/alertmanager,0,Go,SECURITY.md,Prometheus Alertmanager
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/percona-xtrabackup,https://github.com/basecamp/percona-xtrabackup,0,C++,SECURITY.md,Open source hot backup tool for InnoDB and XtraDB databases
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/puma,https://github.com/basecamp/puma,0,Ruby,SECURITY.md,A Ruby/Rack web server built for parallelism
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/stimulus,https://github.com/basecamp/stimulus,0,TypeScript,SECURITY.md,A modest JavaScript framework for the HTML you already have
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/tantivy,https://github.com/basecamp/tantivy,0,Rust,SECURITY.md,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/thanos,https://github.com/basecamp/thanos,0,Go,SECURITY.md,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/trilogy,https://github.com/basecamp/trilogy,0,C,SECURITY.md,"Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding."
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/server,https://github.com/bitwarden/server,20636,C#,SECURITY.md,"Bitwarden infrastructure/backend (API, database, Docker, etc)."
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/clients,https://github.com/bitwarden/clients,14227,TypeScript,SECURITY.md,"Bitwarden client apps (web, browser extension, desktop, and cli)."
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/android,https://github.com/bitwarden/android,9628,Kotlin,SECURITY.md,Bitwarden mobile apps (Password Manager and Authenticator) for Android.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/desktop,https://github.com/bitwarden/desktop,3527,TypeScript,SECURITY.md,"The desktop vault (Windows, macOS, & Linux)."
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/web,https://github.com/bitwarden/web,2634,TypeScript,SECURITY.md,The website vault (vault.bitwarden.com).
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/cli,https://github.com/bitwarden/cli,1695,TypeScript,SECURITY.md,"The command line vault (Windows, macOS, & Linux)."
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/self-host,https://github.com/bitwarden/self-host,775,Shell,SECURITY.md,Bitwarden's self-hosted release repository
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/ios,https://github.com/bitwarden/ios,737,Swift,SECURITY.md,Bitwarden mobile apps (Password Manager and Authenticator) for iOS.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/sdk-sm,https://github.com/bitwarden/sdk-sm,504,Rust,SECURITY.md,Bitwarden Secrets Manager SDK.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/authenticator-android,https://github.com/bitwarden/authenticator-android,391,Kotlin,SECURITY.md,The Bitwarden Authenticator app moved to https://github.com/bitwarden/android !
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/directory-connector,https://github.com/bitwarden/directory-connector,321,TypeScript,SECURITY.md,"A tool for syncing a directory (AD, LDAP, Azure, G Suite, Okta) to an organization."
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/mcp-server,https://github.com/bitwarden/mcp-server,320,TypeScript,SECURITY.md,MCP server for interaction with Bitwarden.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/agent-access,https://github.com/bitwarden/agent-access,225,Rust,SECURITY.md,"Agent Access is an open protocol, CLI tool, and SDK to provide agents with credentials without exposing their entire vault"
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/mobile,https://github.com/bitwarden/mobile,222,C#,SECURITY.md,Retired Bitwarden mobile app for iOS and Android (MAUI/Xamarin).
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/passkeys-index,https://github.com/bitwarden/passkeys-index,193,Astro,SECURITY.md,A collection of sites and services that support passkeys.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/ai-plugins,https://github.com/bitwarden/ai-plugins,165,TypeScript,SECURITY.md,AI plugin marketplace.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/authenticator-ios,https://github.com/bitwarden/authenticator-ios,159,Swift,SECURITY.md,The Bitwarden Authenticator app moved to https://github.com/bitwarden/ios !
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/passwordless-server,https://github.com/bitwarden/passwordless-server,149,C#,SECURITY.md,"Bitwarden Passwordless.dev infrastructure/backend (API, database, Docker, etc)."
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/jslib,https://github.com/bitwarden/jslib,136,TypeScript,SECURITY.md,Common code referenced across Bitwarden JavaScript projects.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/sdk-internal,https://github.com/bitwarden/sdk-internal,119,Rust,SECURITY.md,Bitwarden internal SDK.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/f-droid,https://github.com/bitwarden/f-droid,57,Go,SECURITY.md,Bitwarden F-Droid support.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/gh-actions,https://github.com/bitwarden/gh-actions,38,Shell,SECURITY.md,Bitwarden-utilized GitHub Actions.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/passwordless-react-example,https://github.com/bitwarden/passwordless-react-example,29,TypeScript,SECURITY.md,Bitwarden Passwordless.dev React example.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/sm-kubernetes,https://github.com/bitwarden/sm-kubernetes,29,Go,SECURITY.md,Kubernetes Operator for Bitwarden Secrets Manager.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/passwordless-android,https://github.com/bitwarden/passwordless-android,21,Kotlin,SECURITY.md,Bitwarden Passwordless.dev Android SDK.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/splunk,https://github.com/bitwarden/splunk,19,Python,SECURITY.md,Splunk app for reporting Bitwarden event logs.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/sm-ansible,https://github.com/bitwarden/sm-ansible,18,Python,SECURITY.md,Ansible integration for Secrets Manager
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/map-the-web,https://github.com/bitwarden/map-the-web,17,TypeScript,SECURITY.md,Map the Web offers curated guidance for interacting with websites lacking rich semantics or fully-adopted standards.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/terraform-provider-bitwarden-secrets,https://github.com/bitwarden/terraform-provider-bitwarden-secrets,17,Go,SECURITY.md,Bitwarden Secrets Manager Terraform Provider
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/dotnet-extensions,https://github.com/bitwarden/dotnet-extensions,16,C#,SECURITY.md,Bitwarden .NET extensions.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/test-the-web,https://github.com/bitwarden/test-the-web,13,TypeScript,SECURITY.md,Test the Web enables anyone to quickly test common browser interactions on the web with mock interfaces.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/template,https://github.com/bitwarden/template,12,Shell,SECURITY.md,Template repository
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/credential-exchange,https://github.com/bitwarden/credential-exchange,11,Rust,SECURITY.md,Bitwarden implementation of the Credential Exchange (CXP) specification.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/passwordless-ios,https://github.com/bitwarden/passwordless-ios,10,Swift,SECURITY.md,Bitwarden Passwordless.dev iOS SDK.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/browser-interactions-testing,https://github.com/bitwarden/browser-interactions-testing,8,TypeScript,SECURITY.md,Browser interactions testing.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/.github,https://github.com/bitwarden/.github,6,,SECURITY.md,Profile.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/autopush-manager,https://github.com/bitwarden/autopush-manager,6,TypeScript,SECURITY.md,Module to subscribe to Mozilla Autopush and receive notifications.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/workflow-linter,https://github.com/bitwarden/workflow-linter,6,Python,SECURITY.md,
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/akd-watch,https://github.com/bitwarden/akd-watch,5,Rust,SECURITY.md,Auditing tool for AKD.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/billing-relay,https://github.com/bitwarden/billing-relay,5,C#,SECURITY.md,Billing relay.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/renovate-config,https://github.com/bitwarden/renovate-config,5,Shell,SECURITY.md,Shared Renovate configuration.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/rustcrypto-formats,https://github.com/bitwarden/rustcrypto-formats,3,Rust,SECURITY.md,"Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX"
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/rotation-daemon,https://github.com/bitwarden/rotation-daemon,0,,SECURITY.md,Rotation daemon.
+Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/telemetee,https://github.com/bitwarden/telemetee,0,Shell,SECURITY.md,TEE-based telemetry anonymization endpoint to allow collection of client-side actions in a secure way.
 Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink,https://github.com/smartcontractkit/chainlink,,,SECURITY.md,
 Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink-solana,https://github.com/smartcontractkit/chainlink-solana,,,SECURITY.md,
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-blockchain,https://github.com/Chia-Network/chia-blockchain,10793,Python,SECURITY.md,"Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)"
@@ -9960,7 +10043,7 @@ Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Info
 Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/wg-portal,https://github.com/Infomaniak/wg-portal,0,Go,SECURITY.md,WireGuard Configuration Portal with LDAP connection
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-client,kubernetes-client/.github,https://github.com/kubernetes-client/.github,,,SECURITY.md,
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/.github,https://github.com/kubernetes-sigs/.github,,,SECURITY.md,
-Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,buildonspark,buildonspark/spark,https://github.com/buildonspark/spark,,,SECURITY.md,
+Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,buildonspark,buildonspark/spark,https://github.com/buildonspark/spark,118,JavaScript,SECURITY.md,The Spark Bitcoin layer 2 protocol
 Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,lightsparkdev,lightsparkdev/flutter-sdk,https://github.com/lightsparkdev/flutter-sdk,,,SECURITY.md,
 Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,lightsparkdev,lightsparkdev/go-sdk,https://github.com/lightsparkdev/go-sdk,,,SECURITY.md,
 Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,lightsparkdev,lightsparkdev/kotlin-sdk,https://github.com/lightsparkdev/kotlin-sdk,,,SECURITY.md,
@@ -10017,7 +10100,9 @@ Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,world
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-messages,https://github.com/worldcoin/orb-messages,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-secure-element,https://github.com/worldcoin/orb-secure-element,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-software,https://github.com/worldcoin/orb-software,,,SECURITY.md,
-Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,,,SECURITY.md,
+Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,30742,TypeScript,SECURITY.md,The most comprehensive authentication framework
+Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-hub,https://github.com/better-auth/better-hub,1268,TypeScript,SECURITY.md,Re-imagining code collaboration for humans and agents
+Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-call,https://github.com/better-auth/better-call,823,TypeScript,SECURITY.md,a tiny web framework for typescript
 Vercel,公开平台范围（仅用于策略发现）,nitrojs,nitrojs/.github,https://github.com/nitrojs/.github,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/.github,https://github.com/nuxt/.github,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,,,SECURITY.md,
@@ -10028,7 +10113,7 @@ Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/chat,https://
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/eve,https://github.com/vercel/eve,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,,,.github/SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,,,SECURITY.md,
-Version Cake,公开平台范围（仅用于策略发现）,bwillis,bwillis/versioncake,https://github.com/bwillis/versioncake,,,SECURITY.md,
+Version Cake,公开平台范围（仅用于策略发现）,bwillis,bwillis/versioncake,https://github.com/bwillis/versioncake,652,Ruby,SECURITY.md,> 🍰 Version Cake is an unobtrusive way to version APIs in your Rails or Rack apps
 WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/app,https://github.com/WorldHealthOrganization/app,2114,Dart,SECURITY.md,COVID-19 App
 WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/godata,https://github.com/WorldHealthOrganization/godata,101,HTML,SECURITY.md,"Codebase and Community of Practice for Go.Data (https://goarn.who.int/virtual-spaces/godataproject), an outbreak investigation tool developed by WHO in collabor…"
 WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/open-source-communication-channel,https://github.com/WorldHealthOrganization/open-source-communication-channel,91,Shell,SECURITY.md,"Guides, best practices, templates, and discussions for the WHO open source community"

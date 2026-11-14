@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14 14:05:16",
+ "generated_at": "2026-11-14 14:34:58",
  "mode": "html",
  "totals": {
   "vendors": 304,
   "orgs": 385,
-  "orgs_swept": 326,
-  "sec_repos": 10066,
-  "negative_cached": 51058
+  "orgs_swept": 334,
+  "sec_repos": 10151,
+  "negative_cached": 51472
  },
  "vendors": [
   {
@@ -1369,7 +1369,7 @@
     "base-org",
     "base"
    ],
-   "sec_repos": 44
+   "sec_repos": 61
   },
   {
    "vendor": "Uber",
@@ -1971,7 +1971,7 @@
     "spotify",
     "backstage"
    ],
-   "sec_repos": 26
+   "sec_repos": 27
   },
   {
    "vendor": "8x8",
@@ -1991,7 +1991,7 @@
     "deepjavalibrary",
     "strands-agents"
    ],
-   "sec_repos": 6
+   "sec_repos": 11
   },
   {
    "vendor": "Aiven Managed Bug Bounty",
@@ -2016,7 +2016,7 @@
    "orgs": [
     "basecamp"
    ],
-   "sec_repos": 2
+   "sec_repos": 24
   },
   {
    "vendor": "Bitwarden",
@@ -2024,7 +2024,7 @@
    "orgs": [
     "bitwarden"
    ],
-   "sec_repos": 6
+   "sec_repos": 44
   },
   {
    "vendor": "CM.com",
@@ -2441,7 +2441,7 @@
     "vercel",
     "vercel-labs"
    ],
-   "sec_repos": 11
+   "sec_repos": 13
   },
   {
    "vendor": "Version Cake",
