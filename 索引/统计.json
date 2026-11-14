@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14 16:05:11",
+ "generated_at": "2026-11-14 16:34:50",
  "mode": "html",
  "totals": {
   "vendors": 304,
   "orgs": 385,
-  "orgs_swept": 358,
-  "sec_repos": 10345,
-  "negative_cached": 52734
+  "orgs_swept": 363,
+  "sec_repos": 10398,
+  "negative_cached": 53138
  },
  "vendors": [
   {
@@ -2243,7 +2243,7 @@
    "orgs": [
     "moonpay"
    ],
-   "sec_repos": 0
+   "sec_repos": 1
   },
   {
    "vendor": "Nebius AI Vulnerability Disclosure",
@@ -2251,7 +2251,7 @@
    "orgs": [
     "nebius"
    ],
-   "sec_repos": 5
+   "sec_repos": 35
   },
   {
    "vendor": "Nextcloud",
@@ -2260,7 +2260,7 @@
     "nextcloud",
     "roundcube"
    ],
-   "sec_repos": 2
+   "sec_repos": 23
   },
   {
    "vendor": "Node.js",
@@ -2441,7 +2441,7 @@
     "vercel",
     "vercel-labs"
    ],
-   "sec_repos": 13
+   "sec_repos": 14
   },
   {
    "vendor": "Version Cake",

@@ -10238,15 +10238,67 @@ Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发�
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost-plugin-channel-translations,https://github.com/mattermost/mattermost-plugin-channel-translations,2,TypeScript,.github/SECURITY.md,
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost-plugin-ai,https://github.com/mattermost/mattermost-plugin-ai,,,.github/SECURITY.md,
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/crypto11,https://github.com/mattermost/crypto11,0,Go,SECURITY.md,Implement crypto.Signer and crypto.Decrypter for HSM-protected keys via PKCS#11
-Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/gosdk,https://github.com/nebius/gosdk,,,SECURITY.md,
-Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/js-sdk,https://github.com/nebius/js-sdk,,,SECURITY.md,
-Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-observability-agent-updater,https://github.com/nebius/nebius-observability-agent-updater,,,SECURITY.md,
-Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/pysdk,https://github.com/nebius/pysdk,,,SECURITY.md,
-Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/terraform-provider-nebius,https://github.com/nebius/terraform-provider-nebius,,,SECURITY.md,
-Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/.github,https://github.com/nextcloud/.github,,,SECURITY.md,
+MoonPay,公开平台范围（仅用于策略发现）,moonpay,moonpay/skills,https://github.com/moonpay/skills,112,,SECURITY.md,"Skills for AI agents to move money — on-ramps, swaps, wallets, deposits, and more via the MoonPay CLI"
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/soperator,https://github.com/nebius/soperator,456,Go,SECURITY.md,Run Slurm in Kubernetes
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/token-factory-cookbook,https://github.com/nebius/token-factory-cookbook,321,TypeScript,SECURITY.md,Runnable examples for building applications with open models on Nebius Token Factory.
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/kvax,https://github.com/nebius/kvax,177,Python,SECURITY.md,A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism.
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-physical-ai,https://github.com/nebius/nebius-physical-ai,113,Python,SECURITY.md,"Agent control plane for Physical AI on Nebius: infrastructure setup and management, simulation, robot policy training, synthetic data, and evaluation."
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/ml-cookbook,https://github.com/nebius/ml-cookbook,19,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/mcp-server,https://github.com/nebius/mcp-server,18,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/serverless-ai-cookbook,https://github.com/nebius/serverless-ai-cookbook,18,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/pysdk,https://github.com/nebius/pysdk,17,Python,SECURITY.md,Nebius Python SDK
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-k8s-applications,https://github.com/nebius/nebius-k8s-applications,17,Go Template,SECURITY.md,"This repository contains the configuration, manifests and Helm charts for deploying and managing Nebius' Kubernetes applications."
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/gosdk,https://github.com/nebius/gosdk,16,Go,SECURITY.md,Nebius AI Cloud SDK for Go
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-partner-cookbook,https://github.com/nebius/nebius-partner-cookbook,14,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/contree-sdk,https://github.com/nebius/contree-sdk,10,Python,SECURITY.md,"Run code in isolated cloud containers. ConTree gives secure sandboxed execution environments with full root access, network, and persistent images. "
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-connect,https://github.com/nebius/nebius-connect,10,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-observability-agent-updater,https://github.com/nebius/nebius-observability-agent-updater,9,Go,SECURITY.md,Tooling for updating the Observability Agent in Nebius Compute
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/skills,https://github.com/nebius/skills,9,Shell,SECURITY.md,"Portable, pure-text agent skills for researching Nebius AI Cloud documentation and operating cloud resources with the nebius CLI"
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-ps-services,https://github.com/nebius/nebius-ps-services,8,Python,SECURITY.md,Nebius Platform Services: reusable AI/ML deployment building blocks for Nebius AI Cloud
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/packer-plugin-nebius,https://github.com/nebius/packer-plugin-nebius,6,Go,SECURITY.md,Packer plugin for Nebius Image Builder
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/terraform-provider-nebius,https://github.com/nebius/terraform-provider-nebius,5,Go,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/helmrelease-trigger-operator,https://github.com/nebius/helmrelease-trigger-operator,5,Go,SECURITY.md,"A Kubernetes controller that automatically triggers FluxCD HelmRelease reconciliation when associated ConfigMaps are updated, enabling seamless configuration-dr…"
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/langchain-nebius,https://github.com/nebius/langchain-nebius,4,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/observability,https://github.com/nebius/observability,3,Go,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/contree-client,https://github.com/nebius/contree-client,2,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/contree-mcp,https://github.com/nebius/contree-mcp,2,Python,SECURITY.md,"Run code in isolated cloud containers. ConTree gives AI agents secure sandboxed execution environments with full root access, network, and persistent images."
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/external-secrets,https://github.com/nebius/external-secrets,2,Go,SECURITY.md,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/ml-containers,https://github.com/nebius/ml-containers,2,Dockerfile,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/slurm,https://github.com/nebius/slurm,1,C,SECURITY.md,Slurm: A Highly Scalable Workload Manager
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/slurm-plugins,https://github.com/nebius/slurm-plugins,1,C,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/js-sdk,https://github.com/nebius/js-sdk,,TypeScript,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/cilium,https://github.com/nebius/cilium,0,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/datalens-backend,https://github.com/nebius/datalens-backend,0,Python,SECURITY.md,DataLens backend
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/istio,https://github.com/nebius/istio,0,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nfs-server,https://github.com/nebius/nfs-server,0,Shell,SECURITY.md,NFS server Docker image and Helm chart for Kubernetes
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/slurm-exporter,https://github.com/nebius/slurm-exporter,0,,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/snippets,https://github.com/nebius/snippets,0,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/tokenfactory-rl,https://github.com/nebius/tokenfactory-rl,0,Python,SECURITY.md,
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/server,https://github.com/nextcloud/server,37512,PHP,SECURITY.md,"☁️ Nextcloud server, a safe home for all your data"
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/android,https://github.com/nextcloud/android,5706,Kotlin,SECURITY.md,📱 Nextcloud Android app
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/ios,https://github.com/nextcloud/ios,2557,Swift,SECURITY.md,📱 Nextcloud iOS App
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/deck,https://github.com/nextcloud/deck,1439,JavaScript,SECURITY.md,"🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello"
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/talk-android,https://github.com/nextcloud/talk-android,752,Kotlin,SECURITY.md,📱😀 Video & audio calls through Nextcloud on Android
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/end_to_end_encryption,https://github.com/nextcloud/end_to_end_encryption,324,TypeScript,SECURITY.md,:closed_lock_with_key: Server API to support End-to-End Encryption
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/talk-ios,https://github.com/nextcloud/talk-ios,232,Swift,SECURITY.md,📱😀 Video & audio calls through Nextcloud on iOS
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/app_api,https://github.com/nextcloud/app_api,202,PHP,.github/SECURITY.md,Nextcloud AppAPI
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/health,https://github.com/nextcloud/health,104,JavaScript,SECURITY.md,Nextcloud health app
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/security-advisories,https://github.com/nextcloud/security-advisories,80,PHP,SECURITY.md,👮 Security advisories of Nextcloud
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/HaRP,https://github.com/nextcloud/HaRP,57,Python,.github/SECURITY.md,Fast Proxy for AppAPI(Nextcloud 32+)
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_excalidraw,https://github.com/nextcloud/integration_excalidraw,28,JavaScript,SECURITY.md,Integration of Excalidraw whiteboard service
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/.github,https://github.com/nextcloud/.github,26,,SECURITY.md,Nextcloud workflow templates repository
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/docker-socket-proxy,https://github.com/nextcloud/docker-socket-proxy,24,Python,.github/SECURITY.md,Nextcloud AppAPI Docker Socket Proxy
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_discourse,https://github.com/nextcloud/integration_discourse,19,JavaScript,SECURITY.md,🗨️ Discourse integration into Nextcloud
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_twitter,https://github.com/nextcloud/integration_twitter,13,JavaScript,SECURITY.md,🐦 Twitter integration into Nextcloud
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_collaboard,https://github.com/nextcloud/integration_collaboard,9,Vue,SECURITY.md,Collaboard integration in Nextcloud
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_gptzero,https://github.com/nextcloud/integration_gptzero,5,Vue,SECURITY.md,Nextcloud GPTZero integration to detect AI generated content
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/nextcloud-skills,https://github.com/nextcloud/nextcloud-skills,5,Python,SECURITY.md,"Skills for AI agents working with Nextcloud: dev environments, ExApp development in any language, maintenance of installed apps, and AppAPI operations."
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_tmdb,https://github.com/nextcloud/integration_tmdb,3,JavaScript,SECURITY.md,The Movie Database integration in Nextcloud
 Nextcloud,公开平台范围（仅用于策略发现）,roundcube,roundcube/roundcubemail,https://github.com/roundcube/roundcubemail,,,docs/SECURITY.md,
-Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/.github,https://github.com/nodejs/.github,,,SECURITY.md,
-Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/node,https://github.com/nodejs/node,,,SECURITY.md,
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/intrusion_detection,https://github.com/nextcloud/intrusion_detection,0,PHP,SECURITY.md,
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/users_picker,https://github.com/nextcloud/users_picker,0,Vue,SECURITY.md,Profile smart picker and link preview
+Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/node,https://github.com/nodejs/node,123708,JavaScript,SECURITY.md,Node.js JavaScript runtime ✨🐢🚀✨
+Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/.github,https://github.com/nodejs/.github,22,,SECURITY.md,Node.js .github metarepository
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/oasis-core,https://github.com/oasisprotocol/oasis-core,,,docs/SECURITY.md,
 Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/.github,https://github.com/OctopusDeploy/.github,,,SECURITY.md,| Public |  This is the home repository for the https://github.com/OctopusDeploy organization.
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy,https://github.com/omacom/omarchy,,,.github/SECURITY.md,
@@ -10294,6 +10346,7 @@ Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,world
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,30742,TypeScript,SECURITY.md,The most comprehensive authentication framework
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-hub,https://github.com/better-auth/better-hub,1268,TypeScript,SECURITY.md,Re-imagining code collaboration for humans and agents
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-call,https://github.com/better-auth/better-call,823,TypeScript,SECURITY.md,a tiny web framework for typescript
+Vercel,公开平台范围（仅用于策略发现）,nitrojs,nitrojs/nitro-v2,https://github.com/nitrojs/nitro-v2,1,TypeScript,SECURITY.md,Nitro v2 (nitropack) maintenance repo. Active development is at nitrojs/nitro.
 Vercel,公开平台范围（仅用于策略发现）,nitrojs,nitrojs/.github,https://github.com/nitrojs/.github,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/.github,https://github.com/nuxt/.github,,,SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,,,SECURITY.md,
