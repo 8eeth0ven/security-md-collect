@@ -5,12 +5,64 @@
   "full_name": "auth0/nextjs-auth0",
   "url": "https://github.com/auth0/nextjs-auth0",
   "sec_path": "SECURITY.md",
-  "stars": 2315,
+  "stars": 2313,
   "language": "TypeScript",
   "description": "Next.js SDK for signing in with Auth0",
   "license": null,
   "first_seen": "2026-11-14 12:59:36",
   "last_verified": "2026-11-14 12:59:36"
+ },
+ {
+  "vendor": "Auth0 by Okta",
+  "org": "auth0",
+  "full_name": "auth0/auth0-PHP",
+  "url": "https://github.com/auth0/auth0-PHP",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 411,
+  "language": "PHP",
+  "description": "PHP SDK for Auth0 Authentication and Management APIs.",
+  "license": null,
+  "first_seen": "2026-11-15 06:32:49",
+  "last_verified": "2026-11-15 06:32:49"
+ },
+ {
+  "vendor": "Auth0 by Okta",
+  "org": "auth0",
+  "full_name": "auth0/laravel-auth0",
+  "url": "https://github.com/auth0/laravel-auth0",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 273,
+  "language": "PHP",
+  "description": "Laravel SDK for Auth0 Authentication and Management APIs.",
+  "license": null,
+  "first_seen": "2026-11-15 06:33:44",
+  "last_verified": "2026-11-15 06:33:44"
+ },
+ {
+  "vendor": "Auth0 by Okta",
+  "org": "auth0",
+  "full_name": "auth0/opensource-marketplace",
+  "url": "https://github.com/auth0/opensource-marketplace",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": "JavaScript",
+  "description": "A collection 3rd-party code that's used to manage the open source marketplace contributions.",
+  "license": null,
+  "first_seen": "2026-11-15 06:34:09",
+  "last_verified": "2026-11-15 06:34:09"
+ },
+ {
+  "vendor": "Auth0 by Okta",
+  "org": "auth0",
+  "full_name": "auth0/auth0-kmp",
+  "url": "https://github.com/auth0/auth0-kmp",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": "Kotlin",
+  "description": "Kotlin SDK that runs on Kotlin Multiplatform and Android.",
+  "license": null,
+  "first_seen": "2026-11-15 06:33:05",
+  "last_verified": "2026-11-15 06:33:05"
  },
  {
   "vendor": "Auth0 by Okta",
@@ -28,6 +80,19 @@
  {
   "vendor": "Auth0 by Okta",
   "org": "auth0",
+  "full_name": "auth0/terraform-auth0-modules",
+  "url": "https://github.com/auth0/terraform-auth0-modules",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "HCL",
+  "description": "Official Terraform modules for Auth0. Opinionated building blocks on top of the Auth0 Terraform Provider, starting with a complete B2B SaaS identity setup: apps…",
+  "license": null,
+  "first_seen": "2026-11-15 06:34:29",
+  "last_verified": "2026-11-15 06:34:29"
+ },
+ {
+  "vendor": "Auth0 by Okta",
+  "org": "auth0",
   "full_name": "auth0/auth0-php",
   "url": "https://github.com/auth0/auth0-php",
   "sec_path": ".github/SECURITY.md",
@@ -37,5 +102,18 @@
   "license": null,
   "first_seen": "2026-11-14 12:59:36",
   "last_verified": "2026-11-14 12:59:36"
+ },
+ {
+  "vendor": "Auth0 by Okta",
+  "org": "auth0",
+  "full_name": "auth0/discourse",
+  "url": "https://github.com/auth0/discourse",
+  "sec_path": "docs/SECURITY.md",
+  "stars": 0,
+  "language": "Ruby",
+  "description": "A platform for community discussion. Free, open, simple.",
+  "license": null,
+  "first_seen": "2026-11-15 06:33:21",
+  "last_verified": "2026-11-15 06:33:21"
  }
 ]
