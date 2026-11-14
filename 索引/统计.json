@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14 13:34:41",
+ "generated_at": "2026-11-14 14:05:16",
  "mode": "html",
  "totals": {
   "vendors": 304,
   "orgs": 385,
-  "orgs_swept": 317,
-  "sec_repos": 10023,
-  "negative_cached": 50607
+  "orgs_swept": 326,
+  "sec_repos": 10066,
+  "negative_cached": 51058
  },
  "vendors": [
   {
@@ -1991,7 +1991,7 @@
     "deepjavalibrary",
     "strands-agents"
    ],
-   "sec_repos": 5
+   "sec_repos": 6
   },
   {
    "vendor": "Aiven Managed Bug Bounty",
@@ -2300,7 +2300,7 @@
    "orgs": [
     "OpenMage"
    ],
-   "sec_repos": 1
+   "sec_repos": 2
   },
   {
    "vendor": "OpenSea Managed Bug Bounty Program",
@@ -2308,7 +2308,7 @@
    "orgs": [
     "ProjectOpenSea"
    ],
-   "sec_repos": 0
+   "sec_repos": 9
   },
   {
    "vendor": "PagerDuty",
@@ -2340,7 +2340,7 @@
    "orgs": [
     "RIPE-NCC"
    ],
-   "sec_repos": 1
+   "sec_repos": 5
   },
   {
    "vendor": "Revive Adserver",
@@ -2457,7 +2457,7 @@
    "orgs": [
     "WorldHealthOrganization"
    ],
-   "sec_repos": 1
+   "sec_repos": 7
   },
   {
    "vendor": "Weblate",
@@ -2465,7 +2465,7 @@
    "orgs": [
     "WeblateOrg"
    ],
-   "sec_repos": 6
+   "sec_repos": 28
   },
   {
    "vendor": "curl",

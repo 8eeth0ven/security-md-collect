@@ -9767,8 +9767,9 @@ Spotify,自建BB,spotify,spotify/confidence-metrics-sync,https://github.com/spot
 Spotify,自建BB,spotify,spotify/argo-cd,https://github.com/spotify/argo-cd,0,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 Spotify,自建BB,spotify,spotify/bazel,https://github.com/spotify/bazel,0,Java,SECURITY.md,"a fast, scalable, multi-language and extensible build system"
 Spotify,自建BB,backstage,backstage/backstage,https://github.com/backstage/backstage,,,SECURITY.md,
+AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/smart-restart,https://github.com/amazonlinux/smart-restart,8,Shell,SECURITY.md,
+AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/.github,https://github.com/amazonlinux/.github,1,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,amazon-research,amazon-research/.github,https://github.com/amazon-research/.github,,,SECURITY.md,
-AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/.github,https://github.com/amazonlinux/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/.github,https://github.com/aws-actions/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,deepjavalibrary,deepjavalibrary/.github,https://github.com/deepjavalibrary/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/.github,https://github.com/strands-agents/.github,,,SECURITY.md,
@@ -9848,9 +9849,9 @@ Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Ope
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/kafka-config,https://github.com/Aiven-Open/kafka-config,0,Java,SECURITY.md,Utilities to help manage Kafka configuration and configuration definitions
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/kafka-testkit,https://github.com/Aiven-Open/kafka-testkit,0,Java,SECURITY.md,Integration testkit for Kafka connector projects.
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pulverize,https://github.com/Aiven-Open/pulverize,0,Rust,SECURITY.md,break a large file in smaller chunks
-Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/.github,https://github.com/auth0/.github,,,.github/SECURITY.md,
+Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/nextjs-auth0,https://github.com/auth0/nextjs-auth0,2315,TypeScript,SECURITY.md,Next.js SDK for signing in with Auth0
+Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/.github,https://github.com/auth0/.github,3,,.github/SECURITY.md,Org-wide repository files. 
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/auth0-php,https://github.com/auth0/auth0-php,,,.github/SECURITY.md,
-Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/nextjs-auth0,https://github.com/auth0/nextjs-auth0,,,SECURITY.md,
 Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/.github,https://github.com/basecamp/.github,,,SECURITY.md,
 Basecamp,公开平台范围（仅用于策略发现）,basecamp,basecamp/once-campfire,https://github.com/basecamp/once-campfire,,,SECURITY.md,
 Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/.github,https://github.com/bitwarden/.github,,,SECURITY.md,
@@ -9982,10 +9983,24 @@ Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/node,https:/
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/oasis-core,https://github.com/oasisprotocol/oasis-core,,,docs/SECURITY.md,
 Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/.github,https://github.com/OctopusDeploy/.github,,,SECURITY.md,| Public |  This is the home repository for the https://github.com/OctopusDeploy organization.
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy,https://github.com/omacom/omarchy,,,.github/SECURITY.md,
-OpenMage,公开平台范围（仅用于策略发现）,OpenMage,OpenMage/magento-lts,https://github.com/OpenMage/magento-lts,,,.github/SECURITY.md,
+OpenMage,公开平台范围（仅用于策略发现）,OpenMage,OpenMage/magento-lts,https://github.com/OpenMage/magento-lts,938,PHP,.github/SECURITY.md,Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Sec…
+OpenMage,公开平台范围（仅用于策略发现）,OpenMage,OpenMage/magento-composer-installer,https://github.com/OpenMage/magento-composer-installer,1,PHP,SECURITY.md,Composer installer for Magento modules
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/opensea-sdk,https://github.com/ProjectOpenSea/opensea-sdk,2337,TypeScript,SECURITY.md,TypeScript SDK for the OpenSea marketplace
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/seaport-js,https://github.com/ProjectOpenSea/seaport-js,273,TypeScript,SECURITY.md,A TypeScript library to interface with the Seaport marketplace.
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/opensea-skill,https://github.com/ProjectOpenSea/opensea-skill,53,Shell,SECURITY.md,Agent skill for interacting with OpenSea
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/tool-sdk,https://github.com/ProjectOpenSea/tool-sdk,26,TypeScript,SECURITY.md,SDK to help creators create tools for ERC-8257: Agent Tool Registry
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/opensea-cli,https://github.com/ProjectOpenSea/opensea-cli,12,TypeScript,SECURITY.md,Query the OpenSea API from the command line or programmatically
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/instant-reveal-drop-metadata,https://github.com/ProjectOpenSea/instant-reveal-drop-metadata,5,TypeScript,docs/security.md,"Self-hosted metadata server that reveals each NFT the moment it mints, without exposing unminted tokens. For OpenSea Studio drops."
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/tool-registry,https://github.com/ProjectOpenSea/tool-registry,4,Solidity,SECURITY.md,Reference implementation for ERC-8257: Agent Tool Registry
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/wallet-adapters,https://github.com/ProjectOpenSea/wallet-adapters,3,TypeScript,SECURITY.md,"Unified wallet adapter interface for managed signing providers (Privy, Turnkey, Fireblocks, Bankr) and local keys"
+OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/api-types,https://github.com/ProjectOpenSea/api-types,2,TypeScript,SECURITY.md,TypeScript types auto-generated from the OpenSea API OpenAPI spec
 PagerDuty,公开平台范围（仅用于策略发现）,rundeck,rundeck/rundeck,https://github.com/rundeck/rundeck,,,SECURITY.md,
 Plaid,公开平台范围（仅用于策略发现）,plaid,plaid/react-native-plaid-link-sdk,https://github.com/plaid/react-native-plaid-link-sdk,,,SECURITY.md,
-RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/whois,https://github.com/RIPE-NCC/whois,,,SECURITY.md,
+RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/whois,https://github.com/RIPE-NCC/whois,410,Java,SECURITY.md,RIPE Database whois code repository
+RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/rpki-validator-3,https://github.com/RIPE-NCC/rpki-validator-3,61,Java,SECURITY.md,RIPE NCC RPKI Validator 3
+RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/db-web-ui,https://github.com/RIPE-NCC/db-web-ui,12,TypeScript,SECURITY.md,RIPE Database Web Application
+RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/ripe-database-documentation,https://github.com/RIPE-NCC/ripe-database-documentation,7,Shell,SECURITY.md,RIPE Database Documentation
+RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/pretalx,https://github.com/RIPE-NCC/pretalx,1,Python,.github/SECURITY.md,"Conference planning tool: CfP, scheduling, speaker management"
 Revive Adserver,公开平台范围（仅用于策略发现）,revive-adserver,revive-adserver/revive-adserver,https://github.com/revive-adserver/revive-adserver,,,SECURITY.md,
 Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/.github,https://github.com/ruby/.github,,,SECURITY.md,
 Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/ruby,https://github.com/ruby/ruby,,,.github/SECURITY.md,
@@ -10014,11 +10029,39 @@ Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/eve,https://g
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,,,.github/SECURITY.md,
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,,,SECURITY.md,
 Version Cake,公开平台范围（仅用于策略发现）,bwillis,bwillis/versioncake,https://github.com/bwillis/versioncake,,,SECURITY.md,
-WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/app,https://github.com/WorldHealthOrganization/app,,,SECURITY.md,
-Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/.github,https://github.com/WeblateOrg/.github,,,SECURITY.md,
-Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/docker,https://github.com/WeblateOrg/docker,,,SECURITY.md,
-Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/translation-finder,https://github.com/WeblateOrg/translation-finder,,,SECURITY.md,
-Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/weblate,https://github.com/WeblateOrg/weblate,,,SECURITY.md,
-Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/website,https://github.com/WeblateOrg/website,,,SECURITY.md,
-Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/wlc,https://github.com/WeblateOrg/wlc,,,SECURITY.md,
+WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/app,https://github.com/WorldHealthOrganization/app,2114,Dart,SECURITY.md,COVID-19 App
+WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/godata,https://github.com/WorldHealthOrganization/godata,101,HTML,SECURITY.md,"Codebase and Community of Practice for Go.Data (https://goarn.who.int/virtual-spaces/godataproject), an outbreak investigation tool developed by WHO in collabor…"
+WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/open-source-communication-channel,https://github.com/WorldHealthOrganization/open-source-communication-channel,91,Shell,SECURITY.md,"Guides, best practices, templates, and discussions for the WHO open source community"
+WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/smart-trust-network-gateway,https://github.com/WorldHealthOrganization/smart-trust-network-gateway,3,Java,SECURITY.md,Repository for the dgc gateway.
+WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/world-health-org-metrics,https://github.com/WorldHealthOrganization/world-health-org-metrics,3,TypeScript,SECURITY.md,
+WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/MISP,https://github.com/WorldHealthOrganization/MISP,0,PHP,SECURITY.md,MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+WHO COVID-19 Mobile App,公开平台范围（仅用于策略发现）,WorldHealthOrganization,WorldHealthOrganization/org.hl7.fhir.core,https://github.com/WorldHealthOrganization/org.hl7.fhir.core,0,Java,SECURITY.md,
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/weblate,https://github.com/WeblateOrg/weblate,6167,Python,SECURITY.md,Web based localization tool with tight version control integration.
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/docker,https://github.com/WeblateOrg/docker,116,Shell,SECURITY.md,"Official Docker container for Weblate, a libre software web-based continuous localization system "
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/docker-compose,https://github.com/WeblateOrg/docker-compose,96,Shell,SECURITY.md,Docker compose for Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/wlc,https://github.com/WeblateOrg/wlc,48,Python,SECURITY.md,Weblate command line client
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/website,https://github.com/WeblateOrg/website,47,Python,SECURITY.md,Weblate website
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/helm,https://github.com/WeblateOrg/helm,41,Mustache,SECURITY.md,Helm Chart for Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/language-data,https://github.com/WeblateOrg/language-data,32,Python,SECURITY.md,Language definitions used by Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/translation-finder,https://github.com/WeblateOrg/translation-finder,27,Python,SECURITY.md,Translation files finder
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/siphashc,https://github.com/WeblateOrg/siphashc,20,Python,SECURITY.md,python c-module for siphash
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/openshift,https://github.com/WeblateOrg/openshift,15,,SECURITY.md,OpenShift integration for Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/hosted,https://github.com/WeblateOrg/hosted,10,Python,SECURITY.md,Hosted Weblate customizations
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/locale_lint,https://github.com/WeblateOrg/locale_lint,8,Python,SECURITY.md,Linter for localization files powered by Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/.github,https://github.com/WeblateOrg/.github,6,,SECURITY.md,Common files for Weblate organization at GitHub
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/fedora_messaging,https://github.com/WeblateOrg/fedora_messaging,6,Python,SECURITY.md,Fedora messaging integration for Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/kotlin-sdk,https://github.com/WeblateOrg/kotlin-sdk,6,Kotlin,SECURITY.md,Kotlin SDK for Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/customize-example,https://github.com/WeblateOrg/customize-example,4,Python,SECURITY.md,Example how to customize Weblate look
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/scripts,https://github.com/WeblateOrg/scripts,4,Shell,SECURITY.md,Maintenance scripts for Hosted Weblate plafrorm
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/wllegal,https://github.com/WeblateOrg/wllegal,4,HTML,SECURITY.md,Hosted Weblate legal app
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/meta,https://github.com/WeblateOrg/meta,3,Python,SECURITY.md,Meta repository for Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/munin,https://github.com/WeblateOrg/munin,3,Python,SECURITY.md,Munin monitoring for Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/docker-base,https://github.com/WeblateOrg/docker-base,2,JavaScript,SECURITY.md,Base image for Weblate Docker container
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/fail2ban,https://github.com/WeblateOrg/fail2ban,2,,SECURITY.md,Weblate rules for fail2ban
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/graphics,https://github.com/WeblateOrg/graphics,2,Makefile,SECURITY.md,Weblate graphics
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/unicode-segmentation-rs,https://github.com/WeblateOrg/unicode-segmentation-rs,2,Python,SECURITY.md,Unicode segmentation and width for Python using Rust
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/weblate_schemas,https://github.com/WeblateOrg/weblate_schemas,2,Python,SECURITY.md,Schemas used in Weblate
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/fonts,https://github.com/WeblateOrg/fonts,1,CSS,SECURITY.md,Weblate fonts collection
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/arsc-writer,https://github.com/WeblateOrg/arsc-writer,0,Python,SECURITY.md,"A pure-Python library for generating Android resource tables (ARSC) with support for strings, plurals, and styled text."
+Weblate,公开平台范围（仅用于策略发现）,WeblateOrg,WeblateOrg/docker-dev,https://github.com/WeblateOrg/docker-dev,0,JavaScript,SECURITY.md,
 curl,公开平台范围（仅用于策略发现）,curl,curl/curl,https://github.com/curl/curl,,,SECURITY.md,
