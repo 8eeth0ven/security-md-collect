@@ -30,10 +30,12 @@
   "full_name": "grpc/grpc",
   "url": "https://github.com/grpc/grpc",
   "sec_path": "SECURITY.md",
-  "stars": 45444,
+  "stars": 45446,
   "language": "C++",
   "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -41,11 +43,12 @@
   "full_name": "istio/istio",
   "url": "https://github.com/istio/istio",
   "sec_path": ".github/SECURITY.md",
-  "stars": 38505,
+  "stars": 38507,
   "language": "Go",
   "description": "Connect, secure, control, and observe services.",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -93,7 +96,9 @@
   "stars": 23110,
   "language": "Go",
   "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -136,10 +141,12 @@
   "full_name": "grpc/grpc-rust",
   "url": "https://github.com/grpc/grpc-rust",
   "sec_path": "SECURITY.md",
-  "stars": 12550,
+  "stars": 12537,
   "language": "Rust",
   "description": "A native gRPC client & server implementation with async/await support.",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -147,10 +154,12 @@
   "full_name": "grpc/grpc-java",
   "url": "https://github.com/grpc/grpc-java",
   "sec_path": "SECURITY.md",
-  "stars": 12079,
+  "stars": 12078,
   "language": "Java",
   "description": "The Java gRPC implementation. HTTP/2 based RPC",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -174,7 +183,9 @@
   "stars": 9259,
   "language": "JavaScript",
   "description": "gRPC for Web Clients",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -234,7 +245,9 @@
   "stars": 4842,
   "language": "TypeScript",
   "description": "gRPC for Node.js",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -245,7 +258,9 @@
   "stars": 4489,
   "language": "C#",
   "description": "gRPC for .NET",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -329,7 +344,8 @@
   "language": "Go",
   "description": "Istio governance material.",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -398,7 +414,9 @@
   "stars": 2249,
   "language": "Swift",
   "description": "The Swift language implementation of gRPC.",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -443,10 +461,12 @@
   "full_name": "grpc/grpc-kotlin",
   "url": "https://github.com/grpc/grpc-kotlin",
   "sec_path": "SECURITY.md",
-  "stars": 1296,
+  "stars": 1297,
   "language": "Kotlin",
   "description": "Kotlin gRPC implementation. HTTP/2 based RPC",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -482,7 +502,8 @@
   "language": "Go",
   "description": "The Istio proxy components.",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -493,7 +514,9 @@
   "stars": 891,
   "language": "Dart",
   "description": "The Dart language implementation of gRPC.",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -517,7 +540,8 @@
   "language": "HTML",
   "description": "Source for the istio.io site",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -637,7 +661,8 @@
   "language": "Go",
   "description": "API definitions for the Istio project",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -649,7 +674,8 @@
   "language": "Rust",
   "description": "The `ztunnel` component of ambient mesh",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -697,7 +723,8 @@
   "language": "Go",
   "description": "Tools shared by several Istio repositories",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -770,7 +797,8 @@
   "language": "Makefile",
   "description": "Go client libraries for the Istio API.",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -879,7 +907,9 @@
   "stars": 154,
   "language": "Swift",
   "description": "",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -940,7 +970,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -989,7 +1020,8 @@
   "language": "Go",
   "description": "Builds istio releases in a hermetic and reproducible environment",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1013,7 +1045,9 @@
   "stars": 45,
   "language": "Swift",
   "description": "",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1025,7 +1059,8 @@
   "language": "Go",
   "description": "Common packages used by other repos.",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1036,7 +1071,9 @@
   "stars": 41,
   "language": "Swift",
   "description": "",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1084,7 +1121,8 @@
   "language": "C++",
   "description": "Fork of Envoy used for testing and tinkering as part of the Istio dev process",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1119,7 +1157,9 @@
   "stars": 20,
   "language": "Swift",
   "description": "",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1143,7 +1183,8 @@
   "language": null,
   "description": "Enhancement Tracking and Backlog Repo for Istio Releases",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1167,7 +1208,8 @@
   "language": "Shell",
   "description": "Contains build files shared by many Istio repos.",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1216,7 +1258,8 @@
   "language": "Go",
   "description": "Source code for bots used by the Istio project.",
   "license": null,
-  "first_seen": "2026-11-01 22:25:45"
+  "first_seen": "2026-11-01 22:25:45",
+  "last_verified": "2026-11-14 21:34:50"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1436,7 +1479,9 @@
   "stars": 1,
   "language": null,
   "description": "Project metadata for automation and awesomeness",
-  "first_seen": "2026-11-01 21:22:23"
+  "license": null,
+  "first_seen": "2026-11-01 21:22:23",
+  "last_verified": "2026-11-14 21:31:55"
  },
  {
   "vendor": "CNCF云原生基金会",

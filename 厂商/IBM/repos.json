@@ -140,7 +140,9 @@
   "stars": 53,
   "language": "Python",
   "description": "Idempotent functions for IBM Security Appliance REST APIs. Currently covering ISAM and ISDS Appliances.",
-  "first_seen": "2026-11-01 21:49:24"
+  "license": null,
+  "first_seen": "2026-11-01 21:49:24",
+  "last_verified": "2026-11-14 21:33:15"
  },
  {
   "vendor": "IBM",
@@ -1703,10 +1705,12 @@
   "full_name": "IBM-Security/iviadc-aries-askar",
   "url": "https://github.com/IBM-Security/iviadc-aries-askar",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Rust",
   "description": "Private fork of the aries-askar project so that support for DB2 can be added.",
-  "first_seen": "2026-11-01 21:49:24"
+  "license": null,
+  "first_seen": "2026-11-01 21:49:24",
+  "last_verified": "2026-11-14 21:33:15"
  },
  {
   "vendor": "IBM",

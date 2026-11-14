@@ -101,39 +101,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/auto-round",
-  "url": "https://github.com/intel/auto-round",
-  "sec_path": "SECURITY.md",
-  "stars": 1703,
-  "language": "Python",
-  "description": "PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/llvm",
-  "url": "https://github.com/intel/llvm",
-  "sec_path": "SECURITY.md",
-  "stars": 1553,
-  "language": "LLVM",
-  "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/compute-runtime",
-  "url": "https://github.com/intel/compute-runtime",
-  "sec_path": "Security.md",
-  "stars": 1466,
-  "language": "C++",
-  "description": "Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/confidential-computing.sgx",
   "url": "https://github.com/intel/confidential-computing.sgx",
   "sec_path": "SECURITY.md",
@@ -274,17 +241,6 @@
   "language": "Python",
   "description": "Intel® AI Reference Models: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors and Intel® Data Center GPUs",
   "first_seen": "2026-11-01 21:52:54"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/intel-graphics-compiler",
-  "url": "https://github.com/intel/intel-graphics-compiler",
-  "sec_path": "SECURITY.md",
-  "stars": 726,
-  "language": "C++",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1017,17 +973,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/mlir-extensions",
-  "url": "https://github.com/intel/mlir-extensions",
-  "sec_path": "security.md",
-  "stars": 158,
-  "language": "MLIR",
-  "description": "Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/cm-compiler",
   "url": "https://github.com/intel/cm-compiler",
   "sec_path": "SECURITY.md",
@@ -1138,17 +1083,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/device-modeling-language",
-  "url": "https://github.com/intel/device-modeling-language",
-  "sec_path": "SECURITY.md",
-  "stars": 140,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/opencl-clang",
   "url": "https://github.com/intel/opencl-clang",
   "sec_path": "SECURITY.md",
@@ -1233,17 +1167,6 @@
   "language": "Python",
   "description": "Pretrain, finetune and serve LLMs on Intel platforms with Ray",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/torch-xpu-ops",
-  "url": "https://github.com/intel/torch-xpu-ops",
-  "sec_path": "SECURITY.md",
-  "stars": 121,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -1853,17 +1776,6 @@
   "language": "Go",
   "description": "Intel® System Health Inspector (aka svr-info) is a Linux command line tool used to assess the health of Intel® Xeon® processor-based servers.",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/workload-services-framework",
-  "url": "https://github.com/intel/workload-services-framework",
-  "sec_path": "SECURITY.md",
-  "stars": 59,
-  "language": "Shell",
-  "description": "Workload Services Framework (WSF) is a benchmarking framework on Intel(R) Xeon(R) Platforms",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -2869,17 +2781,6 @@
   "language": "Shell",
   "description": "Edge Insights for Vision (eiv) is a package that helps to auto install Intel® GPU drivers and setup environment for Inference application development using Open…",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/dokimi",
-  "url": "https://github.com/intel/dokimi",
-  "sec_path": "SECURITY.md",
-  "stars": 21,
-  "language": "Python",
-  "description": "Dokimi (Greek δοκιμή, \"test, proof\") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -4455,6 +4356,19 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/confidential-computing.tee.dcap.k8s.qgs",
+  "url": "https://github.com/intel/confidential-computing.tee.dcap.k8s.qgs",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Rust",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/AI-Adventure-Game-Assistant",
   "url": "https://github.com/intel/AI-Adventure-Game-Assistant",
   "sec_path": "SECURITY.md",
@@ -5530,6 +5444,110 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/llvm",
+  "url": "https://github.com/intel/llvm",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "LLVM",
+  "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/torch-xpu-ops",
+  "url": "https://github.com/intel/torch-xpu-ops",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/intel-graphics-compiler",
+  "url": "https://github.com/intel/intel-graphics-compiler",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C++",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/dokimi",
+  "url": "https://github.com/intel/dokimi",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Dokimi (Greek δοκιμή, \"test, proof\") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/compute-runtime",
+  "url": "https://github.com/intel/compute-runtime",
+  "sec_path": "Security.md",
+  "stars": 3,
+  "language": "C++",
+  "description": "Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/workload-services-framework",
+  "url": "https://github.com/intel/workload-services-framework",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Shell",
+  "description": "Workload Services Framework (WSF) is a benchmarking framework on Intel(R) Xeon(R) Platforms",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/mlir-extensions",
+  "url": "https://github.com/intel/mlir-extensions",
+  "sec_path": "security.md",
+  "stars": 3,
+  "language": "MLIR",
+  "description": "Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/auto-round",
+  "url": "https://github.com/intel/auto-round",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/SVS-Extension-for-PostgreSQL",
   "url": "https://github.com/intel/SVS-Extension-for-PostgreSQL",
   "sec_path": "SECURITY.md",
@@ -5541,23 +5559,25 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/device-modeling-language",
+  "url": "https://github.com/intel/device-modeling-language",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/gpu-base-operator",
   "url": "https://github.com/intel/gpu-base-operator",
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "Go",
   "description": "Intel GPU Base operator allows automatic deployment of GPU related components to enable use of Intel GPU hardware within the Kubernetes cluster.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/confidential-computing.tee.dcap.k8s.qgs",
-  "url": "https://github.com/intel/confidential-computing.tee.dcap.k8s.qgs",
-  "sec_path": "SECURITY.md",
-  "stars": 3,
-  "language": "Rust",
-  "description": "",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -7804,7 +7824,8 @@
   "language": "C",
   "description": "The Remote Provisioning Client (RPC) communicates with the Manageability Engine Interface (MEI) and Remote Provisioning Service (RPS) interfaces. ",
   "license": null,
-  "first_seen": "2026-11-01 22:25:08"
+  "first_seen": "2026-11-01 22:25:08",
+  "last_verified": "2026-11-14 21:34:44"
  },
  {
   "vendor": "Intel",

@@ -294,8 +294,8 @@ Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https:
 Apache软件基金会,无(开源基金会),apache,apache/.github,https://github.com/apache/.github,,,.github/SECURITY.md,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,67599,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52603,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45444,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38505,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45446,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38507,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29230,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25833,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24601,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
@@ -303,8 +303,8 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19437,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17094,Go,SECURITY.md,Workflow Engine for Kubernetes
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13923,Go,SECURITY.md,Exporter for machine metrics
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12550,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12079,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12537,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12078,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),containerd,containerd/nerdctl,https://github.com/containerd/nerdctl,10481,Go,SECURITY.md,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-web,https://github.com/grpc/grpc-web,9259,JavaScript,SECURITY.md,gRPC for Web Clients
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,https://github.com/prometheus/alertmanager,8700,Go,SECURITY.md,Prometheus Alertmanager
@@ -329,7 +329,7 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-swift,https://github.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/snmp_exporter,https://github.com/prometheus/snmp_exporter,2199,Go,SECURITY.md,SNMP Exporter for Prometheus
 CNCF云原生基金会,无(开源基金会),containerd,containerd/runwasi,https://github.com/containerd/runwasi,1349,Rust,SECURITY.md,Facilitates running Wasm / WASI workloads managed by containerd
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-gce,https://github.com/kubernetes/ingress-gce,1302,Go,SECURITY.md,Ingress controller for Google Cloud
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-kotlin,https://github.com/grpc/grpc-kotlin,1296,Kotlin,SECURITY.md,Kotlin gRPC implementation. HTTP/2 based RPC
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-kotlin,https://github.com/grpc/grpc-kotlin,1297,Kotlin,SECURITY.md,Kotlin gRPC implementation. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/statsd_exporter,https://github.com/prometheus/statsd_exporter,990,Go,SECURITY.md,StatsD to Prometheus metrics exporter
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,981,Java,SECURITY.md,Metrics exporter for Amazon AWS CloudWatch
 CNCF云原生基金会,无(开源基金会),istio,istio/proxy,https://github.com/istio/proxy,916,Go,.github/SECURITY.md,The Istio proxy components.
@@ -794,10 +794,10 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/rds-supabase-fullstack,https://github.com/huaweicloud/rds-supabase-fullstack,2,Python,SECURITY.md,云托管RDS数据库Supabase应用MCP
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/aishell-dsh-plugins,https://github.com/huaweicloud/aishell-dsh-plugins,1,,SECURITY.md,Huawei Cloud AI Shell Plugins Based on DSH.
 华为云,Huawei PSIRT,huaweicloud,huaweicloud/repository-requests,https://github.com/huaweicloud/repository-requests,1,Python,SECURITY.md,huaweicloud 组织建仓机器人：提交建仓申请 Issue → 校验 → 审批 → 自动创建仓库
-华为云,Huawei PSIRT,huaweicloud,huaweicloud/devspace-devbox,https://github.com/huaweicloud/devspace-devbox,,,SECURITY.md,开发者环境沙箱端侧项目，包含SDK、CLI
-华为云,Huawei PSIRT,huaweicloud,huaweicloud/.github,https://github.com/huaweicloud/.github,,,SECURITY.md,
-华为云,Huawei PSIRT,huaweicloud,huaweicloud/huaweicloud-mcp,https://github.com/huaweicloud/huaweicloud-mcp,,Python,SECURITY.md,Huawei Cloud MCPs
-华为云,Huawei PSIRT,huaweicloud,huaweicloud/huaweicloud-cli,https://github.com/huaweicloud/huaweicloud-cli,,,SECURITY.md,用于对外开源提供华为云mcp项目
+华为云,Huawei PSIRT,huaweicloud,huaweicloud/devspace-devbox,https://github.com/huaweicloud/devspace-devbox,0,,SECURITY.md,开发者环境沙箱端侧项目，包含SDK、CLI
+华为云,Huawei PSIRT,huaweicloud,huaweicloud/.github,https://github.com/huaweicloud/.github,,Python,SECURITY.md,huaweicloud 组织治理配置中心（Issue/PR 模板、工作流、脚本、规则）
+华为云,Huawei PSIRT,huaweicloud,huaweicloud/huaweicloud-mcp,https://github.com/huaweicloud/huaweicloud-mcp,0,Python,SECURITY.md,Huawei Cloud MCPs
+华为云,Huawei PSIRT,huaweicloud,huaweicloud/huaweicloud-cli,https://github.com/huaweicloud/huaweicloud-cli,0,,SECURITY.md,用于对外开源提供华为云mcp项目
 小米,MiSRC,XiaoMi,XiaoMi/bsworld,https://github.com/XiaoMi/bsworld,17,Python,SECURITY.md,"Hardware-free Bluetooth simulation framework for AI agents and CI. Runs Zephyr, NuttX, NimBLE, BlueZ, Bumble, and Trouble concurrently—with deterministic result…"
 vivo,无,vivo,vivo/RustAdBlockWrapper,https://github.com/vivo/RustAdBlockWrapper,5,Rust,SECURITY.md,Vivo browser implements ad blocking capabilities based on Rust language
 vivo,无,vivo,vivo/starrocks,https://github.com/vivo/starrocks,1,Java,SECURITY.md,"StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, re…"
@@ -832,16 +832,16 @@ UCloud,无,ucloud,ucloud/spark,https://github.com/ucloud/spark,0,Scala,docs/secu
 唯品会,VSRC,vipshop,vipshop/kubeblocks,https://github.com/vipshop/kubeblocks,0,Go,SECURITY.md,"KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s."
 唯品会,VSRC,vipshop,vipshop/higress,https://github.com/vipshop/higress,0,Go,SECURITY.md,🤖 AI Gateway | AI Native API Gateway
 唯品会,VSRC,vipshop,vipshop/istio,https://github.com/vipshop/istio,0,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
-科大讯飞,无,iflytek,iflytek/astron-rpa,https://github.com/iflytek/astron-rpa,5256,Python,SECURITY.md,Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
+科大讯飞,无,iflytek,iflytek/astron-rpa,https://github.com/iflytek/astron-rpa,5258,Python,SECURITY.md,Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 科大讯飞,无,iflytek,iflytek/AutoSpark,https://github.com/iflytek/AutoSpark,50,Python,SECURITY.md,基于SuperAGI 专注中文领域的大模型AI应用框架
 科大讯飞,无,iflytek,iflytek/memflywheel,https://github.com/iflytek/memflywheel,42,TypeScript,SECURITY.md,"Agent-native long-term memory that learns after every run. File-native, auditable, and integrated with Pi, Hermes, OpenCode, and OpenClaw."
 科大讯飞,无,iflytek,iflytek/domux,https://github.com/iflytek/domux,33,Python,SECURITY.md,"A lightweight low-latency model converting natural home commands into structured data, fine-tuned via SFT and GRPO."
-科大讯飞,无,iflytek,iflytek/dolphin-mcp-pilot,https://github.com/iflytek/dolphin-mcp-pilot,23,Python,SECURITY.md,"Production-ready MCP server for Apache DolphinScheduler (小海豚) — lets AI agents build, schedule, run and recover workflows"
+科大讯飞,无,iflytek,iflytek/dolphin-mcp-pilot,https://github.com/iflytek/dolphin-mcp-pilot,24,Python,SECURITY.md,"Production-ready MCP server for Apache DolphinScheduler (小海豚) — lets AI agents build, schedule, run and recover workflows"
 科大讯飞,无,iflytek,iflytek/website,https://github.com/iflytek/website,3,Astro,SECURITY.md,Official website for iflytek opensource
 科大讯飞,无,iflytek,iflytek/community,https://github.com/iflytek/community,3,Makefile,SECURITY.md,Welcome to iflytek AI opensource community
 科大讯飞,无,iflytek,iflytek/proposals,https://github.com/iflytek/proposals,1,HTML,SECURITY.md,Opensource proposal and shedule
-科大讯飞,无,iflytek,iflytek/.github,https://github.com/iflytek/.github,,,SECURITY.md,
-科大讯飞,无,iflytek,iflytek/prow,https://github.com/iflytek/prow,,Go,SECURITY.md,Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documen…
+科大讯飞,无,iflytek,iflytek/.github,https://github.com/iflytek/.github,,,SECURITY.md,Organization-wide community health files for iFLYTEK
+科大讯飞,无,iflytek,iflytek/prow,https://github.com/iflytek/prow,0,Go,SECURITY.md,Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documen…
 寒武纪,无,cambricon,Cambricon/torch_mlu_ci,https://github.com/Cambricon/torch_mlu_ci,1,Python,SECURITY.md,
 旷视,无,megvii-research,megvii-research/megfile,https://github.com/megvii-research/megfile,179,Python,SECURITY.md,Megvii FILE Library - Working with Files in Python same as the standard library
 旷视,无,megvii-research,megvii-research/megstore,https://github.com/megvii-research/megstore,5,Python,SECURITY.md,Common Formats. Uncommon Speed.
@@ -4864,7 +4864,7 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/fs-solution-guides-resources,https://github
 IBM,自建PSIRT（X-Force）,IBM,IBM/Kubernetes-Lite,https://github.com/IBM/Kubernetes-Lite,,Python,SECURITY.md,"Kubernetes Lite is a ""liteweight"" wrapper around various golang Kubernetes libraries using gopy"
 IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/key-protect-pkcs11,https://github.com/IBM-Cloud/key-protect-pkcs11,,,SECURITY.md,PKCS11 Libraries for Key Protect for IBM Cloud
 IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/redhat-ai-instructlab-taxonomy,https://github.com/IBM-Cloud/redhat-ai-instructlab-taxonomy,,Python,SECURITY.md,
-IBM,自建PSIRT（X-Force）,ibm-security,IBM-Security/iviadc-aries-askar,https://github.com/IBM-Security/iviadc-aries-askar,,Rust,SECURITY.md,Private fork of the aries-askar project so that support for DB2 can be added.
+IBM,自建PSIRT（X-Force）,ibm-security,IBM-Security/iviadc-aries-askar,https://github.com/IBM-Security/iviadc-aries-askar,0,Rust,SECURITY.md,Private fork of the aries-askar project so that support for DB2 can be added.
 IBM,自建PSIRT（X-Force）,IBM,IBM/Datastax-Vector-Search-demos,https://github.com/IBM/Datastax-Vector-Search-demos,0,,SECURITY.md,Completed watsonx.data vector search demos
 IBM,自建PSIRT（X-Force）,IBM,IBM/ibm-smc-operator,https://github.com/IBM/ibm-smc-operator,0,,SECURITY.md,IBM SMC Operator for OpenShift on IBM Z and LinuxONE
 IBM,自建PSIRT（X-Force）,IBM,IBM/partner-solution-hub,https://github.com/IBM/partner-solution-hub,0,,SECURITY.md,Partner Solution Hub
@@ -4882,9 +4882,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/BigDL,https://github.com/intel/Bi
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-extension-for-transformers,https://github.com/intel/intel-extension-for-transformers,2173,Python,SECURITY.md,⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 Intel,自建（Intel Bug Bounty）,intel,intel/openvino-plugins-ai-audacity,https://github.com/intel/openvino-plugins-ai-audacity,2160,C++,security.md,"A set of AI-enabled effects, generators, and analyzers for Audacity®."
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-extension-for-pytorch,https://github.com/intel/intel-extension-for-pytorch,2005,Python,SECURITY.md,A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
-Intel,自建（Intel Bug Bounty）,intel,intel/auto-round,https://github.com/intel/auto-round,1703,Python,SECURITY.md,"PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度"
-Intel,自建（Intel Bug Bounty）,intel,intel/llvm,https://github.com/intel/llvm,1553,LLVM,SECURITY.md,Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
-Intel,自建（Intel Bug Bounty）,intel,intel/compute-runtime,https://github.com/intel/compute-runtime,1466,C++,Security.md,Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.sgx,https://github.com/intel/confidential-computing.sgx,1461,C++,SECURITY.md,Intel® Software Guard Extensions (Intel® SGX)
 Intel,自建（Intel Bug Bounty）,intel,intel/media-driver,https://github.com/intel/media-driver,1256,C,security.md,"Intel Graphics Media Driver to support hardware decode, encode and video processing."
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/oneAPI-samples,https://github.com/oneapi-src/oneAPI-samples,1170,C++,SECURITY.md,Samples for Intel® oneAPI Toolkits
@@ -4898,7 +4895,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/libva,https://github.com/intel/li
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-cmt-cat,https://github.com/intel/intel-cmt-cat,756,C,SECURITY.md,User space software for Intel(R) Resource Director Technology
 Intel,自建（Intel Bug Bounty）,intel,intel/libipt,https://github.com/intel/libipt,743,C,SECURITY.md,libipt - an Intel(R) Processor Trace decoder library
 Intel,自建（Intel Bug Bounty）,intel,intel/ai-reference-models,https://github.com/intel/ai-reference-models,731,Python,SECURITY.md,Intel® AI Reference Models: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors and Intel® Data Center GPUs
-Intel,自建（Intel Bug Bounty）,intel,intel/intel-graphics-compiler,https://github.com/intel/intel-graphics-compiler,726,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-npu-acceleration-library,https://github.com/intel/intel-npu-acceleration-library,713,Python,SECURITY.md,Intel® NPU Acceleration Library
 Intel,自建（Intel Bug Bounty）,intel,intel/thermal_daemon,https://github.com/intel/thermal_daemon,673,C++,SECURITY.md,Thermal daemon for IA
 Intel,自建（Intel Bug Bounty）,intel,intel/compile-time-init-build,https://github.com/intel/compile-time-init-build,657,C++,security.md,C++ library for composing modular firmware at compile-time.
@@ -4965,7 +4961,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/ehsm,https://github.com/intel/ehs
 Intel,自建（Intel Bug Bounty）,intel,intel/pmem-csi,https://github.com/intel/pmem-csi,164,Go,SECURITY.md,Persistent Memory Container Storage Interface Driver
 Intel,自建（Intel Bug Bounty）,intel,intel/vpl-gpu-rt,https://github.com/intel/vpl-gpu-rt,160,C++,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/iotg_tsn_ref_sw,https://github.com/intel/iotg_tsn_ref_sw,159,C,Security.md,IOTG Time-Sensitive Networking Reference Software
-Intel,自建（Intel Bug Bounty）,intel,intel/mlir-extensions,https://github.com/intel/mlir-extensions,158,MLIR,security.md,Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.
 Intel,自建（Intel Bug Bounty）,intel,intel/cm-compiler,https://github.com/intel/cm-compiler,154,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/processwatch,https://github.com/intel/processwatch,153,C,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-device-plugins-for-kubernetes,https://github.com/intel/intel-device-plugins-for-kubernetes,152,Go,SECURITY.md,Collection of Intel device plugins for Kubernetes
@@ -4976,7 +4971,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/mOS,https://github.com/intel/mOS,
 Intel,自建（Intel Bug Bounty）,intel,intel/ros_openvino_toolkit,https://github.com/intel/ros_openvino_toolkit,147,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/pm-graph,https://github.com/intel/pm-graph,144,Python,SECURITY.md,"The Suspend/Resume project provides a tool for system developers to visualize the activity between suspend and resume, allowing them to identify inefficiencies …"
 Intel,自建（Intel Bug Bounty）,intel,intel/openvino-rs,https://github.com/intel/openvino-rs,143,Rust,SECURITY.md,Rust bindings for OpenVINO™ 
-Intel,自建（Intel Bug Bounty）,intel,intel/device-modeling-language,https://github.com/intel/device-modeling-language,140,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/opencl-clang,https://github.com/intel/opencl-clang,139,C,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/oneapi-containers,https://github.com/intel/oneapi-containers,139,Singularity,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/optimization-zone,https://github.com/intel/optimization-zone,139,Shell,SECURITY.md,Data Center and Client workload and software optimizations for Intel hardware.
@@ -4985,7 +4979,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/fMBT,https://github.com/intel/fMB
 Intel,自建（Intel Bug Bounty）,intel,intel/cpp-std-extensions,https://github.com/intel/cpp-std-extensions,131,C++,security.md,Extensions to the C++ standard library. This library implements polyfills to enable library functionality from later versions of C++ to be used in earlier versi…
 Intel,自建（Intel Bug Bounty）,intel,intel/RealTimePathTracingResearchFramework,https://github.com/intel/RealTimePathTracingResearchFramework,130,C,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/llm-on-ray,https://github.com/intel/llm-on-ray,129,Python,security.md,"Pretrain, finetune and serve LLMs on Intel platforms with Ray"
-Intel,自建（Intel Bug Bounty）,intel,intel/torch-xpu-ops,https://github.com/intel/torch-xpu-ops,121,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/SDM-Processor-Topology-Enumeration,https://github.com/intel/SDM-Processor-Topology-Enumeration,119,C,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/yask,https://github.com/intel/yask,119,C++,SECURITY.md,YASK--Yet Another Stencil Kit: a domain-specific language and framework to create high-performance stencil code for implementing finite-difference methods and s…
 Intel,自建（Intel Bug Bounty）,intel,intel/rohd-hcl,https://github.com/intel/rohd-hcl,117,Dart,SECURITY.md,A hardware component library developed with ROHD.
@@ -5041,7 +5034,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/linux-kernel-overlay,https://gith
 Intel,自建（Intel Bug Bounty）,intel,intel/xetla,https://github.com/intel/xetla,61,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/vc-intrinsics,https://github.com/intel/vc-intrinsics,60,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/svr-info,https://github.com/intel/svr-info,60,Go,security.md,Intel® System Health Inspector (aka svr-info) is a Linux command line tool used to assess the health of Intel® Xeon® processor-based servers.
-Intel,自建（Intel Bug Bounty）,intel,intel/workload-services-framework,https://github.com/intel/workload-services-framework,59,Shell,SECURITY.md,Workload Services Framework (WSF) is a benchmarking framework on Intel(R) Xeon(R) Platforms
 Intel,自建（Intel Bug Bounty）,intel,intel/mainline-tracking,https://github.com/intel/mainline-tracking,59,Roff,security.md,"This project is hosting an upstream tracking, rebasing branch of technology and enabling development for selected Intel platforms. It will get updates following…"
 Intel,自建（Intel Bug Bounty）,intel,intel/thin-layout-optimizer,https://github.com/intel/thin-layout-optimizer,59,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/ACON,https://github.com/intel/ACON,59,Rust,security.md,
@@ -5133,7 +5125,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/Board-Instrumentation-Framework,h
 Intel,自建（Intel Bug Bounty）,intel,intel/linux-kernel-oops,https://github.com/intel/linux-kernel-oops,22,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-technology-enabling-for-openshift,https://github.com/intel/intel-technology-enabling-for-openshift,22,Python,security.md,The project delivers a comprehensive full-stack solution for the Intel® Enterprise AI Foundation on the OpenShift platform to provision Intel AI and Xeon accele…
 Intel,自建（Intel Bug Bounty）,intel,intel/edge-insights-vision,https://github.com/intel/edge-insights-vision,22,Shell,security.md,Edge Insights for Vision (eiv) is a package that helps to auto install Intel® GPU drivers and setup environment for Inference application development using Open…
-Intel,自建（Intel Bug Bounty）,intel,intel/dokimi,https://github.com/intel/dokimi,21,Python,SECURITY.md,"Dokimi (Greek δοκιμή, ""test, proof"") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…"
 Intel,自建（Intel Bug Bounty）,intel,intel/pf-bb-config,https://github.com/intel/pf-bb-config,21,C,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/tiny-tensor-compiler,https://github.com/intel/tiny-tensor-compiler,21,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/power-optimization-library,https://github.com/intel/power-optimization-library,21,Go,SECURITY.md,
@@ -5276,6 +5267,7 @@ Intel,自建（Intel Bug Bounty）,intel,intel/multi-camera-object-detection,htt
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/computational-fluid-dynamics,https://github.com/oneapi-src/computational-fluid-dynamics,9,Python,SECURITY.md,AI Starter Kit for fluid Flow Profiling using Intel® Optimized Tensorflow*
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/disease-prediction,https://github.com/oneapi-src/disease-prediction,9,Python,SECURITY.md,AI Starter Kit for the implementation of AI-based NLP Disease Prediction system using Intel® Extension for PyTorch* and Intel® Neural Compressor
 Intel,自建（Intel Bug Bounty）,intel,intel/enterprise-inference,https://github.com/intel/enterprise-inference,8,Python,SECURITY.md,"Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO™ Model Server behind a unified AI gateway…"
+Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.tee.dcap.k8s.qgs,https://github.com/intel/confidential-computing.tee.dcap.k8s.qgs,8,Rust,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/AI-Adventure-Game-Assistant,https://github.com/intel/AI-Adventure-Game-Assistant,8,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/pisa,https://github.com/intel/pisa,8,,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/ippcp-plugin-rocksdb,https://github.com/intel/ippcp-plugin-rocksdb,8,C++,security.md,
@@ -5373,9 +5365,17 @@ Intel,自建（Intel Bug Bounty）,intel,intel/Intel-ECI-ExCat-Ansible,https://g
 Intel,自建（Intel Bug Bounty）,intel,intel/go-runtime-optimizations,https://github.com/intel/go-runtime-optimizations,4,,security.md,
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/powerline-fault-detection,https://github.com/oneapi-src/powerline-fault-detection,4,Python,SECURITY.md,AI Starter Kit for detect faulty signals in power line voltage using Intel® Extension for Scikit-learn*
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/customer-segmentation,https://github.com/oneapi-src/customer-segmentation,4,Python,SECURITY.md,AI Starter Kit for Customer Segmentation for Online Retail using Intel® Extension for Scikit-learn*
+Intel,自建（Intel Bug Bounty）,intel,intel/llvm,https://github.com/intel/llvm,3,LLVM,SECURITY.md,Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
+Intel,自建（Intel Bug Bounty）,intel,intel/torch-xpu-ops,https://github.com/intel/torch-xpu-ops,3,Python,SECURITY.md,
+Intel,自建（Intel Bug Bounty）,intel,intel/intel-graphics-compiler,https://github.com/intel/intel-graphics-compiler,3,C++,SECURITY.md,
+Intel,自建（Intel Bug Bounty）,intel,intel/dokimi,https://github.com/intel/dokimi,3,Python,SECURITY.md,"Dokimi (Greek δοκιμή, ""test, proof"") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…"
+Intel,自建（Intel Bug Bounty）,intel,intel/compute-runtime,https://github.com/intel/compute-runtime,3,C++,Security.md,Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
+Intel,自建（Intel Bug Bounty）,intel,intel/workload-services-framework,https://github.com/intel/workload-services-framework,3,Shell,SECURITY.md,Workload Services Framework (WSF) is a benchmarking framework on Intel(R) Xeon(R) Platforms
+Intel,自建（Intel Bug Bounty）,intel,intel/mlir-extensions,https://github.com/intel/mlir-extensions,3,MLIR,security.md,Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.
+Intel,自建（Intel Bug Bounty）,intel,intel/auto-round,https://github.com/intel/auto-round,3,Python,SECURITY.md,"PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度"
 Intel,自建（Intel Bug Bounty）,intel,intel/SVS-Extension-for-PostgreSQL,https://github.com/intel/SVS-Extension-for-PostgreSQL,3,Perl,SECURITY.md,
+Intel,自建（Intel Bug Bounty）,intel,intel/device-modeling-language,https://github.com/intel/device-modeling-language,3,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/gpu-base-operator,https://github.com/intel/gpu-base-operator,3,Go,SECURITY.md,Intel GPU Base operator allows automatic deployment of GPU related components to enable use of Intel GPU hardware within the Kubernetes cluster.
-Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.tee.dcap.k8s.qgs,https://github.com/intel/confidential-computing.tee.dcap.k8s.qgs,3,Rust,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/Samples-for-Microsoft-AI-Foundry,https://github.com/intel/Samples-for-Microsoft-AI-Foundry,3,C#,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/containers,https://github.com/intel/containers,3,Dockerfile,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/SyclKittens,https://github.com/intel/SyclKittens,3,C++,SECURITY.md,
@@ -7050,16 +7050,16 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 富士通,自建PSIRT,fujitsu,fujitsu/jpug-doc,https://github.com/fujitsu/jpug-doc,0,C,.github/SECURITY.md,PostgreSQL database manual Japanese translation by Japan PostgreSQL Users Group
 日立,自建PSIRT,hitachi,Hitachi/keycloak,https://github.com/Hitachi/keycloak,2,Java,SECURITY.md,Open Source Identity and Access Management For Modern Applications and Services
 日立,自建PSIRT,hitachi,Hitachi/podman,https://github.com/Hitachi/podman,1,Go,SECURITY.md,Podman: A tool for managing OCI containers and pods.
-日立,自建PSIRT,hitachi,Hitachi/backstage,https://github.com/Hitachi/backstage,,TypeScript,SECURITY.md,Backstage is an open framework for building developer portals
-日立,自建PSIRT,hitachi,Hitachi/agentgateway,https://github.com/Hitachi/agentgateway,,Rust,SECURITY.md,Next Generation Agentic Proxy for AI Agents and MCP servers
-日立,自建PSIRT,hitachi,Hitachi/fabric,https://github.com/Hitachi/fabric,,Go,SECURITY.md,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design …
-日立,自建PSIRT,hitachi,Hitachi/fabric-samples,https://github.com/Hitachi/fabric-samples,,Go,SECURITY.md,Samples for Hyperledger Fabric
-日立,自建PSIRT,hitachi,Hitachi/fabric-chaincode-go,https://github.com/Hitachi/fabric-chaincode-go,,Go,SECURITY.md,Hyperledger Fabric Packages for Go Chaincode
-日立,自建PSIRT,hitachi,Hitachi/fabric-gateway,https://github.com/Hitachi/fabric-gateway,,Java,SECURITY.md,"Go, Node and Java client API for Hyperledger Fabric v2.4+"
-日立,自建PSIRT,hitachi,Hitachi/fabric-ca,https://github.com/Hitachi/fabric-ca,,Go,SECURITY.md,
-日立,自建PSIRT,hitachi,Hitachi/community-plugins,https://github.com/Hitachi/community-plugins,,TypeScript,SECURITY.md,Community plugins for Backstage
-日立,自建PSIRT,hitachi,Hitachi/modelcontextprotocol,https://github.com/Hitachi/modelcontextprotocol,,TypeScript,SECURITY.md,Specification and documentation for the Model Context Protocol
-日立,自建PSIRT,hitachi,Hitachi/common,https://github.com/Hitachi/common,,Go,SECURITY.md,Location for shared common files in github.com/containers repos.
+日立,自建PSIRT,hitachi,Hitachi/backstage,https://github.com/Hitachi/backstage,0,TypeScript,SECURITY.md,Backstage is an open framework for building developer portals
+日立,自建PSIRT,hitachi,Hitachi/agentgateway,https://github.com/Hitachi/agentgateway,0,Rust,SECURITY.md,Next Generation Agentic Proxy for AI Agents and MCP servers
+日立,自建PSIRT,hitachi,Hitachi/fabric,https://github.com/Hitachi/fabric,0,Go,SECURITY.md,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design …
+日立,自建PSIRT,hitachi,Hitachi/fabric-samples,https://github.com/Hitachi/fabric-samples,0,Go,SECURITY.md,Samples for Hyperledger Fabric
+日立,自建PSIRT,hitachi,Hitachi/fabric-chaincode-go,https://github.com/Hitachi/fabric-chaincode-go,0,Go,SECURITY.md,Hyperledger Fabric Packages for Go Chaincode
+日立,自建PSIRT,hitachi,Hitachi/fabric-gateway,https://github.com/Hitachi/fabric-gateway,0,Java,SECURITY.md,"Go, Node and Java client API for Hyperledger Fabric v2.4+"
+日立,自建PSIRT,hitachi,Hitachi/fabric-ca,https://github.com/Hitachi/fabric-ca,0,Go,SECURITY.md,
+日立,自建PSIRT,hitachi,Hitachi/community-plugins,https://github.com/Hitachi/community-plugins,0,TypeScript,SECURITY.md,Community plugins for Backstage
+日立,自建PSIRT,hitachi,Hitachi/modelcontextprotocol,https://github.com/Hitachi/modelcontextprotocol,0,TypeScript,SECURITY.md,Specification and documentation for the Model Context Protocol
+日立,自建PSIRT,hitachi,Hitachi/common,https://github.com/Hitachi/common,0,Go,SECURITY.md,Location for shared common files in github.com/containers repos.
 日立,自建PSIRT,pentaho,pentaho/commons-jxpath,https://github.com/pentaho/commons-jxpath,0,Java,SECURITY.md,Apache Commons JXPath
 日立,自建PSIRT,pentaho,pentaho/jackson-dataformats-text,https://github.com/pentaho/jackson-dataformats-text,0,Java,SECURITY.md,"Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)"
 诺基亚,自建PSIRT,nokia,nokia/nephio-nephio,https://github.com/nokia/nephio-nephio,3,Go,SECURITY.md,"Nephio is a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such as 5G Network Functions, and the u…"
@@ -7768,8 +7768,8 @@ Docker,HackerOne（Docker）,moby,moby/octoguard,https://github.com/moby/octogua
 Docker,HackerOne（Docker）,docker,docker/dockside-releases,https://github.com/docker/dockside-releases,0,,SECURITY.md,"Dockside releases (CLI + console for MCP Gateway Enterprise), owned by @docker/relok8s-maintainers"
 Docker,HackerOne（Docker）,docker,docker/docs-toolkit,https://github.com/docker/docs-toolkit,0,Shell,SECURITY.md,
 Docker,HackerOne（Docker）,moby,moby/klauspost-compress,https://github.com/moby/klauspost-compress,0,Go,SECURITY.md,
-HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcl,https://github.com/hashicorp/hcl,5835,Go,SECURITY.md,HCL is the HashiCorp configuration language.
-HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/memberlist,https://github.com/hashicorp/memberlist,4130,Go,SECURITY.md,Golang package for gossip based membership and failure detection
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcl,https://github.com/hashicorp/hcl,5837,Go,SECURITY.md,HCL is the HashiCorp configuration language.
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/memberlist,https://github.com/hashicorp/memberlist,4129,Go,SECURITY.md,Golang package for gossip based membership and failure detection
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/agent-skills,https://github.com/hashicorp/agent-skills,928,HCL,SECURITY.md,A collection of Agent skills and Claude Code plugins for HashiCorp products.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-k8s,https://github.com/hashicorp/terraform-k8s,448,Go,.github/SECURITY.md,Terraform Cloud Operator for Kubernetes
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcp-terraform-operator,https://github.com/hashicorp/hcp-terraform-operator,184,Go,.github/SECURITY.md,Kubernetes Operator allows managing HCP Terraform resources via Kubernetes Custom Resources.
@@ -7778,6 +7778,7 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-asser
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/cluster-api-provider-terraform-cloud,https://github.com/hashicorp/cluster-api-provider-terraform-cloud,37,Go,.github/SECURITY.md,Kubernetes Cluster API Provider for Terraform Cloud
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-tfcoremock,https://github.com/hashicorp/terraform-provider-tfcoremock,21,Go,.github/SECURITY.md,Terraform mock provider - Used to configure and test Terraform configuration edge cases and output.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-plugin-framework-timeouts,https://github.com/hashicorp/terraform-plugin-framework-timeouts,11,Go,.github/SECURITY.md,"Convenience functions and types for timeouts, for use with terraform-plugin-framework"
+HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/.github,https://github.com/hashicorp/.github,9,,SECURITY.md,HashiCorp Default Community Health Files
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/magic-modules,https://github.com/hashicorp/magic-modules,8,Go,.github/SECURITY.md,Automatically generate Google Cloud Platform support for OSS IaaC Projects
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcp-scada-provider,https://github.com/hashicorp/hcp-scada-provider,8,Go,SECURITY.md,HCP SCADA Provider
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-ultradns,https://github.com/hashicorp/terraform-provider-ultradns,7,Go,.github/SECURITY.md,Terraform UltraDNS provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.…
@@ -7789,7 +7790,6 @@ HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcp-link,https://github.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/microservices-architecture-on-aws-sentinel,https://github.com/hashicorp/microservices-architecture-on-aws-sentinel,1,HCL,.github/SECURITY.md,Sentinel policy sets for the microservices-architecture-on-aws repo
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/microservices-architecture-on-aws-consul,https://github.com/hashicorp/microservices-architecture-on-aws-consul,1,HCL,.github/SECURITY.md,Terraform Consul configuration for the microservices-architecture-on-aws repo
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/terraform-provider-github,https://github.com/hashicorp/terraform-provider-github,1,Go,SECURITY.md,Moved to https://github.com/integrations/terraform-provider-github
-HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/.github,https://github.com/hashicorp/.github,,,SECURITY.md,
 Elastic,自建（Elastic Security）,elastic,elastic/kibana,https://github.com/elastic/kibana,21376,TypeScript,SECURITY.md,Your window into all of your data
 Elastic,自建（Elastic Security）,elastic,elastic/elasticsearch-js,https://github.com/elastic/elasticsearch-js,5290,TypeScript,SECURITY.md,Official Elasticsearch client library for Node.js
 Elastic,自建（Elastic Security）,elastic,elastic/supply-chain-monitor,https://github.com/elastic/supply-chain-monitor,533,Python,SECURITY.md,
@@ -9501,8 +9501,8 @@ Lyft,自建BB,lyft,lyft/skopeo,https://github.com/lyft/skopeo,0,Go,SECURITY.md,"
 Lyft,自建BB,lyft,lyft/image,https://github.com/lyft/image,0,Go,SECURITY.md,Work with containers' images
 Lyft,自建BB,lyft,lyft/flask,https://github.com/lyft/flask,0,Python,.github/SECURITY.md,The Python micro framework for building web applications.
 Lyft,自建BB,lyft,lyft/coredns,https://github.com/lyft/coredns,0,Go,SECURITY.md,CoreDNS is a DNS server that chains plugins
-Instacart,自建BB,instacart,instacart/puma,https://github.com/instacart/puma,,Ruby,SECURITY.md,A Ruby/Rack web server built for parallelism
-Instacart,自建BB,instacart,instacart/coredns,https://github.com/instacart/coredns,,Go,SECURITY.md,CoreDNS is a DNS server that chains plugins
+Instacart,自建BB,instacart,instacart/puma,https://github.com/instacart/puma,0,Ruby,SECURITY.md,A Ruby/Rack web server built for parallelism
+Instacart,自建BB,instacart,instacart/coredns,https://github.com/instacart/coredns,0,Go,.github/SECURITY.md,CoreDNS is a DNS server that chains plugins
 Deliveroo,自建BB,deliveroo,deliveroo/trivy-aquasecurity,https://github.com/deliveroo/trivy-aquasecurity,0,Go,SECURITY.md,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
 Deliveroo,自建BB,deliveroo,deliveroo/mcp-atlassian,https://github.com/deliveroo/mcp-atlassian,0,Python,SECURITY.md,"MCP server for Atlassian tools (Confluence, Jira)"
 Deliveroo,自建BB,deliveroo,deliveroo/facebook-ios-sdk,https://github.com/deliveroo/facebook-ios-sdk,0,Swift,SECURITY.md,Used to integrate the Facebook Platform with your iOS & tvOS apps.

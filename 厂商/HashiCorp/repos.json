@@ -5,10 +5,12 @@
   "full_name": "hashicorp/hcl",
   "url": "https://github.com/hashicorp/hcl",
   "sec_path": "SECURITY.md",
-  "stars": 5835,
+  "stars": 5837,
   "language": "Go",
   "description": "HCL is the HashiCorp configuration language.",
-  "first_seen": "2026-11-01 21:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 21:24:21",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -16,7 +18,7 @@
   "full_name": "hashicorp/memberlist",
   "url": "https://github.com/hashicorp/memberlist",
   "sec_path": "SECURITY.md",
-  "stars": 4130,
+  "stars": 4129,
   "language": "Go",
   "description": "Golang package for gossip based membership and failure detection",
   "license": null,
@@ -31,7 +33,9 @@
   "stars": 928,
   "language": "HCL",
   "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
-  "first_seen": "2026-11-01 21:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 21:24:21",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -43,7 +47,8 @@
   "language": "Go",
   "description": "Terraform Cloud Operator for Kubernetes",
   "license": null,
-  "first_seen": "2026-11-02 05:21:46"
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -55,7 +60,8 @@
   "language": "Go",
   "description": "Kubernetes Operator allows managing HCP Terraform resources via Kubernetes Custom Resources.",
   "license": null,
-  "first_seen": "2026-11-02 05:20:46"
+  "first_seen": "2026-11-02 05:20:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -67,7 +73,8 @@
   "language": "HCL",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-02 05:20:46"
+  "first_seen": "2026-11-02 05:20:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -79,7 +86,8 @@
   "language": "Go",
   "description": "Offers functions to validate and assert values within Terraform configurations, simplifying variable validation and custom conditions.",
   "license": null,
-  "first_seen": "2026-11-02 05:21:46"
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -91,7 +99,8 @@
   "language": "Go",
   "description": "Kubernetes Cluster API Provider for Terraform Cloud",
   "license": null,
-  "first_seen": "2026-11-02 05:21:46"
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -102,7 +111,9 @@
   "stars": 21,
   "language": "Go",
   "description": "Terraform mock provider - Used to configure and test Terraform configuration edge cases and output.",
-  "first_seen": "2026-11-01 21:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 21:24:21",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -119,6 +130,19 @@
  {
   "vendor": "HashiCorp",
   "org": "hashicorp",
+  "full_name": "hashicorp/.github",
+  "url": "https://github.com/hashicorp/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 9,
+  "language": null,
+  "description": "HashiCorp Default Community Health Files",
+  "license": null,
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 12:58:57"
+ },
+ {
+  "vendor": "HashiCorp",
+  "org": "hashicorp",
   "full_name": "hashicorp/magic-modules",
   "url": "https://github.com/hashicorp/magic-modules",
   "sec_path": ".github/SECURITY.md",
@@ -126,7 +150,8 @@
   "language": "Go",
   "description": "Automatically generate Google Cloud Platform support for OSS IaaC Projects",
   "license": null,
-  "first_seen": "2026-11-02 05:21:46"
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -150,7 +175,8 @@
   "language": "Go",
   "description": "Terraform UltraDNS provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.…",
   "license": null,
-  "first_seen": "2026-11-02 05:22:45"
+  "first_seen": "2026-11-02 05:22:45",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -161,7 +187,9 @@
   "stars": 6,
   "language": "Go",
   "description": "Terraform Equivalence Testing - Used to test and monitor changes to Terraform execution and output.",
-  "first_seen": "2026-11-01 21:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 21:24:21",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -172,7 +200,9 @@
   "stars": 5,
   "language": "Python",
   "description": " Agentic pipeline that converts Sentinel/OPA policies to Terraform Policy (tfpolicy) format, with automated test generation and validation.",
-  "first_seen": "2026-11-01 21:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 21:24:21",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -184,7 +214,8 @@
   "language": "Go",
   "description": "Microsoft Azure SDK for Go",
   "license": null,
-  "first_seen": "2026-11-02 05:21:46"
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -196,7 +227,8 @@
   "language": "Go",
   "description": "This has moved to https://github.com/microsoft/terraform-provider-azuredevops",
   "license": null,
-  "first_seen": "2026-11-02 05:22:45"
+  "first_seen": "2026-11-02 05:22:45",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -208,7 +240,8 @@
   "language": "Go",
   "description": "HCP Link",
   "license": null,
-  "first_seen": "2026-11-02 05:21:46"
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -220,7 +253,8 @@
   "language": "HCL",
   "description": "Sentinel policy sets for the microservices-architecture-on-aws repo",
   "license": null,
-  "first_seen": "2026-11-02 05:20:46"
+  "first_seen": "2026-11-02 05:20:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -232,7 +266,8 @@
   "language": "HCL",
   "description": "Terraform Consul configuration for the microservices-architecture-on-aws repo",
   "license": null,
-  "first_seen": "2026-11-02 05:21:46"
+  "first_seen": "2026-11-02 05:21:46",
+  "last_verified": "2026-11-14 21:32:46"
  },
  {
   "vendor": "HashiCorp",
@@ -244,19 +279,7 @@
   "language": "Go",
   "description": "Moved to https://github.com/integrations/terraform-provider-github",
   "license": null,
-  "first_seen": "2026-11-02 05:22:45"
- },
- {
-  "vendor": "HashiCorp",
-  "org": "hashicorp",
-  "full_name": "hashicorp/.github",
-  "url": "https://github.com/hashicorp/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-02 05:21:46",
-  "last_verified": "2026-11-14 12:58:57"
+  "first_seen": "2026-11-02 05:22:45",
+  "last_verified": "2026-11-14 21:32:46"
  }
 ]
