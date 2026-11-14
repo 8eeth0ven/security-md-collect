@@ -10040,16 +10040,30 @@ Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/cli,ht
 Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/gitops-secrets-nodejs,https://github.com/DopplerHQ/gitops-secrets-nodejs,27,JavaScript,SECURITY.md,GitOps encrypted secrets workflow for Node.js
 Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/winget-pkgs,https://github.com/DopplerHQ/winget-pkgs,2,PowerShell,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
 Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/node-newrelic,https://github.com/DopplerHQ/node-newrelic,0,JavaScript,SECURITY.md,"New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support,…"
-Electroneum Legacy Blockchain: EOL,公开平台范围（仅用于策略发现）,electroneum,electroneum/electroneum-sc,https://github.com/electroneum/electroneum-sc,,,SECURITY.md,
+Electroneum Legacy Blockchain: EOL,公开平台范围（仅用于策略发现）,electroneum,electroneum/electroneum-sc,https://github.com/electroneum/electroneum-sc,21,Go,SECURITY.md,"Electroneum is a Layer 1 EVM-compatible blockchain, catering to 4+ million users worldwide."
+Electroneum Legacy Blockchain: EOL,公开平台范围（仅用于策略发现）,electroneum,electroneum/electroneum-web3.js,https://github.com/electroneum/electroneum-web3.js,0,TypeScript,SECURITY.md,Electroneum SmartChain JavaScript API
 European Space Agency (ESA) VDP,公开平台范围（仅用于策略发现）,ESA,esa/nse2,https://github.com/esa/nse2,4,Python,SECURITY.md,A containerized network simulation & emulation environment (nse2) with support for fluctuating connectivity.
-Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/mpc-lib,https://github.com/fireblocks/mpc-lib,,,SECURITY.md,
-GoCardless Bug Bounty Program,公开平台范围（仅用于策略发现）,gocardless,gocardless/.github,https://github.com/gocardless/.github,,,SECURITY.md,
+Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/mpc-lib,https://github.com/fireblocks/mpc-lib,274,C++,SECURITY.md,
+Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/fireblocks-smart-contracts,https://github.com/fireblocks/fireblocks-smart-contracts,9,Solidity,SECURITY.md,
+Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/fireblocks-staking-eth-link,https://github.com/fireblocks/fireblocks-staking-eth-link,1,TypeScript,SECURITY.md,
+Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/x402-facilitator,https://github.com/fireblocks/x402-facilitator,1,TypeScript,SECURITY.md,"HTTP 402 payment facilitator — verifies EIP-712 signatures and settles on-chain via Fireblocks. Supports EIP-3009, Permit2, and ERC-7710. "
+Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/x402-agent,https://github.com/fireblocks/x402-agent,0,TypeScript,SECURITY.md,Fireblocks x402 Payment Agent — reference TypeScript client (CLI + MCP server) for the x402 micropayment protocol using Fireblocks MPC signing
+GoCardless Bug Bounty Program,公开平台范围（仅用于策略发现）,gocardless,gocardless/nandi,https://github.com/gocardless/nandi,149,Ruby,SECURITY.md,Fear-free migrations for PostgreSQL
+GoCardless Bug Bounty Program,公开平台范围（仅用于策略发现）,gocardless,gocardless/business-python,https://github.com/gocardless/business-python,16,Python,SECURITY.md,Python business day calculations
+GoCardless Bug Bounty Program,公开平台范围（仅用于策略发现）,gocardless,gocardless/atlantis,https://github.com/gocardless/atlantis,1,Go,SECURITY.md,Terraform For Teams
+GoCardless Bug Bounty Program,公开平台范围（仅用于策略发现）,gocardless,gocardless/.github,https://github.com/gocardless/.github,,,SECURITY.md,Community health file defaults for GoCardless
+GoCardless Bug Bounty Program,公开平台范围（仅用于策略发现）,gocardless,gocardless/gocardless-chatgpt-ui-tbd,https://github.com/gocardless/gocardless-chatgpt-ui-tbd,0,TypeScript,SECURITY.md,Gocardless version of ChatGPT UI.
 HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/react-datepicker,https://github.com/Hacker0x01/react-datepicker,8390,TypeScript,SECURITY.md,A simple and reusable datepicker component for React
 HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/cube,https://github.com/Hacker0x01/cube,0,Rust,SECURITY.md,"📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics"
 HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/cube-internal,https://github.com/Hacker0x01/cube-internal,0,Rust,SECURITY.md,"📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics"
 HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/migration-lock-timeout,https://github.com/Hacker0x01/migration-lock-timeout,0,Ruby,SECURITY.md,A Ruby gem that adds a lock timeout to Active Record migrations
 HackerOne,公开平台范围（仅用于策略发现）,Hacker0x01,Hacker0x01/ocsf-emitter,https://github.com/Hacker0x01/ocsf-emitter,0,Python,SECURITY.md,
-Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/ts-immutable-sdk,https://github.com/immutable/ts-immutable-sdk,,,SECURITY.md,
+Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/contracts,https://github.com/immutable/contracts,46,Solidity,SECURITY.md,Smart contracts for developers in the Immutable ecosystem. 
+Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/ts-immutable-sdk,https://github.com/immutable/ts-immutable-sdk,23,TypeScript,SECURITY.md,Immutable Typescript SDK
+Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/zkevm-bridge-contracts,https://github.com/immutable/zkevm-bridge-contracts,18,Solidity,SECURITY.md,Smart contracts for the Immutable zkEVM native bridge
+Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/immutable-geth,https://github.com/immutable/immutable-geth,4,Go,SECURITY.md,
+Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/wallet-contracts,https://github.com/immutable/wallet-contracts,3,TypeScript,security.md,
+Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/optimism-experimental,https://github.com/immutable/optimism-experimental,0,Go,SECURITY.md,"Optimism is Ethereum, scaled."
 Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kDrive,https://github.com/Infomaniak/desktop-kDrive,124,C++,SECURITY.md,:computer: Desktop Syncing Client for kDrive
 Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/android-kSync,https://github.com/Infomaniak/android-kSync,25,Kotlin,SECURITY.md,Fork of DAVx⁵ with Infomaniak login and branding
 Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/kchat-webapp_old,https://github.com/Infomaniak/kchat-webapp_old,14,TypeScript,SECURITY.md,
@@ -10120,9 +10134,16 @@ Revive Adserver,公开平台范围（仅用于策略发现）,revive-adserver,re
 Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/.github,https://github.com/ruby/.github,,,SECURITY.md,
 Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/ruby,https://github.com/ruby/ruby,,,.github/SECURITY.md,
 Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/rails,https://github.com/rails/rails,,,.github/security.md,
-SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop,https://github.com/freedomofpress/securedrop,,,SECURITY.md,
-SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-client,https://github.com/freedomofpress/securedrop-client,,,SECURITY.md,
-SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-workstation,https://github.com/freedomofpress/securedrop-workstation,,,SECURITY.md,
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/dangerzone,https://github.com/freedomofpress/dangerzone,5843,Python,SECURITY.md,"Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs"
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop,https://github.com/freedomofpress/securedrop,3894,Python,SECURITY.md,GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-workstation,https://github.com/freedomofpress/securedrop-workstation,188,Python,SECURITY.md,Qubes-based SecureDrop Journalist Workstation environment for submission handling
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-client,https://github.com/freedomofpress/securedrop-client,59,TypeScript,SECURITY.md,an Electron-based GUI for SecureDrop journalists 📰🗞️
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-i18n,https://github.com/freedomofpress/securedrop-i18n,8,Python,SECURITY.md,securedrop translations - do not install from here or file PRs here! please use https://github.com/freedomofpress/securedrop
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/maint-dangerzone-conmon,https://github.com/freedomofpress/maint-dangerzone-conmon,1,C,SECURITY.md,An OCI container runtime monitor.
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/ingress-nginx,https://github.com/freedomofpress/ingress-nginx,0,Go,SECURITY.md,NGINX Ingress Controller for Kubernetes
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-updater,https://github.com/freedomofpress/securedrop-updater,0,Python,SECURITY.md,Update policy enforcement for the SecureDrop Workstation
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-workstation-keyring,https://github.com/freedomofpress/securedrop-workstation-keyring,0,Makefile,SECURITY.md,
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/wagtail-vega,https://github.com/freedomofpress/wagtail-vega,0,Python,docs/security.md,Proof of concept integration of Wagtail and Vega
 Solidus,公开平台范围（仅用于策略发现）,solidusio,solidusio/.github,https://github.com/solidusio/.github,,,SECURITY.md,
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/.github,https://github.com/supabase/.github,,,SECURITY.md,
 TRON DAO,公开平台范围（仅用于策略发现）,tronprotocol,tronprotocol/java-tron,https://github.com/tronprotocol/java-tron,,,SECURITY.md,

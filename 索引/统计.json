@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14 15:05:10",
+ "generated_at": "2026-11-14 15:35:29",
  "mode": "html",
  "totals": {
   "vendors": 304,
   "orgs": 385,
-  "orgs_swept": 342,
-  "sec_repos": 10186,
-  "negative_cached": 51857
+  "orgs_swept": 350,
+  "sec_repos": 10207,
+  "negative_cached": 52311
  },
  "vendors": [
   {
@@ -2112,7 +2112,7 @@
    "orgs": [
     "electroneum"
    ],
-   "sec_repos": 1
+   "sec_repos": 2
   },
   {
    "vendor": "Electroneum Smart Chain (ETN-SC) — EVM-Compatible Blockchain",
@@ -2150,7 +2150,7 @@
    "orgs": [
     "fireblocks"
    ],
-   "sec_repos": 1
+   "sec_repos": 5
   },
   {
    "vendor": "GoCardless Bug Bounty Program",
@@ -2158,7 +2158,7 @@
    "orgs": [
     "gocardless"
    ],
-   "sec_repos": 1
+   "sec_repos": 5
   },
   {
    "vendor": "HackerOne",
@@ -2174,7 +2174,7 @@
    "orgs": [
     "immutable"
    ],
-   "sec_repos": 1
+   "sec_repos": 6
   },
   {
    "vendor": "Infinite Athlete",
@@ -2372,7 +2372,7 @@
    "orgs": [
     "freedomofpress"
    ],
-   "sec_repos": 3
+   "sec_repos": 10
   },
   {
    "vendor": "Solidus",
