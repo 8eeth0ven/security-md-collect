@@ -5,7 +5,7 @@
   "full_name": "mattermost/mattermost",
   "url": "https://github.com/mattermost/mattermost",
   "sec_path": "SECURITY.md",
-  "stars": 39610,
+  "stars": 39614,
   "language": "TypeScript",
   "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
   "license": null,
@@ -115,6 +115,32 @@
   "license": null,
   "first_seen": "2026-11-14 13:00:04",
   "last_verified": "2026-11-14 13:00:04"
+ },
+ {
+  "vendor": "Mattermost Public Bug Bounty Engagement",
+  "org": "mattermost",
+  "full_name": "mattermost/xml-roundtrip-validator",
+  "url": "https://github.com/mattermost/xml-roundtrip-validator",
+  "sec_path": "SECURITY.md",
+  "stars": 80,
+  "language": "Go",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-15 07:34:09",
+  "last_verified": "2026-11-15 07:34:09"
+ },
+ {
+  "vendor": "Mattermost Public Bug Bounty Engagement",
+  "org": "mattermost",
+  "full_name": "mattermost/rtcd",
+  "url": "https://github.com/mattermost/rtcd",
+  "sec_path": "docs/security.md",
+  "stars": 35,
+  "language": "Go",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-15 07:34:09",
+  "last_verified": "2026-11-15 07:34:09"
  },
  {
   "vendor": "Mattermost Public Bug Bounty Engagement",

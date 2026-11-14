@@ -5,12 +5,38 @@
   "full_name": "nodejs/node",
   "url": "https://github.com/nodejs/node",
   "sec_path": "SECURITY.md",
-  "stars": 123708,
+  "stars": 123719,
   "language": "JavaScript",
   "description": "Node.js JavaScript runtime ✨🐢🚀✨",
   "license": null,
   "first_seen": "2026-11-14 13:00:11",
   "last_verified": "2026-11-14 13:00:11"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/docker-node",
+  "url": "https://github.com/nodejs/docker-node",
+  "sec_path": "SECURITY.md",
+  "stars": 8596,
+  "language": "Dockerfile",
+  "description": "Official Docker Images for Node.js :whale: :turtle: :rocket: ",
+  "license": null,
+  "first_seen": "2026-11-15 07:34:50",
+  "last_verified": "2026-11-15 07:34:50"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/ecmascript-modules",
+  "url": "https://github.com/nodejs/ecmascript-modules",
+  "sec_path": "SECURITY.md",
+  "stars": 72,
+  "language": "JavaScript",
+  "description": "A fork of Node.js to hash out ideas related to ESModules",
+  "license": null,
+  "first_seen": "2026-11-15 07:34:58",
+  "last_verified": "2026-11-15 07:34:58"
  },
  {
   "vendor": "Node.js",
@@ -24,5 +50,18 @@
   "license": null,
   "first_seen": "2026-11-14 13:00:11",
   "last_verified": "2026-11-14 13:00:11"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/ffi",
+  "url": "https://github.com/nodejs/ffi",
+  "sec_path": "SECURITY.md",
+  "stars": 7,
+  "language": "JavaScript",
+  "description": "Working repo for the Node.js VM/FFI Effort",
+  "license": null,
+  "first_seen": "2026-11-15 07:34:58",
+  "last_verified": "2026-11-15 07:34:58"
  }
 ]

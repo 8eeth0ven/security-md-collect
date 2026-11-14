@@ -9789,6 +9789,19 @@ Spotify,自建BB,spotify,spotify/volcano,https://github.com/spotify/volcano,2,Go
 Spotify,自建BB,spotify,spotify/confidence-metrics-sync,https://github.com/spotify/confidence-metrics-sync,1,Go,SECURITY.md,Manage Confidence metrics as code with YAML and GitHub Actions
 Spotify,自建BB,spotify,spotify/argo-cd,https://github.com/spotify/argo-cd,0,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 Spotify,自建BB,spotify,spotify/bazel,https://github.com/spotify/bazel,0,Java,SECURITY.md,"a fast, scalable, multi-language and extensible build system"
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jitsi-meet,https://github.com/jitsi/jitsi-meet,30238,TypeScript,SECURITY.md,"Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jitsi-videobridge,https://github.com/jitsi/jitsi-videobridge,3110,Kotlin,SECURITY.md,"Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferen…"
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jitsi-meet-electron,https://github.com/jitsi/jitsi-meet-electron,1635,TypeScript,SECURITY.md,Jitsi Meet desktop application powered by :electron:
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/lib-jitsi-meet,https://github.com/jitsi/lib-jitsi-meet,1418,TypeScript,SECURITY.md,A low-level JS video API that allows adding a completely custom video experience to web apps.
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jibri,https://github.com/jitsi/jibri,673,Kotlin,SECURITY.md,Jitsi BRoadcasting Infrastructure
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/libjitsi,https://github.com/jitsi/libjitsi,653,Java,SECURITY.md,Advanced Java media library for secure real-time audio/video communication.
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jigasi,https://github.com/jitsi/jigasi,614,Java,SECURITY.md,Jigasi: a server-side application acting as a gateway to Jitsi Meet conferences. Currently allows regular SIP clients to join meetings and provides transcriptio…
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jicofo,https://github.com/jitsi/jicofo,347,Kotlin,SECURITY.md,JItsi COnference FOcus is a server side focus component used in Jitsi Meet conferences.
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/handbook,https://github.com/jitsi/handbook,229,JavaScript,docs/security.md,The Jitsi Handbook
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/moderated-meetings,https://github.com/jitsi/moderated-meetings,24,Java,SECURITY.md,Jitsi Moderated Meetings microservice
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jicoco,https://github.com/jitsi/jicoco,21,Kotlin,SECURITY.md,Jitsi Common Components
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jitsi-utils,https://github.com/jitsi/jitsi-utils,21,Java,SECURITY.md,A set of basic Java/Kotlin utilities used in Jitsi projects.
+8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/changed-files,https://github.com/jitsi/changed-files,0,TypeScript,SECURITY.md,":octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories."
 AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/harness-sdk,https://github.com/strands-agents/harness-sdk,9205,TypeScript,SECURITY.md,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
 AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/box,https://github.com/strands-agents/box,545,Rust,SECURITY.md,"Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood poli…"
 AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/shell,https://github.com/strands-agents/shell,299,Rust,SECURITY.md,Give your agent a shell without giving it the keys to your machine.
@@ -10139,20 +10152,20 @@ Just Eat Takeaway.com,公开平台范围（仅用于策略发现）,justeattakea
 Just Eat Takeaway.com,公开平台范围（仅用于策略发现）,justeattakeaway,justeattakeaway/JustEat.StatsD,https://github.com/justeattakeaway/JustEat.StatsD,27,C#,SECURITY.md,Our library for publishing metrics to statsd
 Just Eat Takeaway.com,公开平台范围（仅用于策略发现）,justeattakeaway,justeattakeaway/IntervalAnnotatedString,https://github.com/justeattakeaway/IntervalAnnotatedString,6,Kotlin,SECURITY.md,A tiny Android utility library that simplifies the process of creating and managing embedded links and styles within a localised text block 🔗
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kubebuilder,https://github.com/kubernetes-sigs/kubebuilder,9368,Go,.github/SECURITY.md,Kubebuilder - SDK for building Kubernetes APIs using CRDs
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/headlamp,https://github.com/kubernetes-sigs/headlamp,7627,TypeScript,SECURITY.md,"A Kubernetes web UI that is fully-featured, user-friendly and extensible"
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/headlamp,https://github.com/kubernetes-sigs/headlamp,7629,TypeScript,SECURITY.md,"A Kubernetes web UI that is fully-featured, user-friendly and extensible"
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/metrics-server,https://github.com/kubernetes-sigs/metrics-server,6782,Go,SECURITY.md,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/agent-sandbox,https://github.com/kubernetes-sigs/agent-sandbox,4606,Go,SECURITY.md,"agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL)."
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/agent-sandbox,https://github.com/kubernetes-sigs/agent-sandbox,4610,Go,SECURITY.md,"agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL)."
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kwok,https://github.com/kubernetes-sigs/kwok,3225,Go,SECURITY.md,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kueue,https://github.com/kubernetes-sigs/kueue,3157,Go,SECURITY.md,:vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kro,https://github.com/kubernetes-sigs/kro,3091,Go,SECURITY.md,kro | Kube Resource Orchestrator
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kueue,https://github.com/kubernetes-sigs/kueue,3159,Go,SECURITY.md,:vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kro,https://github.com/kubernetes-sigs/kro,3092,Go,SECURITY.md,kro | Kube Resource Orchestrator
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kubernetes-mixin,https://github.com/kubernetes-sigs/kubernetes-mixin,2493,Jsonnet,SECURITY.md, A set of Grafana dashboards and Prometheus alerts for Kubernetes.
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/karpenter,https://github.com/kubernetes-sigs/karpenter,2274,Go,SECURITY.md,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity."
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/karpenter,https://github.com/kubernetes-sigs/karpenter,2275,Go,SECURITY.md,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity."
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/prometheus-adapter,https://github.com/kubernetes-sigs/prometheus-adapter,2094,Go,SECURITY.md,An implementation of the custom.metrics.k8s.io API using Prometheus
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kube-scheduler-simulator,https://github.com/kubernetes-sigs/kube-scheduler-simulator,1105,Go,SECURITY.md,The simulator for the Kubernetes scheduler
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kube-scheduler-simulator,https://github.com/kubernetes-sigs/kube-scheduler-simulator,1104,Go,SECURITY.md,The simulator for the Kubernetes scheduler
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/ingress2gateway,https://github.com/kubernetes-sigs/ingress2gateway,1057,Go,SECURITY.md,Convert Ingress resources to Gateway API resources
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/lws,https://github.com/kubernetes-sigs/lws,908,Go,SECURITY.md,LeaderWorkerSet & DisaggregatedSet: Kubernetes APIs for Distributed and Disaggregated AI Serving
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/security-profiles-operator,https://github.com/kubernetes-sigs/security-profiles-operator,884,C,SECURITY.md,The Kubernetes Security Profiles Operator
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/gateway-api-inference-extension,https://github.com/kubernetes-sigs/gateway-api-inference-extension,801,Go,SECURITY.md,Gateway API Inference Extension
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/security-profiles-operator,https://github.com/kubernetes-sigs/security-profiles-operator,885,C,SECURITY.md,The Kubernetes Security Profiles Operator
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/gateway-api-inference-extension,https://github.com/kubernetes-sigs/gateway-api-inference-extension,802,Go,SECURITY.md,Gateway API Inference Extension
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/e2e-framework,https://github.com/kubernetes-sigs/e2e-framework,671,Go,SECURITY.md,A Go framework for end-to-end testing of components running in Kubernetes clusters.
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/alibaba-cloud-csi-driver,https://github.com/kubernetes-sigs/alibaba-cloud-csi-driver,588,Go,SECURITY.md,"CSI Plugin for Kubernetes, Support Alibaba Cloud EBS/NAS/OSS/CPFS"
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/cloud-provider-kind,https://github.com/kubernetes-sigs/cloud-provider-kind,514,Go,SECURITY.md,Cloud provider for KIND clusters
@@ -10163,7 +10176,7 @@ Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kuberne
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/cloud-provider-azure,https://github.com/kubernetes-sigs/cloud-provider-azure,293,Go,.github/SECURITY.md,Cloud provider for Azure
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/cluster-api-operator,https://github.com/kubernetes-sigs/cluster-api-operator,291,Go,SECURITY.md,"Home for Cluster API Operator, a subproject of sig-cluster-lifecycle"
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/kubectl-validate,https://github.com/kubernetes-sigs/kubectl-validate,278,Go,SECURITY.md,
-Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/inference-perf,https://github.com/kubernetes-sigs/inference-perf,273,Python,SECURITY.md,GenAI inference performance benchmarking tool
+Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/inference-perf,https://github.com/kubernetes-sigs/inference-perf,274,Python,SECURITY.md,GenAI inference performance benchmarking tool
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/mcs-api,https://github.com/kubernetes-sigs/mcs-api,262,Go,SECURITY.md,This repository hosts the Multi-Cluster Service APIs. Providers can import packages in this repo to ensure their multi-cluster service controller implementation…
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/zeitgeist,https://github.com/kubernetes-sigs/zeitgeist,206,Go,.github/SECURITY.md,Zeitgeist: the language-agnostic dependency checker
 Kubernetes,公开平台范围（仅用于策略发现）,kubernetes-sigs,kubernetes-sigs/cluster-api-provider-kubevirt,https://github.com/kubernetes-sigs/cluster-api-provider-kubevirt,185,Go,SECURITY.md,Cluster API Provider for KubeVirt
@@ -10267,11 +10280,11 @@ Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,light
 Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,lightsparkdev,lightsparkdev/flutter-sdk,https://github.com/lightsparkdev/flutter-sdk,1,Dart,SECURITY.md,Lightspark Dart and Flutter SDKs
 Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,lightsparkdev,lightsparkdev/grid-js-sdk,https://github.com/lightsparkdev/grid-js-sdk,0,TypeScript,SECURITY.md,Generated JS SDK for the Grid API
 Lightspark Public Bug Bounty,公开平台范围（仅用于策略发现）,lightsparkdev,lightsparkdev/grid-kotlin-sdk,https://github.com/lightsparkdev/grid-kotlin-sdk,0,Kotlin,SECURITY.md,Generated Kotlin SDK for the Grid API
-Matomo,公开平台范围（仅用于策略发现）,matomo-org,matomo-org/matomo,https://github.com/matomo-org/matomo,22027,PHP,SECURITY.md,"Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving yo…"
+Matomo,公开平台范围（仅用于策略发现）,matomo-org,matomo-org/matomo,https://github.com/matomo-org/matomo,22026,PHP,SECURITY.md,"Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving yo…"
 Matomo,公开平台范围（仅用于策略发现）,matomo-org,matomo-org/docker,https://github.com/matomo-org/docker,1007,Shell,SECURITY.md,Official Docker project for Matomo Analytics
 Matomo,公开平台范围（仅用于策略发现）,matomo-org,matomo-org/matomo-java-tracker,https://github.com/matomo-org/matomo-java-tracker,82,Java,SECURITY.md,Official Java implementation of the Matomo Tracking HTTP API.
 Matomo,公开平台范围（仅用于策略发现）,matomo-org,matomo-org/oss-scanner,https://github.com/matomo-org/oss-scanner,0,Dockerfile,SECURITY.md,
-Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost,https://github.com/mattermost/mattermost,39610,TypeScript,SECURITY.md,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost,https://github.com/mattermost/mattermost,39614,TypeScript,SECURITY.md,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost-mobile,https://github.com/mattermost/mattermost-mobile,2742,TypeScript,SECURITY.md,Next generation iOS and Android apps for Mattermost in React Native
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/desktop,https://github.com/mattermost/desktop,2288,TypeScript,SECURITY.md,"Mattermost Desktop application for Windows, Mac and Linux"
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost-webapp,https://github.com/mattermost/mattermost-webapp,2288,TypeScript,SECURITY.md,Archived web app of Mattermost. Moved to the monorepo: https://github.com/mattermost/mattermost
@@ -10280,19 +10293,21 @@ Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发�
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/openops,https://github.com/mattermost/openops,168,Shell,SECURITY.md,Open source stack for applying AI to workflows in secure environments
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mmctl,https://github.com/mattermost/mmctl,157,Go,SECURITY.md,A remote CLI tool for Mattermost
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost-plugin-boards,https://github.com/mattermost/mattermost-plugin-boards,145,TypeScript,SECURITY.md,Mattermost plugin for Boards. This will host plugin only and is independent of Focalboard.
+Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/xml-roundtrip-validator,https://github.com/mattermost/xml-roundtrip-validator,80,Go,SECURITY.md,
+Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/rtcd,https://github.com/mattermost/rtcd,35,Go,docs/security.md,
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/.github,https://github.com/mattermost/.github,4,,SECURITY.md,
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost-plugin-channel-translations,https://github.com/mattermost/mattermost-plugin-channel-translations,2,TypeScript,.github/SECURITY.md,
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/mattermost-plugin-ai,https://github.com/mattermost/mattermost-plugin-ai,,,.github/SECURITY.md,
 Mattermost Public Bug Bounty Engagement,公开平台范围（仅用于策略发现）,mattermost,mattermost/crypto11,https://github.com/mattermost/crypto11,0,Go,SECURITY.md,Implement crypto.Signer and crypto.Decrypter for HSM-protected keys via PKCS#11
 MoonPay,公开平台范围（仅用于策略发现）,moonpay,moonpay/skills,https://github.com/moonpay/skills,112,,SECURITY.md,"Skills for AI agents to move money — on-ramps, swaps, wallets, deposits, and more via the MoonPay CLI"
-Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/soperator,https://github.com/nebius/soperator,456,Go,SECURITY.md,Run Slurm in Kubernetes
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/soperator,https://github.com/nebius/soperator,459,Go,SECURITY.md,Run Slurm in Kubernetes
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/token-factory-cookbook,https://github.com/nebius/token-factory-cookbook,321,TypeScript,SECURITY.md,Runnable examples for building applications with open models on Nebius Token Factory.
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/kvax,https://github.com/nebius/kvax,177,Python,SECURITY.md,A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism.
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-physical-ai,https://github.com/nebius/nebius-physical-ai,113,Python,SECURITY.md,"Agent control plane for Physical AI on Nebius: infrastructure setup and management, simulation, robot policy training, synthetic data, and evaluation."
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/ml-cookbook,https://github.com/nebius/ml-cookbook,19,Python,SECURITY.md,
+Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/pysdk,https://github.com/nebius/pysdk,18,Python,SECURITY.md,Nebius Python SDK
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/mcp-server,https://github.com/nebius/mcp-server,18,Python,SECURITY.md,
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/serverless-ai-cookbook,https://github.com/nebius/serverless-ai-cookbook,18,Python,SECURITY.md,
-Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/pysdk,https://github.com/nebius/pysdk,17,Python,SECURITY.md,Nebius Python SDK
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-k8s-applications,https://github.com/nebius/nebius-k8s-applications,17,Go Template,SECURITY.md,"This repository contains the configuration, manifests and Helm charts for deploying and managing Nebius' Kubernetes applications."
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/gosdk,https://github.com/nebius/gosdk,16,Go,SECURITY.md,Nebius AI Cloud SDK for Go
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/nebius-partner-cookbook,https://github.com/nebius/nebius-partner-cookbook,14,Python,SECURITY.md,
@@ -10320,13 +10335,13 @@ Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/slurm-exporter,https://github.com/nebius/slurm-exporter,0,,SECURITY.md,
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/snippets,https://github.com/nebius/snippets,0,Python,SECURITY.md,
 Nebius AI Vulnerability Disclosure,公开平台范围（仅用于策略发现）,nebius,nebius/tokenfactory-rl,https://github.com/nebius/tokenfactory-rl,0,Python,SECURITY.md,
-Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/server,https://github.com/nextcloud/server,37512,PHP,SECURITY.md,"☁️ Nextcloud server, a safe home for all your data"
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/server,https://github.com/nextcloud/server,37519,PHP,SECURITY.md,"☁️ Nextcloud server, a safe home for all your data"
 Nextcloud,公开平台范围（仅用于策略发现）,roundcube,roundcube/roundcubemail,https://github.com/roundcube/roundcubemail,7278,PHP,docs/SECURITY.md,The Roundcube Webmail suite
-Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/android,https://github.com/nextcloud/android,5706,Kotlin,SECURITY.md,📱 Nextcloud Android app
-Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/ios,https://github.com/nextcloud/ios,2557,Swift,SECURITY.md,📱 Nextcloud iOS App
-Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/deck,https://github.com/nextcloud/deck,1439,JavaScript,SECURITY.md,"🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello"
-Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/talk-android,https://github.com/nextcloud/talk-android,752,Kotlin,SECURITY.md,📱😀 Video & audio calls through Nextcloud on Android
-Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/end_to_end_encryption,https://github.com/nextcloud/end_to_end_encryption,324,TypeScript,SECURITY.md,:closed_lock_with_key: Server API to support End-to-End Encryption
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/android,https://github.com/nextcloud/android,5709,Kotlin,SECURITY.md,📱 Nextcloud Android app
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/ios,https://github.com/nextcloud/ios,2558,Swift,SECURITY.md,📱 Nextcloud iOS App
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/deck,https://github.com/nextcloud/deck,1440,JavaScript,SECURITY.md,"🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello"
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/talk-android,https://github.com/nextcloud/talk-android,753,Kotlin,SECURITY.md,📱😀 Video & audio calls through Nextcloud on Android
+Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/end_to_end_encryption,https://github.com/nextcloud/end_to_end_encryption,325,TypeScript,SECURITY.md,:closed_lock_with_key: Server API to support End-to-End Encryption
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/talk-ios,https://github.com/nextcloud/talk-ios,232,Swift,SECURITY.md,📱😀 Video & audio calls through Nextcloud on iOS
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/app_api,https://github.com/nextcloud/app_api,202,PHP,.github/SECURITY.md,Nextcloud AppAPI
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/health,https://github.com/nextcloud/health,104,JavaScript,SECURITY.md,Nextcloud health app
@@ -10343,8 +10358,11 @@ Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/next
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/integration_tmdb,https://github.com/nextcloud/integration_tmdb,3,JavaScript,SECURITY.md,The Movie Database integration in Nextcloud
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/intrusion_detection,https://github.com/nextcloud/intrusion_detection,0,PHP,SECURITY.md,
 Nextcloud,公开平台范围（仅用于策略发现）,nextcloud,nextcloud/users_picker,https://github.com/nextcloud/users_picker,0,Vue,SECURITY.md,Profile smart picker and link preview
-Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/node,https://github.com/nodejs/node,123708,JavaScript,SECURITY.md,Node.js JavaScript runtime ✨🐢🚀✨
+Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/node,https://github.com/nodejs/node,123719,JavaScript,SECURITY.md,Node.js JavaScript runtime ✨🐢🚀✨
+Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/docker-node,https://github.com/nodejs/docker-node,8596,Dockerfile,SECURITY.md,Official Docker Images for Node.js :whale: :turtle: :rocket: 
+Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/ecmascript-modules,https://github.com/nodejs/ecmascript-modules,72,JavaScript,SECURITY.md,A fork of Node.js to hash out ideas related to ESModules
 Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/.github,https://github.com/nodejs/.github,22,,SECURITY.md,Node.js .github metarepository
+Node.js,公开平台范围（仅用于策略发现）,nodejs,nodejs/ffi,https://github.com/nodejs/ffi,7,JavaScript,SECURITY.md,Working repo for the Node.js VM/FFI Effort
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/oasis-core,https://github.com/oasisprotocol/oasis-core,369,Go,docs/SECURITY.md,Performant and Confidentiality-Preserving Smart Contracts + Blockchains
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/privana,https://github.com/oasisprotocol/privana,3,Python,SECURITY.md,ROFL Accounting module
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/tendermint,https://github.com/oasisprotocol/tendermint,3,Go,SECURITY.md,⟁ Tendermint Core (BFT Consensus) in Go
@@ -10394,7 +10412,7 @@ Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/.github,https://git
 Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/rails,https://github.com/rails/rails,59092,Ruby,.github/security.md,Ruby on Rails
 Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/marcel,https://github.com/rails/marcel,466,Ruby,SECURITY.md,"Find the mime type of files, examining file, filename and declared type"
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/dangerzone,https://github.com/freedomofpress/dangerzone,5843,Python,SECURITY.md,"Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs"
-SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop,https://github.com/freedomofpress/securedrop,3894,Python,SECURITY.md,GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
+SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop,https://github.com/freedomofpress/securedrop,3895,Python,SECURITY.md,GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-workstation,https://github.com/freedomofpress/securedrop-workstation,188,Python,SECURITY.md,Qubes-based SecureDrop Journalist Workstation environment for submission handling
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-client,https://github.com/freedomofpress/securedrop-client,59,TypeScript,SECURITY.md,an Electron-based GUI for SecureDrop journalists 📰🗞️
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-i18n,https://github.com/freedomofpress/securedrop-i18n,8,Python,SECURITY.md,securedrop translations - do not install from here or file PRs here! please use https://github.com/freedomofpress/securedrop

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15 07:05:28",
+ "generated_at": "2026-11-15 07:35:03",
  "mode": "html",
  "totals": {
   "vendors": 304,
   "orgs": 385,
   "orgs_swept": 385,
-  "sec_repos": 10533,
-  "negative_cached": 56015
+  "sec_repos": 10551,
+  "negative_cached": 56260
  },
  "vendors": [
   {
@@ -1979,7 +1979,7 @@
    "orgs": [
     "jitsi"
    ],
-   "sec_repos": 0
+   "sec_repos": 13
   },
   {
    "vendor": "AWS VDP",
@@ -2235,7 +2235,7 @@
    "orgs": [
     "mattermost"
    ],
-   "sec_repos": 13
+   "sec_repos": 15
   },
   {
    "vendor": "MoonPay",
@@ -2268,7 +2268,7 @@
    "orgs": [
     "nodejs"
    ],
-   "sec_repos": 2
+   "sec_repos": 5
   },
   {
    "vendor": "Oasis Protocol Foundation",
