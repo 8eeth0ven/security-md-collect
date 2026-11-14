@@ -2,12 +2,12 @@
  {
   "vendor": "Matomo",
   "org": "matomo-org",
-  "full_name": "matomo-org/docker",
-  "url": "https://github.com/matomo-org/docker",
+  "full_name": "matomo-org/matomo",
+  "url": "https://github.com/matomo-org/matomo",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
+  "stars": 22027,
+  "language": "PHP",
+  "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving yo…",
   "license": null,
   "first_seen": "2026-11-14 13:00:04",
   "last_verified": "2026-11-14 13:00:04"
@@ -15,14 +15,40 @@
  {
   "vendor": "Matomo",
   "org": "matomo-org",
-  "full_name": "matomo-org/matomo",
-  "url": "https://github.com/matomo-org/matomo",
+  "full_name": "matomo-org/docker",
+  "url": "https://github.com/matomo-org/docker",
   "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
+  "stars": 1007,
+  "language": "Shell",
+  "description": "Official Docker project for Matomo Analytics",
   "license": null,
   "first_seen": "2026-11-14 13:00:04",
   "last_verified": "2026-11-14 13:00:04"
+ },
+ {
+  "vendor": "Matomo",
+  "org": "matomo-org",
+  "full_name": "matomo-org/matomo-java-tracker",
+  "url": "https://github.com/matomo-org/matomo-java-tracker",
+  "sec_path": "SECURITY.md",
+  "stars": 82,
+  "language": "Java",
+  "description": "Official Java implementation of the Matomo Tracking HTTP API.",
+  "license": null,
+  "first_seen": "2026-11-14 16:03:32",
+  "last_verified": "2026-11-14 16:03:32"
+ },
+ {
+  "vendor": "Matomo",
+  "org": "matomo-org",
+  "full_name": "matomo-org/oss-scanner",
+  "url": "https://github.com/matomo-org/oss-scanner",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Dockerfile",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 16:03:32",
+  "last_verified": "2026-11-14 16:03:32"
  }
 ]

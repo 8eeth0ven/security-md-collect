@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14 15:35:29",
+ "generated_at": "2026-11-14 16:05:11",
  "mode": "html",
  "totals": {
   "vendors": 304,
   "orgs": 385,
-  "orgs_swept": 350,
-  "sec_repos": 10207,
-  "negative_cached": 52311
+  "orgs_swept": 358,
+  "sec_repos": 10345,
+  "negative_cached": 52734
  },
  "vendors": [
   {
@@ -2198,7 +2198,7 @@
    "orgs": [
     "justeattakeaway"
    ],
-   "sec_repos": 0
+   "sec_repos": 5
   },
   {
    "vendor": "Kubernetes",
@@ -2209,7 +2209,7 @@
     "kubernetes-security",
     "kubernetes-sigs"
    ],
-   "sec_repos": 2
+   "sec_repos": 118
   },
   {
    "vendor": "Lightspark Public Bug Bounty",
@@ -2218,7 +2218,7 @@
     "buildonspark",
     "lightsparkdev"
    ],
-   "sec_repos": 6
+   "sec_repos": 11
   },
   {
    "vendor": "Matomo",
@@ -2227,7 +2227,7 @@
     "innocraft",
     "matomo-org"
    ],
-   "sec_repos": 2
+   "sec_repos": 4
   },
   {
    "vendor": "Mattermost Public Bug Bounty Engagement",
@@ -2235,7 +2235,7 @@
    "orgs": [
     "mattermost"
    ],
-   "sec_repos": 3
+   "sec_repos": 13
   },
   {
    "vendor": "MoonPay",
