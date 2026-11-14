@@ -24,17 +24,6 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/spark",
-  "url": "https://github.com/apache/spark",
-  "sec_path": "SECURITY.md",
-  "stars": 44507,
-  "language": "Scala",
-  "description": "Apache Spark - A unified analytics engine for large-scale data processing",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/dubbo",
   "url": "https://github.com/apache/dubbo",
   "sec_path": "SECURITY.md",
@@ -152,17 +141,6 @@
   "language": "Java",
   "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising…",
   "first_seen": "2026-11-01 18:04:12"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/datafusion",
-  "url": "https://github.com/apache/datafusion",
-  "sec_path": "SECURITY.md",
-  "stars": 9603,
-  "language": "Rust",
-  "description": "Apache DataFusion SQL Query Engine",
-  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -537,17 +515,6 @@
   "language": "Java",
   "description": "Mirror of Apache PDFBox",
   "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/cloudstack",
-  "url": "https://github.com/apache/cloudstack",
-  "sec_path": "SECURITY.md",
-  "stars": 3134,
-  "language": "Java",
-  "description": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
-  "first_seen": "2026-11-01 18:04:12"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1088,17 +1055,6 @@
   "language": "Java",
   "description": "Apache GeaFlow: A Streaming Graph Computing Engine.",
   "first_seen": "2026-11-01 18:04:12"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/wicket",
-  "url": "https://github.com/apache/wicket",
-  "sec_path": "SECURITY.md",
-  "stars": 800,
-  "language": "Java",
-  "description": "Apache Wicket - Component-based Java web framework",
-  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -1719,17 +1675,6 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/maven-dependency-plugin",
-  "url": "https://github.com/apache/maven-dependency-plugin",
-  "sec_path": "SECURITY.md",
-  "stars": 178,
-  "language": "Java",
-  "description": "Apache Maven Dependency Plugin",
-  "first_seen": "2026-11-01 18:04:12"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/spark-docker",
   "url": "https://github.com/apache/spark-docker",
   "sec_path": "SECURITY.md",
@@ -1929,17 +1874,6 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/roller",
-  "url": "https://github.com/apache/roller",
-  "sec_path": "SECURITY.md",
-  "stars": 133,
-  "language": "Java",
-  "description": "Mirror of Apache Roller",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/avro-rs",
   "url": "https://github.com/apache/avro-rs",
   "sec_path": "SECURITY.md",
@@ -1990,17 +1924,6 @@
   "stars": 119,
   "language": "Java",
   "description": "Mirror of Apache Directory Kerby",
-  "first_seen": "2026-11-01 18:05:02"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/jspwiki",
-  "url": "https://github.com/apache/jspwiki",
-  "sec_path": "SECURITY.md",
-  "stars": 118,
-  "language": "Java",
-  "description": "Apache JSPWiki is a leading open source WikiWiki engine, feature-rich and built around standard JEE components (Java, servlets, JSP)",
   "first_seen": "2026-11-01 18:05:02"
  },
  {
@@ -2498,17 +2421,6 @@
   "language": "Java",
   "description": "Apache Maven Install Plugin",
   "first_seen": "2026-11-01 18:04:12"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/creadur-rat",
-  "url": "https://github.com/apache/creadur-rat",
-  "sec_path": "SECURITY.md",
-  "stars": 41,
-  "language": "Java",
-  "description": "Apache Creadur RAT - Release Audit Tool",
-  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -3164,6 +3076,97 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
+  "full_name": "apache/datafusion",
+  "url": "https://github.com/apache/datafusion",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Rust",
+  "description": "Apache DataFusion SQL Query Engine",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 04:34:57"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/wicket",
+  "url": "https://github.com/apache/wicket",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "Apache Wicket - Component-based Java web framework",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 04:34:57"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/spark",
+  "url": "https://github.com/apache/spark",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Scala",
+  "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 04:34:57"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/roller",
+  "url": "https://github.com/apache/roller",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "> Mirror of Apache Roller",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 04:34:57"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/creadur-rat",
+  "url": "https://github.com/apache/creadur-rat",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "Apache Creadur RAT - Release Audit Tool",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 04:34:57"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/maven-dependency-plugin",
+  "url": "https://github.com/apache/maven-dependency-plugin",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "> Apache Maven Dependency Plugin",
+  "license": null,
+  "first_seen": "2026-11-01 18:04:12",
+  "last_verified": "2026-11-15 04:34:57"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/cloudstack",
+  "url": "https://github.com/apache/cloudstack",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
+  "license": null,
+  "first_seen": "2026-11-01 18:04:12",
+  "last_verified": "2026-11-15 04:34:57"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
   "full_name": "apache/ozone-docker-testkrb5",
   "url": "https://github.com/apache/ozone-docker-testkrb5",
   "sec_path": "SECURITY.md",
@@ -3171,6 +3174,19 @@
   "language": "Dockerfile",
   "description": "MIT Kerberos KDC for developing and testing Apache Ozone",
   "first_seen": "2026-11-01 18:04:12"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/jspwiki",
+  "url": "https://github.com/apache/jspwiki",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "Apache JSPWiki is a leading open source WikiWiki engine, feature-rich and built around standard JEE components (Java, servlets, JSP)",
+  "license": null,
+  "first_seen": "2026-11-01 18:05:02",
+  "last_verified": "2026-11-15 04:34:57"
  },
  {
   "vendor": "Apache软件基金会",
