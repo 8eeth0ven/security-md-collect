@@ -1,6 +1,45 @@
 [
  {
   "vendor": "AWS VDP",
+  "org": "strands-agents",
+  "full_name": "strands-agents/harness-sdk",
+  "url": "https://github.com/strands-agents/harness-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 9205,
+  "language": "TypeScript",
+  "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+  "license": null,
+  "first_seen": "2026-11-14 17:34:57",
+  "last_verified": "2026-11-14 17:34:57"
+ },
+ {
+  "vendor": "AWS VDP",
+  "org": "strands-agents",
+  "full_name": "strands-agents/box",
+  "url": "https://github.com/strands-agents/box",
+  "sec_path": "SECURITY.md",
+  "stars": 545,
+  "language": "Rust",
+  "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood poli…",
+  "license": null,
+  "first_seen": "2026-11-14 17:34:57",
+  "last_verified": "2026-11-14 17:34:57"
+ },
+ {
+  "vendor": "AWS VDP",
+  "org": "strands-agents",
+  "full_name": "strands-agents/shell",
+  "url": "https://github.com/strands-agents/shell",
+  "sec_path": "SECURITY.md",
+  "stars": 299,
+  "language": "Rust",
+  "description": "Give your agent a shell without giving it the keys to your machine.",
+  "license": null,
+  "first_seen": "2026-11-14 17:34:57",
+  "last_verified": "2026-11-14 17:34:57"
+ },
+ {
+  "vendor": "AWS VDP",
   "org": "deepjavalibrary",
   "full_name": "deepjavalibrary/djl-serving",
   "url": "https://github.com/deepjavalibrary/djl-serving",
@@ -37,6 +76,19 @@
   "license": null,
   "first_seen": "2026-11-14 14:31:27",
   "last_verified": "2026-11-14 14:31:27"
+ },
+ {
+  "vendor": "AWS VDP",
+  "org": "strands-agents",
+  "full_name": "strands-agents/.github",
+  "url": "https://github.com/strands-agents/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-14 13:00:31",
+  "last_verified": "2026-11-14 13:00:31"
  },
  {
   "vendor": "AWS VDP",
@@ -115,19 +167,6 @@
   "license": null,
   "first_seen": "2026-11-14 12:59:49",
   "last_verified": "2026-11-14 12:59:49"
- },
- {
-  "vendor": "AWS VDP",
-  "org": "strands-agents",
-  "full_name": "strands-agents/.github",
-  "url": "https://github.com/strands-agents/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-14 13:00:31",
-  "last_verified": "2026-11-14 13:00:31"
  },
  {
   "vendor": "AWS VDP",

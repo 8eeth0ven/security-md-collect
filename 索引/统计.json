@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14 17:05:13",
+ "generated_at": "2026-11-14 17:35:12",
  "mode": "html",
  "totals": {
   "vendors": 304,
   "orgs": 385,
-  "orgs_swept": 371,
-  "sec_repos": 10412,
-  "negative_cached": 53590
+  "orgs_swept": 376,
+  "sec_repos": 10428,
+  "negative_cached": 54042
  },
  "vendors": [
   {
@@ -1991,7 +1991,7 @@
     "deepjavalibrary",
     "strands-agents"
    ],
-   "sec_repos": 12
+   "sec_repos": 15
   },
   {
    "vendor": "Aiven Managed Bug Bounty",
@@ -2040,7 +2040,7 @@
    "orgs": [
     "smartcontractkit"
    ],
-   "sec_repos": 2
+   "sec_repos": 15
   },
   {
    "vendor": "Chia Network",

@@ -9785,16 +9785,19 @@ Spotify,自建BB,spotify,spotify/volcano,https://github.com/spotify/volcano,2,Go
 Spotify,自建BB,spotify,spotify/confidence-metrics-sync,https://github.com/spotify/confidence-metrics-sync,1,Go,SECURITY.md,Manage Confidence metrics as code with YAML and GitHub Actions
 Spotify,自建BB,spotify,spotify/argo-cd,https://github.com/spotify/argo-cd,0,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 Spotify,自建BB,spotify,spotify/bazel,https://github.com/spotify/bazel,0,Java,SECURITY.md,"a fast, scalable, multi-language and extensible build system"
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/harness-sdk,https://github.com/strands-agents/harness-sdk,9205,TypeScript,SECURITY.md,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/box,https://github.com/strands-agents/box,545,Rust,SECURITY.md,"Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood poli…"
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/shell,https://github.com/strands-agents/shell,299,Rust,SECURITY.md,Give your agent a shell without giving it the keys to your machine.
 AWS VDP,公开平台范围（仅用于策略发现）,deepjavalibrary,deepjavalibrary/djl-serving,https://github.com/deepjavalibrary/djl-serving,257,Java,SECURITY.md,A universal scalable machine learning model deployment solution
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/vulnerability-scan-github-action-for-amazon-inspector,https://github.com/aws-actions/vulnerability-scan-github-action-for-amazon-inspector,60,Python,SECURITY.md,Scan artifacts with Amazon Inspector from GitHub Actions workflows.
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/codeguru-security,https://github.com/aws-actions/codeguru-security,12,,SECURITY.md,
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/.github,https://github.com/strands-agents/.github,8,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/smart-restart,https://github.com/amazonlinux/smart-restart,8,Shell,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/.github,https://github.com/aws-actions/.github,3,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/application-observability-for-aws,https://github.com/aws-actions/application-observability-for-aws,3,JavaScript,docs/security.md,
 AWS VDP,公开平台范围（仅用于策略发现）,amazonlinux,amazonlinux/.github,https://github.com/amazonlinux/.github,1,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,amazon-research,amazon-research/.github,https://github.com/amazon-research/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,deepjavalibrary,deepjavalibrary/.github,https://github.com/deepjavalibrary/.github,,,SECURITY.md,
-AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/.github,https://github.com/strands-agents/.github,,,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/devops-agent-qa,https://github.com/aws-actions/devops-agent-qa,0,TypeScript,SECURITY.md,
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/handle-non-labeled-issues,https://github.com/aws-actions/handle-non-labeled-issues,0,TypeScript,SECURITY.md,
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pghoard,https://github.com/Aiven-Open/pghoard,1428,Python,SECURITY.md,PostgreSQL® backup and restore service
@@ -9944,8 +9947,21 @@ Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/reno
 Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/rustcrypto-formats,https://github.com/bitwarden/rustcrypto-formats,3,Rust,SECURITY.md,"Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX"
 Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/rotation-daemon,https://github.com/bitwarden/rotation-daemon,0,,SECURITY.md,Rotation daemon.
 Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/telemetee,https://github.com/bitwarden/telemetee,0,Shell,SECURITY.md,TEE-based telemetry anonymization endpoint to allow collection of client-side actions in a secure way.
-Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink,https://github.com/smartcontractkit/chainlink,,,SECURITY.md,
-Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink-solana,https://github.com/smartcontractkit/chainlink-solana,,,SECURITY.md,
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink,https://github.com/smartcontractkit/chainlink,8255,Go,SECURITY.md,"node of the decentralized oracle network, bridging on and off-chain computation"
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/ccip,https://github.com/smartcontractkit/ccip,147,Go,SECURITY.md,Cross Chain Interoperability Protocol
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink-solana,https://github.com/smartcontractkit/chainlink-solana,92,Go,SECURITY.md,
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink-cosmos,https://github.com/smartcontractkit/chainlink-cosmos,23,Go,SECURITY.md,
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/wasp,https://github.com/smartcontractkit/wasp,23,Go,SECURITY.md,Protocol-agnostic load testing library for Go
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/go-ethereum,https://github.com/smartcontractkit/go-ethereum,11,Go,SECURITY.md,Official Go implementation of the Ethereum protocol
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink-ccip-solana,https://github.com/smartcontractkit/chainlink-ccip-solana,1,Go,SECURITY.md,
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/cosmos-sdk,https://github.com/smartcontractkit/cosmos-sdk,1,Go,SECURITY.md,:chains: A Framework for Building High Value Public Blockchains :sparkles:
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/trusttoken-smart-contracts,https://github.com/smartcontractkit/trusttoken-smart-contracts,1,TypeScript,SECURITY.md,TrustToken smart contracts
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/cbor,https://github.com/smartcontractkit/cbor,0,Go,SECURITY.md,"CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 …"
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/changed-files,https://github.com/smartcontractkit/changed-files,0,TypeScript,SECURITY.md,":octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories."
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/cross-chain-vault-adapters,https://github.com/smartcontractkit/cross-chain-vault-adapters,0,TypeScript,SECURITY.md,Public Cross Chain Vault Adapters
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/go-toml,https://github.com/smartcontractkit/go-toml,0,Go,SECURITY.md,Go library for the TOML file format
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/juno,https://github.com/smartcontractkit/juno,0,Go,SECURITY.md,StarkNet client implementation.
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/loki-vl-proxy,https://github.com/smartcontractkit/loki-vl-proxy,0,Go,SECURITY.md,"Loki-compatible API proxy for VictoriaLogs. Use Grafana's native Loki datasource, Explore, and Logs Drilldown with VictoriaLogs. No plugin required."
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-blockchain,https://github.com/Chia-Network/chia-blockchain,10793,Python,SECURITY.md,"Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)"
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chia-blockchain-gui,https://github.com/Chia-Network/chia-blockchain-gui,343,TypeScript,SECURITY.md,Chia blockchain GUI in electron/react
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/chiapos,https://github.com/Chia-Network/chiapos,269,HTML,SECURITY.md,Chia Proof of Space library
@@ -10324,7 +10340,7 @@ OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）
 OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/tool-registry,https://github.com/ProjectOpenSea/tool-registry,4,Solidity,SECURITY.md,Reference implementation for ERC-8257: Agent Tool Registry
 OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/wallet-adapters,https://github.com/ProjectOpenSea/wallet-adapters,3,TypeScript,SECURITY.md,"Unified wallet adapter interface for managed signing providers (Privy, Turnkey, Fireblocks, Bankr) and local keys"
 OpenSea Managed Bug Bounty Program,公开平台范围（仅用于策略发现）,ProjectOpenSea,ProjectOpenSea/api-types,https://github.com/ProjectOpenSea/api-types,2,TypeScript,SECURITY.md,TypeScript types auto-generated from the OpenSea API OpenAPI spec
-PagerDuty,公开平台范围（仅用于策略发现）,rundeck,rundeck/rundeck,https://github.com/rundeck/rundeck,,,SECURITY.md,
+PagerDuty,公开平台范围（仅用于策略发现）,rundeck,rundeck/rundeck,https://github.com/rundeck/rundeck,6377,Groovy,SECURITY.md,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts"
 Plaid,公开平台范围（仅用于策略发现）,plaid,plaid/react-native-plaid-link-sdk,https://github.com/plaid/react-native-plaid-link-sdk,203,TypeScript,SECURITY.md,Plaid Link for React Native
 Plaid,公开平台范围（仅用于策略发现）,plaid,plaid/core-exchange-node-example,https://github.com/plaid/core-exchange-node-example,4,TypeScript,SECURITY.md,Core Exchange Sample Node.js App
 Plaid,公开平台范围（仅用于策略发现）,plaid,plaid/plaid-link-flutter,https://github.com/plaid/plaid-link-flutter,0,Dart,SECURITY.md,Official Plaid Link SDK for Flutter.
@@ -10348,8 +10364,8 @@ SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomo
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-updater,https://github.com/freedomofpress/securedrop-updater,0,Python,SECURITY.md,Update policy enforcement for the SecureDrop Workstation
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-workstation-keyring,https://github.com/freedomofpress/securedrop-workstation-keyring,0,Makefile,SECURITY.md,
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/wagtail-vega,https://github.com/freedomofpress/wagtail-vega,0,Python,docs/security.md,Proof of concept integration of Wagtail and Vega
-Solidus,公开平台范围（仅用于策略发现）,solidusio,solidusio/.github,https://github.com/solidusio/.github,,,SECURITY.md,
-Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/.github,https://github.com/supabase/.github,,,SECURITY.md,
+Solidus,公开平台范围（仅用于策略发现）,solidusio,solidusio/.github,https://github.com/solidusio/.github,1,,SECURITY.md,
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/.github,https://github.com/supabase/.github,15,,SECURITY.md,Org-wide default community health files & templates.
 TRON DAO,公开平台范围（仅用于策略发现）,tronprotocol,tronprotocol/java-tron,https://github.com/tronprotocol/java-tron,,,SECURITY.md,
 TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/.github,https://github.com/tomtom-international/.github,,,SECURITY.md,
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/orb-core,https://github.com/worldcoin/orb-core,,,SECURITY.md,
