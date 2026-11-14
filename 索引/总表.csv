@@ -737,7 +737,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 百度,BSRC,baidu,baidu/openrasp,https://github.com/baidu/openrasp,2990,C++,SECURITY.md,🔥Open source RASP solution
 百度,BSRC,baidu,baidu/nettools,https://github.com/baidu/nettools,196,Go,SECURITY.md,"A physical network blackbox monitoring toolkit with diagnostic and probing capabilities for link quality, path tracing, packet modification detection, loss loca…"
 百度,BSRC,baidu,baidu/scs-redis,https://github.com/baidu/scs-redis,11,C,SECURITY.md,"Redis-based cloud adaptation powering Baidu AI Cloud's SCS, optimized for large-scale multi-tenant deployments with enhanced HA, reliability and security - batt…"
-华为,Huawei PSIRT,mindspore-ai,mindspore-ai/mindspore,https://github.com/mindspore-ai/mindspore,4726,C++,SECURITY.md,"MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios."
+华为,Huawei PSIRT,mindspore-ai,mindspore-ai/mindspore,https://github.com/mindspore-ai/mindspore,4727,C++,SECURITY.md,"MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios."
 华为,Huawei PSIRT,Huawei,Huawei/eSDK_K8S_Plugin,https://github.com/Huawei/eSDK_K8S_Plugin,122,Go,SECURITY.md,Container-Storage-Interface (CSI) for Huawei storage
 华为,Huawei PSIRT,Ascend,Ascend/MindIE-LLM,https://github.com/Ascend/MindIE-LLM,30,C++,security.md,
 华为,Huawei PSIRT,mindspore-ai,mindspore-ai/contrib,https://github.com/mindspore-ai/contrib,19,Jupyter Notebook,SECURITY.md,
@@ -4436,7 +4436,7 @@ Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.gith
 苹果,自建（Apple Security Bounty）,apple,apple/.github,https://github.com/apple/.github,,,SECURITY.md,
 苹果,自建（Apple Security Bounty）,swiftlang,swiftlang/.github,https://github.com/swiftlang/.github,,,SECURITY.md,
 Netflix,Bugcrowd（Netflix）,netflix,Netflix/conductor,https://github.com/Netflix/conductor,12754,Java,SECURITY.md,Conductor is a microservices orchestration engine.
-Netflix,Bugcrowd（Netflix）,netflix,Netflix/metaflow,https://github.com/Netflix/metaflow,10345,Python,SECURITY.md,"Build, Manage and Deploy AI/ML Systems"
+Netflix,Bugcrowd（Netflix）,netflix,Netflix/metaflow,https://github.com/Netflix/metaflow,10349,Python,SECURITY.md,"Build, Manage and Deploy AI/ML Systems"
 Netflix,Bugcrowd（Netflix）,netflix,Netflix/dgs-framework,https://github.com/Netflix/dgs-framework,3401,Kotlin,SECURITY.md,GraphQL for Java with Spring Boot made easy.
 Netflix,Bugcrowd（Netflix）,netflix,Netflix/spark,https://github.com/Netflix/spark,11,Scala,docs/security.md,Netflix branches of Apache Spark
 Netflix,Bugcrowd（Netflix）,Netflix-Skunkworks,Netflix-Skunkworks/LightGBM,https://github.com/Netflix-Skunkworks/LightGBM,1,C++,SECURITY.md,"A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classifica…"
@@ -4476,7 +4476,7 @@ Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/openwhisk,h
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/react,https://github.com/adobe/react,,JavaScript,SECURITY.md,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
 Adobe,自建（Adobe Vulnerability Disclosure Program）,adobe,adobe/media,https://github.com/adobe/media,0,Java,SECURITY.md,"Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/graal,https://github.com/oracle/graal,21753,Java,SECURITY.md,"GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀"
-Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-server,https://github.com/mysql/mysql-server,12510,C++,SECURITY.md,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
+Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-server,https://github.com/mysql/mysql-server,12513,C++,SECURITY.md,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/docker-images,https://github.com/oracle/docker-images,7008,Shell,SECURITY.md,"Official source of container configurations, images, and examples for Oracle products and projects"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/opengrok,https://github.com/oracle/opengrok,5029,Java,SECURITY.md,"OpenGrok is a fast and usable source code search and cross reference engine, written in Java"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/visualvm,https://github.com/oracle/visualvm,3278,Java,SECURITY.md,VisualVM is an All-in-One Java Troubleshooting Tool
@@ -7713,9 +7713,9 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/wry,https://githu
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/tauri,https://github.com/github/tauri,0,Rust,SECURITY.md,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-elm,https://github.com/github/gh-elm,0,Go,SECURITY.md,Enterprise Live Migrations CLI for GHES to GitHub with Data Residency migrations
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/evals-action,https://github.com/github/evals-action,0,TypeScript,SECURITY.md,"GitHub Action for Copilot Evals: lint evaluation definitions, preview execution plans, and run Vally suites in CI with clear results and regression reporting."
-Docker,HackerOne（Docker）,moby,moby/moby,https://github.com/moby/moby,72264,Go,SECURITY.md,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+Docker,HackerOne（Docker）,moby,moby/moby,https://github.com/moby/moby,72259,Go,SECURITY.md,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 Docker,HackerOne（Docker）,docker,docker/compose,https://github.com/docker/compose,38833,Go,.github/SECURITY.md,Define and run multi-container applications with Docker
-Docker,HackerOne（Docker）,moby,moby/buildkit,https://github.com/moby/buildkit,10415,Go,.github/SECURITY.md,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+Docker,HackerOne（Docker）,moby,moby/buildkit,https://github.com/moby/buildkit,10418,Go,.github/SECURITY.md,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
 Docker,HackerOne（Docker）,docker,docker/cli,https://github.com/docker/cli,6129,Go,SECURITY.md,The Docker CLI
 Docker,HackerOne（Docker）,docker,docker/build-push-action,https://github.com/docker/build-push-action,5437,TypeScript,.github/SECURITY.md,GitHub Action to build and push Docker images with Buildx
 Docker,HackerOne（Docker）,docker,docker/docker-agent,https://github.com/docker/docker-agent,4685,Go,.github/SECURITY.md,AI Agent Builder and Runtime by Docker Engineering
@@ -7828,7 +7828,7 @@ Elastic,自建（Elastic Security）,elastic,elastic/terraform-google-bigquery,h
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongo-go-driver,https://github.com/mongodb/mongo-go-driver,8544,Go,docs/SECURITY.md,The Official Golang driver for MongoDB
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongoid,https://github.com/mongodb/mongoid,3904,Ruby,SECURITY.md,The Official Ruby Object Mapper for MongoDB
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-kubernetes-operator,https://github.com/mongodb/mongodb-kubernetes-operator,1360,Go,SECURITY.md,MongoDB Community Kubernetes Operator
-MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/kingfisher,https://github.com/mongodb/kingfisher,1309,Rust,SECURITY.md,"Detect secrets. Validate them live. Map blast radius. Revoke fast. Run the CLI or embed in Rust, Python, or Node.js."
+MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/kingfisher,https://github.com/mongodb/kingfisher,1310,Rust,SECURITY.md,"Detect secrets. Validate them live. Map blast radius. Revoke fast. Run the CLI or embed in Rust, Python, or Node.js."
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongo-swift-driver,https://github.com/mongodb/mongo-swift-driver,346,Swift,SECURITY.md,The official MongoDB driver for Swift
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/terraform-provider-mongodbatlas,https://github.com/mongodb/terraform-provider-mongodbatlas,274,Go,SECURITY.md,"Terraform MongoDB Atlas Provider: Deploy, update, and manage MongoDB Atlas infrastructure as code through HashiCorp Terraform"
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-kubernetes,https://github.com/mongodb/mongodb-kubernetes,235,Go,SECURITY.md,"MongoDB Controllers for Kubernetes translate the human knowledge of creating a MongoDB instance into a scalable, repeatable, and standardized method."
@@ -8177,12 +8177,12 @@ Splunk,自建（Splunk Security）,splunk,splunk/backstage,https://github.com/sp
 New Relic,自建（New Relic Security）,newrelic,newrelic/nrdot-collector-releases,https://github.com/newrelic/nrdot-collector-releases,8,Go,SECURITY.md,Handle the configuration files for the OpenTelemetry New Relic distributions.
 New Relic,自建（New Relic Security）,newrelic,newrelic/nr-skills-hub,https://github.com/newrelic/nr-skills-hub,7,,SECURITY.md,
 New Relic,自建（New Relic Security）,newrelic,newrelic/yakaa,https://github.com/newrelic/yakaa,7,JavaScript,SECURITY.md,Yet Another Keep Alive Agent for Node
+New Relic,自建（New Relic Security）,newrelic,newrelic/.github,https://github.com/newrelic/.github,6,,SECURITY.md,Standard policy and procedure across the New Relic GitHub organization
 New Relic,自建（New Relic Security）,newrelic,newrelic/opentelemetry-collector-components,https://github.com/newrelic/opentelemetry-collector-components,5,Go,SECURITY.md,This repository will be used to store the Otel components that contain changes not pushed to upstream yet or whole components that weren’t accepted by the commu…
 New Relic,自建（New Relic Security）,newrelic,newrelic/k8s-agents-release-toolkit,https://github.com/newrelic/k8s-agents-release-toolkit,1,Go,SECURITY.md,
 New Relic,自建（New Relic Security）,newrelic,newrelic/nri-collectd,https://github.com/newrelic/nri-collectd,1,Go,SECURITY.md,New Relic On Host Integration for collectd
 New Relic,自建（New Relic Security）,newrelic,newrelic/nri-zookeeper,https://github.com/newrelic/nri-zookeeper,1,Go,SECURITY.md,New Relic On Host Integration for Apache Zookeeper
 New Relic,自建（New Relic Security）,newrelic,newrelic/newrelic-grafana-plugin,https://github.com/newrelic/newrelic-grafana-plugin,0,Go,SECURITY.md,
-New Relic,自建（New Relic Security）,newrelic,newrelic/.github,https://github.com/newrelic/.github,,,SECURITY.md,
 Sentry,自建（Sentry Security）,getsentry,getsentry/MobileBuildMCP,https://github.com/getsentry/MobileBuildMCP,6572,TypeScript,SECURITY.md,A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 Sentry,自建（Sentry Security）,getsentry,getsentry/sentry-go,https://github.com/getsentry/sentry-go,1107,Go,.github/SECURITY.md,The official Go SDK for Sentry (sentry.io)
 Sentry,自建（Sentry Security）,getsentry,getsentry/.github,https://github.com/getsentry/.github,28,,SECURITY.md,Global repo settings for sentry.io
@@ -8750,14 +8750,12 @@ SUSE,自建PSIRT（SUSE）,rancher,rancher/cilium,https://github.com/rancher/cil
 SUSE,自建PSIRT（SUSE）,rancher,rancher/traefik,https://github.com/rancher/traefik,0,Go,SECURITY.md,The Cloud Native Application Proxy
 SUSE,自建PSIRT（SUSE）,rancher,rancher/kubevirt-client-go,https://github.com/rancher/kubevirt-client-go,0,Go,SECURITY.md,Go client for kubevirt
 SUSE,自建PSIRT（SUSE）,rancher,rancher/kube-logging-fluent-bit,https://github.com/rancher/kube-logging-fluent-bit,0,C,SECURITY.md,A fork of https://github.com/fluent/fluent-bit to build kube-logging images ourselves so that we have control over the dependencies for CVE remediation.
-Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/pdf.js,https://github.com/mozilla/pdf.js,54125,JavaScript,.github/SECURITY.md,PDF Reader in JavaScript
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/readability,https://github.com/mozilla/readability,11539,JavaScript,SECURITY.md,A standalone version of the readability lib
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/rhino,https://github.com/mozilla/rhino,4641,JavaScript,SECURITY.md,Rhino is an open-source implementation of JavaScript written entirely in Java
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/source-map,https://github.com/mozilla/source-map,3723,JavaScript,SECURITY.md,Consume and generate source maps.
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/gecko-dev,https://github.com/mozilla/gecko-dev,3686,JavaScript,SECURITY.md,SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/web-ext,https://github.com/mozilla/web-ext,3152,JavaScript,SECURITY.md,"A command line tool to help build, run, and test web extensions"
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/bleach,https://github.com/mozilla/bleach,2761,Python,SECURITY.md,Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
-Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/neqo,https://github.com/mozilla/neqo,2255,Rust,SECURITY.md,"Neqo, the Mozilla Firefox implementation of QUIC in Rust"
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/hawk,https://github.com/mozilla/hawk,1933,JavaScript,SECURITY.md,"INACTIVE - HTTP Holder-Of-Key Authentication Scheme.  Archived as of April 5th, 2024"
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/kitsune,https://github.com/mozilla/kitsune,1686,Python,.github/SECURITY.md,Platform for Mozilla Support
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/pontoon,https://github.com/mozilla/pontoon,1680,Python,SECURITY.md,Mozilla's Localization Platform
@@ -8769,7 +8767,6 @@ Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/FirefoxColor,https://gith
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/agithub,https://github.com/mozilla/agithub,428,Python,SECURITY.md,Agnostic Github client API -- An EDSL for connecting to REST servers
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/addons-linter,https://github.com/mozilla/addons-linter,366,JavaScript,SECURITY.md,"🔍 Firefox Add-ons linter, written in JavaScript. 👁"
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/eslint-plugin-no-unsanitized,https://github.com/mozilla/eslint-plugin-no-unsanitized,252,JavaScript,SECURITY.md,"Custom ESLint rule to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike"
-Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/experimenter,https://github.com/mozilla/experimenter,152,Python,.github/SECURITY.md,A web application for managing user experiments for Mozilla Firefox.
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/addons,https://github.com/mozilla/addons,134,Makefile,SECURITY.md,☂ Umbrella repository for Mozilla Addons ✨
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/extension-workshop,https://github.com/mozilla/extension-workshop,122,SCSS,SECURITY.md,Firefox Extension Workshop
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/pilo,https://github.com/mozilla/pilo,119,TypeScript,SECURITY.md,A powerful AI-powered web automation tool that helps you get answers and take actions in the browser.
@@ -8794,6 +8791,9 @@ Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/addons-wp-headless,https:
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/enterprise-firefox-try,https://github.com/mozilla/enterprise-firefox-try,4,JavaScript,SECURITY.md,
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/markfluence,https://github.com/mozilla/markfluence,4,Go,SECURITY.md,Markdown-centric Confluence cli tool
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/staging-firefox-android,https://github.com/mozilla/staging-firefox-android,4,Kotlin,.github/SECURITY.md,"DEPRECATED - Future home of Firefox and Focus for Android, including Android Components."
+Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/experimenter,https://github.com/mozilla/experimenter,3,Python,.github/SECURITY.md,A web application for managing user experiments for Mozilla Firefox.
+Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/neqo,https://github.com/mozilla/neqo,3,Rust,SECURITY.md,"Neqo, the Mozilla Firefox implementation of QUIC in Rust"
+Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/pdf.js,https://github.com/mozilla/pdf.js,3,JavaScript,.github/SECURITY.md,> PDF Reader in JavaScript
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/wagtail-localize-smartling,https://github.com/mozilla/wagtail-localize-smartling,3,Python,SECURITY.md,Integration between wagtail-localize and Smartling's API
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/publicsuffixlist,https://github.com/mozilla/publicsuffixlist,3,Go,SECURITY.md,The Public Suffix List
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/ecosystem-test-scripts,https://github.com/mozilla/ecosystem-test-scripts,3,Python,SECURITY.md,
@@ -9486,7 +9486,7 @@ Visa,自建BB,visa,visa/visa-vulnerability-agentic-harness,https://github.com/vi
 Mastercard,自建BB,mastercard,Mastercard/terraform-provider-restapi,https://github.com/Mastercard/terraform-provider-restapi,931,Go,SECURITY.md,A terraform provider to manage objects in a RESTful API
 Mastercard,自建BB,mastercard,Mastercard/karate,https://github.com/Mastercard/karate,0,Java,SECURITY.md,Test Automation Made Simple
 Morgan Stanley,自建BB,morganstanley,morganstanley/hobbes,https://github.com/morganstanley/hobbes,1234,C,SECURITY.md,A language and an embedded JIT compiler
-Morgan Stanley,自建BB,morganstanley,morganstanley/.github,https://github.com/morganstanley/.github,,,SECURITY.md,
+Morgan Stanley,自建BB,morganstanley,morganstanley/.github,https://github.com/morganstanley/.github,,,SECURITY.md,Default organization configuration and files
 Lyft,自建BB,lyft,lyft/airflow,https://github.com/lyft/airflow,8,Python,.github/SECURITY.md,Lyft fork of apache/airflow
 Lyft,自建BB,lyft,lyft/kubernetes,https://github.com/lyft/kubernetes,3,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
 Lyft,自建BB,lyft,lyft/spark,https://github.com/lyft/spark,1,Scala,docs/security.md,Fork of apache/spark open source project

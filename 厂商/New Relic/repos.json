@@ -9,7 +9,8 @@
   "language": "Go",
   "description": "Handle the configuration files for the OpenTelemetry New Relic distributions.",
   "license": null,
-  "first_seen": "2026-11-01 22:56:23"
+  "first_seen": "2026-11-01 22:56:23",
+  "last_verified": "2026-11-14 22:34:42"
  },
  {
   "vendor": "New Relic",
@@ -21,7 +22,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:56:23"
+  "first_seen": "2026-11-01 22:56:23",
+  "last_verified": "2026-11-14 22:34:42"
  },
  {
   "vendor": "New Relic",
@@ -33,7 +35,21 @@
   "language": "JavaScript",
   "description": "Yet Another Keep Alive Agent for Node",
   "license": null,
-  "first_seen": "2026-11-01 22:57:40"
+  "first_seen": "2026-11-01 22:57:40",
+  "last_verified": "2026-11-14 22:34:42"
+ },
+ {
+  "vendor": "New Relic",
+  "org": "newrelic",
+  "full_name": "newrelic/.github",
+  "url": "https://github.com/newrelic/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": null,
+  "description": "Standard policy and procedure across the New Relic GitHub organization",
+  "license": null,
+  "first_seen": "2026-11-01 22:56:23",
+  "last_verified": "2026-11-14 13:00:49"
  },
  {
   "vendor": "New Relic",
@@ -45,7 +61,8 @@
   "language": "Go",
   "description": "This repository will be used to store the Otel components that contain changes not pushed to upstream yet or whole components that weren’t accepted by the commu…",
   "license": null,
-  "first_seen": "2026-11-01 22:56:23"
+  "first_seen": "2026-11-01 22:56:23",
+  "last_verified": "2026-11-14 22:34:42"
  },
  {
   "vendor": "New Relic",
@@ -57,7 +74,8 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:56:23"
+  "first_seen": "2026-11-01 22:56:23",
+  "last_verified": "2026-11-14 22:34:42"
  },
  {
   "vendor": "New Relic",
@@ -69,7 +87,8 @@
   "language": "Go",
   "description": "New Relic On Host Integration for collectd",
   "license": null,
-  "first_seen": "2026-11-01 22:57:40"
+  "first_seen": "2026-11-01 22:57:40",
+  "last_verified": "2026-11-14 22:34:42"
  },
  {
   "vendor": "New Relic",
@@ -81,7 +100,8 @@
   "language": "Go",
   "description": "New Relic On Host Integration for Apache Zookeeper",
   "license": null,
-  "first_seen": "2026-11-01 22:57:40"
+  "first_seen": "2026-11-01 22:57:40",
+  "last_verified": "2026-11-14 22:34:42"
  },
  {
   "vendor": "New Relic",
@@ -93,19 +113,7 @@
   "language": "Go",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:56:23"
- },
- {
-  "vendor": "New Relic",
-  "org": "newrelic",
-  "full_name": "newrelic/.github",
-  "url": "https://github.com/newrelic/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
   "first_seen": "2026-11-01 22:56:23",
-  "last_verified": "2026-11-14 13:00:49"
+  "last_verified": "2026-11-14 22:34:42"
  }
 ]

@@ -2,18 +2,6 @@
  {
   "vendor": "Mozilla",
   "org": "mozilla",
-  "full_name": "mozilla/pdf.js",
-  "url": "https://github.com/mozilla/pdf.js",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 54125,
-  "language": "JavaScript",
-  "description": "PDF Reader in JavaScript",
-  "license": null,
-  "first_seen": "2026-11-01 22:45:42"
- },
- {
-  "vendor": "Mozilla",
-  "org": "mozilla",
   "full_name": "mozilla/readability",
   "url": "https://github.com/mozilla/readability",
   "sec_path": "SECURITY.md",
@@ -82,18 +70,6 @@
   "description": "Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes",
   "license": null,
   "first_seen": "2026-11-01 22:46:44"
- },
- {
-  "vendor": "Mozilla",
-  "org": "mozilla",
-  "full_name": "mozilla/neqo",
-  "url": "https://github.com/mozilla/neqo",
-  "sec_path": "SECURITY.md",
-  "stars": 2255,
-  "language": "Rust",
-  "description": "Neqo, the Mozilla Firefox implementation of QUIC in Rust",
-  "license": null,
-  "first_seen": "2026-11-01 22:45:42"
  },
  {
   "vendor": "Mozilla",
@@ -224,18 +200,6 @@
   "stars": 252,
   "language": "JavaScript",
   "description": "Custom ESLint rule to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike",
-  "license": null,
-  "first_seen": "2026-11-01 22:45:42"
- },
- {
-  "vendor": "Mozilla",
-  "org": "mozilla",
-  "full_name": "mozilla/experimenter",
-  "url": "https://github.com/mozilla/experimenter",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 152,
-  "language": "Python",
-  "description": "A web application for managing user experiments for Mozilla Firefox.",
   "license": null,
   "first_seen": "2026-11-01 22:45:42"
  },
@@ -526,6 +490,45 @@
   "description": "DEPRECATED - Future home of Firefox and Focus for Android, including Android Components.",
   "license": null,
   "first_seen": "2026-11-01 22:49:02"
+ },
+ {
+  "vendor": "Mozilla",
+  "org": "mozilla",
+  "full_name": "mozilla/experimenter",
+  "url": "https://github.com/mozilla/experimenter",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "A web application for managing user experiments for Mozilla Firefox.",
+  "license": null,
+  "first_seen": "2026-11-01 22:45:42",
+  "last_verified": "2026-11-14 22:33:22"
+ },
+ {
+  "vendor": "Mozilla",
+  "org": "mozilla",
+  "full_name": "mozilla/neqo",
+  "url": "https://github.com/mozilla/neqo",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Rust",
+  "description": "Neqo, the Mozilla Firefox implementation of QUIC in Rust",
+  "license": null,
+  "first_seen": "2026-11-01 22:45:42",
+  "last_verified": "2026-11-14 22:33:22"
+ },
+ {
+  "vendor": "Mozilla",
+  "org": "mozilla",
+  "full_name": "mozilla/pdf.js",
+  "url": "https://github.com/mozilla/pdf.js",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "> PDF Reader in JavaScript",
+  "license": null,
+  "first_seen": "2026-11-01 22:45:42",
+  "last_verified": "2026-11-14 22:33:22"
  },
  {
   "vendor": "Mozilla",
