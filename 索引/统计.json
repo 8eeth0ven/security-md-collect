@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15 05:35:24",
+ "generated_at": "2026-11-15 06:05:20",
  "mode": "html",
  "totals": {
   "vendors": 304,
   "orgs": 385,
   "orgs_swept": 385,
-  "sec_repos": 10498,
-  "negative_cached": 54948
+  "sec_repos": 10527,
+  "negative_cached": 55261
  },
  "vendors": [
   {
@@ -2000,7 +2000,7 @@
     "Aiven",
     "Aiven-Open"
    ],
-   "sec_repos": 76
+   "sec_repos": 77
   },
   {
    "vendor": "Auth0 by Okta",
@@ -2056,7 +2056,7 @@
    "orgs": [
     "ClickHouse"
    ],
-   "sec_repos": 40
+   "sec_repos": 59
   },
   {
    "vendor": "Concrete CMS",
@@ -2284,7 +2284,7 @@
    "orgs": [
     "OctopusDeploy"
    ],
-   "sec_repos": 1
+   "sec_repos": 10
   },
   {
    "vendor": "Omarchy",

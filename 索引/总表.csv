@@ -9880,6 +9880,7 @@ Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Ope
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/kafka-config,https://github.com/Aiven-Open/kafka-config,0,Java,SECURITY.md,Utilities to help manage Kafka configuration and configuration definitions
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/kafka-testkit,https://github.com/Aiven-Open/kafka-testkit,0,Java,SECURITY.md,Integration testkit for Kafka connector projects.
 Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven-Open,Aiven-Open/pulverize,https://github.com/Aiven-Open/pulverize,0,Rust,SECURITY.md,break a large file in smaller chunks
+Aiven Managed Bug Bounty,公开平台范围（仅用于策略发现）,Aiven,aiven/llvm-project,https://github.com/aiven/llvm-project,0,LLVM,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this …
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/nextjs-auth0,https://github.com/auth0/nextjs-auth0,2315,TypeScript,SECURITY.md,Next.js SDK for signing in with Auth0
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/.github,https://github.com/auth0/.github,3,,.github/SECURITY.md,Org-wide repository files. 
 Auth0 by Okta,公开平台范围（仅用于策略发现）,auth0,auth0/auth0-php,https://github.com/auth0/auth0-php,,,.github/SECURITY.md,
@@ -9978,22 +9979,29 @@ Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Net
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/blst,https://github.com/Chia-Network/blst,0,Assembly,SECURITY.md,Multilingual BLS12-381 signature library
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/dnspython,https://github.com/Chia-Network/dnspython,0,Python,SECURITY.md,a powerful DNS toolkit for python
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/miniupnp,https://github.com/Chia-Network/miniupnp,0,C,SECURITY.md,UPnP IGD implementation
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickHouse,https://github.com/ClickHouse/ClickHouse,50919,C++,SECURITY.md,ClickHouse® is a real-time analytics database management system
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickStack,https://github.com/ClickHouse/ClickStack,10035,TypeScript,SECURITY.md,"Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and Open…"
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-java,https://github.com/ClickHouse/clickhouse-java,1632,Java,SECURITY.md,ClickHouse Java Clients & JDBC Driver
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickHouse,https://github.com/ClickHouse/ClickHouse,50928,C++,SECURITY.md,ClickHouse® is a real-time analytics database management system
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickStack,https://github.com/ClickHouse/ClickStack,10036,TypeScript,SECURITY.md,"Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and Open…"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-java,https://github.com/ClickHouse/clickhouse-java,1634,Java,SECURITY.md,ClickHouse Java Clients & JDBC Driver
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-operator,https://github.com/ClickHouse/clickhouse-operator,317,Go,SECURITY.md,Official Kubernetes Operator for ClickHouse®
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/examples,https://github.com/ClickHouse/examples,233,Jupyter Notebook,SECURITY.md,A collection of examples for working and building with ClickHouse
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/pg_clickhouse,https://github.com/ClickHouse/pg_clickhouse,298,C,SECURITY.md,Interfaces to query ClickHouse databases from PostgreSQL
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/examples,https://github.com/ClickHouse/examples,234,Jupyter Notebook,SECURITY.md,A collection of examples for working and building with ClickHouse
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-kafka-connect,https://github.com/ClickHouse/clickhouse-kafka-connect,212,Java,SECURITY.md,ClickHouse Kafka Connector
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/loom,https://github.com/ClickHouse/loom,21,Python,SECURITY.md,"Shared long-term memory, document search and a code index for AI agents, linked to your code. Memories point at the files and symbols they're about and surface …"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/loom,https://github.com/ClickHouse/loom,57,Python,SECURITY.md,"Shared long-term memory, document search and a code index for AI agents, linked to your code. Memories point at the files and symbols they're about and surface …"
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/copier,https://github.com/ClickHouse/copier,15,C++,SECURITY.md,clickhouse-copier (obsolete)
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/tachikoma,https://github.com/ClickHouse/tachikoma,10,Rust,SECURITY.md,
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clicklisp,https://github.com/ClickHouse/clicklisp,8,Common Lisp,SECURITY.md,"A Common Lisp UDF runtime and query compiler for ClickHouse, shipped as a single binary."
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/zxc,https://github.com/ClickHouse/zxc,5,C,.github/SECURITY.md,"Asymmetric lossless compression built for ultra-fast decode. 40%+ faster than LZ4 on ARM64, with better ratios. C library, write-once/read-many."
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/DataflowTemplates,https://github.com/ClickHouse/DataflowTemplates,4,Java,SECURITY.md,Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/odbc-bridge,https://github.com/ClickHouse/odbc-bridge,4,C++,SECURITY.md,ClickHouse ODBC Bridge
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/praktika,https://github.com/ClickHouse/praktika,4,Python,SECURITY.md,CI Infrastructure Framework
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/wasmtime,https://github.com/ClickHouse/wasmtime,2,Rust,SECURITY.md,"A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/azure-sdk-for-cpp,https://github.com/ClickHouse/azure-sdk-for-cpp,1,C++,SECURITY.md,This repository is for active development of the Azure SDK for C++.  For consumers of the SDK we recommend visiting our versioned developer docs at https://azur…
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/docker-library-official-images,https://github.com/ClickHouse/docker-library-official-images,1,Shell,SECURITY.md,"Primary source of truth for the Docker ""Official Images"" program"
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/envoy,https://github.com/ClickHouse/envoy,1,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/fast_float,https://github.com/ClickHouse/fast_float,1,C++,SECURITY.md,"Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, DuckDB, Chromium, Redis and…"
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/google-protobuf,https://github.com/ClickHouse/google-protobuf,1,C++,SECURITY.md,Protocol Buffers - Google's data interchange format
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/isa-l,https://github.com/ClickHouse/isa-l,1,C,SECURITY.md,Intelligent Storage Acceleration Library
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/yet-another-cloudwatch-exporter,https://github.com/ClickHouse/yet-another-cloudwatch-exporter,1,Go,SECURITY.md,"Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags…"
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/-shabroo,https://github.com/ClickHouse/-shabroo,0,C++,SECURITY.md,ClickHouse® is a free analytics DBMS for big data
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/CRoaring,https://github.com/ClickHouse/CRoaring,0,C,SECURITY.md,"Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, Alibaba Tair, Redpanda, YDB and StarRocks"
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ai-gate,https://github.com/ClickHouse/ai-gate,0,Python,SECURITY.md,Block merge until a pull request has a clean AI review (Cursor Bugbot by default)
@@ -10018,6 +10026,18 @@ ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/l
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/lz4,https://github.com/ClickHouse/lz4,0,C,SECURITY.md,Extremely Fast Compression algorithm
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/monaco-sql-languages,https://github.com/ClickHouse/monaco-sql-languages,0,TypeScript,SECURITY.md,SQL languages for monaco-editor
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/nfpm,https://github.com/ClickHouse/nfpm,0,Go,SECURITY.md,"nFPM is Not FPM - a simple deb, rpm and apk packager written in Go"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/numactl,https://github.com/ClickHouse/numactl,0,C,SECURITY.md,NUMA support for Linux
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/postgres,https://github.com/ClickHouse/postgres,0,C,.github/SECURITY.md,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http…"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/pulsar-client-cpp,https://github.com/ClickHouse/pulsar-client-cpp,0,C++,SECURITY.md,Apache Pulsar C++ client library
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/re2,https://github.com/ClickHouse/re2,0,C++,SECURITY.md,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library."
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/retina,https://github.com/ClickHouse/retina,0,Go,SECURITY.md,eBPF distributed networking observability tool for Kubernetes
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/simdutf,https://github.com/ClickHouse/simdutf,0,C++,SECURITY.md,"Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64, POWER…"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/stackdriver_exporter,https://github.com/ClickHouse/stackdriver_exporter,0,Go,SECURITY.md,Google Stackdriver Prometheus exporter
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/tailscale,https://github.com/ClickHouse/tailscale,0,Go,SECURITY.md,"The easiest, most secure way to use WireGuard and 2FA."
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/xgboost,https://github.com/ClickHouse/xgboost,0,C++,SECURITY.md,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spa…"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/xxHash,https://github.com/ClickHouse/xxHash,0,C,SECURITY.md,Extremely fast non-cryptographic hash algorithm
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/yaml-cpp,https://github.com/ClickHouse/yaml-cpp,0,C++,SECURITY.md,A YAML parser and emitter in C++
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/zstd,https://github.com/ClickHouse/zstd,0,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/terraform-provider-databricks,https://github.com/databricks/terraform-provider-databricks,618,Go,SECURITY.md,Databricks Terraform Provider
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/databricks-sdk-py,https://github.com/databricks/databricks-sdk-py,576,Python,SECURITY.md,Databricks SDK for Python (Beta)
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/cli,https://github.com/databricks/cli,431,Go,SECURITY.md,Databricks CLI
@@ -10049,7 +10069,7 @@ Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/j
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/mssql-docker,https://github.com/databricks/mssql-docker,0,Dockerfile,SECURITY.md,Official Microsoft repository for SQL Server in Docker resources
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/superset,https://github.com/databricks/superset,0,TypeScript,.github/SECURITY.md,Apache Superset is a Data Visualization and Data Exploration Platform
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/tailscale,https://github.com/databricks/tailscale,0,Go,SECURITY.md,"The easiest, most secure way to use WireGuard and 2FA."
-DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,5229,Python,SECURITY.md,"Open-Source Unified Vulnerability Management, DevSecOps & ASPM"
+DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,5233,Python,SECURITY.md,"Open-Source Unified Vulnerability Management, DevSecOps & ASPM"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/defectdojo-mcp,https://github.com/DefectDojo/defectdojo-mcp,3,Python,SECURITY.md,"Official MCP server for DefectDojo open source: connect Claude, Cursor and other AI agents to your findings through the DefectDojo API"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/earlylight,https://github.com/DefectDojo/earlylight,3,Go,SECURITY.md,"Early Light: one open source engine for emerging-vulnerability detectors, from DefectDojo"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/kimi-code,https://github.com/DefectDojo/kimi-code,3,TypeScript,SECURITY.md,DefectDojo's hardened fork of MoonshotAI/kimi-code (baseline v0.34.0).
@@ -10084,7 +10104,7 @@ Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,imm
 Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/immutable-geth,https://github.com/immutable/immutable-geth,4,Go,SECURITY.md,
 Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/wallet-contracts,https://github.com/immutable/wallet-contracts,3,TypeScript,security.md,
 Immutable Bug Bounty,公开平台范围（仅用于策略发现）,immutable,immutable/optimism-experimental,https://github.com/immutable/optimism-experimental,0,Go,SECURITY.md,"Optimism is Ethereum, scaled."
-Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kDrive,https://github.com/Infomaniak/desktop-kDrive,124,C++,SECURITY.md,:computer: Desktop Syncing Client for kDrive
+Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/desktop-kDrive,https://github.com/Infomaniak/desktop-kDrive,125,C++,SECURITY.md,:computer: Desktop Syncing Client for kDrive
 Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/android-kSync,https://github.com/Infomaniak/android-kSync,25,Kotlin,SECURITY.md,Fork of DAVx⁵ with Infomaniak login and branding
 Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/kchat-webapp_old,https://github.com/Infomaniak/kchat-webapp_old,14,TypeScript,SECURITY.md,
 Infomaniak Bug Bounty program,公开平台范围（仅用于策略发现）,Infomaniak,Infomaniak/mobile-kchat,https://github.com/Infomaniak/mobile-kchat,11,TypeScript,SECURITY.md,Fork of Mattermost mobile modified for integration in the Infomaniak ecosystem 
@@ -10323,7 +10343,16 @@ Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasispro
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/privana,https://github.com/oasisprotocol/privana,3,Python,SECURITY.md,ROFL Accounting module
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/tendermint,https://github.com/oasisprotocol/tendermint,3,Go,SECURITY.md,⟁ Tendermint Core (BFT Consensus) in Go
 Oasis Protocol Foundation,公开平台范围（仅用于策略发现）,oasisprotocol,oasisprotocol/cometbft,https://github.com/oasisprotocol/cometbft,0,Go,SECURITY.md,"CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core."
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/aspnetcore,https://github.com/OctopusDeploy/aspnetcore,1,C#,SECURITY.md,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/cost-intelligence-argocd,https://github.com/OctopusDeploy/cost-intelligence-argocd,1,Go,SECURITY.md,"Actual cost of Argo CD applications, from OpenCost, inside the Argo CD UI"
 Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/.github,https://github.com/OctopusDeploy/.github,,,SECURITY.md,| Public |  This is the home repository for the https://github.com/OctopusDeploy organization.
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/NServiceBus,https://github.com/OctopusDeploy/NServiceBus,0,C#,SECURITY.md,"The gold standard for async .NET microservices on Azure, AWS and on-prem"
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/NServiceBus.SqlServer,https://github.com/OctopusDeploy/NServiceBus.SqlServer,0,C#,SECURITY.md,SQL Server Transport for NServiceBus
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/NServiceBus.Transport.NonDurable,https://github.com/OctopusDeploy/NServiceBus.Transport.NonDurable,0,C#,SECURITY.md,An in-memory transport for NServiceBus
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/NuGet.Client,https://github.com/OctopusDeploy/NuGet.Client,0,C#,SECURITY.md,| Public |  Core client libraries for NuGet Services. See docs link below
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/argo-rollouts,https://github.com/OctopusDeploy/argo-rollouts,0,Go,SECURITY.md,Progressive Delivery for Kubernetes
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/octopus-argocd-gateway,https://github.com/OctopusDeploy/octopus-argocd-gateway,0,Go,SECURITY.md,gRPC gateway to allow for Octopus Deploy to communicate with an ArgoCD instance within a Kubernetes Cluster
+Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/roadie-backstage-plugins,https://github.com/OctopusDeploy/roadie-backstage-plugins,0,TypeScript,SECURITY.md,All Backstage plugins created by Roadie.
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy,https://github.com/omacom/omarchy,46968,Shell,.github/SECURITY.md,"Beautiful, Modern & Opinionated Linux"
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/try-omarchy,https://github.com/omacom/try-omarchy,2982,Swift,SECURITY.md,Run Omarchy on MacOS without any setup.
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-mac,https://github.com/omacom/omarchy-mac,2105,Shell,.github/SECURITY.md,"Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support"
