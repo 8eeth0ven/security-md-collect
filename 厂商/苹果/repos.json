@@ -31,7 +31,8 @@
   "language": "LLVM",
   "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Swift’s stable releases of Clang as w…",
   "license": null,
-  "first_seen": "2026-11-02 00:18:52"
+  "first_seen": "2026-11-02 00:18:52",
+  "last_verified": "2026-11-15 00:32:07"
  },
  {
   "vendor": "苹果",
@@ -299,6 +300,19 @@
  },
  {
   "vendor": "苹果",
+  "org": "swiftlang",
+  "full_name": "swiftlang/.github",
+  "url": "https://github.com/swiftlang/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 19,
+  "language": null,
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-02 00:18:52",
+  "last_verified": "2026-11-14 12:54:45"
+ },
+ {
+  "vendor": "苹果",
   "org": "apple",
   "full_name": "apple/pkl-project-commons",
   "url": "https://github.com/apple/pkl-project-commons",
@@ -364,18 +378,5 @@
   "license": null,
   "first_seen": "2026-11-01 18:08:15",
   "last_verified": "2026-11-14 12:54:39"
- },
- {
-  "vendor": "苹果",
-  "org": "swiftlang",
-  "full_name": "swiftlang/.github",
-  "url": "https://github.com/swiftlang/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-02 00:18:52",
-  "last_verified": "2026-11-14 12:54:45"
  }
 ]
