@@ -305,7 +305,7 @@ CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,htt
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13923,Go,SECURITY.md,Exporter for machine metrics
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12550,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12079,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
-CNCF云原生基金会,无(开源基金会),containerd,containerd/nerdctl,https://github.com/containerd/nerdctl,10480,Go,SECURITY.md,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
+CNCF云原生基金会,无(开源基金会),containerd,containerd/nerdctl,https://github.com/containerd/nerdctl,10481,Go,SECURITY.md,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-web,https://github.com/grpc/grpc-web,9259,JavaScript,SECURITY.md,gRPC for Web Clients
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,https://github.com/prometheus/alertmanager,8700,Go,SECURITY.md,Prometheus Alertmanager
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6049,Go,SECURITY.md,Prometheus instrumentation library for Go applications
@@ -407,12 +407,12 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/kube-demo-site
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cfaccess,https://github.com/prometheus/cfaccess,2,Go,SECURITY.md,Cloudflare Access authentication for Prometheus HTTP clients.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promci-setup,https://github.com/prometheus/promci-setup,2,,SECURITY.md,Prometheus CI Setup
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promci-images,https://github.com/prometheus/promci-images,2,,SECURITY.md,GitHub Actions for handling container images.
+CNCF云原生基金会,无(开源基金会),containerd,containerd/.github,https://github.com/containerd/.github,1,,SECURITY.md,Community wide project health files
 CNCF云原生基金会,无(开源基金会),cilium,cilium/iproute2,https://github.com/cilium/iproute2,1,C,SECURITY.md,Just local BPF wip branches for upstream
 CNCF云原生基金会,无(开源基金会),cilium,cilium/perf-tests,https://github.com/cilium/perf-tests,1,Go,SECURITY.md,Performance tests and benchmarks
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-windows,https://github.com/envoyproxy/envoy-windows,1,C++,SECURITY.md,Windows build of Envoy
 CNCF云原生基金会,无(开源基金会),grpc,grpc/.project,https://github.com/grpc/.project,1,,SECURITY.md,Project metadata for automation and awesomeness
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promci-artifacts,https://github.com/prometheus/promci-artifacts,1,,SECURITY.md,GitHub Actions for artifact persistence between jobs
-CNCF云原生基金会,无(开源基金会),containerd,containerd/.github,https://github.com/containerd/.github,,,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/website,https://github.com/kubernetes/website,,,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/test-infra,https://github.com/kubernetes/test-infra,,,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,,,SECURITY.md,
@@ -449,7 +449,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/frakti,https://github.com/kubernetes/frakti,,,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/funding,https://github.com/kubernetes/funding,,,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https://github.com/kubernetes/security,,,SECURITY.md,
-深度求索DeepSeek,无,deepseek-ai,deepseek-ai/dsh-node-addon-require-builtin,https://github.com/deepseek-ai/dsh-node-addon-require-builtin,22,C++,SECURITY.md,An internal component used by DeepSeek Harness
+深度求索DeepSeek,无,deepseek-ai,deepseek-ai/dsh-node-addon-require-builtin,https://github.com/deepseek-ai/dsh-node-addon-require-builtin,23,C++,SECURITY.md,An internal component used by DeepSeek Harness
 智谱AI,无,THUDM,THUDM/INFTY,https://github.com/THUDM/INFTY,578,Python,SECURITY.md,INFTY Engine: An Optimization Toolkit to Support Continual AI
 智谱AI,无,zai-org,zai-org/feedback,https://github.com/zai-org/feedback,41,,SECURITY.md,ZCode 用户建议与反馈收集，处理状态全程公开
 月之暗面,无,MoonshotAI,MoonshotAI/kimi-cli,https://github.com/MoonshotAI/kimi-cli,11413,Python,SECURITY.md,"[Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code"
@@ -818,7 +818,7 @@ UCloud,无,ucloud,ucloud/spark,https://github.com/ucloud/spark,0,Scala,docs/secu
 网易,网易SRC,netease,NetEase/spark,https://github.com/NetEase/spark,6,Scala,docs/security.md,Apache Spark - A unified analytics engine for large-scale data processing
 网易,网易SRC,netease,NetEase/gluten,https://github.com/NetEase/gluten,2,Scala,SECURITY.md,
 滴滴,DSRC,didi,didi/mpx,https://github.com/didi/mpx,3953,JavaScript,SECURITY.md,Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
-滴滴,DSRC,didi,didi/helixharness,https://github.com/didi/helixharness,420,Python,SECURITY.md,HelixHarness 提供完整的 AI Coding 工程化基础能力，还支持不同企业和团队结合自身的业务知识、工程规范和研发流程，持续构建和演进属于自己的专属 Harness
+滴滴,DSRC,didi,didi/helixharness,https://github.com/didi/helixharness,431,Python,SECURITY.md,HelixHarness 提供完整的 AI Coding 工程化基础能力，还支持不同企业和团队结合自身的业务知识、工程规范和研发流程，持续构建和演进属于自己的专属 Harness
 携程,携程SRC,ctripcorp,ctripcorp/Garfield,https://github.com/ctripcorp/Garfield,11,Java,SECURITY.md,"Multi-storage orchestration framework — configuration-driven leader/follower writes across multiple storage media, adaptable to any storage technology via SPI, …"
 同程旅行,无,TongchengOpenSource,TongchengOpenSource/volcano,https://github.com/TongchengOpenSource/volcano,,Go,SECURITY.md,A Cloud Native Batch System (Project under CNCF)
 同程旅行,无,TongchengOpenSource,TongchengOpenSource/celeborn-website,https://github.com/TongchengOpenSource/celeborn-website,,Shell,docs/security.md,Apache Celeborn Site
@@ -3864,7 +3864,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/brotli,https://github.com/google/brotli,15117,TypeScript,SECURITY.md,Brotli compression format
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/ax,https://github.com/google/ax,14627,Go,SECURITY.md,Agent Executor (AX) is Google's open agentic orchestration runtime
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/oss-fuzz,https://github.com/google/oss-fuzz,12949,Shell,SECURITY.md,OSS-Fuzz - continuous fuzzing for open source software.
-谷歌,"自建（Google VRP, bughunters.google.com）",dart-lang,dart-lang/sdk,https://github.com/dart-lang/sdk,11346,Dart,SECURITY.md,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more."
+谷歌,"自建（Google VRP, bughunters.google.com）",dart-lang,dart-lang/sdk,https://github.com/dart-lang/sdk,11347,Dart,SECURITY.md,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/re2,https://github.com/google/re2,9847,C++,SECURITY.md,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library."
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angularfire,https://github.com/angular/angularfire,7795,TypeScript,SECURITY.md,Angular + Firebase = ❤️
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/draco,https://github.com/google/draco,7551,C++,SECURITY.md,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics…
@@ -3917,6 +3917,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/intellij-community,https://github.com/google/intellij-community,14,Java,SECURITY.md,IntelliJ IDEA Community Edition & IntelliJ Platform
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/chrome-enterprise-premium-mcp,https://github.com/google/chrome-enterprise-premium-mcp,12,JavaScript,SECURITY.md,Reference implementation for a Chrome Enterprise Premium MCP server
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/exposure-notifications-private-analytics-ingestion,https://github.com/google/exposure-notifications-private-analytics-ingestion,12,Java,SECURITY.md,This repository contains implementation to process private data shares collected according to the Exposure Notification Private Analytics protocol. It assumes p…
+谷歌,"自建（Google VRP, bughunters.google.com）",dart-lang,dart-lang/.github,https://github.com/dart-lang/.github,11,,SECURITY.md,GitHub default community health file for dart-lang repos
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/basis_universal,https://github.com/google/basis_universal,11,C++,SECURITY.md,Basis Universal GPU Texture Codec - please make contributions upstream at BinomialLLC
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/vera,https://github.com/google/vera,11,Python,docs/security.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/TPM,https://github.com/google/TPM,9,C,SECURITY.md,Google's fork of the TPM reference code. Tracks https://github.com/TrustedComputingGroup/TPM  for v1.83 onward. Tracked https://github.com/microsoft/ms-tpm-20-r…
@@ -3937,7 +3938,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/x-edr-eigenmath_tf2,https://github.com/google/x-edr-eigenmath_tf2,1,C++,SECURITY.md,Port of ROS/TF2 to eigenmath library.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/vtfx,https://github.com/google/vtfx,1,Kotlin,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/.github,https://github.com/angular/.github,,,SECURITY.md,
-谷歌,"自建（Google VRP, bughunters.google.com）",dart-lang,dart-lang/.github,https://github.com/dart-lang/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",firebase,firebase/.github,https://github.com/firebase/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",flutter,flutter/.github,https://github.com/flutter/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
@@ -6873,7 +6873,7 @@ SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/.github,https://git
 戴尔,自建PSIRT（Dell）,dell,dell/powerflex-gen1-monitoring,https://github.com/dell/powerflex-gen1-monitoring,1,Python,SECURITY.md,powerflex-gen1-monitoring
 戴尔,自建PSIRT（Dell）,dell,dell/powerflex-gen2-monitoring-vm-tools,https://github.com/dell/powerflex-gen2-monitoring-vm-tools,1,Shell,SECURITY.md,powerflex-gen2-monitoring-vm-tools
 戴尔,自建PSIRT（Dell）,dell,dell/powerflex-gen1-monitoring-vm-tools,https://github.com/dell/powerflex-gen1-monitoring-vm-tools,1,Shell,SECURITY.md,powerflex-gen1-monitoring-vm-tools
-戴尔,自建PSIRT（Dell）,dell,dell/ansible-objectscale,https://github.com/dell/ansible-objectscale,,Python,docs/SECURITY.md,Ansible collection for Dell ObjectScale
+戴尔,自建PSIRT（Dell）,dell,dell/ansible-objectscale,https://github.com/dell/ansible-objectscale,0,Python,docs/SECURITY.md,Ansible collection for Dell ObjectScale
 戴尔,自建PSIRT（Dell）,dell,dell/dell-harness-plugin,https://github.com/dell/dell-harness-plugin,0,Python,SECURITY.md,Dell Harness Plugins
 戴尔,自建PSIRT（Dell）,dell,dell/powerscale-csd,https://github.com/dell/powerscale-csd,0,Shell,docs/SECURITY.md,PowerScale CSD
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/dc-rl,https://github.com/HewlettPackard/dc-rl,135,HTML,SECURITY.md,SustainDC is a set of Python environments for Data Center simulation and control using Heterogeneous Multi Agent Reinforcement Learning. Includes customizable e…
@@ -7420,9 +7420,9 @@ Discord,自建（Discord Bug Bounty）,discord,discord/eslint-plugin-react-disco
 Discord,自建（Discord Bug Bounty）,discord,discord/envoy,https://github.com/discord/envoy,2,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 Discord,自建（Discord Bug Bounty）,discord,discord/opentelemetry-ebpf-profiler,https://github.com/discord/opentelemetry-ebpf-profiler,1,Go,SECURITY.md,"The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)"
 Discord,自建（Discord Bug Bounty）,discord,discord/pillow-simd,https://github.com/discord/pillow-simd,1,Python,.github/SECURITY.md,The friendly PIL fork
-Discord,自建（Discord Bug Bounty）,discord,discord/terraform-google-gcr-cleaner,https://github.com/discord/terraform-google-gcr-cleaner,,HCL,.github/SECURITY.md,"Terraform module that implements gcr-cleaner, a tool that deletes untagged images in Google Cloud Container Registry. More on https://github.com/sethvargo/gcr-c…"
-Discord,自建（Discord Bug Bounty）,discord,discord/dd-otel-host-profiler,https://github.com/discord/dd-otel-host-profiler,,Go,SECURITY.md,The opentelemetry profiler by Datadog
-Discord,自建（Discord Bug Bounty）,discord,discord/ExoPlayer,https://github.com/discord/ExoPlayer,,Java,SECURITY.md,An extensible media player for Android
+Discord,自建（Discord Bug Bounty）,discord,discord/terraform-google-gcr-cleaner,https://github.com/discord/terraform-google-gcr-cleaner,0,HCL,.github/SECURITY.md,"Terraform module that implements gcr-cleaner, a tool that deletes untagged images in Google Cloud Container Registry. More on https://github.com/sethvargo/gcr-c…"
+Discord,自建（Discord Bug Bounty）,discord,discord/dd-otel-host-profiler,https://github.com/discord/dd-otel-host-profiler,0,Go,SECURITY.md,The opentelemetry profiler by Datadog
+Discord,自建（Discord Bug Bounty）,discord,discord/ExoPlayer,https://github.com/discord/ExoPlayer,0,Java,SECURITY.md,An extensible media player for Android
 Discord,自建（Discord Bug Bounty）,discord,discord/distroless,https://github.com/discord/distroless,0,Starlark,SECURITY.md,"🥑  Language focused docker images, minus the operating system.  "
 Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi,https://github.com/Snapchat/Valdi,16381,C++,SECURITY.md,Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 Snap,HackerOne（Snap）,snapchat,Snapchat/GiGL,https://github.com/Snapchat/GiGL,86,Python,SECURITY.md,Gigantic Graph Learning (GiGL) Framework: Large-scale training and inference for Graph Neural Networks
@@ -7713,28 +7713,28 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-code-revi
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/.github,https://github.com/github/.github,,,SECURITY.md,
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/evals-action,https://github.com/github/evals-action,0,TypeScript,SECURITY.md,"GitHub Action for Copilot Evals: lint evaluation definitions, preview execution plans, and run Vally suites in CI with clear results and regression reporting."
 Docker,HackerOne（Docker）,moby,moby/moby,https://github.com/moby/moby,72264,Go,SECURITY.md,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-Docker,HackerOne（Docker）,docker,docker/compose,https://github.com/docker/compose,38814,Go,.github/SECURITY.md,Define and run multi-container applications with Docker
+Docker,HackerOne（Docker）,docker,docker/compose,https://github.com/docker/compose,38833,Go,.github/SECURITY.md,Define and run multi-container applications with Docker
 Docker,HackerOne（Docker）,moby,moby/buildkit,https://github.com/moby/buildkit,10415,Go,.github/SECURITY.md,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
-Docker,HackerOne（Docker）,docker,docker/cli,https://github.com/docker/cli,6128,Go,SECURITY.md,The Docker CLI
-Docker,HackerOne（Docker）,docker,docker/build-push-action,https://github.com/docker/build-push-action,5434,TypeScript,.github/SECURITY.md,GitHub Action to build and push Docker images with Buildx
-Docker,HackerOne（Docker）,docker,docker/docker-agent,https://github.com/docker/docker-agent,4681,Go,SECURITY.md,AI Agent Builder and Runtime by Docker Engineering
-Docker,HackerOne（Docker）,docker,docker/buildx,https://github.com/docker/buildx,4543,Go,.github/SECURITY.md,Docker CLI plugin for extended build capabilities with BuildKit
+Docker,HackerOne（Docker）,docker,docker/cli,https://github.com/docker/cli,6129,Go,SECURITY.md,The Docker CLI
+Docker,HackerOne（Docker）,docker,docker/build-push-action,https://github.com/docker/build-push-action,5437,TypeScript,.github/SECURITY.md,GitHub Action to build and push Docker images with Buildx
+Docker,HackerOne（Docker）,docker,docker/docker-agent,https://github.com/docker/docker-agent,4685,Go,.github/SECURITY.md,AI Agent Builder and Runtime by Docker Engineering
+Docker,HackerOne（Docker）,docker,docker/buildx,https://github.com/docker/buildx,4546,Go,.github/SECURITY.md,Docker CLI plugin for extended build capabilities with BuildKit
 Docker,HackerOne（Docker）,docker,docker/for-mac,https://github.com/docker/for-mac,2528,,security.md,Bug reports for Docker Desktop for Mac
 Docker,HackerOne（Docker）,docker,docker/for-win,https://github.com/docker/for-win,1948,,security.md,Bug reports for Docker Desktop for Windows
-Docker,HackerOne（Docker）,docker,docker/mcp-gateway,https://github.com/docker/mcp-gateway,1632,Go,.github/SECURITY.md,docker mcp CLI plugin / MCP Gateway
-Docker,HackerOne（Docker）,docker,docker/login-action,https://github.com/docker/login-action,1502,TypeScript,.github/SECURITY.md,GitHub Action to login against a Docker registry
+Docker,HackerOne（Docker）,docker,docker/mcp-gateway,https://github.com/docker/mcp-gateway,1633,Go,.github/SECURITY.md,docker mcp CLI plugin / MCP Gateway
+Docker,HackerOne（Docker）,docker,docker/login-action,https://github.com/docker/login-action,1504,TypeScript,.github/SECURITY.md,GitHub Action to login against a Docker registry
 Docker,HackerOne（Docker）,docker,docker/setup-buildx-action,https://github.com/docker/setup-buildx-action,1396,TypeScript,.github/SECURITY.md,GitHub Action to set up Docker Buildx
 Docker,HackerOne（Docker）,docker,docker/docker-credential-helpers,https://github.com/docker/docker-credential-helpers,1328,Go,.github/SECURITY.md,Programs to keep Docker login credentials safe by storing in platform keystores
-Docker,HackerOne（Docker）,docker,docker/metadata-action,https://github.com/docker/metadata-action,1155,TypeScript,.github/SECURITY.md,"GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker"
-Docker,HackerOne（Docker）,docker,docker/skills,https://github.com/docker/skills,629,Python,SECURITY.md,"A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows."
-Docker,HackerOne（Docker）,docker,docker/setup-qemu-action,https://github.com/docker/setup-qemu-action,602,TypeScript,.github/SECURITY.md,GitHub Action to install QEMU static binaries
+Docker,HackerOne（Docker）,docker,docker/metadata-action,https://github.com/docker/metadata-action,1156,TypeScript,.github/SECURITY.md,"GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker"
+Docker,HackerOne（Docker）,docker,docker/skills,https://github.com/docker/skills,630,Python,SECURITY.md,"A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows."
+Docker,HackerOne（Docker）,docker,docker/setup-qemu-action,https://github.com/docker/setup-qemu-action,603,TypeScript,.github/SECURITY.md,GitHub Action to install QEMU static binaries
 Docker,HackerOne（Docker）,docker,docker/mcp-registry,https://github.com/docker/mcp-registry,584,Go,.github/SECURITY.md,Official Docker MCP registry 
-Docker,HackerOne（Docker）,docker,docker/sbx-releases,https://github.com/docker/sbx-releases,511,,SECURITY.md,Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
-Docker,HackerOne（Docker）,docker,docker/bake-action,https://github.com/docker/bake-action,304,TypeScript,.github/SECURITY.md,GitHub Action to use Docker Buildx Bake as a high-level build command
+Docker,HackerOne（Docker）,docker,docker/sbx-releases,https://github.com/docker/sbx-releases,515,,SECURITY.md,Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
+Docker,HackerOne（Docker）,docker,docker/bake-action,https://github.com/docker/bake-action,305,TypeScript,.github/SECURITY.md,GitHub Action to use Docker Buildx Bake as a high-level build command
 Docker,HackerOne（Docker）,docker,docker/hub-feedback,https://github.com/docker/hub-feedback,250,,SECURITY.md,Feedback and bug reports for the Docker Hub
 Docker,HackerOne（Docker）,docker,docker/sbx-kits-contrib,https://github.com/docker/sbx-kits-contrib,211,Go,SECURITY.md,Community repository for sbx kits
-Docker,HackerOne（Docker）,docker,docker/docker-language-server,https://github.com/docker/docker-language-server,198,Go,SECURITY.md,"Language server for Dockerfiles, Compose files, and Bake files"
-Docker,HackerOne（Docker）,docker,docker/sandbox-kit-spec,https://github.com/docker/sandbox-kit-spec,190,Go,.github/SECURITY.md,"Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites"
+Docker,HackerOne（Docker）,docker,docker/docker-language-server,https://github.com/docker/docker-language-server,199,Go,SECURITY.md,"Language server for Dockerfiles, Compose files, and Bake files"
+Docker,HackerOne（Docker）,docker,docker/sandbox-kit-spec,https://github.com/docker/sandbox-kit-spec,191,Go,.github/SECURITY.md,"Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites"
 Docker,HackerOne（Docker）,docker,docker/hub-mcp,https://github.com/docker/hub-mcp,171,TypeScript,SECURITY.md,Docker Hub MCP Server
 Docker,HackerOne（Docker）,docker,docker/go-events,https://github.com/docker/go-events,135,Go,SECURITY.md,Composable event distribution for Go
 Docker,HackerOne（Docker）,docker,docker/github-builder,https://github.com/docker/github-builder,93,,.github/SECURITY.md,Official Docker-maintained reusable GitHub Actions workflows to securely build container images
@@ -7747,9 +7747,10 @@ Docker,HackerOne（Docker）,docker,docker/desktop-feedback,https://github.com/d
 Docker,HackerOne（Docker）,docker,docker/setup-compose-action,https://github.com/docker/setup-compose-action,46,TypeScript,.github/SECURITY.md,GitHub Action to set up Docker Compose
 Docker,HackerOne（Docker）,docker,docker/mcp-inspector,https://github.com/docker/mcp-inspector,45,TypeScript,SECURITY.md,Visual testing tool for MCP servers
 Docker,HackerOne（Docker）,docker,docker/github-actions-runner,https://github.com/docker/github-actions-runner,26,Shell,SECURITY.md,Docker's containerized github-actions runner
-Docker,HackerOne（Docker）,docker,docker/cagent-action,https://github.com/docker/cagent-action,19,TypeScript,SECURITY.md,A GitHub Action for running docker agent AI agents in your workflows.
-Docker,HackerOne（Docker）,docker,docker/portcullis,https://github.com/docker/portcullis,16,Go,SECURITY.md,"A tiny Go library to detect and redact API tokens, cloud credentials, and other secret material in arbitrary text."
-Docker,HackerOne（Docker）,docker,docker/docker-agent-action,https://github.com/docker/docker-agent-action,9,TypeScript,SECURITY.md,A GitHub Action for running Docker Agent AI agents in your workflows.
+Docker,HackerOne（Docker）,docker,docker/cagent-action,https://github.com/docker/cagent-action,19,TypeScript,.github/SECURITY.md,A GitHub Action for running docker agent AI agents in your workflows.
+Docker,HackerOne（Docker）,docker,docker/portcullis,https://github.com/docker/portcullis,17,Go,SECURITY.md,"A tiny Go library to detect and redact API tokens, cloud credentials, and other secret material in arbitrary text."
+Docker,HackerOne（Docker）,docker,docker/.github,https://github.com/docker/.github,10,,SECURITY.md,
+Docker,HackerOne（Docker）,docker,docker/docker-agent-action,https://github.com/docker/docker-agent-action,9,TypeScript,.github/SECURITY.md,A GitHub Action for running Docker Agent AI agents in your workflows.
 Docker,HackerOne（Docker）,docker,docker/desktop-cloud-provider,https://github.com/docker/desktop-cloud-provider,7,Go,SECURITY.md,Cloud provider for KIND clusters (desktop-cloud-provider-kind image)
 Docker,HackerOne（Docker）,docker,docker/homebrew-tap,https://github.com/docker/homebrew-tap,6,Ruby,SECURITY.md,Homebrew tap of Docker products and tools
 Docker,HackerOne（Docker）,docker,docker/build-cloud-feedback,https://github.com/docker/build-cloud-feedback,5,,SECURITY.md,Feedback and bug reports for Docker Build Cloud
@@ -7763,9 +7764,8 @@ Docker,HackerOne（Docker）,docker,docker/compose-language-service,https://gith
 Docker,HackerOne（Docker）,docker,docker/go-winio,https://github.com/docker/go-winio,2,Go,SECURITY.md,Win32 IO-related utilities for Go
 Docker,HackerOne（Docker）,docker,docker/winget-pkgs,https://github.com/docker/winget-pkgs,1,,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
 Docker,HackerOne（Docker）,moby,moby/octoguard,https://github.com/moby/octoguard,1,,.github/SECURITY.md,"Reusable GitHub Actions workflows for security scanning, auditing, and compliance"
-Docker,HackerOne（Docker）,docker,docker/dockside-releases,https://github.com/docker/dockside-releases,,,SECURITY.md,"Dockside releases (CLI + console for MCP Gateway Enterprise), owned by @docker/relok8s-maintainers"
-Docker,HackerOne（Docker）,docker,docker/docs-toolkit,https://github.com/docker/docs-toolkit,,Shell,SECURITY.md,
-Docker,HackerOne（Docker）,docker,docker/.github,https://github.com/docker/.github,,,SECURITY.md,
+Docker,HackerOne（Docker）,docker,docker/dockside-releases,https://github.com/docker/dockside-releases,0,,SECURITY.md,"Dockside releases (CLI + console for MCP Gateway Enterprise), owned by @docker/relok8s-maintainers"
+Docker,HackerOne（Docker）,docker,docker/docs-toolkit,https://github.com/docker/docs-toolkit,0,Shell,SECURITY.md,
 Docker,HackerOne（Docker）,moby,moby/klauspost-compress,https://github.com/moby/klauspost-compress,0,Go,SECURITY.md,
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/hcl,https://github.com/hashicorp/hcl,5835,Go,SECURITY.md,HCL is the HashiCorp configuration language.
 HashiCorp,自建（HashiCorp VDP）,hashicorp,hashicorp/memberlist,https://github.com/hashicorp/memberlist,4130,Go,SECURITY.md,Golang package for gossip based membership and failure detection
@@ -9274,16 +9274,16 @@ DigitalOcean,HackerOne,digitalocean,digitalocean/benchmark-harness,https://githu
 DigitalOcean,HackerOne,digitalocean,digitalocean/litellm-os,https://github.com/digitalocean/litellm-os,1,Python,security.md,"Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, A…"
 DigitalOcean,HackerOne,digitalocean,digitalocean/pmm-headless,https://github.com/digitalocean/pmm-headless,1,Go,SECURITY.md,"Percona Monitoring and Management: an open source database monitoring, observability and management tool"
 DigitalOcean,HackerOne,digitalocean,digitalocean/ray,https://github.com/digitalocean/ray,1,Python,SECURITY.md,Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-DigitalOcean,HackerOne,digitalocean,digitalocean/litestream,https://github.com/digitalocean/litestream,,Go,SECURITY.md,Streaming replication for SQLite.
-DigitalOcean,HackerOne,digitalocean,digitalocean/harness-runtime-session-export,https://github.com/digitalocean/harness-runtime-session-export,,Python,SECURITY.md,Export a DigitalOcean agent session's conversation to a Markdown file.
-DigitalOcean,HackerOne,digitalocean,digitalocean/kaniko,https://github.com/digitalocean/kaniko,,Go,SECURITY.md,Build Container Images In Kubernetes
-DigitalOcean,HackerOne,digitalocean,digitalocean/.github,https://github.com/digitalocean/.github,,,SECURITY.md,
-DigitalOcean,HackerOne,digitalocean,digitalocean/st2,https://github.com/digitalocean/st2,,Python,SECURITY.md,"StackStorm (aka ""IFTTT for Ops"") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs…"
-DigitalOcean,HackerOne,digitalocean,digitalocean/gpu-metal-awx,https://github.com/digitalocean/gpu-metal-awx,,Python,SECURITY.md,"AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pl…"
-DigitalOcean,HackerOne,digitalocean,digitalocean/cilium,https://github.com/digitalocean/cilium,,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
-DigitalOcean,HackerOne,digitalocean,digitalocean/copilot-metrics-viewer,https://github.com/digitalocean/copilot-metrics-viewer,,Vue,SECURITY.md,Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
-DigitalOcean,HackerOne,digitalocean,digitalocean/haproxy_exporter,https://github.com/digitalocean/haproxy_exporter,,Go,SECURITY.md,Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
-DigitalOcean,HackerOne,digitalocean,digitalocean/kubernetes,https://github.com/digitalocean/kubernetes,,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
+DigitalOcean,HackerOne,digitalocean,digitalocean/litestream,https://github.com/digitalocean/litestream,0,Go,SECURITY.md,Streaming replication for SQLite.
+DigitalOcean,HackerOne,digitalocean,digitalocean/harness-runtime-session-export,https://github.com/digitalocean/harness-runtime-session-export,0,Python,SECURITY.md,Export a DigitalOcean agent session's conversation to a Markdown file.
+DigitalOcean,HackerOne,digitalocean,digitalocean/kaniko,https://github.com/digitalocean/kaniko,0,Go,SECURITY.md,Build Container Images In Kubernetes
+DigitalOcean,HackerOne,digitalocean,digitalocean/.github,https://github.com/digitalocean/.github,,,SECURITY.md,Common files across all repositories. Supported file types: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-…
+DigitalOcean,HackerOne,digitalocean,digitalocean/st2,https://github.com/digitalocean/st2,0,Python,SECURITY.md,"StackStorm (aka ""IFTTT for Ops"") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs…"
+DigitalOcean,HackerOne,digitalocean,digitalocean/gpu-metal-awx,https://github.com/digitalocean/gpu-metal-awx,0,Python,SECURITY.md,"AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pl…"
+DigitalOcean,HackerOne,digitalocean,digitalocean/cilium,https://github.com/digitalocean/cilium,0,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
+DigitalOcean,HackerOne,digitalocean,digitalocean/copilot-metrics-viewer,https://github.com/digitalocean/copilot-metrics-viewer,0,Vue,SECURITY.md,Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
+DigitalOcean,HackerOne,digitalocean,digitalocean/haproxy_exporter,https://github.com/digitalocean/haproxy_exporter,0,Go,SECURITY.md,Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+DigitalOcean,HackerOne,digitalocean,digitalocean/kubernetes,https://github.com/digitalocean/kubernetes,0,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
 DigitalOcean,HackerOne,digitalocean,digitalocean/llm-d-router,https://github.com/digitalocean/llm-d-router,0,Go,SECURITY.md,llm-d Router: The intelligent entry point for inference requests
 Canva,Bugcrowd,canva,Canva/benthos,https://github.com/Canva/benthos,1,Go,SECURITY.md,A fork of the official benthosdev/benthos repository in order to apply Canva-specific customisations
 Canva,Bugcrowd,canva,Canva/sonar-java,https://github.com/Canva/sonar-java,1,Java,SECURITY.md,:coffee: SonarSource Static Analyzer for Java Code Quality and Security
@@ -9342,7 +9342,7 @@ Zscaler,Bugcrowd,zscaler,zscaler/gateway,https://github.com/zscaler/gateway,0,Ty
 Zscaler,Bugcrowd,zscaler,zscaler/awesome-copilot,https://github.com/zscaler/awesome-copilot,0,JavaScript,SECURITY.md,"Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot."
 CyberArk,Bugcrowd,cyberark,cyberark/summon,https://github.com/cyberark/summon,765,Go,SECURITY.md,CLI that provides on-demand secrets access for common DevOps tools
 CyberArk,Bugcrowd,cyberark,cyberark/bash-lib,https://github.com/cyberark/bash-lib,672,Shell,SECURITY.md,Library for bash utility methods and tools
-CyberArk,Bugcrowd,cyberark,cyberark/secretless-broker,https://github.com/cyberark/secretless-broker,397,Go,SECURITY.md,Secure your apps by making them Secretless
+CyberArk,Bugcrowd,cyberark,cyberark/secretless-broker,https://github.com/cyberark/secretless-broker,398,Go,SECURITY.md,Secure your apps by making them Secretless
 CyberArk,Bugcrowd,cyberark,cyberark/Vulnhalla,https://github.com/cyberark/Vulnhalla,206,Python,SECURITY.md,
 CyberArk,Bugcrowd,cyberark,cyberark/agent-guard,https://github.com/cyberark/agent-guard,101,Python,SECURITY.md,A toolset repository for AI agents
 CyberArk,Bugcrowd,cyberark,cyberark/simple-llm-eval,https://github.com/cyberark/simple-llm-eval,68,Python,SECURITY.md,Simple LLM Evaluation Using LLM As a Judge 👩‍⚖️
@@ -9408,28 +9408,28 @@ CyberArk,Bugcrowd,cyberark,cyberark/sia-helm-charts,https://github.com/cyberark/
 CyberArk,Bugcrowd,cyberark,cyberark/terraform-azurerm-pamoncloud-controller,https://github.com/cyberark/terraform-azurerm-pamoncloud-controller,1,HCL,SECURITY.md,
 CyberArk,Bugcrowd,cyberark,cyberark/conjur-sdk-java,https://github.com/cyberark/conjur-sdk-java,1,Java,SECURITY.md,
 CyberArk,Bugcrowd,cyberark,cyberark/terraform-aws-pamoncloud-controller,https://github.com/cyberark/terraform-aws-pamoncloud-controller,1,HCL,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/.github,https://github.com/cyberark/.github,1,,SECURITY.md,Common github templates for cyberark
 CyberArk,Bugcrowd,cyberark,cyberark/authn-jwt-gitlab,https://github.com/cyberark/authn-jwt-gitlab,1,Go,SECURITY.md,
 CyberArk,Bugcrowd,cyberark,cyberark/identity-demo-nodejs,https://github.com/cyberark/identity-demo-nodejs,1,HTML,SECURITY.md,Demo app based on Node to showcase the CyberArk Identity capabilities.
-CyberArk,Bugcrowd,cyberark,cyberark/terraform-aws-cce-organization-add-account,https://github.com/cyberark/terraform-aws-cce-organization-add-account,,HCL,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/terraform-azure-cce-entra,https://github.com/cyberark/terraform-azure-cce-entra,,HCL,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/terraform-azure-cce-subscription,https://github.com/cyberark/terraform-azure-cce-subscription,,HCL,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/terraform-azure-cce-management-group,https://github.com/cyberark/terraform-azure-cce-management-group,,HCL,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/terraform-azure-cce-commons,https://github.com/cyberark/terraform-azure-cce-commons,,HCL,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/terraform-aws-cce-organization,https://github.com/cyberark/terraform-aws-cce-organization,,HCL,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/conjur-service-broker-go,https://github.com/cyberark/conjur-service-broker-go,,Go,SECURITY.md,Implementation of the Open Service Broker API for CyberArk Secrets Manager in Golang Topics
-CyberArk,Bugcrowd,cyberark,cyberark/terraform-aws-cce-account,https://github.com/cyberark/terraform-aws-cce-account,,HCL,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/external-secrets,https://github.com/cyberark/external-secrets,,Go,SECURITY.md,This fork is for preparing changes before they are submitted upstream. External Secrets Operator reads information from a third-party service like AWS Secrets M…
-CyberArk,Bugcrowd,cyberark,cyberark/cloudfoundry-conjur-buildpack,https://github.com/cyberark/cloudfoundry-conjur-buildpack,,Go,SECURITY.md,Buildpack for the CyberArk Secrets Manager / Cloud Foundry integration
-CyberArk,Bugcrowd,cyberark,cyberark/.github,https://github.com/cyberark/.github,,,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/Accelerator-PAM-Onboarding,https://github.com/cyberark/Accelerator-PAM-Onboarding,,Go,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/PTA-Firewall-Configuration,https://github.com/cyberark/PTA-Firewall-Configuration,,,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/argocd-vault-plugin,https://github.com/cyberark/argocd-vault-plugin,,Go,SECURITY.md,An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets
-CyberArk,Bugcrowd,cyberark,cyberark/conjur-bitbucket-pipe,https://github.com/cyberark/conjur-bitbucket-pipe,,Python,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/conjur-teamcity-plugin,https://github.com/cyberark/conjur-teamcity-plugin,,Java,SECURITY.md,TeamCity plugin so that TeamCity jobs/builds can retrieve credentials from Conjur when a job/build is kicked off.
-CyberArk,Bugcrowd,cyberark,cyberark/conjur-project-config,https://github.com/cyberark/conjur-project-config,,Shell,SECURITY.md,Project configuration and template files for Conjur related projects.
-CyberArk,Bugcrowd,cyberark,cyberark/conjur-octopus-deploy,https://github.com/cyberark/conjur-octopus-deploy,,Python,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/oss-template,https://github.com/cyberark/oss-template,,,SECURITY.md,
-CyberArk,Bugcrowd,cyberark,cyberark/conjur-instruqt,https://github.com/cyberark/conjur-instruqt,,Shell,SECURITY.md,Instruqt Tutorials for Conjur.org
+CyberArk,Bugcrowd,cyberark,cyberark/terraform-aws-cce-organization-add-account,https://github.com/cyberark/terraform-aws-cce-organization-add-account,0,HCL,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/terraform-azure-cce-entra,https://github.com/cyberark/terraform-azure-cce-entra,0,HCL,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/terraform-azure-cce-subscription,https://github.com/cyberark/terraform-azure-cce-subscription,0,HCL,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/terraform-azure-cce-management-group,https://github.com/cyberark/terraform-azure-cce-management-group,0,HCL,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/terraform-azure-cce-commons,https://github.com/cyberark/terraform-azure-cce-commons,0,HCL,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/terraform-aws-cce-organization,https://github.com/cyberark/terraform-aws-cce-organization,0,HCL,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/conjur-service-broker-go,https://github.com/cyberark/conjur-service-broker-go,0,Go,SECURITY.md,Implementation of the Open Service Broker API for CyberArk Secrets Manager in Golang Topics
+CyberArk,Bugcrowd,cyberark,cyberark/terraform-aws-cce-account,https://github.com/cyberark/terraform-aws-cce-account,0,HCL,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/external-secrets,https://github.com/cyberark/external-secrets,0,Go,SECURITY.md,This fork is for preparing changes before they are submitted upstream. External Secrets Operator reads information from a third-party service like AWS Secrets M…
+CyberArk,Bugcrowd,cyberark,cyberark/cloudfoundry-conjur-buildpack,https://github.com/cyberark/cloudfoundry-conjur-buildpack,0,Go,SECURITY.md,Buildpack for the CyberArk Secrets Manager / Cloud Foundry integration
+CyberArk,Bugcrowd,cyberark,cyberark/Accelerator-PAM-Onboarding,https://github.com/cyberark/Accelerator-PAM-Onboarding,0,Go,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/PTA-Firewall-Configuration,https://github.com/cyberark/PTA-Firewall-Configuration,0,,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/argocd-vault-plugin,https://github.com/cyberark/argocd-vault-plugin,0,Go,SECURITY.md,An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets
+CyberArk,Bugcrowd,cyberark,cyberark/conjur-bitbucket-pipe,https://github.com/cyberark/conjur-bitbucket-pipe,0,Python,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/conjur-teamcity-plugin,https://github.com/cyberark/conjur-teamcity-plugin,0,Java,SECURITY.md,TeamCity plugin so that TeamCity jobs/builds can retrieve credentials from Conjur when a job/build is kicked off.
+CyberArk,Bugcrowd,cyberark,cyberark/conjur-project-config,https://github.com/cyberark/conjur-project-config,0,Shell,SECURITY.md,Project configuration and template files for Conjur related projects.
+CyberArk,Bugcrowd,cyberark,cyberark/conjur-octopus-deploy,https://github.com/cyberark/conjur-octopus-deploy,0,Python,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/oss-template,https://github.com/cyberark/oss-template,0,,SECURITY.md,
+CyberArk,Bugcrowd,cyberark,cyberark/conjur-instruqt,https://github.com/cyberark/conjur-instruqt,0,Shell,SECURITY.md,Instruqt Tutorials for Conjur.org
 F5,Bugcrowd,F5Networks,F5Networks/aip-to-sigma,https://github.com/F5Networks/aip-to-sigma,7,,SECURITY.md,AIP Rules Converted To The Sigma Format
 F5,Bugcrowd,F5Networks,F5Networks/terraform-provider-f5os,https://github.com/F5Networks/terraform-provider-f5os,5,Go,SECURITY.md,Terraform Provider F5OS used to manage F5OS platforms like Velos/rSeries
 F5,Bugcrowd,F5Networks,F5Networks/terraform-provider-f5ads,https://github.com/F5Networks/terraform-provider-f5ads,,Go,SECURITY.md,Terraform provider for F5 Application Delivery Service powered by NGINX (formerly NGINXaaS)
@@ -9502,10 +9502,10 @@ Lyft,自建BB,lyft,lyft/flask,https://github.com/lyft/flask,0,Python,.github/SEC
 Lyft,自建BB,lyft,lyft/coredns,https://github.com/lyft/coredns,0,Go,SECURITY.md,CoreDNS is a DNS server that chains plugins
 Instacart,自建BB,instacart,instacart/puma,https://github.com/instacart/puma,,Ruby,SECURITY.md,A Ruby/Rack web server built for parallelism
 Instacart,自建BB,instacart,instacart/coredns,https://github.com/instacart/coredns,,Go,SECURITY.md,CoreDNS is a DNS server that chains plugins
-Deliveroo,自建BB,deliveroo,deliveroo/trivy-aquasecurity,https://github.com/deliveroo/trivy-aquasecurity,,Go,SECURITY.md,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
-Deliveroo,自建BB,deliveroo,deliveroo/mcp-atlassian,https://github.com/deliveroo/mcp-atlassian,,Python,SECURITY.md,"MCP server for Atlassian tools (Confluence, Jira)"
-Deliveroo,自建BB,deliveroo,deliveroo/facebook-ios-sdk,https://github.com/deliveroo/facebook-ios-sdk,,Swift,SECURITY.md,Used to integrate the Facebook Platform with your iOS & tvOS apps.
-Deliveroo,自建BB,deliveroo,deliveroo/sinatra,https://github.com/deliveroo/sinatra,,Ruby,SECURITY.md,Classy web-development dressed in a DSL (official / canonical repo)
+Deliveroo,自建BB,deliveroo,deliveroo/trivy-aquasecurity,https://github.com/deliveroo/trivy-aquasecurity,0,Go,SECURITY.md,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+Deliveroo,自建BB,deliveroo,deliveroo/mcp-atlassian,https://github.com/deliveroo/mcp-atlassian,0,Python,SECURITY.md,"MCP server for Atlassian tools (Confluence, Jira)"
+Deliveroo,自建BB,deliveroo,deliveroo/facebook-ios-sdk,https://github.com/deliveroo/facebook-ios-sdk,0,Swift,SECURITY.md,Used to integrate the Facebook Platform with your iOS & tvOS apps.
+Deliveroo,自建BB,deliveroo,deliveroo/sinatra,https://github.com/deliveroo/sinatra,0,Ruby,SECURITY.md,Classy web-development dressed in a DSL (official / canonical repo)
 Grab,自建BB,grab,grab/unified-spark-catalog,https://github.com/grab/unified-spark-catalog,6,Java,SECURITY.md,"Unified Spark catalog routing to Delta, Iceberg, or Hudi by auto-detecting format"
 Gojek,自建BB,gojek,gojek/paho.mqtt.golang,https://github.com/gojek/paho.mqtt.golang,6,Go,SECURITY.md,
 Walmart,自建BB,walmartlabs,walmartlabs/concord,https://github.com/walmartlabs/concord,236,Java,SECURITY.md,Concord - workflow orchestration and continuous deployment management
@@ -9525,7 +9525,7 @@ Comcast,自建BB,comcast,Comcast/portal-application-lifecycle-manager,https://gi
 Comcast,自建BB,comcast,Comcast/Porrtal,https://github.com/Comcast/Porrtal,9,TypeScript,SECURITY.md,This project was created to help developers. You can use the platform to build web applications. The project supports both React and Angular development.
 Comcast,自建BB,comcast,Comcast/low-latency,https://github.com/Comcast/low-latency,2,,SECURITY.md,LS4: Low Latency Low Loss Scalable Throughput
 Comcast,自建BB,comcast,Comcast/.github,https://github.com/Comcast/.github,1,,SECURITY.md,Default files for the org
-Comcast,自建BB,comcast,Comcast/OpenPlate,https://github.com/Comcast/OpenPlate,,Python,SECURITY.md,A tool for building and managing reusable project templates and standardized developer workflows.
+Comcast,自建BB,comcast,Comcast/OpenPlate,https://github.com/Comcast/OpenPlate,0,Python,SECURITY.md,A tool for building and managing reusable project templates and standardized developer workflows.
 Comcast,自建BB,comcast,comcast/.github,https://github.com/comcast/.github,,,SECURITY.md,
 Deutsche Telekom,自建BB,telekom,telekom/testerra,https://github.com/telekom/testerra,38,Java,SECURITY.md,Testerra is an integrated framework for automating tests for (web) applications. 
 Deutsche Telekom,自建BB,telekom,telekom/k8s-breakglass,https://github.com/telekom/k8s-breakglass,35,Go,SECURITY.md,Temporary privilege elevation for Kubernetes.
@@ -9597,10 +9597,10 @@ Verizon,自建BB,verizon,Verizon/oss-template,https://github.com/Verizon/oss-tem
 AT&T,自建BB,att,att/autogen,https://github.com/att/autogen,4,Jupyter Notebook,SECURITY.md,A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 T-Mobile,自建BB,tmobile,tmobile/magtape,https://github.com/tmobile/magtape,152,Python,SECURITY.md,MagTape Policy-as-Code for Kubernetes
 T-Mobile,自建BB,tmobile,tmobile/DevEdge-IoTDevKit-ZephyrRTOS,https://github.com/tmobile/DevEdge-IoTDevKit-ZephyrRTOS,14,C,.github/SECURITY.md,T-Mobile Zephyr OS is a fork of zephyrproject-rtos/zephyr that is shipped on the DevKit and used for contributing upstream.
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/falconpy,https://github.com/CrowdStrike/falconpy,522,Python,SECURITY.md,The CrowdStrike Falcon SDK for Python
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/falconpy,https://github.com/CrowdStrike/falconpy,523,Python,SECURITY.md,The CrowdStrike Falcon SDK for Python
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/psfalcon,https://github.com/CrowdStrike/psfalcon,493,PowerShell,SECURITY.md,PowerShell for CrowdStrike's OAuth2 APIs
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/sccmhound,https://github.com/CrowdStrike/sccmhound,406,C#,SECURITY.md,A BloodHound collector for Microsoft Configuration Manager
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/falcon-mcp,https://github.com/CrowdStrike/falcon-mcp,281,Python,.github/SECURITY.md,Connect AI agents to CrowdStrike Falcon for automated security analysis and threat hunting
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/falcon-mcp,https://github.com/CrowdStrike/falcon-mcp,282,Python,.github/SECURITY.md,Connect AI agents to CrowdStrike Falcon for automated security analysis and threat hunting
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/VirtualGHOST,https://github.com/CrowdStrike/VirtualGHOST,113,Python,SECURITY.md,VirtualGHOST Detection Tool
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/gofalcon,https://github.com/CrowdStrike/gofalcon,90,Go,SECURITY.md,Golang-based SDK to CrowdStrike's APIs
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/tf2rust,https://github.com/CrowdStrike/tf2rust,87,Python,SECURITY.md,Tensorflow to Rust is a tool to convert trained Tensorflow models to pure Rust code.
@@ -9608,8 +9608,8 @@ CrowdStrike,自建BB,crowdstrike,CrowdStrike/MISP-tools,https://github.com/Crowd
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/caracara,https://github.com/CrowdStrike/caracara,51,Python,SECURITY.md,"Developer enhancements (DX) for FalconPy, the CrowdStrike Python SDK"
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/FDR,https://github.com/CrowdStrike/FDR,42,Python,SECURITY.md,Falcon Data Replicator
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/embersim-databank,https://github.com/CrowdStrike/embersim-databank,41,Python,SECURITY.md,"Code for the paper ""EMBERSim: A Large-Scale Databank for Boosting Similarity Search in Malware Analysis"""
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-skills,https://github.com/CrowdStrike/foundry-skills,38,Shell,SECURITY.md,"AI coding assistant skills for building CrowdStrike Falcon Foundry apps: scaffolding, deployment, and best practices for API integrations, collections, function…"
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/fusion-skills,https://github.com/CrowdStrike/fusion-skills,30,Python,SECURITY.md,"AI coding assistant skills for building CrowdStrike Falcon Fusion workflows: action discovery, YAML authoring, deployment, execution monitoring, and best practi…"
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-skills,https://github.com/CrowdStrike/foundry-skills,39,Shell,SECURITY.md,"AI coding assistant skills for building CrowdStrike Falcon Foundry apps: scaffolding, deployment, and best practices for API integrations, collections, function…"
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/fusion-skills,https://github.com/CrowdStrike/fusion-skills,31,Python,SECURITY.md,"AI coding assistant skills for building CrowdStrike Falcon Fusion workflows: action discovery, YAML authoring, deployment, execution monitoring, and best practi…"
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/go-metrics-sliding-window,https://github.com/CrowdStrike/go-metrics-sliding-window,25,Go,SECURITY.md,A sliding window sampling implementation for the rcrowley/go-metrics library.
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/rusty-falcon,https://github.com/CrowdStrike/rusty-falcon,22,Rust,SECURITY.md,Rust bindings for CrowdStrike Falcon API
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-sample-rapid-response,https://github.com/CrowdStrike/foundry-sample-rapid-response,21,TypeScript,SECURITY.md,Rapid Response sample Foundry app
@@ -9661,16 +9661,16 @@ CrowdStrike,自建BB,crowdstrike,CrowdStrike/falcon-openshift-console-plugin,htt
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/logscale-go-api-client-example,https://github.com/CrowdStrike/logscale-go-api-client-example,1,Go,SECURITY.md,
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/graphics-core,https://github.com/CrowdStrike/graphics-core,1,TypeScript,SECURITY.md,
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/logscale-gcp-components,https://github.com/CrowdStrike/logscale-gcp-components,1,HCL,SECURITY.md,
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-sample-foundryjs-demo,https://github.com/CrowdStrike/foundry-sample-foundryjs-demo,,TypeScript,SECURITY.md,Foundry-JS Demo sample Foundry app
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-sample-foundryjs-demo,https://github.com/CrowdStrike/foundry-sample-foundryjs-demo,0,TypeScript,SECURITY.md,Foundry-JS Demo sample Foundry app
 CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-tutorial-enrich-incidents,https://github.com/CrowdStrike/foundry-tutorial-enrich-incidents,,JavaScript,SECURITY.md,Learn how to use the Foundry CLI to create a Foundry app that enriches Falcon incidents with third-party data. This app adds third-party data on the Next-Gen SI…
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-playwright,https://github.com/CrowdStrike/foundry-playwright,,TypeScript,SECURITY.md,Playwright end-to-end (E2E) test infrastructure for Falcon Foundry apps.
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/logscale-oci,https://github.com/CrowdStrike/logscale-oci,,Shell,SECURITY.md,OCI Infrastructure automation for LogScale
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/gcc-creative-studio,https://github.com/CrowdStrike/gcc-creative-studio,,Python,SECURITY.md,"Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serve…"
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/logscale-azure,https://github.com/CrowdStrike/logscale-azure,,HCL,SECURITY.md,Azure infrastructure automation for LogScale
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-chromeos-device-actions,https://github.com/CrowdStrike/foundry-chromeos-device-actions,,JavaScript,docs/SECURITY.md,A Foundry app for managing and securing ChromeOS devices through the Google Admin API
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-tutorial-extension-builder,https://github.com/CrowdStrike/foundry-tutorial-extension-builder,,,SECURITY.md,"In this tutorial, you will create a Foundry app that enriches Falcon detections with third-party data. The app uses VirusTotal to scan the IP address associated…"
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/alloy-quickstart,https://github.com/CrowdStrike/alloy-quickstart,,TypeScript,SECURITY.md,Opinionated building blocks for robust Foundry apps.
-CrowdStrike,自建BB,crowdstrike,CrowdStrike/alloy-react,https://github.com/CrowdStrike/alloy-react,,TypeScript,SECURITY.md,React + PatternFly building blocks for Foundry UI's
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-playwright,https://github.com/CrowdStrike/foundry-playwright,0,TypeScript,SECURITY.md,Playwright end-to-end (E2E) test infrastructure for Falcon Foundry apps.
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/logscale-oci,https://github.com/CrowdStrike/logscale-oci,0,Shell,SECURITY.md,OCI Infrastructure automation for LogScale
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/gcc-creative-studio,https://github.com/CrowdStrike/gcc-creative-studio,0,Python,SECURITY.md,"Google Cloud Creative Studio is a comprehensive, all-in-one Generative AI Platform designed as a deployable solution for your own Google Cloud project. It serve…"
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/logscale-azure,https://github.com/CrowdStrike/logscale-azure,0,HCL,SECURITY.md,Azure infrastructure automation for LogScale
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-chromeos-device-actions,https://github.com/CrowdStrike/foundry-chromeos-device-actions,0,JavaScript,docs/SECURITY.md,A Foundry app for managing and securing ChromeOS devices through the Google Admin API
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/foundry-tutorial-extension-builder,https://github.com/CrowdStrike/foundry-tutorial-extension-builder,0,,SECURITY.md,"In this tutorial, you will create a Foundry app that enriches Falcon detections with third-party data. The app uses VirusTotal to scan the IP address associated…"
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/alloy-quickstart,https://github.com/CrowdStrike/alloy-quickstart,0,TypeScript,SECURITY.md,Opinionated building blocks for robust Foundry apps.
+CrowdStrike,自建BB,crowdstrike,CrowdStrike/alloy-react,https://github.com/CrowdStrike/alloy-react,0,TypeScript,SECURITY.md,React + PatternFly building blocks for Foundry UI's
 CrowdStrike,自建BB,crowdstrike,crowdstrike/.github,https://github.com/crowdstrike/.github,,,docs/SECURITY.md,
 Juniper Networks,自建BB,Juniper,Juniper/py-junos-eznc,https://github.com/Juniper/py-junos-eznc,716,Python,SECURITY.md,Python library for Junos automation
 Juniper Networks,自建BB,Juniper,Juniper/kubevirt,https://github.com/Juniper/kubevirt,2,Go,SECURITY.md,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.

@@ -152,10 +152,12 @@
   "full_name": "containerd/nerdctl",
   "url": "https://github.com/containerd/nerdctl",
   "sec_path": "SECURITY.md",
-  "stars": 10480,
+  "stars": 10481,
   "language": "Go",
   "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
-  "first_seen": "2026-11-01 18:53:52"
+  "license": null,
+  "first_seen": "2026-11-01 18:53:52",
+  "last_verified": "2026-11-14 19:31:59"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -409,7 +411,9 @@
   "stars": 1349,
   "language": "Rust",
   "description": "Facilitates running Wasm / WASI workloads managed by containerd",
-  "first_seen": "2026-11-01 18:53:52"
+  "license": null,
+  "first_seen": "2026-11-01 18:53:52",
+  "last_verified": "2026-11-14 19:31:59"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -927,7 +931,9 @@
   "stars": 80,
   "language": null,
   "description": "Overall containerd project docs and governance details",
-  "first_seen": "2026-11-01 18:53:52"
+  "license": null,
+  "first_seen": "2026-11-01 18:53:52",
+  "last_verified": "2026-11-14 19:31:59"
  },
  {
   "vendor": "CNCF云原生基金会",
@@ -1345,6 +1351,19 @@
  },
  {
   "vendor": "CNCF云原生基金会",
+  "org": "containerd",
+  "full_name": "containerd/.github",
+  "url": "https://github.com/containerd/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "Community wide project health files",
+  "license": null,
+  "first_seen": "2026-11-01 18:53:52",
+  "last_verified": "2026-11-14 12:49:33"
+ },
+ {
+  "vendor": "CNCF云原生基金会",
   "org": "cilium",
   "full_name": "cilium/iproute2",
   "url": "https://github.com/cilium/iproute2",
@@ -1398,19 +1417,6 @@
   "description": "GitHub Actions for artifact persistence between jobs",
   "license": null,
   "first_seen": "2026-11-01 23:27:06"
- },
- {
-  "vendor": "CNCF云原生基金会",
-  "org": "containerd",
-  "full_name": "containerd/.github",
-  "url": "https://github.com/containerd/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-01 18:53:52",
-  "last_verified": "2026-11-14 12:49:33"
  },
  {
   "vendor": "CNCF云原生基金会",

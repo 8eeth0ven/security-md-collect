@@ -8,7 +8,9 @@
   "stars": 765,
   "language": "Go",
   "description": "CLI that provides on-demand secrets access for common DevOps tools",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -19,7 +21,9 @@
   "stars": 672,
   "language": "Shell",
   "description": "Library for bash utility methods and tools",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -27,10 +31,12 @@
   "full_name": "cyberark/secretless-broker",
   "url": "https://github.com/cyberark/secretless-broker",
   "sec_path": "SECURITY.md",
-  "stars": 397,
+  "stars": 398,
   "language": "Go",
   "description": "Secure your apps by making them Secretless",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -41,7 +47,9 @@
   "stars": 206,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -52,7 +60,9 @@
   "stars": 101,
   "language": "Python",
   "description": "A toolset repository for AI agents",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -63,7 +73,9 @@
   "stars": 68,
   "language": "Python",
   "description": "Simple LLM Evaluation Using LLM As a Judge 👩‍⚖️",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -74,7 +86,9 @@
   "stars": 63,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -85,7 +99,9 @@
   "stars": 49,
   "language": "Smarty",
   "description": "Summon provider for AWS Secrets Manager",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -96,7 +112,9 @@
   "stars": 43,
   "language": "Go",
   "description": "CyberArk Secrets Manager provider for Summon",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -107,7 +125,9 @@
   "stars": 40,
   "language": "Shell",
   "description": "Start securing your secrets and infrastructure by installing Conjur OSS, using Docker and the official Conjur OSS containers on DockerHub.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -118,7 +138,9 @@
   "stars": 38,
   "language": "C++",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -129,7 +151,9 @@
   "stars": 32,
   "language": "Shell",
   "description": "Helm chart for deploying Conjur OSS to Kubernetes",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -140,7 +164,9 @@
   "stars": 32,
   "language": "Go",
   "description": "Sidecar Injector for the CyberArk Secrets Manager Kubernetes Authenticator and Secretles",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -151,7 +177,9 @@
   "stars": 31,
   "language": "Go",
   "description": "CyberArk's Official SDK and CLI - https://cyberark.github.io/ark-sdk-golang/",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -162,7 +190,9 @@
   "stars": 31,
   "language": "Go",
   "description": "Cyberark secrets provider for k8s",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -173,7 +203,9 @@
   "stars": 27,
   "language": "Python",
   "description": "QuicDraw(H3) is A security research tool designed for fuzzing and racing HTTP/3 servers. QuicDraw implements the `Quic-Fin-Sync` on HTTP/3 (over QUIC) for race-…",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -184,7 +216,9 @@
   "stars": 24,
   "language": "Python",
   "description": "CyberArk's Official SDK and CLI - https://cyberark.github.io/ark-sdk-python/",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -195,7 +229,9 @@
   "stars": 24,
   "language": "Go",
   "description": "Terraform provider for CyberArk Secrets Manager",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -206,7 +242,9 @@
   "stars": 22,
   "language": "Java",
   "description": "Java client for the CyberArk Secrets Manager API",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -217,7 +255,9 @@
   "stars": 21,
   "language": "Go",
   "description": "Go client for the CyberArk Secrets Manager API",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -228,7 +268,9 @@
   "stars": 19,
   "language": "Python",
   "description": "Cross-platform provider for Summon that talks to keyrings.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -239,7 +281,9 @@
   "stars": 19,
   "language": "Ruby",
   "description": "A Ruby interface to standard cryptographic primitives",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -250,7 +294,9 @@
   "stars": 18,
   "language": "C#",
   "description": ".NET client for the CyberArk Secrets Manager API",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -261,7 +307,9 @@
   "stars": 18,
   "language": "Ruby",
   "description": "A validator for changelogs using the Keep a Changelog standard (http://keepachangelog.com)",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -272,7 +320,9 @@
   "stars": 18,
   "language": "Python",
   "description": "CyberArk Conjur command line interface written in Python",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -283,7 +333,9 @@
   "stars": 17,
   "language": null,
   "description": "Template repo for Conjur repositories",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -294,7 +346,9 @@
   "stars": 15,
   "language": "Go",
   "description": "CyberArk's Official Terraform Provider for CyberArk. This provider allows you to manage CyberArk resources using Terraform.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -305,7 +359,9 @@
   "stars": 15,
   "language": "Shell",
   "description": "Scripts for deploying CyberArk Secrets Manager followers to Kubernetes and OpenShift given an existing Secrets Manager leader cluster",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -316,7 +372,9 @@
   "stars": 14,
   "language": "Smarty",
   "description": "AWS S3 provider for Summon",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -327,7 +385,9 @@
   "stars": 14,
   "language": "Ruby",
   "description": "CyberArk Conjur command line interface (Ruby)",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -338,7 +398,9 @@
   "stars": 13,
   "language": "Python",
   "description": "A security research tool designed to intercept and analyze OAuth requests.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -349,7 +411,9 @@
   "stars": 12,
   "language": "Go",
   "description": "CyberArk's Official SDK for different services operations",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -360,7 +424,9 @@
   "stars": 12,
   "language": "Java",
   "description": "Conjur plugin for securely providing credentials to Jenkins jobs",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -371,7 +437,9 @@
   "stars": 11,
   "language": "Shell",
   "description": "Authentication sidecar for CyberArk Secrets Manager Kubernetes integration",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -382,7 +450,9 @@
   "stars": 11,
   "language": "Go",
   "description": "Opinionated CLI that standardizes and automates common development tasks",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -393,7 +463,9 @@
   "stars": 10,
   "language": "Python",
   "description": "Python client for the CyberArk Secrets Manager API",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -404,7 +476,9 @@
   "stars": 10,
   "language": "Python",
   "description": "OpenAPI specification for CyberArk Secrets Manager",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -415,7 +489,9 @@
   "stars": 8,
   "language": "Go",
   "description": "CyberArk's Official CLI for different services operations",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -426,7 +502,9 @@
   "stars": 8,
   "language": "Go",
   "description": "CyberArk Secrets Manager command line interface (Go)",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -437,7 +515,9 @@
   "stars": 8,
   "language": "Shell",
   "description": "This project encapsulates the functionality of our `cyberark.conjur-host-identity role for Ansible",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -448,7 +528,9 @@
   "stars": 8,
   "language": "Python",
   "description": "Agentic Code Review System for demonstrating Agentic AI Threat Modeling",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -459,7 +541,9 @@
   "stars": 7,
   "language": "Shell",
   "description": "GitHub Action for secured CyberArk Conjur secret retrieval and import into Workflows",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -470,7 +554,9 @@
   "stars": 7,
   "language": "Ruby",
   "description": "Official Puppet module for CyberArk Secrets Manager",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -481,7 +567,9 @@
   "stars": 7,
   "language": "C#",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -492,7 +580,9 @@
   "stars": 7,
   "language": "Go",
   "description": "Under development - Latest stable releases of the Conjur OSS suite",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -503,7 +593,9 @@
   "stars": 6,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -514,7 +606,9 @@
   "stars": 6,
   "language": "Go",
   "description": "Summon provider for Chef encrypted data bags",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -525,7 +619,9 @@
   "stars": 5,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -536,7 +632,9 @@
   "stars": 5,
   "language": "Python",
   "description": "Ansible Collection for CyberArk Secrets Manager",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -547,7 +645,9 @@
   "stars": 5,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -558,7 +658,9 @@
   "stars": 5,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -569,7 +671,9 @@
   "stars": 5,
   "language": "Jupyter Notebook",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -580,7 +684,9 @@
   "stars": 4,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -591,7 +697,9 @@
   "stars": 4,
   "language": "Ruby",
   "description": "Implementation of the Open Service Broker API for Conjur",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -602,7 +710,9 @@
   "stars": 4,
   "language": "Kotlin",
   "description": "This is to demonstrate CyberArk Identity capabilities of Android SDK in a sample app.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -613,7 +723,9 @@
   "stars": 4,
   "language": "Shell",
   "description": "[DEPRECATED] Conjur application for Google Cloud Marketplace",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -624,7 +736,9 @@
   "stars": 3,
   "language": "Ruby",
   "description": "Ruby client for the CyberArk Secrets Manager API",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -635,7 +749,9 @@
   "stars": 3,
   "language": "Python",
   "description": "Python client for using CyberArk Secrets Manager with authn-iam",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -646,7 +762,9 @@
   "stars": 3,
   "language": "TypeScript",
   "description": "Demo app based on Angular and NodeJS Server to showcase the CyberArk Identity capabilities.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -657,7 +775,9 @@
   "stars": 2,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -668,7 +788,9 @@
   "stars": 2,
   "language": "JavaScript",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -679,7 +801,9 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "Demo app based on Angular and Java to showcase the CyberArk Identity capabilities.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -690,7 +814,9 @@
   "stars": 2,
   "language": "Swift",
   "description": "For demonstrating the capabilities of Identity Server using iOS SDK",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -701,7 +827,9 @@
   "stars": 1,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -712,7 +840,9 @@
   "stars": 1,
   "language": "Shell",
   "description": "Automated repo creation in an organization",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -723,7 +853,9 @@
   "stars": 1,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -734,7 +866,9 @@
   "stars": 1,
   "language": "Java",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -745,7 +879,22 @@
   "stars": 1,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
+ },
+ {
+  "vendor": "CyberArk",
+  "org": "cyberark",
+  "full_name": "cyberark/.github",
+  "url": "https://github.com/cyberark/.github",
+  "sec_path": "SECURITY.md",
+  "stars": 1,
+  "language": null,
+  "description": "Common github templates for cyberark",
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 13:00:45"
  },
  {
   "vendor": "CyberArk",
@@ -756,7 +905,9 @@
   "stars": 1,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -767,7 +918,9 @@
   "stars": 1,
   "language": "HTML",
   "description": "Demo app based on Node to showcase the CyberArk Identity capabilities.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -775,10 +928,12 @@
   "full_name": "cyberark/terraform-aws-cce-organization-add-account",
   "url": "https://github.com/cyberark/terraform-aws-cce-organization-add-account",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -786,10 +941,12 @@
   "full_name": "cyberark/terraform-azure-cce-entra",
   "url": "https://github.com/cyberark/terraform-azure-cce-entra",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -797,10 +954,12 @@
   "full_name": "cyberark/terraform-azure-cce-subscription",
   "url": "https://github.com/cyberark/terraform-azure-cce-subscription",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -808,10 +967,12 @@
   "full_name": "cyberark/terraform-azure-cce-management-group",
   "url": "https://github.com/cyberark/terraform-azure-cce-management-group",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -819,10 +980,12 @@
   "full_name": "cyberark/terraform-azure-cce-commons",
   "url": "https://github.com/cyberark/terraform-azure-cce-commons",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -830,10 +993,12 @@
   "full_name": "cyberark/terraform-aws-cce-organization",
   "url": "https://github.com/cyberark/terraform-aws-cce-organization",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -841,10 +1006,12 @@
   "full_name": "cyberark/conjur-service-broker-go",
   "url": "https://github.com/cyberark/conjur-service-broker-go",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Implementation of the Open Service Broker API for CyberArk Secrets Manager in Golang Topics",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -852,10 +1019,12 @@
   "full_name": "cyberark/terraform-aws-cce-account",
   "url": "https://github.com/cyberark/terraform-aws-cce-account",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "HCL",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:23"
  },
  {
   "vendor": "CyberArk",
@@ -863,10 +1032,12 @@
   "full_name": "cyberark/external-secrets",
   "url": "https://github.com/cyberark/external-secrets",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "This fork is for preparing changes before they are submitted upstream. External Secrets Operator reads information from a third-party service like AWS Secrets M…",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -874,23 +1045,12 @@
   "full_name": "cyberark/cloudfoundry-conjur-buildpack",
   "url": "https://github.com/cyberark/cloudfoundry-conjur-buildpack",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Buildpack for the CyberArk Secrets Manager / Cloud Foundry integration",
-  "first_seen": "2026-11-01 18:56:00"
- },
- {
-  "vendor": "CyberArk",
-  "org": "cyberark",
-  "full_name": "cyberark/.github",
-  "url": "https://github.com/cyberark/.github",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": null,
-  "description": null,
   "license": null,
   "first_seen": "2026-11-01 18:56:00",
-  "last_verified": "2026-11-14 13:00:45"
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -898,10 +1058,12 @@
   "full_name": "cyberark/Accelerator-PAM-Onboarding",
   "url": "https://github.com/cyberark/Accelerator-PAM-Onboarding",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -909,10 +1071,12 @@
   "full_name": "cyberark/PTA-Firewall-Configuration",
   "url": "https://github.com/cyberark/PTA-Firewall-Configuration",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": null,
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -920,10 +1084,12 @@
   "full_name": "cyberark/argocd-vault-plugin",
   "url": "https://github.com/cyberark/argocd-vault-plugin",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:10"
  },
  {
   "vendor": "CyberArk",
@@ -931,10 +1097,12 @@
   "full_name": "cyberark/conjur-bitbucket-pipe",
   "url": "https://github.com/cyberark/conjur-bitbucket-pipe",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -942,10 +1110,12 @@
   "full_name": "cyberark/conjur-teamcity-plugin",
   "url": "https://github.com/cyberark/conjur-teamcity-plugin",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Java",
   "description": "TeamCity plugin so that TeamCity jobs/builds can retrieve credentials from Conjur when a job/build is kicked off.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -953,10 +1123,12 @@
   "full_name": "cyberark/conjur-project-config",
   "url": "https://github.com/cyberark/conjur-project-config",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Shell",
   "description": "Project configuration and template files for Conjur related projects.",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -964,10 +1136,12 @@
   "full_name": "cyberark/conjur-octopus-deploy",
   "url": "https://github.com/cyberark/conjur-octopus-deploy",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  },
  {
   "vendor": "CyberArk",
@@ -975,10 +1149,12 @@
   "full_name": "cyberark/oss-template",
   "url": "https://github.com/cyberark/oss-template",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": null,
   "description": "",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:18"
  },
  {
   "vendor": "CyberArk",
@@ -986,9 +1162,11 @@
   "full_name": "cyberark/conjur-instruqt",
   "url": "https://github.com/cyberark/conjur-instruqt",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Shell",
   "description": "Instruqt Tutorials for Conjur.org",
-  "first_seen": "2026-11-01 18:56:00"
+  "license": null,
+  "first_seen": "2026-11-01 18:56:00",
+  "last_verified": "2026-11-14 19:33:15"
  }
 ]

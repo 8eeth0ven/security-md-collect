@@ -1,7 +1,7 @@
 # Security Policy
 
-The maintainers of Docker `docker-agent` take security seriously.
-If you discover a security issue, please bring it to their attention right away!
+The maintainers of `docker agent` take security seriously. If you discover
+a security issue, please bring it to their attention right away!
 
 ## Reporting a Vulnerability
 
@@ -34,10 +34,3 @@ Security reports are greatly appreciated and we will publicly thank you,
 although we will keep your name confidential if you request it. We also like to
 send gifts - if you're into swag, make sure to let us know. We do not currently
 offer a paid security bounty program at this time.
-
-## Further Information
-
-Should anything in this document be unclear or if you are looking for additional
-information about how Docker reviews and responds to security vulnerabilities,
-please take a look at Docker's
-[Vulnerability Disclosure Policy](https://www.docker.com/trust/vulnerability-disclosure-policy/).
