@@ -314,18 +314,6 @@
  {
   "vendor": "Mozilla",
   "org": "mozilla",
-  "full_name": "mozilla/remote-settings",
-  "url": "https://github.com/mozilla/remote-settings",
-  "sec_path": "SECURITY.md",
-  "stars": 22,
-  "language": "Python",
-  "description": "Delivering data to Firefox",
-  "license": null,
-  "first_seen": "2026-11-01 22:45:42"
- },
- {
-  "vendor": "Mozilla",
-  "org": "mozilla",
   "full_name": "mozilla/node-fx-runner",
   "url": "https://github.com/mozilla/node-fx-runner",
   "sec_path": "SECURITY.md",
@@ -516,6 +504,19 @@
   "license": null,
   "first_seen": "2026-11-01 22:45:42",
   "last_verified": "2026-11-14 22:33:22"
+ },
+ {
+  "vendor": "Mozilla",
+  "org": "mozilla",
+  "full_name": "mozilla/remote-settings",
+  "url": "https://github.com/mozilla/remote-settings",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "> Delivering data to Firefox",
+  "license": null,
+  "first_seen": "2026-11-01 22:45:42",
+  "last_verified": "2026-11-15 21:33:22"
  },
  {
   "vendor": "Mozilla",

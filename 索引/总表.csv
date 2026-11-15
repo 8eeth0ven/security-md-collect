@@ -4435,7 +4435,7 @@ Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.gith
 苹果,自建（Apple Security Bounty）,apple,apple/pkl-readers,https://github.com/apple/pkl-readers,7,Go,SECURITY.md,Shared Pkl external readers
 苹果,自建（Apple Security Bounty）,apple,apple/publicsuffix-list,https://github.com/apple/publicsuffix-list,7,Go,SECURITY.md,The Public Suffix List
 苹果,自建（Apple Security Bounty）,apple,apple/.github,https://github.com/apple/.github,4,,SECURITY.md,
-Netflix,Bugcrowd（Netflix）,netflix,Netflix/conductor,https://github.com/Netflix/conductor,12754,Java,SECURITY.md,Conductor is a microservices orchestration engine.
+Netflix,Bugcrowd（Netflix）,netflix,Netflix/conductor,https://github.com/Netflix/conductor,12752,Java,SECURITY.md,Conductor is a microservices orchestration engine.
 Netflix,Bugcrowd（Netflix）,netflix,Netflix/metaflow,https://github.com/Netflix/metaflow,10348,Python,SECURITY.md,"Build, Manage and Deploy AI/ML Systems"
 Netflix,Bugcrowd（Netflix）,netflix,Netflix/dgs-framework,https://github.com/Netflix/dgs-framework,3401,Kotlin,SECURITY.md,GraphQL for Java with Spring Boot made easy.
 Netflix,Bugcrowd（Netflix）,netflix,Netflix/spark,https://github.com/Netflix/spark,11,Scala,docs/security.md,Netflix branches of Apache Spark
@@ -4489,7 +4489,7 @@ Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/tribuo,h
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-j,https://github.com/mysql/mysql-connector-j,1019,Java,SECURITY.md,MySQL Connector/J
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/vagrant-projects,https://github.com/oracle/vagrant-projects,1010,Shell,SECURITY.md,Vagrant projects for Oracle products and other examples
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-workbench,https://github.com/mysql/mysql-workbench,1004,C++,SECURITY.md,"This repository contains the now EOL version of MySQL Workbench 8. For the new Workbench, see https://github.com/mysql/mysql-shell-plugins"
-Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-python,https://github.com/mysql/mysql-connector-python,950,Python,SECURITY.md,"MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. No MySQL libraries are needed, and no compilation is necessary to …"
+Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-connector-python,https://github.com/mysql/mysql-connector-python,951,Python,SECURITY.md,"MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. No MySQL libraries are needed, and no compilation is necessary to …"
 Oracle,自建（Oracle Vulnerability Reporting Program）,mysql,mysql/mysql-operator,https://github.com/mysql/mysql-operator,947,Python,SECURITY.md,MySQL Operator for Kubernetes
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/skills,https://github.com/oracle/skills,932,Python,SECURITY.md,"Oracle Skills is a curated, open-source collection of practical, installable skills for working with Oracle technologies. It provides developers, administrators…"
 Oracle,自建（Oracle Vulnerability Reporting Program）,oracle,oracle/python-cx_Oracle,https://github.com/oracle/python-cx_Oracle,885,C,SECURITY.md,"Obsolete Python interface to Oracle Database, now superseded by python-oracledb"
@@ -4919,7 +4919,7 @@ Intel,自建（Intel Bug Bounty）,intel,intel/FSP,https://github.com/intel/FSP,
 Intel,自建（Intel Bug Bounty）,intel,intel/ad-rss-lib,https://github.com/intel/ad-rss-lib,355,C++,SECURITY.md,Library implementing the Responsibility Sensitive Safety model (RSS) for Autonomous Vehicles
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-extension-for-tensorflow,https://github.com/intel/intel-extension-for-tensorflow,352,C++,SECURITY.md,Intel® Extension for TensorFlow*
 Intel,自建（Intel Bug Bounty）,intel,intel/neural-speed,https://github.com/intel/neural-speed,350,C++,security.md,An innovative library for efficient LLM inference via low-bit quantization
-Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/level-zero,https://github.com/oneapi-src/level-zero,344,C++,SECURITY.md,oneAPI Level Zero Specification Headers and Loader
+Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/level-zero,https://github.com/oneapi-src/level-zero,346,C++,SECURITY.md,oneAPI Level Zero Specification Headers and Loader
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-ipsec-mb,https://github.com/intel/intel-ipsec-mb,341,Assembly,SECURITY.md,Intel(R) Multi-Buffer Crypto for IPSec
 Intel,自建（Intel Bug Bounty）,intel,intel/cpp-baremetal-senders-and-receivers,https://github.com/intel/cpp-baremetal-senders-and-receivers,335,C++,security.md,"An implementation of C++ ""senders and receivers"" async framework suitable for embedded platforms."
 Intel,自建（Intel Bug Bounty）,intel,intel/tsffs,https://github.com/intel/tsffs,335,Rust,SECURITY.md,"A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS"
@@ -7715,7 +7715,7 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/wry,https://githu
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/tauri,https://github.com/github/tauri,0,Rust,SECURITY.md,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-elm,https://github.com/github/gh-elm,0,Go,SECURITY.md,Enterprise Live Migrations CLI for GHES to GitHub with Data Residency migrations
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/evals-action,https://github.com/github/evals-action,0,TypeScript,SECURITY.md,"GitHub Action for Copilot Evals: lint evaluation definitions, preview execution plans, and run Vally suites in CI with clear results and regression reporting."
-Docker,HackerOne（Docker）,moby,moby/moby,https://github.com/moby/moby,72264,Go,SECURITY.md,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+Docker,HackerOne（Docker）,moby,moby/moby,https://github.com/moby/moby,72267,Go,SECURITY.md,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 Docker,HackerOne（Docker）,docker,docker/compose,https://github.com/docker/compose,38852,Go,.github/SECURITY.md,Define and run multi-container applications with Docker
 Docker,HackerOne（Docker）,moby,moby/buildkit,https://github.com/moby/buildkit,10421,Go,.github/SECURITY.md,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
 Docker,HackerOne（Docker）,docker,docker/cli,https://github.com/docker/cli,6131,Go,SECURITY.md,The Docker CLI
@@ -7827,7 +7827,7 @@ Elastic,自建（Elastic Security）,elastic,elastic/azure-sdk-for-go,https://gi
 Elastic,自建（Elastic Security）,elastic,elastic/emotion,https://github.com/elastic/emotion,0,JavaScript,SECURITY.md,A fork of emotion-js/emotion intended to be used in Kibana
 Elastic,自建（Elastic Security）,elastic,elastic/prometheus,https://github.com/elastic/prometheus,0,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 Elastic,自建（Elastic Security）,elastic,elastic/terraform-google-bigquery,https://github.com/elastic/terraform-google-bigquery,0,HCL,SECURITY.md,Creates opinionated BigQuery datasets and tables
-MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongo-go-driver,https://github.com/mongodb/mongo-go-driver,8544,Go,docs/SECURITY.md,The Official Golang driver for MongoDB
+MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongo-go-driver,https://github.com/mongodb/mongo-go-driver,8545,Go,docs/SECURITY.md,The Official Golang driver for MongoDB
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongoid,https://github.com/mongodb/mongoid,3905,Ruby,SECURITY.md,The Official Ruby Object Mapper for MongoDB
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-kubernetes-operator,https://github.com/mongodb/mongodb-kubernetes-operator,1360,Go,SECURITY.md,MongoDB Community Kubernetes Operator
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/kingfisher,https://github.com/mongodb/kingfisher,1310,Rust,SECURITY.md,"Detect secrets. Validate them live. Map blast radius. Revoke fast. Run the CLI or embed in Rust, Python, or Node.js."
@@ -8778,7 +8778,6 @@ Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/community-portal,https://
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/tensorflow,https://github.com/mozilla/tensorflow,33,C++,SECURITY.md,DEPRECATED - Computation using data flow graphs for scalable machine learning
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/enterprise-firefox,https://github.com/mozilla/enterprise-firefox,27,JavaScript,SECURITY.md,
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/redash,https://github.com/mozilla/redash,23,Python,SECURITY.md,"This is a Mozilla fork of the re:dash project (https://redash.io/), where we do work to be contributed back to the upstream project and for our own custom needs…"
-Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/remote-settings,https://github.com/mozilla/remote-settings,22,Python,SECURITY.md,Delivering data to Firefox
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/node-fx-runner,https://github.com/mozilla/node-fx-runner,15,JavaScript,SECURITY.md,Node API to control Firefox
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/jira-bugzilla-integration,https://github.com/mozilla/jira-bugzilla-integration,14,Python,SECURITY.md,Jira Bugzilla Integration (JBI) - system to sync bugs and issues
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/assay,https://github.com/mozilla/assay,11,TypeScript,SECURITY.md,A Firefox Addons review tool disguised as a VSCode extension
@@ -8795,6 +8794,7 @@ Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/markfluence,https://githu
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/staging-firefox-android,https://github.com/mozilla/staging-firefox-android,4,Kotlin,.github/SECURITY.md,"DEPRECATED - Future home of Firefox and Focus for Android, including Android Components."
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/experimenter,https://github.com/mozilla/experimenter,3,Python,.github/SECURITY.md,A web application for managing user experiments for Mozilla Firefox.
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/neqo,https://github.com/mozilla/neqo,3,Rust,SECURITY.md,"Neqo, the Mozilla Firefox implementation of QUIC in Rust"
+Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/remote-settings,https://github.com/mozilla/remote-settings,3,Python,SECURITY.md,> Delivering data to Firefox
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/pdf.js,https://github.com/mozilla/pdf.js,3,JavaScript,.github/SECURITY.md,> PDF Reader in JavaScript
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/wagtail-localize-smartling,https://github.com/mozilla/wagtail-localize-smartling,3,Python,SECURITY.md,Integration between wagtail-localize and Smartling's API
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/publicsuffixlist,https://github.com/mozilla/publicsuffixlist,3,Go,SECURITY.md,The Public Suffix List
@@ -9717,7 +9717,7 @@ Check Point,自建BB,CheckPointSW,CheckPointSW/terraform-provider-checkpoint-wor
 Check Point,自建BB,CheckPointSW,CheckPointSW/terraform-provider-checkpoint-wai-tests,https://github.com/CheckPointSW/terraform-provider-checkpoint-wai-tests,0,Go,SECURITY.md,Terraform provider for managing Check Point AI Security and Browse Security policies as code.
 Check Point,自建BB,CheckPointSW,CheckPointSW/ai-security-py-sdk,https://github.com/CheckPointSW/ai-security-py-sdk,0,Python,SECURITY.md,Official Check Point Python SDK for the Workforce AI Security APIs
 Binance,自建BB,trustwallet,trustwallet/terraform-aws-github-runner,https://github.com/trustwallet/terraform-aws-github-runner,0,TypeScript,SECURITY.md,Terraform module for scalable GitHub action runners on AWS
-Nubank,自建BB,nubank,nubank/matcher-combinators,https://github.com/nubank/matcher-combinators,547,Clojure,SECURITY.md,Library for creating matcher combinator to compare nested data structures
+Nubank,自建BB,nubank,nubank/matcher-combinators,https://github.com/nubank/matcher-combinators,549,Clojure,SECURITY.md,Library for creating matcher combinator to compare nested data structures
 Nubank,自建BB,nubank,nubank/workspaces,https://github.com/nubank/workspaces,520,Clojure,SECURITY.md,Live development environment for Clojurescript
 Nubank,自建BB,nubank,nubank/morse,https://github.com/nubank/morse,407,JavaScript,SECURITY.md,"A graphical, interactive tool for browsing Clojure data"
 Nubank,自建BB,nubank,nubank/clojure-style-guide,https://github.com/nubank/clojure-style-guide,171,,SECURITY.md,A community coding style guide for the Clojure programming language
