@@ -1189,18 +1189,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/FLAML",
-  "url": "https://github.com/microsoft/FLAML",
-  "sec_path": "SECURITY.md",
-  "stars": 4420,
-  "language": "Jupyter Notebook",
-  "description": "A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/ApplicationInspector",
   "url": "https://github.com/microsoft/ApplicationInspector",
   "sec_path": "SECURITY.md",
@@ -3710,7 +3698,8 @@
   "language": "C#",
   "description": "Powershell SDK for Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -4093,7 +4082,8 @@
   "language": "C#",
   "description": "Microsoft Graph Client Library for .NET!",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -4558,7 +4548,8 @@
   "language": "PHP",
   "description": "Microsoft Graph Library for PHP.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -4697,7 +4688,8 @@
   "language": "Python",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -5468,18 +5460,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/onnxruntime-extensions",
-  "url": "https://github.com/microsoft/onnxruntime-extensions",
-  "sec_path": "SECURITY.md",
-  "stars": 482,
-  "language": "C++",
-  "description": "onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime",
-  "license": null,
-  "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/Conversation-Knowledge-Mining-Solution-Accelerator",
   "url": "https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator",
   "sec_path": "SECURITY.md",
@@ -5803,7 +5783,8 @@
   "language": "Java",
   "description": "Microsoft Graph SDK for Java",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -6592,7 +6573,8 @@
   "language": "Go",
   "description": "Microsoft Graph SDK for Go",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -6983,7 +6965,8 @@
   "language": "Python",
   "description": "Microsoft Graph client library for Python",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -9400,7 +9383,8 @@
   "language": "JavaScript",
   "description": "Create Microsoft Graph webhook subscriptions for a Node.js app, so that it can receive notifications of changes in a user’s Microsoft account data.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -10123,7 +10107,8 @@
   "language": "PowerShell",
   "description": "Microsoft Graph TypeScript Type Definitions",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -10182,7 +10167,8 @@
   "language": "C#",
   "description": "Microsoft Graph Training Module - Build .NET apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -10489,18 +10475,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/vscode-copilotstudio",
-  "url": "https://github.com/microsoft/vscode-copilotstudio",
-  "sec_path": "SECURITY.md",
-  "stars": 117,
-  "language": "C#",
-  "description": "VS Code Extension for Copilot Studio",
-  "license": null,
-  "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/json-document-transforms",
   "url": "https://github.com/microsoft/json-document-transforms",
   "sec_path": "SECURITY.md",
@@ -10579,7 +10553,8 @@
   "language": "Ruby",
   "description": "Microsoft Graph Ruby client library for v1 APIs",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -11531,7 +11506,8 @@
   "language": null,
   "description": "Microsoft Graph Training Module - Build MVC apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -11871,7 +11847,8 @@
   "language": "Python",
   "description": "Completed project for Build Python apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -12194,7 +12171,8 @@
   "language": "SCSS",
   "description": "Requirements and design documents for Microsoft Graph SDKs",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -13090,7 +13068,8 @@
   "language": "Java",
   "description": "Microsoft Graph SDK for Java - Core Library",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -13321,7 +13300,8 @@
   "language": "Java",
   "description": "Microsoft Graph Training Module - Build Java apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -14080,7 +14060,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -14904,7 +14885,8 @@
   "language": "C#",
   "description": "This .NET Core application shows how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -15139,7 +15121,8 @@
   "language": "TypeScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -16175,7 +16158,8 @@
   "language": "Objective-C",
   "description": "Microsoft Graph SDK for Objective-C",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -16198,18 +16182,6 @@
   "language": null,
   "description": "",
   "first_seen": "2026-11-01 16:25:27"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
-  "full_name": "microsoft/Analytics-Hub",
-  "url": "https://github.com/microsoft/Analytics-Hub",
-  "sec_path": "SECURITY.md",
-  "stars": 37,
-  "language": "JavaScript",
-  "description": "A central hub for analytics resources, linking to repositories, guides, and templates leveraging MAC, Purview, and Viva Insights.",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
  },
  {
   "vendor": "微软",
@@ -16858,7 +16830,8 @@
   "language": "PowerShell",
   "description": "Completed project for Build PowerShell apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -16978,7 +16951,8 @@
   "language": null,
   "description": "Microsoft Graph Training Module - Create a Microsoft Graph JSON Batch Custom Connector for Microsoft Power Automate & Azure Logic Apps",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -18250,7 +18224,8 @@
   "language": null,
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -18667,7 +18642,8 @@
   "language": "Go",
   "description": "Microsoft Graph SDK for Go - Core Library",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -19203,7 +19179,8 @@
   "language": "JavaScript",
   "description": "About Completed project for Build JavaScript apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -19471,7 +19448,8 @@
   "language": "PHP",
   "description": "Completed project for Build PHP apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -19764,7 +19742,8 @@
   "language": "TypeScript",
   "description": "Completed project for Build TypeScript apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -20384,7 +20363,8 @@
   "language": "PHP",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -20396,7 +20376,8 @@
   "language": "Go",
   "description": "Completed project for Build Go apps with Microsoft Graph",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -21100,7 +21081,8 @@
   "language": "JavaScript",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -21112,7 +21094,8 @@
   "language": "Objective-C",
   "description": "Generated Models for Objective C SDK",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -23843,7 +23826,8 @@
   "language": "Ruby",
   "description": "Microsoft Graph SDK for Ruby - Core Library",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -24188,18 +24172,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/amplifier-module-provider-openai",
-  "url": "https://github.com/microsoft/amplifier-module-provider-openai",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": "Python",
-  "description": "Reference implementation for an OpenAI provider module for the Amplifier project",
-  "license": null,
-  "first_seen": "2026-11-01 22:39:08"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/trivia-challenge",
   "url": "https://github.com/microsoft/trivia-challenge",
   "sec_path": "SECURITY.md",
@@ -24465,7 +24437,8 @@
   "language": "Objective-C",
   "description": "MSAL Authentication Provider for Objective C",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -25157,7 +25130,8 @@
   "language": "C#",
   "description": "Repository of snippets in Microsoft Graph .NET SDK documentation.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -25182,7 +25156,8 @@
   "language": "C#",
   "description": "This repo contains code samples that demonstrate how to build applications that integrate with and extend Universal Print.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -27654,6 +27629,19 @@
  {
   "vendor": "微软",
   "org": "microsoft",
+  "full_name": "microsoft/Analytics-Hub",
+  "url": "https://github.com/microsoft/Analytics-Hub",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "JavaScript",
+  "description": "A central hub for analytics resources, linking to repositories, guides, and templates leveraging MAC, Purview, and Viva Insights.",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-15 11:33:01"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
   "full_name": "microsoft/nvx",
   "url": "https://github.com/microsoft/nvx",
   "sec_path": "SECURITY.md",
@@ -27688,6 +27676,32 @@
   "license": null,
   "first_seen": "2026-11-01 22:38:46",
   "last_verified": "2026-11-14 22:04:50"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/FLAML",
+  "url": "https://github.com/microsoft/FLAML",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Jupyter Notebook",
+  "description": "A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-15 11:33:01"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/amplifier-smart-tools-catalog",
+  "url": "https://github.com/microsoft/amplifier-smart-tools-catalog",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "> Amplifier Smart Tools Catalog",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46",
+  "last_verified": "2026-11-15 11:33:01"
  },
  {
   "vendor": "微软",
@@ -27742,6 +27756,19 @@
  {
   "vendor": "微软",
   "org": "microsoft",
+  "full_name": "microsoft/vscode-copilotstudio",
+  "url": "https://github.com/microsoft/vscode-copilotstudio",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C#",
+  "description": "VS Code Extension for Copilot Studio",
+  "license": null,
+  "first_seen": "2026-11-01 22:39:08",
+  "last_verified": "2026-11-15 11:33:01"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
   "full_name": "microsoft/amplifier-module-provider-chat-completions",
   "url": "https://github.com/microsoft/amplifier-module-provider-chat-completions",
   "sec_path": "SECURITY.md",
@@ -27762,6 +27789,19 @@
   "description": "ChatGPT OpenAI provider module for the Amplifier project",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/amplifier-module-provider-openai",
+  "url": "https://github.com/microsoft/amplifier-module-provider-openai",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Reference implementation for an OpenAI provider module for the Amplifier project",
+  "license": null,
+  "first_seen": "2026-11-01 22:39:08",
+  "last_verified": "2026-11-15 11:33:01"
  },
  {
   "vendor": "微软",
@@ -27811,6 +27851,19 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-01 22:39:08"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/onnxruntime-extensions",
+  "url": "https://github.com/microsoft/onnxruntime-extensions",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C++",
+  "description": "onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime",
+  "license": null,
+  "first_seen": "2026-11-01 22:39:08",
+  "last_verified": "2026-11-15 11:33:01"
  },
  {
   "vendor": "微软",
@@ -28101,7 +28154,8 @@
   "language": "Python",
   "description": "Repository of snippets in Microsoft Graph Python SDK documentation.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -28113,7 +28167,8 @@
   "language": "TypeScript",
   "description": "Core functionalities for the Microsoft Graph JavaScript SDKs fluent APIs",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -28125,7 +28180,8 @@
   "language": "PHP",
   "description": "Repository of snippets in Microsoft Graph PHP SDK documentation.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -28274,6 +28330,19 @@
   "description": "WordEval: Evaluating Word-Native Operation Fidelity in Document Editing",
   "license": null,
   "first_seen": "2026-11-13 16:35:17"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/service-fabric-healer",
+  "url": "https://github.com/microsoft/service-fabric-healer",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C#",
+  "description": null,
+  "license": null,
+  "first_seen": "2026-11-15 11:33:01",
+  "last_verified": "2026-11-15 11:33:01"
  },
  {
   "vendor": "微软",
@@ -29010,18 +29079,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/amplifier-smart-tools-catalog",
-  "url": "https://github.com/microsoft/amplifier-smart-tools-catalog",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "Amplifier Smart Tools Catalog",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/azure-solution-hub",
   "url": "https://github.com/microsoft/azure-solution-hub",
   "sec_path": "SECURITY.md",
@@ -29437,7 +29494,8 @@
   "language": "Go",
   "description": "Repository of snippets in Microsoft Graph Go SDK documentation.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -31088,7 +31146,8 @@
   "language": "Java",
   "description": "About Repository of snippets in Microsoft Graph Java SDK documentation.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:16"
  },
  {
   "vendor": "微软",
@@ -31100,7 +31159,8 @@
   "language": "TypeScript",
   "description": "Repository of snippets in Microsoft Graph TypeScript SDK documentation.",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
@@ -34211,7 +34271,8 @@
   "language": "C#",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-01 22:40:24"
+  "first_seen": "2026-11-01 22:40:24",
+  "last_verified": "2026-11-15 11:33:20"
  },
  {
   "vendor": "微软",
