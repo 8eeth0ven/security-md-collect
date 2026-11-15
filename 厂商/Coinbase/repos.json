@@ -148,7 +148,7 @@
   "full_name": "coinbase/cdp-sdk",
   "url": "https://github.com/coinbase/cdp-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 211,
+  "stars": 210,
   "language": "Python",
   "description": "Client libraries for managing EVM and Solana wallets while relying on CDP to secure private keys.",
   "license": null,
@@ -252,7 +252,7 @@
   "full_name": "coinbase/cdp-sdk-python",
   "url": "https://github.com/coinbase/cdp-sdk-python",
   "sec_path": "SECURITY.md",
-  "stars": 95,
+  "stars": 94,
   "language": "Python",
   "description": "",
   "license": null,
@@ -275,19 +275,6 @@
  {
   "vendor": "Coinbase",
   "org": "coinbase",
-  "full_name": "coinbase/cdp-agentkit-nodejs",
-  "url": "https://github.com/coinbase/cdp-agentkit-nodejs",
-  "sec_path": "SECURITY.md",
-  "stars": 60,
-  "language": "TypeScript",
-  "description": "The Coinbase Developer Platform (CDP) AgentKit for Node.js simplifies the process of bringing your AI agents on-chain.",
-  "license": null,
-  "first_seen": "2026-11-01 18:51:41",
-  "last_verified": "2026-11-14 19:05:09"
- },
- {
-  "vendor": "Coinbase",
-  "org": "coinbase",
   "full_name": "coinbase/payments-mcp",
   "url": "https://github.com/coinbase/payments-mcp",
   "sec_path": "SECURITY.md",
@@ -297,6 +284,19 @@
   "license": null,
   "first_seen": "2026-11-01 18:51:41",
   "last_verified": "2026-11-14 19:05:14"
+ },
+ {
+  "vendor": "Coinbase",
+  "org": "coinbase",
+  "full_name": "coinbase/cdp-agentkit-nodejs",
+  "url": "https://github.com/coinbase/cdp-agentkit-nodejs",
+  "sec_path": "SECURITY.md",
+  "stars": 59,
+  "language": "TypeScript",
+  "description": "The Coinbase Developer Platform (CDP) AgentKit for Node.js simplifies the process of bringing your AI agents on-chain.",
+  "license": null,
+  "first_seen": "2026-11-01 18:51:41",
+  "last_verified": "2026-11-14 19:05:09"
  },
  {
   "vendor": "Coinbase",
