@@ -294,11 +294,11 @@ Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https:
 Apache软件基金会,无(开源基金会),apache,apache/.github,https://github.com/apache/.github,,,.github/SECURITY.md,
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,129056,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,67602,Go,SECURITY.md,The Prometheus monitoring system and time series database.
-CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52603,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
+CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52605,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45446,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38507,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32244,Go,SECURITY.md,Run Kubernetes locally
-CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29230,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
+CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29236,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25835,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24608,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23110,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
@@ -330,7 +330,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_js,http
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/node-problem-detector,https://github.com/kubernetes/node-problem-detector,3481,Go,SECURITY.md,This is a place for various problem detectors running on the Kubernetes nodes.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/pushgateway,https://github.com/prometheus/pushgateway,3378,Go,SECURITY.md,Push acceptor for ephemeral and batch jobs.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/jmx_exporter,https://github.com/prometheus/jmx_exporter,3335,Java,SECURITY.md,A process for collecting metrics using JMX MBeans for Prometheus consumption
-CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/gateway,https://github.com/envoyproxy/gateway,3145,Go,SECURITY.md,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/gateway,https://github.com/envoyproxy/gateway,3148,Go,SECURITY.md,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 CNCF云原生基金会,无(开源基金会),istio,istio/community,https://github.com/istio/community,3118,Go,.github/SECURITY.md,Istio governance material.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/git-sync,https://github.com/kubernetes/git-sync,2749,Shell,SECURITY.md,A sidecar app which clones a git repo and keeps it in sync with the upstream.
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-events,https://github.com/argoproj/argo-events,2714,Go,SECURITY.md,Event-driven Automation Framework for Kubernetes
@@ -595,7 +595,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 字节跳动,字节跳动SRC,bytedance,bytedance/android-inline-hook,https://github.com/bytedance/android-inline-hook,2451,C,SECURITY.md,通用的Android inline hook库，支持thumb，arm32，arm64
 字节跳动,字节跳动SRC,bytedance,bytedance/Lance,https://github.com/bytedance/Lance,1368,Python,SECURITY.md,"A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
 字节跳动,字节跳动SRC,cloudwego,cloudwego/motore,https://github.com/cloudwego/motore,281,Rust,SECURITY.md,Async middleware abstraction powered by AFIT and RPITIT.
-字节跳动,字节跳动SRC,cloudwego,cloudwego/pilota,https://github.com/cloudwego/pilota,169,Rust,SECURITY.md,A thrift and protobuf implementation in pure rust with high performance and extensibility.
+字节跳动,字节跳动SRC,cloudwego,cloudwego/pilota,https://github.com/cloudwego/pilota,170,Rust,SECURITY.md,A thrift and protobuf implementation in pure rust with high performance and extensibility.
 字节跳动,字节跳动SRC,bytedance,bytedance/CompoundVM,https://github.com/bytedance/CompoundVM,121,Java,SECURITY.md,A high-performance JDK with broad compatibility
 字节跳动,字节跳动SRC,bytedance,bytedance/UniVR,https://github.com/bytedance/UniVR,33,Python,SECURITY.md,Official Codebase For NeurIPS-26 Work: UniVR
 字节跳动,字节跳动SRC,bytedance,bytedance/TableVerse,https://github.com/bytedance/TableVerse,25,,SECURITY.md,
@@ -7866,21 +7866,21 @@ Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/statsd_exporter,https://github.
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/node_exporter,https://github.com/RedisLabs/node_exporter,0,Go,SECURITY.md,Exporter for machine metrics
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/exporter-toolkit,https://github.com/RedisLabs/exporter-toolkit,0,Go,SECURITY.md,Utility package to build exporters
 Redis,自建PSIRT（Redis）,RedisLabs,RedisLabs/discourse,https://github.com/RedisLabs/discourse,0,JavaScript,docs/SECURITY.md,"A platform for community discussion. Free, open, simple."
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/computer,https://github.com/cloudflare/computer,9917,TypeScript,.github/SECURITY.md,Give your agent a computer 👾
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/vinext,https://github.com/cloudflare/vinext,9368,TypeScript,SECURITY.md,Vite plugin that reimplements the Next.js API surface — deploy anywhere
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workerd,https://github.com/cloudflare/workerd,9185,C++,SECURITY.md,The JavaScript / Wasm runtime that powers Cloudflare Workers
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workers-sdk,https://github.com/cloudflare/workers-sdk,4726,TypeScript,SECURITY.md,"⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/computer,https://github.com/cloudflare/computer,9919,TypeScript,.github/SECURITY.md,Give your agent a computer 👾
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/vinext,https://github.com/cloudflare/vinext,9370,TypeScript,SECURITY.md,Vite plugin that reimplements the Next.js API surface — deploy anywhere
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workerd,https://github.com/cloudflare/workerd,9194,C++,SECURITY.md,The JavaScript / Wasm runtime that powers Cloudflare Workers
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workers-sdk,https://github.com/cloudflare/workers-sdk,4728,TypeScript,SECURITY.md,"⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/capnweb,https://github.com/cloudflare/capnweb,4034,TypeScript,SECURITY.md,"JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system"
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/wrangler-legacy,https://github.com/cloudflare/wrangler-legacy,3186,Rust,SECURITY.md,🤠  Home to Wrangler v1 (deprecated)
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-go,https://github.com/cloudflare/cloudflare-go,2115,Go,SECURITY.md,The official Go library for the Cloudflare API
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/wildebeest,https://github.com/cloudflare/wildebeest,2115,TypeScript,SECURITY.md,Wildebeest is an ActivityPub and Mastodon-compatible server
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-go,https://github.com/cloudflare/cloudflare-go,2114,Go,SECURITY.md,The official Go library for the Cloudflare API
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/workers-oauth-provider,https://github.com/cloudflare/workers-oauth-provider,1897,TypeScript,SECURITY.md,OAuth provider library for Cloudflare Workers
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/nimbus,https://github.com/cloudflare/nimbus,1763,TypeScript,SECURITY.md,"Docs for humans and agents, built on Astro"
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/nimbus,https://github.com/cloudflare/nimbus,1766,TypeScript,SECURITY.md,"Docs for humans and agents, built on Astro"
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/terraform-provider-cloudflare,https://github.com/cloudflare/terraform-provider-cloudflare,1356,Go,SECURITY.md,Cloudflare Terraform Provider
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cf,https://github.com/cloudflare/cf,1043,TypeScript,.github/SECURITY.md,The agentic CLI for the entire Cloudflare API
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/kitesurf,https://github.com/cloudflare/kitesurf,885,TypeScript,SECURITY.md,Kitesurf is an experimental browser engine that runs on Cloudflare Workers.
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-typescript,https://github.com/cloudflare/cloudflare-typescript,832,TypeScript,SECURITY.md,The official TypeScript library for the Cloudflare API
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-python,https://github.com/cloudflare/cloudflare-python,516,Python,SECURITY.md,The official Python library for the Cloudflare API
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/kitesurf,https://github.com/cloudflare/kitesurf,1290,TypeScript,SECURITY.md,Kitesurf is an experimental browser engine that runs on Cloudflare Workers.
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cf,https://github.com/cloudflare/cf,1045,TypeScript,.github/SECURITY.md,The agentic CLI for the entire Cloudflare API
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-typescript,https://github.com/cloudflare/cloudflare-typescript,834,TypeScript,SECURITY.md,The official TypeScript library for the Cloudflare API
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/cloudflare-python,https://github.com/cloudflare/cloudflare-python,518,Python,SECURITY.md,The official Python library for the Cloudflare API
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/go,https://github.com/cloudflare/go,370,Go,SECURITY.md,Go with Cloudflare experimental patches
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/playwright-mcp,https://github.com/cloudflare/playwright-mcp,261,TypeScript,SECURITY.md,Playwright MCP fork that works with Cloudflare Browser Rendering
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/daphne,https://github.com/cloudflare/daphne,146,Rust,SECURITY.md,Implementation of DAP
@@ -7908,9 +7908,9 @@ Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/ClickHouse,https://gi
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/sxg-rs,https://github.com/cloudflare/sxg-rs,3,Rust,SECURITY.md,A set of tools for generating signed exchanges at serve time.
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/Azure-Sentinel,https://github.com/cloudflare/Azure-Sentinel,2,Jupyter Notebook,SECURITY.md,Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/nomulus,https://github.com/cloudflare/nomulus,1,Java,SECURITY.md,Top-level domain name registry service on Google App Engine
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/prometheus-client-rust,https://github.com/cloudflare/prometheus-client-rust,,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/prometheus-client,https://github.com/cloudflare/prometheus-client,,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
-Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/snmp_exporter,https://github.com/cloudflare/snmp_exporter,,Go,SECURITY.md,SNMP Exporter for Prometheus (Fork)
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/prometheus-client-rust,https://github.com/cloudflare/prometheus-client-rust,0,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/prometheus-client,https://github.com/cloudflare/prometheus-client,0,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
+Cloudflare,HackerOne（Cloudflare）,cloudflare,cloudflare/snmp_exporter,https://github.com/cloudflare/snmp_exporter,0,Go,SECURITY.md,SNMP Exporter for Prometheus (Fork)
 Fastly,HackerOne（Fastly）,fastly,fastly/pushpin,https://github.com/fastly/pushpin,3866,Rust,SECURITY.md,"A proxy server for adding push to your API, used at the core of Fastly's Fanout service"
 Fastly,HackerOne（Fastly）,fastly,fastly/js-compute-runtime,https://github.com/fastly/js-compute-runtime,226,JavaScript,SECURITY.md,JavaScript SDK and runtime for building Fastly Compute applications
 Fastly,HackerOne（Fastly）,fastly,fastly/Viceroy,https://github.com/fastly/Viceroy,178,Rust,SECURITY.md,Viceroy provides local testing for developers working with Compute.
@@ -8183,7 +8183,7 @@ New Relic,自建（New Relic Security）,newrelic,newrelic/k8s-agents-release-to
 New Relic,自建（New Relic Security）,newrelic,newrelic/nri-collectd,https://github.com/newrelic/nri-collectd,1,Go,SECURITY.md,New Relic On Host Integration for collectd
 New Relic,自建（New Relic Security）,newrelic,newrelic/nri-zookeeper,https://github.com/newrelic/nri-zookeeper,1,Go,SECURITY.md,New Relic On Host Integration for Apache Zookeeper
 New Relic,自建（New Relic Security）,newrelic,newrelic/newrelic-grafana-plugin,https://github.com/newrelic/newrelic-grafana-plugin,0,Go,SECURITY.md,
-Sentry,自建（Sentry Security）,getsentry,getsentry/MobileBuildMCP,https://github.com/getsentry/MobileBuildMCP,6572,TypeScript,SECURITY.md,A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+Sentry,自建（Sentry Security）,getsentry,getsentry/MobileBuildMCP,https://github.com/getsentry/MobileBuildMCP,6573,TypeScript,SECURITY.md,A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 Sentry,自建（Sentry Security）,getsentry,getsentry/sentry-go,https://github.com/getsentry/sentry-go,1107,Go,.github/SECURITY.md,The official Go SDK for Sentry (sentry.io)
 Sentry,自建（Sentry Security）,getsentry,getsentry/.github,https://github.com/getsentry/.github,28,,SECURITY.md,Global repo settings for sentry.io
 Sentry,自建（Sentry Security）,getsentry,getsentry/webvitals.com,https://github.com/getsentry/webvitals.com,12,TypeScript,SECURITY.md,

@@ -5,10 +5,12 @@
   "full_name": "cloudflare/computer",
   "url": "https://github.com/cloudflare/computer",
   "sec_path": ".github/SECURITY.md",
-  "stars": 9917,
+  "stars": 9919,
   "language": "TypeScript",
   "description": "Give your agent a computer 👾",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -16,7 +18,7 @@
   "full_name": "cloudflare/vinext",
   "url": "https://github.com/cloudflare/vinext",
   "sec_path": "SECURITY.md",
-  "stars": 9368,
+  "stars": 9370,
   "language": "TypeScript",
   "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
   "license": null,
@@ -29,7 +31,7 @@
   "full_name": "cloudflare/workerd",
   "url": "https://github.com/cloudflare/workerd",
   "sec_path": "SECURITY.md",
-  "stars": 9185,
+  "stars": 9194,
   "language": "C++",
   "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
   "license": null,
@@ -42,10 +44,12 @@
   "full_name": "cloudflare/workers-sdk",
   "url": "https://github.com/cloudflare/workers-sdk",
   "sec_path": "SECURITY.md",
-  "stars": 4726,
+  "stars": 4728,
   "language": "TypeScript",
   "description": "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -56,7 +60,9 @@
   "stars": 4034,
   "language": "TypeScript",
   "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -67,7 +73,22 @@
   "stars": 3186,
   "language": "Rust",
   "description": "🤠  Home to Wrangler v1 (deprecated)",
-  "first_seen": "2026-11-01 19:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 19:24:21",
+  "last_verified": "2026-11-15 10:03:02"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
+  "full_name": "cloudflare/cloudflare-go",
+  "url": "https://github.com/cloudflare/cloudflare-go",
+  "sec_path": "SECURITY.md",
+  "stars": 2115,
+  "language": "Go",
+  "description": "The official Go library for the Cloudflare API",
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -78,18 +99,9 @@
   "stars": 2115,
   "language": "TypeScript",
   "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
-  "first_seen": "2026-11-01 19:23:06"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
-  "full_name": "cloudflare/cloudflare-go",
-  "url": "https://github.com/cloudflare/cloudflare-go",
-  "sec_path": "SECURITY.md",
-  "stars": 2114,
-  "language": "Go",
-  "description": "The official Go library for the Cloudflare API",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -100,7 +112,9 @@
   "stars": 1897,
   "language": "TypeScript",
   "description": "OAuth provider library for Cloudflare Workers",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -108,10 +122,12 @@
   "full_name": "cloudflare/nimbus",
   "url": "https://github.com/cloudflare/nimbus",
   "sec_path": "SECURITY.md",
-  "stars": 1763,
+  "stars": 1766,
   "language": "TypeScript",
   "description": "Docs for humans and agents, built on Astro",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -122,18 +138,9 @@
   "stars": 1356,
   "language": "Go",
   "description": "Cloudflare Terraform Provider",
-  "first_seen": "2026-11-01 19:21:55"
- },
- {
-  "vendor": "Cloudflare",
-  "org": "cloudflare",
-  "full_name": "cloudflare/cf",
-  "url": "https://github.com/cloudflare/cf",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 1043,
-  "language": "TypeScript",
-  "description": "The agentic CLI for the entire Cloudflare API",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -141,7 +148,7 @@
   "full_name": "cloudflare/kitesurf",
   "url": "https://github.com/cloudflare/kitesurf",
   "sec_path": "SECURITY.md",
-  "stars": 885,
+  "stars": 1290,
   "language": "TypeScript",
   "description": "Kitesurf is an experimental browser engine that runs on Cloudflare Workers.",
   "license": null,
@@ -150,13 +157,28 @@
  {
   "vendor": "Cloudflare",
   "org": "cloudflare",
+  "full_name": "cloudflare/cf",
+  "url": "https://github.com/cloudflare/cf",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 1045,
+  "language": "TypeScript",
+  "description": "The agentic CLI for the entire Cloudflare API",
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
+ },
+ {
+  "vendor": "Cloudflare",
+  "org": "cloudflare",
   "full_name": "cloudflare/cloudflare-typescript",
   "url": "https://github.com/cloudflare/cloudflare-typescript",
   "sec_path": "SECURITY.md",
-  "stars": 832,
+  "stars": 834,
   "language": "TypeScript",
   "description": "The official TypeScript library for the Cloudflare API",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -164,10 +186,12 @@
   "full_name": "cloudflare/cloudflare-python",
   "url": "https://github.com/cloudflare/cloudflare-python",
   "sec_path": "SECURITY.md",
-  "stars": 516,
+  "stars": 518,
   "language": "Python",
   "description": "The official Python library for the Cloudflare API",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -178,7 +202,9 @@
   "stars": 370,
   "language": "Go",
   "description": "Go with Cloudflare experimental patches",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -189,7 +215,9 @@
   "stars": 261,
   "language": "TypeScript",
   "description": "Playwright MCP fork that works with Cloudflare Browser Rendering",
-  "first_seen": "2026-11-01 19:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 19:24:21",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -200,7 +228,9 @@
   "stars": 146,
   "language": "Rust",
   "description": "Implementation of DAP",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -211,7 +241,9 @@
   "stars": 144,
   "language": "Go",
   "description": "Oblivious DoH library in Go",
-  "first_seen": "2026-11-01 19:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 19:24:21",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -222,7 +254,9 @@
   "stars": 124,
   "language": "TypeScript",
   "description": "Playwright fork that works with Cloudflare Browser Rendering",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -233,7 +267,9 @@
   "stars": 90,
   "language": "Go",
   "description": "An Oblivious HTTP gateway",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -244,7 +280,9 @@
   "stars": 65,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -255,7 +293,9 @@
   "stars": 41,
   "language": "JavaScript",
   "description": "A Oblivious HTTP (\"OHTTP\") Relay built on Cloudflare Workers.",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -279,7 +319,9 @@
   "stars": 40,
   "language": "Go",
   "description": "Private Access Tokens reference implementation",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -290,7 +332,9 @@
   "stars": 40,
   "language": "TypeScript",
   "description": "A set of useful helper methods for writing functions to handle Cloudflare Pub/Sub messages (https://developers.cloudflare.com/pub-sub/)",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -301,7 +345,9 @@
   "stars": 35,
   "language": "Go",
   "description": "CLI tool for upgrading the terraform-provider-cloudflare to a new major version",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -312,7 +358,9 @@
   "stars": 27,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -323,7 +371,9 @@
   "stars": 26,
   "language": "TypeScript",
   "description": "Astro integration for localization and automated AI translation of content",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -334,7 +384,9 @@
   "stars": 23,
   "language": "Rust",
   "description": "",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -345,7 +397,9 @@
   "stars": 18,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -356,7 +410,9 @@
   "stars": 8,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -367,7 +423,9 @@
   "stars": 7,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -378,7 +436,9 @@
   "stars": 5,
   "language": "Rust",
   "description": "An HTTP library for Rust",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -389,7 +449,9 @@
   "stars": 5,
   "language": "Rust",
   "description": "A place for rejected or in-progress patches to upstream to go",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -400,7 +462,9 @@
   "stars": 5,
   "language": "Objective-C",
   "description": "",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -411,7 +475,9 @@
   "stars": 4,
   "language": "Python",
   "description": "Cloudflare R2 Log Ingestion Add-on for Splunk. Ingests Cloudflare Logpush files from R2 via S3-compatible API. No AWS STS dependency.",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -422,7 +488,9 @@
   "stars": 4,
   "language": null,
   "description": "Cloudflare's authoritative FedRAMP Marketplace Certification Package Overview (Cloudflare for Government, Class C + Class D).",
-  "first_seen": "2026-11-01 19:21:55"
+  "license": null,
+  "first_seen": "2026-11-01 19:21:55",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -433,7 +501,9 @@
   "stars": 3,
   "language": "C++",
   "description": "ClickHouse is a free analytics DBMS for big data",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:02:54"
  },
  {
   "vendor": "Cloudflare",
@@ -444,7 +514,9 @@
   "stars": 3,
   "language": "Rust",
   "description": "A set of tools for generating signed exchanges at serve time.",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -455,7 +527,9 @@
   "stars": 2,
   "language": "Jupyter Notebook",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
-  "first_seen": "2026-11-01 19:24:21"
+  "license": null,
+  "first_seen": "2026-11-01 19:24:21",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -466,7 +540,9 @@
   "stars": 1,
   "language": "Java",
   "description": "Top-level domain name registry service on Google App Engine",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -474,10 +550,12 @@
   "full_name": "cloudflare/prometheus-client-rust",
   "url": "https://github.com/cloudflare/prometheus-client-rust",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Rust",
   "description": "Prometheus / OpenMetrics client library in Rust",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -485,10 +563,12 @@
   "full_name": "cloudflare/prometheus-client",
   "url": "https://github.com/cloudflare/prometheus-client",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Rust",
   "description": "Prometheus / OpenMetrics client library in Rust",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  },
  {
   "vendor": "Cloudflare",
@@ -496,9 +576,11 @@
   "full_name": "cloudflare/snmp_exporter",
   "url": "https://github.com/cloudflare/snmp_exporter",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "SNMP Exporter for Prometheus (Fork)",
-  "first_seen": "2026-11-01 19:23:06"
+  "license": null,
+  "first_seen": "2026-11-01 19:23:06",
+  "last_verified": "2026-11-15 10:03:02"
  }
 ]
