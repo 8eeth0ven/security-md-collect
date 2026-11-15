@@ -4725,7 +4725,6 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/ado,https://github.com/IBM/ado,67,Python,SE
 IBM,自建PSIRT（X-Force）,IBM,IBM/cloudant-python-sdk,https://github.com/IBM/cloudant-python-sdk,58,Python,SECURITY.md,Cloudant SDK for Python
 IBM,自建PSIRT（X-Force）,ibm-security,IBM-Security/ibmsecurity,https://github.com/IBM-Security/ibmsecurity,53,Python,SECURITY.md,Idempotent functions for IBM Security Appliance REST APIs. Currently covering ISAM and ISDS Appliances.
 IBM,自建PSIRT（X-Force）,IBM,IBM/responsible-prompting-api,https://github.com/IBM/responsible-prompting-api,50,Jupyter Notebook,SECURITY.md,Responsible Prompting is an LLM-agnostic tool that aims at dynamically supporting users in crafting prompts that embed responsible intentions and help avoid har…
-IBM,自建PSIRT（X-Force）,IBM,IBM/aihwkit-lightning,https://github.com/IBM/aihwkit-lightning,49,Python,.github/SECURITY.md,Scalable HW-Aware Training for Analog In-Memory Computing
 IBM,自建PSIRT（X-Force）,IBM,IBM/FactReasoner,https://github.com/IBM/FactReasoner,45,Python,SECURITY.md,Long-form factuality assessor for large language models
 IBM,自建PSIRT（X-Force）,IBM,IBM/flexo,https://github.com/IBM/flexo,41,Python,SECURITY.md,Framework for deploying configurable AI agents with real-time streaming and tool execution.
 IBM,自建PSIRT（X-Force）,IBM,IBM/repo-template,https://github.com/IBM/repo-template,41,,SECURITY.md,template repo with recommended content for projects under the IBM org
@@ -4762,7 +4761,6 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/gauge-api-steps,https://github.com/IBM/gaug
 IBM,自建PSIRT（X-Force）,IBM,IBM/db2-ai-cookbook,https://github.com/IBM/db2-ai-cookbook,8,Jupyter Notebook,SECURITY.md,"Runnable recipes for building AI apps and agents on IBM Db2 — vector search, hybrid search, RAG, and recommendations, from SQL or Python."
 IBM,自建PSIRT（X-Force）,IBM,IBM/draco,https://github.com/IBM/draco,8,Python,SECURITY.md,Draco
 IBM,自建PSIRT（X-Force）,IBM-Cloud,IBM-Cloud/cloud-provider-ibm,https://github.com/IBM-Cloud/cloud-provider-ibm,8,Go,SECURITY.md,IBM Kubernetes Cloud Controller Manager 
-IBM,自建PSIRT（X-Force）,IBM,IBM/javacore-analyser,https://github.com/IBM/javacore-analyser,7,Python,SECURITY.md,This is a tool to analyse IBM Javacore files and provide the report used to analyse hang/outage and performance issues.
 IBM,自建PSIRT（X-Force）,IBM,IBM/aem-tenant-specific-vanity-urls,https://github.com/IBM/aem-tenant-specific-vanity-urls,7,Java,SECURITY.md,Solves the issue that vanity URLs in AEM are global and not domain specific.
 IBM,自建PSIRT（X-Force）,IBM,IBM/cics-bundle-gradle,https://github.com/IBM/cics-bundle-gradle,7,Groovy,SECURITY.md,The plugin to build and deploy CICS bundles in a Gradle build.
 IBM,自建PSIRT（X-Force）,IBM,IBM/cics-bundle-common,https://github.com/IBM/cics-bundle-common,7,Java,SECURITY.md,CICS bundle shared utilities project to contain common code between cics-bundle-maven and cics-bundle-gradle plugins
@@ -4780,9 +4778,11 @@ IBM,自建PSIRT（X-Force）,IBM,IBM/ibm-watsonxdata-dl-retrieval-mcp-server,htt
 IBM,自建PSIRT（X-Force）,IBM,IBM/substrait-compliance,https://github.com/IBM/substrait-compliance,4,Python,SECURITY.md,Substrait Decentralized Compliance Framework
 IBM,自建PSIRT（X-Force）,IBM,IBM/fusion-lab-workbooks,https://github.com/IBM/fusion-lab-workbooks,4,Shell,SECURITY.md,IBM Technology Zone Lab Guides
 IBM,自建PSIRT（X-Force）,IBM,IBM/chuk-virtual-fs,https://github.com/IBM/chuk-virtual-fs,4,Python,SECURITY.md,
+IBM,自建PSIRT（X-Force）,IBM,IBM/javacore-analyser,https://github.com/IBM/javacore-analyser,3,Python,SECURITY.md,This is a tool to analyse IBM Javacore files and provide the report used to analyse hang/outage and performance issues.
 IBM,自建PSIRT（X-Force）,IBM,IBM/mcp-composer,https://github.com/IBM/mcp-composer,3,Python,SECURITY.md,> MCP Composer
 IBM,自建PSIRT（X-Force）,IBM,IBM/ocp4-upi-compute-powervs,https://github.com/IBM/ocp4-upi-compute-powervs,3,Shell,SECURITY.md,Automation to support additional workers on the Red Hat OpenShift Container Platform compute plane on IBM Power Virtual Servers
 IBM,自建PSIRT（X-Force）,IBM,IBM/codehelm,https://github.com/IBM/codehelm,3,Python,SECURITY.md,CodeHelm
+IBM,自建PSIRT（X-Force）,IBM,IBM/aihwkit-lightning,https://github.com/IBM/aihwkit-lightning,3,Python,.github/SECURITY.md,Scalable HW-Aware Training for Analog In-Memory Computing
 IBM,自建PSIRT（X-Force）,IBM,IBM/md-to-pdf,https://github.com/IBM/md-to-pdf,3,Python,SECURITY.md,"Professional Markdown to PDF converter with Mermaid diagrams, clickable links, table of contents, and custom styles"
 IBM,自建PSIRT（X-Force）,IBM,IBM/s3-iam-cosi-driver,https://github.com/IBM/s3-iam-cosi-driver,3,Go,SECURITY.md,The s3-iam-cosi-driver is a non-product specific implementation of Kubernetes Cloud Object Storage Interface (COSI) standard. It supports provisioning and acces…
 IBM,自建PSIRT（X-Force）,IBM,IBM/gauging_clifford_measurement,https://github.com/IBM/gauging_clifford_measurement,3,Jupyter Notebook,SECURITY.md,Constant-depth magic state cultivation
@@ -7391,7 +7391,7 @@ Unity,自建（Unity Security）,Unity-Technologies,Unity-Technologies/format,ht
 Unity,自建（Unity Security）,Unity-Technologies,Unity-Technologies/grafana,https://github.com/Unity-Technologies/grafana,1,TypeScript,SECURITY.md,"The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More"
 Unity,自建（Unity Security）,Unity-Technologies,Unity-Technologies/kueue,https://github.com/Unity-Technologies/kueue,0,Go,SECURITY.md,Kubernetes-native Job Queueing
 Unity,自建（Unity Security）,Unity-Technologies,Unity-Technologies/uvcs-agent-plugin,https://github.com/Unity-Technologies/uvcs-agent-plugin,0,JavaScript,SECURITY.md,Portable agent plugin that teaches AI coding agents how to use Unity Version Control (UVCS / Plastic SCM).
-EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/lore,https://github.com/EpicGames/lore,9152,Rust,SECURITY.md,"Lore is a next-generation, open source version control system"
+EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/lore,https://github.com/EpicGames/lore,9157,Rust,SECURITY.md,"Lore is a next-generation, open source version control system"
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/PixelStreamingInfrastructure-archived-2024,https://github.com/EpicGames/PixelStreamingInfrastructure-archived-2024,598,TypeScript,SECURITY.md,Moved to: https://github.com/EpicGamesExt/PixelStreamingInfrastructure
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/PixelStreamingInfrastructure,https://github.com/EpicGames/PixelStreamingInfrastructure,560,TypeScript,SECURITY.md,The official Pixel Streaming servers and frontend.
 EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/OpenRigLogic,https://github.com/EpicGames/OpenRigLogic,328,C++,SECURITY.md,

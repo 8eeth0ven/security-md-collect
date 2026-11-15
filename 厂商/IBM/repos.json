@@ -160,17 +160,6 @@
  {
   "vendor": "IBM",
   "org": "IBM",
-  "full_name": "IBM/aihwkit-lightning",
-  "url": "https://github.com/IBM/aihwkit-lightning",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 49,
-  "language": "Python",
-  "description": "Scalable HW-Aware Training for Analog In-Memory Computing",
-  "first_seen": "2026-11-01 16:46:39"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
   "full_name": "IBM/FactReasoner",
   "url": "https://github.com/IBM/FactReasoner",
   "sec_path": "SECURITY.md",
@@ -569,17 +558,6 @@
  {
   "vendor": "IBM",
   "org": "IBM",
-  "full_name": "IBM/javacore-analyser",
-  "url": "https://github.com/IBM/javacore-analyser",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": "Python",
-  "description": "This is a tool to analyse IBM Javacore files and provide the report used to analyse hang/outage and performance issues.",
-  "first_seen": "2026-11-01 16:45:41"
- },
- {
-  "vendor": "IBM",
-  "org": "IBM",
   "full_name": "IBM/aem-tenant-specific-vanity-urls",
   "url": "https://github.com/IBM/aem-tenant-specific-vanity-urls",
   "sec_path": "SECURITY.md",
@@ -768,13 +746,28 @@
  {
   "vendor": "IBM",
   "org": "IBM",
+  "full_name": "IBM/javacore-analyser",
+  "url": "https://github.com/IBM/javacore-analyser",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "This is a tool to analyse IBM Javacore files and provide the report used to analyse hang/outage and performance issues.",
+  "license": null,
+  "first_seen": "2026-11-01 16:45:41",
+  "last_verified": "2026-11-15 14:35:51"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
   "full_name": "IBM/mcp-composer",
   "url": "https://github.com/IBM/mcp-composer",
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "Python",
   "description": "> MCP Composer",
-  "first_seen": "2026-11-01 16:45:41"
+  "license": null,
+  "first_seen": "2026-11-01 16:45:41",
+  "last_verified": "2026-11-15 14:35:51"
  },
  {
   "vendor": "IBM",
@@ -797,6 +790,19 @@
   "language": "Python",
   "description": "CodeHelm",
   "first_seen": "2026-11-01 16:46:39"
+ },
+ {
+  "vendor": "IBM",
+  "org": "IBM",
+  "full_name": "IBM/aihwkit-lightning",
+  "url": "https://github.com/IBM/aihwkit-lightning",
+  "sec_path": ".github/SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Scalable HW-Aware Training for Analog In-Memory Computing",
+  "license": null,
+  "first_seen": "2026-11-01 16:46:39",
+  "last_verified": "2026-11-15 14:35:51"
  },
  {
   "vendor": "IBM",
