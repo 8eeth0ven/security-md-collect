@@ -1544,17 +1544,6 @@
  },
  {
   "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-rest-api-specs",
-  "url": "https://github.com/Azure/azure-rest-api-specs",
-  "sec_path": "SECURITY.md",
-  "stars": 3128,
-  "language": "TypeSpec",
-  "description": "The source for REST API specifications for Microsoft Azure.",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/MoGe",
   "url": "https://github.com/microsoft/MoGe",
@@ -3957,17 +3946,6 @@
   "description": "KrabsETW provides a modern C++ wrapper and a .NET wrapper around the low-level ETW trace consumption functions.",
   "license": null,
   "first_seen": "2026-11-01 22:39:21"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-storage-fuse",
-  "url": "https://github.com/Azure/azure-storage-fuse",
-  "sec_path": "SECURITY.md",
-  "stars": 812,
-  "language": "Go",
-  "description": "A virtual file system adapter for Azure Blob storage",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -9356,17 +9334,6 @@
  },
  {
   "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/sap-automation",
-  "url": "https://github.com/Azure/sap-automation",
-  "sec_path": "SECURITY.md",
-  "stars": 148,
-  "language": "HCL",
-  "description": "This is the repository supporting the SAP deployment automation framework on Azure",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
   "org": "aspnet",
   "full_name": "aspnet/AspNetWebHooks",
   "url": "https://github.com/aspnet/AspNetWebHooks",
@@ -9864,17 +9831,6 @@
   "description": "This repository is for Microsoft Student Ambassadors. ",
   "license": null,
   "first_seen": "2026-11-13 16:35:17"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-sdk-tools",
-  "url": "https://github.com/Azure/azure-sdk-tools",
-  "sec_path": "SECURITY.md",
-  "stars": 134,
-  "language": "C#",
-  "description": "Tools repository leveraged by the Azure SDK team.",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -10722,17 +10678,6 @@
   "description": "Interactive workflows for creating AI intelligence reports from real-world data sources",
   "license": null,
   "first_seen": "2026-11-13 16:35:17"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/bicep-types-az",
-  "url": "https://github.com/Azure/bicep-types-az",
-  "sec_path": "SECURITY.md",
-  "stars": 111,
-  "language": "TypeScript",
-  "description": "Bicep type definitions for ARM resources",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -15605,17 +15550,6 @@
   "stars": 40,
   "language": "TypeScript",
   "description": "GitHub Action to create Kubernetes cluster secrets",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-rest-api-specs-examples",
-  "url": "https://github.com/Azure/azure-rest-api-specs-examples",
-  "sec_path": "SECURITY.md",
-  "stars": 40,
-  "language": null,
-  "description": "SDK examples for azure-rest-api-specs",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -26793,6 +26727,19 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/azure-rest-api-specs",
+  "url": "https://github.com/Azure/azure-rest-api-specs",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeSpec",
+  "description": "The source for REST API specifications for Microsoft Azure.",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 23:35:18"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/bicep",
   "url": "https://github.com/Azure/bicep",
   "sec_path": "SECURITY.md",
@@ -26861,13 +26808,54 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/azure-rest-api-specs-examples",
+  "url": "https://github.com/Azure/azure-rest-api-specs-examples",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": null,
+  "description": "SDK examples for azure-rest-api-specs",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 23:35:18"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-storage-fuse",
+  "url": "https://github.com/Azure/azure-storage-fuse",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "A virtual file system adapter for Azure Blob storage",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 23:35:18"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/azure-powershell",
   "url": "https://github.com/Azure/azure-powershell",
   "sec_path": "SECURITY.md",
   "stars": 3,
   "language": "C#",
   "description": "> Microsoft Azure PowerShell",
-  "first_seen": "2026-11-01 16:24:27"
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 23:35:18"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-sdk-tools",
+  "url": "https://github.com/Azure/azure-sdk-tools",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C#",
+  "description": "Tools repository leveraged by the Azure SDK team.",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 23:35:18"
  },
  {
   "vendor": "微软",
@@ -26918,6 +26906,19 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/sap-automation",
+  "url": "https://github.com/Azure/sap-automation",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "HCL",
+  "description": "This is the repository supporting the SAP deployment automation framework on Azure",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 23:35:18"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/Connectors-NodeJS-SDK",
   "url": "https://github.com/Azure/Connectors-NodeJS-SDK",
   "sec_path": "SECURITY.md",
@@ -26938,6 +26939,19 @@
   "language": "Java",
   "description": "Yahoo! Cloud Serving Benchmark",
   "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/bicep-types-az",
+  "url": "https://github.com/Azure/bicep-types-az",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "Bicep type definitions for ARM resources",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 23:35:18"
  },
  {
   "vendor": "微软",
@@ -26972,7 +26986,9 @@
   "stars": 3,
   "language": "PowerShell",
   "description": "Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Modules will then a…",
-  "first_seen": "2026-11-01 16:24:27"
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 23:35:18"
  },
  {
   "vendor": "微软",
@@ -28348,6 +28364,18 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-05 10:02:55"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/aspire-templates",
+  "url": "https://github.com/Azure/aspire-templates",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C#",
+  "description": "Azure-focused templates for Aspire.",
+  "license": null,
+  "first_seen": "2026-11-13 15:34:59"
  },
  {
   "vendor": "微软",
@@ -34633,18 +34661,6 @@
   "description": "",
   "license": null,
   "first_seen": "2026-11-05 10:02:55"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/aspire-templates",
-  "url": "https://github.com/Azure/aspire-templates",
-  "sec_path": "SECURITY.md",
-  "stars": 0,
-  "language": "C#",
-  "description": "Azure-focused templates for Aspire.",
-  "license": null,
-  "first_seen": "2026-11-13 15:34:59"
  },
  {
   "vendor": "微软",
