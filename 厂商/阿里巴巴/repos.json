@@ -5,10 +5,12 @@
   "full_name": "alibaba/open-code-review",
   "url": "https://github.com/alibaba/open-code-review",
   "sec_path": ".github/SECURITY.md",
-  "stars": 51316,
+  "stars": 51599,
   "language": "Go",
   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comment…",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -19,7 +21,9 @@
   "stars": 29745,
   "language": "Java",
   "description": "阿里巴巴 MySQL binlog 增量订阅&消费组件 ",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -27,10 +31,12 @@
   "full_name": "alibaba/page-agent",
   "url": "https://github.com/alibaba/page-agent",
   "sec_path": "docs/SECURITY.md",
-  "stars": 29688,
+  "stars": 29690,
   "language": "TypeScript",
   "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -38,10 +44,12 @@
   "full_name": "alibaba/druid",
   "url": "https://github.com/alibaba/druid",
   "sec_path": "SECURITY.md",
-  "stars": 28143,
+  "stars": 28142,
   "language": "Java",
   "description": "阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -52,7 +60,9 @@
   "stars": 25550,
   "language": "Java",
   "description": "FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -63,7 +73,9 @@
   "stars": 23147,
   "language": "Java",
   "description": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -71,10 +83,12 @@
   "full_name": "alibaba/MNN",
   "url": "https://github.com/alibaba/MNN",
   "sec_path": "SECURITY.md",
-  "stars": 16528,
+  "stars": 16531,
   "language": "C++",
   "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -85,7 +99,9 @@
   "stars": 14979,
   "language": "TypeScript",
   "description": "A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -93,10 +109,12 @@
   "full_name": "alibaba/spring-ai-alibaba",
   "url": "https://github.com/alibaba/spring-ai-alibaba",
   "sec_path": "SECURITY.md",
-  "stars": 11145,
+  "stars": 11147,
   "language": "Java",
   "description": "Agentic AI Framework for Java Developers",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -107,7 +125,9 @@
   "stars": 8304,
   "language": "Java",
   "description": "📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even …",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -115,10 +135,12 @@
   "full_name": "alibaba/rax",
   "url": "https://github.com/alibaba/rax",
   "sec_path": "SECURITY.md",
-  "stars": 8015,
+  "stars": 8016,
   "language": "JavaScript",
   "description": "🐰 Rax is a progressive framework for building universal application. https://rax.js.org",
-  "first_seen": "2026-11-01 17:51:18"
+  "license": null,
+  "first_seen": "2026-11-01 17:51:18",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -126,10 +148,12 @@
   "full_name": "alibaba/BizCharts",
   "url": "https://github.com/alibaba/BizCharts",
   "sec_path": "SECURITY.md",
-  "stars": 6181,
+  "stars": 6182,
   "language": "TypeScript",
   "description": "Powerful data visualization library based on G2 and React.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -140,7 +164,9 @@
   "stars": 5993,
   "language": "C++",
   "description": "AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -151,7 +177,9 @@
   "stars": 4436,
   "language": "Java",
   "description": "🚄 FASTJSON2 is a Java JSON  library with excellent performance.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -162,7 +190,9 @@
   "stars": 1988,
   "language": "Java",
   "description": "🎨 core business process engine of Alibaba Halo platform, best process engine for trade scenes. | 一个高性能流程编排引擎",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -173,7 +203,9 @@
   "stars": 1935,
   "language": "C",
   "description": "XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -184,7 +216,9 @@
   "stars": 1474,
   "language": "Go",
   "description": "Evaluate Agent Skills and environments. Evolve Skills with evidence.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -221,7 +255,9 @@
   "stars": 756,
   "language": "Java",
   "description": "Alibaba RSocket Broker: Mesh, Streaming & IoT",
-  "first_seen": "2026-11-01 17:51:18"
+  "license": null,
+  "first_seen": "2026-11-01 17:51:18",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -232,7 +268,9 @@
   "stars": 703,
   "language": "Go",
   "description": "Network monitoring & diagnosis suite for Kubernetes",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -253,10 +291,12 @@
   "full_name": "alibaba/UnifiedModel",
   "url": "https://github.com/alibaba/UnifiedModel",
   "sec_path": "SECURITY.md",
-  "stars": 460,
+  "stars": 461,
   "language": "Go",
   "description": "The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry…",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -267,7 +307,9 @@
   "stars": 180,
   "language": "C++",
   "description": "The one data index for your agentic applications",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -291,7 +333,9 @@
   "stars": 108,
   "language": "JavaScript",
   "description": "基于 rax 与高德地图，快速开发无线地图类业务需求",
-  "first_seen": "2026-11-01 17:51:18"
+  "license": null,
+  "first_seen": "2026-11-01 17:51:18",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -302,7 +346,9 @@
   "stars": 89,
   "language": "Java",
   "description": "An enterprise framework implementing the Agent Operation Authorization protocol with cryptographic identity binding, fine-grained authorization, and semantic au…",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -326,7 +372,9 @@
   "stars": 30,
   "language": "C++",
   "description": "hessian2-codec it is a complete C++ implementation of hessian2 spec",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -337,7 +385,9 @@
   "stars": 29,
   "language": "Rust",
   "description": "Multi-backend observability CLI for metrics, logs, and traces — unified interface, AI-Agent friendly",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -348,7 +398,9 @@
   "stars": 26,
   "language": "TypeScript",
   "description": "OpenTelemetry instrumentation plugins for JavaScript-based AI coding agents. Collect traces, tool calls, and LLM metrics from Claude Code and OpenClaw — zero co…",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -398,7 +450,9 @@
   "stars": 10,
   "language": "Python",
   "description": "Full-stack observability for AI — starting with end-to-end RL post-training, expanding to Agent and inference engine monitoring.",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -539,7 +593,9 @@
   "stars": 4,
   "language": "Python",
   "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.（(Fork for contributing. All cha…",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -550,7 +606,9 @@
   "stars": 3,
   "language": "TypeScript",
   "description": "roosterjs is a framework-independent javascript rich text editor.(Fork for contributing. All changes intended for upstream PRs.)",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -561,7 +619,9 @@
   "stars": 3,
   "language": "C",
   "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying ca…",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -585,7 +645,9 @@
   "stars": 2,
   "language": "Java",
   "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.(Fork for contributing. All changes intende…",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -596,7 +658,9 @@
   "stars": 2,
   "language": "Python",
   "description": "A high-throughput and memory-efficient inference and serving engine for LLMs(Fork for contributing. All changes intended for upstream PRs.)",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -646,7 +710,9 @@
   "stars": 1,
   "language": "C",
   "description": "Intelligent Storage Acceleration Library(Fork for contributing. All changes intended for upstream PRs.)",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",
@@ -657,7 +723,9 @@
   "stars": 1,
   "language": "Python",
   "description": "💫 Toolkit to help you get started with Spec-Driven Development(Fork for contributing. All changes intended for upstream PRs.)",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:04:00"
  },
  {
   "vendor": "阿里巴巴",
@@ -782,10 +850,12 @@
   "full_name": "alibaba/aiconfigurator",
   "url": "https://github.com/alibaba/aiconfigurator",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Python",
   "description": "Offline optimization of your disaggregated Dynamo graph(Fork for contributing. All changes intended for upstream PRs.)",
-  "first_seen": "2026-11-01 17:50:21"
+  "license": null,
+  "first_seen": "2026-11-01 17:50:21",
+  "last_verified": "2026-11-15 16:03:53"
  },
  {
   "vendor": "阿里巴巴",

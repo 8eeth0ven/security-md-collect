@@ -493,18 +493,18 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 腾讯,TSRC,TencentCloud,TencentCloud/ssm-rotation-sdk-java,https://github.com/TencentCloud/ssm-rotation-sdk-java,1,Java,SECURITY.md,
 腾讯,TSRC,TencentCloud,TencentCloud/ssm-rotation-sdk-python,https://github.com/TencentCloud/ssm-rotation-sdk-python,0,Python,SECURITY.md,ssm(凭据管理服务）凭据轮转功能的客户端 lib 和 使用demo。
 腾讯,TSRC,tencentyun,tencentyun/etcd,https://github.com/tencentyun/etcd,0,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
-阿里巴巴,ASRC,alibaba,alibaba/open-code-review,https://github.com/alibaba/open-code-review,51316,Go,.github/SECURITY.md,"Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comment…"
+阿里巴巴,ASRC,alibaba,alibaba/open-code-review,https://github.com/alibaba/open-code-review,51599,Go,.github/SECURITY.md,"Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comment…"
 阿里巴巴,ASRC,alibaba,alibaba/canal,https://github.com/alibaba/canal,29745,Java,SECURITY.md,阿里巴巴 MySQL binlog 增量订阅&消费组件 
-阿里巴巴,ASRC,alibaba,alibaba/page-agent,https://github.com/alibaba/page-agent,29688,TypeScript,docs/SECURITY.md,JavaScript in-page GUI agent. Control web interfaces with natural language.
-阿里巴巴,ASRC,alibaba,alibaba/druid,https://github.com/alibaba/druid,28143,Java,SECURITY.md,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
+阿里巴巴,ASRC,alibaba,alibaba/page-agent,https://github.com/alibaba/page-agent,29690,TypeScript,docs/SECURITY.md,JavaScript in-page GUI agent. Control web interfaces with natural language.
+阿里巴巴,ASRC,alibaba,alibaba/druid,https://github.com/alibaba/druid,28142,Java,SECURITY.md,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 阿里巴巴,ASRC,alibaba,alibaba/fastjson,https://github.com/alibaba/fastjson,25550,Java,SECURITY.md,"FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade."
 阿里巴巴,ASRC,alibaba,alibaba/Sentinel,https://github.com/alibaba/Sentinel,23147,Java,SECURITY.md,"A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)"
-阿里巴巴,ASRC,alibaba,alibaba/MNN,https://github.com/alibaba/MNN,16528,C++,SECURITY.md,"MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
+阿里巴巴,ASRC,alibaba,alibaba/MNN,https://github.com/alibaba/MNN,16531,C++,SECURITY.md,"MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
 阿里巴巴,ASRC,alibaba,alibaba/hooks,https://github.com/alibaba/hooks,14979,TypeScript,SECURITY.md,A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
-阿里巴巴,ASRC,alibaba,alibaba/spring-ai-alibaba,https://github.com/alibaba/spring-ai-alibaba,11145,Java,SECURITY.md,Agentic AI Framework for Java Developers
+阿里巴巴,ASRC,alibaba,alibaba/spring-ai-alibaba,https://github.com/alibaba/spring-ai-alibaba,11147,Java,SECURITY.md,Agentic AI Framework for Java Developers
 阿里巴巴,ASRC,alibaba,alibaba/transmittable-thread-local,https://github.com/alibaba/transmittable-thread-local,8304,Java,SECURITY.md,"📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even …"
-阿里巴巴,ASRC,alibaba,alibaba/rax,https://github.com/alibaba/rax,8015,JavaScript,SECURITY.md,🐰 Rax is a progressive framework for building universal application. https://rax.js.org
-阿里巴巴,ASRC,alibaba,alibaba/BizCharts,https://github.com/alibaba/BizCharts,6181,TypeScript,SECURITY.md,Powerful data visualization library based on G2 and React.
+阿里巴巴,ASRC,alibaba,alibaba/rax,https://github.com/alibaba/rax,8016,JavaScript,SECURITY.md,🐰 Rax is a progressive framework for building universal application. https://rax.js.org
+阿里巴巴,ASRC,alibaba,alibaba/BizCharts,https://github.com/alibaba/BizCharts,6182,TypeScript,SECURITY.md,Powerful data visualization library based on G2 and React.
 阿里巴巴,ASRC,alibaba,alibaba/AliSQL,https://github.com/alibaba/AliSQL,5993,C++,SECURITY.md,AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
 阿里巴巴,ASRC,alibaba,alibaba/fastjson2,https://github.com/alibaba/fastjson2,4436,Java,SECURITY.md,🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 阿里巴巴,ASRC,alibaba,alibaba/compileflow,https://github.com/alibaba/compileflow,1988,Java,SECURITY.md,"🎨 core business process engine of Alibaba Halo platform, best process engine for trade scenes. | 一个高性能流程编排引擎"
@@ -515,7 +515,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 阿里巴巴,ASRC,alibaba,alibaba/alibaba-rsocket-broker,https://github.com/alibaba/alibaba-rsocket-broker,756,Java,SECURITY.md,"Alibaba RSocket Broker: Mesh, Streaming & IoT"
 阿里巴巴,ASRC,alibaba,alibaba/kubeskoop,https://github.com/alibaba/kubeskoop,703,Go,SECURITY.md,Network monitoring & diagnosis suite for Kubernetes
 阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/terway,https://github.com/AliyunContainerService/terway,622,Go,SECURITY.md,CNI plugin for Alibaba Cloud VPC/ENI
-阿里巴巴,ASRC,alibaba,alibaba/UnifiedModel,https://github.com/alibaba/UnifiedModel,460,Go,SECURITY.md,"The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry…"
+阿里巴巴,ASRC,alibaba,alibaba/UnifiedModel,https://github.com/alibaba/UnifiedModel,461,Go,SECURITY.md,"The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry…"
 阿里巴巴,ASRC,alibaba,alibaba/neug,https://github.com/alibaba/neug,180,C++,SECURITY.md,The one data index for your agentic applications
 阿里巴巴,ASRC,aliyun,aliyun/alibabacloud-ack-mcp-server,https://github.com/aliyun/alibabacloud-ack-mcp-server,121,Python,SECURITY.md,"Alibaba Cloud's ack-mcp-server unifies container operations capabilities, enabling AI assistants and third-party AI agents to perform complex tasks via natural …"
 阿里巴巴,ASRC,alibaba,alibaba/rax-map,https://github.com/alibaba/rax-map,108,JavaScript,SECURITY.md,基于 rax 与高德地图，快速开发无线地图类业务需求
@@ -558,11 +558,11 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/registration,https://github.com/AliyunContainerService/registration,0,Go,SECURITY.md,hub / spoke registration controllers
 阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/work,https://github.com/AliyunContainerService/work,0,Go,SECURITY.md,resource manifest distribution among multiple clusters.
 阿里巴巴,ASRC,AliyunContainerService,AliyunContainerService/registration-operator,https://github.com/AliyunContainerService/registration-operator,0,Go,SECURITY.md,Minimum cluster registration and work
-阿里巴巴,ASRC,alibaba,alibaba/aiconfigurator,https://github.com/alibaba/aiconfigurator,,Python,SECURITY.md,Offline optimization of your disaggregated Dynamo graph(Fork for contributing. All changes intended for upstream PRs.)
+阿里巴巴,ASRC,alibaba,alibaba/aiconfigurator,https://github.com/alibaba/aiconfigurator,0,Python,SECURITY.md,Offline optimization of your disaggregated Dynamo graph(Fork for contributing. All changes intended for upstream PRs.)
 阿里巴巴,ASRC,aliyun,aliyun/alibabacloud-maxcompute-docs,https://github.com/aliyun/alibabacloud-maxcompute-docs,0,TypeScript,SECURITY.md,
-蚂蚁集团,蚂蚁SRC,ant-design,ant-design/ant-design,https://github.com/ant-design/ant-design,100207,TypeScript,SECURITY.md,An enterprise-class UI design language and React UI library
+蚂蚁集团,蚂蚁SRC,ant-design,ant-design/ant-design,https://github.com/ant-design/ant-design,100215,TypeScript,SECURITY.md,An enterprise-class UI design language and React UI library
 蚂蚁集团,蚂蚁SRC,antvis,antvis/G6,https://github.com/antvis/G6,12393,TypeScript,SECURITY.md,♾ A Graph Visualization Framework in JavaScript.
-蚂蚁集团,蚂蚁SRC,ant-design,ant-design/ant-design-mobile,https://github.com/ant-design/ant-design-mobile,12097,TypeScript,.github/SECURITY.md,Essential UI blocks for building mobile web apps.
+蚂蚁集团,蚂蚁SRC,ant-design,ant-design/ant-design-mobile,https://github.com/ant-design/ant-design-mobile,12098,TypeScript,.github/SECURITY.md,Essential UI blocks for building mobile web apps.
 蚂蚁集团,蚂蚁SRC,antvis,antvis/X6,https://github.com/antvis/X6,6766,TypeScript,SECURITY.md,🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-boot,https://github.com/sofastack/sofa-boot,5078,Java,SECURITY.md,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc."
 蚂蚁集团,蚂蚁SRC,ant-design,ant-design/pro-components,https://github.com/ant-design/pro-components,4858,TypeScript,SECURITY.md,🏆 Use Ant Design like a Pro!
@@ -3850,13 +3850,13 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/.github,https://github.com/microsoft/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201621,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/go,https://github.com/golang/go,139907,Go,SECURITY.md,The Go programming language
-谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101481,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
+谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101504,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77631,Python,SECURITY.md,Models and examples built with TensorFlow
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular.js,https://github.com/angular/angular.js,58428,JavaScript,SECURITY.md,AngularJS - HTML enhanced for web apps!
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/zx,https://github.com/google/zx,45844,JavaScript,.github/SECURITY.md,A tool for writing better scripts
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular-cli,https://github.com/angular/angular-cli,27019,TypeScript,SECURITY.md,CLI tool for Angular
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/flatbuffers,https://github.com/google/flatbuffers,26630,C++,SECURITY.md,FlatBuffers: Memory Efficient Serialization Library
-谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/components,https://github.com/angular/components,25046,TypeScript,SECURITY.md,Component infrastructure and Material Design components for Angular
+谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/components,https://github.com/angular/components,25045,TypeScript,SECURITY.md,Component infrastructure and Material Design components for Angular
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/ExoPlayer,https://github.com/google/ExoPlayer,21931,Java,SECURITY.md,This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/filament,https://github.com/google/filament,20745,C++,SECURITY.md,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2"
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/magika,https://github.com/google/magika,18796,Rust,SECURITY.md,Fast and accurate AI powered file content types detection 
@@ -3865,7 +3865,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/oss-fuzz,https://github.com/google/oss-fuzz,12949,Shell,SECURITY.md,OSS-Fuzz - continuous fuzzing for open source software.
 谷歌,"自建（Google VRP, bughunters.google.com）",dart-lang,dart-lang/sdk,https://github.com/dart-lang/sdk,11350,Dart,SECURITY.md,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/re2,https://github.com/google/re2,9847,C++,SECURITY.md,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library."
-谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angularfire,https://github.com/angular/angularfire,7794,TypeScript,SECURITY.md,Angular + Firebase = ❤️
+谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angularfire,https://github.com/angular/angularfire,7793,TypeScript,SECURITY.md,Angular + Firebase = ❤️
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/draco,https://github.com/google/draco,7551,C++,SECURITY.md,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics…
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorboard,https://github.com/tensorflow/tensorboard,7242,TypeScript,SECURITY.md,TensorFlow's Visualization Toolkit
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/security-research,https://github.com/google/security-research,4738,C,SECURITY.md,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
@@ -6901,7 +6901,7 @@ HP/HPE,自建PSIRT + ZDI（HP/HPE）,hpe,HPE/ompi,https://github.com/HPE/ompi,1,
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/shs-governance-model,https://github.com/HewlettPackard/shs-governance-model,0,,SECURITY.md,Singshot Host Software Governance Model
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/create-react-app,https://github.com/HewlettPackard/create-react-app,0,JavaScript,SECURITY.md,Set up a modern web app by running one command.
 HP/HPE,自建PSIRT + ZDI（HP/HPE）,HewlettPackard,HewlettPackard/istio,https://github.com/HewlettPackard/istio,0,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
-红帽,自建（Red Hat Product Security）,ansible,ansible/ansible,https://github.com/ansible/ansible,71467,Python,.github/SECURITY.md,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deplo…
+红帽,自建（Red Hat Product Security）,ansible,ansible/ansible,https://github.com/ansible/ansible,71493,Python,.github/SECURITY.md,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deplo…
 红帽,自建（Red Hat Product Security）,ansible,ansible/awx,https://github.com/ansible/awx,15626,Python,SECURITY.md,"AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pl…"
 红帽,自建（Red Hat Product Security）,ansible,ansible/molecule,https://github.com/ansible/molecule,4166,Python,SECURITY.md,"An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service"
 红帽,自建（Red Hat Product Security）,ansible,ansible/ansible-lint,https://github.com/ansible/ansible-lint,3938,Python,.github/SECURITY.md,ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
