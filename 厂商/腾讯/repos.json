@@ -5,10 +5,12 @@
   "full_name": "Tencent/WeKnora",
   "url": "https://github.com/Tencent/WeKnora",
   "sec_path": "SECURITY.md",
-  "stars": 37428,
+  "stars": 37438,
   "language": "Go",
   "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -16,10 +18,12 @@
   "full_name": "Tencent/MMKV",
   "url": "https://github.com/Tencent/MMKV",
   "sec_path": "SECURITY.md",
-  "stars": 18776,
+  "stars": 18775,
   "language": "C++",
   "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -27,7 +31,7 @@
   "full_name": "TencentCloud/Octop",
   "url": "https://github.com/TencentCloud/Octop",
   "sec_path": "SECURITY.md",
-  "stars": 12043,
+  "stars": 12047,
   "language": "Python",
   "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
   "license": null,
@@ -40,10 +44,12 @@
   "full_name": "Tencent/AI-Infra-Guard",
   "url": "https://github.com/Tencent/AI-Infra-Guard",
   "sec_path": "SECURITY.md",
-  "stars": 7506,
+  "stars": 7509,
   "language": "Python",
   "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -54,7 +60,9 @@
   "stars": 4931,
   "language": "TypeScript",
   "description": "✨ A Markdown Editor",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -62,7 +70,7 @@
   "full_name": "Tencent-Hunyuan/Hy-Memory",
   "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
   "sec_path": "SECURITY.md",
-  "stars": 2058,
+  "stars": 2064,
   "language": "Python",
   "description": "",
   "license": null,
@@ -78,7 +86,9 @@
   "stars": 1997,
   "language": "JavaScript",
   "description": " 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -89,7 +99,22 @@
   "stars": 1443,
   "language": "Rust",
   "description": "A high-performance, lightweight, and cross-platform QUIC library",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
+ },
+ {
+  "vendor": "腾讯",
+  "org": "Tencent",
+  "full_name": "Tencent/LoopForge",
+  "url": "https://github.com/Tencent/LoopForge",
+  "sec_path": "SECURITY.md",
+  "stars": 1022,
+  "language": "Go",
+  "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows fo…",
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -100,18 +125,9 @@
   "stars": 1004,
   "language": "Java",
   "description": "Tencent Kona is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-term support(LTS) with quarterly updates. Tencent Kona…",
-  "first_seen": "2026-11-01 17:23:13"
- },
- {
-  "vendor": "腾讯",
-  "org": "Tencent",
-  "full_name": "Tencent/LoopForge",
-  "url": "https://github.com/Tencent/LoopForge",
-  "sec_path": "SECURITY.md",
-  "stars": 826,
-  "language": "Go",
-  "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows fo…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -119,10 +135,12 @@
   "full_name": "Tencent/YOLO-Master",
   "url": "https://github.com/Tencent/YOLO-Master",
   "sec_path": "SECURITY.md",
-  "stars": 783,
+  "stars": 784,
   "language": "Python",
   "description": "[CVPR2026]🚀🚀🚀Official code for the paper   \"YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection.\"   *(YOLO = You Only Lo…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -159,7 +177,9 @@
   "stars": 462,
   "language": "Java",
   "description": "Tencent Kona SM Suite contains a set of Java security providers, which support algorithms SM2, SM3 and SM4, and protocols TLCP/GMSSL, TLS 1.3 (with RFC 8998) an…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -170,7 +190,9 @@
   "stars": 346,
   "language": "Java",
   "description": "Tencent Kona JDK11 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -194,7 +216,9 @@
   "stars": 193,
   "language": "TypeScript",
   "description": "Continual agent skill evolution through persistent decision history. Whole-skill optimisation (SKILL.md + scripts + references) with every decision landing as a…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -205,7 +229,9 @@
   "stars": 193,
   "language": "Java",
   "description": "Tencent Kona JDK17 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -281,7 +307,9 @@
   "stars": 57,
   "language": "Java",
   "description": "Tencent Kona JDK21 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -292,7 +320,9 @@
   "stars": 49,
   "language": "Python",
   "description": "[FSE'2026] PlayCoder: Making LLM-Generated GUI Code Playable",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -303,7 +333,9 @@
   "stars": 48,
   "language": "TypeScript",
   "description": "SkillHub Open API documentation, examples, and DeepSeek Harness plugin",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -314,7 +346,9 @@
   "stars": 19,
   "language": "Java",
   "description": "Tencent Kona JDK25 is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-Term Support(LTS) with quarterly updates. Tencen…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -325,7 +359,9 @@
   "stars": 17,
   "language": "Java",
   "description": "nf-tencentcloud is a nextflow plugin designed to add Tencent Cloud Object storage and Tencent Healthcare Omics Platform executor adaptation support to the nextf…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -336,7 +372,9 @@
   "stars": 7,
   "language": "TypeScript",
   "description": "Skill Directory for OpenClaw",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -347,7 +385,9 @@
   "stars": 5,
   "language": "Python",
   "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -358,7 +398,9 @@
   "stars": 4,
   "language": "Rust",
   "description": "Tencent Cloud GooseFS RUST SDK ",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -369,7 +411,9 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",
@@ -380,7 +424,9 @@
   "stars": 1,
   "language": "TypeScript",
   "description": "Conditional compilation for TypeScript — C-style #if / #elif / #else / #endif macros. Build multiple products from one source tree with one Profile. Includes CL…",
-  "first_seen": "2026-11-01 17:23:13"
+  "license": null,
+  "first_seen": "2026-11-01 17:23:13",
+  "last_verified": "2026-11-15 15:33:59"
  },
  {
   "vendor": "腾讯",

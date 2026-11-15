@@ -457,17 +457,17 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 面壁智能,无,OpenBMB,OpenBMB/UltraRAG,https://github.com/OpenBMB/UltraRAG,5743,Python,.github/SECURITY.md,A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 面壁智能,无,OpenBMB,OpenBMB/EdgeClaw,https://github.com/OpenBMB/EdgeClaw,1184,TypeScript,SECURITY.md,EdgeClaw: Edge-Cloud Collaborative Personal AI Assistant based on OpenClaw
 面壁智能,无,OpenBMB,OpenBMB/llama.cpp-omni,https://github.com/OpenBMB/llama.cpp-omni,46,C++,SECURITY.md,Omni inference in C/C++
-腾讯,TSRC,Tencent,Tencent/WeKnora,https://github.com/Tencent/WeKnora,37428,Go,SECURITY.md,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-腾讯,TSRC,Tencent,Tencent/MMKV,https://github.com/Tencent/MMKV,18776,C++,SECURITY.md,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS."
-腾讯,TSRC,TencentCloud,TencentCloud/Octop,https://github.com/TencentCloud/Octop,12043,Python,SECURITY.md,"A smarter, self-hosted AI assistant — multi-user, multi-agent."
-腾讯,TSRC,Tencent,Tencent/AI-Infra-Guard,https://github.com/Tencent/AI-Infra-Guard,7506,Python,SECURITY.md,"A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
+腾讯,TSRC,Tencent,Tencent/WeKnora,https://github.com/Tencent/WeKnora,37438,Go,SECURITY.md,"Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+腾讯,TSRC,Tencent,Tencent/MMKV,https://github.com/Tencent/MMKV,18775,C++,SECURITY.md,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS."
+腾讯,TSRC,TencentCloud,TencentCloud/Octop,https://github.com/TencentCloud/Octop,12047,Python,SECURITY.md,"A smarter, self-hosted AI assistant — multi-user, multi-agent."
+腾讯,TSRC,Tencent,Tencent/AI-Infra-Guard,https://github.com/Tencent/AI-Infra-Guard,7509,Python,SECURITY.md,"A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
 腾讯,TSRC,Tencent,Tencent/cherry-markdown,https://github.com/Tencent/cherry-markdown,4931,TypeScript,SECURITY.md,✨ A Markdown Editor
-腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Memory,https://github.com/Tencent-Hunyuan/Hy-Memory,2058,Python,SECURITY.md,
+腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Memory,https://github.com/Tencent-Hunyuan/Hy-Memory,2064,Python,SECURITY.md,
 腾讯,TSRC,Tencent,Tencent/cloudbase-framework,https://github.com/Tencent/cloudbase-framework,1997,JavaScript,SECURITY.md, 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
 腾讯,TSRC,Tencent,Tencent/tquic,https://github.com/Tencent/tquic,1443,Rust,SECURITY.md,"A high-performance, lightweight, and cross-platform QUIC library"
+腾讯,TSRC,Tencent,Tencent/LoopForge,https://github.com/Tencent/LoopForge,1022,Go,SECURITY.md,"Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows fo…"
 腾讯,TSRC,Tencent,Tencent/TencentKona-8,https://github.com/Tencent/TencentKona-8,1004,Java,SECURITY.md,"Tencent Kona is a no-cost, production-ready distribution of the Open Java Development Kit (OpenJDK), Long-term support(LTS) with quarterly updates. Tencent Kona…"
-腾讯,TSRC,Tencent,Tencent/LoopForge,https://github.com/Tencent/LoopForge,826,Go,SECURITY.md,"Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows fo…"
-腾讯,TSRC,Tencent,Tencent/YOLO-Master,https://github.com/Tencent/YOLO-Master,783,Python,SECURITY.md,"[CVPR2026]🚀🚀🚀Official code for the paper   ""YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection.""   *(YOLO = You Only Lo…"
+腾讯,TSRC,Tencent,Tencent/YOLO-Master,https://github.com/Tencent/YOLO-Master,784,Python,SECURITY.md,"[CVPR2026]🚀🚀🚀Official code for the paper   ""YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection.""   *(YOLO = You Only Lo…"
 腾讯,TSRC,Tencent-Hunyuan,Tencent-Hunyuan/Hy-Nomas,https://github.com/Tencent-Hunyuan/Hy-Nomas,582,Python,SECURITY.md,Hy-Nomas: Towards Free-form Interactive World Generation
 腾讯,TSRC,wechat-miniprogram,wechat-miniprogram/sm-crypto,https://github.com/wechat-miniprogram/sm-crypto,479,JavaScript,SECURITY.md,miniprogram sm crypto library
 腾讯,TSRC,Tencent,Tencent/TencentKonaSMSuite,https://github.com/Tencent/TencentKonaSMSuite,462,Java,SECURITY.md,"Tencent Kona SM Suite contains a set of Java security providers, which support algorithms SM2, SM3 and SM4, and protocols TLCP/GMSSL, TLS 1.3 (with RFC 8998) an…"
@@ -6264,7 +6264,7 @@ Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/salesforcedx-vscode
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/design-system-react,https://github.com/salesforce/design-system-react,992,JavaScript,SECURITY.md,Salesforce Lightning Design System for React
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/OmniXAI,https://github.com/salesforce/OmniXAI,975,Jupyter Notebook,SECURITY.md,OmniXAI: A Library for eXplainable AI
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/reactive-grpc,https://github.com/salesforce/reactive-grpc,838,Java,SECURITY.md,Reactive stubs for gRPC
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/xgen,https://github.com/salesforce/xgen,727,Python,SECURITY.md,Salesforce open-source LLMs with 8k sequence length.
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/xgen,https://github.com/salesforce/xgen,728,Python,SECURITY.md,Salesforce open-source LLMs with 8k sequence length.
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/progen,https://github.com/salesforce/progen,708,Python,SECURITY.md,Official release of the ProGen models
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/UniControl,https://github.com/salesforce/UniControl,665,Python,SECURITY.md,Unified Controllable Visual Generation Model
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/ULIP,https://github.com/salesforce/ULIP,611,Python,SECURITY.md,
@@ -6274,7 +6274,7 @@ Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/PyRCA,https://github.
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/SFDX-Data-Move-Utility,https://github.com/forcedotcom/SFDX-Data-Move-Utility,559,TypeScript,SECURITY.md,SFDMU is a cutting-edge Salesforce data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple rela…
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/SalesforceMobileSDK-iOS,https://github.com/forcedotcom/SalesforceMobileSDK-iOS,553,Objective-C,SECURITY.md,iOS SDK for Salesforce
 Salesforce,HackerOne（Salesforce）,forcedotcom,forcedotcom/dataloader,https://github.com/forcedotcom/dataloader,546,Java,SECURITY.md,Salesforce Data Loader
-Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/DialogStudio,https://github.com/salesforce/DialogStudio,531,Python,SECURITY.md,DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection and Instruction-Aware Models for Conversational AI
+Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/DialogStudio,https://github.com/salesforce/DialogStudio,532,Python,SECURITY.md,DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection and Instruction-Aware Models for Conversational AI
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/warp-drive,https://github.com/salesforce/warp-drive,503,Python,SECURITY.md,Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU (JMLR 2022)
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/observable-membrane,https://github.com/salesforce/observable-membrane,412,TypeScript,SECURITY.md,A Javascript Membrane implementation using Proxies to observe mutation on an object graph
 Salesforce,HackerOne（Salesforce）,Salesforce,salesforce/DeepTime,https://github.com/salesforce/DeepTime,365,Python,SECURITY.md,PyTorch code for Learning Deep Time-index Models for Time Series Forecasting (ICML 2023)
@@ -7406,7 +7406,7 @@ EpicGames,自建（Epic Games Security）,EpicGames,EpicGames/tk-config-unrealba
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/cube,https://github.com/Roblox/cube,1322,Jupyter Notebook,SECURITY.md,Roblox Foundation Model for 3D Intelligence
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/gear,https://github.com/Roblox/gear,56,Luau,SECURITY.md,Source representation of all Roblox gear
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/libmp,https://github.com/Roblox/libmp,40,NASL,SECURITY.md,Performance data processing engine
-Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/data-stores-batch-processor-cli,https://github.com/Roblox/data-stores-batch-processor-cli,20,Luau,SECURITY.md,A CLI tool to execute arbitrary Luau code across your data
+Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/data-stores-batch-processor-cli,https://github.com/Roblox/data-stores-batch-processor-cli,21,Luau,SECURITY.md,A CLI tool to execute arbitrary Luau code across your data
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/cla-signature-bot,https://github.com/Roblox/cla-signature-bot,20,TypeScript,SECURITY.md,GitHub Action for self-contained handling of CLA signatures
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/cilium,https://github.com/Roblox/cilium,5,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability. https://github.com/cilium/cilium"
 Roblox,自建（Roblox Bug Bounty）,Roblox,Roblox/portscanner,https://github.com/Roblox/portscanner,4,Python,SECURITY.md,OSS Port Scanner to monitor network exposure in hybrid cloud environment
