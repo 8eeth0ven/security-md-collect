@@ -293,7 +293,7 @@ Apache软件基金会,无(开源基金会),apache,apache/pulsar-spring,https://g
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
 Apache软件基金会,无(开源基金会),apache,apache/.github,https://github.com/apache/.github,,,.github/SECURITY.md,
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,129072,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,67602,Go,SECURITY.md,The Prometheus monitoring system and time series database.
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,67615,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52605,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45446,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38512,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
@@ -305,7 +305,7 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19435,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17098,Go,SECURITY.md,Workflow Engine for Kubernetes
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16707,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13927,Go,SECURITY.md,Exporter for machine metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13929,Go,SECURITY.md,Exporter for machine metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13067,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12537,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12079,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
@@ -316,7 +316,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,h
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/examples,https://github.com/kubernetes/examples,6831,Shell,SECURITY.md,Kubernetes application example tutorials
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kube-state-metrics,https://github.com/kubernetes/kube-state-metrics,6238,Go,SECURITY.md,Add-on agent to generate and expose cluster-level metrics.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6049,Go,SECURITY.md,Prometheus instrumentation library for Go applications
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5942,Go,SECURITY.md,Blackbox prober exporter
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5945,Go,SECURITY.md,Blackbox prober exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/website,https://github.com/kubernetes/website,5429,HTML,SECURITY.md,Kubernetes website and documentation repo: 
 CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5184,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-node,https://github.com/grpc/grpc-node,4840,TypeScript,SECURITY.md,gRPC for Node.js
@@ -326,7 +326,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/test-infra,htt
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubeadm,https://github.com/kubernetes/kubeadm,4001,Go,SECURITY.md,Aggregator for issues filed against kubeadm
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/enhancements,https://github.com/kubernetes/enhancements,3985,Go,SECURITY.md,Enhancements tracking repo for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-rollouts,https://github.com/argoproj/argo-rollouts,3623,Go,SECURITY.md,Progressive Delivery for Kubernetes
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_js,https://github.com/prometheus/client_js,3501,JavaScript,SECURITY.md,Prometheus client for node.js
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_js,https://github.com/prometheus/client_js,3502,JavaScript,SECURITY.md,Prometheus client for node.js
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/node-problem-detector,https://github.com/kubernetes/node-problem-detector,3480,Go,SECURITY.md,This is a place for various problem detectors running on the Kubernetes nodes.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/pushgateway,https://github.com/prometheus/pushgateway,3378,Go,SECURITY.md,Push acceptor for ephemeral and batch jobs.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/jmx_exporter,https://github.com/prometheus/jmx_exporter,3335,Java,SECURITY.md,A process for collecting metrics using JMX MBeans for Prometheus consumption
@@ -346,7 +346,7 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-kotlin,https://github
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/perf-tests,https://github.com/kubernetes/perf-tests,993,Go,SECURITY.md,Performance tests and benchmarks
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/statsd_exporter,https://github.com/prometheus/statsd_exporter,990,Go,SECURITY.md,StatsD to Prometheus metrics exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/k8s.io,https://github.com/kubernetes/k8s.io,982,HCL,SECURITY.md,"Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites"
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,981,Java,SECURITY.md,Metrics exporter for Amazon AWS CloudWatch
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,982,Java,SECURITY.md,Metrics exporter for Amazon AWS CloudWatch
 CNCF云原生基金会,无(开源基金会),istio,istio/proxy,https://github.com/istio/proxy,917,Go,.github/SECURITY.md,The Istio proxy components.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dart,https://github.com/grpc/grpc-dart,891,Dart,SECURITY.md,The Dart language implementation of gRPC.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/procfs,https://github.com/prometheus/procfs,887,Go,SECURITY.md,"procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc."
@@ -356,7 +356,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/docs,https://g
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-openstack,https://github.com/kubernetes/cloud-provider-openstack,725,Go,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promlens,https://github.com/prometheus/promlens,677,TypeScript,SECURITY.md,"PromLens – The query builder, analyzer, and explainer for PromQL"
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-release,https://github.com/kubernetes/sig-release,644,Shell,.github/SECURITY.md,Repo for SIG release
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/haproxy_exporter,https://github.com/prometheus/haproxy_exporter,628,Go,SECURITY.md,Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/haproxy_exporter,https://github.com/prometheus/haproxy_exporter,629,Go,SECURITY.md,Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_rust,https://github.com/prometheus/client_rust,613,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium-cli,https://github.com/cilium/cilium-cli,612,Makefile,SECURITY.md,"CLI to install, manage & troubleshoot Kubernetes clusters running Cilium"
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/gengo,https://github.com/kubernetes/gengo,577,Go,SECURITY.md,gengo library for code generation.
@@ -367,7 +367,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/registry.k8s.i
 CNCF云原生基金会,无(开源基金会),istio,istio/api,https://github.com/istio/api,521,Go,.github/SECURITY.md,API definitions for the Istio project
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/release,https://github.com/kubernetes/release,505,Go,.github/SECURITY.md,Release infrastructure for Kubernetes and related components
 CNCF云原生基金会,无(开源基金会),istio,istio/ztunnel,https://github.com/istio/ztunnel,492,Rust,.github/SECURITY.md,The `ztunnel` component of ambient mesh
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/consul_exporter,https://github.com/prometheus/consul_exporter,471,Go,SECURITY.md,Exporter for Consul metrics
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/consul_exporter,https://github.com/prometheus/consul_exporter,470,Go,SECURITY.md,Exporter for Consul metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-aws,https://github.com/kubernetes/cloud-provider-aws,466,Go,SECURITY.md,Cloud provider for AWS
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prom2json,https://github.com/prometheus/prom2json,413,Go,SECURITY.md,A tool to scrape a Prometheus client and dump the result as JSON.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/graphite_exporter,https://github.com/prometheus/graphite_exporter,407,Go,SECURITY.md,Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
@@ -395,8 +395,8 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus-mcp
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/demo-site,https://github.com/prometheus/demo-site,128,HTML,SECURITY.md,Demo site auto-deployed with Ansible.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/auger,https://github.com/etcd-io/auger,125,Go,SECURITY.md,Directly access data objects stored in etcd by Kubernetes.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/steering,https://github.com/kubernetes/steering,101,,SECURITY.md,The Kubernetes Steering Committee
-CNCF云原生基金会,无(开源基金会),prometheus,prometheus/nagios_plugins,https://github.com/prometheus/nagios_plugins,101,Shell,SECURITY.md,Nagios plugins for alerting on Prometheus query results
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/repo-infra,https://github.com/kubernetes/repo-infra,100,Starlark,SECURITY.md,Kubernetes repository infrastucture tools
+CNCF云原生基金会,无(开源基金会),prometheus,prometheus/nagios_plugins,https://github.com/prometheus/nagios_plugins,100,Shell,SECURITY.md,Nagios plugins for alerting on Prometheus query results
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/publishing-bot,https://github.com/kubernetes/publishing-bot,93,Go,SECURITY.md,Code behind the robot to publish from staging to real repositories.
 CNCF云原生基金会,无(开源基金会),istio,istio/test-infra,https://github.com/istio/test-infra,84,Go,.github/SECURITY.md,
 CNCF云原生基金会,无(开源基金会),containerd,containerd/.project,https://github.com/containerd/.project,80,,SECURITY.md,Overall containerd project docs and governance details
@@ -3944,7 +3944,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/makerspace-pcb2cnc,https://github.com/google/makerspace-pcb2cnc,0,Python,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/.github,https://github.com/google/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/secure-cua,https://github.com/google/secure-cua,0,Python,SECURITY.md,
-Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105483,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Meta,自建（Meta Bug Bounty）,pytorch,pytorch/pytorch,https://github.com/pytorch/pytorch,105514,Python,SECURITY.md,Tensors and Dynamic neural networks in Python with strong GPU acceleration
 Meta,自建（Meta Bug Bounty）,Meta,meta/zstd,https://github.com/meta/zstd,28250,C,SECURITY.md,Zstandard - Fast real-time compression algorithm
 Meta,自建（Meta Bug Bounty）,Meta,meta/astryx,https://github.com/meta/astryx,27937,TypeScript,SECURITY.md,An open source design system that's fully customizable and agent ready
 Meta,自建（Meta Bug Bounty）,Meta,meta/hhvm,https://github.com/meta/hhvm,18685,C++,SECURITY.md,A virtual machine for executing programs written in Hack.
@@ -7846,7 +7846,7 @@ MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-cli,https://github.com/
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/atlas-cli-plugin-kubernetes,https://github.com/mongodb/atlas-cli-plugin-kubernetes,6,Go,SECURITY.md,Kubernetes plugin for the AtlasCLI
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/tines-claude,https://github.com/mongodb/tines-claude,2,Python,SECURITY.md,A Claude Skill and MCP server for Tines
 MongoDB,自建PSIRT（MongoDB）,mongodb,mongodb/mongodb-atlas-cli-2,https://github.com/mongodb/mongodb-atlas-cli-2,2,Go,SECURITY.md,MongoDB Atlas CLI and MongoDB CLI enable you to manage your MongoDB in the Cloud
-Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77494,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
+Redis,自建PSIRT（Redis）,redis,redis/redis,https://github.com/redis/redis,77524,C,SECURITY.md,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and do…"
 Redis,自建PSIRT（Redis）,redis,redis/go-redis,https://github.com/redis/go-redis,22289,Go,SECURITY.md,Redis Go client
 Redis,自建PSIRT（Redis）,redis,redis/node-redis,https://github.com/redis/node-redis,17595,TypeScript,SECURITY.md,Redis Node.js client
 Redis,自建PSIRT（Redis）,redis,redis/ioredis,https://github.com/redis/ioredis,15355,TypeScript,SECURITY.md,"🚀 A robust, performance-focused, and full-featured Redis client for Node.js."
