@@ -588,11 +588,11 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 蚂蚁集团,蚂蚁SRC,antgroup,antgroup/xquic,https://github.com/antgroup/xquic,0,C,SECURITY.md,XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-rpc-1,https://github.com/sofastack/sofa-rpc-1,0,Java,SECURITY.md,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework."
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-boot-3,https://github.com/sofastack/sofa-boot-3,0,Java,SECURITY.md,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc."
-字节跳动,字节跳动SRC,bytedance,bytedance/deer-flow,https://github.com/bytedance/deer-flow,85346,Python,SECURITY.md,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga…"
+字节跳动,字节跳动SRC,bytedance,bytedance/deer-flow,https://github.com/bytedance/deer-flow,85357,Python,SECURITY.md,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga…"
 字节跳动,字节跳动SRC,bytedance,bytedance/UI-TARS-desktop,https://github.com/bytedance/UI-TARS-desktop,39598,TypeScript,SECURITY.md,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 字节跳动,字节跳动SRC,cloudwego,cloudwego/volo,https://github.com/cloudwego/volo,2640,Rust,SECURITY.md,Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 字节跳动,字节跳动SRC,bytedance,bytedance/bhook,https://github.com/bytedance/bhook,2632,C,SECURITY.md,通用的Android PLT hook库，支持armeabi-v7a，arm64-v8a，x86，x86_64
-字节跳动,字节跳动SRC,bytedance,bytedance/android-inline-hook,https://github.com/bytedance/android-inline-hook,2451,C,SECURITY.md,通用的Android inline hook库，支持thumb，arm32，arm64
+字节跳动,字节跳动SRC,bytedance,bytedance/android-inline-hook,https://github.com/bytedance/android-inline-hook,2452,C,SECURITY.md,通用的Android inline hook库，支持thumb，arm32，arm64
 字节跳动,字节跳动SRC,bytedance,bytedance/Lance,https://github.com/bytedance/Lance,1368,Python,SECURITY.md,"A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
 字节跳动,字节跳动SRC,cloudwego,cloudwego/motore,https://github.com/cloudwego/motore,281,Rust,SECURITY.md,Async middleware abstraction powered by AFIT and RPITIT.
 字节跳动,字节跳动SRC,cloudwego,cloudwego/pilota,https://github.com/cloudwego/pilota,170,Rust,SECURITY.md,A thrift and protobuf implementation in pure rust with high performance and extensibility.
@@ -8413,6 +8413,10 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/turtlebot3c-
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/pc-amd64-gadget-desktop,https://github.com/canonical/pc-amd64-gadget-desktop,4,Shell,SECURITY.md,This repository contains the official Ubuntu Core gadget snap for 64bit Personal Computers using Intel or AMD processors.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/rawfile-localpv,https://github.com/canonical/rawfile-localpv,4,Python,SECURITY.md,Dynamic Hostpath Local Volumes for Kubernetes Stateful workloads
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/mesa-2604,https://github.com/canonical/mesa-2604,3,Rust,SECURITY.md,Mesa 3D Graphics Library for `base: core24` Snaps
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-geonames-operator,https://github.com/canonical/ubuntu-geonames-operator,3,Python,SECURITY.md,Charm for geoname-lookup.ubuntu.com
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-autosync-operator,https://github.com/canonical/ubuntu-autosync-operator,3,Python,SECURITY.md,> Ubuntu Autosync Service
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/transition-tracker-operator,https://github.com/canonical/transition-tracker-operator,3,Python,SECURITY.md,Charm for the Ubuntu transition tracker
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-sponsoring-operator,https://github.com/canonical/ubuntu-sponsoring-operator,3,Python,SECURITY.md,Generate and publish the Ubuntu sponsoring report
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/pytest-jubilant,https://github.com/canonical/pytest-jubilant,3,Python,SECURITY.md,Makes integration tests jubilanter.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/awspub,https://github.com/canonical/awspub,3,Python,SECURITY.md,AWS EC2 image publication tool
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/mysql-operators,https://github.com/canonical/mysql-operators,3,Python,SECURITY.md,Charmed operators for MySQL Server
@@ -8525,10 +8529,7 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/anbox-cloud-
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/temporal-lib-go,https://github.com/canonical/temporal-lib-go,2,Go,SECURITY.md,A wrapper library of temporalio/sdk-go which adds candid-based authentication and encryption.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/prometheus-rock,https://github.com/canonical/prometheus-rock,2,Just,SECURITY.md,A ROCK for Prometheus
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/smartctl-exporter-snap,https://github.com/canonical/smartctl-exporter-snap,1,Python,SECURITY.md,Snap package for smartctl_exporter
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-geonames-operator,https://github.com/canonical/ubuntu-geonames-operator,1,Python,SECURITY.md,Charm for geoname-lookup.ubuntu.com
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/opentelemetry-collector-k8s-operator,https://github.com/canonical/opentelemetry-collector-k8s-operator,1,Python,SECURITY.md,"This charmed operator automates the operational procedures of running OpenTelemetry Collector, an open-source telemetry collector."
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/transition-tracker-operator,https://github.com/canonical/transition-tracker-operator,1,Python,SECURITY.md,Charm for the Ubuntu transition tracker
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-sponsoring-operator,https://github.com/canonical/ubuntu-sponsoring-operator,1,Python,SECURITY.md,Generate and publish the Ubuntu sponsoring report
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-packages-operator,https://github.com/canonical/ubuntu-packages-operator,1,Python,SECURITY.md,Charm for packages.ubuntu.com
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-copy-report-operator,https://github.com/canonical/ubuntu-copy-report-operator,1,Python,SECURITY.md,Ubuntu Archive service copying packages between pockets
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-auto-accept-operator,https://github.com/canonical/ubuntu-auto-accept-operator,1,Python,SECURITY.md,accepts safe uploads from the Ubuntu-devel unapproved queue
@@ -8687,7 +8688,6 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/charmed-nifi
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/snmp-exporter-operator,https://github.com/canonical/snmp-exporter-operator,1,Python,SECURITY.md,SNMP exporter for COS.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/opensearch-k8s-operator,https://github.com/canonical/opensearch-k8s-operator,1,Python,SECURITY.md,OpenSearch Kubernetes Charm
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/kubeflow-dashboard-rocks,https://github.com/canonical/kubeflow-dashboard-rocks,1,Python,SECURITY.md,Rocks for Kubeflow Dashboard components
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-autosync-operator,https://github.com/canonical/ubuntu-autosync-operator,,Python,SECURITY.md,Ubuntu Autosync Service
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/sso-service-operator,https://github.com/canonical/sso-service-operator,,,SECURITY.md,Charmed operator for the Canonical Identity Platform SSO Service
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/snap-tempest-automation,https://github.com/canonical/snap-tempest-automation,,Python,SECURITY.md,Automation for snap-tempest updates
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/robigus,https://github.com/canonical/robigus,,Rust,SECURITY.md,Rust libraries and tools for packaging automation 
@@ -9805,9 +9805,9 @@ Spotify,自建BB,spotify,spotify/bazel,https://github.com/spotify/bazel,0,Java,S
 8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jicoco,https://github.com/jitsi/jicoco,21,Kotlin,SECURITY.md,Jitsi Common Components
 8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jitsi-utils,https://github.com/jitsi/jitsi-utils,21,Java,SECURITY.md,A set of basic Java/Kotlin utilities used in Jitsi projects.
 8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/changed-files,https://github.com/jitsi/changed-files,0,TypeScript,SECURITY.md,":octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories."
-AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/harness-sdk,https://github.com/strands-agents/harness-sdk,9212,TypeScript,SECURITY.md,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
-AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/box,https://github.com/strands-agents/box,546,Rust,SECURITY.md,"Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood poli…"
-AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/shell,https://github.com/strands-agents/shell,300,Rust,SECURITY.md,Give your agent a shell without giving it the keys to your machine.
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/harness-sdk,https://github.com/strands-agents/harness-sdk,9217,TypeScript,SECURITY.md,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/box,https://github.com/strands-agents/box,547,Rust,SECURITY.md,"Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood poli…"
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/shell,https://github.com/strands-agents/shell,301,Rust,SECURITY.md,Give your agent a shell without giving it the keys to your machine.
 AWS VDP,公开平台范围（仅用于策略发现）,deepjavalibrary,deepjavalibrary/djl-serving,https://github.com/deepjavalibrary/djl-serving,257,Java,SECURITY.md,A universal scalable machine learning model deployment solution
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/vulnerability-scan-github-action-for-amazon-inspector,https://github.com/aws-actions/vulnerability-scan-github-action-for-amazon-inspector,60,Python,SECURITY.md,Scan artifacts with Amazon Inspector from GitHub Actions workflows.
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/codeguru-security,https://github.com/aws-actions/codeguru-security,12,,SECURITY.md,
@@ -10420,12 +10420,12 @@ RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/rpki-va
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/db-web-ui,https://github.com/RIPE-NCC/db-web-ui,12,TypeScript,SECURITY.md,RIPE Database Web Application
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/ripe-database-documentation,https://github.com/RIPE-NCC/ripe-database-documentation,7,Shell,SECURITY.md,RIPE Database Documentation
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/pretalx,https://github.com/RIPE-NCC/pretalx,1,Python,.github/SECURITY.md,"Conference planning tool: CfP, scheduling, speaker management"
-Revive Adserver,公开平台范围（仅用于策略发现）,revive-adserver,revive-adserver/revive-adserver,https://github.com/revive-adserver/revive-adserver,1521,PHP,SECURITY.md,"The world's most popular free, open source ad serving system. You can download the latest release at:"
-Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/ruby,https://github.com/ruby/ruby,23813,Ruby,.github/SECURITY.md,The Ruby Programming Language
-Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/rubygems,https://github.com/ruby/rubygems,3990,Ruby,SECURITY.md,Library packaging and distribution for Ruby.
+Revive Adserver,公开平台范围（仅用于策略发现）,revive-adserver,revive-adserver/revive-adserver,https://github.com/revive-adserver/revive-adserver,1522,PHP,SECURITY.md,"The world's most popular free, open source ad serving system. You can download the latest release at:"
+Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/ruby,https://github.com/ruby/ruby,23812,Ruby,.github/SECURITY.md,The Ruby Programming Language
+Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/rubygems,https://github.com/ruby/rubygems,3991,Ruby,SECURITY.md,Library packaging and distribution for Ruby.
 Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/gem_rbs_collection,https://github.com/ruby/gem_rbs_collection,302,Ruby,docs/SECURITY.md,A collection of RBS for gems.
 Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/.github,https://github.com/ruby/.github,2,,SECURITY.md,
-Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/rails,https://github.com/rails/rails,59095,Ruby,.github/security.md,Ruby on Rails
+Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/rails,https://github.com/rails/rails,59108,Ruby,.github/security.md,Ruby on Rails
 Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/marcel,https://github.com/rails/marcel,466,Ruby,SECURITY.md,"Find the mime type of files, examining file, filename and declared type"
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/dangerzone,https://github.com/freedomofpress/dangerzone,5843,Python,SECURITY.md,"Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs"
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop,https://github.com/freedomofpress/securedrop,3896,Python,SECURITY.md,GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
@@ -10438,17 +10438,17 @@ SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomo
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-workstation-keyring,https://github.com/freedomofpress/securedrop-workstation-keyring,0,Makefile,SECURITY.md,
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/wagtail-vega,https://github.com/freedomofpress/wagtail-vega,0,Python,docs/security.md,Proof of concept integration of Wagtail and Vega
 Solidus,公开平台范围（仅用于策略发现）,solidusio,solidusio/.github,https://github.com/solidusio/.github,1,,SECURITY.md,
-Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/realtime,https://github.com/supabase/realtime,7683,Elixir,SECURITY.md,"Broadcast, Presence, and Postgres Changes via WebSockets"
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/realtime,https://github.com/supabase/realtime,7684,Elixir,SECURITY.md,"Broadcast, Presence, and Postgres Changes via WebSockets"
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/pg_graphql,https://github.com/supabase/pg_graphql,3365,Rust,SECURITY.md,GraphQL support for PostgreSQL 
-Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/mcp,https://github.com/supabase/mcp,3012,TypeScript,SECURITY.md,Connect Supabase to your AI assistants
-Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/auth,https://github.com/supabase/auth,2602,Go,SECURITY.md,A JWT based API for managing users and issuing JWT tokens
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/mcp,https://github.com/supabase/mcp,3014,TypeScript,SECURITY.md,Connect Supabase to your AI assistants
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/auth,https://github.com/supabase/auth,2603,Go,SECURITY.md,A JWT based API for managing users and issuing JWT tokens
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/cli,https://github.com/supabase/cli,2467,TypeScript,SECURITY.md,"Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema."
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/etl,https://github.com/supabase/etl,2352,Rust,SECURITY.md,A high-performance Postgres replication engine written in Rust. Embed it in your Rust application or run it as a standalone binary.
-Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/supavisor,https://github.com/supabase/supavisor,2286,Elixir,SECURITY.md,"A cloud-native, multi-tenant Postgres connection pooler."
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/supavisor,https://github.com/supabase/supavisor,2287,Elixir,SECURITY.md,"A cloud-native, multi-tenant Postgres connection pooler."
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/postgres,https://github.com/supabase/postgres,1808,Nix,SECURITY.md,Unmodified Postgres with some useful extensions
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/index_advisor,https://github.com/supabase/index_advisor,1709,PLpgSQL,SECURITY.md,PostgreSQL Index Advisor
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/storage,https://github.com/supabase/storage,1354,TypeScript,SECURITY.md,S3 compatible object storage service that stores metadata in Postgres
-Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/postgres-meta,https://github.com/supabase/postgres-meta,1266,TypeScript,SECURITY.md,"A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries"
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/postgres-meta,https://github.com/supabase/postgres-meta,1267,TypeScript,SECURITY.md,"A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries"
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/pg_jsonschema,https://github.com/supabase/pg_jsonschema,1208,Rust,SECURITY.md,PostgreSQL extension providing JSON Schema validation
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/wrappers,https://github.com/supabase/wrappers,900,Rust,SECURITY.md,Postgres Foreign Data Wrapper development framework in Rust.
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/dbdev,https://github.com/supabase/dbdev,443,TypeScript,SECURITY.md,Database Package Registry for Postgres
@@ -10513,19 +10513,19 @@ Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,world
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/world-id-proof-verification,https://github.com/worldcoin/world-id-proof-verification,0,Rust,SECURITY.md,world-id-proof-verification repository
 Valve,公开平台范围（仅用于策略发现）,valvesoftware,ValveSoftware/GameNetworkingSockets,https://github.com/ValveSoftware/GameNetworkingSockets,10073,C++,SECURITY.md,Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
 Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,61076,TypeScript,SECURITY.md,The full-stack Vue framework.
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,32491,TypeScript,.github/SECURITY.md,React Hooks for Data Fetching
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,31346,Rust,SECURITY.md,The build system for coding agents.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,32490,TypeScript,.github/SECURITY.md,React Hooks for Data Fetching
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,31345,Rust,SECURITY.md,The build system for coding agents.
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,30748,TypeScript,SECURITY.md,The most comprehensive authentication framework
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai,https://github.com/vercel/ai,27953,TypeScript,.github/SECURITY.md,"The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents "
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/agent-desktop,https://github.com/vercel-labs/agent-desktop,23750,Rust,SECURITY.md,Computer use CLI for AI agents
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/deepsec,https://github.com/vercel-labs/deepsec,8414,TypeScript,SECURITY.md,Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/next-forge,https://github.com/vercel/next-forge,7780,TypeScript,.github/SECURITY.md,Production-grade Turborepo template for Next.js apps.
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/eve,https://github.com/vercel/eve,5905,TypeScript,SECURITY.md,The Open Framework for Building Agents
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai,https://github.com/vercel/ai,27972,TypeScript,.github/SECURITY.md,"The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents "
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/agent-desktop,https://github.com/vercel-labs/agent-desktop,23964,Rust,SECURITY.md,Computer use CLI for AI agents
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/deepsec,https://github.com/vercel-labs/deepsec,8415,TypeScript,SECURITY.md,Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/next-forge,https://github.com/vercel/next-forge,7781,TypeScript,.github/SECURITY.md,Production-grade Turborepo template for Next.js apps.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/eve,https://github.com/vercel/eve,5907,TypeScript,SECURITY.md,The Open Framework for Building Agents
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/streamdown,https://github.com/vercel/streamdown,5764,TypeScript,.github/SECURITY.md,"A drop-in replacement for react-markdown, designed for AI-powered streaming."
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/ui,https://github.com/vercel-labs/ui,4558,TypeScript,SECURITY.md,A library of behaviors for agents to build the next generation of user interfaces.
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai-elements,https://github.com/vercel/ai-elements,2526,TypeScript,.github/SECURITY.md,AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/ui,https://github.com/vercel-labs/ui,4713,TypeScript,SECURITY.md,A library of behaviors for agents to build the next generation of user interfaces.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai-elements,https://github.com/vercel/ai-elements,2528,TypeScript,.github/SECURITY.md,AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/chat,https://github.com/vercel/chat,2480,TypeScript,.github/SECURITY.md,Universal chat layer for building bots and agents.
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/lat.md,https://github.com/vercel-labs/lat.md,2074,TypeScript,SECURITY.md,"Agent Lattice: a knowledge graph for your codebase, written in markdown."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/lat.md,https://github.com/vercel-labs/lat.md,2076,TypeScript,SECURITY.md,"Agent Lattice: a knowledge graph for your codebase, written in markdown."
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-hub,https://github.com/better-auth/better-hub,1268,TypeScript,SECURITY.md,Re-imagining code collaboration for humans and agents
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/knowledge-agent-template,https://github.com/vercel-labs/knowledge-agent-template,1084,TypeScript,SECURITY.md,Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/tersa,https://github.com/vercel-labs/tersa,1048,TypeScript,.github/SECURITY.md,Tersa is an open source canvas for building AI workflows.

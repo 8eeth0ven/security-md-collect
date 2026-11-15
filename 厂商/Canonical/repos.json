@@ -1886,6 +1886,50 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/ubuntu-geonames-operator",
+  "url": "https://github.com/canonical/ubuntu-geonames-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Charm for geoname-lookup.ubuntu.com",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/ubuntu-autosync-operator",
+  "url": "https://github.com/canonical/ubuntu-autosync-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "> Ubuntu Autosync Service",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/transition-tracker-operator",
+  "url": "https://github.com/canonical/transition-tracker-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Charm for the Ubuntu transition tracker",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/ubuntu-sponsoring-operator",
+  "url": "https://github.com/canonical/ubuntu-sponsoring-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Generate and publish the Ubuntu sponsoring report",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/pytest-jubilant",
   "url": "https://github.com/canonical/pytest-jubilant",
   "sec_path": "SECURITY.md",
@@ -3122,45 +3166,12 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/ubuntu-geonames-operator",
-  "url": "https://github.com/canonical/ubuntu-geonames-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "Charm for geoname-lookup.ubuntu.com",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/opentelemetry-collector-k8s-operator",
   "url": "https://github.com/canonical/opentelemetry-collector-k8s-operator",
   "sec_path": "SECURITY.md",
   "stars": 1,
   "language": "Python",
   "description": "This charmed operator automates the operational procedures of running OpenTelemetry Collector, an open-source telemetry collector.",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/transition-tracker-operator",
-  "url": "https://github.com/canonical/transition-tracker-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "Charm for the Ubuntu transition tracker",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/ubuntu-sponsoring-operator",
-  "url": "https://github.com/canonical/ubuntu-sponsoring-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "Generate and publish the Ubuntu sponsoring report",
   "first_seen": "2026-11-01 18:39:48"
  },
  {
@@ -4901,17 +4912,6 @@
   "description": "Rocks for Kubeflow Dashboard components",
   "license": null,
   "first_seen": "2026-11-13 16:31:59"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/ubuntu-autosync-operator",
-  "url": "https://github.com/canonical/ubuntu-autosync-operator",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "Python",
-  "description": "Ubuntu Autosync Service",
-  "first_seen": "2026-11-01 18:39:48"
  },
  {
   "vendor": "Canonical",
