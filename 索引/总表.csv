@@ -292,12 +292,12 @@ Apache软件基金会,无(开源基金会),apache,apache/hadoop-cloudstore,https
 Apache软件基金会,无(开源基金会),apache,apache/pulsar-spring,https://github.com/apache/pulsar-spring,2,Java,SECURITY.md,Apache Pulsar support for Spring
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
 Apache软件基金会,无(开源基金会),apache,apache/.github,https://github.com/apache/.github,,,.github/SECURITY.md,
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,129072,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,129077,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,67615,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52607,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45446,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38512,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32246,Go,SECURITY.md,Run Kubernetes locally
+CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38513,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32247,Go,SECURITY.md,Run Kubernetes locally
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29238,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25840,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24612,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
@@ -309,7 +309,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13067,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12537,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12078,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kompose,https://github.com/kubernetes/kompose,10646,Go,SECURITY.md,Convert Compose to Kubernetes
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kompose,https://github.com/kubernetes/kompose,10647,Go,SECURITY.md,Convert Compose to Kubernetes
 CNCF云原生基金会,无(开源基金会),containerd,containerd/nerdctl,https://github.com/containerd/nerdctl,10482,Go,SECURITY.md,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-web,https://github.com/grpc/grpc-web,9260,JavaScript,SECURITY.md,gRPC for Web Clients
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/alertmanager,https://github.com/prometheus/alertmanager,8700,Go,SECURITY.md,Prometheus Alertmanager
@@ -322,7 +322,7 @@ CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://githu
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-node,https://github.com/grpc/grpc-node,4840,TypeScript,SECURITY.md,gRPC for Node.js
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dotnet,https://github.com/grpc/grpc-dotnet,4488,C#,SECURITY.md,gRPC for .NET
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_python,https://github.com/prometheus/client_python,4386,Python,SECURITY.md,Prometheus instrumentation library for Python applications
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/test-infra,https://github.com/kubernetes/test-infra,4027,Go,SECURITY.md,Test infrastructure for the Kubernetes project.
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/test-infra,https://github.com/kubernetes/test-infra,4026,Go,SECURITY.md,Test infrastructure for the Kubernetes project.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubeadm,https://github.com/kubernetes/kubeadm,4001,Go,SECURITY.md,Aggregator for issues filed against kubeadm
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/enhancements,https://github.com/kubernetes/enhancements,3985,Go,SECURITY.md,Enhancements tracking repo for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-rollouts,https://github.com/argoproj/argo-rollouts,3623,Go,SECURITY.md,Progressive Delivery for Kubernetes
@@ -364,7 +364,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/design-proposa
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/klog,https://github.com/kubernetes/klog,561,Go,SECURITY.md,Leveled execution logs for Go (fork of https://github.com/golang/glog)
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_ruby,https://github.com/prometheus/client_ruby,559,Ruby,SECURITY.md,Prometheus instrumentation library for Ruby applications
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/registry.k8s.io,https://github.com/kubernetes/registry.k8s.io,537,Go,SECURITY.md,"This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes' container image artifacts"
-CNCF云原生基金会,无(开源基金会),istio,istio/api,https://github.com/istio/api,521,Go,.github/SECURITY.md,API definitions for the Istio project
+CNCF云原生基金会,无(开源基金会),istio,istio/api,https://github.com/istio/api,522,Go,.github/SECURITY.md,API definitions for the Istio project
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/release,https://github.com/kubernetes/release,505,Go,.github/SECURITY.md,Release infrastructure for Kubernetes and related components
 CNCF云原生基金会,无(开源基金会),istio,istio/ztunnel,https://github.com/istio/ztunnel,492,Rust,.github/SECURITY.md,The `ztunnel` component of ambient mesh
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/consul_exporter,https://github.com/prometheus/consul_exporter,470,Go,SECURITY.md,Exporter for Consul metrics
@@ -1016,7 +1016,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/pxt,https://github.com/microsoft/pxt,2314,TypeScript,SECURITY.md,Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-sdk-for-js,https://github.com/Azure/azure-sdk-for-js,2303,TypeScript,SECURITY.md,This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public develope…
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Azurite,https://github.com/Azure/Azurite,2302,TypeScript,SECURITY.md,A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/intelligent-terminal,https://github.com/microsoft/intelligent-terminal,2221,C++,SECURITY.md,"A fork of Windows Terminal with native agent integration, right in your command line."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/DirectXTex,https://github.com/microsoft/DirectXTex,2180,C++,SECURITY.md,DirectXTex texture processing library
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/pylance-release,https://github.com/microsoft/pylance-release,2170,Python,SECURITY.md,Documentation and issues for Pylance
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Microsoft.IO.RecyclableMemoryStream,https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream,2154,C#,SECURITY.md,A library to provide pooling for .NET MemoryStream objects to improve application performance. 
@@ -1036,7 +1035,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/DiskANN,https://github.com/microsoft/DiskANN,1973,Rust,SECURITY.md,"A vector indexing library to bring fast, fresh and filtered search to your database"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/AdaptiveCards,https://github.com/microsoft/AdaptiveCards,1973,C#,SECURITY.md,A new way for developers to exchange card content in a common and consistent way.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Enterprise-Scale,https://github.com/Azure/Enterprise-Scale,1968,PowerShell,SECURITY.md,"The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles acros…"
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/openvmm,https://github.com/microsoft/openvmm,1966,Rust,SECURITY.md,Home of OpenVMM and OpenHCL
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vscode-eslint,https://github.com/microsoft/vscode-eslint,1964,TypeScript,SECURITY.md,VSCode extension to integrate eslint into VSCode
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Microsoft-Defender-for-Cloud,https://github.com/Azure/Microsoft-Defender-for-Cloud,1960,PowerShell,SECURITY.md,Welcome to the Microsoft Defender for Cloud community repository
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/windows-drivers-rs,https://github.com/microsoft/windows-drivers-rs,1940,Rust,SECURITY.md,Platform that enables Windows driver development in Rust
@@ -1216,7 +1214,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/OptiGuide,https://github.com/microsoft/OptiGuide,731,Python,SECURITY.md,GenAI for Optimization and Decision Intelligence
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/dotnet-monitor,https://github.com/dotnet/dotnet-monitor,726,C#,SECURITY.md,This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/Nerdbank.Streams,https://github.com/dotnet/Nerdbank.Streams,723,C#,SECURITY.md,"Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing"
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/BCApps,https://github.com/microsoft/BCApps,723,AL,SECURITY.md,Repository for collaboration on Microsoft Dynamics 365 Business Central applications.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Community-Policy,https://github.com/Azure/Community-Policy,710,Open Policy Agent,SECURITY.md,This repo is for Microsoft Azure customers and Microsoft teams to collaborate in making custom policies. 
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,dotnet,dotnet/HttpRepl,https://github.com/dotnet/HttpRepl,707,C#,SECURITY.md,"The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for makin…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/application-gateway-kubernetes-ingress,https://github.com/Azure/application-gateway-kubernetes-ingress,702,Go,SECURITY.md,This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
@@ -1385,6 +1382,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/regorus,https://github.com/microsoft/regorus,371,Rust,SECURITY.md,"Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/Microsoft365R,https://github.com/Azure/Microsoft365R,368,R,SECURITY.md,R SDK for interacting with Microsoft 365 APIs
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Xbox-GDK-Samples,https://github.com/microsoft/Xbox-GDK-Samples,366,C++,SECURITY.md,Game development samples published by the Xbox Advanced Technology Group using the Microsoft GDK.
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/agent-365-guide,https://github.com/microsoft/agent-365-guide,365,Python,SECURITY.md,"Step-by-step security configuration guide for Microsoft Agent 365 — from agent creation to identity, data protection, and runtime monitoring across Entra, Purvi…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Windows-rust-driver-samples,https://github.com/microsoft/Windows-rust-driver-samples,363,Rust,SECURITY.md,Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/D3D12TranslationLayer,https://github.com/microsoft/D3D12TranslationLayer,362,C++,SECURITY.md,A library containing utilities for mapping higher-level graphics work to D3D12
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-saas,https://github.com/Azure/azure-saas,361,C#,SECURITY.md,"The Azure SaaS Development Kit (ASDK) provides a reference architecture, deployable reference implementation and tools to help developers, startups, ISVs and En…"
@@ -2016,7 +2014,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/pytorch-cloud-geotiff-optimization,https://github.com/microsoft/pytorch-cloud-geotiff-optimization,60,Python,SECURITY.md,A toolkit for optimizing cloud GeoTIFF streaming in PyTorch. Achieves 20x throughput and 90% GPU utilization through optimized data loading and compression. Pap…
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/startstopv2-deployments,https://github.com/microsoft/startstopv2-deployments,60,,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/container-upstream,https://github.com/Azure/container-upstream,59,,SECURITY.md,"This project captures work in progress, and completed work for the Azure Core Container Upstream team"
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/ntosebpfext,https://github.com/microsoft/ntosebpfext,59,PowerShell,SECURITY.md,eBPF-For-Windows extension to provide access to Windows kernel functionality
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/react-azure-maps,https://github.com/Azure/react-azure-maps,58,TypeScript,SECURITY.md,React Wrapper for azure-maps-control
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/arc_jumpstart_docs,https://github.com/Azure/arc_jumpstart_docs,58,Python,SECURITY.md,A public repo for hosting the Arc Jumpstart docs
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/agent-innovator-lab,https://github.com/Azure/agent-innovator-lab,58,Jupyter Notebook,SECURITY.md,"Agent Innovator Lab – building AI agents on Azure, covering search optimization, agent design, evaluation, and RAG best practices."
@@ -3212,10 +3209,13 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vscode,https://github.com/microsoft/vscode,3,TypeScript,SECURITY.md,> Visual Studio Code
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/mu_feature_ffa,https://github.com/microsoft/mu_feature_ffa,3,C,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/docusaurus-plugin-application-insights,https://github.com/microsoft/docusaurus-plugin-application-insights,3,TypeScript,SECURITY.md,A Docusaurus plugin to integrate Microsoft Application Insights
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/BCApps,https://github.com/microsoft/BCApps,3,AL,SECURITY.md,Repository for collaboration on Microsoft Dynamics 365 Business Central applications.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Analytics-Hub,https://github.com/microsoft/Analytics-Hub,3,JavaScript,SECURITY.md,"A central hub for analytics resources, linking to repositories, guides, and templates leveraging MAC, Purview, and Viva Insights."
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/intelligent-terminal,https://github.com/microsoft/intelligent-terminal,3,C++,SECURITY.md,"A fork of Windows Terminal with native agent integration, right in your command line."
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/nvx,https://github.com/microsoft/nvx,3,Rust,SECURITY.md,Cross-Platform Micro-VM Sandbox for Agentic Workloads
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/rulesxp,https://github.com/microsoft/rulesxp,3,Rust,SECURITY.md,Mini Rules evaluator for JSONLogic or S-expression based rules
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-unified,https://github.com/microsoft/amplifier-unified,3,Python,SECURITY.md,Unified shell for the Amplifier project
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/openvmm,https://github.com/microsoft/openvmm,3,Rust,SECURITY.md,> Home of OpenVMM and OpenHCL
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/FLAML,https://github.com/microsoft/FLAML,3,Jupyter Notebook,SECURITY.md,A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-smart-tools-catalog,https://github.com/microsoft/amplifier-smart-tools-catalog,3,Python,SECURITY.md,> Amplifier Smart Tools Catalog
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/vscode-automated-sanity-checker,https://github.com/microsoft/vscode-automated-sanity-checker,3,TypeScript,SECURITY.md,
@@ -3264,6 +3264,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/dbt-scope,https://github.com/microsoft/dbt-scope,3,Python,SECURITY.md,Bringing dbt to SCOPE
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/onnxruntime-github-actions,https://github.com/microsoft/onnxruntime-github-actions,3,JavaScript,SECURITY.md,Reusable GitHub Actions for ONNX Runtime repos. The actions are used for constructing ONNX Runtime's public pull request pipelines.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/kiota-bundle-php,https://github.com/microsoft/kiota-bundle-php,3,PHP,SECURITY.md,Bundle library that regroups all the default implementations for PHP clients.
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/ntosebpfext,https://github.com/microsoft/ntosebpfext,3,PowerShell,SECURITY.md,eBPF-For-Windows extension to provide access to Windows kernel functionality
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/kafka-sink-ms-fabric,https://github.com/microsoft/kafka-sink-ms-fabric,3,Java,SECURITY.md,A kafka sink using Kafka connect to Microsoft Fabric
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Azure_Local_Physical_Network_Config_Tool,https://github.com/microsoft/Azure_Local_Physical_Network_Config_Tool,3,Python,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-module-provider-anthropic,https://github.com/microsoft/amplifier-module-provider-anthropic,3,Python,SECURITY.md,Reference implementation for an Anthropic provider for the Amplifier project
@@ -3376,7 +3377,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-bundle-context-managed,https://github.com/microsoft/amplifier-bundle-context-managed,2,Python,SECURITY.md,Managed context manager bundle for the Amplifier project
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-work-tracker,https://github.com/microsoft/amplifier-work-tracker,2,Python,SECURITY.md,Work Tracker for the Amplifier project
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/jpeg2000_rs,https://github.com/microsoft/jpeg2000_rs,2,Rust,SECURITY.md,Rust implementation of a JPEG2000 decoder
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/agent-365-guide,https://github.com/microsoft/agent-365-guide,2,Python,SECURITY.md,"Step-by-step security configuration guide for Microsoft Agent 365 — from agent creation to identity, data protection, and runtime monitoring across Entra, Purvi…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/mechanisms_matter,https://github.com/microsoft/mechanisms_matter,2,Python,SECURITY.md,"We formalize cellular perturbation response prediction as a causal transportability problem, using a novel causal simulator and diversity-aware metrics on Pertu…"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/ghc-cli-dashboard,https://github.com/microsoft/ghc-cli-dashboard,2,Python,SECURITY.md,Token usage dashboard for GitHub Copilot CLI
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/amplifier-bundle-computer-use,https://github.com/microsoft/amplifier-bundle-computer-use,2,Python,SECURITY.md,Computer Use bundle for the Amplifier project
@@ -4992,7 +4992,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/DML,https://github.com/intel/DML,
 Intel,自建（Intel Bug Bounty）,intel,intel/tbtools,https://github.com/intel/tbtools,99,Rust,SECURITY.md,Thunderbolt/USB4 debugging tools
 Intel,自建（Intel Bug Bounty）,intel,intel/fpga-partial-reconfig,https://github.com/intel/fpga-partial-reconfig,93,SystemVerilog,SECURITY.md,"Tutorials, scripts and reference designs for the Intel FPGA partial reconfiguration (PR) design flow"
 Intel,自建（Intel Bug Bounty）,intel,intel/drivers.gpu.control-library,https://github.com/intel/drivers.gpu.control-library,92,C,SECURITY.md,
-Intel,自建（Intel Bug Bounty）,intel,intel/sycl-tla,https://github.com/intel/sycl-tla,92,C++,SECURITY.md,SYCL* Templates for Linear Algebra (SYCL*TLA) - SYCL based CUTLASS implementation for Intel GPUs 
 Intel,自建（Intel Bug Bounty）,intel,intel/kubernetes-power-manager,https://github.com/intel/kubernetes-power-manager,91,Go,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/dptf,https://github.com/intel/dptf,90,C++,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/CommsPowerManagement,https://github.com/intel/CommsPowerManagement,89,Python,SECURITY.md,
@@ -5024,7 +5023,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/BDTK,https://github.com/intel/BDT
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/level-zero-tests,https://github.com/oneapi-src/level-zero-tests,66,C++,SECURITY.md,oneAPI Level Zero Conformance & Performance test content
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-extension-for-deepspeed,https://github.com/intel/intel-extension-for-deepspeed,65,C++,Security.md,Intel® Extension for DeepSpeed* is an extension to DeepSpeed that brings feature support with SYCL kernels on Intel GPU(XPU) device. Note XPU is already support…
 Intel,自建（Intel Bug Bounty）,intel,intel/MultiArchUefiPkg,https://github.com/intel/MultiArchUefiPkg,65,C,SECURITY.md,Multi-Architecture UEFI Environment Driver
-Intel,自建（Intel Bug Bounty）,intel,intel/graph-compiler,https://github.com/intel/graph-compiler,64,C++,SECURITY.md,MLIR-based toolkit targeting intel heterogeneous hardware
 Intel,自建（Intel Bug Bounty）,intel,intel/backport-iwlwifi,https://github.com/intel/backport-iwlwifi,64,C,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/zephyr,https://github.com/intel/zephyr,62,C,.github/SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/linux-kernel-overlay,https://github.com/intel/linux-kernel-overlay,61,Shell,security.md,
@@ -5218,7 +5216,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/terraform-intel-azure-mssql,https
 Intel,自建（Intel Bug Bounty）,intel,intel/terraform-intel-azure-app-service-plan,https://github.com/intel/terraform-intel-azure-app-service-plan,12,HCL,SECURITY.md,Intel Cloud Optimization Module - Azure App Service Plan
 Intel,自建（Intel Bug Bounty）,intel,intel/td-partitioning,https://github.com/intel/td-partitioning,12,,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/ai-workflows,https://github.com/intel/ai-workflows,12,Makefile,SECURITY.md,"A repository of Dockerfiles, scripts, yaml files, Helm Charts, etc. used to build and scale the sample AI workflows with python, kubernetes, kubeflow, cnvrg.io,…"
-Intel,自建（Intel Bug Bounty）,intel,intel/rohd-website,https://github.com/intel/rohd-website,11,PowerShell,SECURITY.md,Website and general documentation for the ROHD ecosystem.
 Intel,自建（Intel Bug Bounty）,intel,intel/enterprise-ai-solutions,https://github.com/intel/enterprise-ai-solutions,11,Python,SECURITY.md,"Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enterprise generative AI on Intel® Xeon®, wit…"
 Intel,自建（Intel Bug Bounty）,intel,intel/smart-image-correction,https://github.com/intel/smart-image-correction,11,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/aer-inject,https://github.com/intel/aer-inject,11,C,SECURITY.md,
@@ -5291,7 +5288,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/ScaffoldingForGramine,https://git
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/invoice-to-cash-automation,https://github.com/oneapi-src/invoice-to-cash-automation,7,Python,SECURITY.md,Ai starter kit for trade promotion and claim documents categorization using pytorch* and Tensorflow*
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/ai-transcribe,https://github.com/oneapi-src/ai-transcribe,7,Python,SECURITY.md,AI Starter Kit for the implementation of an AI transcribe system using Intel® Extension for PyTorch* 
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/historical-assets-document-process,https://github.com/oneapi-src/historical-assets-document-process,7,Python,SECURITY.md,AI Starter Kit for Historical Assets document processing using Intel® Extension for Pytorch
-Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.tdx.tdx-module.binaries,https://github.com/intel/confidential-computing.tdx.tdx-module.binaries,6,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/meta-openvino,https://github.com/intel/meta-openvino,6,BitBake,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/quantum-intrinsics,https://github.com/intel/quantum-intrinsics,6,LLVM,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/thunderboltshare,https://github.com/intel/thunderboltshare,6,C++,SECURITY.md,
@@ -5366,6 +5362,7 @@ Intel,自建（Intel Bug Bounty）,intel,intel/llvm,https://github.com/intel/llv
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-xpu-backend-for-triton,https://github.com/intel/intel-xpu-backend-for-triton,3,MLIR,SECURITY.md,OpenAI Triton backend for Intel® GPUs
 Intel,自建（Intel Bug Bounty）,intel,intel/torch-xpu-ops,https://github.com/intel/torch-xpu-ops,3,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-graphics-compiler,https://github.com/intel/intel-graphics-compiler,3,C++,SECURITY.md,
+Intel,自建（Intel Bug Bounty）,intel,intel/rohd-website,https://github.com/intel/rohd-website,3,PowerShell,SECURITY.md,Website and general documentation for the ROHD ecosystem.
 Intel,自建（Intel Bug Bounty）,intel,intel/dokimi,https://github.com/intel/dokimi,3,Python,SECURITY.md,"Dokimi (Greek δοκιμή, ""test, proof"") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…"
 Intel,自建（Intel Bug Bounty）,intel,intel/onnxruntime,https://github.com/intel/onnxruntime,3,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance scoring engine for ML models"
 Intel,自建（Intel Bug Bounty）,intel,intel/compute-runtime,https://github.com/intel/compute-runtime,3,C++,Security.md,Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
@@ -5373,6 +5370,7 @@ Intel,自建（Intel Bug Bounty）,intel,intel/workload-services-framework,https
 Intel,自建（Intel Bug Bounty）,intel,intel/mlir-extensions,https://github.com/intel/mlir-extensions,3,MLIR,security.md,Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.
 Intel,自建（Intel Bug Bounty）,intel,intel/auto-round,https://github.com/intel/auto-round,3,Python,SECURITY.md,"PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度"
 Intel,自建（Intel Bug Bounty）,intel,intel/SVS-Extension-for-PostgreSQL,https://github.com/intel/SVS-Extension-for-PostgreSQL,3,Perl,SECURITY.md,
+Intel,自建（Intel Bug Bounty）,intel,intel/graph-compiler,https://github.com/intel/graph-compiler,3,C++,SECURITY.md,MLIR-based toolkit targeting intel heterogeneous hardware
 Intel,自建（Intel Bug Bounty）,intel,intel/rohd-hcl,https://github.com/intel/rohd-hcl,3,Dart,SECURITY.md,A hardware component library developed with ROHD.
 Intel,自建（Intel Bug Bounty）,intel,intel/device-modeling-language,https://github.com/intel/device-modeling-language,3,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/gpu-base-operator,https://github.com/intel/gpu-base-operator,3,Go,SECURITY.md,Intel GPU Base operator allows automatic deployment of GPU related components to enable use of Intel GPU hardware within the Kubernetes cluster.
@@ -5381,7 +5379,9 @@ Intel,自建（Intel Bug Bounty）,intel,intel/containers,https://github.com/int
 Intel,自建（Intel Bug Bounty）,intel,intel/SyclKittens,https://github.com/intel/SyclKittens,3,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/security-center,https://github.com/intel/security-center,3,,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/enterprise-ai-blueprints,https://github.com/intel/enterprise-ai-blueprints,3,Python,SECURITY.md,
+Intel,自建（Intel Bug Bounty）,intel,intel/confidential-computing.tdx.tdx-module.binaries,https://github.com/intel/confidential-computing.tdx.tdx-module.binaries,3,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/edge-gfx-dkms-installer,https://github.com/intel/edge-gfx-dkms-installer,3,Shell,docs/SECURITY.md,"This is the Intel Graphics kernel module (i915, future xe) delivered via DKMS and updated with Edge‑required features and bug fixes."
+Intel,自建（Intel Bug Bounty）,intel,intel/sycl-tla,https://github.com/intel/sycl-tla,3,C++,SECURITY.md,SYCL* Templates for Linear Algebra (SYCL*TLA) - SYCL based CUTLASS implementation for Intel GPUs 
 Intel,自建（Intel Bug Bounty）,intel,intel/isseilib,https://github.com/intel/isseilib,3,C,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-xpu-ai-demos,https://github.com/intel/intel-xpu-ai-demos,3,Python,SECURITY.md,AI demonstration notebooks for Intel Arc Pro B-series GPUs (B50 16GB / B60 24GB / B70 32GB). Each demo is a self-contained notebook that showcases an AI use cas…
 Intel,自建（Intel Bug Bounty）,intel,intel/vscode-simics,https://github.com/intel/vscode-simics,3,,security.md,
@@ -7277,8 +7277,8 @@ Rivian,Bugcrowd（Rivian）,rivian,rivian/odxtools,https://github.com/rivian/odx
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/MBSDK-community-support,https://github.com/mercedes-benz/MBSDK-community-support,9,,SECURITY.md,Central collaboration space for the mobile app development community of the Mercedes-Benz Mobile SDK  
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/product-kit_vue,https://github.com/mercedes-benz/product-kit_vue,8,Vue,SECURITY.md,Product Kit Vue provides a Mercedes-Benz Tech Innovation theme for Vuetify
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/MOSIM,https://github.com/mercedes-benz/MOSIM,8,Batchfile,SECURITY.md,The MOSIM Framework is an open modular framework for efficient and interactive simulation and analysis of realistic human motions for professional applications.
+奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/dbt-iterative-snapshot,https://github.com/mercedes-benz/dbt-iterative-snapshot,7,Python,SECURITY.md,SCD2 iterative snapshot processing for dbt on Databricks
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/product-kit_angular,https://github.com/mercedes-benz/product-kit_angular,7,TypeScript,SECURITY.md,Product Kit design tokens and styling for Angular.
-奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/dbt-iterative-snapshot,https://github.com/mercedes-benz/dbt-iterative-snapshot,6,Python,SECURITY.md,SCD2 iterative snapshot processing for dbt on Databricks
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/sechub-plugin-intellij,https://github.com/mercedes-benz/sechub-plugin-intellij,5,,SECURITY.md,intellij plugin for sechub
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/product-kit_tailwind,https://github.com/mercedes-benz/product-kit_tailwind,5,JavaScript,SECURITY.md,
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/MBSDK-RealmKit-iOS,https://github.com/mercedes-benz/MBSDK-RealmKit-iOS,5,Swift,SECURITY.md,Mercedes-Benz Mobile SDK - RealmKit module for iOS
@@ -7451,7 +7451,7 @@ Pinterest,HackerOne（Pinterest）,pinterest,pinterest/slate,https://github.com/
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/karpenter,https://github.com/pinterest/karpenter,0,Go,SECURITY.md,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/cloud-resource-scheduling-and-isolation,https://github.com/pinterest/cloud-resource-scheduling-and-isolation,0,Go,SECURITY.md,
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/thrifty,https://github.com/pinterest/thrifty,0,Kotlin,SECURITY.md,Thrift for Android that saves you methods
-LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/kafka-monitor,https://github.com/linkedin/kafka-monitor,2066,Java,SECURITY.md,Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E …
+LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/kafka-monitor,https://github.com/linkedin/kafka-monitor,2065,Java,SECURITY.md,Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E …
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/openhouse,https://github.com/linkedin/openhouse,406,Java,SECURITY.md,Open Control Plane for Tables in Data Lakehouse
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/spark,https://github.com/linkedin/spark,15,Scala,docs/security.md,Apache Spark - A unified analytics engine for large-scale data processing
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/li-langchain,https://github.com/linkedin/li-langchain,1,Python,SECURITY.md,🦜🔗 Build context-aware reasoning applications

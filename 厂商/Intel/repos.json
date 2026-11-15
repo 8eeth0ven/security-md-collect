@@ -1321,17 +1321,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/sycl-tla",
-  "url": "https://github.com/intel/sycl-tla",
-  "sec_path": "SECURITY.md",
-  "stars": 92,
-  "language": "C++",
-  "description": "SYCL* Templates for Linear Algebra (SYCL*TLA) - SYCL based CUTLASS implementation for Intel GPUs ",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/kubernetes-power-manager",
   "url": "https://github.com/intel/kubernetes-power-manager",
   "sec_path": "SECURITY.md",
@@ -1672,17 +1661,6 @@
   "language": "C",
   "description": "Multi-Architecture UEFI Environment Driver",
   "first_seen": "2026-11-01 21:53:13"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/graph-compiler",
-  "url": "https://github.com/intel/graph-compiler",
-  "sec_path": "SECURITY.md",
-  "stars": 64,
-  "language": "C++",
-  "description": "MLIR-based toolkit targeting intel heterogeneous hardware",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -3826,17 +3804,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/rohd-website",
-  "url": "https://github.com/intel/rohd-website",
-  "sec_path": "SECURITY.md",
-  "stars": 11,
-  "language": "PowerShell",
-  "description": "Website and general documentation for the ROHD ecosystem.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/enterprise-ai-solutions",
   "url": "https://github.com/intel/enterprise-ai-solutions",
   "sec_path": "SECURITY.md",
@@ -4643,17 +4610,6 @@
   "license": null,
   "first_seen": "2026-11-01 23:05:44",
   "last_verified": "2026-11-14 23:02:42"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/confidential-computing.tdx.tdx-module.binaries",
-  "url": "https://github.com/intel/confidential-computing.tdx.tdx-module.binaries",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 21:52:33"
  },
  {
   "vendor": "Intel",
@@ -5490,6 +5446,19 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/rohd-website",
+  "url": "https://github.com/intel/rohd-website",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "PowerShell",
+  "description": "Website and general documentation for the ROHD ecosystem.",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-15 21:03:01"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/dokimi",
   "url": "https://github.com/intel/dokimi",
   "sec_path": "SECURITY.md",
@@ -5575,6 +5544,19 @@
   "language": "Perl",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/graph-compiler",
+  "url": "https://github.com/intel/graph-compiler",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C++",
+  "description": "MLIR-based toolkit targeting intel heterogeneous hardware",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-15 21:03:01"
  },
  {
   "vendor": "Intel",
@@ -5671,6 +5653,19 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/confidential-computing.tdx.tdx-module.binaries",
+  "url": "https://github.com/intel/confidential-computing.tdx.tdx-module.binaries",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-15 21:03:01"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/edge-gfx-dkms-installer",
   "url": "https://github.com/intel/edge-gfx-dkms-installer",
   "sec_path": "docs/SECURITY.md",
@@ -5678,6 +5673,19 @@
   "language": "Shell",
   "description": "This is the Intel Graphics kernel module (i915, future xe) delivered via DKMS and updated with Edge‑required features and bug fixes.",
   "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/sycl-tla",
+  "url": "https://github.com/intel/sycl-tla",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C++",
+  "description": "SYCL* Templates for Linear Algebra (SYCL*TLA) - SYCL based CUTLASS implementation for Intel GPUs ",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-15 21:03:01"
  },
  {
   "vendor": "Intel",

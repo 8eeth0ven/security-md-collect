@@ -1890,18 +1890,6 @@
  {
   "vendor": "微软",
   "org": "microsoft",
-  "full_name": "microsoft/intelligent-terminal",
-  "url": "https://github.com/microsoft/intelligent-terminal",
-  "sec_path": "SECURITY.md",
-  "stars": 2221,
-  "language": "C++",
-  "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
   "full_name": "microsoft/DirectXTex",
   "url": "https://github.com/microsoft/DirectXTex",
   "sec_path": "SECURITY.md",
@@ -2123,18 +2111,6 @@
   "language": "PowerShell",
   "description": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles acros…",
   "first_seen": "2026-11-01 16:24:42"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
-  "full_name": "microsoft/openvmm",
-  "url": "https://github.com/microsoft/openvmm",
-  "sec_path": "SECURITY.md",
-  "stars": 1966,
-  "language": "Rust",
-  "description": "Home of OpenVMM and OpenHCL",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
  },
  {
   "vendor": "微软",
@@ -4293,18 +4269,6 @@
  },
  {
   "vendor": "微软",
-  "org": "microsoft",
-  "full_name": "microsoft/BCApps",
-  "url": "https://github.com/microsoft/BCApps",
-  "sec_path": "SECURITY.md",
-  "stars": 723,
-  "language": "AL",
-  "description": "Repository for collaboration on Microsoft Dynamics 365 Business Central applications.",
-  "license": null,
-  "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
   "org": "Azure",
   "full_name": "Azure/Community-Policy",
   "url": "https://github.com/Azure/Community-Policy",
@@ -6285,6 +6249,18 @@
   "description": "Game development samples published by the Xbox Advanced Technology Group using the Microsoft GDK.",
   "license": null,
   "first_seen": "2026-11-05 10:02:55"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/agent-365-guide",
+  "url": "https://github.com/microsoft/agent-365-guide",
+  "sec_path": "SECURITY.md",
+  "stars": 365,
+  "language": "Python",
+  "description": "Step-by-step security configuration guide for Microsoft Agent 365 — from agent creation to identity, data protection, and runtime monitoring across Entra, Purvi…",
+  "license": null,
+  "first_seen": "2026-11-04 01:33:52"
  },
  {
   "vendor": "微软",
@@ -13706,18 +13682,6 @@
   "language": null,
   "description": "This project captures work in progress, and completed work for the Azure Core Container Upstream team",
   "first_seen": "2026-11-01 16:25:10"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
-  "full_name": "microsoft/ntosebpfext",
-  "url": "https://github.com/microsoft/ntosebpfext",
-  "sec_path": "SECURITY.md",
-  "stars": 59,
-  "language": "PowerShell",
-  "description": "eBPF-For-Windows extension to provide access to Windows kernel functionality",
-  "license": null,
-  "first_seen": "2026-11-04 01:33:52"
  },
  {
   "vendor": "微软",
@@ -27671,6 +27635,18 @@
  {
   "vendor": "微软",
   "org": "microsoft",
+  "full_name": "microsoft/BCApps",
+  "url": "https://github.com/microsoft/BCApps",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "AL",
+  "description": "Repository for collaboration on Microsoft Dynamics 365 Business Central applications.",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
   "full_name": "microsoft/Analytics-Hub",
   "url": "https://github.com/microsoft/Analytics-Hub",
   "sec_path": "SECURITY.md",
@@ -27680,6 +27656,18 @@
   "license": null,
   "first_seen": "2026-11-01 22:38:46",
   "last_verified": "2026-11-15 11:33:01"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/intelligent-terminal",
+  "url": "https://github.com/microsoft/intelligent-terminal",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C++",
+  "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46"
  },
  {
   "vendor": "微软",
@@ -27718,6 +27706,18 @@
   "license": null,
   "first_seen": "2026-11-01 22:38:46",
   "last_verified": "2026-11-14 22:04:50"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/openvmm",
+  "url": "https://github.com/microsoft/openvmm",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Rust",
+  "description": "> Home of OpenVMM and OpenHCL",
+  "license": null,
+  "first_seen": "2026-11-01 22:38:46"
  },
  {
   "vendor": "微软",
@@ -28310,6 +28310,18 @@
   "stars": 3,
   "language": "PHP",
   "description": "Bundle library that regroups all the default implementations for PHP clients.",
+  "license": null,
+  "first_seen": "2026-11-04 01:33:52"
+ },
+ {
+  "vendor": "微软",
+  "org": "microsoft",
+  "full_name": "microsoft/ntosebpfext",
+  "url": "https://github.com/microsoft/ntosebpfext",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "PowerShell",
+  "description": "eBPF-For-Windows extension to provide access to Windows kernel functionality",
   "license": null,
   "first_seen": "2026-11-04 01:33:52"
  },
@@ -29598,18 +29610,6 @@
   "stars": 2,
   "language": "Rust",
   "description": "Rust implementation of a JPEG2000 decoder",
-  "license": null,
-  "first_seen": "2026-11-04 01:33:52"
- },
- {
-  "vendor": "微软",
-  "org": "microsoft",
-  "full_name": "microsoft/agent-365-guide",
-  "url": "https://github.com/microsoft/agent-365-guide",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": "Python",
-  "description": "Step-by-step security configuration guide for Microsoft Agent 365 — from agent creation to identity, data protection, and runtime monitoring across Entra, Purvi…",
   "license": null,
   "first_seen": "2026-11-04 01:33:52"
  },
