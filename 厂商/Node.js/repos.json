@@ -5,12 +5,25 @@
   "full_name": "nodejs/node",
   "url": "https://github.com/nodejs/node",
   "sec_path": "SECURITY.md",
-  "stars": 123719,
+  "stars": 123738,
   "language": "JavaScript",
   "description": "Node.js JavaScript runtime ✨🐢🚀✨",
   "license": null,
   "first_seen": "2026-11-14 13:00:11",
   "last_verified": "2026-11-14 13:00:11"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/node-gyp",
+  "url": "https://github.com/nodejs/node-gyp",
+  "sec_path": "SECURITY.md",
+  "stars": 10733,
+  "language": "Python",
+  "description": "Node.js native addon build tool",
+  "license": null,
+  "first_seen": "2026-11-15 18:04:34",
+  "last_verified": "2026-11-15 18:04:34"
  },
  {
   "vendor": "Node.js",
@@ -28,6 +41,58 @@
  {
   "vendor": "Node.js",
   "org": "nodejs",
+  "full_name": "nodejs/undici",
+  "url": "https://github.com/nodejs/undici",
+  "sec_path": "SECURITY.md",
+  "stars": 7739,
+  "language": "JavaScript",
+  "description": "An HTTP/1.1 client, written from scratch for Node.js",
+  "license": null,
+  "first_seen": "2026-11-15 18:05:05",
+  "last_verified": "2026-11-15 18:05:05"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/nodejs.org",
+  "url": "https://github.com/nodejs/nodejs.org",
+  "sec_path": "SECURITY.md",
+  "stars": 6879,
+  "language": "TypeScript",
+  "description": "The Node.js® Website",
+  "license": null,
+  "first_seen": "2026-11-15 18:04:50",
+  "last_verified": "2026-11-15 18:04:50"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/node-chakracore",
+  "url": "https://github.com/nodejs/node-chakracore",
+  "sec_path": "SECURITY.md",
+  "stars": 1909,
+  "language": "JavaScript",
+  "description": "Node.js on ChakraCore :sparkles::turtle::rocket::sparkles:",
+  "license": null,
+  "first_seen": "2026-11-15 18:04:24",
+  "last_verified": "2026-11-15 18:04:24"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/quic",
+  "url": "https://github.com/nodejs/quic",
+  "sec_path": "SECURITY.md",
+  "stars": 305,
+  "language": "JavaScript",
+  "description": "This repository is no longer active.",
+  "license": null,
+  "first_seen": "2026-11-15 18:04:57",
+  "last_verified": "2026-11-15 18:04:57"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
   "full_name": "nodejs/ecmascript-modules",
   "url": "https://github.com/nodejs/ecmascript-modules",
   "sec_path": "SECURITY.md",
@@ -37,6 +102,45 @@
   "license": null,
   "first_seen": "2026-11-15 07:34:58",
   "last_verified": "2026-11-15 07:34:58"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/release-cloudflare-worker",
+  "url": "https://github.com/nodejs/release-cloudflare-worker",
+  "sec_path": "SECURITY.md",
+  "stars": 58,
+  "language": "TypeScript",
+  "description": "Infra for serving Node.js downloads and documentation.",
+  "license": null,
+  "first_seen": "2026-11-15 18:04:57",
+  "last_verified": "2026-11-15 18:04:57"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/wasi",
+  "url": "https://github.com/nodejs/wasi",
+  "sec_path": "SECURITY.md",
+  "stars": 34,
+  "language": "JavaScript",
+  "description": "Node.js fork for WASI development",
+  "license": null,
+  "first_seen": "2026-11-15 18:05:05",
+  "last_verified": "2026-11-15 18:05:05"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/node-auto-test",
+  "url": "https://github.com/nodejs/node-auto-test",
+  "sec_path": "SECURITY.md",
+  "stars": 25,
+  "language": "JavaScript",
+  "description": "Node.js clone for testing automation tools",
+  "license": null,
+  "first_seen": "2026-11-15 18:04:24",
+  "last_verified": "2026-11-15 18:04:24"
  },
  {
   "vendor": "Node.js",
@@ -54,6 +158,19 @@
  {
   "vendor": "Node.js",
   "org": "nodejs",
+  "full_name": "nodejs/official-images",
+  "url": "https://github.com/nodejs/official-images",
+  "sec_path": "SECURITY.md",
+  "stars": 13,
+  "language": "Shell",
+  "description": "Primary source of truth for the Docker \"Official Images\" program",
+  "license": null,
+  "first_seen": "2026-11-15 18:04:50",
+  "last_verified": "2026-11-15 18:04:50"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
   "full_name": "nodejs/ffi",
   "url": "https://github.com/nodejs/ffi",
   "sec_path": "SECURITY.md",
@@ -63,5 +180,31 @@
   "license": null,
   "first_seen": "2026-11-15 07:34:58",
   "last_verified": "2026-11-15 07:34:58"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/web-team",
+  "url": "https://github.com/nodejs/web-team",
+  "sec_path": "SECURITY.md",
+  "stars": 6,
+  "language": null,
+  "description": "The Node.js Website Team Governance Repository",
+  "license": null,
+  "first_seen": "2026-11-15 18:05:05",
+  "last_verified": "2026-11-15 18:05:05"
+ },
+ {
+  "vendor": "Node.js",
+  "org": "nodejs",
+  "full_name": "nodejs/perfetto-nodejs-wip",
+  "url": "https://github.com/nodejs/perfetto-nodejs-wip",
+  "sec_path": "SECURITY.md",
+  "stars": 4,
+  "language": "JavaScript",
+  "description": "Repository for working on perfetto integration with Node.js",
+  "license": null,
+  "first_seen": "2026-11-15 18:04:50",
+  "last_verified": "2026-11-15 18:04:50"
  }
 ]
