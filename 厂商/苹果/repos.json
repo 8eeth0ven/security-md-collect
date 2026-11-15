@@ -5,7 +5,7 @@
   "full_name": "apple/pkl",
   "url": "https://github.com/apple/pkl",
   "sec_path": "SECURITY.md",
-  "stars": 11574,
+  "stars": 11576,
   "language": "Java",
   "description": "A configuration as code language with rich validation and tooling.",
   "license": null,
@@ -21,7 +21,9 @@
   "stars": 1741,
   "language": "Assembly",
   "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -35,17 +37,6 @@
   "license": null,
   "first_seen": "2026-11-02 00:18:52",
   "last_verified": "2026-11-15 00:32:07"
- },
- {
-  "vendor": "苹果",
-  "org": "apple",
-  "full_name": "apple/swift-container-plugin",
-  "url": "https://github.com/apple/swift-container-plugin",
-  "sec_path": "SECURITY.md",
-  "stars": 395,
-  "language": "Swift",
-  "description": "Build and publish container images using Swift Package Manager",
-  "first_seen": "2026-11-01 18:08:15"
  },
  {
   "vendor": "苹果",
@@ -66,7 +57,7 @@
   "full_name": "apple/pkl-pantry",
   "url": "https://github.com/apple/pkl-pantry",
   "sec_path": "SECURITY.md",
-  "stars": 272,
+  "stars": 271,
   "language": "Pkl",
   "description": "Shared Pkl packages",
   "license": null,
@@ -108,7 +99,9 @@
   "stars": 201,
   "language": "Swift",
   "description": "Pkl bindings for the Swift programming language",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -145,7 +138,9 @@
   "stars": 155,
   "language": "TypeScript",
   "description": "Pkl language support for VS Code",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -195,7 +190,9 @@
   "stars": 88,
   "language": "Swift",
   "description": "Package providing Oblivious HTTP.  Also allows Oblivious encryption of alternative encodings.",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -206,7 +203,9 @@
   "stars": 88,
   "language": "Swift",
   "description": "Examples for using Pkl within Swift applications",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -243,7 +242,9 @@
   "stars": 57,
   "language": "Swift",
   "description": "QUIC support for SwiftNIO",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -254,7 +255,9 @@
   "stars": 54,
   "language": "Kotlin",
   "description": "Tree-sitter parser for Pkl",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -265,7 +268,9 @@
   "stars": 53,
   "language": "Java",
   "description": "Spring Boot extension for configuring Boot apps with Pkl",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -302,7 +307,9 @@
   "stars": 37,
   "language": "Starlark",
   "description": "Bazel build rules for Pkl",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -313,7 +320,9 @@
   "stars": 32,
   "language": "Swift",
   "description": "HTTP/3 support for SwiftNIO",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -363,7 +372,9 @@
   "stars": 12,
   "language": "Pkl",
   "description": "TextMate bundle for Pkl",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",
@@ -400,7 +411,9 @@
   "stars": 7,
   "language": "Go",
   "description": "The Public Suffix List",
-  "first_seen": "2026-11-01 18:08:15"
+  "license": null,
+  "first_seen": "2026-11-01 18:08:15",
+  "last_verified": "2026-11-15 16:33:25"
  },
  {
   "vendor": "苹果",

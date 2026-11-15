@@ -2,7 +2,6 @@
 Apache软件基金会,无(开源基金会),apache,apache/superset,https://github.com/apache/superset,75509,Python,SECURITY.md,Apache Superset is a Data Visualization and Data Exploration Platform
 Apache软件基金会,无(开源基金会),apache,apache/airflow,https://github.com/apache/airflow,47465,Python,.github/SECURITY.md,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
 Apache软件基金会,无(开源基金会),apache,apache/dubbo,https://github.com/apache/dubbo,41573,Java,SECURITY.md,The java implementation of Apache Dubbo. An RPC and microservice framework.
-Apache软件基金会,无(开源基金会),apache,apache/kafka,https://github.com/apache/kafka,34213,Java,SECURITY.md,Apache Kafka - A distributed event streaming platform
 Apache软件基金会,无(开源基金会),apache,apache/incubator-seata,https://github.com/apache/incubator-seata,26003,Java,SECURITY.md,":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution."
 Apache软件基金会,无(开源基金会),apache,apache/brpc,https://github.com/apache/brpc,17645,C++,SECURITY.md,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertis…"
 Apache软件基金会,无(开源基金会),apache,apache/apisix,https://github.com/apache/apisix,17320,Lua,SECURITY.md,The Cloud-Native API Gateway and AI Gateway
@@ -20,7 +19,6 @@ Apache软件基金会,无(开源基金会),apache,apache/openwhisk,https://githu
 Apache软件基金会,无(开源基金会),apache,apache/storm,https://github.com/apache/storm,6703,Java,SECURITY.md,Apache Storm
 Apache软件基金会,无(开源基金会),apache,apache/zeppelin,https://github.com/apache/zeppelin,6671,Java,SECURITY.md,"Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more."
 Apache软件基金会,无(开源基金会),apache,apache/iotdb,https://github.com/apache/iotdb,6435,Java,SECURITY.md,Apache IoTDB
-Apache软件基金会,无(开源基金会),apache,apache/camel,https://github.com/apache/camel,6407,Java,SECURITY.md,"Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apach…"
 Apache软件基金会,无(开源基金会),apache,apache/incubator-kie,https://github.com/apache/incubator-kie,6345,Java,SECURITY.md,"Apache KIE (Knowledge Is Everything) is the home of Drools, OptaPlanner, jBPM, and Kogito."
 Apache软件基金会,无(开源基金会),apache,apache/nifi,https://github.com/apache/nifi,6314,Java,SECURITY.md,Apache NiFi
 Apache软件基金会,无(开源基金会),apache,apache/hive,https://github.com/apache/hive,6040,Java,SECURITY.md,Apache Hive
@@ -42,7 +40,6 @@ Apache软件基金会,无(开源基金会),apache,apache/lucene,https://github.c
 Apache软件基金会,无(开源基金会),apache,apache/singa,https://github.com/apache/singa,3604,C++,SECURITY.md,a distributed deep learning platform
 Apache软件基金会,无(开源基金会),apache,apache/datafusion-sqlparser-rs,https://github.com/apache/datafusion-sqlparser-rs,3481,Rust,SECURITY.md,Extensible SQL Lexer and Parser for Rust
 Apache软件基金会,无(开源基金会),apache,apache/maven-mvnd,https://github.com/apache/maven-mvnd,3452,Java,SECURITY.md,Apache Maven Daemon
-Apache软件基金会,无(开源基金会),apache,apache/paimon,https://github.com/apache/paimon,3448,Java,SECURITY.md,Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 Apache软件基金会,无(开源基金会),apache,apache/gravitino,https://github.com/apache/gravitino,3362,Java,SECURITY.md,"World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake."
 Apache软件基金会,无(开源基金会),apache,apache/nutch,https://github.com/apache/nutch,3309,Java,SECURITY.md,Apache Nutch is an extensible and scalable web crawler
 Apache软件基金会,无(开源基金会),apache,apache/pdfbox,https://github.com/apache/pdfbox,3141,Java,SECURITY.md,Mirror of Apache PDFBox
@@ -74,7 +71,6 @@ Apache软件基金会,无(开源基金会),apache,apache/cassandra-python-driver
 Apache软件基金会,无(开源基金会),apache,apache/cassandra-java-driver,https://github.com/apache/cassandra-java-driver,1383,Java,SECURITY.md,Java Driver for Apache Cassandra®
 Apache软件基金会,无(开源基金会),apache,apache/struts,https://github.com/apache/struts,1373,Java,SECURITY.md,"Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications"
 Apache软件基金会,无(开源基金会),apache,apache/incubator-xtable,https://github.com/apache/incubator-xtable,1348,Java,SECURITY.md,Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query eng…
-Apache软件基金会,无(开源基金会),apache,apache/ozone,https://github.com/apache/ozone,1334,Java,SECURITY.md,"Scalable, reliable, distributed storage system optimized for data analytics and object store workloads."
 Apache软件基金会,无(开源基金会),apache,apache/impala,https://github.com/apache/impala,1295,C++,SECURITY.md,Apache Impala
 Apache软件基金会,无(开源基金会),apache,apache/accumulo,https://github.com/apache/accumulo,1184,Java,SECURITY.md,Apache Accumulo
 Apache软件基金会,无(开源基金会),apache,apache/apisix-ingress-controller,https://github.com/apache/apisix-ingress-controller,1152,Go,SECURITY.md,APISIX Ingress Controller for Kubernetes
@@ -278,6 +274,10 @@ Apache软件基金会,无(开源基金会),apache,apache/commons-secure-xml,http
 Apache软件基金会,无(开源基金会),apache,apache/comdev,https://github.com/apache/comdev,4,JavaScript,SECURITY.md,Apache comdev
 Apache软件基金会,无(开源基金会),apache,apache/ws-neethi,https://github.com/apache/ws-neethi,4,Java,SECURITY.md,Apache WebService - Neethi
 Apache软件基金会,无(开源基金会),apache,apache/axis-axis2-java-rampart,https://github.com/apache/axis-axis2-java-rampart,4,Java,SECURITY.md,Apache Axis2-Java Rampart
+Apache软件基金会,无(开源基金会),apache,apache/camel,https://github.com/apache/camel,3,Java,SECURITY.md,"Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apach…"
+Apache软件基金会,无(开源基金会),apache,apache/kafka,https://github.com/apache/kafka,3,Java,SECURITY.md,Apache Kafka - A distributed event streaming platform
+Apache软件基金会,无(开源基金会),apache,apache/ozone,https://github.com/apache/ozone,3,Java,SECURITY.md,"Scalable, reliable, distributed storage system optimized for data analytics and object store workloads."
+Apache软件基金会,无(开源基金会),apache,apache/paimon,https://github.com/apache/paimon,3,Java,SECURITY.md,Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 Apache软件基金会,无(开源基金会),apache,apache/datafusion,https://github.com/apache/datafusion,3,Rust,SECURITY.md,Apache DataFusion SQL Query Engine
 Apache软件基金会,无(开源基金会),apache,apache/wicket,https://github.com/apache/wicket,3,Java,SECURITY.md,Apache Wicket - Component-based Java web framework
 Apache软件基金会,无(开源基金会),apache,apache/spark,https://github.com/apache/spark,3,Scala,SECURITY.md,Apache Spark - A unified analytics engine for large-scale data processing
@@ -300,7 +300,7 @@ CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32246,Go,SECURITY.md,Run Kubernetes locally
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29236,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25835,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
-CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24608,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
+CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24612,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23111,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19435,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17098,Go,SECURITY.md,Workflow Engine for Kubernetes
@@ -333,7 +333,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/jmx_exporter,h
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/gateway,https://github.com/envoyproxy/gateway,3148,Go,SECURITY.md,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 CNCF云原生基金会,无(开源基金会),istio,istio/community,https://github.com/istio/community,3118,Go,.github/SECURITY.md,Istio governance material.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/git-sync,https://github.com/kubernetes/git-sync,2749,Shell,SECURITY.md,A sidecar app which clones a git repo and keeps it in sync with the upstream.
-CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-events,https://github.com/argoproj/argo-events,2714,Go,SECURITY.md,Event-driven Automation Framework for Kubernetes
+CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-events,https://github.com/argoproj/argo-events,2715,Go,SECURITY.md,Event-driven Automation Framework for Kubernetes
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/OpenMetrics,https://github.com/prometheus/OpenMetrics,2544,Go,SECURITY.md,Evolving the Prometheus exposition format into a standard.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/mysqld_exporter,https://github.com/prometheus/mysqld_exporter,2473,Go,SECURITY.md,Exporter for MySQL server metrics
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-helm,https://github.com/argoproj/argo-helm,2394,Mustache,SECURITY.md,ArgoProj Helm Charts
@@ -561,7 +561,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 阿里巴巴,ASRC,alibaba,alibaba/aiconfigurator,https://github.com/alibaba/aiconfigurator,0,Python,SECURITY.md,Offline optimization of your disaggregated Dynamo graph(Fork for contributing. All changes intended for upstream PRs.)
 阿里巴巴,ASRC,aliyun,aliyun/alibabacloud-maxcompute-docs,https://github.com/aliyun/alibabacloud-maxcompute-docs,0,TypeScript,SECURITY.md,
 蚂蚁集团,蚂蚁SRC,ant-design,ant-design/ant-design,https://github.com/ant-design/ant-design,100215,TypeScript,SECURITY.md,An enterprise-class UI design language and React UI library
-蚂蚁集团,蚂蚁SRC,antvis,antvis/G6,https://github.com/antvis/G6,12393,TypeScript,SECURITY.md,♾ A Graph Visualization Framework in JavaScript.
+蚂蚁集团,蚂蚁SRC,antvis,antvis/G6,https://github.com/antvis/G6,12394,TypeScript,SECURITY.md,♾ A Graph Visualization Framework in JavaScript.
 蚂蚁集团,蚂蚁SRC,ant-design,ant-design/ant-design-mobile,https://github.com/ant-design/ant-design-mobile,12098,TypeScript,.github/SECURITY.md,Essential UI blocks for building mobile web apps.
 蚂蚁集团,蚂蚁SRC,antvis,antvis/X6,https://github.com/antvis/X6,6766,TypeScript,SECURITY.md,🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-boot,https://github.com/sofastack/sofa-boot,5078,Java,SECURITY.md,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc."
@@ -577,7 +577,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 蚂蚁集团,蚂蚁SRC,antgroup,antgroup/ant-ray,https://github.com/antgroup/ant-ray,174,Python,SECURITY.md,"Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. AntRay is forked from ray, offe…"
 蚂蚁集团,蚂蚁SRC,antvis,antvis/F6,https://github.com/antvis/F6,145,JavaScript,SECURITY.md,F6 is a graph visualization engine which provides quick and smooth operations on mobile devices.
 蚂蚁集团,蚂蚁SRC,antgroup,antgroup/AntChainTrustSDK,https://github.com/antgroup/AntChainTrustSDK,62,C,SECURITY.md,"A lightweight trusted on-chain SDK for embedded IoT devices, enabling tamper-evident, device-attributable data submission to cloud and blockchain workflows."
-蚂蚁集团,蚂蚁SRC,antgroup,antgroup/BlueHIDFlow,https://github.com/antgroup/BlueHIDFlow,36,C++,SECURITY.md,
+蚂蚁集团,蚂蚁SRC,antgroup,antgroup/BlueHIDFlow,https://github.com/antgroup/BlueHIDFlow,37,C++,SECURITY.md,
 蚂蚁集团,蚂蚁SRC,antgroup,antgroup/Napaxi,https://github.com/antgroup/Napaxi,34,Rust,SECURITY.md,"Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity."
 蚂蚁集团,蚂蚁SRC,antgroup,antgroup/ACT,https://github.com/antgroup/ACT,6,TypeScript,SECURITY.md,Agentic Commerce Trust Protocol
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-jakarta-transformer,https://github.com/sofastack/sofa-jakarta-transformer,5,Java,SECURITY.md,"Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping chang…"
@@ -1167,8 +1167,8 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-search-vector-samples,https://github.com/Azure/azure-search-vector-samples,909,Jupyter Notebook,SECURITY.md,A repository of code samples for Vector search capabilities in Azure AI Search.
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/OpenAIWorkshop,https://github.com/microsoft/OpenAIWorkshop,899,Python,SECURITY.md,workshop materials to build intelligent solutions on Open AI
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator,https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator,897,Python,SECURITY.md,The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. …
+微软,HackerOne（Microsoft Bounty）+ 自建MSRC,aspnet,aspnet/AspNetWebStack,https://github.com/aspnet/AspNetWebStack,894,C#,SECURITY.md,"ASP.NET MVC 5.x, Web API 2.x, and Web Pages 3.x (not ASP.NET Core)"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/typeagent-py,https://github.com/microsoft/typeagent-py,894,Python,SECURITY.md,"Structured RAG: ingest, index, query"
-微软,HackerOne（Microsoft Bounty）+ 自建MSRC,aspnet,aspnet/AspNetWebStack,https://github.com/aspnet/AspNetWebStack,893,C#,SECURITY.md,"ASP.NET MVC 5.x, Web API 2.x, and Web Pages 3.x (not ASP.NET Core)"
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/ALZ-Bicep,https://github.com/Azure/ALZ-Bicep,891,Bicep,SECURITY.md,This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a …
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,Azure,Azure/azure-sdk-for-rust,https://github.com/Azure/azure-sdk-for-rust,889,Rust,SECURITY.md,This repository is for the active development of the Azure SDK for Rust. For consumers of the SDK we recommend visiting Docs.rs and looking up the docs for any …
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/Oryx,https://github.com/microsoft/Oryx,883,C#,SECURITY.md,Build your repo automatically.
@@ -3978,7 +3978,7 @@ Meta,自建（Meta Bug Bounty）,facebookincubator,facebookincubator/.github,htt
 Meta,自建（Meta Bug Bounty）,facebookresearch,facebookresearch/.github,https://github.com/facebookresearch/.github,,,SECURITY.md,
 Meta,自建（Meta Bug Bounty）,facebook,facebook/.github,https://github.com/facebook/.github,,,SECURITY.md,
 Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.github,,,SECURITY.md,
-亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/s2n-tls,https://github.com/aws/s2n-tls,4789,C,SECURITY.md,An implementation of the TLS/SSL protocols
+亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/s2n-tls,https://github.com/aws/s2n-tls,4790,C,SECURITY.md,An implementation of the TLS/SSL protocols
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-lambda-web-adapter,https://github.com/aws/aws-lambda-web-adapter,2761,Rust,SECURITY.md,Run web applications on AWS Lambda
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/amazon-freertos,https://github.com/aws/amazon-freertos,2531,C,SECURITY.md,DEPRECATED - See README.md
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/amazon-q-developer-cli,https://github.com/aws/amazon-q-developer-cli,1988,Rust,SECURITY.md,✨ Agentic chat experience in your terminal. Build applications using natural language.
@@ -3987,7 +3987,7 @@ Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.gith
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/s2n-quic,https://github.com/aws/s2n-quic,1381,Rust,SECURITY.md,An implementation of the IETF QUIC protocol
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-solutions-constructs,https://github.com/awslabs/aws-solutions-constructs,1361,TypeScript,SECURITY.md,"The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patter…"
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/swift-aws-lambda-runtime,https://github.com/awslabs/swift-aws-lambda-runtime,1237,Swift,SECURITY.md,Swift implementation of AWS Lambda Runtime
-亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/context-ontology-accelerator,https://github.com/aws/context-ontology-accelerator,1134,Python,SECURITY.md,"An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
+亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/context-ontology-accelerator,https://github.com/aws/context-ontology-accelerator,1135,Python,SECURITY.md,"An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-iot-device-sdk-embedded-C,https://github.com/aws/aws-iot-device-sdk-embedded-C,1061,C,SECURITY.md,SDK for connecting to AWS IoT from a device using embedded C.
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-saas-boost,https://github.com/awslabs/aws-saas-boost,974,Java,SECURITY.md,AWS SaaS Boost is a ready-to-use toolset that removes the complexity of successfully running SaaS workloads in the AWS cloud.
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/agent-plugins,https://github.com/awslabs/agent-plugins,942,Python,.github/SECURITY.md,"Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS."
@@ -4014,7 +4014,7 @@ Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.gith
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/amazon-s3-find-and-forget,https://github.com/awslabs/amazon-s3-find-and-forget,248,Python,docs/SECURITY.md,"Amazon S3 Find and Forget is a solution to handle data erasure requests from data lakes stored on Amazon S3, for example, pursuant to the European General Data …"
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aperf,https://github.com/aws/aperf,243,Rust,SECURITY.md,"An all-in-one CLI tool for performance monitoring, analysis, and debugging."
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/tecli,https://github.com/awslabs/tecli,219,Go,SECURITY.md,"In a world where everything is Terraform, teams use Terraform Cloud API to manage their workloads. TECLI increases teams productivity by facilitating such inter…"
-亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/rolesanywhere-credential-helper,https://github.com/aws/rolesanywhere-credential-helper,204,Go,SECURITY.md,
+亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/rolesanywhere-credential-helper,https://github.com/aws/rolesanywhere-credential-helper,203,Go,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/project-lakechain,https://github.com/awslabs/project-lakechain,190,TypeScript,SECURITY.md,":zap: Cloud-native, AI-powered, document processing pipelines on AWS."
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-app-mesh-controller-for-k8s,https://github.com/aws/aws-app-mesh-controller-for-k8s,185,Go,.github/SECURITY.md,A controller to help manage App Mesh resources for a Kubernetes cluster.
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-host-openclaw-on-amazon-bedrock-agentcore,https://github.com/aws-samples/sample-host-openclaw-on-amazon-bedrock-agentcore,178,Python,SECURITY.md,
@@ -4025,7 +4025,6 @@ Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.gith
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/nx-plugin-for-aws,https://github.com/awslabs/nx-plugin-for-aws,154,TypeScript,SECURITY.md,"The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python an…"
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-glue-schema-registry,https://github.com/awslabs/aws-glue-schema-registry,152,Java,security.md,AWS Glue Schema Registry Client library provides serializers / de-serializers for applications to integrate with AWS Glue Schema Registry Service. The library c…
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-imds-packet-analyzer,https://github.com/aws/aws-imds-packet-analyzer,149,Python,SECURITY.md,
-亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-spec-driven-presentation-maker,https://github.com/aws-samples/sample-spec-driven-presentation-maker,137,Python,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-collaborative-ai-dlc,https://github.com/aws-samples/sample-collaborative-ai-dlc,125,JavaScript,SECURITY.md,AI-DLC: Collaborative AI-Driven Development Lifecycle
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/cloudfront-hosting-toolkit,https://github.com/awslabs/cloudfront-hosting-toolkit,112,TypeScript,SECURITY.md,CloudFront Hosting Toolkit offers the convenience of a managed frontend hosting service while retaining full control over the hosting and deployment infrastruct…
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-agent-cost-bench,https://github.com/aws-samples/sample-agent-cost-bench,110,Python,SECURITY.md,"Benchmark framework that measures cost, quality, and duration of coding agents across any AI Coding Assistant CLI, any model, and any use case — with pluggable …"
@@ -4214,6 +4213,7 @@ Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.gith
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/sagemaker-image-builder,https://github.com/aws/sagemaker-image-builder,3,Python,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-bedrock-token-generator-js,https://github.com/aws/aws-bedrock-token-generator-js,3,TypeScript,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-amplify,aws-amplify/.github,https://github.com/aws-amplify/.github,3,,SECURITY.md,
+亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-spec-driven-presentation-maker,https://github.com/aws-samples/sample-spec-driven-presentation-maker,3,Python,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-devops-agent-orchestrator,https://github.com/aws-samples/sample-devops-agent-orchestrator,3,TypeScript,.github/SECURITY.md,"Collect AWS DevOps Agent topology and investigations from every account in an organization, centralize them in an S3 bucket in a hub account, build a Neptune An…"
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-agentic-retail-dynamic-pricing-demo,https://github.com/aws-samples/sample-agentic-retail-dynamic-pricing-demo,3,Python,SECURITY.md,"Multi-agent AI system for autonomous retail pricing optimization using Amazon Bedrock AgentCore. 6 specialized agents orchestrate competitive intelligence, dema…"
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-autonomous-cloud-coding-agents,https://github.com/aws-samples/sample-autonomous-cloud-coding-agents,3,TypeScript,.github/SECURITY.md,"Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance."
@@ -4402,12 +4402,11 @@ Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.gith
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-Hadoop-to-Spark-AgenticAI-Converter,https://github.com/aws-samples/sample-Hadoop-to-Spark-AgenticAI-Converter,0,Python,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/sample-offline-windows-server-upgrade-for-mgn,https://github.com/aws-samples/sample-offline-windows-server-upgrade-for-mgn,0,Python,SECURITY.md,
 亚马逊,自建（Amazon Vulnerability Research Program）,aws-samples,aws-samples/.github,https://github.com/aws-samples/.github,,,SECURITY.md,
-苹果,自建（Apple Security Bounty）,apple,apple/pkl,https://github.com/apple/pkl,11574,Java,SECURITY.md,A configuration as code language with rich validation and tooling.
+苹果,自建（Apple Security Bounty）,apple,apple/pkl,https://github.com/apple/pkl,11576,Java,SECURITY.md,A configuration as code language with rich validation and tooling.
 苹果,自建（Apple Security Bounty）,apple,apple/swift-crypto,https://github.com/apple/swift-crypto,1741,Assembly,SECURITY.md,Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.
 苹果,自建（Apple Security Bounty）,swiftlang,swiftlang/llvm-project,https://github.com/swiftlang/llvm-project,1249,LLVM,SECURITY.md,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Swift’s stable releases of Clang as w…
-苹果,自建（Apple Security Bounty）,apple,apple/swift-container-plugin,https://github.com/apple/swift-container-plugin,395,Swift,SECURITY.md,Build and publish container images using Swift Package Manager
 苹果,自建（Apple Security Bounty）,apple,apple/pkl-go,https://github.com/apple/pkl-go,337,Go,SECURITY.md,Pkl bindings for the Go programming language
-苹果,自建（Apple Security Bounty）,apple,apple/pkl-pantry,https://github.com/apple/pkl-pantry,272,Pkl,SECURITY.md,Shared Pkl packages
+苹果,自建（Apple Security Bounty）,apple,apple/pkl-pantry,https://github.com/apple/pkl-pantry,271,Pkl,SECURITY.md,Shared Pkl packages
 苹果,自建（Apple Security Bounty）,apple,apple/pkl-k8s-examples,https://github.com/apple/pkl-k8s-examples,252,Pkl,SECURITY.md,Examples for using Pkl with Kubernetes
 苹果,自建（Apple Security Bounty）,apple,apple/batch-processing-gateway,https://github.com/apple/batch-processing-gateway,221,Java,SECURITY.md,The gateway component to make Spark on K8s much easier for Spark users.
 苹果,自建（Apple Security Bounty）,apple,apple/pkl-swift,https://github.com/apple/pkl-swift,201,Swift,SECURITY.md,Pkl bindings for the Swift programming language
@@ -6207,8 +6206,8 @@ ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/ai-ml-emulat
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/ai-ml-sdk-for-vulkan,https://github.com/arm/ai-ml-sdk-for-vulkan,30,Python,SECURITY.md,The ML SDK for Vulkan® is an SDK to facilitate the development of projects using the ML extensions for Vulkan®. This repository contains scripts to facilitate b…
 ARM,自建PSIRT（Arm Product Security Incident Response）,ARM-software,ARM-software/CMSIS-mbedTLS,https://github.com/ARM-software/CMSIS-mbedTLS,29,C,SECURITY.md,CMSIS Pack for the mbedTLS software stack
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/performix,https://github.com/arm/performix,23,Go,SECURITY.md,Arm Performix
+ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/Optimized-Runtimes,https://github.com/arm/Optimized-Runtimes,22,C++,SECURITY.md,Arm-optimized inference runtimes for supported models and platforms
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/neural-graphics-model-gym-examples,https://github.com/arm/neural-graphics-model-gym-examples,21,Jupyter Notebook,SECURITY.md,Examples showing how to use the Neural Graphics Model Gym
-ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/Optimized-Runtimes,https://github.com/arm/Optimized-Runtimes,20,C++,SECURITY.md,Arm-optimized inference runtimes for supported models and platforms
 ARM,自建PSIRT（Arm Product Security Incident Response）,ARM-software,ARM-software/devtools,https://github.com/ARM-software/devtools,17,C++,SECURITY.md,Open-CMSIS-Pack development tools - C++ 
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/ai-ml-sdk-vgf-library,https://github.com/arm/ai-ml-sdk-vgf-library,14,C++,SECURITY.md,The VGF Library is a library that encodes and decodes VGF files. The VGF format covers the entire model use cases. These use cases can be a combination of SPIR-…
 ARM,自建PSIRT（Arm Product Security Incident Response）,arm,arm/ai-ml-sdk-scenario-runner,https://github.com/arm/ai-ml-sdk-scenario-runner,14,C++,SECURITY.md,The Scenario Runner is an application that executes shader and neural network graph workloads through Vulkan® or the ML extensions for Vulkan®. 
@@ -7512,7 +7511,7 @@ Slack,自建（Slack VDP）,slackhq,slackhq/field-utils,https://github.com/slack
 Zoom,Bugcrowd（Zoom）,zoom,zoom/vercel-chat,https://github.com/zoom/vercel-chat,1,TypeScript,.github/SECURITY.md,"A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more."
 Zoom,Bugcrowd（Zoom）,zoom,zoom/karpenter,https://github.com/zoom/karpenter,0,Go,SECURITY.md,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity."
 Atlassian,Bugcrowd（Atlassian）,atlassian,atlassian/atlassian-mcp-server,https://github.com/atlassian/atlassian-mcp-server,1163,Python,SECURITY.md,"Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code…"
-Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/prosemirror-kotlin,https://github.com/atlassian-labs/prosemirror-kotlin,43,Kotlin,SECURITY.md,Kotlin implementation of Prosemirror
+Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/prosemirror-kotlin,https://github.com/atlassian-labs/prosemirror-kotlin,44,Kotlin,SECURITY.md,Kotlin implementation of Prosemirror
 Atlassian,Bugcrowd（Atlassian）,atlassian,atlassian/twg-cli,https://github.com/atlassian/twg-cli,32,JavaScript,SECURITY.md,"Public home for Atlassian Teamwork Graph CLI users, release notes, issue tracking, agent skills, and marketplace plugin integration notes."
 Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/roving-office,https://github.com/atlassian-labs/roving-office,16,JavaScript,SECURITY.md,"An office full of characters, and the characters are your AI agents. A soft-3D isometric room that renders live agent sessions as people who walk in, sit down, …"
 Atlassian,Bugcrowd（Atlassian）,atlassian-labs,atlassian-labs/opensearch-aosc,https://github.com/atlassian-labs/opensearch-aosc,11,Java,SECURITY.md,Zero-downtime* index migration & scaling for OpenSearch

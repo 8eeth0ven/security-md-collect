@@ -275,6 +275,19 @@
  {
   "vendor": "ARM",
   "org": "arm",
+  "full_name": "arm/Optimized-Runtimes",
+  "url": "https://github.com/arm/Optimized-Runtimes",
+  "sec_path": "SECURITY.md",
+  "stars": 22,
+  "language": "C++",
+  "description": "Arm-optimized inference runtimes for supported models and platforms",
+  "license": null,
+  "first_seen": "2026-11-01 18:09:23",
+  "last_verified": "2026-11-15 05:02:08"
+ },
+ {
+  "vendor": "ARM",
+  "org": "arm",
   "full_name": "arm/neural-graphics-model-gym-examples",
   "url": "https://github.com/arm/neural-graphics-model-gym-examples",
   "sec_path": "SECURITY.md",
@@ -284,19 +297,6 @@
   "license": null,
   "first_seen": "2026-11-01 18:09:23",
   "last_verified": "2026-11-15 05:02:12"
- },
- {
-  "vendor": "ARM",
-  "org": "arm",
-  "full_name": "arm/Optimized-Runtimes",
-  "url": "https://github.com/arm/Optimized-Runtimes",
-  "sec_path": "SECURITY.md",
-  "stars": 20,
-  "language": "C++",
-  "description": "Arm-optimized inference runtimes for supported models and platforms",
-  "license": null,
-  "first_seen": "2026-11-01 18:09:23",
-  "last_verified": "2026-11-15 05:02:08"
  },
  {
   "vendor": "ARM",

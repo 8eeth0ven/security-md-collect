@@ -35,17 +35,6 @@
  {
   "vendor": "Apache软件基金会",
   "org": "apache",
-  "full_name": "apache/kafka",
-  "url": "https://github.com/apache/kafka",
-  "sec_path": "SECURITY.md",
-  "stars": 34213,
-  "language": "Java",
-  "description": "Apache Kafka - A distributed event streaming platform",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
   "full_name": "apache/incubator-seata",
   "url": "https://github.com/apache/incubator-seata",
   "sec_path": "SECURITY.md",
@@ -229,17 +218,6 @@
   "language": "Java",
   "description": "Apache IoTDB",
   "first_seen": "2026-11-01 18:04:12"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/camel",
-  "url": "https://github.com/apache/camel",
-  "sec_path": "SECURITY.md",
-  "stars": 6407,
-  "language": "Java",
-  "description": "Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apach…",
-  "first_seen": "2026-11-01 18:03:32"
  },
  {
   "vendor": "Apache软件基金会",
@@ -470,17 +448,6 @@
   "stars": 3452,
   "language": "Java",
   "description": "Apache Maven Daemon",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/paimon",
-  "url": "https://github.com/apache/paimon",
-  "sec_path": "SECURITY.md",
-  "stars": 3448,
-  "language": "Java",
-  "description": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
   "first_seen": "2026-11-01 18:03:32"
  },
  {
@@ -823,17 +790,6 @@
   "stars": 1348,
   "language": "Java",
   "description": "Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query eng…",
-  "first_seen": "2026-11-01 18:03:32"
- },
- {
-  "vendor": "Apache软件基金会",
-  "org": "apache",
-  "full_name": "apache/ozone",
-  "url": "https://github.com/apache/ozone",
-  "sec_path": "SECURITY.md",
-  "stars": 1334,
-  "language": "Java",
-  "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
   "first_seen": "2026-11-01 18:03:32"
  },
  {
@@ -3072,6 +3028,58 @@
   "language": "Java",
   "description": "Apache Axis2-Java Rampart",
   "first_seen": "2026-11-01 18:05:58"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/camel",
+  "url": "https://github.com/apache/camel",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apach…",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 16:33:08"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/kafka",
+  "url": "https://github.com/apache/kafka",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "Apache Kafka - A distributed event streaming platform",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 16:33:08"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/ozone",
+  "url": "https://github.com/apache/ozone",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 16:33:08"
+ },
+ {
+  "vendor": "Apache软件基金会",
+  "org": "apache",
+  "full_name": "apache/paimon",
+  "url": "https://github.com/apache/paimon",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Java",
+  "description": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
+  "license": null,
+  "first_seen": "2026-11-01 18:03:32",
+  "last_verified": "2026-11-15 16:33:08"
  },
  {
   "vendor": "Apache软件基金会",

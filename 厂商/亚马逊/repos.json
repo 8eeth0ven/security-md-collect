@@ -5,7 +5,7 @@
   "full_name": "aws/s2n-tls",
   "url": "https://github.com/aws/s2n-tls",
   "sec_path": "SECURITY.md",
-  "stars": 4789,
+  "stars": 4790,
   "language": "C",
   "description": "An implementation of the TLS/SSL protocols",
   "license": null,
@@ -122,7 +122,7 @@
   "full_name": "aws/context-ontology-accelerator",
   "url": "https://github.com/aws/context-ontology-accelerator",
   "sec_path": "SECURITY.md",
-  "stars": 1134,
+  "stars": 1135,
   "language": "Python",
   "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
   "license": null,
@@ -466,7 +466,7 @@
   "full_name": "aws/rolesanywhere-credential-helper",
   "url": "https://github.com/aws/rolesanywhere-credential-helper",
   "sec_path": "SECURITY.md",
-  "stars": 204,
+  "stars": 203,
   "language": "Go",
   "description": "",
   "license": null,
@@ -600,17 +600,6 @@
   "license": null,
   "first_seen": "2026-11-01 18:16:12",
   "last_verified": "2026-11-15 05:03:51"
- },
- {
-  "vendor": "亚马逊",
-  "org": "aws-samples",
-  "full_name": "aws-samples/sample-spec-driven-presentation-maker",
-  "url": "https://github.com/aws-samples/sample-spec-driven-presentation-maker",
-  "sec_path": "SECURITY.md",
-  "stars": 137,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
@@ -2905,6 +2894,17 @@
   "license": null,
   "first_seen": "2026-11-01 18:17:41",
   "last_verified": "2026-11-14 12:54:37"
+ },
+ {
+  "vendor": "亚马逊",
+  "org": "aws-samples",
+  "full_name": "aws-samples/sample-spec-driven-presentation-maker",
+  "url": "https://github.com/aws-samples/sample-spec-driven-presentation-maker",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 18:18:41"
  },
  {
   "vendor": "亚马逊",
