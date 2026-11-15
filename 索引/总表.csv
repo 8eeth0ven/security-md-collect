@@ -301,14 +301,14 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29236,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25835,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24608,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23110,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23111,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19436,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17098,Go,SECURITY.md,Workflow Engine for Kubernetes
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16706,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13927,Go,SECURITY.md,Exporter for machine metrics
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13066,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12537,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12078,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12079,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kompose,https://github.com/kubernetes/kompose,10646,Go,SECURITY.md,Convert Compose to Kubernetes
 CNCF云原生基金会,无(开源基金会),containerd,containerd/nerdctl,https://github.com/containerd/nerdctl,10481,Go,SECURITY.md,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-web,https://github.com/grpc/grpc-web,9259,JavaScript,SECURITY.md,gRPC for Web Clients
@@ -319,8 +319,8 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5942,Go,SECURITY.md,Blackbox prober exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/website,https://github.com/kubernetes/website,5429,HTML,SECURITY.md,Kubernetes website and documentation repo: 
 CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5184,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-node,https://github.com/grpc/grpc-node,4842,TypeScript,SECURITY.md,gRPC for Node.js
-CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dotnet,https://github.com/grpc/grpc-dotnet,4489,C#,SECURITY.md,gRPC for .NET
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-node,https://github.com/grpc/grpc-node,4840,TypeScript,SECURITY.md,gRPC for Node.js
+CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dotnet,https://github.com/grpc/grpc-dotnet,4487,C#,SECURITY.md,gRPC for .NET
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_python,https://github.com/prometheus/client_python,4386,Python,SECURITY.md,Prometheus instrumentation library for Python applications
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/test-infra,https://github.com/kubernetes/test-infra,4027,Go,SECURITY.md,Test infrastructure for the Kubernetes project.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubeadm,https://github.com/kubernetes/kubeadm,4001,Go,SECURITY.md,Aggregator for issues filed against kubeadm
@@ -3848,7 +3848,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/SynthDocQA,https://github.com/microsoft/SynthDocQA,0,HTML,SECURITY.md,"Code related to Neurips paper 2026 ""The Missing Corpus: Infinite Ground Truth for File-Grounded Enterprise LLM Evaluation"""
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/.github,https://github.com/microsoft/.github,,,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201596,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
-谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/go,https://github.com/golang/go,139879,Go,SECURITY.md,The Go programming language
+谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/go,https://github.com/golang/go,139907,Go,SECURITY.md,The Go programming language
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101481,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77631,Python,SECURITY.md,Models and examples built with TensorFlow
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular.js,https://github.com/angular/angular.js,58428,JavaScript,SECURITY.md,AngularJS - HTML enhanced for web apps!
@@ -3869,7 +3869,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorboard,https://github.com/tensorflow/tensorboard,7241,TypeScript,SECURITY.md,TensorFlow's Visualization Toolkit
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/security-research,https://github.com/google/security-research,4738,C,SECURITY.md,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/santa,https://github.com/google/santa,4499,Objective-C++,SECURITY.md,A binary authorization and monitoring system for macOS
-谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/vscode-go,https://github.com/golang/vscode-go,4273,TypeScript,SECURITY.md,Go extension for Visual Studio Code
+谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/vscode-go,https://github.com/golang/vscode-go,4274,TypeScript,SECURITY.md,Go extension for Visual Studio Code
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/tamperchrome,https://github.com/google/tamperchrome,4227,TypeScript,SECURITY.md,Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all …
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-containerregistry,https://github.com/google/go-containerregistry,4133,Go,SECURITY.md,Go library and CLIs for working with container registries
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/universal,https://github.com/angular/universal,3984,TypeScript,SECURITY.md,Server-side rendering and Prerendering for Angular
@@ -3888,7 +3888,6 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/appengine,https://github.com/golang/appengine,671,Go,SECURITY.md,Go App Engine packages
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/kmsan,https://github.com/google/kmsan,417,C,SECURITY.md,"KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel"
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/RB-Modulation,https://github.com/google/RB-Modulation,401,Jupyter Notebook,SECURITY.md,"Official code for ""RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control"""
-谷歌,"自建（Google VRP, bughunters.google.com）",google,google/three-live,https://github.com/google/three-live,344,TypeScript,SECURITY.md,"AI-first Native 3D, CAD & spatial computing. Runtime and JIT compiler for Android (Filament & Jetpack XR), iOS/visionOS (RealityKit), and WebGL2/WebXR."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/password-alert,https://github.com/google/password-alert,324,JavaScript,SECURITY.md,A Chrome Extension to help protect against phishing attacks.
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/build,https://github.com/tensorflow/build,313,Shell,SECURITY.md,Build-related tools for TensorFlow
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angularjs.org,https://github.com/angular/angularjs.org,258,JavaScript,SECURITY.md,code for angularjs.org site
@@ -3930,6 +3929,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/strands,https://github.com/google/strands,4,Java,SECURITY.md,"Strands provides structured concurrency for Java using virtual threads, reducing the syntactic overhead of traditional asynchronous frameworks."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/cybernetic-agent-governance-engine,https://github.com/google/cybernetic-agent-governance-engine,3,Python,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/gvisor,https://github.com/google/gvisor,3,Go,SECURITY.md,Application Kernel for Containers
+谷歌,"自建（Google VRP, bughunters.google.com）",google,google/three-live,https://github.com/google/three-live,3,TypeScript,SECURITY.md,"AI-first Native 3D, CAD & spatial computing. Runtime and JIT compiler for Android (Filament & Jetpack XR), iOS/visionOS (RealityKit), and WebGL2/WebXR."
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/brotli,https://github.com/google/brotli,3,TypeScript,SECURITY.md,> Brotli compression format
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/adjuice,https://github.com/google/adjuice,3,Python,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-testgen,https://github.com/google/go-testgen,3,Go,SECURITY.md,
@@ -7566,23 +7566,23 @@ JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/react-buddy-react
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/Anki-Android,https://github.com/JetBrains/Anki-Android,0,Kotlin,SECURITY.md,AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 JetBrains,自建（JetBrains Bug Bounty）,JetBrains,JetBrains/spring-framework,https://github.com/JetBrains/spring-framework,0,Java,SECURITY.md,Spring Framework
 GitLab,HackerOne（GitLab）,gitlabhq,gitlabhq/cli,https://github.com/gitlabhq/cli,53,Go,SECURITY.md,Read only mirror of https://gitlab.com/gitlab-org/cli
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/spec-kit,https://github.com/github/spec-kit,149756,Python,SECURITY.md,💫 Toolkit to help you get started with SDD or any other process!
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/awesome-copilot,https://github.com/github/awesome-copilot,41150,JavaScript,SECURITY.md,"Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/github-mcp-server,https://github.com/github/github-mcp-server,34454,Go,SECURITY.md,GitHub's official MCP Server
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/spec-kit,https://github.com/github/spec-kit,149806,Python,SECURITY.md,💫 Toolkit to help you get started with SDD or any other process!
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/awesome-copilot,https://github.com/github/awesome-copilot,41162,JavaScript,SECURITY.md,"Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/github-mcp-server,https://github.com/github/github-mcp-server,34469,Go,SECURITY.md,GitHub's official MCP Server
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot.vim,https://github.com/github/copilot.vim,11712,Vim Script,SECURITY.md,Neovim plugin for GitHub Copilot
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-sdk,https://github.com/github/copilot-sdk,10680,Java,SECURITY.md,Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-sdk,https://github.com/github/copilot-sdk,10681,Java,SECURITY.md,Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/roadmap,https://github.com/github/roadmap,8975,,SECURITY.md,GitHub public roadmap
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/CopilotForXcode,https://github.com/github/CopilotForXcode,6388,Swift,SECURITY.md,AI coding assistant for Xcode
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-aw,https://github.com/github/gh-aw,5634,Go,SECURITY.md,GitHub Agentic Workflows
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/CopilotForXcode,https://github.com/github/CopilotForXcode,6389,Swift,SECURITY.md,AI coding assistant for Xcode
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-aw,https://github.com/github/gh-aw,5637,Go,SECURITY.md,GitHub Agentic Workflows
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/mona-sans,https://github.com/github/mona-sans,4199,Shell,SECURITY.md,"Mona Sans, a variable font from GitHub"
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/squad,https://github.com/github/squad,3390,TypeScript,SECURITY.md,Squad: AI agent teams for any project
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/squad,https://github.com/github/squad,3391,TypeScript,SECURITY.md,Squad: AI agent teams for any project
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-cli-for-beginners,https://github.com/github/copilot-cli-for-beginners,2918,Tape,SECURITY.md,Learn how to get started using the GitHub Copilot CLI!
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/advisory-database,https://github.com/github/advisory-database,2554,,SECURITY.md,Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/hubot-sans,https://github.com/github/hubot-sans,1968,Shell,SECURITY.md,"Hubot Sans, a variable font from GitHub"
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-stack,https://github.com/github/gh-stack,1767,Go,SECURITY.md,GitHub Stacked PRs
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-stack,https://github.com/github/gh-stack,1769,Go,SECURITY.md,GitHub Stacked PRs
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/rest-api-description,https://github.com/github/rest-api-description,1651,,SECURITY.md,An OpenAPI description for GitHub's REST API
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/catalyst,https://github.com/github/catalyst,1437,TypeScript,SECURITY.md,Catalyst is a set of patterns and techniques for developing components within a complex application.
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/.github,https://github.com/github/.github,1246,,SECURITY.md,Community health files for the @GitHub organization
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/.github,https://github.com/github/.github,1248,,SECURITY.md,Community health files for the @GitHub organization
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/GreenSoftwareDirectory,https://github.com/github/GreenSoftwareDirectory,945,,SECURITY.md,Welcome to GitHub's Green Software Directory!
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/stack-graphs,https://github.com/github/stack-graphs,877,Rust,SECURITY.md,Rust implementation of stack graphs
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/brasil,https://github.com/github/brasil,789,Ruby,SECURITY.md,Recursos e informações do GitHub para a comunidade tech do Brasil.
@@ -7591,14 +7591,14 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/ruleset-recipes,h
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/codeql-go,https://github.com/github/codeql-go,472,,SECURITY.md,The CodeQL extractor and libraries for Go.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/local-action,https://github.com/github/local-action,461,TypeScript,SECURITY.md,A simple utility for running and debugging a GitHub Action locally
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/entitlements-app,https://github.com/github/entitlements-app,449,Ruby,SECURITY.md,The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/storybook-addon-performance-panel,https://github.com/github/storybook-addon-performance-panel,430,TypeScript,SECURITY.md,A Storybook Addon for tracking web performance
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/accessibility-scanner,https://github.com/github/accessibility-scanner,396,TypeScript,SECURITY.md,"Finds potential accessibility gaps, files GitHub issues to track them, and attempts to fix them with Copilot."
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/storybook-addon-performance-panel,https://github.com/github/storybook-addon-performance-panel,431,TypeScript,SECURITY.md,A Storybook Addon for tracking web performance
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/accessibility-scanner,https://github.com/github/accessibility-scanner,397,TypeScript,SECURITY.md,"Finds potential accessibility gaps, files GitHub issues to track them, and attempts to fix them with Copilot."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-plugins,https://github.com/github/copilot-plugins,384,PowerShell,SECURITY.md,"The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot."
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-actions-lock,https://github.com/github/gh-actions-lock,375,Go,SECURITY.md,"A gh CLI extension that generates and verifies the GitHub Actions dependency lockfile, pinning every action your workflows use to an exact commit."
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-actions-lock,https://github.com/github/gh-actions-lock,377,Go,SECURITY.md,"A gh CLI extension that generates and verifies the GitHub Actions dependency lockfile, pinning every action your workflows use to an exact commit."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/GitHub-Copilot-Dev-Days,https://github.com/github/GitHub-Copilot-Dev-Days,349,,SECURITY.md,"Repo for GitHub Copilot Dev Days content, global in-person series of events focused on GitHub Copilot."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/annotation-toolkit,https://github.com/github/annotation-toolkit,329,,.github/SECURITY.md," The GitHub Annotation Toolkit is a Figma asset library packed with components to help you organize your design canvas, diagram UI anatomy, and annotate accessi…"
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/copilot-language-server-release,https://github.com/github/copilot-language-server-release,295,,SECURITY.md,Feedback for the GitHub Copilot Language Server
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/replica,https://github.com/github/replica,269,TypeScript,SECURITY.md,Interactive prototyping tools for your team.
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/replica,https://github.com/github/replica,273,TypeScript,SECURITY.md,Interactive prototyping tools for your team.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/issue-labeler,https://github.com/github/issue-labeler,244,TypeScript,SECURITY.md,An action for automatically labelling issues
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/codeql-coding-standards,https://github.com/github/codeql-coding-standards,234,CodeQL,SECURITY.md,This repository contains CodeQL queries and libraries which support various Coding Standards.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/ai-moderator,https://github.com/github/ai-moderator,211,TypeScript,SECURITY.md,An AI-powered GitHub Action that detects and tags spam in your repository
@@ -7699,10 +7699,10 @@ GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/chatops-templates
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/terraform-github-runner-vnet,https://github.com/github/terraform-github-runner-vnet,7,HCL,SECURITY.md,Terraform modules that configure private networking for GitHub-hosted Action Runners.
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-runtime-cli,https://github.com/github/gh-runtime-cli,7,Go,SECURITY.md,GH CLI extension used to deploy sparks to the GitHub runtime 
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/github-event-mirror-azure-function,https://github.com/github/github-event-mirror-azure-function,7,TypeScript,SECURITY.md,"Mirror GitHub events back to their originating repo to trigger Actions workflows, using this Azure Function"
+GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/plugin-marketplace-starter,https://github.com/github/plugin-marketplace-starter,7,JavaScript,SECURITY.md,"A starter for building a GitHub Copilot plugin marketplace with skills, agents, MCP tools, and evals."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-mysql-conf-diff,https://github.com/github/gh-mysql-conf-diff,6,Go,SECURITY.md,Diff MySQL config options with running server variables
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/cosmo,https://github.com/github/cosmo,6,TypeScript,SECURITY.md,"The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale. The alternative to Apollo Studio and GraphOS."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/heroku-buildpack-lightstep-satellite,https://github.com/github/heroku-buildpack-lightstep-satellite,6,Shell,SECURITY.md,Heroku buildpack to run the lightstep collector in each dyno
-GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/plugin-marketplace-starter,https://github.com/github/plugin-marketplace-starter,6,JavaScript,SECURITY.md,"A starter for building a GitHub Copilot plugin marketplace with skills, agents, MCP tools, and evals."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/policy-controller,https://github.com/github/policy-controller,5,Go,SECURITY.md,Temporary GitHub managed Sigstore Policy Controller fork
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/evals,https://github.com/github/evals,5,,SECURITY.md,"Explore, evaluate, and improve GitHub Copilot customizations with repeatable evals and saved results."
 GitHub,HackerOne（GitHub Security Bug Bounty）,github,github/gh-aw-harness,https://github.com/github/gh-aw-harness,4,Makefile,SECURITY.md,Agent harness for Agentic Workflows
@@ -8205,7 +8205,7 @@ Sentry,自建（Sentry Security）,getsentry,getsentry/swc,https://github.com/ge
 Grafana,自建（Grafana Labs Security）,grafana,grafana/tanka,https://github.com/grafana/tanka,2693,Go,SECURITY.md,"Flexible, reusable and concise configuration for Kubernetes"
 Grafana,自建（Grafana Labs Security）,grafana,grafana/unused,https://github.com/grafana/unused,65,Go,SECURITY.md,"CLI tool, Prometheus exporter, and Go module to list your unused disks in all cloud providers"
 Grafana,自建（Grafana Labs Security）,grafana,grafana/mimir-prometheus,https://github.com/grafana/mimir-prometheus,50,Go,SECURITY.md,
-Grafana,自建（Grafana Labs Security）,grafana,grafana/kubectl-nodepools,https://github.com/grafana/kubectl-nodepools,28,Go,SECURITY.md,A kubectl plugin for listing node pools/groups
+Grafana,自建（Grafana Labs Security）,grafana,grafana/kubectl-nodepools,https://github.com/grafana/kubectl-nodepools,27,Go,SECURITY.md,A kubectl plugin for listing node pools/groups
 Grafana,自建（Grafana Labs Security）,grafana,grafana/Kost,https://github.com/grafana/Kost,26,Go,SECURITY.md,K8s Cost Calculator that provides estimated reports for workloads running in Kubernetes.
 Grafana,自建（Grafana Labs Security）,grafana,grafana/wait-for-github,https://github.com/grafana/wait-for-github,22,Go,SECURITY.md,
 Grafana,自建（Grafana Labs Security）,grafana,grafana/prometheus,https://github.com/grafana/prometheus,17,Go,SECURITY.md,The Prometheus monitoring system and time series database.
@@ -8228,18 +8228,18 @@ Grafana,自建（Grafana Labs Security）,grafana,grafana/mcp-doc-server,https:/
 Grafana,自建（Grafana Labs Security）,grafana,grafana/tilt-extensions,https://github.com/grafana/tilt-extensions,2,Starlark,SECURITY.md,Internal Tilt extensions
 Grafana,自建（Grafana Labs Security）,grafana,grafana/mysqld_exporter,https://github.com/grafana/mysqld_exporter,1,Go,SECURITY.md,Exporter for MySQL server metrics
 Grafana,自建（Grafana Labs Security）,grafana,grafana/go-mysql-server,https://github.com/grafana/go-mysql-server,1,Go,SECURITY.md,A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
-Grafana,自建（Grafana Labs Security）,grafana,grafana/rrweb,https://github.com/grafana/rrweb,,TypeScript,SECURITY.md,Fork of rrweb for Grafana session replay
-Grafana,自建（Grafana Labs Security）,grafana,grafana/terraform-aws-github-runner,https://github.com/grafana/terraform-aws-github-runner,,TypeScript,SECURITY.md,Terraform module for scalable GitHub action runners on AWS
-Grafana,自建（Grafana Labs Security）,grafana,grafana/pyroscope-py-spy,https://github.com/grafana/pyroscope-py-spy,,Rust,SECURITY.md,Sampling profiler for Python programs
-Grafana,自建（Grafana Labs Security）,grafana,grafana/mcp-registry,https://github.com/grafana/mcp-registry,,Go,.github/SECURITY.md,Official Docker MCP registry 
-Grafana,自建（Grafana Labs Security）,grafana,grafana/copilot-plugins,https://github.com/grafana/copilot-plugins,,PowerShell,SECURITY.md,"The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot."
-Grafana,自建（Grafana Labs Security）,grafana,grafana/jest-canvas-mock-compare,https://github.com/grafana/jest-canvas-mock-compare,,TypeScript,SECURITY.md,Visual regression tooling for jest canvas snapshot tests
-Grafana,自建（Grafana Labs Security）,grafana,grafana/vitess,https://github.com/grafana/vitess,,Go,SECURITY.md,Vitess is a database clustering system for horizontal scaling of MySQL.
-Grafana,自建（Grafana Labs Security）,grafana,grafana/stackdriver_exporter,https://github.com/grafana/stackdriver_exporter,,Go,SECURITY.md,Google Stackdriver Prometheus exporter
-Grafana,自建（Grafana Labs Security）,grafana,grafana/mimir-otlptranslator,https://github.com/grafana/mimir-otlptranslator,,Go,SECURITY.md,Library to translate OTLP metric and attribute names to Prometheus metric and label names.
-Grafana,自建（Grafana Labs Security）,grafana,grafana/composables,https://github.com/grafana/composables,,Starlark,SECURITY.md,
-Grafana,自建（Grafana Labs Security）,grafana,grafana/agent-remote-config,https://github.com/grafana/agent-remote-config,,Makefile,SECURITY.md,
-Grafana,自建（Grafana Labs Security）,grafana,grafana/macropro,https://github.com/grafana/macropro,,Go,SECURITY.md,"A generic, language-agnostic Go library for parsing and expanding Grafana macros"
+Grafana,自建（Grafana Labs Security）,grafana,grafana/rrweb,https://github.com/grafana/rrweb,0,TypeScript,SECURITY.md,Fork of rrweb for Grafana session replay
+Grafana,自建（Grafana Labs Security）,grafana,grafana/terraform-aws-github-runner,https://github.com/grafana/terraform-aws-github-runner,0,TypeScript,SECURITY.md,Terraform module for scalable GitHub action runners on AWS
+Grafana,自建（Grafana Labs Security）,grafana,grafana/pyroscope-py-spy,https://github.com/grafana/pyroscope-py-spy,0,Rust,SECURITY.md,Sampling profiler for Python programs
+Grafana,自建（Grafana Labs Security）,grafana,grafana/mcp-registry,https://github.com/grafana/mcp-registry,0,Go,.github/SECURITY.md,Official Docker MCP registry 
+Grafana,自建（Grafana Labs Security）,grafana,grafana/copilot-plugins,https://github.com/grafana/copilot-plugins,0,PowerShell,SECURITY.md,"The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot."
+Grafana,自建（Grafana Labs Security）,grafana,grafana/jest-canvas-mock-compare,https://github.com/grafana/jest-canvas-mock-compare,0,TypeScript,SECURITY.md,Visual regression tooling for jest canvas snapshot tests
+Grafana,自建（Grafana Labs Security）,grafana,grafana/vitess,https://github.com/grafana/vitess,0,Go,SECURITY.md,Vitess is a database clustering system for horizontal scaling of MySQL.
+Grafana,自建（Grafana Labs Security）,grafana,grafana/stackdriver_exporter,https://github.com/grafana/stackdriver_exporter,0,Go,SECURITY.md,Google Stackdriver Prometheus exporter
+Grafana,自建（Grafana Labs Security）,grafana,grafana/mimir-otlptranslator,https://github.com/grafana/mimir-otlptranslator,0,Go,SECURITY.md,Library to translate OTLP metric and attribute names to Prometheus metric and label names.
+Grafana,自建（Grafana Labs Security）,grafana,grafana/composables,https://github.com/grafana/composables,0,Starlark,SECURITY.md,
+Grafana,自建（Grafana Labs Security）,grafana,grafana/agent-remote-config,https://github.com/grafana/agent-remote-config,0,Makefile,SECURITY.md,
+Grafana,自建（Grafana Labs Security）,grafana,grafana/macropro,https://github.com/grafana/macropro,0,Go,SECURITY.md,"A generic, language-agnostic Go library for parsing and expanding Grafana macros"
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/multipass,https://github.com/canonical/multipass,9380,C++,SECURITY.md,Multipass orchestrates virtual Ubuntu instances
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/lxd,https://github.com/canonical/lxd,4851,Go,SECURITY.md,Powerful system container and virtual machine manager
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/dqlite,https://github.com/canonical/dqlite,4424,C,SECURITY.md,"Embeddable, replicated and fault-tolerant SQL engine."

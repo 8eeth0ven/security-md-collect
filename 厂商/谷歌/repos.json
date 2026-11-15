@@ -18,7 +18,7 @@
   "full_name": "golang/go",
   "url": "https://github.com/golang/go",
   "sec_path": "SECURITY.md",
-  "stars": 139879,
+  "stars": 139907,
   "language": "Go",
   "description": "The Go programming language",
   "license": null,
@@ -277,7 +277,7 @@
   "full_name": "golang/vscode-go",
   "url": "https://github.com/golang/vscode-go",
   "sec_path": "SECURITY.md",
-  "stars": 4273,
+  "stars": 4274,
   "language": "TypeScript",
   "description": "Go extension for Visual Studio Code",
   "license": null,
@@ -504,18 +504,6 @@
   "description": "Official code for \"RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control\"",
   "license": null,
   "first_seen": "2026-11-02 04:21:32"
- },
- {
-  "vendor": "谷歌",
-  "org": "google",
-  "full_name": "google/three-live",
-  "url": "https://github.com/google/three-live",
-  "sec_path": "SECURITY.md",
-  "stars": 344,
-  "language": "TypeScript",
-  "description": "AI-first Native 3D, CAD & spatial computing. Runtime and JIT compiler for Android (Filament & Jetpack XR), iOS/visionOS (RealityKit), and WebGL2/WebXR.",
-  "license": null,
-  "first_seen": "2026-11-02 04:18:39"
  },
  {
   "vendor": "谷歌",
@@ -1018,6 +1006,19 @@
   "license": null,
   "first_seen": "2026-11-01 20:53:27",
   "last_verified": "2026-11-14 21:04:51"
+ },
+ {
+  "vendor": "谷歌",
+  "org": "google",
+  "full_name": "google/three-live",
+  "url": "https://github.com/google/three-live",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "AI-first Native 3D, CAD & spatial computing. Runtime and JIT compiler for Android (Filament & Jetpack XR), iOS/visionOS (RealityKit), and WebGL2/WebXR.",
+  "license": null,
+  "first_seen": "2026-11-02 04:18:39",
+  "last_verified": "2026-11-15 10:33:50"
  },
  {
   "vendor": "谷歌",

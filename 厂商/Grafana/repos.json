@@ -8,7 +8,9 @@
   "stars": 2693,
   "language": "Go",
   "description": "Flexible, reusable and concise configuration for Kubernetes",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -19,7 +21,9 @@
   "stars": 65,
   "language": "Go",
   "description": "CLI tool, Prometheus exporter, and Go module to list your unused disks in all cloud providers",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -30,7 +34,9 @@
   "stars": 50,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -38,10 +44,12 @@
   "full_name": "grafana/kubectl-nodepools",
   "url": "https://github.com/grafana/kubectl-nodepools",
   "sec_path": "SECURITY.md",
-  "stars": 28,
+  "stars": 27,
   "language": "Go",
   "description": "A kubectl plugin for listing node pools/groups",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -52,7 +60,9 @@
   "stars": 26,
   "language": "Go",
   "description": "K8s Cost Calculator that provides estimated reports for workloads running in Kubernetes.",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -63,7 +73,9 @@
   "stars": 22,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -74,7 +86,9 @@
   "stars": 17,
   "language": "Go",
   "description": "The Prometheus monitoring system and time series database.",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -85,7 +99,9 @@
   "stars": 16,
   "language": "TypeScript",
   "description": "",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -96,7 +112,9 @@
   "stars": 11,
   "language": "Go",
   "description": "Prometheus Alertmanager",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -107,7 +125,9 @@
   "stars": 7,
   "language": "TypeScript",
   "description": "The repository for high quality TypeScript type definitions.",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -118,7 +138,9 @@
   "stars": 7,
   "language": "Go",
   "description": "Exporter for machine metrics",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -129,7 +151,9 @@
   "stars": 6,
   "language": "Go",
   "description": "The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -140,7 +164,9 @@
   "stars": 5,
   "language": "Dockerfile",
   "description": "",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -151,7 +177,9 @@
   "stars": 5,
   "language": "Go",
   "description": "A PostgresSQL metric exporter for Prometheus",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -162,7 +190,9 @@
   "stars": 4,
   "language": "Go",
   "description": "Generate a config file for `palantir/policy-bot` to help you enforce conditional workflows have passed",
-  "first_seen": "2026-11-01 21:18:54"
+  "license": null,
+  "first_seen": "2026-11-01 21:18:54",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -173,7 +203,9 @@
   "stars": 4,
   "language": "Go",
   "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -184,7 +216,9 @@
   "stars": 4,
   "language": "Go",
   "description": "Blackbox prober exporter",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -208,7 +242,9 @@
   "stars": 2,
   "language": "Go",
   "description": "",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -219,7 +255,9 @@
   "stars": 2,
   "language": "Go",
   "description": "The Cloud Native Control Plane",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -230,7 +268,9 @@
   "stars": 2,
   "language": "Go",
   "description": "SNMP Exporter for Prometheus",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -241,7 +281,9 @@
   "stars": 2,
   "language": "TypeScript",
   "description": "generate release PRs based on the conventionalcommits.org spec",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -252,7 +294,9 @@
   "stars": 2,
   "language": "Go",
   "description": "Grafana docs MCP server with integration for mcp-grafana and gcx.",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -263,7 +307,9 @@
   "stars": 2,
   "language": "Starlark",
   "description": "Internal Tilt extensions",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -274,7 +320,9 @@
   "stars": 1,
   "language": "Go",
   "description": "Exporter for MySQL server metrics",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -285,7 +333,9 @@
   "stars": 1,
   "language": "Go",
   "description": "A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -293,10 +343,12 @@
   "full_name": "grafana/rrweb",
   "url": "https://github.com/grafana/rrweb",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Fork of rrweb for Grafana session replay",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -304,10 +356,12 @@
   "full_name": "grafana/terraform-aws-github-runner",
   "url": "https://github.com/grafana/terraform-aws-github-runner",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Terraform module for scalable GitHub action runners on AWS",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -315,10 +369,12 @@
   "full_name": "grafana/pyroscope-py-spy",
   "url": "https://github.com/grafana/pyroscope-py-spy",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Rust",
   "description": "Sampling profiler for Python programs",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -326,10 +382,12 @@
   "full_name": "grafana/mcp-registry",
   "url": "https://github.com/grafana/mcp-registry",
   "sec_path": ".github/SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Official Docker MCP registry ",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -337,10 +395,12 @@
   "full_name": "grafana/copilot-plugins",
   "url": "https://github.com/grafana/copilot-plugins",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "PowerShell",
   "description": "The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -348,10 +408,12 @@
   "full_name": "grafana/jest-canvas-mock-compare",
   "url": "https://github.com/grafana/jest-canvas-mock-compare",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "TypeScript",
   "description": "Visual regression tooling for jest canvas snapshot tests",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -359,10 +421,12 @@
   "full_name": "grafana/vitess",
   "url": "https://github.com/grafana/vitess",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -370,10 +434,12 @@
   "full_name": "grafana/stackdriver_exporter",
   "url": "https://github.com/grafana/stackdriver_exporter",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Google Stackdriver Prometheus exporter",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:42"
  },
  {
   "vendor": "Grafana",
@@ -381,10 +447,12 @@
   "full_name": "grafana/mimir-otlptranslator",
   "url": "https://github.com/grafana/mimir-otlptranslator",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "Library to translate OTLP metric and attribute names to Prometheus metric and label names.",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -392,10 +460,12 @@
   "full_name": "grafana/composables",
   "url": "https://github.com/grafana/composables",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Starlark",
   "description": "",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -403,10 +473,12 @@
   "full_name": "grafana/agent-remote-config",
   "url": "https://github.com/grafana/agent-remote-config",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Makefile",
   "description": "",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  },
  {
   "vendor": "Grafana",
@@ -414,9 +486,11 @@
   "full_name": "grafana/macropro",
   "url": "https://github.com/grafana/macropro",
   "sec_path": "SECURITY.md",
-  "stars": null,
+  "stars": 0,
   "language": "Go",
   "description": "A generic, language-agnostic Go library for parsing and expanding Grafana macros",
-  "first_seen": "2026-11-01 21:20:26"
+  "license": null,
+  "first_seen": "2026-11-01 21:20:26",
+  "last_verified": "2026-11-15 10:34:32"
  }
 ]
