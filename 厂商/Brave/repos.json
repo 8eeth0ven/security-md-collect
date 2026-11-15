@@ -5,7 +5,7 @@
   "full_name": "brave/brave-core",
   "url": "https://github.com/brave/brave-core",
   "sec_path": "SECURITY.md",
-  "stars": 3792,
+  "stars": 3793,
   "language": "C++",
   "description": "Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues",
   "license": null,
@@ -327,6 +327,19 @@
  {
   "vendor": "Brave",
   "org": "brave",
+  "full_name": "brave/ai-gateway",
+  "url": "https://github.com/brave/ai-gateway",
+  "sec_path": "SECURITY.md",
+  "stars": 10,
+  "language": "Python",
+  "description": "Backend for Brave's AI Services",
+  "license": null,
+  "first_seen": "2026-11-01 18:34:54",
+  "last_verified": "2026-11-15 05:35:15"
+ },
+ {
+  "vendor": "Brave",
+  "org": "brave",
   "full_name": "brave/star-randsrv",
   "url": "https://github.com/brave/star-randsrv",
   "sec_path": "SECURITY.md",
@@ -336,19 +349,6 @@
   "license": null,
   "first_seen": "2026-11-01 18:34:54",
   "last_verified": "2026-11-15 05:35:19"
- },
- {
-  "vendor": "Brave",
-  "org": "brave",
-  "full_name": "brave/ai-gateway",
-  "url": "https://github.com/brave/ai-gateway",
-  "sec_path": "SECURITY.md",
-  "stars": 9,
-  "language": "Python",
-  "description": "Backend for Brave's AI Services",
-  "license": null,
-  "first_seen": "2026-11-01 18:34:54",
-  "last_verified": "2026-11-15 05:35:15"
  },
  {
   "vendor": "Brave",

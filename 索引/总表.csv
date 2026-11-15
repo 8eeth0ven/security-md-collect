@@ -3982,10 +3982,10 @@ Meta,自建（Meta Bug Bounty）,Meta,Meta/.github,https://github.com/Meta/.gith
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-lambda-web-adapter,https://github.com/aws/aws-lambda-web-adapter,2761,Rust,SECURITY.md,Run web applications on AWS Lambda
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/amazon-freertos,https://github.com/aws/amazon-freertos,2531,C,SECURITY.md,DEPRECATED - See README.md
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/amazon-q-developer-cli,https://github.com/aws/amazon-q-developer-cli,1988,Rust,SECURITY.md,✨ Agentic chat experience in your terminal. Build applications using natural language.
-亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/cli-agent-orchestrator,https://github.com/awslabs/cli-agent-orchestrator,1559,Python,SECURITY.md,"Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions"
+亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/cli-agent-orchestrator,https://github.com/awslabs/cli-agent-orchestrator,1561,Python,SECURITY.md,"Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions"
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-support-tools,https://github.com/awslabs/aws-support-tools,1509,Python,SECURITY.md,Tools and sample code provided by AWS Premium Support.
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/s2n-quic,https://github.com/aws/s2n-quic,1381,Rust,SECURITY.md,An implementation of the IETF QUIC protocol
-亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-solutions-constructs,https://github.com/awslabs/aws-solutions-constructs,1361,TypeScript,SECURITY.md,"The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patter…"
+亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/aws-solutions-constructs,https://github.com/awslabs/aws-solutions-constructs,1362,TypeScript,SECURITY.md,"The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patter…"
 亚马逊,自建（Amazon Vulnerability Research Program）,awslabs,awslabs/swift-aws-lambda-runtime,https://github.com/awslabs/swift-aws-lambda-runtime,1237,Swift,SECURITY.md,Swift implementation of AWS Lambda Runtime
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/context-ontology-accelerator,https://github.com/aws/context-ontology-accelerator,1135,Python,SECURITY.md,"An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
 亚马逊,自建（Amazon Vulnerability Research Program）,aws,aws/aws-iot-device-sdk-embedded-C,https://github.com/aws/aws-iot-device-sdk-embedded-C,1061,C,SECURITY.md,SDK for connecting to AWS IoT from a device using embedded C.
@@ -8807,7 +8807,7 @@ Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/dex,https://github.com/mo
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/terraform-provider-heroku,https://github.com/mozilla/terraform-provider-heroku,0,Go,SECURITY.md,Terraform Heroku provider
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/temp-aryx-enterprise-firefox,https://github.com/mozilla/temp-aryx-enterprise-firefox,0,JavaScript,SECURITY.md,needed to test pulse messages for merges
 Mozilla,自建（Mozilla Bug Bounty）,mozilla,mozilla/onnxruntime,https://github.com/mozilla/onnxruntime,0,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
-Brave,HackerOne（Brave）,brave,brave/brave-core,https://github.com/brave/brave-core,3792,C++,SECURITY.md,Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
+Brave,HackerOne（Brave）,brave,brave/brave-core,https://github.com/brave/brave-core,3793,C++,SECURITY.md,Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 Brave,HackerOne（Brave）,brave,brave/adblock-rust,https://github.com/brave/adblock-rust,2941,Rust,SECURITY.md,Brave's Rust-based adblock engine
 Brave,HackerOne（Brave）,brave,brave/brave-talk,https://github.com/brave/brave-talk,154,TypeScript,SECURITY.md,Unlimited private video calls with your friends and colleagues
 Brave,HackerOne（Brave）,brave,brave/kuchikiki,https://github.com/brave/kuchikiki,79,Rust,SECURITY.md,(口利き) HTML tree-manipulation library for Rust
@@ -8832,8 +8832,8 @@ Brave,HackerOne（Brave）,brave,brave/wallet-standard-brave,https://github.com/
 Brave,HackerOne（Brave）,brave,brave/accounts,https://github.com/brave/accounts,14,Go,SECURITY.md,Brave Accounts backend
 Brave,HackerOne（Brave）,brave,brave/store-brave-com,https://github.com/brave/store-brave-com,13,TypeScript,SECURITY.md,
 Brave,HackerOne（Brave）,brave,brave/simplepadding,https://github.com/brave/simplepadding,11,Python,SECURITY.md,
+Brave,HackerOne（Brave）,brave,brave/ai-gateway,https://github.com/brave/ai-gateway,10,Python,SECURITY.md,Backend for Brave's AI Services
 Brave,HackerOne（Brave）,brave,brave/star-randsrv,https://github.com/brave/star-randsrv,10,Rust,SECURITY.md,Go wrapper service for the STAR randomness server.
-Brave,HackerOne（Brave）,brave,brave/ai-gateway,https://github.com/brave/ai-gateway,9,Python,SECURITY.md,Backend for Brave's AI Services
 Brave,HackerOne（Brave）,brave,brave/brave-search-extension,https://github.com/brave/brave-search-extension,9,JavaScript,SECURITY.md,
 Brave,HackerOne（Brave）,brave,brave/pagegraph-rust,https://github.com/brave/pagegraph-rust,8,Rust,SECURITY.md,Utilities for analyzing PageGraph outputs
 Brave,HackerOne（Brave）,brave,brave/playlist-component,https://github.com/brave/playlist-component,7,JavaScript,SECURITY.md,
@@ -9457,9 +9457,9 @@ Stripe,自建BB,stripe,stripe/memlink,https://github.com/stripe/memlink,7,Go,SEC
 Stripe,自建BB,stripe,stripe/sdk-migrator,https://github.com/stripe/sdk-migrator,7,TypeScript,SECURITY.md,Stripe SDK migrator to upgrade versions
 Stripe,自建BB,stripe,stripe/winget-pkgs,https://github.com/stripe/winget-pkgs,2,,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
 Stripe,自建BB,stripe,stripe/codesandbox-client,https://github.com/stripe/codesandbox-client,2,JavaScript,SECURITY.md,
-Block (Square/Cash App),自建BB,block,block/buzz,https://github.com/block/buzz,37441,Rust,SECURITY.md,A hive mind communication platform
+Block (Square/Cash App),自建BB,block,block/buzz,https://github.com/block/buzz,37457,Rust,SECURITY.md,A hive mind communication platform
 Block (Square/Cash App),自建BB,square,square/wire,https://github.com/square/wire,4439,Kotlin,SECURITY.md,"gRPC and protocol buffers for Android, Kotlin, Swift and Java."
-Block (Square/Cash App),自建BB,block,block/berd,https://github.com/block/berd,1053,TypeScript,SECURITY.md,a desktop app for getting work done with any model
+Block (Square/Cash App),自建BB,block,block/berd,https://github.com/block/berd,1054,TypeScript,SECURITY.md,a desktop app for getting work done with any model
 Block (Square/Cash App),自建BB,square,square/subzero,https://github.com/square/subzero,694,C,SECURITY.md,Block's Bitcoin Cold Storage solution.
 Block (Square/Cash App),自建BB,square,square/web-payments-quickstart,https://github.com/square/web-payments-quickstart,103,HTML,.github/SECURITY.md,Quickstart for using Square's Web Payments SDK
 Block (Square/Cash App),自建BB,block,block/blip,https://github.com/block/blip,75,Go,SECURITY.md,Sublime MySQL monitoring
@@ -10001,14 +10001,14 @@ Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Net
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/blst,https://github.com/Chia-Network/blst,0,Assembly,SECURITY.md,Multilingual BLS12-381 signature library
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/dnspython,https://github.com/Chia-Network/dnspython,0,Python,SECURITY.md,a powerful DNS toolkit for python
 Chia Network,公开平台范围（仅用于策略发现）,Chia-Network,Chia-Network/miniupnp,https://github.com/Chia-Network/miniupnp,0,C,SECURITY.md,UPnP IGD implementation
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickHouse,https://github.com/ClickHouse/ClickHouse,50928,C++,SECURITY.md,ClickHouse® is a real-time analytics database management system
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickStack,https://github.com/ClickHouse/ClickStack,10036,TypeScript,SECURITY.md,"Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and Open…"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickHouse,https://github.com/ClickHouse/ClickHouse,50933,C++,SECURITY.md,ClickHouse® is a real-time analytics database management system
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/ClickStack,https://github.com/ClickHouse/ClickStack,10040,TypeScript,SECURITY.md,"Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and Open…"
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-java,https://github.com/ClickHouse/clickhouse-java,1634,Java,SECURITY.md,ClickHouse Java Clients & JDBC Driver
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-operator,https://github.com/ClickHouse/clickhouse-operator,317,Go,SECURITY.md,Official Kubernetes Operator for ClickHouse®
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/pg_clickhouse,https://github.com/ClickHouse/pg_clickhouse,298,C,SECURITY.md,Interfaces to query ClickHouse databases from PostgreSQL
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/examples,https://github.com/ClickHouse/examples,234,Jupyter Notebook,SECURITY.md,A collection of examples for working and building with ClickHouse
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clickhouse-kafka-connect,https://github.com/ClickHouse/clickhouse-kafka-connect,212,Java,SECURITY.md,ClickHouse Kafka Connector
-ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/loom,https://github.com/ClickHouse/loom,57,Python,SECURITY.md,"Shared long-term memory, document search and a code index for AI agents, linked to your code. Memories point at the files and symbols they're about and surface …"
+ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/loom,https://github.com/ClickHouse/loom,73,Python,SECURITY.md,"Shared long-term memory, document search and a code index for AI agents, linked to your code. Memories point at the files and symbols they're about and surface …"
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/copier,https://github.com/ClickHouse/copier,15,C++,SECURITY.md,clickhouse-copier (obsolete)
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/tachikoma,https://github.com/ClickHouse/tachikoma,10,Rust,SECURITY.md,
 ClickHouse,公开平台范围（仅用于策略发现）,ClickHouse,ClickHouse/clicklisp,https://github.com/ClickHouse/clicklisp,8,Common Lisp,SECURITY.md,"A Common Lisp UDF runtime and query compiler for ClickHouse, shipped as a single binary."
@@ -10091,7 +10091,7 @@ Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/j
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/mssql-docker,https://github.com/databricks/mssql-docker,0,Dockerfile,SECURITY.md,Official Microsoft repository for SQL Server in Docker resources
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/superset,https://github.com/databricks/superset,0,TypeScript,.github/SECURITY.md,Apache Superset is a Data Visualization and Data Exploration Platform
 Databricks,公开平台范围（仅用于策略发现）,databricks,databricks/tailscale,https://github.com/databricks/tailscale,0,Go,SECURITY.md,"The easiest, most secure way to use WireGuard and 2FA."
-DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,5233,Python,SECURITY.md,"Open-Source Unified Vulnerability Management, DevSecOps & ASPM"
+DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/django-DefectDojo,https://github.com/DefectDojo/django-DefectDojo,5235,Python,SECURITY.md,"Open-Source Unified Vulnerability Management, DevSecOps & ASPM"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/defectdojo-mcp,https://github.com/DefectDojo/defectdojo-mcp,3,Python,SECURITY.md,"Official MCP server for DefectDojo open source: connect Claude, Cursor and other AI agents to your findings through the DefectDojo API"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/earlylight,https://github.com/DefectDojo/earlylight,3,Go,SECURITY.md,"Early Light: one open source engine for emerging-vulnerability detectors, from DefectDojo"
 DefectDojo,公开平台范围（仅用于策略发现）,DefectDojo,DefectDojo/kimi-code,https://github.com/DefectDojo/kimi-code,3,TypeScript,SECURITY.md,DefectDojo's hardened fork of MoonshotAI/kimi-code (baseline v0.34.0).
@@ -10104,7 +10104,7 @@ Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/winget
 Doppler,公开平台范围（仅用于策略发现）,DopplerHQ,DopplerHQ/node-newrelic,https://github.com/DopplerHQ/node-newrelic,0,JavaScript,SECURITY.md,"New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support,…"
 Electroneum Legacy Blockchain: EOL,公开平台范围（仅用于策略发现）,electroneum,electroneum/electroneum-sc,https://github.com/electroneum/electroneum-sc,21,Go,SECURITY.md,"Electroneum is a Layer 1 EVM-compatible blockchain, catering to 4+ million users worldwide."
 Electroneum Legacy Blockchain: EOL,公开平台范围（仅用于策略发现）,electroneum,electroneum/electroneum-web3.js,https://github.com/electroneum/electroneum-web3.js,0,TypeScript,SECURITY.md,Electroneum SmartChain JavaScript API
-European Space Agency (ESA) VDP,公开平台范围（仅用于策略发现）,ESA,esa/nse2,https://github.com/esa/nse2,4,Python,SECURITY.md,A containerized network simulation & emulation environment (nse2) with support for fluctuating connectivity.
+European Space Agency (ESA) VDP,公开平台范围（仅用于策略发现）,ESA,esa/nse2,https://github.com/esa/nse2,5,Python,SECURITY.md,A containerized network simulation & emulation environment (nse2) with support for fluctuating connectivity.
 Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/mpc-lib,https://github.com/fireblocks/mpc-lib,274,C++,SECURITY.md,
 Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/fireblocks-smart-contracts,https://github.com/fireblocks/fireblocks-smart-contracts,9,Solidity,SECURITY.md,
 Fireblocks MPC Managed Bug Bounty Engagement,公开平台范围（仅用于策略发现）,fireblocks,fireblocks/fireblocks-staking-eth-link,https://github.com/fireblocks/fireblocks-staking-eth-link,1,TypeScript,SECURITY.md,
