@@ -610,17 +610,24 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 字节跳动,字节跳动SRC,bytedance,bytedance/kubevirt,https://github.com/bytedance/kubevirt,0,Go,SECURITY.md,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 字节跳动,字节跳动SRC,bytedance,bytedance/systemd,https://github.com/bytedance/systemd,0,C,docs/SECURITY.md,The systemd System and Service Manager 
 字节跳动,字节跳动SRC,bytedance,bytedance/onnx,https://github.com/bytedance/onnx,0,PureBasic,SECURITY.md,Open standard for machine learning interoperability
-火山引擎,无,volcengine,volcengine/MineContext,https://github.com/volcengine/MineContext,5547,Python,SECURITY.md,MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+火山引擎,无,volcengine,volcengine/OpenViking,https://github.com/volcengine/OpenViking,42257,Python,SECURITY.md,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+火山引擎,无,volcengine,volcengine/MineContext,https://github.com/volcengine/MineContext,5548,Python,SECURITY.md,MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 火山引擎,无,volcengine,volcengine/SearchCLI,https://github.com/volcengine/SearchCLI,1193,TypeScript,SECURITY.md,"Open CLI for integrating AI search, recommendation, and conversational retrieval into agent systems and business systems"
+火山引擎,无,volcengine,volcengine/veadk-python,https://github.com/volcengine/veadk-python,351,Python,SECURITY.md,"An open-source kit for agent development, integrated the powerful capabilities of Volcengine."
 火山引擎,无,volcengine,volcengine/rtc-aigc-demo,https://github.com/volcengine/rtc-aigc-demo,321,TypeScript,SECURITY.md,RTC AIGC Demo
 火山引擎,无,volcengine,volcengine/volc-sdk-python,https://github.com/volcengine/volc-sdk-python,203,Python,SECURITY.md,
+火山引擎,无,volcengine,volcengine/volcengine-python-sdk,https://github.com/volcengine/volcengine-python-sdk,191,Python,SECURITY.md,
 火山引擎,无,volcengine,volcengine/agentkit-sdk-python,https://github.com/volcengine/agentkit-sdk-python,167,Python,SECURITY.md,An open-source Python SDK and CLI Starter Toolkit for deploying AI agents to Volcengine AgentKit Runtime.
 火山引擎,无,volcengine,volcengine/volc-sdk-golang,https://github.com/volcengine/volc-sdk-golang,150,Go,SECURITY.md,
+火山引擎,无,volcengine,volcengine/volcengine-go-sdk,https://github.com/volcengine/volcengine-go-sdk,145,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/VolcEngineRTC,https://github.com/volcengine/VolcEngineRTC,144,C++,SECURITY.md,
+火山引擎,无,volcengine,volcengine/veadk-go,https://github.com/volcengine/veadk-go,127,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/veadk-java,https://github.com/volcengine/veadk-java,115,Java,SECURITY.md,
 火山引擎,无,volcengine,volcengine/cello,https://github.com/volcengine/cello,104,Go,SECURITY.md,The VPC-CNI plugin for Volcengine.
 火山引擎,无,volcengine,volcengine/volc-sdk-java,https://github.com/volcengine/volc-sdk-java,94,Java,SECURITY.md,
+火山引擎,无,volcengine,volcengine/volcengine-java-sdk,https://github.com/volcengine/volcengine-java-sdk,89,Java,SECURITY.md,
 火山引擎,无,volcengine,volcengine/VEVodDemo-android,https://github.com/volcengine/VEVodDemo-android,79,Java,SECURITY.md,火山引擎点播 SDK 使用和抖音、西瓜同样的播放内核，稳定性和性能经过内部验证。Demo 展示抖音短视频场景下使用预加载、预渲染策略，同时拥有类似西瓜视频的中、长视频场景，实现一个比较好的首帧效果。
+火山引擎,无,volcengine,volcengine/volcengine-cli,https://github.com/volcengine/volcengine-cli,74,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/volc-sdk-nodejs,https://github.com/volcengine/volc-sdk-nodejs,65,TypeScript,SECURITY.md,
 火山引擎,无,volcengine,volcengine/ConversationalAI-Embedded-Kit-2.0,https://github.com/volcengine/ConversationalAI-Embedded-Kit-2.0,53,C,SECURITY.md,
 火山引擎,无,volcengine,volcengine/APMInsight_iOS,https://github.com/volcengine/APMInsight_iOS,47,Objective-C,SECURITY.md,
@@ -629,6 +636,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 火山引擎,无,volcengine,volcengine/APMPlus_Android,https://github.com/volcengine/APMPlus_Android,38,Java,SECURITY.md,APMPlus Android Demo
 火山引擎,无,volcengine,volcengine/volc-sdk-php,https://github.com/volcengine/volc-sdk-php,36,PHP,SECURITY.md,
 火山引擎,无,volcengine,volcengine/terraform-provider-volcengine,https://github.com/volcengine/terraform-provider-volcengine,35,Go,SECURITY.md,
+火山引擎,无,volcengine,volcengine/volcengine-agent-toolkit,https://github.com/volcengine/volcengine-agent-toolkit,31,Python,SECURITY.md,"Volcengine skills and plugins for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, OpenCode): manage cloud resources via the `ve` CLI, search official …"
 火山引擎,无,volcengine,volcengine/VolcEngineRTC_Solution_Demo,https://github.com/volcengine/VolcEngineRTC_Solution_Demo,31,Go,SECURITY.md,VolcEngineRTC Solution Demo
 火山引擎,无,volcengine,volcengine/hiagent-python-sdk,https://github.com/volcengine/hiagent-python-sdk,30,Python,SECURITY.md,HiAgent Python SDK
 火山引擎,无,volcengine,volcengine/vePhone,https://github.com/volcengine/vePhone,27,Python,SECURITY.md,"vePhone sample code (for Android, iOS, and Web/H5)"
@@ -645,6 +653,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 火山引擎,无,volcengine,volcengine/ve-tos-golang-sdk,https://github.com/volcengine/ve-tos-golang-sdk,13,Go,SECURITY.md,Volcengine TOS Golang SDK
 火山引擎,无,volcengine,volcengine/mcp-vod,https://github.com/volcengine/mcp-vod,13,Python,SECURITY.md,
 火山引擎,无,volcengine,volcengine/terraform-provider-vestack,https://github.com/volcengine/terraform-provider-vestack,12,Go,SECURITY.md,
+火山引擎,无,volcengine,volcengine/volcengine-php-sdk,https://github.com/volcengine/volcengine-php-sdk,11,PHP,SECURITY.md,
 火山引擎,无,volcengine,volcengine/byted-supabase-cli,https://github.com/volcengine/byted-supabase-cli,11,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/VolcEngineRTC_Flutter_SDK,https://github.com/volcengine/VolcEngineRTC_Flutter_SDK,10,Dart,SECURITY.md,This Flutter plugin provides rtc sdk native APIs for you to implement real-time audio & video communication functions in your application.
 火山引擎,无,volcengine,volcengine/RTC_EDU_Demo,https://github.com/volcengine/RTC_EDU_Demo,10,Objective-C,SECURITY.md,
@@ -663,15 +672,6 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 火山引擎,无,volcengine,volcengine/datarangers-sdk-go,https://github.com/volcengine/datarangers-sdk-go,4,Go,SECURITY.md,SDK in golang for datarangers products
 火山引擎,无,volcengine,volcengine/BDLiveDemo_iOS,https://github.com/volcengine/BDLiveDemo_iOS,4,Objective-C,SECURITY.md,
 火山引擎,无,volcengine,volcengine/VolcEngineIM,https://github.com/volcengine/VolcEngineIM,4,Java,SECURITY.md,
-火山引擎,无,volcengine,volcengine/OpenViking,https://github.com/volcengine/OpenViking,3,Python,SECURITY.md,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
-火山引擎,无,volcengine,volcengine/volcengine-python-sdk,https://github.com/volcengine/volcengine-python-sdk,3,Python,SECURITY.md,
-火山引擎,无,volcengine,volcengine/volcengine-java-sdk,https://github.com/volcengine/volcengine-java-sdk,3,Java,SECURITY.md,
-火山引擎,无,volcengine,volcengine/volcengine-go-sdk,https://github.com/volcengine/volcengine-go-sdk,3,Go,SECURITY.md,
-火山引擎,无,volcengine,volcengine/volcengine-php-sdk,https://github.com/volcengine/volcengine-php-sdk,3,PHP,SECURITY.md,
-火山引擎,无,volcengine,volcengine/veadk-python,https://github.com/volcengine/veadk-python,3,Python,SECURITY.md,"An open-source kit for agent development, integrated the powerful capabilities of Volcengine."
-火山引擎,无,volcengine,volcengine/volcengine-agent-toolkit,https://github.com/volcengine/volcengine-agent-toolkit,3,Python,SECURITY.md,"Volcengine skills and plugins for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, OpenCode): manage cloud resources via the `ve` CLI, search official …"
-火山引擎,无,volcengine,volcengine/veadk-go,https://github.com/volcengine/veadk-go,3,Go,SECURITY.md,
-火山引擎,无,volcengine,volcengine/volcengine-cli,https://github.com/volcengine/volcengine-cli,3,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/vikingdb-go-sdk,https://github.com/volcengine/vikingdb-go-sdk,3,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/external-dns-volcengine-webhook,https://github.com/volcengine/external-dns-volcengine-webhook,3,Go,SECURITY.md,
 火山引擎,无,volcengine,volcengine/datafinder-sdk-openapi-java,https://github.com/volcengine/datafinder-sdk-openapi-java,3,Java,SECURITY.md,
@@ -3848,10 +3848,10 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/ms-tcg-tpm-sys,https://github.com/microsoft/ms-tcg-tpm-sys,0,Rust,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/SynthDocQA,https://github.com/microsoft/SynthDocQA,0,HTML,SECURITY.md,"Code related to Neurips paper 2026 ""The Missing Corpus: Infinite Ground Truth for File-Grounded Enterprise LLM Evaluation"""
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/.github,https://github.com/microsoft/.github,,,SECURITY.md,
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201621,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201614,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/go,https://github.com/golang/go,139911,Go,SECURITY.md,The Go programming language
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101504,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77631,Python,SECURITY.md,Models and examples built with TensorFlow
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77629,Python,SECURITY.md,Models and examples built with TensorFlow
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular.js,https://github.com/angular/angular.js,58428,JavaScript,SECURITY.md,AngularJS - HTML enhanced for web apps!
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/zx,https://github.com/google/zx,45844,JavaScript,.github/SECURITY.md,A tool for writing better scripts
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular-cli,https://github.com/angular/angular-cli,27019,TypeScript,SECURITY.md,CLI tool for Angular
@@ -3875,7 +3875,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/go-containerregistry,https://github.com/google/go-containerregistry,4133,Go,SECURITY.md,Go library and CLIs for working with container registries
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/universal,https://github.com/angular/universal,3984,TypeScript,SECURITY.md,Server-side rendering and Prerendering for Angular
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/OpenSK,https://github.com/google/OpenSK,3481,Rust,SECURITY.md,OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3153,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3154,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/boringssl,https://github.com/google/boringssl,2299,C++,SECURITY.md,Mirror of BoringSSL
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/quantum,https://github.com/tensorflow/quantum,2204,Python,.github/SECURITY.md,An open-source Python framework for hybrid quantum-classical machine learning.
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/geo,https://github.com/golang/geo,1855,Go,SECURITY.md,S2 geometry library in Go
@@ -8918,7 +8918,7 @@ Coinbase,HackerOne,coinbase,coinbase/core-java,https://github.com/coinbase/core-
 Coinbase,HackerOne,coinbase,coinbase/core-ts,https://github.com/coinbase/core-ts,0,TypeScript,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/core-dotnet,https://github.com/coinbase/core-dotnet,0,C#,SECURITY.md,Coinbase .Net Core is a library that is used by other C# samples
 Coinbase,HackerOne,base,base/commonware-monorepo,https://github.com/base/commonware-monorepo,0,Rust,SECURITY.md,Commonware Library Primitives and Examples
-Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6045,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
+Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6048,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
 Uber,HackerOne,uber,uber/uber-poet,https://github.com/uber/uber-poet,98,Python,SECURITY.md,A mock swift project generator & build runner to help benchmark various module dependency graphs.
 Uber,HackerOne,uber,uber/jaeger,https://github.com/uber/jaeger,11,Go,SECURITY.md,"Uber fork of CNCF Jaeger, a Distributed Tracing Platform - for Pull Requests"
 Uber,HackerOne,uber,uber/uGroup,https://github.com/uber/uGroup,4,Java,SECURITY.md, uGroup is a Kafka consumer lag monitoring service that reads the consumer offset topic to calculate and expose real-time lag metrics via Prometheus and REST AP…
@@ -9449,10 +9449,10 @@ Stripe,自建BB,stripe,stripe/stripe-apps,https://github.com/stripe/stripe-apps,
 Stripe,自建BB,stripe,stripe/ft3,https://github.com/stripe/ft3,121,,SECURITY.md,"FT3: Fraud Tools, Tactics, and Techniques Framework"
 Stripe,自建BB,stripe,stripe/stripe-postman,https://github.com/stripe/stripe-postman,90,,SECURITY.md,Postman collection for Stripe's API
 Stripe,自建BB,stripe,stripe/projects-template-registry,https://github.com/stripe/projects-template-registry,22,,SECURITY.md,
-Stripe,自建BB,stripe,stripe/stripe-commercetools-connect-app,https://github.com/stripe/stripe-commercetools-connect-app,18,TypeScript,SECURITY.md,Stripe payments integration with commercetools Connect
+Stripe,自建BB,stripe,stripe/stripe-commercetools-connect-app,https://github.com/stripe/stripe-commercetools-connect-app,19,TypeScript,SECURITY.md,Stripe payments integration with commercetools Connect
 Stripe,自建BB,stripe,stripe/.github,https://github.com/stripe/.github,11,,SECURITY.md,Stripe uses the Contributor Covenant Code of Conduct for our open-source community.
+Stripe,自建BB,stripe,stripe/stripe-commercetools-checkout-app,https://github.com/stripe/stripe-commercetools-checkout-app,8,TypeScript,SECURITY.md,Stripe payments integration with commercetools Checkout
 Stripe,自建BB,stripe,stripe/projects-templates,https://github.com/stripe/projects-templates,8,TypeScript,SECURITY.md,
-Stripe,自建BB,stripe,stripe/stripe-commercetools-checkout-app,https://github.com/stripe/stripe-commercetools-checkout-app,7,TypeScript,SECURITY.md,Stripe payments integration with commercetools Checkout
 Stripe,自建BB,stripe,stripe/memlink,https://github.com/stripe/memlink,7,Go,SECURITY.md,Memlink library for memcache
 Stripe,自建BB,stripe,stripe/sdk-migrator,https://github.com/stripe/sdk-migrator,7,TypeScript,SECURITY.md,Stripe SDK migrator to upgrade versions
 Stripe,自建BB,stripe,stripe/winget-pkgs,https://github.com/stripe/winget-pkgs,2,,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
