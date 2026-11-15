@@ -9802,9 +9802,9 @@ Spotify,自建BB,spotify,spotify/bazel,https://github.com/spotify/bazel,0,Java,S
 8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jicoco,https://github.com/jitsi/jicoco,21,Kotlin,SECURITY.md,Jitsi Common Components
 8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/jitsi-utils,https://github.com/jitsi/jitsi-utils,21,Java,SECURITY.md,A set of basic Java/Kotlin utilities used in Jitsi projects.
 8x8,公开平台范围（仅用于策略发现）,jitsi,jitsi/changed-files,https://github.com/jitsi/changed-files,0,TypeScript,SECURITY.md,":octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories."
-AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/harness-sdk,https://github.com/strands-agents/harness-sdk,9205,TypeScript,SECURITY.md,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
-AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/box,https://github.com/strands-agents/box,545,Rust,SECURITY.md,"Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood poli…"
-AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/shell,https://github.com/strands-agents/shell,299,Rust,SECURITY.md,Give your agent a shell without giving it the keys to your machine.
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/harness-sdk,https://github.com/strands-agents/harness-sdk,9212,TypeScript,SECURITY.md,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/box,https://github.com/strands-agents/box,546,Rust,SECURITY.md,"Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood poli…"
+AWS VDP,公开平台范围（仅用于策略发现）,strands-agents,strands-agents/shell,https://github.com/strands-agents/shell,300,Rust,SECURITY.md,Give your agent a shell without giving it the keys to your machine.
 AWS VDP,公开平台范围（仅用于策略发现）,deepjavalibrary,deepjavalibrary/djl-serving,https://github.com/deepjavalibrary/djl-serving,257,Java,SECURITY.md,A universal scalable machine learning model deployment solution
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/vulnerability-scan-github-action-for-amazon-inspector,https://github.com/aws-actions/vulnerability-scan-github-action-for-amazon-inspector,60,Python,SECURITY.md,Scan artifacts with Amazon Inspector from GitHub Actions workflows.
 AWS VDP,公开平台范围（仅用于策略发现）,aws-actions,aws-actions/codeguru-security,https://github.com/aws-actions/codeguru-security,12,,SECURITY.md,
@@ -9971,7 +9971,7 @@ Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/reno
 Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/rustcrypto-formats,https://github.com/bitwarden/rustcrypto-formats,3,Rust,SECURITY.md,"Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX"
 Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/rotation-daemon,https://github.com/bitwarden/rotation-daemon,0,,SECURITY.md,Rotation daemon.
 Bitwarden,公开平台范围（仅用于策略发现）,bitwarden,bitwarden/telemetee,https://github.com/bitwarden/telemetee,0,Shell,SECURITY.md,TEE-based telemetry anonymization endpoint to allow collection of client-side actions in a secure way.
-Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink,https://github.com/smartcontractkit/chainlink,8255,Go,SECURITY.md,"node of the decentralized oracle network, bridging on and off-chain computation"
+Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink,https://github.com/smartcontractkit/chainlink,8253,Go,SECURITY.md,"node of the decentralized oracle network, bridging on and off-chain computation"
 Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/ccip,https://github.com/smartcontractkit/ccip,147,Go,SECURITY.md,Cross Chain Interoperability Protocol
 Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink-solana,https://github.com/smartcontractkit/chainlink-solana,92,Go,SECURITY.md,
 Chainlink,公开平台范围（仅用于策略发现）,smartcontractkit,smartcontractkit/chainlink-cosmos,https://github.com/smartcontractkit/chainlink-cosmos,23,Go,SECURITY.md,
@@ -10377,11 +10377,11 @@ Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeplo
 Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/argo-rollouts,https://github.com/OctopusDeploy/argo-rollouts,0,Go,SECURITY.md,Progressive Delivery for Kubernetes
 Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/octopus-argocd-gateway,https://github.com/OctopusDeploy/octopus-argocd-gateway,0,Go,SECURITY.md,gRPC gateway to allow for Octopus Deploy to communicate with an ArgoCD instance within a Kubernetes Cluster
 Octopus,公开平台范围（仅用于策略发现）,OctopusDeploy,OctopusDeploy/roadie-backstage-plugins,https://github.com/OctopusDeploy/roadie-backstage-plugins,0,TypeScript,SECURITY.md,All Backstage plugins created by Roadie.
-Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy,https://github.com/omacom/omarchy,46968,Shell,.github/SECURITY.md,"Beautiful, Modern & Opinionated Linux"
-Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/try-omarchy,https://github.com/omacom/try-omarchy,2982,Swift,SECURITY.md,Run Omarchy on MacOS without any setup.
-Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-mac,https://github.com/omacom/omarchy-mac,2105,Shell,.github/SECURITY.md,"Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support"
-Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/try-omarchy-windows,https://github.com/omacom/try-omarchy-windows,782,Go,SECURITY.md,Use Omarchy Linux on Windows without any hassle.
-Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-plugin-marketplace,https://github.com/omacom/omarchy-plugin-marketplace,382,JavaScript,SECURITY.md,Community-curated marketplace for Omarchy plugins
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy,https://github.com/omacom/omarchy,46999,Shell,.github/SECURITY.md,"Beautiful, Modern & Opinionated Linux"
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/try-omarchy,https://github.com/omacom/try-omarchy,2985,Swift,SECURITY.md,Run Omarchy on MacOS without any setup.
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-mac,https://github.com/omacom/omarchy-mac,2106,Shell,.github/SECURITY.md,"Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support"
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/try-omarchy-windows,https://github.com/omacom/try-omarchy-windows,784,Go,SECURITY.md,Use Omarchy Linux on Windows without any hassle.
+Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-plugin-marketplace,https://github.com/omacom/omarchy-plugin-marketplace,386,JavaScript,SECURITY.md,Community-curated marketplace for Omarchy plugins
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omapager,https://github.com/omacom/omapager,86,QML,SECURITY.md,Rich notifications for Omarchy
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/libva-v4l2_request,https://github.com/omacom/libva-v4l2_request,10,C,SECURITY.md,"VA-API driver for V4L2 stateless decoders with Apple Video Decoder (AVD) fixes, used by omarchy-m1-video"
 Omarchy,公开平台范围（仅用于策略发现）,omacom,omacom/omarchy-theme-sync,https://github.com/omacom/omarchy-theme-sync,5,JavaScript,docs/security.md,Sync Omarchy desktop theme colors with websites through CSS variables and JavaScript.
@@ -10406,10 +10406,12 @@ RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/rpki-va
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/db-web-ui,https://github.com/RIPE-NCC/db-web-ui,12,TypeScript,SECURITY.md,RIPE Database Web Application
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/ripe-database-documentation,https://github.com/RIPE-NCC/ripe-database-documentation,7,Shell,SECURITY.md,RIPE Database Documentation
 RIPE NCC,公开平台范围（仅用于策略发现）,RIPE-NCC,RIPE-NCC/pretalx,https://github.com/RIPE-NCC/pretalx,1,Python,.github/SECURITY.md,"Conference planning tool: CfP, scheduling, speaker management"
-Revive Adserver,公开平台范围（仅用于策略发现）,revive-adserver,revive-adserver/revive-adserver,https://github.com/revive-adserver/revive-adserver,1520,PHP,SECURITY.md,"The world's most popular free, open source ad serving system. You can download the latest release at:"
-Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/ruby,https://github.com/ruby/ruby,23812,Ruby,.github/SECURITY.md,The Ruby Programming Language
+Revive Adserver,公开平台范围（仅用于策略发现）,revive-adserver,revive-adserver/revive-adserver,https://github.com/revive-adserver/revive-adserver,1521,PHP,SECURITY.md,"The world's most popular free, open source ad serving system. You can download the latest release at:"
+Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/ruby,https://github.com/ruby/ruby,23813,Ruby,.github/SECURITY.md,The Ruby Programming Language
+Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/rubygems,https://github.com/ruby/rubygems,3990,Ruby,SECURITY.md,Library packaging and distribution for Ruby.
+Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/gem_rbs_collection,https://github.com/ruby/gem_rbs_collection,302,Ruby,docs/SECURITY.md,A collection of RBS for gems.
 Ruby,公开平台范围（仅用于策略发现）,ruby,ruby/.github,https://github.com/ruby/.github,2,,SECURITY.md,
-Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/rails,https://github.com/rails/rails,59092,Ruby,.github/security.md,Ruby on Rails
+Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/rails,https://github.com/rails/rails,59095,Ruby,.github/security.md,Ruby on Rails
 Ruby on Rails,公开平台范围（仅用于策略发现）,rails,rails/marcel,https://github.com/rails/marcel,466,Ruby,SECURITY.md,"Find the mime type of files, examining file, filename and declared type"
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/dangerzone,https://github.com/freedomofpress/dangerzone,5843,Python,SECURITY.md,"Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs"
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop,https://github.com/freedomofpress/securedrop,3895,Python,SECURITY.md,GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
@@ -10422,7 +10424,31 @@ SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomo
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/securedrop-workstation-keyring,https://github.com/freedomofpress/securedrop-workstation-keyring,0,Makefile,SECURITY.md,
 SecureDrop,公开平台范围（仅用于策略发现）,freedomofpress,freedomofpress/wagtail-vega,https://github.com/freedomofpress/wagtail-vega,0,Python,docs/security.md,Proof of concept integration of Wagtail and Vega
 Solidus,公开平台范围（仅用于策略发现）,solidusio,solidusio/.github,https://github.com/solidusio/.github,1,,SECURITY.md,
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/realtime,https://github.com/supabase/realtime,7683,Elixir,SECURITY.md,"Broadcast, Presence, and Postgres Changes via WebSockets"
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/pg_graphql,https://github.com/supabase/pg_graphql,3365,Rust,SECURITY.md,GraphQL support for PostgreSQL 
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/mcp,https://github.com/supabase/mcp,3012,TypeScript,SECURITY.md,Connect Supabase to your AI assistants
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/auth,https://github.com/supabase/auth,2602,Go,SECURITY.md,A JWT based API for managing users and issuing JWT tokens
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/cli,https://github.com/supabase/cli,2467,TypeScript,SECURITY.md,"Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema."
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/etl,https://github.com/supabase/etl,2352,Rust,SECURITY.md,A high-performance Postgres replication engine written in Rust. Embed it in your Rust application or run it as a standalone binary.
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/supavisor,https://github.com/supabase/supavisor,2286,Elixir,SECURITY.md,"A cloud-native, multi-tenant Postgres connection pooler."
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/postgres,https://github.com/supabase/postgres,1808,Nix,SECURITY.md,Unmodified Postgres with some useful extensions
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/index_advisor,https://github.com/supabase/index_advisor,1709,PLpgSQL,SECURITY.md,PostgreSQL Index Advisor
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/storage,https://github.com/supabase/storage,1354,TypeScript,SECURITY.md,S3 compatible object storage service that stores metadata in Postgres
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/postgres-meta,https://github.com/supabase/postgres-meta,1266,TypeScript,SECURITY.md,"A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries"
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/pg_jsonschema,https://github.com/supabase/pg_jsonschema,1208,Rust,SECURITY.md,PostgreSQL extension providing JSON Schema validation
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/wrappers,https://github.com/supabase/wrappers,900,Rust,SECURITY.md,Postgres Foreign Data Wrapper development framework in Rust.
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/dbdev,https://github.com/supabase/dbdev,443,TypeScript,SECURITY.md,Database Package Registry for Postgres
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/pg_net,https://github.com/supabase/pg_net,377,Python,SECURITY.md,A PostgreSQL extension that enables asynchronous (non-blocking) HTTP/HTTPS requests with SQL
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/vault,https://github.com/supabase/vault,238,PLpgSQL,SECURITY.md,Extension for storing encrypted secrets in the Vault
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/server,https://github.com/supabase/server,94,TypeScript,docs/security.md,"Server-side utilities for Supabase. Handles auth, client creation, and context injection so you write business logic, not boilerplate."
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/supautils,https://github.com/supabase/supautils,94,C,SECURITY.md,Unlock advanced Postgres features without granting SUPERUSER access
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/imgproxy,https://github.com/supabase/imgproxy,18,Go,SECURITY.md,Fast and secure standalone server for resizing and converting remote images
 Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/.github,https://github.com/supabase/.github,15,,SECURITY.md,Org-wide default community health files & templates.
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/slim-services,https://github.com/supabase/slim-services,10,Shell,SECURITY.md,
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/pgbouncer_exporter,https://github.com/supabase/pgbouncer_exporter,5,Go,SECURITY.md,Prometheus exporter for PgBouncer
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/VictoriaMetrics,https://github.com/supabase/VictoriaMetrics,3,Go,SECURITY.md,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/phoenix,https://github.com/supabase/phoenix,3,Elixir,SECURITY.md,Peace of mind from prototype to production
+Supabase,公开平台范围（仅用于策略发现）,supabase,supabase/list,https://github.com/supabase/list,1,Go,SECURITY.md,The Public Suffix List
 TRON DAO,公开平台范围（仅用于策略发现）,tronprotocol,tronprotocol/java-tron,https://github.com/tronprotocol/java-tron,4181,Java,SECURITY.md,Java implementation of the Tron whitepaper
 TRON DAO,公开平台范围（仅用于策略发现）,tronprotocol,tronprotocol/solidity,https://github.com/tronprotocol/solidity,47,C++,SECURITY.md,"Solidity, the Contract-Oriented Programming Language"
 TomTom,公开平台范围（仅用于策略发现）,tomtom-international,tomtom-international/vault-assessment-prometheus-exporter,https://github.com/tomtom-international/vault-assessment-prometheus-exporter,33,Python,SECURITY.md,Provides a prometheus exporter for monitoring aspects secrets stored on a running HashiCorp Vault server
@@ -10472,7 +10498,7 @@ Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,world
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/terraform-datadog-kubernetes,https://github.com/worldcoin/terraform-datadog-kubernetes,0,HCL,SECURITY.md,Fork of kabisa/terraform-datadog-kubernetes (not maintained)
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/world-id-proof-verification,https://github.com/worldcoin/world-id-proof-verification,0,Rust,SECURITY.md,world-id-proof-verification repository
 Valve,公开平台范围（仅用于策略发现）,valvesoftware,ValveSoftware/GameNetworkingSockets,https://github.com/ValveSoftware/GameNetworkingSockets,10068,C++,SECURITY.md,Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
-Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,61071,TypeScript,SECURITY.md,The full-stack Vue framework.
+Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,61078,TypeScript,SECURITY.md,The full-stack Vue framework.
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,32490,TypeScript,.github/SECURITY.md,React Hooks for Data Fetching
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,31339,Rust,SECURITY.md,The build system for coding agents.
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,30748,TypeScript,SECURITY.md,The most comprehensive authentication framework
