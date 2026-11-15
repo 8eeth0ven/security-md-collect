@@ -9,7 +9,8 @@
   "language": "C#",
   "description": "ROS# is a set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity3D",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -21,7 +22,8 @@
   "language": "Python",
   "description": "Setup tool for bitbake based projects",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -33,7 +35,8 @@
   "language": "Markdown",
   "description": "Discover and capture container network traffic from your comfy desktop Wireshark, using a containerized service and a Wireshark plugin.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -45,7 +48,8 @@
   "language": "TypeScript",
   "description": "Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -57,7 +61,8 @@
   "language": "C",
   "description": "Simple UEFI boot loader with support for safely switching between current and updated partition sets",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -69,7 +74,8 @@
   "language": "TypeScript",
   "description": "Siemens Element is a design system for products and digital experiences, grounded in the Siemens Design Language.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -81,7 +87,21 @@
   "language": "Go",
   "description": "a lightweight, general-purpose workflow executor",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:40"
+ },
+ {
+  "vendor": "西门子",
+  "org": "siemens",
+  "full_name": "siemens/cshargextcap",
+  "url": "https://github.com/siemens/cshargextcap",
+  "sec_path": "SECURITY.md",
+  "stars": 74,
+  "language": "Go",
+  "description": "[Edgeshark] Wireshark extcap plugin for container traffic capture live streaming.",
+  "license": null,
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -93,19 +113,8 @@
   "language": "C#",
   "description": "A collection of practical code snippets demonstrating TIA Portal Openness API (V21) implementation with easy-to-understand examples. Designed to help developers…",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
- },
- {
-  "vendor": "西门子",
-  "org": "siemens",
-  "full_name": "siemens/cshargextcap",
-  "url": "https://github.com/siemens/cshargextcap",
-  "sec_path": "SECURITY.md",
-  "stars": 72,
-  "language": "Go",
-  "description": "[Edgeshark] Wireshark extcap plugin for container traffic capture live streaming.",
-  "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -117,7 +126,8 @@
   "language": "HTML",
   "description": "Icon library for @siemens/ix",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -129,7 +139,8 @@
   "language": "Python",
   "description": "SBOM tooling for Debian-based distributions",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -137,11 +148,12 @@
   "full_name": "siemens/ghostwire",
   "url": "https://github.com/siemens/ghostwire",
   "sec_path": "SECURITY.md",
-  "stars": 39,
+  "stars": 40,
   "language": "Go",
   "description": "[Edgeshark] Virtual communication discovery in container hosts",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -153,7 +165,21 @@
   "language": "C#",
   "description": "Siemens IX library for Blazor",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
+ },
+ {
+  "vendor": "西门子",
+  "org": "siemens",
+  "full_name": "siemens/packetflix",
+  "url": "https://github.com/siemens/packetflix",
+  "sec_path": "SECURITY.md",
+  "stars": 24,
+  "language": "Go",
+  "description": "[Edgeshark] container \"binge watching\" live packet streams for Wireshark(nado) nerds!",
+  "license": null,
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -165,19 +191,8 @@
   "language": null,
   "description": "A growing collection of AI extensions that work with Siemens TIA Portal.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
- },
- {
-  "vendor": "西门子",
-  "org": "siemens",
-  "full_name": "siemens/packetflix",
-  "url": "https://github.com/siemens/packetflix",
-  "sec_path": "SECURITY.md",
-  "stars": 23,
-  "language": "Go",
-  "description": "[Edgeshark] container \"binge watching\" live packet streams for Wireshark(nado) nerds!",
-  "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -189,7 +204,8 @@
   "language": "TypeScript",
   "description": "Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -201,7 +217,8 @@
   "language": "Java",
   "description": "A Java library for creating and consuming SBOMs in Standard BOM format",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -213,7 +230,8 @@
   "language": "HTML",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -225,7 +243,8 @@
   "language": "Go",
   "description": "The self-hosted Link Checker web service runs cached and otherwise optimized broken link checks",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -237,7 +256,8 @@
   "language": "C++",
   "description": "",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -249,7 +269,8 @@
   "language": "C",
   "description": "generic CMP [RFC 9810, RFC 9483] client library and CLI, based on OpenSSL",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -261,7 +282,8 @@
   "language": "TypeScript",
   "description": "Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -273,7 +295,8 @@
   "language": "Python",
   "description": "A Python library for creating and consuming SBOMs in Standard BOM format",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -285,7 +308,8 @@
   "language": "Go",
   "description": "[Edgeshark] client and CLI to packet capture streaming API",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -297,7 +321,8 @@
   "language": "Python",
   "description": "Integration System for Automated Root filesystem generation",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -309,7 +334,8 @@
   "language": "C",
   "description": "WebAssembly Micro Runtime (WAMR)",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:40"
  },
  {
   "vendor": "西门子",
@@ -321,7 +347,8 @@
   "language": "JavaScript",
   "description": "Siemens Xcelerator Partners can use this repository to contribute to Siemens Xcelerator Developer Portal",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -333,7 +360,8 @@
   "language": "Go",
   "description": "reusable container engine discovery, not only for Edgeshark",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:40"
  },
  {
   "vendor": "西门子",
@@ -345,7 +373,8 @@
   "language": "C",
   "description": "Wrapper library for commonly used OpenSSL features, providing a simpler, more application-oriented API.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -357,7 +386,8 @@
   "language": "Java",
   "description": "A CMP Registration Authority (RA) and CMP client core component",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -369,7 +399,8 @@
   "language": "Java",
   "description": "SW360 project",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -381,7 +412,8 @@
   "language": "Python",
   "description": "Generate x509 SMIME signed emails with ease!",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -393,7 +425,8 @@
   "language": "Python",
   "description": "The Python SDK for Vilocify, built using Vilocify's APIv2 JSON:API. This project also includes a CLI tool to manage Vilocify Monitoring Lists.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:40"
  },
  {
   "vendor": "西门子",
@@ -418,7 +451,8 @@
   "language": "C#",
   "description": "PowerShell for every system!",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -430,7 +464,8 @@
   "language": "Go",
   "description": "Build Container Images In Kubernetes",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -442,7 +477,8 @@
   "language": "C",
   "description": "Secure boot for 32-bit Microcontrollers!",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -454,7 +490,8 @@
   "language": "C",
   "description": "Pathes for the Zephyr Project",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:40"
  },
  {
   "vendor": "西门子",
@@ -466,7 +503,8 @@
   "language": "Go",
   "description": "[Edgeshark] Diagnose the reachability of other containers on Docker custom networks from the perspective of a container.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -478,7 +516,8 @@
   "language": "TypeScript",
   "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS …",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -490,7 +529,8 @@
   "language": "TypeScript",
   "description": "The modern web developer’s platform",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -502,7 +542,8 @@
   "language": "TypeScript",
   "description": "Azure DevOps extension to create automatically conformance work items.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -526,7 +567,8 @@
   "language": "TypeScript",
   "description": "Frontend",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -538,7 +580,8 @@
   "language": "Go",
   "description": "Terraform GitHub provider",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -550,7 +593,8 @@
   "language": "Go",
   "description": "A Better Secrets Scanner built for configurability and speed",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -562,7 +606,8 @@
   "language": "Go",
   "description": "[Edgeshark] Retrieve IED information.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -574,7 +619,8 @@
   "language": "Python",
   "description": "Python wrapper for the GitLab API",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -586,7 +632,8 @@
   "language": "Python",
   "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:40"
  },
  {
   "vendor": "西门子",
@@ -598,7 +645,8 @@
   "language": "Java",
   "description": "Generate diagrams from textual description",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -610,7 +658,8 @@
   "language": "Java",
   "description": "PlantUML Online Server",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -622,7 +671,8 @@
   "language": "TypeScript",
   "description": "Component infrastructure and Material Design components for Angular",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
  },
  {
   "vendor": "西门子",
@@ -634,7 +684,8 @@
   "language": "TypeScript",
   "description": "Universal dependency update tool that fits into your workflows.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -646,7 +697,8 @@
   "language": "C",
   "description": "Azure Active Directory PAM Module",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:37"
  },
  {
   "vendor": "西门子",
@@ -658,6 +710,20 @@
   "language": "TypeScript",
   "description": "🤖 GitLab API NodeJS library with full support of all the Gitlab API services.",
   "license": null,
-  "first_seen": "2026-11-02 00:17:45"
+  "first_seen": "2026-11-02 00:17:45",
+  "last_verified": "2026-11-15 13:03:32"
+ },
+ {
+  "vendor": "西门子",
+  "org": "siemens",
+  "full_name": "siemens/argo-cd",
+  "url": "https://github.com/siemens/argo-cd",
+  "sec_path": "SECURITY.md",
+  "stars": 0,
+  "language": "Go",
+  "description": "Declarative Continuous Deployment for Kubernetes",
+  "license": null,
+  "first_seen": "2026-11-15 13:03:32",
+  "last_verified": "2026-11-15 13:03:32"
  }
 ]

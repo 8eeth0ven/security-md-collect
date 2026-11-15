@@ -568,7 +568,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 蚂蚁集团,蚂蚁SRC,ant-design,ant-design/pro-components,https://github.com/ant-design/pro-components,4858,TypeScript,SECURITY.md,🏆 Use Ant Design like a Pro!
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-rpc,https://github.com/sofastack/sofa-rpc,3918,Java,SECURITY.md,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework."
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-jraft,https://github.com/sofastack/sofa-jraft,3820,Java,SECURITY.md,A production-grade java implementation of RAFT consensus algorithm.
-蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-bolt,https://github.com/sofastack/sofa-bolt,2504,Java,SECURITY.md,"SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty."
+蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-bolt,https://github.com/sofastack/sofa-bolt,2505,Java,SECURITY.md,"SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty."
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-ark,https://github.com/sofastack/sofa-ark,1640,Java,SECURITY.md,SOFAArk is a light-weight，java based classloader isolation framework.
 蚂蚁集团,蚂蚁SRC,antvis,antvis/G6VP,https://github.com/antvis/G6VP,963,TypeScript,SECURITY.md,G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-registry,https://github.com/sofastack/sofa-registry,662,Java,SECURITY.md,"SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial. "
@@ -3848,7 +3848,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/ms-tcg-tpm-sys,https://github.com/microsoft/ms-tcg-tpm-sys,0,Rust,SECURITY.md,
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/SynthDocQA,https://github.com/microsoft/SynthDocQA,0,HTML,SECURITY.md,"Code related to Neurips paper 2026 ""The Missing Corpus: Infinite Ground Truth for File-Grounded Enterprise LLM Evaluation"""
 微软,HackerOne（Microsoft Bounty）+ 自建MSRC,microsoft,microsoft/.github,https://github.com/microsoft/.github,,,SECURITY.md,
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201596,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,201621,C++,SECURITY.md,An Open Source Machine Learning Framework for Everyone
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/go,https://github.com/golang/go,139907,Go,SECURITY.md,The Go programming language
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angular,https://github.com/angular/angular,101481,TypeScript,SECURITY.md,Deliver web apps with confidence 🚀
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/models,https://github.com/tensorflow/models,77631,Python,SECURITY.md,Models and examples built with TensorFlow
@@ -3867,7 +3867,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/re2,https://github.com/google/re2,9847,C++,SECURITY.md,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library."
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/angularfire,https://github.com/angular/angularfire,7794,TypeScript,SECURITY.md,Angular + Firebase = ❤️
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/draco,https://github.com/google/draco,7551,C++,SECURITY.md,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics…
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorboard,https://github.com/tensorflow/tensorboard,7241,TypeScript,SECURITY.md,TensorFlow's Visualization Toolkit
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tensorboard,https://github.com/tensorflow/tensorboard,7242,TypeScript,SECURITY.md,TensorFlow's Visualization Toolkit
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/security-research,https://github.com/google/security-research,4738,C,SECURITY.md,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/santa,https://github.com/google/santa,4499,Objective-C++,SECURITY.md,A binary authorization and monitoring system for macOS
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/vscode-go,https://github.com/golang/vscode-go,4274,TypeScript,SECURITY.md,Go extension for Visual Studio Code
@@ -3877,7 +3877,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/OpenSK,https://github.com/google/OpenSK,3481,Rust,SECURITY.md,OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/tflite-micro,https://github.com/tensorflow/tflite-micro,3153,C++,SECURITY.md,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/boringssl,https://github.com/google/boringssl,2299,C++,SECURITY.md,Mirror of BoringSSL
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/quantum,https://github.com/tensorflow/quantum,2205,Python,.github/SECURITY.md,An open-source Python framework for hybrid quantum-classical machine learning.
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/quantum,https://github.com/tensorflow/quantum,2204,Python,.github/SECURITY.md,An open-source Python framework for hybrid quantum-classical machine learning.
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/geo,https://github.com/golang/geo,1855,Go,SECURITY.md,S2 geometry library in Go
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/nomulus,https://github.com/google/nomulus,1818,Java,SECURITY.md,Top-level domain name registry service on Google Cloud Platform
 谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/model-optimization,https://github.com/tensorflow/model-optimization,1584,Python,SECURITY.md,"A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning."
@@ -3885,7 +3885,7 @@ MiniMax,无,MiniMax-AI,MiniMax-AI/vllm,https://github.com/MiniMax-AI/vllm,16,Pyt
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/capslock,https://github.com/google/capslock,1187,Go,SECURITY.md,
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/kctf,https://github.com/google/kctf,796,Go,SECURITY.md,"kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see"
 谷歌,"自建（Google VRP, bughunters.google.com）",angular,angular/vscode-ng-language-service,https://github.com/angular/vscode-ng-language-service,792,TypeScript,SECURITY.md,Angular extension for Visual Studio Code
-谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/io,https://github.com/tensorflow/io,740,C++,SECURITY.md,"Dataset, streaming, and file system extensions maintained by TensorFlow SIG-IO"
+谷歌,"自建（Google VRP, bughunters.google.com）",tensorflow,tensorflow/io,https://github.com/tensorflow/io,739,C++,SECURITY.md,"Dataset, streaming, and file system extensions maintained by TensorFlow SIG-IO"
 谷歌,"自建（Google VRP, bughunters.google.com）",golang,golang/appengine,https://github.com/golang/appengine,671,Go,SECURITY.md,Go App Engine packages
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/kmsan,https://github.com/google/kmsan,417,C,SECURITY.md,"KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel"
 谷歌,"自建（Google VRP, bughunters.google.com）",google,google/RB-Modulation,https://github.com/google/RB-Modulation,401,Jupyter Notebook,SECURITY.md,"Official code for ""RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control"""
@@ -7152,14 +7152,14 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/efibootguard,https://github.com/siemens/efibootguard,140,C,SECURITY.md,Simple UEFI boot loader with support for safely switching between current and updated partition sets
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/element,https://github.com/siemens/element,86,TypeScript,SECURITY.md,"Siemens Element is a design system for products and digital experiences, grounded in the Siemens Design Language."
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/wfx,https://github.com/siemens/wfx,80,Go,SECURITY.md,"a lightweight, general-purpose workflow executor"
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/cshargextcap,https://github.com/siemens/cshargextcap,74,Go,SECURITY.md,[Edgeshark] Wireshark extcap plugin for container traffic capture live streaming.
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/tia-portal-openness-code-snippets,https://github.com/siemens/tia-portal-openness-code-snippets,73,C#,SECURITY.md,A collection of practical code snippets demonstrating TIA Portal Openness API (V21) implementation with easy-to-understand examples. Designed to help developers…
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/cshargextcap,https://github.com/siemens/cshargextcap,72,Go,SECURITY.md,[Edgeshark] Wireshark extcap plugin for container traffic capture live streaming.
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix-icons,https://github.com/siemens/ix-icons,52,HTML,SECURITY.md,Icon library for @siemens/ix
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/debsbom,https://github.com/siemens/debsbom,47,Python,SECURITY.md,SBOM tooling for Debian-based distributions
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ghostwire,https://github.com/siemens/ghostwire,39,Go,SECURITY.md,[Edgeshark] Virtual communication discovery in container hosts
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ghostwire,https://github.com/siemens/ghostwire,40,Go,SECURITY.md,[Edgeshark] Virtual communication discovery in container hosts
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix-blazor,https://github.com/siemens/ix-blazor,36,C#,SECURITY.md,Siemens IX library for Blazor
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/packetflix,https://github.com/siemens/packetflix,24,Go,SECURITY.md,"[Edgeshark] container ""binge watching"" live packet streams for Wireshark(nado) nerds!"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/tia-portal-ai-extensions,https://github.com/siemens/tia-portal-ai-extensions,24,,SECURITY.md,A growing collection of AI extensions that work with Siemens TIA Portal.
-西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/packetflix,https://github.com/siemens/packetflix,23,Go,SECURITY.md,"[Edgeshark] container ""binge watching"" live packet streams for Wireshark(nado) nerds!"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/ix-starter,https://github.com/siemens/ix-starter,23,TypeScript,SECURITY.md,"Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software pro…"
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/standard-bom-java,https://github.com/siemens/standard-bom-java,19,Java,.github/SECURITY.md,A Java library for creating and consuming SBOMs in Standard BOM format
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/modular-application-creator-use-cases,https://github.com/siemens/modular-application-creator-use-cases,17,HTML,SECURITY.md,
@@ -7200,6 +7200,7 @@ VMware,自建PSIRT（VMware，现属博通）,vmware-samples,vmware-samples/.git
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/renovate,https://github.com/siemens/renovate,0,TypeScript,SECURITY.md,Universal dependency update tool that fits into your workflows.
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/pam_aad,https://github.com/siemens/pam_aad,0,C,SECURITY.md,Azure Active Directory PAM Module
 西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/gitbeaker,https://github.com/siemens/gitbeaker,0,TypeScript,SECURITY.md,🤖 GitLab API NodeJS library with full support of all the Gitlab API services.
+西门子,自建PSIRT（Siemens ProductCERT）,siemens,siemens/argo-cd,https://github.com/siemens/argo-cd,0,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 博世,自建PSIRT（Bosch）,bosch-io,bosch-io/hawkbit,https://github.com/bosch-io/hawkbit,9,Java,SECURITY.md,
 博世,自建PSIRT（Bosch）,bosch-io,bosch-io/hono,https://github.com/bosch-io/hono,7,Java,SECURITY.md,Hono project
 博世,自建PSIRT（Bosch）,bosch-io,bosch-io/californium,https://github.com/bosch-io/californium,2,Java,SECURITY.md,
@@ -7430,7 +7431,7 @@ Snap,HackerOne（Snap）,snapchat,Snapchat/GiGL,https://github.com/Snapchat/GiGL
 Snap,HackerOne（Snap）,snapchat,Snapchat/SnapRHI,https://github.com/Snapchat/SnapRHI,48,C++,SECURITY.md,"A lightweight, modern Render Hardware Interface (RHI) abstraction layer for C++ SnapRHI provides a clean, unified API that abstracts away the complexity of mode…"
 Snap,HackerOne（Snap）,snapchat,Snapchat/Valdi_Widgets,https://github.com/Snapchat/Valdi_Widgets,45,TypeScript,SECURITY.md,
 Snap,HackerOne（Snap）,snapchat,Snapchat/react-camera-kit,https://github.com/Snapchat/react-camera-kit,25,TypeScript,SECURITY.md,"Official React bindings for Snap Camera Kit — create interactive, lens-powered AR experiences on the web."
-Snap,HackerOne（Snap）,snapchat,Snapchat/KeyDB-docs,https://github.com/Snapchat/KeyDB-docs,22,JavaScript,docs/security.md,KeyDB's official documentation repo
+Snap,HackerOne（Snap）,snapchat,Snapchat/KeyDB-docs,https://github.com/Snapchat/KeyDB-docs,23,JavaScript,docs/security.md,KeyDB's official documentation repo
 Snap,HackerOne（Snap）,snapchat,Snapchat/pyOCD,https://github.com/Snapchat/pyOCD,1,Python,docs/security.md,Open source Python library for programming and debugging Arm Cortex-M microcontrollers
 Snap,HackerOne（Snap）,snapchat,Snapchat/web-lens-api,https://github.com/Snapchat/web-lens-api,0,JavaScript,SECURITY.md,"JavaScript API for Snapchat Web Lenses: leaderboards, Bitmoji and storage over the native bridge, with a desktop stub for development."
 Pinterest,HackerOne（Pinterest）,pinterest,pinterest/querybook,https://github.com/pinterest/querybook,2305,TypeScript,SECURITY.md,"Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface."
@@ -7454,7 +7455,7 @@ LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/kafka-monitor,https://githu
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/openhouse,https://github.com/linkedin/openhouse,406,Java,SECURITY.md,Open Control Plane for Tables in Data Lakehouse
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/spark,https://github.com/linkedin/spark,15,Scala,docs/security.md,Apache Spark - A unified analytics engine for large-scale data processing
 LinkedIn,自建PSIRT（LinkedIn）,linkedin,linkedin/li-langchain,https://github.com/linkedin/li-langchain,1,Python,SECURITY.md,🦜🔗 Build context-aware reasoning applications
-Slack,自建（Slack VDP）,slackhq,slackhq/nebula,https://github.com/slackhq/nebula,18529,Go,SECURITY.md,"A scalable overlay networking tool with a focus on performance, simplicity and security"
+Slack,自建（Slack VDP）,slackhq,slackhq/nebula,https://github.com/slackhq/nebula,18530,Go,SECURITY.md,"A scalable overlay networking tool with a focus on performance, simplicity and security"
 Slack,自建（Slack VDP）,slackapi,slackapi/python-slack-sdk,https://github.com/slackapi/python-slack-sdk,4020,Python,SECURITY.md,Slack Developer Kit for Python
 Slack,自建（Slack VDP）,slackapi,slackapi/node-slack-sdk,https://github.com/slackapi/node-slack-sdk,3377,TypeScript,SECURITY.md,Slack Developer Kit for Node.js
 Slack,自建（Slack VDP）,slackapi,slackapi/bolt-js,https://github.com/slackapi/bolt-js,2954,TypeScript,SECURITY.md,A framework to build Slack apps using JavaScript
@@ -8155,7 +8156,7 @@ Datadog,HackerOne（Datadog）,DataDog,DataDog/container-object-storage-interfac
 Datadog,HackerOne（Datadog）,DataDog,DataDog/got,https://github.com/DataDog/got,,TypeScript,.github/security.md,## Auto-archived due to inactivity. ## 🌐 Human-friendly and powerful HTTP request library for Node.js
 Datadog,HackerOne（Datadog）,DataDog,DataDog/winget-pkgs,https://github.com/DataDog/winget-pkgs,,PowerShell,SECURITY.md,The Microsoft community Windows Package Manager manifest repository
 Datadog,HackerOne（Datadog）,DataDog,DataDog/go-amqp,https://github.com/DataDog/go-amqp,,Go,SECURITY.md,AMQP 1.0 client library for Go.
-Splunk,自建（Splunk Security）,splunk,splunk/security_content,https://github.com/splunk/security_content,1736,Python,SECURITY.md,Splunk Security Content
+Splunk,自建（Splunk Security）,splunk,splunk/security_content,https://github.com/splunk/security_content,1737,Python,SECURITY.md,Splunk Security Content
 Splunk,自建（Splunk Security）,splunk,splunk/docker-splunk,https://github.com/splunk/docker-splunk,555,Python,docs/SECURITY.md,Splunk Docker GitHub Repository
 Splunk,自建（Splunk Security）,splunk,splunk/splunk-connect-for-syslog,https://github.com/splunk/splunk-connect-for-syslog,184,Python,SECURITY.md,Splunk Connect for Syslog
 Splunk,自建（Splunk Security）,splunk,splunk/kafka-connect-splunk,https://github.com/splunk/kafka-connect-splunk,100,Java,docs/security.md,Kafka connector for Splunk
@@ -8917,7 +8918,7 @@ Coinbase,HackerOne,coinbase,coinbase/core-java,https://github.com/coinbase/core-
 Coinbase,HackerOne,coinbase,coinbase/core-ts,https://github.com/coinbase/core-ts,0,TypeScript,SECURITY.md,
 Coinbase,HackerOne,coinbase,coinbase/core-dotnet,https://github.com/coinbase/core-dotnet,0,C#,SECURITY.md,Coinbase .Net Core is a library that is used by other C# samples
 Coinbase,HackerOne,base,base/commonware-monorepo,https://github.com/base/commonware-monorepo,0,Rust,SECURITY.md,Commonware Library Primitives and Examples
-Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6044,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
+Uber,HackerOne,uber,uber/causalml,https://github.com/uber/causalml,6045,Python,SECURITY.md,Uplift modeling and causal inference with machine learning algorithms
 Uber,HackerOne,uber,uber/uber-poet,https://github.com/uber/uber-poet,98,Python,SECURITY.md,A mock swift project generator & build runner to help benchmark various module dependency graphs.
 Uber,HackerOne,uber,uber/jaeger,https://github.com/uber/jaeger,11,Go,SECURITY.md,"Uber fork of CNCF Jaeger, a Distributed Tracing Platform - for Pull Requests"
 Uber,HackerOne,uber,uber/uGroup,https://github.com/uber/uGroup,4,Java,SECURITY.md, uGroup is a Kafka consumer lag monitoring service that reads the consumer offset topic to calculate and expose real-time lag metrics via Prometheus and REST AP…
@@ -9443,7 +9444,7 @@ Dropbox,自建BB,dropbox,dropbox/incubator-superset-internal,https://github.com/
 Dropbox,自建BB,dropbox,dropbox/agent-filesystem-samples,https://github.com/dropbox/agent-filesystem-samples,1,TypeScript,SECURITY.md,Sample apps and services for DBX Agent Filesystem
 Dropbox,自建BB,dropbox,dropbox/amundsen,https://github.com/dropbox/amundsen,1,HTML,SECURITY.md,"Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data."
 Dropbox,自建BB,dropbox,dropbox/libseccomp,https://github.com/dropbox/libseccomp,1,C,SECURITY.md,The main libseccomp repository
-Stripe,自建BB,stripe,stripe/ai,https://github.com/stripe/ai,2061,TypeScript,SECURITY.md,One-stop shop for building AI-powered products and businesses with Stripe.
+Stripe,自建BB,stripe,stripe/ai,https://github.com/stripe/ai,2063,TypeScript,SECURITY.md,One-stop shop for building AI-powered products and businesses with Stripe.
 Stripe,自建BB,stripe,stripe/stripe-apps,https://github.com/stripe/stripe-apps,178,TypeScript,SECURITY.md,Stripe Apps lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API.
 Stripe,自建BB,stripe,stripe/ft3,https://github.com/stripe/ft3,121,,SECURITY.md,"FT3: Fraud Tools, Tactics, and Techniques Framework"
 Stripe,自建BB,stripe,stripe/stripe-postman,https://github.com/stripe/stripe-postman,90,,SECURITY.md,Postman collection for Stripe's API
@@ -9766,10 +9767,10 @@ Zalando,自建BB,zalando,zalando/lightstep-uql-to-promql-translator,https://gith
 Zalando,自建BB,zalando,zalando/otelcol-lightstep-receiver,https://github.com/zalando/otelcol-lightstep-receiver,8,Go,SECURITY.md,
 Spotify,自建BB,backstage,backstage/backstage,https://github.com/backstage/backstage,34849,TypeScript,SECURITY.md,Backstage is an open framework for building developer portals
 Spotify,自建BB,spotify,spotify/luigi,https://github.com/spotify/luigi,18788,Python,SECURITY.md,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also…"
-Spotify,自建BB,spotify,spotify/basic-pitch,https://github.com/spotify/basic-pitch,6061,Python,SECURITY.md,A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
+Spotify,自建BB,spotify,spotify/basic-pitch,https://github.com/spotify/basic-pitch,6065,Python,SECURITY.md,A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 Spotify,自建BB,spotify,spotify/scio,https://github.com/spotify/scio,2630,Scala,SECURITY.md,A Scala API for Apache Beam and Google Cloud Dataflow.
 Spotify,自建BB,spotify,spotify/spotify-web-api-ts-sdk,https://github.com/spotify/spotify-web-api-ts-sdk,476,TypeScript,SECURITY.md,A Typescript SDK for the Spotify Web API with types for returned data.
-Spotify,自建BB,spotify,spotify/sourcekit-bazel-bsp,https://github.com/spotify/sourcekit-bazel-bsp,440,Swift,SECURITY.md,"iOS Development (and more) in alternative IDEs like Cursor / VSCode, for Bazel projects"
+Spotify,自建BB,spotify,spotify/sourcekit-bazel-bsp,https://github.com/spotify/sourcekit-bazel-bsp,441,Swift,SECURITY.md,"iOS Development (and more) in alternative IDEs like Cursor / VSCode, for Bazel projects"
 Spotify,自建BB,backstage,backstage/community-plugins,https://github.com/backstage/community-plugins,430,TypeScript,SECURITY.md,Community plugins for Backstage
 Spotify,自建BB,spotify,spotify/fmt-maven-plugin,https://github.com/spotify/fmt-maven-plugin,388,Java,SECURITY.md,Opinionated Maven Plugin that formats your Java code.
 Spotify,自建BB,spotify,spotify/realbook,https://github.com/spotify/realbook,132,Python,SECURITY.md,Easier audio-based machine learning with TensorFlow.
