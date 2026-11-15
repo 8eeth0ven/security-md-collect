@@ -292,21 +292,21 @@ Apache软件基金会,无(开源基金会),apache,apache/hadoop-cloudstore,https
 Apache软件基金会,无(开源基金会),apache,apache/pulsar-spring,https://github.com/apache/pulsar-spring,2,Java,SECURITY.md,Apache Pulsar support for Spring
 Apache软件基金会,无(开源基金会),apache,apache/grails-micronaut,https://github.com/apache/grails-micronaut,1,Groovy,SECURITY.md,Apache Grails Micronaut integration
 Apache软件基金会,无(开源基金会),apache,apache/.github,https://github.com/apache/.github,,,.github/SECURITY.md,
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,129056,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,129072,Go,.github/SECURITY.md,Production-Grade Container Scheduling and Management
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus,https://github.com/prometheus/prometheus,67602,Go,SECURITY.md,The Prometheus monitoring system and time series database.
 CNCF云原生基金会,无(开源基金会),etcd-io,etcd-io/etcd,https://github.com/etcd-io/etcd,52605,Go,.github/SECURITY.md,Distributed reliable key-value store for the most critical data of a distributed system
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/grpc/grpc,45446,C++,SECURITY.md,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38507,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32244,Go,SECURITY.md,Run Kubernetes locally
+CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38512,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32246,Go,SECURITY.md,Run Kubernetes locally
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29236,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25835,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24608,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23111,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19436,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19435,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-workflows,https://github.com/argoproj/argo-workflows,17098,Go,SECURITY.md,Workflow Engine for Kubernetes
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16706,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kops,https://github.com/kubernetes/kops,16707,Go,SECURITY.md,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/node_exporter,https://github.com/prometheus/node_exporter,13927,Go,SECURITY.md,Exporter for machine metrics
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13066,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/community,https://github.com/kubernetes/community,13067,Jupyter Notebook,SECURITY.md,Kubernetes Community Documentation
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-rust,https://github.com/grpc/grpc-rust,12537,Rust,SECURITY.md,A native gRPC client & server implementation with async/await support.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-java,https://github.com/grpc/grpc-java,12079,Java,SECURITY.md,The Java gRPC implementation. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kompose,https://github.com/kubernetes/kompose,10646,Go,SECURITY.md,Convert Compose to Kubernetes
@@ -327,7 +327,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubeadm,https:
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/enhancements,https://github.com/kubernetes/enhancements,3985,Go,SECURITY.md,Enhancements tracking repo for Kubernetes
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-rollouts,https://github.com/argoproj/argo-rollouts,3623,Go,SECURITY.md,Progressive Delivery for Kubernetes
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_js,https://github.com/prometheus/client_js,3501,JavaScript,SECURITY.md,Prometheus client for node.js
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/node-problem-detector,https://github.com/kubernetes/node-problem-detector,3481,Go,SECURITY.md,This is a place for various problem detectors running on the Kubernetes nodes.
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/node-problem-detector,https://github.com/kubernetes/node-problem-detector,3480,Go,SECURITY.md,This is a place for various problem detectors running on the Kubernetes nodes.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/pushgateway,https://github.com/prometheus/pushgateway,3378,Go,SECURITY.md,Push acceptor for ephemeral and batch jobs.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/jmx_exporter,https://github.com/prometheus/jmx_exporter,3335,Java,SECURITY.md,A process for collecting metrics using JMX MBeans for Prometheus consumption
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/gateway,https://github.com/envoyproxy/gateway,3148,Go,SECURITY.md,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
@@ -347,7 +347,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/perf-tests,htt
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/statsd_exporter,https://github.com/prometheus/statsd_exporter,990,Go,SECURITY.md,StatsD to Prometheus metrics exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/k8s.io,https://github.com/kubernetes/k8s.io,982,HCL,SECURITY.md,"Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites"
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,981,Java,SECURITY.md,Metrics exporter for Amazon AWS CloudWatch
-CNCF云原生基金会,无(开源基金会),istio,istio/proxy,https://github.com/istio/proxy,916,Go,.github/SECURITY.md,The Istio proxy components.
+CNCF云原生基金会,无(开源基金会),istio,istio/proxy,https://github.com/istio/proxy,917,Go,.github/SECURITY.md,The Istio proxy components.
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dart,https://github.com/grpc/grpc-dart,891,Dart,SECURITY.md,The Dart language implementation of gRPC.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/procfs,https://github.com/prometheus/procfs,887,Go,SECURITY.md,"procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc."
 CNCF云原生基金会,无(开源基金会),istio,istio/istio.io,https://github.com/istio/istio.io,820,HTML,.github/SECURITY.md,Source for the istio.io site
@@ -355,11 +355,11 @@ CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argoproj,https://g
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/docs,https://github.com/prometheus/docs,727,TypeScript,SECURITY.md,Prometheus documentation: content and static site generator
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-openstack,https://github.com/kubernetes/cloud-provider-openstack,725,Go,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promlens,https://github.com/prometheus/promlens,677,TypeScript,SECURITY.md,"PromLens – The query builder, analyzer, and explainer for PromQL"
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-release,https://github.com/kubernetes/sig-release,643,Shell,.github/SECURITY.md,Repo for SIG release
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-release,https://github.com/kubernetes/sig-release,644,Shell,.github/SECURITY.md,Repo for SIG release
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/haproxy_exporter,https://github.com/prometheus/haproxy_exporter,628,Go,SECURITY.md,Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_rust,https://github.com/prometheus/client_rust,613,Rust,SECURITY.md,Prometheus / OpenMetrics client library in Rust
 CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium-cli,https://github.com/cilium/cilium-cli,612,Makefile,SECURITY.md,"CLI to install, manage & troubleshoot Kubernetes clusters running Cilium"
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/gengo,https://github.com/kubernetes/gengo,580,Go,SECURITY.md,gengo library for code generation.
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/gengo,https://github.com/kubernetes/gengo,577,Go,SECURITY.md,gengo library for code generation.
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/design-proposals-archive,https://github.com/kubernetes/design-proposals-archive,572,Makefile,SECURITY.md,Archive of Kubernetes Design Proposals
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/klog,https://github.com/kubernetes/klog,561,Go,SECURITY.md,Leveled execution logs for Go (fork of https://github.com/golang/glog)
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_ruby,https://github.com/prometheus/client_ruby,559,Ruby,SECURITY.md,Prometheus instrumentation library for Ruby applications
@@ -368,7 +368,7 @@ CNCF云原生基金会,无(开源基金会),istio,istio/api,https://github.com/i
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/release,https://github.com/kubernetes/release,505,Go,.github/SECURITY.md,Release infrastructure for Kubernetes and related components
 CNCF云原生基金会,无(开源基金会),istio,istio/ztunnel,https://github.com/istio/ztunnel,492,Rust,.github/SECURITY.md,The `ztunnel` component of ambient mesh
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/consul_exporter,https://github.com/prometheus/consul_exporter,471,Go,SECURITY.md,Exporter for Consul metrics
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-aws,https://github.com/kubernetes/cloud-provider-aws,467,Go,SECURITY.md,Cloud provider for AWS
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-aws,https://github.com/kubernetes/cloud-provider-aws,466,Go,SECURITY.md,Cloud provider for AWS
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prom2json,https://github.com/prometheus/prom2json,413,Go,SECURITY.md,A tool to scrape a Prometheus client and dump the result as JSON.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/graphite_exporter,https://github.com/prometheus/graphite_exporter,407,Go,SECURITY.md,Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
 CNCF云原生基金会,无(开源基金会),istio,istio/tools,https://github.com/istio/tools,374,Go,.github/SECURITY.md,Tools shared by several Istio repositories
@@ -379,10 +379,10 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/org,https://gi
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/common,https://github.com/prometheus/common,296,Go,SECURITY.md,Go libraries shared across Prometheus components and libraries.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/influxdb_exporter,https://github.com/prometheus/influxdb_exporter,291,Go,SECURITY.md,A server that accepts InfluxDB metrics via the HTTP API and exports them via HTTP for Prometheus consumption
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/promu,https://github.com/prometheus/promu,284,Go,SECURITY.md,Prometheus Utility Tool
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-vsphere,https://github.com/kubernetes/cloud-provider-vsphere,278,Go,SECURITY.md,Kubernetes Cloud Provider for vSphere https://cloud-provider-vsphere.sigs.k8s.io
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/cloud-provider-vsphere,https://github.com/kubernetes/cloud-provider-vsphere,277,Go,SECURITY.md,Kubernetes Cloud Provider for vSphere https://cloud-provider-vsphere.sigs.k8s.io
 CNCF云原生基金会,无(开源基金会),istio,istio/client-go,https://github.com/istio/client-go,275,Makefile,.github/SECURITY.md,Go client libraries for the Istio API.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/collectd_exporter,https://github.com/prometheus/collectd_exporter,269,Go,SECURITY.md,A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-security,https://github.com/kubernetes/sig-security,254,Go,SECURITY.md,"Process documentation, non-code deliverables, and miscellaneous artifacts of Kubernetes SIG Security"
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/sig-security,https://github.com/kubernetes/sig-security,253,Go,SECURITY.md,"Process documentation, non-code deliverables, and miscellaneous artifacts of Kubernetes SIG Security"
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kubernetes-template-project,https://github.com/kubernetes/kubernetes-template-project,232,,SECURITY.md,A template for starting new projects on the github.com/kubernetes organization
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/memcached_exporter,https://github.com/prometheus/memcached_exporter,208,Go,SECURITY.md,Exports metrics from memcached servers for consumption by Prometheus.
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy-wasm,https://github.com/envoyproxy/envoy-wasm,207,C++,SECURITY.md,*ATTENTION!: The content of this repo is merged into https://github.com/envoyproxy/envoy and future development is happening there.
@@ -411,7 +411,7 @@ CNCF云原生基金会,无(开源基金会),prometheus,prometheus/codemirror-pro
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/busybox,https://github.com/prometheus/busybox,39,Makefile,SECURITY.md,Prometheus Busybox Docker base images
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/prometheus_api_client_ruby,https://github.com/prometheus/prometheus_api_client_ruby,38,Ruby,SECURITY.md,A Ruby library for reading metrics stored on a Prometheus server
 CNCF云原生基金会,无(开源基金会),istio,istio/envoy,https://github.com/istio/envoy,36,C++,SECURITY.md,Fork of Envoy used for testing and tinkering as part of the Istio dev process
-CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/system-validators,https://github.com/kubernetes/system-validators,36,Go,SECURITY.md,A set of system-oriented validators for kubeadm preflight checks.
+CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/system-validators,https://github.com/kubernetes/system-validators,35,Go,SECURITY.md,A set of system-oriented validators for kubeadm preflight checks.
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/proposals,https://github.com/prometheus/proposals,34,Shell,SECURITY.md,Design documents for Prometheus Ecosystem
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-swift-extras,https://github.com/grpc/grpc-swift-extras,20,Swift,SECURITY.md,
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/talks,https://github.com/prometheus/talks,20,,SECURITY.md,Track Prometheus talks
@@ -832,7 +832,7 @@ UCloud,无,ucloud,ucloud/spark,https://github.com/ucloud/spark,0,Scala,docs/secu
 唯品会,VSRC,vipshop,vipshop/kubeblocks,https://github.com/vipshop/kubeblocks,0,Go,SECURITY.md,"KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s."
 唯品会,VSRC,vipshop,vipshop/higress,https://github.com/vipshop/higress,0,Go,SECURITY.md,🤖 AI Gateway | AI Native API Gateway
 唯品会,VSRC,vipshop,vipshop/istio,https://github.com/vipshop/istio,0,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
-科大讯飞,无,iflytek,iflytek/astron-rpa,https://github.com/iflytek/astron-rpa,5258,Python,SECURITY.md,Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
+科大讯飞,无,iflytek,iflytek/astron-rpa,https://github.com/iflytek/astron-rpa,5257,Python,SECURITY.md,Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 科大讯飞,无,iflytek,iflytek/AutoSpark,https://github.com/iflytek/AutoSpark,50,Python,SECURITY.md,基于SuperAGI 专注中文领域的大模型AI应用框架
 科大讯飞,无,iflytek,iflytek/memflywheel,https://github.com/iflytek/memflywheel,42,TypeScript,SECURITY.md,"Agent-native long-term memory that learns after every run. File-native, auditable, and integrated with Pi, Hermes, OpenCode, and OpenClaw."
 科大讯飞,无,iflytek,iflytek/domux,https://github.com/iflytek/domux,33,Python,SECURITY.md,"A lightweight low-latency model converting natural home commands into structured data, fine-tuned via SFT and GRPO."
@@ -4930,7 +4930,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/cpuid,https://github.com/intel/cp
 Intel,自建（Intel Bug Bounty）,intel,intel/isa-l_crypto,https://github.com/intel/isa-l_crypto,304,C,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/SYCLomatic,https://github.com/oneapi-src/SYCLomatic,293,LLVM,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/pti-gpu,https://github.com/intel/pti-gpu,280,C++,SECURITY.md,Profiling Tools Interfaces for GPU (PTI for GPU) is a set of Getting Started Documentation and Tools Library to start performance analysis on Intel(R) Processor…
-Intel,自建（Intel Bug Bounty）,intel,intel/intel-xpu-backend-for-triton,https://github.com/intel/intel-xpu-backend-for-triton,275,MLIR,SECURITY.md,OpenAI Triton backend for Intel® GPUs
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-qs,https://github.com/intel/intel-qs,263,C++,SECURITY.md,High-performance simulator of quantum circuits
 Intel,自建（Intel Bug Bounty）,intel,intel/iaprof,https://github.com/intel/iaprof,262,C++,SECURITY.md,AI/GPU flame graph
 Intel,自建（Intel Bug Bounty）,intel,intel/dffml,https://github.com/intel/dffml,260,Python,SECURITY.md,The easiest way to use Machine Learning. Mix and match underlying ML libraries and data set sources. Generate new datasets or modify existing ones with ease.
@@ -4981,7 +4980,6 @@ Intel,自建（Intel Bug Bounty）,intel,intel/RealTimePathTracingResearchFramew
 Intel,自建（Intel Bug Bounty）,intel,intel/llm-on-ray,https://github.com/intel/llm-on-ray,129,Python,security.md,"Pretrain, finetune and serve LLMs on Intel platforms with Ray"
 Intel,自建（Intel Bug Bounty）,intel,intel/SDM-Processor-Topology-Enumeration,https://github.com/intel/SDM-Processor-Topology-Enumeration,119,C,security.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/yask,https://github.com/intel/yask,119,C++,SECURITY.md,YASK--Yet Another Stencil Kit: a domain-specific language and framework to create high-performance stencil code for implementing finite-difference methods and s…
-Intel,自建（Intel Bug Bounty）,intel,intel/rohd-hcl,https://github.com/intel/rohd-hcl,117,Dart,SECURITY.md,A hardware component library developed with ROHD.
 Intel,自建（Intel Bug Bounty）,intel,intel/media-delivery,https://github.com/intel/media-delivery,112,Shell,SECURITY.md,This collection of samples demonstrates best practices to achieve optimal video quality and performance on Intel GPUs for content delivery networks. Check out o…
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/oneapi-ci,https://github.com/oneapi-src/oneapi-ci,111,Shell,SECURITY.md,Sample configuration files for using oneAPI in CI systems
 Intel,自建（Intel Bug Bounty）,intel,intel/qpl,https://github.com/intel/qpl,110,C,SECURITY.md,Intel® Query Processing Library (Intel® QPL)
@@ -4992,7 +4990,6 @@ Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/unified-memory-framewor
 Intel,自建（Intel Bug Bounty）,intel,intel/metrics-discovery,https://github.com/intel/metrics-discovery,101,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/DML,https://github.com/intel/DML,100,C++,SECURITY.md,Intel® Data Mover Library (Intel® DML)
 Intel,自建（Intel Bug Bounty）,intel,intel/tbtools,https://github.com/intel/tbtools,99,Rust,SECURITY.md,Thunderbolt/USB4 debugging tools
-Intel,自建（Intel Bug Bounty）,intel,intel/onnxruntime,https://github.com/intel/onnxruntime,95,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance scoring engine for ML models"
 Intel,自建（Intel Bug Bounty）,intel,intel/fpga-partial-reconfig,https://github.com/intel/fpga-partial-reconfig,93,SystemVerilog,SECURITY.md,"Tutorials, scripts and reference designs for the Intel FPGA partial reconfiguration (PR) design flow"
 Intel,自建（Intel Bug Bounty）,intel,intel/drivers.gpu.control-library,https://github.com/intel/drivers.gpu.control-library,92,C,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/sycl-tla,https://github.com/intel/sycl-tla,92,C++,SECURITY.md,SYCL* Templates for Linear Algebra (SYCL*TLA) - SYCL based CUTLASS implementation for Intel GPUs 
@@ -5366,14 +5363,17 @@ Intel,自建（Intel Bug Bounty）,intel,intel/go-runtime-optimizations,https://
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/powerline-fault-detection,https://github.com/oneapi-src/powerline-fault-detection,4,Python,SECURITY.md,AI Starter Kit for detect faulty signals in power line voltage using Intel® Extension for Scikit-learn*
 Intel,自建（Intel Bug Bounty）,oneapi-src,oneapi-src/customer-segmentation,https://github.com/oneapi-src/customer-segmentation,4,Python,SECURITY.md,AI Starter Kit for Customer Segmentation for Online Retail using Intel® Extension for Scikit-learn*
 Intel,自建（Intel Bug Bounty）,intel,intel/llvm,https://github.com/intel/llvm,3,LLVM,SECURITY.md,Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
+Intel,自建（Intel Bug Bounty）,intel,intel/intel-xpu-backend-for-triton,https://github.com/intel/intel-xpu-backend-for-triton,3,MLIR,SECURITY.md,OpenAI Triton backend for Intel® GPUs
 Intel,自建（Intel Bug Bounty）,intel,intel/torch-xpu-ops,https://github.com/intel/torch-xpu-ops,3,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/intel-graphics-compiler,https://github.com/intel/intel-graphics-compiler,3,C++,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/dokimi,https://github.com/intel/dokimi,3,Python,SECURITY.md,"Dokimi (Greek δοκιμή, ""test, proof"") measures whether a skill, MCP doc source, agent profile or repository guidance actually helps a coding agent: paired on/off…"
+Intel,自建（Intel Bug Bounty）,intel,intel/onnxruntime,https://github.com/intel/onnxruntime,3,C++,SECURITY.md,"ONNX Runtime: cross-platform, high performance scoring engine for ML models"
 Intel,自建（Intel Bug Bounty）,intel,intel/compute-runtime,https://github.com/intel/compute-runtime,3,C++,Security.md,Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 Intel,自建（Intel Bug Bounty）,intel,intel/workload-services-framework,https://github.com/intel/workload-services-framework,3,Shell,SECURITY.md,Workload Services Framework (WSF) is a benchmarking framework on Intel(R) Xeon(R) Platforms
 Intel,自建（Intel Bug Bounty）,intel,intel/mlir-extensions,https://github.com/intel/mlir-extensions,3,MLIR,security.md,Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.
 Intel,自建（Intel Bug Bounty）,intel,intel/auto-round,https://github.com/intel/auto-round,3,Python,SECURITY.md,"PTQ-Level Efficiency, QAT-Level Accuracy | 训练后量化的效率，量化感知训练的精度"
 Intel,自建（Intel Bug Bounty）,intel,intel/SVS-Extension-for-PostgreSQL,https://github.com/intel/SVS-Extension-for-PostgreSQL,3,Perl,SECURITY.md,
+Intel,自建（Intel Bug Bounty）,intel,intel/rohd-hcl,https://github.com/intel/rohd-hcl,3,Dart,SECURITY.md,A hardware component library developed with ROHD.
 Intel,自建（Intel Bug Bounty）,intel,intel/device-modeling-language,https://github.com/intel/device-modeling-language,3,Python,SECURITY.md,
 Intel,自建（Intel Bug Bounty）,intel,intel/gpu-base-operator,https://github.com/intel/gpu-base-operator,3,Go,SECURITY.md,Intel GPU Base operator allows automatic deployment of GPU related components to enable use of Intel GPU hardware within the Kubernetes cluster.
 Intel,自建（Intel Bug Bounty）,intel,intel/Samples-for-Microsoft-AI-Foundry,https://github.com/intel/Samples-for-Microsoft-AI-Foundry,3,C#,SECURITY.md,
@@ -7249,7 +7249,7 @@ Rivian,Bugcrowd（Rivian）,rivian,rivian/odxtools,https://github.com/rivian/odx
 宝马,自建（BMW Product Security）,bmw,bmw/josepy,https://github.com/bmw/josepy,,Python,SECURITY.md,> JOSE protocol implementation in Python using cryptography
 宝马,自建（BMW Product Security）,bmw,bmw/rustls,https://github.com/bmw/rustls,,Rust,SECURITY.md,> A modern TLS library in Rust
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/ardep,https://github.com/mercedes-benz/ardep,586,C,SECURITY.md,Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
-奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/sechub,https://github.com/mercedes-benz/sechub,352,Java,SECURITY.md,SecHub provides a central API to test software with different security tools.
+奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/sechub,https://github.com/mercedes-benz/sechub,353,Java,SECURITY.md,SecHub provides a central API to test software with different security tools.
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/DnA,https://github.com/mercedes-benz/DnA,299,Java,SECURITY.md,"Data and Analytics Platform provides A-Z solution for enterprises in Analytics area, from transparency on planned and ongoing activities up to providing open so…"
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/foss,https://github.com/mercedes-benz/foss,119,,SECURITY.md,List of custom license identifiers for our FOSS disclosure process.
 奔驰/戴姆勒,自建PSIRT（Mercedes-Benz Group）,mercedes-benz,mercedes-benz/mo360-ftk,https://github.com/mercedes-benz/mo360-ftk,78,TypeScript,SECURITY.md,MO360 Frontend Toolkit: A toolkit for single page applications (SPA) based on React and Typescript that allows to extract single features into microfrontends.

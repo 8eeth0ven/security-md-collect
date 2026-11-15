@@ -635,17 +635,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/intel-xpu-backend-for-triton",
-  "url": "https://github.com/intel/intel-xpu-backend-for-triton",
-  "sec_path": "SECURITY.md",
-  "stars": 275,
-  "language": "MLIR",
-  "description": "OpenAI Triton backend for Intel® GPUs",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/intel-qs",
   "url": "https://github.com/intel/intel-qs",
   "sec_path": "SECURITY.md",
@@ -1196,17 +1185,6 @@
  {
   "vendor": "Intel",
   "org": "intel",
-  "full_name": "intel/rohd-hcl",
-  "url": "https://github.com/intel/rohd-hcl",
-  "sec_path": "SECURITY.md",
-  "stars": 117,
-  "language": "Dart",
-  "description": "A hardware component library developed with ROHD.",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
   "full_name": "intel/media-delivery",
   "url": "https://github.com/intel/media-delivery",
   "sec_path": "SECURITY.md",
@@ -1316,17 +1294,6 @@
   "stars": 99,
   "language": "Rust",
   "description": "Thunderbolt/USB4 debugging tools",
-  "first_seen": "2026-11-01 21:52:33"
- },
- {
-  "vendor": "Intel",
-  "org": "intel",
-  "full_name": "intel/onnxruntime",
-  "url": "https://github.com/intel/onnxruntime",
-  "sec_path": "SECURITY.md",
-  "stars": 95,
-  "language": "C++",
-  "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
   "first_seen": "2026-11-01 21:52:33"
  },
  {
@@ -5484,6 +5451,19 @@
  {
   "vendor": "Intel",
   "org": "intel",
+  "full_name": "intel/intel-xpu-backend-for-triton",
+  "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "MLIR",
+  "description": "OpenAI Triton backend for Intel® GPUs",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-15 11:05:00"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
   "full_name": "intel/torch-xpu-ops",
   "url": "https://github.com/intel/torch-xpu-ops",
   "sec_path": "SECURITY.md",
@@ -5519,6 +5499,19 @@
   "license": null,
   "first_seen": "2026-11-01 21:52:33",
   "last_verified": "2026-11-14 21:34:35"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/onnxruntime",
+  "url": "https://github.com/intel/onnxruntime",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C++",
+  "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-15 11:05:00"
  },
  {
   "vendor": "Intel",
@@ -5582,6 +5575,19 @@
   "language": "Perl",
   "description": "",
   "first_seen": "2026-11-01 21:52:33"
+ },
+ {
+  "vendor": "Intel",
+  "org": "intel",
+  "full_name": "intel/rohd-hcl",
+  "url": "https://github.com/intel/rohd-hcl",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Dart",
+  "description": "A hardware component library developed with ROHD.",
+  "license": null,
+  "first_seen": "2026-11-01 21:52:33",
+  "last_verified": "2026-11-15 11:05:00"
  },
  {
   "vendor": "Intel",
