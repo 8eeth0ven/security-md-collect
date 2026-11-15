@@ -588,11 +588,11 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/security,https
 蚂蚁集团,蚂蚁SRC,antgroup,antgroup/xquic,https://github.com/antgroup/xquic,0,C,SECURITY.md,XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-rpc-1,https://github.com/sofastack/sofa-rpc-1,0,Java,SECURITY.md,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework."
 蚂蚁集团,蚂蚁SRC,sofastack,sofastack/sofa-boot-3,https://github.com/sofastack/sofa-boot-3,0,Java,SECURITY.md,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc."
-字节跳动,字节跳动SRC,bytedance,bytedance/deer-flow,https://github.com/bytedance/deer-flow,85327,Python,SECURITY.md,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga…"
+字节跳动,字节跳动SRC,bytedance,bytedance/deer-flow,https://github.com/bytedance/deer-flow,85346,Python,SECURITY.md,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga…"
 字节跳动,字节跳动SRC,bytedance,bytedance/UI-TARS-desktop,https://github.com/bytedance/UI-TARS-desktop,39598,TypeScript,SECURITY.md,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 字节跳动,字节跳动SRC,cloudwego,cloudwego/volo,https://github.com/cloudwego/volo,2640,Rust,SECURITY.md,Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 字节跳动,字节跳动SRC,bytedance,bytedance/bhook,https://github.com/bytedance/bhook,2632,C,SECURITY.md,通用的Android PLT hook库，支持armeabi-v7a，arm64-v8a，x86，x86_64
-字节跳动,字节跳动SRC,bytedance,bytedance/android-inline-hook,https://github.com/bytedance/android-inline-hook,2450,C,SECURITY.md,通用的Android inline hook库，支持thumb，arm32，arm64
+字节跳动,字节跳动SRC,bytedance,bytedance/android-inline-hook,https://github.com/bytedance/android-inline-hook,2451,C,SECURITY.md,通用的Android inline hook库，支持thumb，arm32，arm64
 字节跳动,字节跳动SRC,bytedance,bytedance/Lance,https://github.com/bytedance/Lance,1368,Python,SECURITY.md,"A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
 字节跳动,字节跳动SRC,cloudwego,cloudwego/motore,https://github.com/cloudwego/motore,281,Rust,SECURITY.md,Async middleware abstraction powered by AFIT and RPITIT.
 字节跳动,字节跳动SRC,cloudwego,cloudwego/pilota,https://github.com/cloudwego/pilota,169,Rust,SECURITY.md,A thrift and protobuf implementation in pure rust with high performance and extensibility.
@@ -8256,7 +8256,6 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/go-dqlite,ht
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/chisel,https://github.com/canonical/chisel,432,Go,SECURITY.md,
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/microceph,https://github.com/canonical/microceph,399,Go,SECURITY.md,MicroCeph is snap-deployed Ceph with built-in clustering
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/authd,https://github.com/canonical/authd,317,Go,SECURITY.md,Authentication service for external identity providers
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/operator,https://github.com/canonical/operator,267,Python,SECURITY.md,Pure Python framework for writing Juju charms.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/pebble,https://github.com/canonical/pebble,213,Go,SECURITY.md,Pebble is a lightweight Linux service manager with layered configuration and an HTTP API
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-frame,https://github.com/canonical/ubuntu-frame,191,C++,SECURITY.md,The foundation for many embedded graphical display implementations
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/snapcraft.io,https://github.com/canonical/snapcraft.io,181,TypeScript,security.md,The official website's repository for the Snap store
@@ -8283,7 +8282,6 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/starlark,htt
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/firefox-snap,https://github.com/canonical/firefox-snap,24,Shell,SECURITY.md,Official repository for the source used to build the firefox snap (published by Mozilla)
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/cluster-api-k8s,https://github.com/canonical/cluster-api-k8s,23,Go,SECURITY.md,Cluster API provider for Canonical Kubernetes
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/identity-platform-login-ui,https://github.com/canonical/identity-platform-login-ui,23,Go,SECURITY.md,Login UI for the Canonical identity broker and identity provider solution
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/microcloud-cluster-manager,https://github.com/canonical/microcloud-cluster-manager,23,Go,SECURITY.md,MicroCloud Cluster Manager is the entry point for all your MicroClouds
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ceph-containers,https://github.com/canonical/ceph-containers,23,Shell,SECURITY.md,OCI compliant Ceph Container Images based on Ubuntu LTS
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-cloud-docs,https://github.com/canonical/ubuntu-cloud-docs,23,,SECURITY.md,Public Docs for Ubuntu in the Clouds
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/jubilant,https://github.com/canonical/jubilant,22,Python,SECURITY.md,"Jubilant is a Pythonic wrapper around the Juju CLI, primarily for charm integration testing."
@@ -8338,6 +8336,8 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/craft-provid
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/anbox-cloud-docs,https://github.com/canonical/anbox-cloud-docs,9,Python,SECURITY.md,Documentation for Anbox Cloud
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/hydra-operator,https://github.com/canonical/hydra-operator,9,Python,SECURITY.md,A Charmed Operator for running Ory Hydra on Kubernetes
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/k8s-snap,https://github.com/canonical/k8s-snap,8,Python,SECURITY.md,"Canonical Kubernetes is an opinionated and CNCF conformant Kubernetes operated by Snaps and Charms, which come together to bring simplified operations and an en…"
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/k8s-snap-megademo,https://github.com/canonical/k8s-snap-megademo,8,Python,SECURITY.md,
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/k8sd,https://github.com/canonical/k8sd,8,Go,SECURITY.md,A cluster-management daemon for Kubernetes
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/pgbouncer-operator,https://github.com/canonical/pgbouncer-operator,8,Python,SECURITY.md,A charmed operator for running PgBouncer on virtual machines.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/devpack-for-rust,https://github.com/canonical/devpack-for-rust,8,Rust,SECURITY.md,This repository contains the devpack-for-rust.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/temporal-lib-py,https://github.com/canonical/temporal-lib-py,8,Python,SECURITY.md,A wrapper library of temporalio/sdk-python which adds candid-based authentication and encryption.
@@ -8352,7 +8352,6 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/kyuubi-k8s-o
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-frame-osk,https://github.com/canonical/ubuntu-frame-osk,7,C,SECURITY.md,"On-screen keyboard for Ubuntu Frame, based on Squeekboard"
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/grafana-agent-operator,https://github.com/canonical/grafana-agent-operator,7,Python,SECURITY.md,"This charmed operator automates the operational procedures of running Grafana Agent, an open-source telemetry collector."
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/slurm-charms,https://github.com/canonical/slurm-charms,6,Python,SECURITY.md,Juju charms for automating the Day 0 to Day 2 operations of the Slurm workload manager ⚖️🐧 
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/k8sd,https://github.com/canonical/k8sd,6,Go,SECURITY.md,A cluster-management daemon for Kubernetes
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/charmlibs,https://github.com/canonical/charmlibs,6,Python,SECURITY.md,Monorepo for Canonical charmlibs.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-core-desktop-snapd,https://github.com/canonical/ubuntu-core-desktop-snapd,6,Go,SECURITY.md,A branch of snapd containing experimental Core Desktop changes that have not yet been merged to snapd master
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/awsmp,https://github.com/canonical/awsmp,6,Python,SECURITY.md,Interact with AWS Marketplace
@@ -8371,7 +8370,6 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/slurmutils,h
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-package-status,https://github.com/canonical/ubuntu-package-status,6,Python,SECURITY.md,Helpful utility to fetch package version data for specified packages in the ubuntu archive.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/node-rock,https://github.com/canonical/node-rock,6,Shell,SECURITY.md,A distroless-like Node.js image based on Ubuntu 
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/squid-rock,https://github.com/canonical/squid-rock,5,Shell,SECURITY.md,A distroless-like squid image based on Ubuntu  
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/charm-integration-testing,https://github.com/canonical/charm-integration-testing,5,Python,SECURITY.md,"A collection of Pytest-based tests for Charm Integration Testing, focusing on validating the deployment and interoperability of charms."
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/postgresql-snap,https://github.com/canonical/postgresql-snap,5,Shell,SECURITY.md,PostgreSQL Snap
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/tailscale-snap,https://github.com/canonical/tailscale-snap,5,Python,SECURITY.md,Snap package for Tailscale
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ceph-charms,https://github.com/canonical/ceph-charms,5,Python,SECURITY.md,Monorepo for ceph charms
@@ -8420,8 +8418,10 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/wazuh-server
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/penpot-operator,https://github.com/canonical/penpot-operator,3,Python,SECURITY.md,penpot-operator - charm repository.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/craft-archives,https://github.com/canonical/craft-archives,3,Python,SECURITY.md,Python package to manage interaction with software package repositories
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/craft-grammar,https://github.com/canonical/craft-grammar,3,Python,SECURITY.md,Advanced grammar for parts
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/saml-integrator-operator,https://github.com/canonical/saml-integrator-operator,3,Python,SECURITY.md,saml-integrator-operator - charm repository.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-motd-server-operator,https://github.com/canonical/ubuntu-motd-server-operator,3,Python,SECURITY.md,> Ubuntu MOTD server operator
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/oauth2-proxy-k8s-operator,https://github.com/canonical/oauth2-proxy-k8s-operator,3,Python,SECURITY.md,A Charmed Operator for running OAuth2-proxy on Kubernetes
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/charm-integration-testing,https://github.com/canonical/charm-integration-testing,3,Python,SECURITY.md,"A collection of Pytest-based tests for Charm Integration Testing, focusing on validating the deployment and interoperability of charms."
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/hyrum,https://github.com/canonical/hyrum,3,Python,SECURITY.md,A charming utility to find breakage from reliance on undocumented features.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/parca-agent-operator,https://github.com/canonical/parca-agent-operator,3,Python,SECURITY.md,"A charmed operator for running Parca Agent, a continuous profiling  agent powered by eBPF."
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/charmed-openstack-upgrader,https://github.com/canonical/charmed-openstack-upgrader,3,Python,SECURITY.md,Automatic upgrade tool for Charmed Openstack
@@ -8431,10 +8431,12 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/ubuntu-rust-
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/conserver-charm,https://github.com/canonical/conserver-charm,3,Python,SECURITY.md,A charm that deploys and manages conserver
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/filesystem-charms,https://github.com/canonical/filesystem-charms,3,Python,SECURITY.md,"Juju charms for automatically providing, requesting and mounting shared filesystems. "
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/mysql-shell-client,https://github.com/canonical/mysql-shell-client,3,Python,SECURITY.md,Package to interact with MySQL Shell
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/operator,https://github.com/canonical/operator,3,Python,SECURITY.md,Pure Python framework for writing Juju charms.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/bingo,https://github.com/canonical/bingo,3,Go,SECURITY.md,bingo - Go/React pastebin app and its Juju charm for Kubernetes deployment.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/s3-integrator,https://github.com/canonical/s3-integrator,3,Python,SECURITY.md,An operator charm providing an integrator for connecting to S3 provides.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/charmed-etcd-operator,https://github.com/canonical/charmed-etcd-operator,3,Python,SECURITY.md,The Charmed etcd Operator deploys and operates the etcd software on VMs and machine clusters. This charm is a Python project that installs etcd from the etcd Sn…
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/docker-library-official-images,https://github.com/canonical/docker-library-official-images,3,Shell,SECURITY.md,"Primary source of truth for the Docker ""Official Images"" program"
+Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/microcloud-cluster-manager,https://github.com/canonical/microcloud-cluster-manager,3,Go,SECURITY.md,MicroCloud Cluster Manager is the entry point for all your MicroClouds
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/juju-doctor,https://github.com/canonical/juju-doctor,3,Python,SECURITY.md,Juju-doctor is a pypi package which helps validate Juju deployments using probes.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/microcloud-operator,https://github.com/canonical/microcloud-operator,3,Python,SECURITY.md,"Charm for MicroCloud, the automated private cloud based on LXD, Ceph and OVN"
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/charmed-spark-rock,https://github.com/canonical/charmed-spark-rock,3,Shell,SECURITY.md,This repository contains the packaging metadata for creating a ROCK for Apache Spark
@@ -8534,11 +8536,9 @@ Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/cloudflared-
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/dns-operators,https://github.com/canonical/dns-operators,1,Python,SECURITY.md,dns-operators - charm repository.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/velero-integrator,https://github.com/canonical/velero-integrator,1,Python,SECURITY.md,Velero Integrator
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/maubot-operator,https://github.com/canonical/maubot-operator,1,Python,SECURITY.md,maubot-operator - charm repository.
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/k8s-snap-megademo,https://github.com/canonical/k8s-snap-megademo,1,Python,SECURITY.md,
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/mailserver-operators,https://github.com/canonical/mailserver-operators,1,Python,SECURITY.md,monorepo for mail server charms.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/bind9-rock,https://github.com/canonical/bind9-rock,1,Shell,SECURITY.md,A distroless-like bind9 image based on Ubuntu  
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/http-proxy-operators,https://github.com/canonical/http-proxy-operators,1,Python,SECURITY.md,
-Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/saml-integrator-operator,https://github.com/canonical/saml-integrator-operator,1,Python,SECURITY.md,saml-integrator-operator - charm repository.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/tmate-ssh-server-operator,https://github.com/canonical/tmate-ssh-server-operator,1,Python,SECURITY.md,tmate-ssh-server-operator - charm repository.
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/identity-saml-provider-operator,https://github.com/canonical/identity-saml-provider-operator,1,Python,SECURITY.md,
 Canonical,自建（Ubuntu/Canonical Security）,canonical,canonical/mongodb-artifacts,https://github.com/canonical/mongodb-artifacts,1,Shell,SECURITY.md,Repo containing all the MongoDB artifacts (snaps / rocks)
@@ -9714,6 +9714,7 @@ Check Point,自建BB,CheckPointSW,CheckPointSW/ai-security-js-ts-sdk,https://git
 Check Point,自建BB,CheckPointSW,CheckPointSW/terraform-provider-checkpoint-workforce-ai,https://github.com/CheckPointSW/terraform-provider-checkpoint-workforce-ai,0,Go,SECURITY.md,Terraform provider for managing Check Point AI Security and Browse Security policies as code.
 Check Point,自建BB,CheckPointSW,CheckPointSW/terraform-provider-checkpoint-wai-tests,https://github.com/CheckPointSW/terraform-provider-checkpoint-wai-tests,0,Go,SECURITY.md,Terraform provider for managing Check Point AI Security and Browse Security policies as code.
 Check Point,自建BB,CheckPointSW,CheckPointSW/ai-security-py-sdk,https://github.com/CheckPointSW/ai-security-py-sdk,0,Python,SECURITY.md,Official Check Point Python SDK for the Workforce AI Security APIs
+Binance,自建BB,trustwallet,trustwallet/terraform-aws-github-runner,https://github.com/trustwallet/terraform-aws-github-runner,0,TypeScript,SECURITY.md,Terraform module for scalable GitHub action runners on AWS
 Nubank,自建BB,nubank,nubank/matcher-combinators,https://github.com/nubank/matcher-combinators,547,Clojure,SECURITY.md,Library for creating matcher combinator to compare nested data structures
 Nubank,自建BB,nubank,nubank/workspaces,https://github.com/nubank/workspaces,520,Clojure,SECURITY.md,Live development environment for Clojurescript
 Nubank,自建BB,nubank,nubank/morse,https://github.com/nubank/morse,407,JavaScript,SECURITY.md,"A graphical, interactive tool for browsing Clojure data"
@@ -10497,26 +10498,31 @@ Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,world
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/terraform-aws-alb,https://github.com/worldcoin/terraform-aws-alb,0,HCL,SECURITY.md,Terraform module for creating an Application Load Balancer
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/terraform-datadog-kubernetes,https://github.com/worldcoin/terraform-datadog-kubernetes,0,HCL,SECURITY.md,Fork of kabisa/terraform-datadog-kubernetes (not maintained)
 Tools for Humanity,公开平台范围（仅用于策略发现）,worldcoin,worldcoin/world-id-proof-verification,https://github.com/worldcoin/world-id-proof-verification,0,Rust,SECURITY.md,world-id-proof-verification repository
-Valve,公开平台范围（仅用于策略发现）,valvesoftware,ValveSoftware/GameNetworkingSockets,https://github.com/ValveSoftware/GameNetworkingSockets,10068,C++,SECURITY.md,Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
+Valve,公开平台范围（仅用于策略发现）,valvesoftware,ValveSoftware/GameNetworkingSockets,https://github.com/ValveSoftware/GameNetworkingSockets,10073,C++,SECURITY.md,Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
 Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/nuxt,https://github.com/nuxt/nuxt,61078,TypeScript,SECURITY.md,The full-stack Vue framework.
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,32490,TypeScript,.github/SECURITY.md,React Hooks for Data Fetching
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,31339,Rust,SECURITY.md,The build system for coding agents.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/swr,https://github.com/vercel/swr,32491,TypeScript,.github/SECURITY.md,React Hooks for Data Fetching
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/turborepo,https://github.com/vercel/turborepo,31346,Rust,SECURITY.md,The build system for coding agents.
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,30748,TypeScript,SECURITY.md,The most comprehensive authentication framework
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai,https://github.com/vercel/ai,27931,TypeScript,.github/SECURITY.md,"The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents "
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/agent-desktop,https://github.com/vercel-labs/agent-desktop,23526,Rust,SECURITY.md,Computer use CLI for AI agents
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/deepsec,https://github.com/vercel-labs/deepsec,8413,TypeScript,SECURITY.md,Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/next-forge,https://github.com/vercel/next-forge,7775,TypeScript,.github/SECURITY.md,Production-grade Turborepo template for Next.js apps.
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/eve,https://github.com/vercel/eve,5892,TypeScript,SECURITY.md,The Open Framework for Building Agents
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/streamdown,https://github.com/vercel/streamdown,5765,TypeScript,.github/SECURITY.md,"A drop-in replacement for react-markdown, designed for AI-powered streaming."
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai-elements,https://github.com/vercel/ai-elements,2525,TypeScript,.github/SECURITY.md,AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/chat,https://github.com/vercel/chat,2477,TypeScript,.github/SECURITY.md,Universal chat layer for building bots and agents.
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/lat.md,https://github.com/vercel-labs/lat.md,2072,TypeScript,SECURITY.md,"Agent Lattice: a knowledge graph for your codebase, written in markdown."
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai,https://github.com/vercel/ai,27953,TypeScript,.github/SECURITY.md,"The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents "
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/agent-desktop,https://github.com/vercel-labs/agent-desktop,23750,Rust,SECURITY.md,Computer use CLI for AI agents
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/deepsec,https://github.com/vercel-labs/deepsec,8414,TypeScript,SECURITY.md,Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/next-forge,https://github.com/vercel/next-forge,7780,TypeScript,.github/SECURITY.md,Production-grade Turborepo template for Next.js apps.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/eve,https://github.com/vercel/eve,5905,TypeScript,SECURITY.md,The Open Framework for Building Agents
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/streamdown,https://github.com/vercel/streamdown,5764,TypeScript,.github/SECURITY.md,"A drop-in replacement for react-markdown, designed for AI-powered streaming."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/ui,https://github.com/vercel-labs/ui,4558,TypeScript,SECURITY.md,A library of behaviors for agents to build the next generation of user interfaces.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/ai-elements,https://github.com/vercel/ai-elements,2526,TypeScript,.github/SECURITY.md,AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/chat,https://github.com/vercel/chat,2480,TypeScript,.github/SECURITY.md,Universal chat layer for building bots and agents.
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/lat.md,https://github.com/vercel-labs/lat.md,2074,TypeScript,SECURITY.md,"Agent Lattice: a knowledge graph for your codebase, written in markdown."
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-hub,https://github.com/better-auth/better-hub,1268,TypeScript,SECURITY.md,Re-imagining code collaboration for humans and agents
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/knowledge-agent-template,https://github.com/vercel-labs/knowledge-agent-template,1083,TypeScript,SECURITY.md,Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/knowledge-agent-template,https://github.com/vercel-labs/knowledge-agent-template,1084,TypeScript,SECURITY.md,Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/tersa,https://github.com/vercel-labs/tersa,1048,TypeScript,.github/SECURITY.md,Tersa is an open source canvas for building AI workflows.
 Vercel,公开平台范围（仅用于策略发现）,better-auth,better-auth/better-call,https://github.com/better-auth/better-call,823,TypeScript,SECURITY.md,a tiny web framework for typescript
-Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/components.build,https://github.com/vercel/components.build,803,MDX,.github/SECURITY.md,"An open-source standard for building modern, composable and accessible UI components."
-Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/issue-graph,https://github.com/vercel-labs/issue-graph,187,TypeScript,SECURITY.md,"Find related issues, competing changes, and unresolved follow-ups before you start work."
+Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/components.build,https://github.com/vercel/components.build,804,MDX,.github/SECURITY.md,"An open-source standard for building modern, composable and accessible UI components."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/issue-graph,https://github.com/vercel-labs/issue-graph,188,TypeScript,SECURITY.md,"Find related issues, competing changes, and unresolved follow-ups before you start work."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/vercel-openclaw-archived,https://github.com/vercel-labs/vercel-openclaw-archived,116,TypeScript,SECURITY.md,Deploy OpenClaw on Vercel
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/vectr,https://github.com/vercel-labs/vectr,113,TypeScript,.github/SECURITY.md,"A free, open-source template for building natural language image search on the AI Cloud."
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/arcade,https://github.com/vercel-labs/arcade,27,TypeScript,.github/SECURITY.md,"3D ASCII games rendered in the terminal. Watch agents duke it out or take them on yourself, powered by Vercel's AI Gateway."
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/simorgh,https://github.com/vercel-labs/simorgh,27,JavaScript,SECURITY.md,"The BBC's Open Source Single Page Application. Contributions welcome! Used on some of our biggest websites, e.g."
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/error,https://github.com/vercel-labs/error,21,TypeScript,SECURITY.md,"A lightweight toolkit for structured, actionable errors for humans and agents."
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/nuxt-connect-starter,https://github.com/vercel-labs/nuxt-connect-starter,21,TypeScript,SECURITY.md,"Minimal Nuxt starter for Vercel Connect. OAuth integrations hub with GitHub and Linear, no provider secrets in your env."
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/guarded-fetch,https://github.com/vercel-labs/guarded-fetch,15,TypeScript,SECURITY.md,SSRF-safe HTTP(S) fetch utilities backed by undici
@@ -10528,6 +10534,7 @@ Vercel,公开平台范围（仅用于策略发现）,nuxt,nuxt/.github,https://g
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/tsyringe,https://github.com/vercel/tsyringe,6,TypeScript,SECURITY.md,Lightweight dependency injection container for JavaScript/TypeScript
 Vercel,公开平台范围（仅用于策略发现）,vercel,vercel/coraza,https://github.com/vercel/coraza,5,Go,SECURITY.md,OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/openclaw,https://github.com/vercel-labs/openclaw,4,TypeScript,SECURITY.md,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/react,https://github.com/vercel-labs/react,4,JavaScript,SECURITY.md,The library for web and native user interfaces.
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/openclaw-sandbox,https://github.com/vercel-labs/openclaw-sandbox,3,TypeScript,SECURITY.md,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/agentenv-framework,https://github.com/vercel-labs/agentenv-framework,2,Python,SECURITY.md,AgentEnv + Vercel Sandbox: provider and runnable end-to-end evaluation POC
 Vercel,公开平台范围（仅用于策略发现）,vercel-labs,vercel-labs/ai-test-clone,https://github.com/vercel-labs/ai-test-clone,2,TypeScript,.github/SECURITY.md,Testing factory automations

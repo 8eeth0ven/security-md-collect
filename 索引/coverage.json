@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-15T00:05:42+00:00",
+  "generated_at": "2026-11-15T00:35:40+00:00",
   "security_md": {
     "mapped_vendors": 304,
     "mapped_accounts": 385,
-    "policy_records": 10577,
-    "local_documents": 10577,
+    "policy_records": 10584,
+    "local_documents": 10584,
     "default_policy_repositories": 104,
     "global_coverage_percent": null,
     "limits": [
@@ -13,8 +13,8 @@
       "Successful listing does not prove all upstream repositories were enumerated."
     ],
     "known_catalog_repositories": 52375,
-    "checked_in_known_catalog": 51730,
-    "never_checked_in_known_catalog": 645,
+    "checked_in_known_catalog": 51953,
+    "never_checked_in_known_catalog": 422,
     "accounts_with_listing_failures": 0,
     "accounts_with_truncated_search": 0,
     "historical_error_rechecks": {

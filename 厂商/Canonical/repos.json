@@ -179,17 +179,6 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/operator",
-  "url": "https://github.com/canonical/operator",
-  "sec_path": "SECURITY.md",
-  "stars": 267,
-  "language": "Python",
-  "description": "Pure Python framework for writing Juju charms.",
-  "first_seen": "2026-11-01 18:41:08"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/pebble",
   "url": "https://github.com/canonical/pebble",
   "sec_path": "SECURITY.md",
@@ -472,17 +461,6 @@
   "language": "Go",
   "description": "Login UI for the Canonical identity broker and identity provider solution",
   "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/microcloud-cluster-manager",
-  "url": "https://github.com/canonical/microcloud-cluster-manager",
-  "sec_path": "SECURITY.md",
-  "stars": 23,
-  "language": "Go",
-  "description": "MicroCloud Cluster Manager is the entry point for all your MicroClouds",
-  "first_seen": "2026-11-01 18:41:08"
  },
  {
   "vendor": "Canonical",
@@ -1083,6 +1061,28 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/k8s-snap-megademo",
+  "url": "https://github.com/canonical/k8s-snap-megademo",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Python",
+  "description": "",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/k8sd",
+  "url": "https://github.com/canonical/k8sd",
+  "sec_path": "SECURITY.md",
+  "stars": 8,
+  "language": "Go",
+  "description": "A cluster-management daemon for Kubernetes",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/pgbouncer-operator",
   "url": "https://github.com/canonical/pgbouncer-operator",
   "sec_path": "SECURITY.md",
@@ -1232,17 +1232,6 @@
   "stars": 6,
   "language": "Python",
   "description": "Juju charms for automating the Day 0 to Day 2 operations of the Slurm workload manager ⚖️🐧 ",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/k8sd",
-  "url": "https://github.com/canonical/k8sd",
-  "sec_path": "SECURITY.md",
-  "stars": 6,
-  "language": "Go",
-  "description": "A cluster-management daemon for Kubernetes",
   "first_seen": "2026-11-01 18:39:48"
  },
  {
@@ -1442,17 +1431,6 @@
   "language": "Shell",
   "description": "A distroless-like squid image based on Ubuntu  ",
   "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/charm-integration-testing",
-  "url": "https://github.com/canonical/charm-integration-testing",
-  "sec_path": "SECURITY.md",
-  "stars": 5,
-  "language": "Python",
-  "description": "A collection of Pytest-based tests for Charm Integration Testing, focusing on validating the deployment and interoperability of charms.",
-  "first_seen": "2026-11-01 18:40:27"
  },
  {
   "vendor": "Canonical",
@@ -1987,6 +1965,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/saml-integrator-operator",
+  "url": "https://github.com/canonical/saml-integrator-operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "saml-integrator-operator - charm repository.",
+  "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/ubuntu-motd-server-operator",
   "url": "https://github.com/canonical/ubuntu-motd-server-operator",
   "sec_path": "SECURITY.md",
@@ -2007,6 +1996,17 @@
   "language": "Python",
   "description": "A Charmed Operator for running OAuth2-proxy on Kubernetes",
   "first_seen": "2026-11-01 18:39:48"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/charm-integration-testing",
+  "url": "https://github.com/canonical/charm-integration-testing",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "A collection of Pytest-based tests for Charm Integration Testing, focusing on validating the deployment and interoperability of charms.",
+  "first_seen": "2026-11-01 18:40:27"
  },
  {
   "vendor": "Canonical",
@@ -2110,6 +2110,17 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
+  "full_name": "canonical/operator",
+  "url": "https://github.com/canonical/operator",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Pure Python framework for writing Juju charms.",
+  "first_seen": "2026-11-01 18:41:08"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
   "full_name": "canonical/bingo",
   "url": "https://github.com/canonical/bingo",
   "sec_path": "SECURITY.md",
@@ -2149,6 +2160,17 @@
   "stars": 3,
   "language": "Shell",
   "description": "Primary source of truth for the Docker \"Official Images\" program",
+  "first_seen": "2026-11-01 18:41:08"
+ },
+ {
+  "vendor": "Canonical",
+  "org": "canonical",
+  "full_name": "canonical/microcloud-cluster-manager",
+  "url": "https://github.com/canonical/microcloud-cluster-manager",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "MicroCloud Cluster Manager is the entry point for all your MicroClouds",
   "first_seen": "2026-11-01 18:41:08"
  },
  {
@@ -3243,17 +3265,6 @@
  {
   "vendor": "Canonical",
   "org": "canonical",
-  "full_name": "canonical/k8s-snap-megademo",
-  "url": "https://github.com/canonical/k8s-snap-megademo",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
   "full_name": "canonical/mailserver-operators",
   "url": "https://github.com/canonical/mailserver-operators",
   "sec_path": "SECURITY.md",
@@ -3282,17 +3293,6 @@
   "stars": 1,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 18:39:48"
- },
- {
-  "vendor": "Canonical",
-  "org": "canonical",
-  "full_name": "canonical/saml-integrator-operator",
-  "url": "https://github.com/canonical/saml-integrator-operator",
-  "sec_path": "SECURITY.md",
-  "stars": 1,
-  "language": "Python",
-  "description": "saml-integrator-operator - charm repository.",
   "first_seen": "2026-11-01 18:39:48"
  },
  {
