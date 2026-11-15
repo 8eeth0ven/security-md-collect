@@ -299,7 +299,7 @@ CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc,https://github.com/gr
 CNCF云原生基金会,无(开源基金会),istio,istio/istio,https://github.com/istio/istio,38507,Go,.github/SECURITY.md,"Connect, secure, control, and observe services."
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/minikube,https://github.com/kubernetes/minikube,32244,Go,SECURITY.md,Run Kubernetes locally
 CNCF云原生基金会,无(开源基金会),envoyproxy,envoyproxy/envoy,https://github.com/envoyproxy/envoy,29230,C++,SECURITY.md,Cloud-native high-performance edge/middle/service proxy
-CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25833,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
+CNCF云原生基金会,无(开源基金会),cilium,cilium/cilium,https://github.com/cilium/cilium,25835,Go,SECURITY.md,"eBPF-based Networking, Security, and Observability"
 CNCF云原生基金会,无(开源基金会),argoproj,argoproj/argo-cd,https://github.com/argoproj/argo-cd,24608,Go,SECURITY.md,Declarative Continuous Deployment for Kubernetes
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-go,https://github.com/grpc/grpc-go,23110,Go,SECURITY.md,The Go language implementation of gRPC. HTTP/2 based RPC
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/ingress-nginx,https://github.com/kubernetes/ingress-nginx,19436,Go,SECURITY.md,Ingress NGINX Controller for Kubernetes
@@ -318,7 +318,7 @@ CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/kube-state-met
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_golang,https://github.com/prometheus/client_golang,6049,Go,SECURITY.md,Prometheus instrumentation library for Go applications
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/blackbox_exporter,https://github.com/prometheus/blackbox_exporter,5942,Go,SECURITY.md,Blackbox prober exporter
 CNCF云原生基金会,无(开源基金会),kubernetes,kubernetes/website,https://github.com/kubernetes/website,5429,HTML,SECURITY.md,Kubernetes website and documentation repo: 
-CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5183,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
+CNCF云原生基金会,无(开源基金会),cilium,cilium/tetragon,https://github.com/cilium/tetragon,5184,C,SECURITY.md,eBPF-based Security Observability and Runtime Enforcement
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-node,https://github.com/grpc/grpc-node,4842,TypeScript,SECURITY.md,gRPC for Node.js
 CNCF云原生基金会,无(开源基金会),grpc,grpc/grpc-dotnet,https://github.com/grpc/grpc-dotnet,4489,C#,SECURITY.md,gRPC for .NET
 CNCF云原生基金会,无(开源基金会),prometheus,prometheus/client_python,https://github.com/prometheus/client_python,4386,Python,SECURITY.md,Prometheus instrumentation library for Python applications
@@ -6756,7 +6756,7 @@ SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/fsm-shell,https://g
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/ai-native-architecture-advisor,https://github.com/SAP/ai-native-architecture-advisor,4,HTML,SECURITY.md,"Describe an SAP business problem and this Claude Code / Codex plugin helps you design an AI solution for it. It asks a few questions, then writes a clear plan: …"
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/async-profiler,https://github.com/SAP/async-profiler,3,C++,SECURITY.md,Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 SAP,自建（SAP Vulnerability Disclosure Program）,SAP,SAP/ui5-flexibility-utils,https://github.com/SAP/ui5-flexibility-utils,2,HTML,SECURITY.md,Utilities to generate the UI5 flexibility changes programmatically
-思科,HackerOne（Cisco）,cisco,cisco/openh264,https://github.com/cisco/openh264,6171,C++,SECURITY.md,Open Source H.264 Codec 
+思科,HackerOne（Cisco）,cisco,cisco/openh264,https://github.com/cisco/openh264,6172,C++,SECURITY.md,Open Source H.264 Codec 
 思科,HackerOne（Cisco）,cisco-open,cisco-open/network-sketcher,https://github.com/cisco-open/network-sketcher,419,Python,SECURITY.md,"Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offline editions for creating network designs and exporting PowerPoint diagrams …"
 思科,HackerOne（Cisco）,cisco-open,cisco-open/forge,https://github.com/cisco-open/forge,215,HCL,SECURITY.md,ForgeMT is a multi-tenant platform for self-hosted GitHub Actions runners on AWS. It gives platform teams an IaC-driven way to operate ephemeral EC2 runners and…
 思科,HackerOne（Cisco）,cisco-open,cisco-open/pase,https://github.com/cisco-open/pase,107,Python,SECURITY.md,PASE: Phonologically Anchored Speech Enhancer 
@@ -9126,7 +9126,7 @@ Citi,HackerOne,citi,Citi/airflow,https://github.com/Citi/airflow,0,Python,.githu
 Citi,HackerOne,citi,Citi/trino,https://github.com/Citi/trino,0,Java,.github/SECURITY.md,"Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
 Citi,HackerOne,citi,Citi/frontend,https://github.com/Citi/frontend,0,Vue,SECURITY.md,Frontend UI for Dependency-Track
 Citi,HackerOne,citi,citi/.github,https://github.com/citi/.github,,,SECURITY.md,
-Capital One,HackerOne,capitalone,capitalone/VulnHunter,https://github.com/capitalone/VulnHunter,1171,Python,SECURITY.md,"Agentic AI security tool that applies proactive, attacker-first analysis directly to source code."
+Capital One,HackerOne,capitalone,capitalone/VulnHunter,https://github.com/capitalone/VulnHunter,1173,Python,SECURITY.md,"Agentic AI security tool that applies proactive, attacker-first analysis directly to source code."
 Robinhood,HackerOne,robinhoodmarkets,robinhoodmarkets/viem,https://github.com/robinhoodmarkets/viem,0,TypeScript,.github/SECURITY.md,TypeScript Interface for Ethereum
 Revolut,HackerOne,revolut-engineering,revolut-engineering/revolut-x-api,https://github.com/revolut-engineering/revolut-x-api,77,TypeScript,SECURITY.md,
 Revolut,HackerOne,revolut-engineering,revolut-engineering/polaris,https://github.com/revolut-engineering/polaris,1,Python,SECURITY.md,"The interoperable, open source catalog for Apache Iceberg"
@@ -9144,12 +9144,12 @@ Kraken,自建BB,krakenfx,krakenfx/kraken-cli,https://github.com/krakenfx/kraken-
 Gemini,HackerOne,gemini,gemini/developer-platform,https://github.com/gemini/developer-platform,8,TypeScript,SECURITY.md,
 Blockchain.com,HackerOne,blockchain,blockchain/blockchain-wallet-v4-frontend,https://github.com/blockchain/blockchain-wallet-v4-frontend,882,TypeScript,SECURITY.md,"Blockchain.com's open source, non-custodial Wallet"
 Blockchain.com,HackerOne,blockchain,blockchain/ccxt,https://github.com/blockchain/ccxt,1,JavaScript,SECURITY.md,A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-Circle,HackerOne,circlefin,circlefin/stablecoin-evm,https://github.com/circlefin/stablecoin-evm,812,TypeScript,SECURITY.md,Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains
+Circle,HackerOne,circlefin,circlefin/stablecoin-evm,https://github.com/circlefin/stablecoin-evm,811,TypeScript,SECURITY.md,Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains
 Circle,HackerOne,circlefin,circlefin/malachite,https://github.com/circlefin/malachite,464,Rust,SECURITY.md,Flexible BFT consensus engine in Rust
 Circle,HackerOne,circlefin,circlefin/evm-cctp-contracts,https://github.com/circlefin/evm-cctp-contracts,234,Solidity,SECURITY.md,Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol
 Circle,HackerOne,circlefin,circlefin/arc-node,https://github.com/circlefin/arc-node,208,Rust,SECURITY.md,The Economic OS for the internet
 Circle,HackerOne,circlefin,circlefin/skills,https://github.com/circlefin/skills,166,JavaScript,SECURITY.md,Circle's open source skills for AI-assisted development.
-Circle,HackerOne,circlefin,circlefin/arc-escrow,https://github.com/circlefin/arc-escrow,136,TypeScript,SECURITY.md,"This sample app demonstrates an end-to-end escrow workflow — from contract creation and deposit, through AI-validated deliverable submission, to fund release or…"
+Circle,HackerOne,circlefin,circlefin/arc-escrow,https://github.com/circlefin/arc-escrow,137,TypeScript,SECURITY.md,"This sample app demonstrates an end-to-end escrow workflow — from contract creation and deposit, through AI-validated deliverable submission, to fund release or…"
 Circle,HackerOne,circlefin,circlefin/cctp-sample-app,https://github.com/circlefin/cctp-sample-app,90,TypeScript,SECURITY.md,Sample app to demonstrate capabilities of Cross-Chain Transfer Protocol (CCTP)
 Circle,HackerOne,circlefin,circlefin/arc-commerce,https://github.com/circlefin/arc-commerce,72,TypeScript,SECURITY.md,This sample app demonstrates how to integrate USDC as a payment method for purchasing credits on Arc.
 Circle,HackerOne,circlefin,circlefin/solana-cctp-contracts,https://github.com/circlefin/solana-cctp-contracts,54,Rust,SECURITY.md,Official repository for Solana smart contracts used by the Cross-Chain Transfer Protocol
