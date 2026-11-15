@@ -946,17 +946,6 @@
  },
  {
   "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-sdk-for-python",
-  "url": "https://github.com/Azure/azure-sdk-for-python",
-  "sec_path": "SECURITY.md",
-  "stars": 5623,
-  "language": "Python",
-  "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn…",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
   "org": "dotnet",
   "full_name": "dotnet/msbuild",
   "url": "https://github.com/dotnet/msbuild",
@@ -1137,17 +1126,6 @@
   "description": "The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",
   "license": null,
   "first_seen": "2026-11-01 22:38:46"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-cli",
-  "url": "https://github.com/Azure/azure-cli",
-  "sec_path": "SECURITY.md",
-  "stars": 4664,
-  "language": "Python",
-  "description": "Azure Command-Line Interface",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -1378,17 +1356,6 @@
   "license": null,
   "first_seen": "2026-11-01 19:06:45",
   "last_verified": "2026-11-14 20:02:15"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/bicep",
-  "url": "https://github.com/Azure/bicep",
-  "sec_path": "SECURITY.md",
-  "stars": 3661,
-  "language": "Bicep",
-  "description": "Bicep is a declarative language for describing and deploying Azure resources",
-  "first_seen": "2026-11-01 16:24:27"
  },
  {
   "vendor": "微软",
@@ -5683,17 +5650,6 @@
  },
  {
   "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-cli-extensions",
-  "url": "https://github.com/Azure/azure-cli-extensions",
-  "sec_path": "SECURITY.md",
-  "stars": 456,
-  "language": "Python",
-  "description": "Public Repository for Extensions of Azure CLI.",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
   "org": "microsoft",
   "full_name": "microsoft/azure-container-apps",
   "url": "https://github.com/microsoft/azure-container-apps",
@@ -6341,17 +6297,6 @@
   "description": "Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs",
   "license": null,
   "first_seen": "2026-11-04 01:33:52"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/azure-functions-templates",
-  "url": "https://github.com/Azure/azure-functions-templates",
-  "sec_path": "SECURITY.md",
-  "stars": 362,
-  "language": "C#",
-  "description": "Azure functions templates for the azure portal, CLI, and VS",
-  "first_seen": "2026-11-01 16:24:42"
  },
  {
   "vendor": "微软",
@@ -23384,17 +23329,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/ARO-Tools",
-  "url": "https://github.com/Azure/ARO-Tools",
-  "sec_path": "SECURITY.md",
-  "stars": 8,
-  "language": "Go",
-  "description": "Azure Red Hat OpenShift utility library and tool",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/terraform-azurerm-avm-res-network-privateendpoint",
   "url": "https://github.com/Azure/terraform-azurerm-avm-res-network-privateendpoint",
   "sec_path": "SECURITY.md",
@@ -23922,17 +23856,6 @@
   "stars": 7,
   "language": "TypeScript",
   "description": "End-to-end tests covering the Node.js experience on Azure Functions",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/aigateway",
-  "url": "https://github.com/Azure/aigateway",
-  "sec_path": "SECURITY.md",
-  "stars": 7,
-  "language": "Python",
-  "description": "Azure AI Gateway is a fully managed gateway for AI trafic.",
   "first_seen": "2026-11-01 16:24:27"
  },
  {
@@ -26849,6 +26772,19 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/azure-sdk-for-python",
+  "url": "https://github.com/Azure/azure-sdk-for-python",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn…",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 14:04:48"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/azure-sdk-for-net",
   "url": "https://github.com/Azure/azure-sdk-for-net",
   "sec_path": "SECURITY.md",
@@ -26889,6 +26825,19 @@
   "language": "Go",
   "description": "",
   "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/bicep",
+  "url": "https://github.com/Azure/bicep",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Bicep",
+  "description": "Bicep is a declarative language for describing and deploying Azure resources",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 14:04:48"
  },
  {
   "vendor": "微软",
@@ -26981,6 +26930,19 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/aigateway",
+  "url": "https://github.com/Azure/aigateway",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Azure AI Gateway is a fully managed gateway for AI trafic.",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 14:04:48"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/AI-Landing-Zones",
   "url": "https://github.com/Azure/AI-Landing-Zones",
   "sec_path": "SECURITY.md",
@@ -26988,6 +26950,19 @@
   "language": "Python",
   "description": "The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal",
   "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/Connectors-NodeJS-SDK",
+  "url": "https://github.com/Azure/Connectors-NodeJS-SDK",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "TypeScript",
+  "description": "A rich NodeJS SDK providing runtime components for typed Azure connector clients.",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 14:04:48"
  },
  {
   "vendor": "微软",
@@ -27020,7 +26995,9 @@
   "stars": 3,
   "language": "C#",
   "description": "A rich .NET SDK providing runtime components for typed Azure connector clients.",
-  "first_seen": "2026-11-01 16:24:27"
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 14:04:48"
  },
  {
   "vendor": "微软",
@@ -27036,6 +27013,32 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/azure-cli-extensions",
+  "url": "https://github.com/Azure/azure-cli-extensions",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "Public Repository for Extensions of Azure CLI.",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 14:04:48"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-cli",
+  "url": "https://github.com/Azure/azure-cli",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "> Azure Command-Line Interface",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 14:04:48"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/c-build-tools",
   "url": "https://github.com/Azure/c-build-tools",
   "sec_path": "SECURITY.md",
@@ -27043,6 +27046,19 @@
   "language": "Rust",
   "description": "Azure C Build Tools",
   "first_seen": "2026-11-01 16:24:27"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/ARO-Tools",
+  "url": "https://github.com/Azure/ARO-Tools",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Go",
+  "description": "Azure Red Hat OpenShift utility library and tool",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:27",
+  "last_verified": "2026-11-15 14:04:48"
  },
  {
   "vendor": "微软",
@@ -27179,6 +27195,19 @@
  {
   "vendor": "微软",
   "org": "Azure",
+  "full_name": "Azure/connectors-python-sdk",
+  "url": "https://github.com/Azure/connectors-python-sdk",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "Python",
+  "description": "A rich Python SDK providing runtime components for typed Azure connector clients.",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:42",
+  "last_verified": "2026-11-15 14:04:48"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
   "full_name": "Azure/autoscaler",
   "url": "https://github.com/Azure/autoscaler",
   "sec_path": "SECURITY.md",
@@ -27197,6 +27226,19 @@
   "language": "Python",
   "description": "Live Voice Practice provides a real-time conversation simulation environment for voice-based learning and training. It enables users to practice realistic voice…",
   "first_seen": "2026-11-01 16:24:42"
+ },
+ {
+  "vendor": "微软",
+  "org": "Azure",
+  "full_name": "Azure/azure-functions-templates",
+  "url": "https://github.com/Azure/azure-functions-templates",
+  "sec_path": "SECURITY.md",
+  "stars": 3,
+  "language": "C#",
+  "description": "Azure functions templates for the azure portal, CLI, and VS",
+  "license": null,
+  "first_seen": "2026-11-01 16:24:42",
+  "last_verified": "2026-11-15 14:04:48"
  },
  {
   "vendor": "微软",
@@ -31702,17 +31744,6 @@
  {
   "vendor": "微软",
   "org": "Azure",
-  "full_name": "Azure/Connectors-NodeJS-SDK",
-  "url": "https://github.com/Azure/Connectors-NodeJS-SDK",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "TypeScript",
-  "description": "A rich NodeJS SDK providing runtime components for typed Azure connector clients.",
-  "first_seen": "2026-11-01 16:24:27"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
   "full_name": "Azure/Connectors-NET-LSP",
   "url": "https://github.com/Azure/Connectors-NET-LSP",
   "sec_path": "SECURITY.md",
@@ -32841,17 +32872,6 @@
   "stars": null,
   "language": "Python",
   "description": "",
-  "first_seen": "2026-11-01 16:24:42"
- },
- {
-  "vendor": "微软",
-  "org": "Azure",
-  "full_name": "Azure/connectors-python-sdk",
-  "url": "https://github.com/Azure/connectors-python-sdk",
-  "sec_path": "SECURITY.md",
-  "stars": null,
-  "language": "Python",
-  "description": "A rich Python SDK providing runtime components for typed Azure connector clients.",
   "first_seen": "2026-11-01 16:24:42"
  },
  {
