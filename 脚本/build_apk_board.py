@@ -205,22 +205,20 @@ def build_apk_board(base):
         template = template.replace(key,value)
     write(out / '赏金APK看板.html',template)
     write(out / 'index.html','<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=./赏金APK看板.html"><a href="./赏金APK看板.html">Android APK 目录</a></html>\n')
-    readme = ['# Android APK 与赏金项目目录','',
-              '[打开在线目录](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html) · [返回主页](../README.md) · [CSV](dashboard.csv) · [JSON](dashboard.json)','',
-              '默认明亮，支持深色与跟随系统、中英文切换、平台/赏金/入口筛选和分页。首屏静态输出前 25 条有赏金记录，JavaScript 不可用时也能阅读。','',
-              '> 快照整理时间：%s。这里只整理公开元数据，不下载 APK、不验证第三方下载地址。'%stamp,'',
-              '| 平台 | 全部目标 | 有赏金目标 | 有应用入口 |','| --- | ---: | ---: | ---: |']
-    readme += ['| %s | %s | %s | %s |'%(p['name'],p['targets'],p['cash'],p['entries']) for p in platforms]
-    readme += ['', '## 字段与边界','',
-               '- 目标条目数与唯一应用数不同；同一个包名可能属于多个项目或目标。',
-               '- 最新来源观察到 %s 条，另有 %s 条历史记录已逐项核对官方范围。唯一有效格式包名 %s 个，尚未逐个验证商店存续。'%(stats['observed'],stats['reviewed'],stats['unique_packages']),
-               '- [338 条历史目标核查结果](history-review.json)保留逐项来源与证据；范围外、归档、非 Android 和暂停项目从默认赏金结果中排除。国内 SRC 提供单独的平台筛选与[源证据](src-evidence.json)。',
-               '- [覆盖审计](coverage.json)记录来源项目数、Android 范围数、未解析包名与历史缺口；[来源目标快照](source-observations.json)保留本轮抽取证据。[国内 SRC 待核清单](../docs/coverage.md)单列，尚未冒充完整 APK 库。',
-               '- “有赏金”依据快照的明确字段；HackerOne 同时要求计划有赏金且目标符合赏金资格，归档/不接收记录单独标注。积分、VDP 和未知状态不会默认算作有赏金。',
-               '- Google Play 为应用商店入口；APKPure 为第三方镜像候选。生成候选 URL 不等于验证下载成功，`download_verified` 当前全部为 false。',
-               '- 包名来源分为 Play 链接提取、人工映射待核对和未标注；无包名时保留项目页入口。',
-               '- 快照不等于当前赏金范围，研究前核对项目官方页面。',
-               '- 原始四平台 JSON 与清单保留在本目录。运行 `python 脚本/build_apk_board.py` 可离线重建。','']
+    readme = [
+        '# Android 应用与公开项目目录', '',
+        '按平台、包名和快照中的赏金状态查找项目。每条记录链接到公开来源，可据此核对当前范围。', '',
+        '![明亮看板列出平台、项目来源、包名与应用入口](../docs/assets/apk-desktop.png)', '',
+        '[在线目录](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html) · [CSV](dashboard.csv) · [JSON](dashboard.json) · [项目首页](../README.md)', '',
+        f'快照日期 `{stamp}`。同一包名可以出现在多个项目中，下表按目标记录计数。', '',
+        '| 平台 | 全部记录 | 有赏金记录 | 有应用入口 |', '| --- | ---: | ---: | ---: |',
+    ]
+    for platform in platforms:
+        readme.append(f"| {platform['name']} | {platform['targets']} | {platform['cash']} | {platform['entries']} |")
+    readme.extend([
+        '', '官方项目页给出当前范围与奖励条件。项目状态按快照记录，第三方镜像入口待核实。', '',
+        '[历史范围核查](history-review.json) · [来源观察](source-observations.json) · [国内 SRC 证据](src-evidence.json) · [覆盖缺口](../docs/coverage.md)', '',
+    ])
     write(out / 'README.md','\n'.join(readme))
     for key, name, filename, markdown in PLATFORMS:
         selected = [r for r in rows if r['platform']==key]
