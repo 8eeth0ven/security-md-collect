@@ -1,44 +1,156 @@
 {
-  "generated_at": "2026-11-15T15:36:20+00:00",
+  "generated_at": "2026-11-16T04:28:29+00:00",
   "security_md": {
-    "mapped_vendors": 304,
-    "mapped_accounts": 385,
-    "policy_records": 10597,
-    "local_documents": 10597,
-    "default_policy_repositories": 104,
+    "mapped_vendors": 365,
+    "mapped_accounts": 453,
+    "policy_records": 10672,
+    "local_documents": 10672,
+    "default_policy_repositories": 118,
     "global_coverage_percent": null,
     "limits": [
       "Only mapped accounts and discovered repositories, not all GitHub.",
       "Account default documents are counted once, not expanded across inheriting repos.",
       "Successful listing does not prove all upstream repositories were enumerated."
     ],
-    "known_catalog_repositories": 52378,
-    "checked_in_known_catalog": 52157,
-    "never_checked_in_known_catalog": 221,
-    "accounts_with_listing_failures": 0,
-    "accounts_with_truncated_search": 0,
-    "historical_error_rechecks": {
-      "confirmed_absent": 883,
-      "policy_found": 25
+    "historical_catalog_summary": {
+      "known_catalog_repositories": 52378,
+      "checked_in_known_catalog": 52157,
+      "never_checked_in_known_catalog": 221,
+      "observed_at": "2026-11-15T15:36:20+00:00",
+      "status": "source_manifest_unavailable",
+      "note": "Historical aggregate only. The original state/orgs and per-repository pending list are unavailable; this run does not claim those repositories were completed."
+    },
+    "priority_audit": {
+      "schema_version": 1,
+      "generated_at": "2026-11-16T03:52:16+00:00",
+      "projects": 182,
+      "result_counts": {
+        "indexed_verified": 52,
+        "added": 65,
+        "no_standard_policy": 21,
+        "default_policy_available": 44
+      },
+      "added_direct_policies": 65,
+      "added_default_policies": 23,
+      "remaining": [],
+      "remaining_account_defaults": [],
+      "baseline_indexed_policies": 10597,
+      "historical_unchecked": {
+        "reported_count": 221,
+        "identity_available": false,
+        "status": "unresolved",
+        "reason": "Original collector state and org catalog are not distributed in the public repository; this run does not claim to clear the historical 221."
+      },
+      "limits": [
+        "This explicit priority set is not all open source projects or bounty scope.",
+        "no_standard_policy means all listed Markdown candidate paths returned 404 in a live repository; external disclosure pages and other formats may exist.",
+        "Account defaults are counted once as owner/.github, not expanded into per-project document counts.",
+        "Transport failures remain unresolved and are retried on the next invocation."
+      ],
+      "touched_vendors": [
+        "Apache软件基金会",
+        "CNCF云原生基金会",
+        "Caddy",
+        "ClickHouse",
+        "Directus",
+        "Django",
+        "Docker",
+        "Dromara",
+        "Drupal",
+        "Eclipse基金会",
+        "Elastic",
+        "Express",
+        "FastAPI",
+        "FasterXML",
+        "Gitea",
+        "Gogs",
+        "Gotify",
+        "Grafana",
+        "Halo",
+        "HashiCorp",
+        "Hazelcast",
+        "Helm",
+        "Hibernate",
+        "JeecgBoot",
+        "Jenkins",
+        "Jetty",
+        "Joomla",
+        "Kludex",
+        "Koa",
+        "Labstack",
+        "Laravel",
+        "Litemall",
+        "MariaDB",
+        "Meta",
+        "Metabase",
+        "Micronaut",
+        "MinIO",
+        "NestJS",
+        "Netty",
+        "Nextcloud",
+        "Nginx",
+        "NocoDB",
+        "Node.js",
+        "OpenSSL",
+        "OpenSearch",
+        "Oracle",
+        "PHP",
+        "Pallets",
+        "PingCAP",
+        "PostgreSQL",
+        "Python软件基金会",
+        "Quarkus",
+        "RabbitMQ",
+        "React Router",
+        "Red Hat",
+        "Redash",
+        "Redis",
+        "Ruby",
+        "Ruby on Rails",
+        "Spring",
+        "StarRocks",
+        "Strapi",
+        "Symfony",
+        "Undertow",
+        "Valkey",
+        "Vercel",
+        "Vite",
+        "Vue",
+        "Wazuh",
+        "Webpack",
+        "WordPress",
+        "XStream",
+        "curl",
+        "osquery",
+        "ownCloud",
+        "urllib3",
+        "京东",
+        "百度",
+        "蚂蚁集团",
+        "谷歌",
+        "阿里巴巴",
+        "飞致云"
+      ],
+      "baseline_unique_repositories": 10584
     }
   },
   "android": {
-    "generated_at": "2026-11-14T05:50:08+00:00",
-    "targets": 1137,
-    "programs": 426,
-    "unique_packages": 985,
-    "observed": 799,
+    "generated_at": "2026-11-16T04:27:05+00:00",
+    "targets": 1167,
+    "programs": 428,
+    "unique_packages": 1029,
+    "observed": 829,
     "reviewed": 338,
     "scope_counts": {
-      "in_scope": 151,
+      "in_scope": 181,
       "source_listed": 775,
       "archived": 158,
       "out_of_scope": 41,
       "not_android": 6,
       "android_unresolved": 6
     },
-    "packages": 1031,
-    "cash": 600,
+    "packages": 1075,
+    "cash": 622,
     "platforms": [
       {
         "key": "bugcrowd",
@@ -71,18 +183,18 @@
       {
         "key": "src",
         "name": "国内 SRC",
-        "targets": 24,
-        "cash": 19,
-        "entries": 24
+        "targets": 54,
+        "cash": 41,
+        "entries": 54
       }
     ],
     "bounty_counts": {
-      "cash": 600,
-      "inactive": 255,
+      "cash": 622,
+      "inactive": 256,
       "excluded": 47,
       "vdp": 216,
       "points": 7,
-      "unknown": 12
+      "unknown": 19
     }
   },
   "android_sources": [
@@ -159,38 +271,56 @@
     }
   ],
   "domestic_src": {
-    "observed_at": "2026-11-14T05:50:08+00:00",
+    "observed_at": "2026-11-16T04:27:05+00:00",
     "status": "partial_android_inventory_with_separate_unresolved_products",
     "vendor_registry": [
       {
         "vendor": "腾讯",
         "src": "TSRC",
-        "status": "package_scope_not_audited"
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 6,
+        "source_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "checked_at": "2026-11-16T03:45:45+00:00"
       },
       {
         "vendor": "阿里巴巴",
         "src": "ASRC",
-        "status": "package_scope_not_audited"
+        "status": "migrated_to_task_platform_current_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.alibaba.com/",
+        "checked_at": "2026-11-16T03:47:50+00:00"
       },
       {
         "vendor": "蚂蚁集团",
         "src": "蚂蚁SRC",
-        "status": "package_scope_not_audited"
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.alipay.com/",
+        "checked_at": "2026-11-16T03:48:58+00:00"
       },
       {
         "vendor": "字节跳动",
-        "src": "字节跳动SRC",
-        "status": "package_scope_not_audited"
+        "src": "ByteSRC",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 12,
+        "source_url": "https://security.bytedance.com/src/",
+        "checked_at": "2026-11-16T03:48:58+00:00"
       },
       {
         "vendor": "美团",
         "src": "美团MSRC",
-        "status": "package_scope_not_audited"
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.meituan.com/",
+        "checked_at": "2026-11-16T03:48:58+00:00"
       },
       {
         "vendor": "京东",
         "src": "JSRC",
-        "status": "package_scope_not_audited"
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.jd.com/",
+        "checked_at": "2026-11-16T03:48:58+00:00"
       },
       {
         "vendor": "京东云",
@@ -200,12 +330,18 @@
       {
         "vendor": "百度",
         "src": "BSRC",
-        "status": "package_scope_not_audited"
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 14,
+        "source_url": "https://bsrc.baidu.com/v2/api/config/regulation",
+        "checked_at": "2026-11-16T03:49:05+00:00"
       },
       {
         "vendor": "华为",
         "src": "Huawei PSIRT",
-        "status": "package_scope_not_audited"
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "source_url": "https://www.huawei.com/cn/psirt/",
+        "checked_at": "2026-11-16T03:48:59+00:00"
       },
       {
         "vendor": "华为云",
@@ -215,12 +351,18 @@
       {
         "vendor": "荣耀",
         "src": "HSRC",
-        "status": "package_scope_not_audited"
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.hihonor.com/",
+        "checked_at": "2026-11-16T03:49:01+00:00"
       },
       {
         "vendor": "小米",
         "src": "MiSRC",
-        "status": "package_scope_not_audited"
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 12,
+        "source_url": "https://sec.xiaomi.com/",
+        "checked_at": "2026-11-16T03:48:59+00:00"
       },
       {
         "vendor": "中兴",
@@ -230,42 +372,167 @@
       {
         "vendor": "360",
         "src": "360SRC",
-        "status": "package_scope_not_audited"
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 6,
+        "source_url": "https://src.360.cn/News/news/id/296",
+        "checked_at": "2026-11-16T03:45:46+00:00"
       },
       {
         "vendor": "哔哩哔哩",
         "src": "哔哩哔哩SRC",
-        "status": "package_scope_not_audited"
+        "status": "migrated_platform_current_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.bilibili.com/announcement/?price=0",
+        "checked_at": "2026-11-16T03:47:49+00:00"
       },
       {
         "vendor": "快手",
         "src": "快手SRC",
-        "status": "package_scope_not_audited"
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.kuaishou.com/",
+        "checked_at": "2026-11-16T03:48:58+00:00"
       },
       {
         "vendor": "网易",
         "src": "网易SRC",
-        "status": "package_scope_not_audited"
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://aq.163.com/",
+        "checked_at": "2026-11-16T03:49:00+00:00"
       },
       {
         "vendor": "滴滴",
         "src": "DSRC",
-        "status": "package_scope_not_audited"
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://sec.didichuxing.com/",
+        "checked_at": "2026-11-16T03:49:01+00:00"
       },
       {
         "vendor": "携程",
         "src": "携程SRC",
-        "status": "package_scope_not_audited"
+        "status": "official_site_maintenance_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.ctrip.com/",
+        "checked_at": "2026-11-16T03:49:01+00:00"
       },
       {
         "vendor": "唯品会",
         "src": "VSRC",
-        "status": "package_scope_not_audited"
+        "status": "named_product_confirmed_submission_paused",
+        "confirmed_android_targets": 1,
+        "source_url": "https://sec.vip.com/vip",
+        "checked_at": "2026-11-16T03:45:46+00:00"
       },
       {
         "vendor": "海康威视",
         "src": "海康威视PSIRT",
         "status": "package_scope_not_audited"
+      },
+      {
+        "vendor": "拼多多",
+        "src": "无",
+        "status": "redirected_to_company_homepage_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.pinduoduo.com/",
+        "checked_at": "2026-11-16T03:48:58+00:00"
+      },
+      {
+        "vendor": "OPPO",
+        "src": "OSRC",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 2,
+        "source_url": "https://security.oppo.com/cn/",
+        "checked_at": "2026-11-16T03:49:02+00:00"
+      },
+      {
+        "vendor": "vivo",
+        "src": "无",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.vivo.com.cn/",
+        "checked_at": "2026-11-16T03:49:00+00:00"
+      },
+      {
+        "vendor": "同程旅行",
+        "src": "无",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.ly.com/",
+        "checked_at": "2026-11-16T03:49:04+00:00"
+      },
+      {
+        "vendor": "途虎",
+        "src": "THSRC",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 1,
+        "source_url": "https://security.tuhu.cn/",
+        "checked_at": "2026-11-16T03:49:01+00:00"
+      },
+      {
+        "vendor": "顺丰",
+        "src": "无",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.sf-express.com/",
+        "checked_at": "2026-11-16T03:49:02+00:00"
+      },
+      {
+        "vendor": "货拉拉",
+        "src": "",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.huolala.cn/",
+        "checked_at": "2026-11-16T03:49:03+00:00"
+      },
+      {
+        "vendor": "小红书",
+        "src": "无",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.xiaohongshu.com/",
+        "checked_at": "2026-11-16T03:49:03+00:00"
+      },
+      {
+        "vendor": "得物",
+        "src": "无",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.dewu.com/",
+        "checked_at": "2026-11-16T03:49:03+00:00"
+      },
+      {
+        "vendor": "满帮",
+        "src": "",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.amh-group.com/",
+        "checked_at": "2026-11-16T03:49:04+00:00"
+      },
+      {
+        "vendor": "贝壳",
+        "src": "无",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.ke.com/",
+        "checked_at": "2026-11-16T03:49:04+00:00"
+      },
+      {
+        "vendor": "爱奇艺",
+        "src": "",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.iqiyi.com/",
+        "checked_at": "2026-11-16T03:49:04+00:00"
+      },
+      {
+        "vendor": "去哪儿",
+        "src": "无",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "source_url": "https://security.qunar.com/",
+        "checked_at": "2026-11-16T03:49:05+00:00"
       }
     ],
     "sources": [
@@ -438,7 +705,7 @@
       "Product registration alone does not prove current cash bounty eligibility or maintained version.",
       "Private scopes and temporary activities require separate current official verification."
     ],
-    "confirmed_android_targets": 24,
+    "confirmed_android_targets": 54,
     "pending_products": [
       {
         "vendor": "360",
@@ -450,22 +717,6 @@
         "reward_url": "https://src.360.cn/News/news/id/296",
         "reward_conditions": "安全币可每月1至7日兑换现金，至少20币；1币对应5元，需实名及有效报告；长期不更新/较旧版本不默认符合奖励",
         "download_page": "https://i.360.cn/security/accountguard",
-        "apk_direct": null,
-        "package": null,
-        "package_source_url": null,
-        "scope_status": "android_unresolved",
-        "observed_at": "2026-11-14T05:25:36+00:00"
-      },
-      {
-        "vendor": "360",
-        "src_name": "360SRC",
-        "product": "360手机助手",
-        "scope_url": "https://src.360.cn/News/news/id/296",
-        "scope_evidence": "现行V2.0隐私安全章节具名范围；官方产品页 https://src.360.cn/Product/productDetail/id/22",
-        "reward_status": "cash",
-        "reward_url": "https://src.360.cn/News/news/id/296",
-        "reward_conditions": "安全币可每月1至7日兑换现金，至少20币；1币对应5元，需实名及有效报告；长期不更新/较旧版本不默认符合奖励",
-        "download_page": "https://sj.360.cn/",
         "apk_direct": null,
         "package": null,
         "package_source_url": null,
@@ -537,22 +788,707 @@
         "observed_at": "2026-11-14T05:25:36+00:00"
       },
       {
-        "vendor": "百度",
-        "src_name": "BSRC",
-        "product": "百度输入法",
-        "scope_url": "https://bj.bcebos.com/bsrc-public/2026073122193835faf944aea5bfa5.pdf",
-        "scope_evidence": "V9.0第8页2至6系数产品线含百度输入法；官网可读，Android安装链接待解析",
-        "reward_status": "cash",
-        "reward_url": "https://bj.bcebos.com/bsrc-public/2026073122193835faf944aea5bfa5.pdf",
-        "reward_conditions": "现行V9.0第15页：安全币可1:5兑换现金，需实名及绑定支付宝；产品线系数/功能模块与报告危害按规则，泛产品名不代表全部模块均最高系数",
-        "download_page": "https://shurufa.baidu.com/default",
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "腾讯新闻",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.tencent.news",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.tencent.news",
+        "download_page": "https://sj.qq.com/appdetail/com.tencent.news",
         "apk_direct": null,
-        "package": null,
-        "package_source_url": null,
-        "scope_status": "android_unresolved",
-        "observed_at": "2026-11-14T05:25:36+00:00"
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.tencent.news",
+          "final_url": "https://sj.qq.com/appdetail/com.tencent.news",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:02+00:00",
+          "sha256": "be39dc6c2a9e82c83e579323ebbc73001b797caac648b39fc01c695db9313b09",
+          "bytes": 446187,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "深圳市腾讯计算机系统有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
+      },
+      {
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "腾讯会议",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.tencent.wemeet.app",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.tencent.wemeet.app",
+        "download_page": "https://sj.qq.com/appdetail/com.tencent.wemeet.app",
+        "apk_direct": null,
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.tencent.wemeet.app",
+          "final_url": "https://sj.qq.com/appdetail/com.tencent.wemeet.app",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:01+00:00",
+          "sha256": "1f61c42347e58332695e63c9d3fbd13d2de35a877d8c483754804f225e364fbc",
+          "bytes": 455195,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "深圳市腾讯计算机系统有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
+      },
+      {
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "腾讯微云",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.qq.qcloud",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.qq.qcloud",
+        "download_page": "https://sj.qq.com/appdetail/com.qq.qcloud",
+        "apk_direct": null,
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.qq.qcloud",
+          "final_url": "https://sj.qq.com/appdetail/com.qq.qcloud",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:04+00:00",
+          "sha256": "52e3bbc3cc24661cc71ae039bfc41e879443f07a73ce8d7e8beddbad7ea96218",
+          "bytes": 443160,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "深圳市腾讯计算机系统有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
+      },
+      {
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "腾讯地图",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.tencent.map",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.tencent.map",
+        "download_page": "https://sj.qq.com/appdetail/com.tencent.map",
+        "apk_direct": null,
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.tencent.map",
+          "final_url": "https://sj.qq.com/appdetail/com.tencent.map",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:02+00:00",
+          "sha256": "b227ea7acde66b992f605db36c0728a9ad111e9ec43d7ce752188514f2d87ee2",
+          "bytes": 447246,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "深圳市腾讯计算机系统有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
+      },
+      {
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "QQ浏览器",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.tencent.mtt",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.tencent.mtt",
+        "download_page": "https://sj.qq.com/appdetail/com.tencent.mtt",
+        "apk_direct": null,
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.tencent.mtt",
+          "final_url": "https://sj.qq.com/appdetail/com.tencent.mtt",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:01+00:00",
+          "sha256": "5aa03c588553cfc06b26834f59c93c76c88414323766c7ff1af075ccc2c3120d",
+          "bytes": 378904,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "腾讯科技（深圳）有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
+      },
+      {
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "腾讯文档",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.tencent.docs",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.tencent.docs",
+        "download_page": "https://sj.qq.com/appdetail/com.tencent.docs",
+        "apk_direct": null,
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.tencent.docs",
+          "final_url": "https://sj.qq.com/appdetail/com.tencent.docs",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:00+00:00",
+          "sha256": "f0930d3011e2648d87fe2aea16e5b00d4f34841f278bf6227538a82df5b65d58",
+          "bytes": 271809,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "深圳市腾讯计算机系统有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
+      },
+      {
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "应用宝",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.tencent.android.qqdownloader",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.tencent.android.qqdownloader",
+        "download_page": "https://sj.qq.com/appdetail/com.tencent.android.qqdownloader",
+        "apk_direct": null,
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.tencent.android.qqdownloader",
+          "final_url": "https://sj.qq.com/appdetail/com.tencent.android.qqdownloader",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:07+00:00",
+          "sha256": "7801fd31a457d9ff7f4dee4b36e6fa0234375e7ca63e861169235224aacdcd57",
+          "bytes": 1426141,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "深圳市腾讯计算机系统有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
+      },
+      {
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "QQ邮箱",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.tencent.androidqqmail",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.tencent.androidqqmail",
+        "download_page": "https://sj.qq.com/appdetail/com.tencent.androidqqmail",
+        "apk_direct": null,
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.tencent.androidqqmail",
+          "final_url": "https://sj.qq.com/appdetail/com.tencent.androidqqmail",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:05+00:00",
+          "sha256": "f69d14a749ac7430627ef7872747209ca742cb8c152bb9706e74681a5e037b27",
+          "bytes": 467022,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "深圳市腾讯计算机系统有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
+      },
+      {
+        "vendor": "腾讯",
+        "src_name": "TSRC",
+        "product": "全民K歌",
+        "scope_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "scope_status": "current_app_scope_unverified",
+        "scope_match_type": "unverified",
+        "scope_evidence": "腾讯官方规则只称多数产品属于Other In-Scope Assets，当前未读到本Android客户端的具名范围；域名或WeCom内同名功能不直接证明独立APP在范围。",
+        "reward_status": "unknown",
+        "reward_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "package": "com.tencent.karaoke",
+        "package_source": "应用宝Android详情",
+        "package_source_url": "https://sj.qq.com/appdetail/com.tencent.karaoke",
+        "download_page": "https://sj.qq.com/appdetail/com.tencent.karaoke",
+        "apk_direct": null,
+        "download_state": "store_page_verified",
+        "download_notes": "已读取Android详情、包名及开发者；未下载包体、校验签名或验证安装。",
+        "download_metadata": {
+          "url": "https://sj.qq.com/appdetail/com.tencent.karaoke",
+          "final_url": "https://sj.qq.com/appdetail/com.tencent.karaoke",
+          "http_status": 200,
+          "observed_at": "2026-11-16T03:48:04+00:00",
+          "sha256": "c1149c909573a9548c985252202bc4454f888a14c8e6552c045d0899c12920e6",
+          "bytes": 435695,
+          "content_type": "text/html; charset=utf-8"
+        },
+        "developer": "深圳市腾讯计算机系统有限公司",
+        "scope_observation_metadata": {
+          "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+          "http_status": 200,
+          "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+          "observed_at": "2026-11-16T03:45:45+00:00"
+        },
+        "scope_notes": "Android详情已核，当前APP范围待核，不据同厂商归属推定。",
+        "program_state": "unknown",
+        "submission_state": "unknown",
+        "program_state_source": "https://api.yeswehack.com/programs/tencent-bug-bounty-program"
       }
-    ]
+    ],
+    "official_src_checks": [
+      {
+        "vendor": "阿里巴巴",
+        "url": "https://security.alibaba.com/",
+        "status": "migrated_to_task_platform_current_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:47:50+00:00",
+        "http_status": 200,
+        "sha256": "d0bda4019bdca23e5689efef2af46067799c6aaf0a88a31880d89d28b1d8d2d7",
+        "final_url": "https://security.alibaba.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "蚂蚁集团",
+        "url": "https://security.alipay.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:48:58+00:00",
+        "http_status": 200,
+        "sha256": "cfbd4b828426dcdeefbc2ce72fe2910e9aad973da60c3ebc32d227dc0feedb86",
+        "final_url": "https://security.alipay.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "字节跳动",
+        "url": "https://security.bytedance.com/src/",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 12,
+        "observed_at": "2026-11-16T03:48:58+00:00",
+        "http_status": 200,
+        "sha256": "667256c6912871711252813163f4933d85a2bce94e42449ab2f52f134b2c882e",
+        "final_url": "https://security.bytedance.com/src/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "美团",
+        "url": "https://security.meituan.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:48:58+00:00",
+        "http_status": 200,
+        "sha256": "34f9ff30051228f72848b99dcdf2bc4c00845b7bc85c62a5a34312a1f293e086",
+        "final_url": "https://security.meituan.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "京东",
+        "url": "https://security.jd.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:48:58+00:00",
+        "http_status": 200,
+        "sha256": "34cd6445d5fd25f178cb88cef02a4f6a28eade867763609b802753cc8ed6ee0a",
+        "final_url": "https://security.jd.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "拼多多",
+        "url": "https://security.pinduoduo.com/",
+        "status": "redirected_to_company_homepage_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:48:58+00:00",
+        "http_status": 200,
+        "sha256": "df073c88d57ac466c2797fc0419b6207dc5779d9760c9f4a4fadcb515331230f",
+        "final_url": "https://www.pinduoduo.com",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "快手",
+        "url": "https://security.kuaishou.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:48:58+00:00",
+        "http_status": 200,
+        "sha256": "9d187556d4fe4d29d1cf4ed938e93b0076dd5257bfc3d19571555e6a35d47556",
+        "final_url": "https://security.kuaishou.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "小米",
+        "url": "https://sec.xiaomi.com/",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 12,
+        "observed_at": "2026-11-16T03:48:59+00:00",
+        "http_status": 200,
+        "sha256": "008d8e37412ba3427129b94c09ec5fa82f28c952d34bb4e031b41c35e3cb3e94",
+        "final_url": "https://sec.xiaomi.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "华为",
+        "url": "https://www.huawei.com/cn/psirt/",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:48:59+00:00",
+        "http_status": 503,
+        "sha256": "ab82a27abf23c7cd6c16f8919a5eba4e7f53fe47f1b9ed4aeb56f327ffd15967",
+        "final_url": "https://www.huawei.com/cn/psirt/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "OPPO",
+        "url": "https://security.oppo.com/cn/",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 2,
+        "observed_at": "2026-11-16T03:49:02+00:00",
+        "http_status": 200,
+        "sha256": "92eb73d05f539d9bc83e78fefcdf39f834b00334d1b5aaf0376fc7578e303c49",
+        "final_url": "https://security.oppo.com/cn/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "vivo",
+        "url": "https://security.vivo.com.cn/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:00+00:00",
+        "http_status": 200,
+        "sha256": "118f7e67f5f521153914c18e162c990ad67c6e410d7611b9b47ddd5d00971ed7",
+        "final_url": "https://security.vivo.com.cn/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "荣耀",
+        "url": "https://security.hihonor.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:01+00:00",
+        "http_status": 200,
+        "sha256": "73caec9357c3e329122281703d226d4e780bcabed72f914fef0d3768c90bd579",
+        "final_url": "https://security.honor.com/src/#/home",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "网易",
+        "url": "https://aq.163.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:00+00:00",
+        "http_status": 200,
+        "sha256": "45f6df62a28ed4337bc70350effb9bb9f6aa5666c04b0232566d781275c6a1e5",
+        "final_url": "https://aq.163.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "携程",
+        "url": "https://security.ctrip.com/",
+        "status": "official_site_maintenance_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:01+00:00",
+        "http_status": 200,
+        "sha256": "52320ad8e5f0e3cf15236a1aa7f0c228302abb2f5ef5b92c04b5e8af8b77626c",
+        "final_url": "https://security.ctrip.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "滴滴",
+        "url": "https://sec.didichuxing.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:01+00:00",
+        "http_status": 200,
+        "sha256": "e273b64fb95c4e0c246ca7432daa714d1ff62ce2e022762de4ae0edaf103e9c5",
+        "final_url": "https://sec.didichuxing.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "同程旅行",
+        "url": "https://security.ly.com/",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:04+00:00",
+        "http_status": 0,
+        "sha256": null,
+        "final_url": null,
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "途虎",
+        "url": "https://security.tuhu.cn/",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 1,
+        "observed_at": "2026-11-16T03:49:01+00:00",
+        "http_status": 200,
+        "sha256": "e99c94d6b0499245d2a3505a0487916223da2d08491c2085edbcb025408041e3",
+        "final_url": "https://security.tuhu.cn/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "唯品会",
+        "url": "https://sec.vip.com/vip",
+        "status": "named_product_confirmed_submission_paused",
+        "confirmed_android_targets": 1,
+        "observed_at": "2026-11-16T03:45:46+00:00",
+        "http_status": 200,
+        "sha256": "67a8385e0fab427430d8edf9a890dfd983113f43850acb0e59a75f3a88a5c8a1",
+        "final_url": "https://sec.vip.com/vip",
+        "notes": "最新官方公告仍称维护暂停新漏洞提交；保留范围历史与Android身份，默认可提交结果应排除此厂商。"
+      },
+      {
+        "vendor": "顺丰",
+        "url": "https://security.sf-express.com/",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:02+00:00",
+        "http_status": 0,
+        "sha256": null,
+        "final_url": null,
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "货拉拉",
+        "url": "https://security.huolala.cn/",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:03+00:00",
+        "http_status": 0,
+        "sha256": null,
+        "final_url": null,
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "小红书",
+        "url": "https://security.xiaohongshu.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:03+00:00",
+        "http_status": 200,
+        "sha256": "e7b0ea00375d3bd2e3b415a778bb9805a5f4f4e566dde0dbb8d5a71b71548a67",
+        "final_url": "https://security.xiaohongshu.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "得物",
+        "url": "https://security.dewu.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:03+00:00",
+        "http_status": 200,
+        "sha256": "6f661ffa670ec30a56a2e5c480bd36665a5f5e1a831e15f3069cb8b4cd4f0a03",
+        "final_url": "https://security.dewu.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "满帮",
+        "url": "https://security.amh-group.com/",
+        "status": "official_source_unavailable",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:04+00:00",
+        "http_status": 403,
+        "sha256": "61f0e4b0de4ff19a50d88b5286dbc528c0530459c87d9359e22d3bb90c45c5ab",
+        "final_url": "https://security.amh-group.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "贝壳",
+        "url": "https://security.ke.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:04+00:00",
+        "http_status": 200,
+        "sha256": "2680d036a97303bfd35bca78a6070eabf2cc0a6ec36de504aea80f173bb731b6",
+        "final_url": "https://security.ke.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "爱奇艺",
+        "url": "https://security.iqiyi.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:04+00:00",
+        "http_status": 200,
+        "sha256": "a19487b9b4363a056e5910a777b7995b4ffecb6c9ba47c53395234b7dbef9b43",
+        "final_url": "https://security.iqiyi.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "去哪儿",
+        "url": "https://security.qunar.com/",
+        "status": "current_app_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:49:05+00:00",
+        "http_status": 200,
+        "sha256": "a60ef41d36082e8e0943e1a0cc53e1fe6837f30c213cbb20e9a73ff9568da83a",
+        "final_url": "https://security.qunar.com/",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "百度",
+        "url": "https://bsrc.baidu.com/v2/api/config/regulation",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 14,
+        "observed_at": "2026-11-16T03:49:05+00:00",
+        "http_status": 200,
+        "sha256": "53797725f6dfca2bb599bb777d26ce9b4ddfb128857a73e0132b15f865367313",
+        "final_url": "https://bsrc.baidu.com/v2/api/config/regulation",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "腾讯",
+        "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 6,
+        "observed_at": "2026-11-16T03:45:45+00:00",
+        "http_status": 200,
+        "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+        "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "哔哩哔哩",
+        "url": "https://security.bilibili.com/announcement/?price=0",
+        "status": "migrated_platform_current_scope_unverified",
+        "confirmed_android_targets": 0,
+        "observed_at": "2026-11-16T03:47:49+00:00",
+        "http_status": 200,
+        "sha256": "339717f8400e6303308c93d88f9a20f5a4346097727852e507cd4595236dc265",
+        "final_url": "https://security.bilibili.com/announcement/?price=0",
+        "notes": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+      },
+      {
+        "vendor": "360",
+        "url": "https://src.360.cn/News/news/id/296",
+        "status": "partial_product_inventory_confirmed",
+        "confirmed_android_targets": 6,
+        "observed_at": "2026-11-16T03:45:46+00:00",
+        "http_status": 0,
+        "sha256": null,
+        "final_url": null,
+        "notes": "原具名范围证据观察于2026-11-14；本轮规则站读取失败，保留原证据时间且未冒充当前重验。"
+      }
+    ],
+    "application_discovery": {
+      "path": "vendor-app-discovery.json",
+      "mapped_vendors": 365,
+      "checked_vendors": 365,
+      "detail_verified_apps": 340,
+      "scope_unverified_apps": 290,
+      "qimai_status": "anonymous_api_access_error_10602",
+      "qimai_individual_vendor_queries": 0
+    }
   },
   "history_review": {
     "reviewed_at": "2026-11-14T05:37:24+00:00",
@@ -578,5 +1514,26 @@
       "Unavailable private/deleted programs remain unresolved; no authentication is bypassed."
     ]
   },
-  "verdict": "Incomplete: measured source coverage, with explicit unresolved and inaccessible scope."
+  "verdict": "Incomplete: measured source coverage, with explicit unresolved and inaccessible scope.",
+  "app_discovery": {
+    "generated_at": "2026-11-16T03:56:44+00:00",
+    "vendors": 365,
+    "apps": 340,
+    "vendor_status_counts": {
+      "no_publisher_matched_android_in_first_search_page": 298,
+      "android_candidates_found": 67
+    },
+    "scope_status_counts": {
+      "confirmed": 50,
+      "unverified": 290
+    },
+    "limits": [
+      "七麦来源不可访问时不声称已获取七麦应用或完成逐厂商七麦查询。",
+      "备用来源只检索厂商名称首屏，非厂商完整应用全集；零命中不代表没有应用。",
+      "候选记录不证明集团归属、SRC范围、当前可提交或现金奖励。",
+      "仅验证应用详情和Android标识；没有下载APK、校验签名或包体。",
+      "缓存保留各来源真实观察时间；generated_at仅为整理时间。重新在线核查应使用新的缓存目录。",
+      "新增当前可投状态需单独核验；唯品会暂停、哔哩哔哩和ASRC迁移均有独立记录。"
+    ]
+  }
 }

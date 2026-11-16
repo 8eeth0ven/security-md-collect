@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-11-16T03:52:16+00:00",
+  "source": "重点项目核查.json",
+  "repositories": [],
+  "account_defaults": [],
+  "historical_unchecked": {
+    "reported_count": 221,
+    "identity_available": false,
+    "status": "unresolved",
+    "reason": "Original collector state and org catalog are not distributed in the public repository; this run does not claim to clear the historical 221."
+  },
+  "resume": "Run audit_priority_projects.py with the same private checkpoint directory; completed HTTP checks are reused and unresolved checks are retried."
+}

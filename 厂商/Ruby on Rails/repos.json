@@ -1,28 +1,28 @@
 [
- {
-  "vendor": "Ruby on Rails",
-  "org": "rails",
-  "full_name": "rails/rails",
-  "url": "https://github.com/rails/rails",
-  "sec_path": ".github/security.md",
-  "stars": 59108,
-  "language": "Ruby",
-  "description": "Ruby on Rails",
-  "license": null,
-  "first_seen": "2026-11-14 13:00:18",
-  "last_verified": "2026-11-14 13:00:18"
- },
- {
-  "vendor": "Ruby on Rails",
-  "org": "rails",
-  "full_name": "rails/marcel",
-  "url": "https://github.com/rails/marcel",
-  "sec_path": "SECURITY.md",
-  "stars": 466,
-  "language": "Ruby",
-  "description": "Find the mime type of files, examining file, filename and declared type",
-  "license": null,
-  "first_seen": "2026-11-14 17:04:17",
-  "last_verified": "2026-11-14 17:04:17"
- }
+  {
+    "vendor": "Ruby on Rails",
+    "org": "rails",
+    "full_name": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "sec_path": ".github/security.md",
+    "stars": 59108,
+    "language": "Ruby",
+    "description": "Ruby on Rails",
+    "license": null,
+    "first_seen": "2026-11-14 13:00:18",
+    "last_verified": "2026-11-16 11:52:16"
+  },
+  {
+    "vendor": "Ruby on Rails",
+    "org": "rails",
+    "full_name": "rails/marcel",
+    "url": "https://github.com/rails/marcel",
+    "sec_path": "SECURITY.md",
+    "stars": 466,
+    "language": "Ruby",
+    "description": "Find the mime type of files, examining file, filename and declared type",
+    "license": null,
+    "first_seen": "2026-11-14 17:04:17",
+    "last_verified": "2026-11-14 17:04:17"
+  }
 ]

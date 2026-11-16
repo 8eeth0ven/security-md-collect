@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-11-16 11:55:43",
+  "raw_records_before_this_pass": 10684,
+  "records_after": 10672,
+  "unique_repositories_after": 10672,
+  "removed_duplicates_this_pass": 12,
+  "recorded_removed_duplicates": 13,
+  "deduplication": [
+    {
+      "repository": "adyen/.github",
+      "kept_full_name": "Adyen/.github",
+      "vendor": "Adyen",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 17:47:16",
+      "last_verified": "2026-11-15 04:04:54",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "auth0/auth0-php",
+      "kept_full_name": "auth0/auth0-PHP",
+      "vendor": "Auth0 by Okta",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-14 12:59:36",
+      "last_verified": "2026-11-15 06:32:49",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "citi/.github",
+      "kept_full_name": "Citi/.github",
+      "vendor": "Citi",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 19:21:01",
+      "last_verified": "2026-11-14 20:05:08",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "comcast/.github",
+      "kept_full_name": "Comcast/.github",
+      "vendor": "Comcast",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 18:52:39",
+      "last_verified": "2026-11-14 19:31:54",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "crowdstrike/.github",
+      "kept_full_name": "CrowdStrike/.github",
+      "vendor": "CrowdStrike",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 18:54:21",
+      "last_verified": "2026-11-14 19:32:15",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "paloaltonetworks/.github",
+      "kept_full_name": "PaloAltoNetworks/.github",
+      "vendor": "Palo Alto Networks",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 23:20:33",
+      "last_verified": "2026-11-14 23:32:19",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "salesforce/.github",
+      "kept_full_name": "salesforce/.github",
+      "vendor": "Salesforce",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 17:19:44",
+      "last_verified": "2026-11-15 03:34:10",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "shopify/.github",
+      "kept_full_name": "shopify/.github",
+      "vendor": "Shopify",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 23:35:26",
+      "last_verified": "2026-11-14 13:00:25",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "shopify/opentelemetry-ebpf-profiler",
+      "kept_full_name": "shopify/opentelemetry-ebpf-profiler",
+      "vendor": "Shopify",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 23:35:26",
+      "last_verified": "2026-11-15 00:02:35",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "shopify/roundhouse-1",
+      "kept_full_name": "shopify/roundhouse-1",
+      "vendor": "Shopify",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 23:35:26",
+      "last_verified": "2026-11-15 00:02:35",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "shopify/roundhouse",
+      "kept_full_name": "shopify/roundhouse",
+      "vendor": "Shopify",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 23:35:26",
+      "last_verified": "2026-11-15 00:02:35",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "ericsson/.github",
+      "kept_full_name": "Ericsson/.github",
+      "vendor": "爱立信",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 19:48:13",
+      "last_verified": "2026-11-14 20:32:07",
+      "original_documents_preserved": true
+    },
+    {
+      "repository": "meta/.github",
+      "kept_full_name": "Meta/.github",
+      "vendor": "Meta",
+      "records_before": 2,
+      "records_removed": 1,
+      "first_seen": "2026-11-01 17:01:10",
+      "last_verified": "2026-11-14 12:54:29",
+      "original_documents_preserved": true,
+      "merged_during": "priority policy import"
+    }
+  ],
+  "ambiguous_vendor_ownership": [],
+  "original_policy_documents_deleted": 0,
+  "baseline_raw_records": 10597,
+  "baseline_unique_repositories": 10584,
+  "baseline_casefold_duplicate_records": 13,
+  "new_policy_repositories_since_baseline": 88,
+  "migrated_repository_identities": [
+    {
+      "from": "apache/incubator-seata",
+      "to": "apache/seata",
+      "evidence": "https://github.com/apache/incubator-seata",
+      "original_document_preserved": true
+    }
+  ]
+}

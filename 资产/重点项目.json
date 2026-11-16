@@ -1,0 +1,1925 @@
+{
+  "schema_version": 1,
+  "purpose": "常见重点项目的显式核查集合；不是全部开源项目或赏金范围。",
+  "projects": [
+    {
+      "repo": "alibaba/fastjson",
+      "name": "Fastjson",
+      "vendor": "阿里巴巴",
+      "category": "Java与中间件",
+      "aliases": [
+        "fast json",
+        ".fastjson"
+      ],
+      "repository_url": "https://github.com/alibaba/fastjson"
+    },
+    {
+      "repo": "alibaba/fastjson2",
+      "name": "Fastjson2",
+      "vendor": "阿里巴巴",
+      "category": "Java与中间件",
+      "aliases": [
+        "fastjson 2"
+      ],
+      "repository_url": "https://github.com/alibaba/fastjson2"
+    },
+    {
+      "repo": "FasterXML/jackson-databind",
+      "name": "Jackson Databind",
+      "vendor": "FasterXML",
+      "category": "Java与中间件",
+      "aliases": [
+        "jackson",
+        "json反序列化"
+      ],
+      "repository_url": "https://github.com/FasterXML/jackson-databind"
+    },
+    {
+      "repo": "FasterXML/jackson-core",
+      "name": "Jackson Core",
+      "vendor": "FasterXML",
+      "category": "Java与中间件",
+      "aliases": [
+        "jackson"
+      ],
+      "repository_url": "https://github.com/FasterXML/jackson-core"
+    },
+    {
+      "repo": "FasterXML/jackson-dataformats-text",
+      "name": "Jackson YAML/XML",
+      "vendor": "FasterXML",
+      "category": "Java与中间件",
+      "aliases": [
+        "jackson yaml"
+      ],
+      "repository_url": "https://github.com/FasterXML/jackson-dataformats-text"
+    },
+    {
+      "repo": "snakeyaml/snakeyaml",
+      "name": "SnakeYAML",
+      "vendor": "SnakeYAML",
+      "category": "Java与中间件",
+      "aliases": [
+        "snake yaml",
+        "yaml"
+      ],
+      "repository_url": "https://github.com/snakeyaml/snakeyaml"
+    },
+    {
+      "repo": "x-stream/xstream",
+      "name": "XStream",
+      "vendor": "XStream",
+      "category": "Java与中间件",
+      "aliases": [
+        "xml反序列化"
+      ],
+      "repository_url": "https://github.com/x-stream/xstream"
+    },
+    {
+      "repo": "apache/logging-log4j2",
+      "name": "Log4j2",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "log4j",
+        "log4shell"
+      ],
+      "repository_url": "https://github.com/apache/logging-log4j2"
+    },
+    {
+      "repo": "apache/shiro",
+      "name": "Apache Shiro",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "shiro",
+        "rememberme"
+      ],
+      "repository_url": "https://github.com/apache/shiro"
+    },
+    {
+      "repo": "spring-projects/spring-framework",
+      "name": "Spring Framework",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "springmvc",
+        "spring mvc",
+        "spring框架"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-framework"
+    },
+    {
+      "repo": "spring-projects/spring-boot",
+      "name": "Spring Boot",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "springboot"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-boot"
+    },
+    {
+      "repo": "spring-projects/spring-security",
+      "name": "Spring Security",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "springsecurity"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-security"
+    },
+    {
+      "repo": "spring-cloud/spring-cloud-gateway",
+      "name": "Spring Cloud Gateway",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "spring gateway",
+        "网关"
+      ],
+      "repository_url": "https://github.com/spring-cloud/spring-cloud-gateway"
+    },
+    {
+      "repo": "spring-cloud/spring-cloud-config",
+      "name": "Spring Cloud Config",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "spring config"
+      ],
+      "repository_url": "https://github.com/spring-cloud/spring-cloud-config"
+    },
+    {
+      "repo": "spring-projects/spring-data-commons",
+      "name": "Spring Data Commons",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "spring data"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-data-commons"
+    },
+    {
+      "repo": "spring-projects/spring-data-mongodb",
+      "name": "Spring Data MongoDB",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "mongodb"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-data-mongodb"
+    },
+    {
+      "repo": "spring-projects/spring-data-jpa",
+      "name": "Spring Data JPA",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "jpa"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-data-jpa"
+    },
+    {
+      "repo": "spring-projects/spring-session",
+      "name": "Spring Session",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "session"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-session"
+    },
+    {
+      "repo": "spring-projects/spring-integration",
+      "name": "Spring Integration",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "integration"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-integration"
+    },
+    {
+      "repo": "spring-projects/spring-amqp",
+      "name": "Spring AMQP",
+      "vendor": "Spring",
+      "category": "Java与中间件",
+      "aliases": [
+        "rabbitmq"
+      ],
+      "repository_url": "https://github.com/spring-projects/spring-amqp"
+    },
+    {
+      "repo": "apache/tomcat",
+      "name": "Tomcat",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "tomcat",
+        "servlet"
+      ],
+      "repository_url": "https://github.com/apache/tomcat"
+    },
+    {
+      "repo": "jetty/jetty.project",
+      "name": "Jetty",
+      "vendor": "Jetty",
+      "category": "Java与中间件",
+      "aliases": [
+        "jetty",
+        "servlet"
+      ],
+      "repository_url": "https://github.com/jetty/jetty.project"
+    },
+    {
+      "repo": "undertow-io/undertow",
+      "name": "Undertow",
+      "vendor": "Undertow",
+      "category": "Java与中间件",
+      "aliases": [
+        "undertow"
+      ],
+      "repository_url": "https://github.com/undertow-io/undertow"
+    },
+    {
+      "repo": "apache/dubbo",
+      "name": "Dubbo",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "dubbo",
+        "rpc"
+      ],
+      "repository_url": "https://github.com/apache/dubbo"
+    },
+    {
+      "repo": "alibaba/nacos",
+      "name": "Nacos",
+      "vendor": "阿里巴巴",
+      "category": "Java与中间件",
+      "aliases": [
+        "nacos",
+        "配置中心"
+      ],
+      "repository_url": "https://github.com/alibaba/nacos"
+    },
+    {
+      "repo": "apache/seata",
+      "name": "Seata",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "seata",
+        "分布式事务",
+        "apache/incubator-seata"
+      ],
+      "repository_url": "https://github.com/apache/seata",
+      "previous_repository_urls": [
+        "https://github.com/apache/incubator-seata"
+      ]
+    },
+    {
+      "repo": "alibaba/Sentinel",
+      "name": "Sentinel",
+      "vendor": "阿里巴巴",
+      "category": "Java与中间件",
+      "aliases": [
+        "sentinel",
+        "限流"
+      ],
+      "repository_url": "https://github.com/alibaba/Sentinel"
+    },
+    {
+      "repo": "apache/rocketmq",
+      "name": "RocketMQ",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "rocket mq",
+        "消息队列"
+      ],
+      "repository_url": "https://github.com/apache/rocketmq"
+    },
+    {
+      "repo": "apache/kafka",
+      "name": "Kafka",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "kafka",
+        "消息队列"
+      ],
+      "repository_url": "https://github.com/apache/kafka"
+    },
+    {
+      "repo": "apache/zookeeper",
+      "name": "ZooKeeper",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "zk",
+        "zookeeper"
+      ],
+      "repository_url": "https://github.com/apache/zookeeper"
+    },
+    {
+      "repo": "elastic/elasticsearch",
+      "name": "Elasticsearch",
+      "vendor": "Elastic",
+      "category": "Java与中间件",
+      "aliases": [
+        "es",
+        "elastic search"
+      ],
+      "repository_url": "https://github.com/elastic/elasticsearch"
+    },
+    {
+      "repo": "elastic/kibana",
+      "name": "Kibana",
+      "vendor": "Elastic",
+      "category": "Java与中间件",
+      "aliases": [
+        "kibana"
+      ],
+      "repository_url": "https://github.com/elastic/kibana"
+    },
+    {
+      "repo": "opensearch-project/OpenSearch",
+      "name": "OpenSearch",
+      "vendor": "OpenSearch",
+      "category": "Java与中间件",
+      "aliases": [
+        "opensearch"
+      ],
+      "repository_url": "https://github.com/opensearch-project/OpenSearch"
+    },
+    {
+      "repo": "apache/solr",
+      "name": "Solr",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "solr"
+      ],
+      "repository_url": "https://github.com/apache/solr"
+    },
+    {
+      "repo": "apache/lucene",
+      "name": "Lucene",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "lucene"
+      ],
+      "repository_url": "https://github.com/apache/lucene"
+    },
+    {
+      "repo": "apache/struts",
+      "name": "Struts2",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "struts",
+        "struts 2"
+      ],
+      "repository_url": "https://github.com/apache/struts"
+    },
+    {
+      "repo": "apache/commons-collections",
+      "name": "Commons Collections",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "commons-collections",
+        "cc链"
+      ],
+      "repository_url": "https://github.com/apache/commons-collections"
+    },
+    {
+      "repo": "apache/commons-text",
+      "name": "Commons Text",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "text4shell"
+      ],
+      "repository_url": "https://github.com/apache/commons-text"
+    },
+    {
+      "repo": "apache/commons-fileupload",
+      "name": "Commons FileUpload",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "fileupload"
+      ],
+      "repository_url": "https://github.com/apache/commons-fileupload"
+    },
+    {
+      "repo": "apache/commons-compress",
+      "name": "Commons Compress",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "compress"
+      ],
+      "repository_url": "https://github.com/apache/commons-compress"
+    },
+    {
+      "repo": "apache/commons-io",
+      "name": "Commons IO",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "commons io"
+      ],
+      "repository_url": "https://github.com/apache/commons-io"
+    },
+    {
+      "repo": "apache/httpcomponents-client",
+      "name": "HttpClient",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "httpclient"
+      ],
+      "repository_url": "https://github.com/apache/httpcomponents-client"
+    },
+    {
+      "repo": "netty/netty",
+      "name": "Netty",
+      "vendor": "Netty",
+      "category": "Java与中间件",
+      "aliases": [
+        "netty"
+      ],
+      "repository_url": "https://github.com/netty/netty"
+    },
+    {
+      "repo": "mybatis/mybatis-3",
+      "name": "MyBatis",
+      "vendor": "MyBatis",
+      "category": "Java与中间件",
+      "aliases": [
+        "ibatis",
+        "mybatis3"
+      ],
+      "repository_url": "https://github.com/mybatis/mybatis-3"
+    },
+    {
+      "repo": "baomidou/mybatis-plus",
+      "name": "MyBatis Plus",
+      "vendor": "MyBatis-Plus",
+      "category": "Java与中间件",
+      "aliases": [
+        "mybatisplus",
+        "mp"
+      ],
+      "repository_url": "https://github.com/baomidou/mybatis-plus"
+    },
+    {
+      "repo": "alibaba/druid",
+      "name": "Druid连接池",
+      "vendor": "阿里巴巴",
+      "category": "Java与中间件",
+      "aliases": [
+        "druid",
+        "数据库连接池"
+      ],
+      "repository_url": "https://github.com/alibaba/druid"
+    },
+    {
+      "repo": "apache/shardingsphere",
+      "name": "ShardingSphere",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "shardingjdbc",
+        "sharding-jdbc"
+      ],
+      "repository_url": "https://github.com/apache/shardingsphere"
+    },
+    {
+      "repo": "hibernate/hibernate-orm",
+      "name": "Hibernate ORM",
+      "vendor": "Hibernate",
+      "category": "Java与中间件",
+      "aliases": [
+        "hibernate"
+      ],
+      "repository_url": "https://github.com/hibernate/hibernate-orm"
+    },
+    {
+      "repo": "quarkusio/quarkus",
+      "name": "Quarkus",
+      "vendor": "Quarkus",
+      "category": "Java与中间件",
+      "aliases": [
+        "quarkus"
+      ],
+      "repository_url": "https://github.com/quarkusio/quarkus"
+    },
+    {
+      "repo": "micronaut-projects/micronaut-core",
+      "name": "Micronaut",
+      "vendor": "Micronaut",
+      "category": "Java与中间件",
+      "aliases": [
+        "micronaut"
+      ],
+      "repository_url": "https://github.com/micronaut-projects/micronaut-core"
+    },
+    {
+      "repo": "eclipse-vertx/vert.x",
+      "name": "Vert.x",
+      "vendor": "Eclipse基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "vertx",
+        "vert-x3/vertx-core"
+      ],
+      "repository_url": "https://github.com/eclipse-vertx/vert.x",
+      "previous_repository_urls": [
+        "https://github.com/vert-x3/vertx-core"
+      ]
+    },
+    {
+      "repo": "apache/activemq",
+      "name": "ActiveMQ",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "activemq"
+      ],
+      "repository_url": "https://github.com/apache/activemq"
+    },
+    {
+      "repo": "apache/activemq-artemis",
+      "name": "ActiveMQ Artemis",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "artemis"
+      ],
+      "repository_url": "https://github.com/apache/activemq-artemis"
+    },
+    {
+      "repo": "rabbitmq/rabbitmq-server",
+      "name": "RabbitMQ",
+      "vendor": "RabbitMQ",
+      "category": "Java与中间件",
+      "aliases": [
+        "rabbit mq"
+      ],
+      "repository_url": "https://github.com/rabbitmq/rabbitmq-server"
+    },
+    {
+      "repo": "hazelcast/hazelcast",
+      "name": "Hazelcast",
+      "vendor": "Hazelcast",
+      "category": "Java与中间件",
+      "aliases": [
+        "hazelcast"
+      ],
+      "repository_url": "https://github.com/hazelcast/hazelcast"
+    },
+    {
+      "repo": "apache/ignite",
+      "name": "Ignite",
+      "vendor": "Apache软件基金会",
+      "category": "Java与中间件",
+      "aliases": [
+        "ignite"
+      ],
+      "repository_url": "https://github.com/apache/ignite"
+    },
+    {
+      "repo": "dromara/hutool",
+      "name": "Hutool",
+      "vendor": "Dromara",
+      "category": "国产常用项目",
+      "aliases": [
+        "hutool",
+        "工具库"
+      ],
+      "repository_url": "https://github.com/dromara/hutool"
+    },
+    {
+      "repo": "dromara/sa-token",
+      "name": "Sa-Token",
+      "vendor": "Dromara",
+      "category": "国产常用项目",
+      "aliases": [
+        "satoken",
+        "sa token"
+      ],
+      "repository_url": "https://github.com/dromara/sa-token"
+    },
+    {
+      "repo": "jeecgboot/JeecgBoot",
+      "name": "JeecgBoot",
+      "vendor": "JeecgBoot",
+      "category": "国产常用项目",
+      "aliases": [
+        "jeecg",
+        "低代码"
+      ],
+      "repository_url": "https://github.com/jeecgboot/JeecgBoot"
+    },
+    {
+      "repo": "jeecgboot/JimuReport",
+      "name": "JimuReport",
+      "vendor": "JeecgBoot",
+      "category": "国产常用项目",
+      "aliases": [
+        "jimureport",
+        "积木报表"
+      ],
+      "repository_url": "https://github.com/jeecgboot/JimuReport"
+    },
+    {
+      "repo": "macrozheng/mall",
+      "name": "Mall",
+      "vendor": "Mall",
+      "category": "国产常用项目",
+      "aliases": [
+        "mall",
+        "电商后台"
+      ],
+      "repository_url": "https://github.com/macrozheng/mall"
+    },
+    {
+      "repo": "elunez/eladmin",
+      "name": "ELAdmin",
+      "vendor": "ELAdmin",
+      "category": "国产常用项目",
+      "aliases": [
+        "eladmin"
+      ],
+      "repository_url": "https://github.com/elunez/eladmin"
+    },
+    {
+      "repo": "YunaiV/ruoyi-vue-pro",
+      "name": "芋道管理系统",
+      "vendor": "芋道源码",
+      "category": "国产常用项目",
+      "aliases": [
+        "yudao",
+        "芋道",
+        "ruoyi vue pro"
+      ],
+      "repository_url": "https://github.com/YunaiV/ruoyi-vue-pro"
+    },
+    {
+      "repo": "yangzongzhuan/RuoYi",
+      "name": "若依RuoYi",
+      "vendor": "若依",
+      "category": "国产常用项目",
+      "aliases": [
+        "ruoyi",
+        "若依"
+      ],
+      "repository_url": "https://github.com/yangzongzhuan/RuoYi"
+    },
+    {
+      "repo": "yangzongzhuan/RuoYi-Vue",
+      "name": "若依RuoYi Vue",
+      "vendor": "若依",
+      "category": "国产常用项目",
+      "aliases": [
+        "ruoyi-vue",
+        "若依前后端分离"
+      ],
+      "repository_url": "https://github.com/yangzongzhuan/RuoYi-Vue"
+    },
+    {
+      "repo": "yangzongzhuan/RuoYi-Cloud",
+      "name": "若依RuoYi Cloud",
+      "vendor": "若依",
+      "category": "国产常用项目",
+      "aliases": [
+        "ruoyi-cloud",
+        "若依微服务"
+      ],
+      "repository_url": "https://github.com/yangzongzhuan/RuoYi-Cloud"
+    },
+    {
+      "repo": "renrenio/renren-fast",
+      "name": "人人开源",
+      "vendor": "人人开源",
+      "category": "国产常用项目",
+      "aliases": [
+        "renren",
+        "人人后台"
+      ],
+      "repository_url": "https://github.com/renrenio/renren-fast"
+    },
+    {
+      "repo": "linlinjava/litemall",
+      "name": "Litemall",
+      "vendor": "Litemall",
+      "category": "国产常用项目",
+      "aliases": [
+        "litemall",
+        "小商城"
+      ],
+      "repository_url": "https://github.com/linlinjava/litemall"
+    },
+    {
+      "repo": "halo-dev/halo",
+      "name": "Halo",
+      "vendor": "Halo",
+      "category": "国产常用项目",
+      "aliases": [
+        "halo",
+        "博客"
+      ],
+      "repository_url": "https://github.com/halo-dev/halo"
+    },
+    {
+      "repo": "metersphere/metersphere",
+      "name": "MeterSphere",
+      "vendor": "飞致云",
+      "category": "国产常用项目",
+      "aliases": [
+        "metersphere",
+        "接口测试"
+      ],
+      "repository_url": "https://github.com/metersphere/metersphere"
+    },
+    {
+      "repo": "jumpserver/jumpserver",
+      "name": "JumpServer",
+      "vendor": "飞致云",
+      "category": "国产常用项目",
+      "aliases": [
+        "jumpserver",
+        "堡垒机"
+      ],
+      "repository_url": "https://github.com/jumpserver/jumpserver"
+    },
+    {
+      "repo": "1Panel-dev/1Panel",
+      "name": "1Panel",
+      "vendor": "飞致云",
+      "category": "国产常用项目",
+      "aliases": [
+        "1panel",
+        "运维面板"
+      ],
+      "repository_url": "https://github.com/1Panel-dev/1Panel"
+    },
+    {
+      "repo": "dataease/dataease",
+      "name": "DataEase",
+      "vendor": "飞致云",
+      "category": "国产常用项目",
+      "aliases": [
+        "dataease",
+        "bi"
+      ],
+      "repository_url": "https://github.com/dataease/dataease"
+    },
+    {
+      "repo": "1Panel-dev/CloudExplorer",
+      "name": "CloudExplorer",
+      "vendor": "飞致云",
+      "category": "国产常用项目",
+      "aliases": [
+        "cloudexplorer",
+        "fit2cloud/CloudExplorer-Lite"
+      ],
+      "repository_url": "https://github.com/1Panel-dev/CloudExplorer",
+      "previous_repository_urls": [
+        "https://github.com/fit2cloud/CloudExplorer-Lite"
+      ]
+    },
+    {
+      "repo": "apache/dolphinscheduler",
+      "name": "DolphinScheduler",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "dolphin scheduler",
+        "海豚调度"
+      ],
+      "repository_url": "https://github.com/apache/dolphinscheduler"
+    },
+    {
+      "repo": "apache/seatunnel",
+      "name": "SeaTunnel",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "seatunnel",
+        "waterdrop"
+      ],
+      "repository_url": "https://github.com/apache/seatunnel"
+    },
+    {
+      "repo": "apache/doris",
+      "name": "Doris",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "doris"
+      ],
+      "repository_url": "https://github.com/apache/doris"
+    },
+    {
+      "repo": "StarRocks/starrocks",
+      "name": "StarRocks",
+      "vendor": "StarRocks",
+      "category": "国产常用项目",
+      "aliases": [
+        "starrocks"
+      ],
+      "repository_url": "https://github.com/StarRocks/starrocks"
+    },
+    {
+      "repo": "apache/druid",
+      "name": "Apache Druid",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "apache druid",
+        "分析数据库"
+      ],
+      "repository_url": "https://github.com/apache/druid"
+    },
+    {
+      "repo": "apache/flink",
+      "name": "Flink",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "flink"
+      ],
+      "repository_url": "https://github.com/apache/flink"
+    },
+    {
+      "repo": "apache/spark",
+      "name": "Spark",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "spark"
+      ],
+      "repository_url": "https://github.com/apache/spark"
+    },
+    {
+      "repo": "apache/hadoop",
+      "name": "Hadoop",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "hadoop"
+      ],
+      "repository_url": "https://github.com/apache/hadoop"
+    },
+    {
+      "repo": "apache/hive",
+      "name": "Hive",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "hive"
+      ],
+      "repository_url": "https://github.com/apache/hive"
+    },
+    {
+      "repo": "apache/hbase",
+      "name": "HBase",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "hbase"
+      ],
+      "repository_url": "https://github.com/apache/hbase"
+    },
+    {
+      "repo": "apache/apisix",
+      "name": "APISIX",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "apisix",
+        "api网关"
+      ],
+      "repository_url": "https://github.com/apache/apisix"
+    },
+    {
+      "repo": "apache/skywalking",
+      "name": "SkyWalking",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "skywalking",
+        "链路追踪"
+      ],
+      "repository_url": "https://github.com/apache/skywalking"
+    },
+    {
+      "repo": "apache/inlong",
+      "name": "InLong",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "inlong"
+      ],
+      "repository_url": "https://github.com/apache/inlong"
+    },
+    {
+      "repo": "apache/linkis",
+      "name": "Linkis",
+      "vendor": "Apache软件基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "linkis"
+      ],
+      "repository_url": "https://github.com/apache/linkis"
+    },
+    {
+      "repo": "alibaba/canal",
+      "name": "Canal",
+      "vendor": "阿里巴巴",
+      "category": "国产常用项目",
+      "aliases": [
+        "canal",
+        "binlog"
+      ],
+      "repository_url": "https://github.com/alibaba/canal"
+    },
+    {
+      "repo": "pingcap/tidb",
+      "name": "TiDB",
+      "vendor": "PingCAP",
+      "category": "国产常用项目",
+      "aliases": [
+        "tidb"
+      ],
+      "repository_url": "https://github.com/pingcap/tidb"
+    },
+    {
+      "repo": "NervJS/taro",
+      "name": "Taro",
+      "vendor": "京东",
+      "category": "国产常用项目",
+      "aliases": [
+        "taro"
+      ],
+      "repository_url": "https://github.com/NervJS/taro"
+    },
+    {
+      "repo": "Tencent/wepy",
+      "name": "WePY",
+      "vendor": "腾讯",
+      "category": "国产常用项目",
+      "aliases": [
+        "wepy"
+      ],
+      "repository_url": "https://github.com/Tencent/wepy"
+    },
+    {
+      "repo": "TarsCloud/Tars",
+      "name": "Tars",
+      "vendor": "Tars基金会",
+      "category": "国产常用项目",
+      "aliases": [
+        "tars",
+        "Tencent/tars"
+      ],
+      "repository_url": "https://github.com/TarsCloud/Tars",
+      "previous_repository_urls": [
+        "https://github.com/Tencent/tars"
+      ]
+    },
+    {
+      "repo": "PaddlePaddle/Paddle",
+      "name": "PaddlePaddle",
+      "vendor": "百度",
+      "category": "国产常用项目",
+      "aliases": [
+        "paddle",
+        "飞桨"
+      ],
+      "repository_url": "https://github.com/PaddlePaddle/Paddle"
+    },
+    {
+      "repo": "baidu/openrasp",
+      "name": "OpenRASP",
+      "vendor": "百度",
+      "category": "国产常用项目",
+      "aliases": [
+        "openrasp"
+      ],
+      "repository_url": "https://github.com/baidu/openrasp"
+    },
+    {
+      "repo": "vuejs/core",
+      "name": "Vue",
+      "vendor": "Vue",
+      "category": "国产常用项目",
+      "aliases": [
+        "vue3",
+        "vue.js"
+      ],
+      "repository_url": "https://github.com/vuejs/core"
+    },
+    {
+      "repo": "umijs/umi",
+      "name": "Umi",
+      "vendor": "蚂蚁集团",
+      "category": "国产常用项目",
+      "aliases": [
+        "umi",
+        "umijs"
+      ],
+      "repository_url": "https://github.com/umijs/umi"
+    },
+    {
+      "repo": "ant-design/ant-design",
+      "name": "Ant Design",
+      "vendor": "蚂蚁集团",
+      "category": "国产常用项目",
+      "aliases": [
+        "antd",
+        "antdesign"
+      ],
+      "repository_url": "https://github.com/ant-design/ant-design"
+    },
+    {
+      "repo": "antvis/G6",
+      "name": "AntV G6",
+      "vendor": "蚂蚁集团",
+      "category": "国产常用项目",
+      "aliases": [
+        "antv",
+        "g6"
+      ],
+      "repository_url": "https://github.com/antvis/G6"
+    },
+    {
+      "repo": "ant-design/pro-components",
+      "name": "Ant Design Pro Components",
+      "vendor": "蚂蚁集团",
+      "category": "国产常用项目",
+      "aliases": [
+        "ant design pro"
+      ],
+      "repository_url": "https://github.com/ant-design/pro-components"
+    },
+    {
+      "repo": "umijs/qiankun",
+      "name": "qiankun",
+      "vendor": "蚂蚁集团",
+      "category": "国产常用项目",
+      "aliases": [
+        "乾坤",
+        "微前端",
+        "qiankunjs/qiankun"
+      ],
+      "repository_url": "https://github.com/umijs/qiankun",
+      "previous_repository_urls": [
+        "https://github.com/qiankunjs/qiankun"
+      ]
+    },
+    {
+      "repo": "django/django",
+      "name": "Django",
+      "vendor": "Django",
+      "category": "Web框架与应用",
+      "aliases": [
+        "django"
+      ],
+      "repository_url": "https://github.com/django/django"
+    },
+    {
+      "repo": "pallets/flask",
+      "name": "Flask",
+      "vendor": "Pallets",
+      "category": "Web框架与应用",
+      "aliases": [
+        "flask"
+      ],
+      "repository_url": "https://github.com/pallets/flask"
+    },
+    {
+      "repo": "pallets/werkzeug",
+      "name": "Werkzeug",
+      "vendor": "Pallets",
+      "category": "Web框架与应用",
+      "aliases": [
+        "werkzeug"
+      ],
+      "repository_url": "https://github.com/pallets/werkzeug"
+    },
+    {
+      "repo": "pallets/jinja",
+      "name": "Jinja",
+      "vendor": "Pallets",
+      "category": "Web框架与应用",
+      "aliases": [
+        "jinja2",
+        "jinja"
+      ],
+      "repository_url": "https://github.com/pallets/jinja"
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "name": "FastAPI",
+      "vendor": "FastAPI",
+      "category": "Web框架与应用",
+      "aliases": [
+        "fast api"
+      ],
+      "repository_url": "https://github.com/fastapi/fastapi"
+    },
+    {
+      "repo": "Kludex/starlette",
+      "name": "Starlette",
+      "vendor": "Kludex",
+      "category": "Web框架与应用",
+      "aliases": [
+        "starlette",
+        "encode/starlette"
+      ],
+      "repository_url": "https://github.com/Kludex/starlette",
+      "previous_repository_urls": [
+        "https://github.com/encode/starlette"
+      ]
+    },
+    {
+      "repo": "Kludex/uvicorn",
+      "name": "Uvicorn",
+      "vendor": "Kludex",
+      "category": "Web框架与应用",
+      "aliases": [
+        "uvicorn",
+        "encode/uvicorn"
+      ],
+      "repository_url": "https://github.com/Kludex/uvicorn",
+      "previous_repository_urls": [
+        "https://github.com/encode/uvicorn"
+      ]
+    },
+    {
+      "repo": "psf/requests",
+      "name": "Requests",
+      "vendor": "Python软件基金会",
+      "category": "Web框架与应用",
+      "aliases": [
+        "requests"
+      ],
+      "repository_url": "https://github.com/psf/requests"
+    },
+    {
+      "repo": "urllib3/urllib3",
+      "name": "urllib3",
+      "vendor": "urllib3",
+      "category": "Web框架与应用",
+      "aliases": [
+        "urllib"
+      ],
+      "repository_url": "https://github.com/urllib3/urllib3"
+    },
+    {
+      "repo": "python/cpython",
+      "name": "CPython",
+      "vendor": "Python软件基金会",
+      "category": "Web框架与应用",
+      "aliases": [
+        "python",
+        "cpython"
+      ],
+      "repository_url": "https://github.com/python/cpython"
+    },
+    {
+      "repo": "nodejs/node",
+      "name": "Node.js",
+      "vendor": "Node.js基金会",
+      "category": "Web框架与应用",
+      "aliases": [
+        "nodejs",
+        "node"
+      ],
+      "repository_url": "https://github.com/nodejs/node"
+    },
+    {
+      "repo": "expressjs/express",
+      "name": "Express",
+      "vendor": "Express",
+      "category": "Web框架与应用",
+      "aliases": [
+        "expressjs"
+      ],
+      "repository_url": "https://github.com/expressjs/express"
+    },
+    {
+      "repo": "koajs/koa",
+      "name": "Koa",
+      "vendor": "Koa",
+      "category": "Web框架与应用",
+      "aliases": [
+        "koajs"
+      ],
+      "repository_url": "https://github.com/koajs/koa"
+    },
+    {
+      "repo": "nestjs/nest",
+      "name": "NestJS",
+      "vendor": "NestJS",
+      "category": "Web框架与应用",
+      "aliases": [
+        "nest",
+        "nestjs"
+      ],
+      "repository_url": "https://github.com/nestjs/nest"
+    },
+    {
+      "repo": "vercel/next.js",
+      "name": "Next.js",
+      "vendor": "Vercel",
+      "category": "Web框架与应用",
+      "aliases": [
+        "nextjs",
+        "next"
+      ],
+      "repository_url": "https://github.com/vercel/next.js"
+    },
+    {
+      "repo": "nuxt/nuxt",
+      "name": "Nuxt",
+      "vendor": "Nuxt",
+      "category": "Web框架与应用",
+      "aliases": [
+        "nuxtjs"
+      ],
+      "repository_url": "https://github.com/nuxt/nuxt"
+    },
+    {
+      "repo": "sveltejs/kit",
+      "name": "SvelteKit",
+      "vendor": "Svelte",
+      "category": "Web框架与应用",
+      "aliases": [
+        "sveltekit"
+      ],
+      "repository_url": "https://github.com/sveltejs/kit"
+    },
+    {
+      "repo": "remix-run/react-router",
+      "name": "React Router",
+      "vendor": "React Router",
+      "category": "Web框架与应用",
+      "aliases": [
+        "react-router",
+        "remix"
+      ],
+      "repository_url": "https://github.com/remix-run/react-router"
+    },
+    {
+      "repo": "facebook/react",
+      "name": "React",
+      "vendor": "Meta",
+      "category": "Web框架与应用",
+      "aliases": [
+        "reactjs"
+      ],
+      "repository_url": "https://github.com/facebook/react"
+    },
+    {
+      "repo": "angular/angular",
+      "name": "Angular",
+      "vendor": "Google",
+      "category": "Web框架与应用",
+      "aliases": [
+        "angular"
+      ],
+      "repository_url": "https://github.com/angular/angular"
+    },
+    {
+      "repo": "vitejs/vite",
+      "name": "Vite",
+      "vendor": "Vite",
+      "category": "Web框架与应用",
+      "aliases": [
+        "vite"
+      ],
+      "repository_url": "https://github.com/vitejs/vite"
+    },
+    {
+      "repo": "webpack/webpack",
+      "name": "Webpack",
+      "vendor": "Webpack",
+      "category": "Web框架与应用",
+      "aliases": [
+        "webpack"
+      ],
+      "repository_url": "https://github.com/webpack/webpack"
+    },
+    {
+      "repo": "laravel/framework",
+      "name": "Laravel",
+      "vendor": "Laravel",
+      "category": "Web框架与应用",
+      "aliases": [
+        "laravel"
+      ],
+      "repository_url": "https://github.com/laravel/framework"
+    },
+    {
+      "repo": "symfony/symfony",
+      "name": "Symfony",
+      "vendor": "Symfony",
+      "category": "Web框架与应用",
+      "aliases": [
+        "symfony"
+      ],
+      "repository_url": "https://github.com/symfony/symfony"
+    },
+    {
+      "repo": "top-think/framework",
+      "name": "ThinkPHP Framework",
+      "vendor": "ThinkPHP",
+      "category": "Web框架与应用",
+      "aliases": [
+        "thinkphp",
+        "think php"
+      ],
+      "repository_url": "https://github.com/top-think/framework"
+    },
+    {
+      "repo": "WordPress/wordpress-develop",
+      "name": "WordPress",
+      "vendor": "WordPress",
+      "category": "Web框架与应用",
+      "aliases": [
+        "wordpress",
+        "wp"
+      ],
+      "repository_url": "https://github.com/WordPress/wordpress-develop"
+    },
+    {
+      "repo": "joomla/joomla-cms",
+      "name": "Joomla",
+      "vendor": "Joomla",
+      "category": "Web框架与应用",
+      "aliases": [
+        "joomla"
+      ],
+      "repository_url": "https://github.com/joomla/joomla-cms"
+    },
+    {
+      "repo": "drupal/drupal",
+      "name": "Drupal",
+      "vendor": "Drupal",
+      "category": "Web框架与应用",
+      "aliases": [
+        "drupal"
+      ],
+      "repository_url": "https://github.com/drupal/drupal"
+    },
+    {
+      "repo": "rails/rails",
+      "name": "Ruby on Rails",
+      "vendor": "Rails",
+      "category": "Web框架与应用",
+      "aliases": [
+        "rails",
+        "ruby on rails"
+      ],
+      "repository_url": "https://github.com/rails/rails"
+    },
+    {
+      "repo": "php/php-src",
+      "name": "PHP",
+      "vendor": "PHP",
+      "category": "Web框架与应用",
+      "aliases": [
+        "php"
+      ],
+      "repository_url": "https://github.com/php/php-src"
+    },
+    {
+      "repo": "ruby/ruby",
+      "name": "Ruby",
+      "vendor": "Ruby",
+      "category": "Web框架与应用",
+      "aliases": [
+        "ruby"
+      ],
+      "repository_url": "https://github.com/ruby/ruby"
+    },
+    {
+      "repo": "gin-gonic/gin",
+      "name": "Gin",
+      "vendor": "Gin",
+      "category": "Web框架与应用",
+      "aliases": [
+        "gin",
+        "golang gin"
+      ],
+      "repository_url": "https://github.com/gin-gonic/gin"
+    },
+    {
+      "repo": "labstack/echo",
+      "name": "Echo",
+      "vendor": "Labstack",
+      "category": "Web框架与应用",
+      "aliases": [
+        "echo"
+      ],
+      "repository_url": "https://github.com/labstack/echo"
+    },
+    {
+      "repo": "beego/beego",
+      "name": "Beego",
+      "vendor": "Beego",
+      "category": "Web框架与应用",
+      "aliases": [
+        "beego"
+      ],
+      "repository_url": "https://github.com/beego/beego"
+    },
+    {
+      "repo": "caddyserver/caddy",
+      "name": "Caddy",
+      "vendor": "Caddy",
+      "category": "Web框架与应用",
+      "aliases": [
+        "caddy"
+      ],
+      "repository_url": "https://github.com/caddyserver/caddy"
+    },
+    {
+      "repo": "nginx/nginx",
+      "name": "Nginx",
+      "vendor": "Nginx",
+      "category": "Web框架与应用",
+      "aliases": [
+        "nginx"
+      ],
+      "repository_url": "https://github.com/nginx/nginx"
+    },
+    {
+      "repo": "jenkinsci/jenkins",
+      "name": "Jenkins",
+      "vendor": "Jenkins",
+      "category": "Web框架与应用",
+      "aliases": [
+        "jenkins"
+      ],
+      "repository_url": "https://github.com/jenkinsci/jenkins"
+    },
+    {
+      "repo": "keycloak/keycloak",
+      "name": "Keycloak",
+      "vendor": "Red Hat",
+      "category": "Web框架与应用",
+      "aliases": [
+        "keycloak"
+      ],
+      "repository_url": "https://github.com/keycloak/keycloak"
+    },
+    {
+      "repo": "minio/minio",
+      "name": "MinIO",
+      "vendor": "MinIO",
+      "category": "Web框架与应用",
+      "aliases": [
+        "minio"
+      ],
+      "repository_url": "https://github.com/minio/minio"
+    },
+    {
+      "repo": "getredash/redash",
+      "name": "Redash",
+      "vendor": "Redash",
+      "category": "Web框架与应用",
+      "aliases": [
+        "redash",
+        "redash/redash"
+      ],
+      "repository_url": "https://github.com/getredash/redash",
+      "previous_repository_urls": [
+        "https://github.com/redash/redash"
+      ]
+    },
+    {
+      "repo": "metabase/metabase",
+      "name": "Metabase",
+      "vendor": "Metabase",
+      "category": "Web框架与应用",
+      "aliases": [
+        "metabase"
+      ],
+      "repository_url": "https://github.com/metabase/metabase"
+    },
+    {
+      "repo": "nocodb/nocodb",
+      "name": "NocoDB",
+      "vendor": "NocoDB",
+      "category": "Web框架与应用",
+      "aliases": [
+        "nocodb"
+      ],
+      "repository_url": "https://github.com/nocodb/nocodb"
+    },
+    {
+      "repo": "strapi/strapi",
+      "name": "Strapi",
+      "vendor": "Strapi",
+      "category": "Web框架与应用",
+      "aliases": [
+        "strapi"
+      ],
+      "repository_url": "https://github.com/strapi/strapi"
+    },
+    {
+      "repo": "directus/directus",
+      "name": "Directus",
+      "vendor": "Directus",
+      "category": "Web框架与应用",
+      "aliases": [
+        "directus"
+      ],
+      "repository_url": "https://github.com/directus/directus"
+    },
+    {
+      "repo": "gotify/server",
+      "name": "Gotify",
+      "vendor": "Gotify",
+      "category": "Web框架与应用",
+      "aliases": [
+        "gotify"
+      ],
+      "repository_url": "https://github.com/gotify/server"
+    },
+    {
+      "repo": "kubernetes/kubernetes",
+      "name": "Kubernetes",
+      "vendor": "CNCF云原生基金会",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "k8s",
+        "kubernetes"
+      ],
+      "repository_url": "https://github.com/kubernetes/kubernetes"
+    },
+    {
+      "repo": "docker/cli",
+      "name": "Docker CLI",
+      "vendor": "Docker",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "docker"
+      ],
+      "repository_url": "https://github.com/docker/cli"
+    },
+    {
+      "repo": "moby/moby",
+      "name": "Moby",
+      "vendor": "Docker",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "docker engine",
+        "moby"
+      ],
+      "repository_url": "https://github.com/moby/moby"
+    },
+    {
+      "repo": "containerd/containerd",
+      "name": "containerd",
+      "vendor": "CNCF云原生基金会",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "containerd"
+      ],
+      "repository_url": "https://github.com/containerd/containerd"
+    },
+    {
+      "repo": "helm/helm",
+      "name": "Helm",
+      "vendor": "Helm",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "helm"
+      ],
+      "repository_url": "https://github.com/helm/helm"
+    },
+    {
+      "repo": "prometheus/prometheus",
+      "name": "Prometheus",
+      "vendor": "CNCF云原生基金会",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "prometheus"
+      ],
+      "repository_url": "https://github.com/prometheus/prometheus"
+    },
+    {
+      "repo": "etcd-io/etcd",
+      "name": "etcd",
+      "vendor": "CNCF云原生基金会",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "etcd"
+      ],
+      "repository_url": "https://github.com/etcd-io/etcd"
+    },
+    {
+      "repo": "istio/istio",
+      "name": "Istio",
+      "vendor": "CNCF云原生基金会",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "istio"
+      ],
+      "repository_url": "https://github.com/istio/istio"
+    },
+    {
+      "repo": "argoproj/argo-cd",
+      "name": "Argo CD",
+      "vendor": "CNCF云原生基金会",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "argocd",
+        "argo cd"
+      ],
+      "repository_url": "https://github.com/argoproj/argo-cd"
+    },
+    {
+      "repo": "hashicorp/vault",
+      "name": "Vault",
+      "vendor": "HashiCorp",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "vault"
+      ],
+      "repository_url": "https://github.com/hashicorp/vault"
+    },
+    {
+      "repo": "hashicorp/consul",
+      "name": "Consul",
+      "vendor": "HashiCorp",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "consul"
+      ],
+      "repository_url": "https://github.com/hashicorp/consul"
+    },
+    {
+      "repo": "hashicorp/nomad",
+      "name": "Nomad",
+      "vendor": "HashiCorp",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "nomad"
+      ],
+      "repository_url": "https://github.com/hashicorp/nomad"
+    },
+    {
+      "repo": "hashicorp/terraform",
+      "name": "Terraform",
+      "vendor": "HashiCorp",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "terraform"
+      ],
+      "repository_url": "https://github.com/hashicorp/terraform"
+    },
+    {
+      "repo": "grafana/grafana",
+      "name": "Grafana",
+      "vendor": "Grafana",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "grafana"
+      ],
+      "repository_url": "https://github.com/grafana/grafana"
+    },
+    {
+      "repo": "redis/redis",
+      "name": "Redis",
+      "vendor": "Redis",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "redis"
+      ],
+      "repository_url": "https://github.com/redis/redis"
+    },
+    {
+      "repo": "valkey-io/valkey",
+      "name": "Valkey",
+      "vendor": "Valkey",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "valkey"
+      ],
+      "repository_url": "https://github.com/valkey-io/valkey"
+    },
+    {
+      "repo": "postgres/postgres",
+      "name": "PostgreSQL",
+      "vendor": "PostgreSQL",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "postgres",
+        "postgresql"
+      ],
+      "repository_url": "https://github.com/postgres/postgres"
+    },
+    {
+      "repo": "mysql/mysql-server",
+      "name": "MySQL",
+      "vendor": "Oracle",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "mysql"
+      ],
+      "repository_url": "https://github.com/mysql/mysql-server"
+    },
+    {
+      "repo": "MariaDB/server",
+      "name": "MariaDB",
+      "vendor": "MariaDB",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "mariadb"
+      ],
+      "repository_url": "https://github.com/MariaDB/server"
+    },
+    {
+      "repo": "mongodb/mongo",
+      "name": "MongoDB",
+      "vendor": "MongoDB",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "mongodb"
+      ],
+      "repository_url": "https://github.com/mongodb/mongo"
+    },
+    {
+      "repo": "ClickHouse/ClickHouse",
+      "name": "ClickHouse",
+      "vendor": "ClickHouse",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "clickhouse"
+      ],
+      "repository_url": "https://github.com/ClickHouse/ClickHouse"
+    },
+    {
+      "repo": "openssl/openssl",
+      "name": "OpenSSL",
+      "vendor": "OpenSSL",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "openssl"
+      ],
+      "repository_url": "https://github.com/openssl/openssl"
+    },
+    {
+      "repo": "curl/curl",
+      "name": "curl",
+      "vendor": "curl",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "curl"
+      ],
+      "repository_url": "https://github.com/curl/curl"
+    },
+    {
+      "repo": "libssh/libssh-mirror",
+      "name": "libssh",
+      "vendor": "libssh",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "libssh"
+      ],
+      "repository_url": "https://github.com/libssh/libssh-mirror"
+    },
+    {
+      "repo": "OpenVPN/openvpn",
+      "name": "OpenVPN",
+      "vendor": "OpenVPN",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "openvpn"
+      ],
+      "repository_url": "https://github.com/OpenVPN/openvpn"
+    },
+    {
+      "repo": "WireGuard/wireguard-linux",
+      "name": "WireGuard",
+      "vendor": "WireGuard",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "wireguard"
+      ],
+      "repository_url": "https://github.com/WireGuard/wireguard-linux"
+    },
+    {
+      "repo": "nextcloud/server",
+      "name": "Nextcloud",
+      "vendor": "Nextcloud",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "nextcloud"
+      ],
+      "repository_url": "https://github.com/nextcloud/server"
+    },
+    {
+      "repo": "owncloud/core",
+      "name": "ownCloud",
+      "vendor": "ownCloud",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "owncloud"
+      ],
+      "repository_url": "https://github.com/owncloud/core"
+    },
+    {
+      "repo": "gogs/gogs",
+      "name": "Gogs",
+      "vendor": "Gogs",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "gogs"
+      ],
+      "repository_url": "https://github.com/gogs/gogs"
+    },
+    {
+      "repo": "go-gitea/gitea",
+      "name": "Gitea",
+      "vendor": "Gitea",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "gitea"
+      ],
+      "repository_url": "https://github.com/go-gitea/gitea"
+    },
+    {
+      "repo": "apache/superset",
+      "name": "Superset",
+      "vendor": "Apache软件基金会",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "superset"
+      ],
+      "repository_url": "https://github.com/apache/superset"
+    },
+    {
+      "repo": "zabbix/zabbix",
+      "name": "Zabbix",
+      "vendor": "Zabbix",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "zabbix"
+      ],
+      "repository_url": "https://github.com/zabbix/zabbix"
+    },
+    {
+      "repo": "osquery/osquery",
+      "name": "osquery",
+      "vendor": "osquery",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "osquery"
+      ],
+      "repository_url": "https://github.com/osquery/osquery"
+    },
+    {
+      "repo": "wazuh/wazuh",
+      "name": "Wazuh",
+      "vendor": "Wazuh",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "wazuh"
+      ],
+      "repository_url": "https://github.com/wazuh/wazuh"
+    },
+    {
+      "repo": "elastic/logstash",
+      "name": "Logstash",
+      "vendor": "Elastic",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "logstash"
+      ],
+      "repository_url": "https://github.com/elastic/logstash"
+    },
+    {
+      "repo": "opensearch-project/dashboards-observability",
+      "name": "OpenSearch Dashboards Observability",
+      "vendor": "OpenSearch",
+      "category": "基础设施与安全工具",
+      "aliases": [
+        "opensearch dashboards"
+      ],
+      "repository_url": "https://github.com/opensearch-project/dashboards-observability"
+    }
+  ]
+}

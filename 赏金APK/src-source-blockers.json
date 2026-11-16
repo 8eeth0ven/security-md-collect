@@ -20,7 +20,238 @@
   {
     "vendor": "华为",
     "url": "https://www.huawei.com/cn/psirt/",
-    "status": "app_specific_scope_unverified",
-    "evidence": "本轮未核到可引用的当前具名Android app赏金范围，不以产品下载站补范围"
+    "status": "official_source_unavailable",
+    "http_status": 503,
+    "observed_at": "2026-11-16T03:48:59+00:00",
+    "sha256": "ab82a27abf23c7cd6c16f8919a5eba4e7f53fe47f1b9ed4aeb56f327ffd15967",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "url": "https://security.alibaba.com/",
+    "status": "migrated_to_task_platform_current_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:47:50+00:00",
+    "sha256": "d0bda4019bdca23e5689efef2af46067799c6aaf0a88a31880d89d28b1d8d2d7",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "蚂蚁集团",
+    "url": "https://security.alipay.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "cfbd4b828426dcdeefbc2ce72fe2910e9aad973da60c3ebc32d227dc0feedb86",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "美团",
+    "url": "https://security.meituan.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "34f9ff30051228f72848b99dcdf2bc4c00845b7bc85c62a5a34312a1f293e086",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "京东",
+    "url": "https://security.jd.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "34cd6445d5fd25f178cb88cef02a4f6a28eade867763609b802753cc8ed6ee0a",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "拼多多",
+    "url": "https://security.pinduoduo.com/",
+    "status": "redirected_to_company_homepage_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "df073c88d57ac466c2797fc0419b6207dc5779d9760c9f4a4fadcb515331230f",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "快手",
+    "url": "https://security.kuaishou.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "9d187556d4fe4d29d1cf4ed938e93b0076dd5257bfc3d19571555e6a35d47556",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "vivo",
+    "url": "https://security.vivo.com.cn/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:00+00:00",
+    "sha256": "118f7e67f5f521153914c18e162c990ad67c6e410d7611b9b47ddd5d00971ed7",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "荣耀",
+    "url": "https://security.hihonor.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:01+00:00",
+    "sha256": "73caec9357c3e329122281703d226d4e780bcabed72f914fef0d3768c90bd579",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "网易",
+    "url": "https://aq.163.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:00+00:00",
+    "sha256": "45f6df62a28ed4337bc70350effb9bb9f6aa5666c04b0232566d781275c6a1e5",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "携程",
+    "url": "https://security.ctrip.com/",
+    "status": "official_site_maintenance_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:01+00:00",
+    "sha256": "52320ad8e5f0e3cf15236a1aa7f0c228302abb2f5ef5b92c04b5e8af8b77626c",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "滴滴",
+    "url": "https://sec.didichuxing.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:01+00:00",
+    "sha256": "e273b64fb95c4e0c246ca7432daa714d1ff62ce2e022762de4ae0edaf103e9c5",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "同程旅行",
+    "url": "https://security.ly.com/",
+    "status": "official_source_unavailable",
+    "http_status": 0,
+    "observed_at": "2026-11-16T03:49:04+00:00",
+    "sha256": null,
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "唯品会",
+    "url": "https://sec.vip.com/vip",
+    "status": "named_product_confirmed_submission_paused",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:45:46+00:00",
+    "sha256": "67a8385e0fab427430d8edf9a890dfd983113f43850acb0e59a75f3a88a5c8a1",
+    "evidence": "最新官方公告仍称维护暂停新漏洞提交；保留范围历史与Android身份，默认可提交结果应排除此厂商。"
+  },
+  {
+    "vendor": "顺丰",
+    "url": "https://security.sf-express.com/",
+    "status": "official_source_unavailable",
+    "http_status": 0,
+    "observed_at": "2026-11-16T03:49:02+00:00",
+    "sha256": null,
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "货拉拉",
+    "url": "https://security.huolala.cn/",
+    "status": "official_source_unavailable",
+    "http_status": 0,
+    "observed_at": "2026-11-16T03:49:03+00:00",
+    "sha256": null,
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "小红书",
+    "url": "https://security.xiaohongshu.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:03+00:00",
+    "sha256": "e7b0ea00375d3bd2e3b415a778bb9805a5f4f4e566dde0dbb8d5a71b71548a67",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "得物",
+    "url": "https://security.dewu.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:03+00:00",
+    "sha256": "6f661ffa670ec30a56a2e5c480bd36665a5f5e1a831e15f3069cb8b4cd4f0a03",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "满帮",
+    "url": "https://security.amh-group.com/",
+    "status": "official_source_unavailable",
+    "http_status": 403,
+    "observed_at": "2026-11-16T03:49:04+00:00",
+    "sha256": "61f0e4b0de4ff19a50d88b5286dbc528c0530459c87d9359e22d3bb90c45c5ab",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "贝壳",
+    "url": "https://security.ke.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:04+00:00",
+    "sha256": "2680d036a97303bfd35bca78a6070eabf2cc0a6ec36de504aea80f173bb731b6",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "爱奇艺",
+    "url": "https://security.iqiyi.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:04+00:00",
+    "sha256": "a19487b9b4363a056e5910a777b7995b4ffecb6c9ba47c53395234b7dbef9b43",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "去哪儿",
+    "url": "https://security.qunar.com/",
+    "status": "current_app_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:05+00:00",
+    "sha256": "a60ef41d36082e8e0943e1a0cc53e1fe6837f30c213cbb20e9a73ff9568da83a",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "哔哩哔哩",
+    "url": "https://security.bilibili.com/announcement/?price=0",
+    "status": "migrated_platform_current_scope_unverified",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:47:49+00:00",
+    "sha256": "339717f8400e6303308c93d88f9a20f5a4346097727852e507cd4595236dc265",
+    "evidence": "厂商页面可读或应用存在不表示该厂商所有应用均在SRC范围；仅具备独立证据的产品进入已核清单。"
+  },
+  {
+    "vendor": "360",
+    "url": "https://src.360.cn/News/news/id/296",
+    "status": "partial_product_inventory_confirmed",
+    "http_status": 0,
+    "observed_at": "2026-11-16T03:45:46+00:00",
+    "sha256": null,
+    "evidence": "原具名范围证据观察于2026-11-14；本轮规则站读取失败，保留原证据时间且未冒充当前重验。"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "url": "https://security.alibaba.com/api/asrc/pub/announcements/announcement.json?id=228",
+    "status": "migrated_to_xianzhi_tasks",
+    "evidence": "官方迁移公告称2024-05-13起在先知任务报名/报告；本轮未取得当前逐任务APP范围，13个已核Android身份保留候选。",
+    "observed_at": "2026-11-16T04:24:51+00:00"
+  },
+  {
+    "vendor": "哔哩哔哩",
+    "url": "https://security.bilibili.com/announcement/31/",
+    "status": "migrated_current_rules_not_verified",
+    "evidence": "官方2026-08-03起迁移托管平台，后续奖励按新平台；旧V1.7文档不直接充当当前逐APP资格。",
+    "observed_at": "2026-11-16T04:24:51+00:00"
+  },
+  {
+    "vendor": "唯品会",
+    "url": "https://sec.vip.com/notice/info/68db7568-a529-4bb9-b7c0-af8596b358a5",
+    "status": "submission_paused",
+    "evidence": "官方2026-08-21维护公告仍称暂停新漏洞提交；未发现明确恢复公告，不在默认可投清单。",
+    "observed_at": "2026-11-16T04:24:51+00:00"
   }
 ]

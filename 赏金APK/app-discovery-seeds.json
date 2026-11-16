@@ -1,0 +1,722 @@
+[
+  {
+    "vendor": "字节跳动",
+    "name": "抖音",
+    "package": "com.ss.android.ugc.aweme",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ss.android.ugc.aweme"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "抖音极速版",
+    "package": "com.ss.android.ugc.aweme.lite",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ss.android.ugc.aweme.lite"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "抖音火山版",
+    "package": "com.ss.android.ugc.live",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ss.android.ugc.live"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "今日头条",
+    "package": "com.ss.android.article.news",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ss.android.article.news"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "今日头条极速版",
+    "package": "com.ss.android.article.lite",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ss.android.article.lite"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "西瓜视频",
+    "package": "com.ss.android.article.video",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ss.android.article.video"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "番茄免费小说",
+    "package": "com.dragon.read",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.dragon.read"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "番茄畅听",
+    "package": "com.xs.fm",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xs.fm"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "剪映",
+    "package": "com.lemon.lv",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.lemon.lv"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "懂车帝",
+    "package": "com.ss.android.auto",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ss.android.auto"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "飞书",
+    "package": "com.ss.android.lark",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ss.android.lark"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "豆包",
+    "package": "com.larus.nova",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.larus.nova"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "皮皮虾",
+    "package": "com.sup.android.superb",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.sup.android.superb"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "红果免费短剧",
+    "package": "com.phoenix.read",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.phoenix.read"
+  },
+  {
+    "vendor": "字节跳动",
+    "name": "汽水音乐",
+    "package": "com.luna.music",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.luna.music"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米商城",
+    "package": "com.xiaomi.shop",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xiaomi.shop"
+  },
+  {
+    "vendor": "小米",
+    "name": "小爱音箱",
+    "package": "com.xiaomi.mico",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xiaomi.mico"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米有品",
+    "package": "com.xiaomi.youpin",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xiaomi.youpin"
+  },
+  {
+    "vendor": "小米",
+    "name": "米家",
+    "package": "com.xiaomi.smarthome",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xiaomi.smarthome"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米汽车",
+    "package": "com.mi.car.mobile",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.mi.car.mobile"
+  },
+  {
+    "vendor": "小米",
+    "name": "多看",
+    "package": "com.duokan.reader",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.duokan.reader"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米换机",
+    "package": "com.miui.huanji",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.miui.huanji"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米游戏中心",
+    "package": "com.xiaomi.gamecenter",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xiaomi.gamecenter"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米运动健康",
+    "package": "com.mi.health",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.mi.health"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米耳机",
+    "package": "com.mi.earphone",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.mi.earphone"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米智能存储",
+    "package": "com.xiaomi.station",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xiaomi.station"
+  },
+  {
+    "vendor": "小米",
+    "name": "小米打印",
+    "package": "com.mi.print",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.mi.print"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度APP",
+    "package": "com.baidu.searchbox",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.searchbox"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度地图",
+    "package": "com.baidu.BaiduMap",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.BaiduMap"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度网盘",
+    "package": "com.baidu.netdisk",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.netdisk"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度贴吧",
+    "package": "com.baidu.tieba",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.tieba"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度翻译",
+    "package": "com.baidu.baidutranslate",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.baidutranslate"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度文库",
+    "package": "com.baidu.wenku",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.wenku"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度知道",
+    "package": "com.baidu.iknow",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.iknow"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度输入法",
+    "package": "com.baidu.input",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.input"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度极速版",
+    "package": "com.baidu.searchbox.lite",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.searchbox.lite"
+  },
+  {
+    "vendor": "百度",
+    "name": "好看视频",
+    "package": "com.baidu.haokan",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.haokan"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度手机助手",
+    "package": "com.baidu.appsearch",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.appsearch"
+  },
+  {
+    "vendor": "百度",
+    "name": "文心 - 百度旗下全能AI助手",
+    "package": "com.baidu.newapp",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.newapp"
+  },
+  {
+    "vendor": "百度",
+    "name": "萝卜快跑",
+    "package": "com.baidu.apollo.go",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.apollo.go"
+  },
+  {
+    "vendor": "百度",
+    "name": "百度浏览器",
+    "package": "com.baidu.browser.apps",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.baidu.browser.apps"
+  },
+  {
+    "vendor": "哔哩哔哩",
+    "name": "哔哩哔哩",
+    "package": "tv.danmaku.bili",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/tv.danmaku.bili"
+  },
+  {
+    "vendor": "哔哩哔哩",
+    "name": "哔哩哔哩漫画",
+    "package": "com.bilibili.comic",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.bilibili.comic"
+  },
+  {
+    "vendor": "哔哩哔哩",
+    "name": "必剪",
+    "package": "com.bilibili.studio",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.bilibili.studio"
+  },
+  {
+    "vendor": "哔哩哔哩",
+    "name": "猫耳FM",
+    "package": "cn.missevan",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/cn.missevan"
+  },
+  {
+    "vendor": "唯品会",
+    "name": "唯品会",
+    "package": "com.achievo.vipshop",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.achievo.vipshop"
+  },
+  {
+    "vendor": "快手",
+    "name": "快手",
+    "package": "com.smile.gifmaker",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.smile.gifmaker"
+  },
+  {
+    "vendor": "快手",
+    "name": "快手极速版",
+    "package": "com.kuaishou.nebula",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.kuaishou.nebula"
+  },
+  {
+    "vendor": "快手",
+    "name": "快影",
+    "package": "com.kwai.videoeditor",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.kwai.videoeditor"
+  },
+  {
+    "vendor": "快手",
+    "name": "快手直播伴侣",
+    "package": "com.kwai.livepartner",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.kwai.livepartner"
+  },
+  {
+    "vendor": "快手",
+    "name": "一甜相机",
+    "package": "com.kwai.m2u",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.kwai.m2u"
+  },
+  {
+    "vendor": "快手",
+    "name": "回森",
+    "package": "com.kwai.hisense",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.kwai.hisense"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "微信",
+    "package": "com.tencent.mm",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.mm"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "企业微信",
+    "package": "com.tencent.wework",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.wework"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "QQ",
+    "package": "com.tencent.mobileqq",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.mobileqq"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "腾讯视频",
+    "package": "com.tencent.qqlive",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.qqlive"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "元宝-腾讯旗下AI助手",
+    "package": "com.tencent.hunyuan.app.chat",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.hunyuan.app.chat"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "QQ浏览器",
+    "package": "com.tencent.mtt",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.mtt"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "腾讯会议",
+    "package": "com.tencent.wemeet.app",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.wemeet.app"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "腾讯文档",
+    "package": "com.tencent.docs",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.docs"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "QQ音乐",
+    "package": "com.tencent.qqmusic",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.qqmusic"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "腾讯地图",
+    "package": "com.tencent.map",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.map"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "腾讯新闻",
+    "package": "com.tencent.news",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.news"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "应用宝",
+    "package": "com.tencent.android.qqdownloader",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.android.qqdownloader"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "QQ邮箱",
+    "package": "com.tencent.androidqqmail",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.androidqqmail"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "腾讯微云",
+    "package": "com.qq.qcloud",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.qq.qcloud"
+  },
+  {
+    "vendor": "腾讯",
+    "name": "全民K歌",
+    "package": "com.tencent.karaoke",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tencent.karaoke"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "淘宝",
+    "package": "com.taobao.taobao",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.taobao.taobao"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "天猫",
+    "package": "com.tmall.wireless",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tmall.wireless"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "闲鱼",
+    "package": "com.taobao.idlefish",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.taobao.idlefish"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "钉钉",
+    "package": "com.alibaba.android.rimet",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.alibaba.android.rimet"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "高德地图",
+    "package": "com.autonavi.minimap",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.autonavi.minimap"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "优酷视频",
+    "package": "com.youku.phone",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.youku.phone"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "飞猪旅行",
+    "package": "com.taobao.trip",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.taobao.trip"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "淘宝闪购",
+    "package": "me.ele",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/me.ele"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "夸克",
+    "package": "com.quark.browser",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.quark.browser"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "阿里云",
+    "package": "com.alibaba.aliyun",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.alibaba.aliyun"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "阿里巴巴",
+    "package": "com.alibaba.wireless",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.alibaba.wireless"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "千牛",
+    "package": "com.taobao.qianniu",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.taobao.qianniu"
+  },
+  {
+    "vendor": "阿里巴巴",
+    "name": "UC浏览器",
+    "package": "com.UCMobile",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.UCMobile"
+  },
+  {
+    "vendor": "蚂蚁集团",
+    "name": "支付宝",
+    "package": "com.eg.android.AlipayGphone",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.eg.android.AlipayGphone"
+  },
+  {
+    "vendor": "美团",
+    "name": "美团",
+    "package": "com.sankuai.meituan",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.sankuai.meituan"
+  },
+  {
+    "vendor": "美团",
+    "name": "美团外卖",
+    "package": "com.sankuai.meituan.takeoutnew",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.sankuai.meituan.takeoutnew"
+  },
+  {
+    "vendor": "美团",
+    "name": "大众点评",
+    "package": "com.dianping.v1",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.dianping.v1"
+  },
+  {
+    "vendor": "美团",
+    "name": "美团经营宝",
+    "package": "com.sankuai.meituan.merchant",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.sankuai.meituan.merchant"
+  },
+  {
+    "vendor": "京东",
+    "name": "京东",
+    "package": "com.jingdong.app.mall",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.jingdong.app.mall"
+  },
+  {
+    "vendor": "京东",
+    "name": "京东金融",
+    "package": "com.jd.jrapp",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.jd.jrapp"
+  },
+  {
+    "vendor": "京东",
+    "name": "京东到家",
+    "package": "com.jingdong.pdj",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.jingdong.pdj"
+  },
+  {
+    "vendor": "拼多多",
+    "name": "拼多多",
+    "package": "com.xunmeng.pinduoduo",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xunmeng.pinduoduo"
+  },
+  {
+    "vendor": "拼多多",
+    "name": "拼多多商家版",
+    "package": "com.xunmeng.merchant",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xunmeng.merchant"
+  },
+  {
+    "vendor": "携程",
+    "name": "携程旅行",
+    "package": "ctrip.android.view",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/ctrip.android.view"
+  },
+  {
+    "vendor": "携程",
+    "name": "携程商旅",
+    "package": "com.ctrip.ct",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.ctrip.ct"
+  },
+  {
+    "vendor": "同程旅行",
+    "name": "同程旅行",
+    "package": "com.tongcheng.android",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.tongcheng.android"
+  },
+  {
+    "vendor": "去哪儿",
+    "name": "去哪儿旅行",
+    "package": "com.Qunar",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.Qunar"
+  },
+  {
+    "vendor": "滴滴",
+    "name": "滴滴",
+    "package": "com.sdu.didi.psnger",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.sdu.didi.psnger"
+  },
+  {
+    "vendor": "滴滴",
+    "name": "滴滴车主",
+    "package": "com.sdu.didi.gsui",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.sdu.didi.gsui"
+  },
+  {
+    "vendor": "小红书",
+    "name": "小红书",
+    "package": "com.xingin.xhs",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xingin.xhs"
+  },
+  {
+    "vendor": "得物",
+    "name": "得物",
+    "package": "com.shizhuang.duapp",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.shizhuang.duapp"
+  },
+  {
+    "vendor": "贝壳",
+    "name": "贝壳",
+    "package": "com.lianjia.beike",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.lianjia.beike"
+  },
+  {
+    "vendor": "贝壳",
+    "name": "链家",
+    "package": "com.homelink.android",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.homelink.android"
+  },
+  {
+    "vendor": "顺丰",
+    "name": "顺丰速运",
+    "package": "com.sf.activity",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.sf.activity"
+  },
+  {
+    "vendor": "网易",
+    "name": "网易云音乐",
+    "package": "com.netease.cloudmusic",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.netease.cloudmusic"
+  },
+  {
+    "vendor": "网易",
+    "name": "网易邮箱大师",
+    "package": "com.netease.mail",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.netease.mail"
+  },
+  {
+    "vendor": "网易",
+    "name": "网易新闻",
+    "package": "com.netease.newsreader.activity",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.netease.newsreader.activity"
+  },
+  {
+    "vendor": "网易",
+    "name": "网易有道词典",
+    "package": "com.youdao.dict",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.youdao.dict"
+  },
+  {
+    "vendor": "网易",
+    "name": "有道翻译官",
+    "package": "com.youdao.translator",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.youdao.translator"
+  },
+  {
+    "vendor": "网易",
+    "name": "网易严选",
+    "package": "com.netease.yanxuan",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.netease.yanxuan"
+  },
+  {
+    "vendor": "华为",
+    "name": "华为商城",
+    "package": "com.vmall.client",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.vmall.client"
+  },
+  {
+    "vendor": "金山办公",
+    "name": "WPS Office",
+    "package": "cn.wps.moffice_eng",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/cn.wps.moffice_eng"
+  },
+  {
+    "vendor": "360",
+    "name": "360手机助手",
+    "package": "com.qihoo.appstore",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.qihoo.appstore"
+  },
+  {
+    "vendor": "360",
+    "name": "360手机卫士",
+    "package": "com.qihoo360.mobilesafe",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.qihoo360.mobilesafe"
+  },
+  {
+    "vendor": "360",
+    "name": "360浏览器",
+    "package": "com.qihoo.browser",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.qihoo.browser"
+  },
+  {
+    "vendor": "360",
+    "name": "360摄像机",
+    "package": "com.qihoo.camera",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.qihoo.camera"
+  },
+  {
+    "vendor": "360",
+    "name": "360清理大师",
+    "package": "com.qihoo.cleandroid_cn",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.qihoo.cleandroid_cn"
+  },
+  {
+    "vendor": "途虎",
+    "name": "途虎养车",
+    "package": "cn.TuHu.android",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/cn.TuHu.android"
+  },
+  {
+    "vendor": "货拉拉",
+    "name": "货拉拉",
+    "package": "com.lalamove.huolala.client",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.lalamove.huolala.client"
+  },
+  {
+    "vendor": "满帮",
+    "name": "运满满司机",
+    "package": "com.xiwei.logistics",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.xiwei.logistics"
+  },
+  {
+    "vendor": "满帮",
+    "name": "货车帮司机",
+    "package": "com.wlqq",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.wlqq"
+  },
+  {
+    "vendor": "爱奇艺",
+    "name": "爱奇艺",
+    "package": "com.qiyi.video",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.qiyi.video"
+  },
+  {
+    "vendor": "爱奇艺",
+    "name": "爱奇艺极速版",
+    "package": "com.qiyi.video.lite",
+    "identity_evidence_url": "https://sj.qq.com/appdetail/com.qiyi.video.lite"
+  }
+]

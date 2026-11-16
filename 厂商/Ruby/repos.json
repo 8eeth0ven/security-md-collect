@@ -1,54 +1,54 @@
 [
- {
-  "vendor": "Ruby",
-  "org": "ruby",
-  "full_name": "ruby/ruby",
-  "url": "https://github.com/ruby/ruby",
-  "sec_path": ".github/SECURITY.md",
-  "stars": 23812,
-  "language": "Ruby",
-  "description": "The Ruby Programming Language",
-  "license": null,
-  "first_seen": "2026-11-14 13:00:25",
-  "last_verified": "2026-11-14 13:00:25"
- },
- {
-  "vendor": "Ruby",
-  "org": "ruby",
-  "full_name": "ruby/rubygems",
-  "url": "https://github.com/ruby/rubygems",
-  "sec_path": "SECURITY.md",
-  "stars": 3991,
-  "language": "Ruby",
-  "description": "Library packaging and distribution for Ruby.",
-  "license": null,
-  "first_seen": "2026-11-15 08:03:15",
-  "last_verified": "2026-11-15 08:03:15"
- },
- {
-  "vendor": "Ruby",
-  "org": "ruby",
-  "full_name": "ruby/gem_rbs_collection",
-  "url": "https://github.com/ruby/gem_rbs_collection",
-  "sec_path": "docs/SECURITY.md",
-  "stars": 302,
-  "language": "Ruby",
-  "description": "A collection of RBS for gems.",
-  "license": null,
-  "first_seen": "2026-11-15 08:02:43",
-  "last_verified": "2026-11-15 08:02:43"
- },
- {
-  "vendor": "Ruby",
-  "org": "ruby",
-  "full_name": "ruby/.github",
-  "url": "https://github.com/ruby/.github",
-  "sec_path": "SECURITY.md",
-  "stars": 2,
-  "language": null,
-  "description": null,
-  "license": null,
-  "first_seen": "2026-11-14 13:00:25",
-  "last_verified": "2026-11-14 13:00:25"
- }
+  {
+    "vendor": "Ruby",
+    "org": "ruby",
+    "full_name": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "sec_path": ".github/SECURITY.md",
+    "stars": 23812,
+    "language": "Ruby",
+    "description": "The Ruby Programming Language",
+    "license": null,
+    "first_seen": "2026-11-14 13:00:25",
+    "last_verified": "2026-11-16 11:52:16"
+  },
+  {
+    "vendor": "Ruby",
+    "org": "ruby",
+    "full_name": "ruby/rubygems",
+    "url": "https://github.com/ruby/rubygems",
+    "sec_path": "SECURITY.md",
+    "stars": 3991,
+    "language": "Ruby",
+    "description": "Library packaging and distribution for Ruby.",
+    "license": null,
+    "first_seen": "2026-11-15 08:03:15",
+    "last_verified": "2026-11-15 08:03:15"
+  },
+  {
+    "vendor": "Ruby",
+    "org": "ruby",
+    "full_name": "ruby/gem_rbs_collection",
+    "url": "https://github.com/ruby/gem_rbs_collection",
+    "sec_path": "docs/SECURITY.md",
+    "stars": 302,
+    "language": "Ruby",
+    "description": "A collection of RBS for gems.",
+    "license": null,
+    "first_seen": "2026-11-15 08:02:43",
+    "last_verified": "2026-11-15 08:02:43"
+  },
+  {
+    "vendor": "Ruby",
+    "org": "ruby",
+    "full_name": "ruby/.github",
+    "url": "https://github.com/ruby/.github",
+    "sec_path": "SECURITY.md",
+    "stars": 2,
+    "language": null,
+    "description": "Account default security policy",
+    "license": null,
+    "first_seen": "2026-11-14 13:00:25",
+    "last_verified": "2026-11-16 11:52:16"
+  }
 ]

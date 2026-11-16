@@ -3,19 +3,31 @@
     "url": "https://src.360.cn/News/news/id/296",
     "http_status": 200,
     "sha256": "c80820c802ca253b7cf9e91d3d4fbcc7b828965030824b2140ed2de4f43f486b",
-    "observed_at": "2026-11-14T05:25:36+00:00"
+    "observed_at": "2026-11-14T05:25:36+00:00",
+    "latest_attempt": {
+      "url": "https://src.360.cn/News/news/id/296",
+      "observed_at": "2026-11-16T03:45:46+00:00",
+      "http_status": 0,
+      "error": "SSLError: HTTPSConnectionPool(host='src.360.cn', port=443): Max retries exceeded with url: /News/news/id/296 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occur"
+    }
   },
   {
     "url": "https://bsrc.baidu.com/v2/api/config/regulation",
+    "final_url": "https://bsrc.baidu.com/v2/api/config/regulation",
     "http_status": 200,
+    "observed_at": "2026-11-16T03:49:05+00:00",
     "sha256": "53797725f6dfca2bb599bb777d26ce9b4ddfb128857a73e0132b15f865367313",
-    "observed_at": "2026-11-14T05:25:36+00:00"
+    "bytes": 211,
+    "content_type": "application/json; charset=utf-8"
   },
   {
     "url": "https://bj.bcebos.com/bsrc-public/2026073122193835faf944aea5bfa5.pdf",
+    "final_url": "https://bj.bcebos.com/bsrc-public/2026073122193835faf944aea5bfa5.pdf",
     "http_status": 200,
+    "observed_at": "2026-11-16T03:46:12+00:00",
     "sha256": "6f13c91def1a1588eba408986278d4998bba7bce570afe12d203bd0dce71eb7e",
-    "observed_at": "2026-11-14T05:25:36+00:00"
+    "bytes": 1176418,
+    "content_type": "application/pdf"
   },
   {
     "url": "https://bj.bcebos.com/bsrc-public/202307271559355ba80d3e41d28880.pdf",
@@ -31,9 +43,12 @@
   },
   {
     "url": "https://sec.xiaomi.com/api/v1/open/bug/privacy/apps",
+    "final_url": "https://sec.xiaomi.com/api/v1/open/bug/privacy/apps",
     "http_status": 200,
+    "observed_at": "2026-11-16T03:56:44+00:00",
     "sha256": "6ffcec254a2f131797838633be2ba64f18df88aecc8ec7bdf6708da4bf835e9a",
-    "observed_at": "2026-11-14T05:30:48+00:00"
+    "bytes": 1167,
+    "content_type": "application/json"
   },
   {
     "url": "https://nd-static.bdstatic.com/m-static/wp-brand/js/chunk-common.e77789b3.js",
@@ -43,9 +58,12 @@
   },
   {
     "url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
+    "final_url": "https://api.yeswehack.com/programs/tencent-bug-bounty-program",
     "http_status": 200,
-    "sha256": "6861f69cda3a148345c7189462ea5cbfb421d6665cc2fc4d4c6b01d23ad39bca",
-    "observed_at": "2026-11-14T05:35:34+00:00"
+    "observed_at": "2026-11-16T03:45:45+00:00",
+    "sha256": "d74e3ef545345969e66a6cf95e18eddf35fee1691d8f1f0876f3ab25d335d61c",
+    "bytes": 32670,
+    "content_type": "application/json"
   },
   {
     "url": "https://weixin.qq.com/",
@@ -94,5 +112,266 @@
     "http_status": 200,
     "sha256": "0a3fe059850705eb7a15731884092c8051f2b6c289d5815974855c61a0462591",
     "observed_at": "2026-11-14T05:44:57+00:00"
+  },
+  {
+    "url": "https://security.bytedance.com/src/",
+    "final_url": "https://security.bytedance.com/src/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "667256c6912871711252813163f4933d85a2bce94e42449ab2f52f134b2c882e",
+    "bytes": 672041,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://sec.vip.com/vip",
+    "final_url": "https://sec.vip.com/vip",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:45:46+00:00",
+    "sha256": "67a8385e0fab427430d8edf9a890dfd983113f43850acb0e59a75f3a88a5c8a1",
+    "bytes": 33244,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://security.tuhu.cn/home/page/view.html?id=16",
+    "final_url": "https://security.tuhu.cn/home/page/view.html?id=16",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:51:40+00:00",
+    "sha256": "1bd98b89ece13a03df36e1be78dc706c2f403a56cc446ddcc759f61646d03ff6",
+    "bytes": 52290,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://www.bytedance.com/products-services?locale=zh",
+    "final_url": "https://www.bytedance.com/products-services?locale=zh",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:50:49+00:00",
+    "sha256": "731464d3dc0fca7c5ab5d431a12f95e8642d664744a72db5453947e3cd6889c8",
+    "bytes": 99464,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://sec.vip.com/notice/info/68db7568-a529-4bb9-b7c0-af8596b358a5",
+    "final_url": "https://sec.vip.com/notice/info/68db7568-a529-4bb9-b7c0-af8596b358a5",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:35+00:00",
+    "sha256": "6db8c939476b707c581a87f2e26cacc67bf9136a6427e9e4de02c7051ac6e08f",
+    "bytes": 29972,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://security.alibaba.com/",
+    "final_url": "https://security.alibaba.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:47:50+00:00",
+    "sha256": "d0bda4019bdca23e5689efef2af46067799c6aaf0a88a31880d89d28b1d8d2d7",
+    "bytes": 1844,
+    "content_type": "text/html;charset=UTF-8"
+  },
+  {
+    "url": "https://security.alipay.com/",
+    "final_url": "https://security.alipay.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "cfbd4b828426dcdeefbc2ce72fe2910e9aad973da60c3ebc32d227dc0feedb86",
+    "bytes": 5058,
+    "content_type": "text/html;charset=GBK"
+  },
+  {
+    "url": "https://security.meituan.com/",
+    "final_url": "https://security.meituan.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "34f9ff30051228f72848b99dcdf2bc4c00845b7bc85c62a5a34312a1f293e086",
+    "bytes": 5855,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://security.jd.com/",
+    "final_url": "https://security.jd.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "34cd6445d5fd25f178cb88cef02a4f6a28eade867763609b802753cc8ed6ee0a",
+    "bytes": 1883,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://security.pinduoduo.com/",
+    "final_url": "https://www.pinduoduo.com",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "df073c88d57ac466c2797fc0419b6207dc5779d9760c9f4a4fadcb515331230f",
+    "bytes": 21753,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://security.kuaishou.com/",
+    "final_url": "https://security.kuaishou.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:58+00:00",
+    "sha256": "9d187556d4fe4d29d1cf4ed938e93b0076dd5257bfc3d19571555e6a35d47556",
+    "bytes": 681,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://sec.xiaomi.com/",
+    "final_url": "https://sec.xiaomi.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:48:59+00:00",
+    "sha256": "008d8e37412ba3427129b94c09ec5fa82f28c952d34bb4e031b41c35e3cb3e94",
+    "bytes": 7051,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://www.huawei.com/cn/psirt/",
+    "final_url": "https://www.huawei.com/cn/psirt/",
+    "http_status": 503,
+    "observed_at": "2026-11-16T03:48:59+00:00",
+    "sha256": "ab82a27abf23c7cd6c16f8919a5eba4e7f53fe47f1b9ed4aeb56f327ffd15967",
+    "bytes": 373,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://security.oppo.com/cn/",
+    "final_url": "https://security.oppo.com/cn/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:02+00:00",
+    "sha256": "92eb73d05f539d9bc83e78fefcdf39f834b00334d1b5aaf0376fc7578e303c49",
+    "bytes": 108292,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "url": "https://security.vivo.com.cn/",
+    "final_url": "https://security.vivo.com.cn/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:00+00:00",
+    "sha256": "118f7e67f5f521153914c18e162c990ad67c6e410d7611b9b47ddd5d00971ed7",
+    "bytes": 761,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://security.hihonor.com/",
+    "final_url": "https://security.honor.com/src/#/home",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:01+00:00",
+    "sha256": "73caec9357c3e329122281703d226d4e780bcabed72f914fef0d3768c90bd579",
+    "bytes": 715,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://aq.163.com/",
+    "final_url": "https://aq.163.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:00+00:00",
+    "sha256": "45f6df62a28ed4337bc70350effb9bb9f6aa5666c04b0232566d781275c6a1e5",
+    "bytes": 2587,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://security.ctrip.com/",
+    "final_url": "https://security.ctrip.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:01+00:00",
+    "sha256": "52320ad8e5f0e3cf15236a1aa7f0c228302abb2f5ef5b92c04b5e8af8b77626c",
+    "bytes": 6304,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://sec.didichuxing.com/",
+    "final_url": "https://sec.didichuxing.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:01+00:00",
+    "sha256": "e273b64fb95c4e0c246ca7432daa714d1ff62ce2e022762de4ae0edaf103e9c5",
+    "bytes": 1053,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://security.ly.com/",
+    "observed_at": "2026-11-16T03:49:04+00:00",
+    "http_status": 0,
+    "error": "SSLError: HTTPSConnectionPool(host='security.ly.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viol"
+  },
+  {
+    "url": "https://security.tuhu.cn/",
+    "final_url": "https://security.tuhu.cn/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:01+00:00",
+    "sha256": "e99c94d6b0499245d2a3505a0487916223da2d08491c2085edbcb025408041e3",
+    "bytes": 83809,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://security.sf-express.com/",
+    "observed_at": "2026-11-16T03:49:02+00:00",
+    "http_status": 0,
+    "error": "SSLError: HTTPSConnectionPool(host='security.sf-express.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] ce"
+  },
+  {
+    "url": "https://security.huolala.cn/",
+    "observed_at": "2026-11-16T03:49:03+00:00",
+    "http_status": 0,
+    "error": "SSLError: HTTPSConnectionPool(host='security.huolala.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in "
+  },
+  {
+    "url": "https://security.xiaohongshu.com/",
+    "final_url": "https://security.xiaohongshu.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:03+00:00",
+    "sha256": "e7b0ea00375d3bd2e3b415a778bb9805a5f4f4e566dde0dbb8d5a71b71548a67",
+    "bytes": 466,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://security.dewu.com/",
+    "final_url": "https://security.dewu.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:03+00:00",
+    "sha256": "6f661ffa670ec30a56a2e5c480bd36665a5f5e1a831e15f3069cb8b4cd4f0a03",
+    "bytes": 715,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://security.amh-group.com/",
+    "final_url": "https://security.amh-group.com/",
+    "http_status": 403,
+    "observed_at": "2026-11-16T03:49:04+00:00",
+    "sha256": "61f0e4b0de4ff19a50d88b5286dbc528c0530459c87d9359e22d3bb90c45c5ab",
+    "bytes": 171,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://security.ke.com/",
+    "final_url": "https://security.ke.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:04+00:00",
+    "sha256": "2680d036a97303bfd35bca78a6070eabf2cc0a6ec36de504aea80f173bb731b6",
+    "bytes": 905,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://security.iqiyi.com/",
+    "final_url": "https://security.iqiyi.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:04+00:00",
+    "sha256": "a19487b9b4363a056e5910a777b7995b4ffecb6c9ba47c53395234b7dbef9b43",
+    "bytes": 6366,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://security.qunar.com/",
+    "final_url": "https://security.qunar.com/",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:49:05+00:00",
+    "sha256": "a60ef41d36082e8e0943e1a0cc53e1fe6837f30c213cbb20e9a73ff9568da83a",
+    "bytes": 13485,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://security.bilibili.com/announcement/?price=0",
+    "final_url": "https://security.bilibili.com/announcement/?price=0",
+    "http_status": 200,
+    "observed_at": "2026-11-16T03:47:49+00:00",
+    "sha256": "339717f8400e6303308c93d88f9a20f5a4346097727852e507cd4595236dc265",
+    "bytes": 7760,
+    "content_type": "text/html; charset=utf-8"
   }
 ]
