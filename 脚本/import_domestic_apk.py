@@ -43,9 +43,21 @@ def import_rows(base, evidence_path, source_manifest=None):
             'program_state':raw.get('program_state','unknown'),
             'submission_state':raw.get('submission_state','unknown'),
             'program_state_source':safe_url(raw.get('program_state_source')),
+            'vendor_aliases':list(raw.get('vendor_aliases') or []),
+            'scope_version_date':str(raw.get('scope_version_date') or ''),
+            'program_state_changed_at':str(raw.get('program_state_changed_at') or ''),
+            'pause_until':str(raw.get('pause_until') or ''),
+            'reviewed_at':str(raw.get('reviewed_at') or raw.get('scope_checked_at') or ''),
+            'historical_in_scope':raw.get('historical_in_scope',False),
+            'current_scope_status':str(raw.get('current_scope_status') or ''),
+            'current_in_scope':raw.get('current_in_scope'),
+            'current_cash_eligible':raw.get('current_cash_eligible'),
+            'evidence_strength':str(raw.get('evidence_strength') or ''),
+            'policy_valid_until':raw.get('policy_valid_until'),
+            'program_state_observation_metadata':raw.get('program_state_observation_metadata'),
         })
-    # A repeated import replaces exact vendor/product identities, rather than duplicating them.
-    confirmed = list({(r['vendor'],r['target']):r for r in confirmed}.values())
+    # Distinct package IDs can legitimately share one product display name.
+    confirmed = list({(r['vendor'],r.get('package') or r['target']):r for r in confirmed}.values())
     stamp = datetime.now(timezone.utc).isoformat(timespec='seconds')
     out = base/'赏金APK'
     existing = json.loads((out/'src-backlog.json').read_text(encoding='utf-8')) if (out/'src-backlog.json').exists() else {}

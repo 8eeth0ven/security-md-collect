@@ -96,6 +96,20 @@ def detail_row(body, package):
                  if row.get('pkg_name') == package and android(row)), None)
 
 
+def publisher_matches(publisher, aliases):
+    publisher=str(publisher or '').casefold()
+    for alias in aliases:
+        alias=str(alias).strip().casefold()
+        if not alias:
+            continue
+        if re.fullmatch(r'[a-z0-9 .&/-]+',alias):
+            if re.search(r'(?<![a-z0-9])'+re.escape(alias)+r'(?![a-z0-9])',publisher):
+                return True
+        elif alias in publisher:
+            return True
+    return False
+
+
 def discover(base, cache, workers=6, verify_details=True, seed_file=None):
     cache.mkdir(parents=True, exist_ok=True)
     vendors = json.loads((base/'资产/vendors.json').read_text(encoding='utf-8'))
@@ -117,7 +131,7 @@ def discover(base, cache, workers=6, verify_details=True, seed_file=None):
         apps = []
         for row in search_rows(body):
             publisher = row.get('developer') or row.get('operator') or ''
-            if not any(alias.casefold() in publisher.casefold() for alias in aliases):
+            if not publisher_matches(publisher,aliases):
                 continue
             package = row['pkg_name']
             detail = 'https://sj.qq.com/appdetail/'+package
@@ -221,6 +235,53 @@ def discover(base, cache, workers=6, verify_details=True, seed_file=None):
                       '缓存保留真实来源观察时间；generated_at是整理时间，重新在线核查应使用新缓存目录。']}
 
 
+def merge_source_snapshot(base, fresh):
+    """Keep prior scope decisions while adding independently checked identities."""
+    path=Path(base)/'赏金APK/vendor-app-discovery.json'
+    previous=json.loads(path.read_text(encoding='utf-8'))
+    # Explicit vendor-association rejections persist across new store searches.
+    # A genuine product that is out of SRC scope is a different conclusion and
+    # stays in the catalog with that scope decision intact.
+    rejected={(r['vendor'],r['package']) for r in previous.get('excluded_apps',[])
+              if r.get('vendor') and r.get('package') and (
+                  r.get('ownership_status')=='rejected_vendor_association'
+                  or r.get('review_status')=='ownership_mismatch'
+                  or r.get('scope_status')=='ownership_mismatch')}
+    old_apps={(r['vendor'],r['package']):r for r in previous.get('apps',[])}
+    apps={key:r for key,r in old_apps.items() if key not in rejected}
+    skipped=set()
+    for app in fresh.get('apps',[]):
+        key=app['vendor'],app['package']
+        if key in rejected:
+            skipped.add(key)
+            continue
+        if key in apps:
+            evidence={'url':app.get('package_source_url'),'source':app.get('discovery_source'),
+                      'observed_at':app.get('observed_at'),'sha256':app.get('source_sha256')}
+            sources=apps[key].setdefault('additional_identity_sources',[])
+            if evidence.get('url') and not any(s.get('url')==evidence['url'] for s in sources):
+                sources.append(evidence)
+        else:
+            apps[key]=app
+    previous.update(generated_at=now(),apps=sorted(apps.values(),key=lambda r:(r['vendor'],r['package'])))
+    existing=previous.get('pagination_checks',[])
+    index={(r.get('source'),r.get('vendor'),r.get('query'),r.get('start_url') or r.get('url')):r for r in existing}
+    for record in fresh.get('pagination_checks',[]):
+        key=(record.get('source'),record.get('vendor'),record.get('query'),record.get('start_url') or record.get('url'))
+        index[key]=record
+    previous['pagination_checks']=list(index.values())
+    previous['latest_discovery_run']={**fresh.get('summary',{}),
+                                    'skipped_known_misattributions':len(skipped)}
+    summary=previous.setdefault('summary',{})
+    summary.update(candidate_apps=len(apps),detail_verified_apps=sum(r.get('download_state')=='store_page_verified' for r in apps.values()),
+                   scope_confirmed_apps=sum(r.get('scope_status')=='confirmed' for r in apps.values()),
+                   scope_unverified_apps=sum(r.get('scope_status')!='confirmed' for r in apps.values()),
+                   skipped_known_misattributions=len(skipped),
+                   removed_preexisting_known_misattributions=len(old_apps.keys() & rejected))
+    previous['limits']=list(dict.fromkeys([line for line in previous.get('limits',[]) if '只检索厂商名称首屏' not in line]+fresh.get('limits',[])))
+    return previous
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--base', type=Path, default=Path(__file__).resolve().parents[1])
@@ -229,8 +290,26 @@ if __name__ == '__main__':
     parser.add_argument('--workers', type=int, default=6)
     parser.add_argument('--seeds', type=Path, help='Reviewed vendor/package JSON identifiers to verify')
     parser.add_argument('--skip-detail-verification', action='store_true')
+    parser.add_argument('--source', choices=('baidu','appchina','qq-publishers','myapp'), default='baidu',
+                        help='Baidu uses pn/hasNextPage; AppChina follows next links; MyApp is a non-paginated fallback')
     args = parser.parse_args()
-    result = discover(args.base.resolve(), args.cache_dir.resolve(), args.workers, not args.skip_detail_verification, args.seeds)
+    if args.source in ('baidu','qq-publishers'):
+        if args.skip_detail_verification:
+            parser.error('Publisher/paginated discovery requires Android detail verification')
+        if args.source == 'baidu':
+            from baidu_market_pages import discover as discover_pages
+            fresh=discover_pages(args.base.resolve(),args.cache_dir.resolve(),args.cache_dir.resolve()/'baidu-stage.json',args.workers)
+        else:
+            from qq_publisher_apps import discover as discover_publishers
+            fresh=discover_publishers(args.base.resolve(),args.cache_dir.resolve(),args.workers)
+        result=merge_source_snapshot(args.base.resolve(),fresh)
+    elif args.source == 'appchina':
+        if args.skip_detail_verification:
+            parser.error('Paginated discovery requires Android detail verification')
+        from market_pagination import discover as discover_paginated
+        result = discover_paginated(args.base.resolve(), args.cache_dir.resolve(), args.workers)
+    else:
+        result = discover(args.base.resolve(), args.cache_dir.resolve(), args.workers, not args.skip_detail_verification, args.seeds)
     output = args.output or args.base/'赏金APK/vendor-app-discovery.json'
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n', encoding='utf-8')

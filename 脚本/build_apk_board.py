@@ -18,6 +18,7 @@ PLATFORMS = [
     ('h1','HackerOne','h1_android.json','H1_APK清单.md'),
     ('intigriti','Intigriti','intigriti_android.json','Intigriti_APK清单.md'),
     ('src','国内 SRC','src_android.json','国内SRC_APK清单.md'),
+    ('official','厂商官方计划','official_android.json','厂商官方APK清单.md'),
 ]
 PACKAGE = re.compile(r'[A-Za-z_][A-Za-z_0-9]*(?:\.[A-Za-z_][A-Za-z_0-9]*)+')
 
@@ -78,8 +79,12 @@ def normalize(platform, record):
         bounty = record.get('bounty_type') if record.get('bounty_type') in ('cash','points','vdp') else 'unknown'
     review = record.get('scope_review_status')
     scope_status = review or record.get('scope_status') or ('source_listed' if record.get('scope_observation')=='observed' else 'unavailable' if record.get('scope_observation')=='historical' else 'unreviewed')
-    program_state = record.get('program_submission_state') or record.get('submission_state') or ''
-    if scope_status in ('out_of_scope','not_android'):
+    states = [record.get('program_submission_state'), record.get('submission_state'), record.get('program_state')]
+    program_state = next((s for s in states if s in ('paused','disabled','closed')), '')
+    program_state = program_state or ('unknown' if record.get('submission_state') == 'unknown' else '')
+    program_state = program_state or next((s for s in states if s and s != 'unknown'), '')
+    program_state = program_state or ('unknown' if 'unknown' in states else '')
+    if scope_status in ('out_of_scope','not_android','ownership_mismatch'):
         bounty = 'excluded'
     elif scope_status == 'archived' or program_state in ('paused','disabled','closed'):
         bounty = 'inactive'
@@ -92,10 +97,10 @@ def normalize(platform, record):
         play = ''
     origin = str(record.get('package_source') or '')
     needs_review = bool(re.search(r'兜底|人工|待验证|候选|fallback|guess',origin,re.I)) or bool(record.get('needs_review'))
-    if package and platform != 'src':
+    if package and platform not in ('src', 'official'):
         play = play or 'https://play.google.com/store/apps/details?id='+quote(package,safe='.')
     source = 'manual' if needs_review else 'scope' if origin == 'scope包名' else 'unspecified'
-    if not needs_review and safe_url(record.get('package_source_url')) and platform == 'src':
+    if not needs_review and safe_url(record.get('package_source_url')) and platform in ('src', 'official'):
         source = 'evidence'
     for field in ('uri','target','play'):
         raw = safe_url(record.get(field))
@@ -120,6 +125,9 @@ def normalize(platform, record):
         'scope_status':scope_status,'scope_checked_at':str(record.get('scope_checked_at') or record.get('scope_observed_at') or ''),
         'scope_review_source':safe_url(record.get('scope_review_source')),
         'program_state':program_state,
+        'submission_state':str(record.get('submission_state') or record.get('program_submission_state') or 'unknown'),
+        'program_status':str(record.get('program_state') or ''),
+        'vendor_aliases':record.get('vendor_aliases', []) if isinstance(record.get('vendor_aliases', []), list) else [],
         'vendor':str(record.get('vendor') or ''),'reward_conditions':str(record.get('reward_conditions') or ''),
         'download_page':safe_url(record.get('download_page')),
         'package_source_url':safe_url(record.get('package_source_url')),
@@ -130,6 +138,17 @@ def normalize(platform, record):
         'scope_notes':str(record.get('scope_notes') or ''),
         'developer':str(record.get('developer') or ''),
         'program_state_source':safe_url(record.get('program_state_source')),
+        'review_source':safe_url(record.get('review_source')),
+        'reviewed_at':str(record.get('reviewed_at') or record.get('scope_observed_at') or ''),
+        'historical_in_scope':record.get('historical_in_scope',False),
+        'current_scope_status':str(record.get('current_scope_status') or ''),
+        'current_in_scope':record.get('current_in_scope'),
+        'current_cash_eligible':record.get('current_cash_eligible'),
+        'evidence_strength':str(record.get('evidence_strength') or ''),
+        'scope_version_date':str(record.get('scope_version_date') or ''),
+        'program_state_changed_at':str(record.get('program_state_changed_at') or ''),
+        'pause_until':str(record.get('pause_until') or ''),
+        'policy_valid_until':record.get('policy_valid_until'),
     }
 
 
@@ -138,6 +157,8 @@ def scope_label(row):
     label = {'in_scope':'官方范围内','source_listed':'本轮来源列入','archived':'官方已归档','out_of_scope':'官方明确范围外',
              'not_android':'官方条目非 Android','android_unresolved':'范围有记录 · Android 对应待核',
              'not_listed':'当前官方范围未列出','unavailable':'官方来源待确认','product_rename':'产品更名对应待核','unreviewed':'未逐项核查'}.get(status,'待核查')
+    if row.get('historical_in_scope') or row.get('current_scope_status') == 'paused_historical':
+        label = '最后已知范围'
     if row.get('program_state') in ('paused','disabled','closed'):
         label += ' · 项目暂停 / 不接收'
     if row.get('scope_match_type') == 'vendor_wide':
@@ -197,7 +218,7 @@ def build_apk_board(base):
     write(out / 'dashboard.json',json.dumps({'stats':stats,'rows':rows},ensure_ascii=False,separators=(',',':'))+'\n')
     buffer = io.StringIO(newline='')
     writer = csv.writer(buffer,lineterminator='\n')
-    columns = ['platform','program','bounty','reward','target','package','package_source','needs_review','url','play','apk_direct','xapk','apk','download_verified','scope_observation','scope_observed_at','scope_source','scope_status','scope_checked_at','scope_review_source','program_state','vendor','reward_conditions','download_page','package_source_url','scope_match_type','scope_notes','developer','program_state_source']
+    columns = ['platform','program','bounty','reward','target','package','package_source','needs_review','url','play','apk_direct','xapk','apk','download_verified','scope_observation','scope_observed_at','scope_source','scope_status','scope_checked_at','scope_review_source','program_state','vendor','reward_conditions','download_page','package_source_url','scope_match_type','scope_notes','developer','program_state_source','submission_state','program_status','vendor_aliases','historical_in_scope','current_scope_status','current_in_scope','current_cash_eligible','evidence_strength','scope_version_date','program_state_changed_at','pause_until','policy_valid_until']
     writer.writerow(columns)
     for row in rows:
         # Prevent a downloaded spreadsheet from interpreting source text as a formula.

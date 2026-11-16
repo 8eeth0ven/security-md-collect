@@ -6,10 +6,13 @@
       scopeBasis: "范围与应用对应依据",
       vendorWide: "集团范围关联 · 非逐包名清单",
       namedProduct: "官方具名产品 · 包名另核",
+      publisherScope: "官方发布者范围 · 包名另核",
+      mappingBasis: "范围匹配依据已记录",
       submissionEvidence: "提交状态依据",
       allMatches: "全库匹配 {n} 条；当前筛选显示 {shown} 条。",
       broaden: "在全部状态中查找",
       srcName: "国内 SRC",
+      officialName: "厂商官方计划",
       scopeFilter: "核查状态",
       scopeAll: "全部核查状态",
       scopeCurrent: "范围内 / 来源列入",
@@ -28,6 +31,8 @@
       unreviewed: "未逐项官方核查",
       excluded: "范围外 / 非 Android",
       programPaused: "项目暂停 / 不接收",
+      programUnknown: "当前接收状态待核",
+      lastKnownScope: "最后已知范围",
       officialDownload: "官方下载页",
       storeDownload: "应用商店详情",
       reviewEvidence: "核查证据",
@@ -132,10 +137,13 @@
       scopeBasis: "Scope and app mapping",
       vendorWide: "Vendor-wide scope · not a package allowlist",
       namedProduct: "Officially named product · package checked separately",
+      publisherScope: "Official publisher scope · package checked separately",
+      mappingBasis: "Scope mapping evidence recorded",
       submissionEvidence: "Submission status evidence",
       allMatches: "{n} matches across all records; {shown} with current filters.",
       broaden: "Search all statuses",
       srcName: "Domestic SRC",
+      officialName: "Official vendor programs",
       scopeFilter: "Scope review",
       scopeAll: "All review states",
       scopeCurrent: "In scope / listed in source",
@@ -154,6 +162,8 @@
       unreviewed: "Not individually reviewed",
       excluded: "Out of scope / not Android",
       programPaused: "Program paused / not accepting",
+      programUnknown: "Current submission status unconfirmed",
+      lastKnownScope: "Last known scope",
       officialDownload: "Official download page",
       storeDownload: "App store listing",
       reviewEvidence: "Review evidence",
@@ -265,6 +275,7 @@
     bugcrowd: "Bugcrowd",
     ywh: "YesWeHack",
     src: "国内 SRC",
+    official: "厂商官方计划",
   };
   const esc = (value) =>
     String(value ?? "").replace(
@@ -313,7 +324,7 @@
     } catch {}
     lang = (p.get("lang") || stored) === "en" ? "en" : "zh";
     const selectedPlatform = names[p.get("platform")] ? p.get("platform") : "";
-    const defaultBounty = selectedPlatform === "src" ? "all" : "cash";
+    const defaultBounty = ["src", "official"].includes(selectedPlatform) ? "all" : "cash";
     const bounty = p.get("bounty") || defaultBounty;
     state = {
       q: p.get("q") || "",
@@ -337,7 +348,7 @@
   function saveURL() {
     const p = new URLSearchParams();
     const existing = new URLSearchParams(location.search);
-    ["dq", "dview", "dpage"].forEach((key) => { if (existing.has(key)) p.set(key, existing.get(key)); });
+    ["dq", "dview", "dpage", "dstatus"].forEach((key) => { if (existing.has(key)) p.set(key, existing.get(key)); });
     [
       ["q", state.q],
       ["platform", state.platform],
@@ -403,7 +414,7 @@
     $("platforms").innerHTML = stats.platforms
       .map(
         (p) =>
-          `<button class="platform-card" type="button" data-platform="${esc(p.key)}" aria-pressed="${state.platform === p.key}"><b>${esc(p.key === "src" ? t("srcName") : p.name)}</b><strong>${number(p.targets)}</strong><span>${esc(t("platformStats", { cash: number(p.cash), entries: number(p.entries) }))}</span></button>`,
+          `<button class="platform-card" type="button" data-platform="${esc(p.key)}" aria-pressed="${state.platform === p.key}"><b>${esc(p.key === "src" ? t("srcName") : p.key === "official" ? t("officialName") : p.name)}</b><strong>${number(p.targets)}</strong><span>${esc(t("platformStats", { cash: number(p.cash), entries: number(p.entries) }))}</span></button>`,
       )
       .join("");
   }
@@ -427,7 +438,7 @@
         : row.package_source === "play"
           ? "fromPlay"
           : row.package_source === "scope" ? "fromScope" : row.package_source === "store" ? "fromStore" : row.package_source === "evidence" ? "fromEvidence" : "unspecified";
-    return `<tr><td>${link(row.program, row.url)}<div class="apk-meta">${esc(row.platform === "src" ? t("srcName") : names[row.platform] || row.platform)} · ${esc(t(row.bounty))}</div><div class="apk-meta">${esc(t(row.scope_status || "unreviewed"))}${["paused","disabled","closed"].includes(row.program_state) ? " · " + esc(t("programPaused")) : ""}</div></td><td><div class="target-text" title="${esc(row.target)}">${esc(target)}</div><code class="package">${esc(row.package || t("missing"))}</code>${row.package ? `<span class="apk-review">${esc(t(source))}</span>` : ""}${row.scope_match_type ? `<div class="apk-meta">${esc(row.scope_match_type === "vendor_wide" ? t("vendorWide") : t("namedProduct"))}</div>` : ""}${row.scope_notes || row.scope_evidence ? `<details class="apk-meta"><summary>${esc(t("scopeBasis"))}</summary><p>${esc(row.scope_evidence)}</p><p>${esc(row.scope_notes)}</p></details>` : ""}</td><td><span class="reward-badge">${esc(t(row.bounty))}</span><div class="apk-meta">${esc(row.reward)}</div>${row.reward_conditions ? `<details class="apk-meta"><summary>${esc(t("rewardConditions"))}</summary><p>${esc(row.reward_conditions)}</p></details>` : ""}</td><td><div class="apk-links">${link(t("project"), row.url)}${link(t("scopeSource"), row.scope_source)}${link(t("reviewEvidence"), row.scope_review_source)}${link(t("submissionEvidence"), row.program_state_source)}${link(t("identitySource"), row.package_source_url)}${link(t(row.download_page && new URL(safeURL(row.download_page) || location.href).hostname === "sj.qq.com" ? "storeDownload" : "officialDownload"), row.download_page)}${row.download_notes ? `<details class="apk-meta"><summary>${esc(t("downloadNotes"))}</summary><p>${esc(row.download_notes)}</p></details>` : ""}${row.download_state === "store_maintenance" ? `<span class="apk-review">${esc(t("storeMaintenance"))}</span>` : ""}${link("Google Play", row.play)}${link(t("direct"), row.apk_direct)}${link(t("xapk"), row.xapk, true)}${link(t("apk"), row.apk, true)}</div></td></tr>`;
+    return `<tr><td>${link(row.program, row.url)}<div class="apk-meta">${esc(row.platform === "src" ? t("srcName") : row.platform === "official" ? t("officialName") : names[row.platform] || row.platform)} · ${esc(t(row.bounty))}</div><div class="apk-meta">${esc(t(row.historical_in_scope || row.current_scope_status === "paused_historical" ? "lastKnownScope" : row.scope_status || "unreviewed"))}${["paused","disabled","closed"].includes(row.program_state) ? " · " + esc(t("programPaused")) : row.submission_state === "unknown" || row.program_state === "unknown" ? " · " + esc(t("programUnknown")) : ""}</div></td><td><div class="target-text" title="${esc(row.target)}">${esc(target)}</div><code class="package">${esc(row.package || t("missing"))}</code>${row.package ? `<span class="apk-review">${esc(t(source))}</span>` : ""}${row.scope_match_type ? `<div class="apk-meta">${esc(row.scope_match_type === "vendor_wide" ? t("vendorWide") : row.scope_match_type === "publisher_rule" ? t("publisherScope") : row.scope_match_type === "named_product" ? t("namedProduct") : t("mappingBasis"))}</div>` : ""}${row.scope_notes || row.scope_evidence ? `<details class="apk-meta"><summary>${esc(t("scopeBasis"))}</summary><p>${esc(row.scope_evidence)}</p><p>${esc(row.scope_notes)}</p></details>` : ""}</td><td><span class="reward-badge">${esc(t(row.bounty))}</span><div class="apk-meta">${esc(row.reward)}</div>${row.reward_conditions ? `<details class="apk-meta"><summary>${esc(t("rewardConditions"))}</summary><p>${esc(row.reward_conditions)}</p></details>` : ""}</td><td><div class="apk-links">${link(t("project"), row.url)}${link(t("scopeSource"), row.scope_source)}${link(t("reviewEvidence"), row.scope_review_source)}${link(t("submissionEvidence"), row.program_state_source)}${link(t("identitySource"), row.package_source_url)}${link(t(row.download_page && new URL(safeURL(row.download_page) || location.href).hostname === "sj.qq.com" ? "storeDownload" : "officialDownload"), row.download_page)}${row.download_notes ? `<details class="apk-meta"><summary>${esc(t("downloadNotes"))}</summary><p>${esc(row.download_notes)}</p></details>` : ""}${row.download_state === "store_maintenance" ? `<span class="apk-review">${esc(t("storeMaintenance"))}</span>` : ""}${link("Google Play", row.play)}${link(t("direct"), row.apk_direct)}${link(t("xapk"), row.xapk, true)}${link(t("apk"), row.apk, true)}</div></td></tr>`;
   }
   function render() {
     if (!ready) return;
@@ -511,7 +522,7 @@
       rows = payload.rows.map((r) => ({
         ...r,
         search: normalizeText([r.program, r.target, r.package, r.platform, r.reward, r.vendor,
-          r.platform === "src" ? "国内 SRC" : ""].join(" ")),
+          r.platform === "src" ? "国内 SRC" : "", ...(Array.isArray(r.vendor_aliases) ? r.vendor_aliases : [])].join(" ")),
       }));
       stats = payload.stats;
       ready = true;
@@ -540,7 +551,7 @@
   ].forEach(([id, key]) =>
     $(id).addEventListener("change", (event) => {
       state[key] = event.target.value;
-      if (key === "platform" && state.platform === "src") state.bounty = "all";
+      if (key === "platform" && ["src", "official"].includes(state.platform)) state.bounty = "all";
       state.page = 1;
       syncControls();
       render();
@@ -554,7 +565,7 @@
           ? ""
           : button.dataset.platform;
       state.page = 1;
-      if (state.platform === "src") state.bounty = "all";
+      if (["src", "official"].includes(state.platform)) state.bounty = "all";
       syncControls();
       render();
     }

@@ -63,7 +63,7 @@ GitHub Pages 选择 `main` 的根目录。页面源码、`web/`、`索引/dashbo
 
 策略默认按 7 天重新核对，未找到的路径按 30 天重试，`first_seen` 保留、`last_verified` 更新。重新核对发生网络错误时保留上次有效快照；仅确认全部候选路径不存在才移出当前列表。分页中途失败或达到页数上限不标记完成；搜索的 `incomplete_results` 和 1,000 条上限记为未完整，不把搜索命中直接当已保存原文。
 
-`脚本/build_apk_board.py` 读取四份原始平台 JSON，输出 `赏金APK/dashboard.json`、CSV、分类说明和静态页面。页面模板为 `脚本/apk_dashboard.html`，交互为 `web/apk-board.js`；与主页共享明亮 / 深色主题、语言偏好和基础样式。`build_dashboard.py` 在每轮数据发布后调用该生成器，因此旧采集机的 HTML 不会覆盖发布仓库的新版界面。
+`脚本/build_apk_board.py` 读取四份平台 JSON、国内 `src_android.json` 和独立国外官方计划 `official_android.json`，输出 `赏金APK/dashboard.json`、CSV、分类说明和静态页面。页面模板为 `脚本/apk_dashboard.html`，交互为 `web/apk-board.js`；与主页共享明亮 / 深色主题、语言偏好和基础样式。`build_dashboard.py` 在每轮数据发布后调用该生成器，因此旧采集机的 HTML 不会覆盖发布仓库的新版界面。
 
 首屏静态输出前 25 条有赏金记录，完整 JSON 加载后再接管筛选、排序与分页；加载失败时保留首屏清单。Google Play、来源 APK 与第三方镜像候选分别标注，所有候选 `download_verified=false`。无效包名不会生成镜像候选。HackerOne 同时检查计划赏金、目标赏金资格、归档和接收状态，避免把公开 VDP 混作有赏金项目。
 
@@ -77,7 +77,11 @@ GitHub Pages 选择 `main` 的根目录。页面源码、`web/`、`索引/dashbo
 
 无运行状态的新克隆先从有效公开原文恢复正面记录，避免第一次补采覆盖既有索引；不据此制造历史负缓存。历史采集器的汇总数字在缺少原始目录时保留为历史未知，不能把丢失清单算成待查为零。有真实采集目录时，覆盖审计另输出逐仓库 `待检查仓库.json`，供后续重跑。
 
-`discover_vendor_apps.py` 将逐厂商发现队列、来源可访问性和 Android 商店证据写入 `vendor-app-discovery.json`。七麦共用入口的探测不算逐厂商七麦查询；商店首屏查询不声称覆盖该厂商全部应用。应用包名、开发者匹配和官方下载入口各有来源，发现候选由独立 UI 分页展示，不加入已确认 SRC 数量。国内包名不自动生成 Google Play 链接。
+`discover_vendor_apps.py` 将逐厂商队列、来源可访问性和Android商店证据写入 `vendor-app-discovery.json`。`baidu_market_pages.py` 按真实 `pn` / `hasNextPage` 遍历查询；`qq_publisher_apps.py` 记录开发者全称查询与无分页组件事实；`market_pagination.py` 保留分页终止、限流和未请求队列状态。七麦共用入口探测不算逐厂商查询；搜索结果结束也不证明厂商产品全集完整。国内包名不自动生成Google Play链接。
+
+`merge_app_reviews.py` 将逐App结论与独立身份来源合并。公开 `scope-review.json` 的 `rows` 固定对应原290条候选，`additional_reviews` 保存新增核查；`app-source-coverage.json` 的 `checks` 记录查询游标、响应哈希、缓存和实际网络尝试、停止原因，`sources` / `source_status` 汇总来源边界。`audit_coverage.py` 从这些账本生成机器摘要及 `docs/coverage.md`；原批次待补证与全发现目录待补证分别统计，不把列表遍历完成等同范围全部确认。
+
+暂停计划仍保存已证Android身份与当前或历史范围，同时标记 `paused` / `closed` 并保留暂停来源；当前接收情况未读到时标 `unknown`。赏金类型描述历史规则，当前可投状态另外计算。顺丰官方搜索索引的历史摘录与当次停服页面属于两份不同证据，不能共用政策原文哈希。发现目录保留未决、错归和排除结论，已收录目标也能查到状态与证据。
 
 搜索在全量记录上按规范化关键词和别名匹配，再排序分页。厂商目录有独立关键词和有限项目预览；点击进入厂商时清除冲突筛选。Android 搜索可提示被赏金等条件隐藏的全库命中，国内 SRC 入口默认展示全部状态，显式赏金筛选仍保留。
 

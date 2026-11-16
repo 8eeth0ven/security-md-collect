@@ -9,17 +9,17 @@
     />
     <meta name="theme-color" content="#ffffff" />
     <meta name="color-scheme" content="light dark" />
-    <script src="../web/theme.js?v=20261116-apk"></script>
+    <script src="../web/theme.js?v=20261116-round2"></script>
     <title>Android APK 目录 · SECURITY.md Collect</title>
     <link
       rel="icon"
       type="image/svg+xml"
-      href="../web/mark.svg?v=20261116-apk"
+      href="../web/mark.svg?v=20261116-round2"
     />
-    <link rel="stylesheet" href="../web/dashboard.css?v=20261116-apk" />
-    <link rel="stylesheet" href="../web/apk-board.css?v=20261116-apk" />
-    <script src="../web/apk-board.js?v=20261116-apk" defer></script>
-    <script src="../web/app-discovery.js?v=20261116" defer></script>
+    <link rel="stylesheet" href="../web/dashboard.css?v=20261116-round2" />
+    <link rel="stylesheet" href="../web/apk-board.css?v=20261116-round2" />
+    <script src="../web/apk-board.js?v=20261116-round2" defer></script>
+    <script src="../web/app-discovery.js?v=20261116-round2" defer></script>
   </head>
   <body class="apk-page">
     <a class="skip-link" href="#apk-catalog" data-i18n="skip">跳到应用目录</a>
@@ -206,6 +206,7 @@
                   <option value="bugcrowd">Bugcrowd</option>
                   <option value="ywh">YesWeHack</option>
                   <option value="src" data-i18n="srcName">国内 SRC</option>
+                  <option value="official" data-i18n="officialName">厂商官方计划</option>
                 </select></label
               ><label
                 ><span data-i18n="reward">赏金</span
@@ -315,10 +316,13 @@
             <a class="text-link" href="./vendor-app-discovery.json" data-discovery-i18n="data">发现记录 JSON ↗</a>
           </div>
           <p class="apk-meta" data-discovery-i18n="intro">逐厂商查找应用与 Android 身份。发现应用后仍需核对 SRC 范围；下方候选不计入已确认目标。</p>
+          <p id="discovery-review-summary" class="apk-meta" role="status"></p>
+          <p class="apk-shortcuts"><a class="text-link" href="./scope-review.json" data-discovery-i18n="reviewLedger">逐项核查结果 ↗</a><a class="text-link" href="./app-source-coverage.json" data-discovery-i18n="sourceLedger">分页来源与停止原因 ↗</a></p>
           <div class="filter-panel">
             <label class="search"><span aria-hidden="true">⌕</span><input id="discovery-q" type="search" placeholder="搜索厂商、应用或包名" aria-label="搜索厂商、应用或包名" /></label>
             <div class="filter-row">
               <label><span data-discovery-i18n="view">查看</span><select id="discovery-view"><option value="apps" data-discovery-i18n="apps">应用发现与待核</option><option value="vendors" data-discovery-i18n="vendors">全部厂商核查队列</option></select></label>
+              <label><span data-discovery-i18n="reviewFilter">范围 / 接收状态</span><select id="discovery-status"><option value="" data-discovery-i18n="allStates">全部状态</option><option value="confirmed" data-discovery-i18n="confirmedOnly">已关联范围</option><option value="pending" data-discovery-i18n="pendingOnly">范围待核</option><option value="paused" data-discovery-i18n="pausedOnly">暂停接收也收录</option><option value="excluded" data-discovery-i18n="excludedOnly">官方明确范围排除</option></select></label>
               <button type="button" id="discovery-reset" data-discovery-i18n="reset">重置</button>
             </div>
           </div>
