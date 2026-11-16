@@ -59,7 +59,16 @@ def main():
             domestic=sum(r['platform']=='src' for r in payload['rows'])
             expect(page.locator('#apk-count')).to_contain_text(str(domestic))
             assert page.locator('#apk-results a').filter(has_text='官方下载页').count()>0
-            expect(page.locator('#apk-results')).to_contain_text('商店维护中')
+            # Download availability changes independently of scope. Exercise the
+            # current snapshot's maintenance rows, even when they are off page 1.
+            maintenance = [r for r in payload['rows'] if r['platform']=='src' and r.get('download_state')=='store_maintenance']
+            if maintenance:
+                page.locator('#apk-q').fill(maintenance[0]['package'] or maintenance[0]['target'])
+                expect(page.locator('#apk-results')).to_contain_text('商店维护中')
+                page.locator('#apk-q').fill('')
+                expect(page.locator('#apk-count')).to_contain_text(str(domestic))
+            else:
+                expect(page.locator('#apk-results')).not_to_contain_text('商店维护中')
             page.locator('#apk-platform').select_option('h1')
             page.locator('#apk-next').click()
             assert 'page=2' in page.url
