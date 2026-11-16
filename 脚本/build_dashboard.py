@@ -44,6 +44,11 @@ def build_dashboard(base, stats=None, records=None):
                           for path in (base / '厂商').glob('*/*/SECURITY.md') if path.is_file())
     exact_paths = set(policy_paths)
     folded_paths = {path.casefold(): path for path in reversed(policy_paths)}
+    priority_path = base / '资产/重点项目.json'
+    priority = {}
+    if priority_path.exists():
+        priority = {str(p.get('repo', '')).casefold(): p for p in
+                    json.loads(priority_path.read_text(encoding='utf-8')).get('projects', [])}
     repos = []
     for record in sorted(records, key=lambda r: r['full_name'].lower()):
         vendor = record.get('vendor') or record['org']
@@ -57,6 +62,11 @@ def build_dashboard(base, stats=None, records=None):
             'path': record.get('sec_path') or 'SECURITY.md',
             'loc': quote(local_path, safe='/') if local_path else None,
         })
+        featured = priority.get(record['full_name'].casefold())
+        if featured:
+            repos[-1]['aliases'] = [str(alias) for alias in featured.get('aliases', [])]
+            repos[-1]['category'] = str(featured.get('category') or '')
+            repos[-1]['priority'] = True
     payload = {'stats': stats, 'repos': repos}
     atomic_text(base / '索引/dashboard.json', json.dumps(payload, ensure_ascii=False, separators=(',', ':')) + '\n')
     template = Path(__file__).with_name('dashboard.html').read_text(encoding='utf-8')

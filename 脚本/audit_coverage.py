@@ -13,6 +13,7 @@ def load(path, default):
 
 
 def audit(base, collector=None):
+    previous = load(base/'索引/coverage.json', {})
     records = [r for file in (base/'厂商').glob('*/repos.json') for r in load(file, [])
                if r.get('sec_path') and r['sec_path'] != 'error']
     vendors = load(base/'资产/vendors.json', [])
@@ -26,6 +27,8 @@ def audit(base, collector=None):
                          'Account default documents are counted once, not expanded across inheriting repos.',
                          'Successful listing does not prove all upstream repositories were enumerated.']}
     if collector:
+        if not (collector/'索引/state.json').is_file() or not (collector/'索引/orgs').is_dir():
+            raise ValueError('Collector state and repository catalog are required; missing files cannot be counted as zero pending.')
         state = load(collector/'索引/state.json', {})
         catalog = {full.casefold() for file in (collector/'索引/orgs').glob('*.json') for full in load(file,{})}
         checked = {full.casefold() for full in state.get('repos_checked', {})}
@@ -38,6 +41,26 @@ def audit(base, collector=None):
             'policy_found' if r['full_name'] in state.get('repos_data', {}) else
             'confirmed_absent' if r['full_name'] in state.get('repos_checked', {}) else 'unresolved'
             for r in quarantine))
+        pending = sorted(catalog-checked)
+        write(base/'索引/待检查仓库.json', json.dumps({
+            'generated_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),
+            'status': 'measured_from_local_collector', 'repositories': pending,
+            'count': len(pending)}, ensure_ascii=False, indent=2)+'\n')
+    else:
+        old = previous.get('security_md', {})
+        historical = old.get('historical_catalog_summary')
+        if not historical and 'never_checked_in_known_catalog' in old:
+            historical = {key: old.get(key) for key in ('known_catalog_repositories',
+                'checked_in_known_catalog', 'never_checked_in_known_catalog')}
+            historical['observed_at'] = previous.get('generated_at')
+        if historical:
+            policy['historical_catalog_summary'] = {**historical,
+                'status': 'source_manifest_unavailable',
+                'note': 'Historical aggregate only. The original state/orgs and per-repository pending list are unavailable; this run does not claim those repositories were completed.'}
+    priority = load(base/'索引/重点项目核查.json', {})
+    if priority:
+        policy['priority_audit'] = {k:v for k,v in priority.items() if k not in ('rows', 'account_defaults')}
+    discovery = load(base/'赏金APK/vendor-app-discovery.json', {})
     apk = build_apk_board(base)
     sources = load(base/'赏金APK/coverage.json', {})
     history = load(base/'赏金APK/history-review.json', {})
@@ -45,6 +68,13 @@ def audit(base, collector=None):
               'security_md': policy, 'android': apk, 'android_sources': sources.get('platforms', []),
               'domestic_src': load(base/'赏金APK/src-backlog.json', {}),'history_review':{k:v for k,v in history.items() if k!='rows'},
               'verdict': 'Incomplete: measured source coverage, with explicit unresolved and inaccessible scope.'}
+    if discovery:
+        report['app_discovery'] = {
+            'generated_at': discovery.get('generated_at'),
+            'vendors': len(discovery.get('vendors', [])), 'apps': len(discovery.get('apps', [])),
+            'vendor_status_counts': dict(Counter(r.get('status', 'unknown') for r in discovery.get('vendors', []))),
+            'scope_status_counts': dict(Counter(r.get('scope_status', 'unreviewed') for r in discovery.get('apps', []))),
+            'limits': discovery.get('limits', [])}
     write(base/'索引/coverage.json', json.dumps(report, ensure_ascii=False, indent=2)+'\n')
     lines = ['# 采集覆盖审计', '', '这份索引尚未覆盖所有 GitHub 安全策略，也未覆盖所有 SRC / 赏金 Android 应用。以下数字有明确来源边界，不宣称全网覆盖率。', '',
              '审计时间：'+report['generated_at'], '', '## SECURITY.md', '',
@@ -54,6 +84,14 @@ def audit(base, collector=None):
         lines += ['- 已知目录缓存 %s 个仓库，已检查 %s 个，尚未检查 %s 个。这个分母只是本机已经发现的仓库，不能当作 GitHub 的全部仓库。'%(policy['known_catalog_repositories'],policy['checked_in_known_catalog'],policy['never_checked_in_known_catalog'])]
         status = policy['historical_error_rechecks']
         lines += ['- 早前误收录的历史错误档案复核：找到策略 %s 条、确认无策略 %s 条、仍待复核 %s 条；原始档案保留以便追溯。'%(status.get('policy_found',0),status.get('confirmed_absent',0),status.get('unresolved',0))]
+        lines += ['- 可重跑的逐仓库待查清单：[待检查仓库.json](../索引/待检查仓库.json)。']
+    elif policy.get('historical_catalog_summary'):
+        h = policy['historical_catalog_summary']
+        lines += ['- 历史采集快照（%s）报告已发现 %s 个仓库、已检查 %s 个、未检查 %s 个。当前机器没有原始 `state.json` / `orgs/` 和这批未检查仓库的明细，不能复现原集合，也不能宣称已经清零。'%(h.get('observed_at','未记录'),h.get('known_catalog_repositories'),h.get('checked_in_known_catalog'),h.get('never_checked_in_known_catalog'))]
+    if priority:
+        counts = dict(Counter(r.get('result','unresolved') for r in priority.get('rows', [])))
+        lines += ['', '### 常见重点项目逐项核查', '',
+                  '本轮显式集合 %s 项，结果：%s。完整项目、HTTP证据与重试状态见[重点项目核查](../索引/重点项目核查.json)。这份集合独立于历史 221 项，不能互相替代。'%(len(priority.get('rows', [])), '；'.join('%s %s'%(k,v) for k,v in sorted(counts.items())))]
     lines += ['', '已补账户默认策略与公开范围中明确列出的 GitHub 仓库；已有策略每 7 天、未发现策略每 30 天重查。错误不进入正/负缓存，策略确认为删除后移出当前索引。部分分页失败重试；代码搜索超过 1,000 或 `incomplete_results` 单列，不能宣称扫全。', '',
               '[GitHub 官方继承规则](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)规定 `.github/` → 根目录 → `docs/`，当前仓库没有时使用账户 `.github` 仓库的默认文件。未映射账户、动态改名、私有仓库、非标准文件名仍是缺口。', '',
               '## Android 范围', '', '| 来源 | 源项目数 | 原始 Android 范围行 | 本轮来源观察 | 历史已官方核查 | 历史未核查 |', '| --- | ---: | ---: | ---: | ---: | ---: |']
@@ -92,6 +130,11 @@ def audit(base, collector=None):
               'python 脚本/audit_coverage.py --collector /path/to/local-collector', '```', '',
               'APK 更新命令只取公开元数据，全部抓取成功后才写快照；失败不会清空旧记录。每次更新应重建覆盖报告。策略补采与原定时采集共用独占锁。APK 源未加入无人值守调度，不能把手动更新说成持续实时同步。', '',
               '相关采集、增量合并与来源审计均有成熟先例，本轮不作原创声明。完整机器报告见 [索引/coverage.json](../索引/coverage.json)。', '']
+    if discovery:
+        lines += ['## 厂商应用发现与七麦来源', '',
+                  '- 逐厂商队列 %s 个，应用发现 %s 条；应用发现与已确认 SRC 目标分别计数。'%(len(discovery.get('vendors',[])),len(discovery.get('apps',[]))),
+                  '- 七麦页面空壳、接口访问受限或本轮未检索到结果，均不构成“该厂商没有应用”的证据。包名与开发者匹配用于发现，SRC 范围和奖励仍需官方证据。',
+                  '- [逐厂商状态和应用来源](../赏金APK/vendor-app-discovery.json) · [可搜索的发现目录](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html#app-discovery)', '']
     write(base/'docs/coverage.md', '\n'.join(lines))
     return policy
 

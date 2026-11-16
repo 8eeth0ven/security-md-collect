@@ -230,7 +230,38 @@ def load_state():
                 os.replace(STATE_PATH, STATE_PATH.with_suffix(".corrupt"))
             except Exception:
                 pass
-    return {"repos_checked": {}, "repos_data": {}, "orgs": {}, "search_swept": {}}
+    # A public checkout intentionally excludes private state. Preserve its real
+    # positive snapshots when a user starts collecting locally for the first
+    # time; absent/unchecked repositories cannot be reconstructed from counts.
+    state = {"repos_checked": {}, "repos_data": {}, "orgs": {}, "search_swept": {}}
+    for file in VDIR.glob("*/repos.json"):
+        try:
+            records = json.loads(file.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        if not isinstance(records, list):
+            continue
+        for record in records:
+            if not isinstance(record, dict):
+                continue
+            full = record.get('full_name') or ''
+            path = record.get('sec_path')
+            if not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9-]{0,38}/[A-Za-z0-9_.-]+', full):
+                continue
+            if not isinstance(path, str) or not path or path == 'error':
+                continue
+            document = file.parent / full.replace('/', '__') / 'SECURITY.md'
+            try:
+                if not document.is_file() or not document.read_bytes().strip():
+                    continue
+            except OSError:
+                continue
+            state['repos_data'][full] = record
+            state['repos_checked'][full] = {'sec_path': path,
+                'checked_at': record.get('last_verified') or record.get('first_seen') or ''}
+    if state['repos_data']:
+        log('从公开快照恢复 %d 条有本地原文的正面记录；历史负缓存和未检查集合仍未知' % len(state['repos_data']))
+    return state
 
 
 def save_state(state):

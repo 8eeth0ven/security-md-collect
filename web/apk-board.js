@@ -2,6 +2,13 @@
 (() => {
   const I18N = {
     zh: {
+      allSrc: "查看国内 SRC 全部状态",
+      scopeBasis: "范围与应用对应依据",
+      vendorWide: "集团范围关联 · 非逐包名清单",
+      namedProduct: "官方具名产品 · 包名另核",
+      submissionEvidence: "提交状态依据",
+      allMatches: "全库匹配 {n} 条；当前筛选显示 {shown} 条。",
+      broaden: "在全部状态中查找",
       srcName: "国内 SRC",
       scopeFilter: "核查状态",
       scopeAll: "全部核查状态",
@@ -22,6 +29,7 @@
       excluded: "范围外 / 非 Android",
       programPaused: "项目暂停 / 不接收",
       officialDownload: "官方下载页",
+      storeDownload: "应用商店详情",
       reviewEvidence: "核查证据",
       rewardConditions: "奖励条件",
       downloadNotes: "入口状态",
@@ -110,6 +118,9 @@
       missing: "包名待补充",
       manual: "人工映射 · 待核对",
       fromPlay: "Play 链接提取",
+      fromStore: "应用详情页核对",
+      fromEvidence: "包名证据已关联",
+      identitySource: "包名来源",
       unspecified: "包名来源未标注",
       platformStats: "{cash} 有赏金 / {entries} 个入口",
       errorTitle: "完整数据暂时无法加载",
@@ -117,6 +128,13 @@
       retry: "重新加载",
     },
     en: {
+      allSrc: "Browse all domestic SRC statuses",
+      scopeBasis: "Scope and app mapping",
+      vendorWide: "Vendor-wide scope · not a package allowlist",
+      namedProduct: "Officially named product · package checked separately",
+      submissionEvidence: "Submission status evidence",
+      allMatches: "{n} matches across all records; {shown} with current filters.",
+      broaden: "Search all statuses",
       srcName: "Domestic SRC",
       scopeFilter: "Scope review",
       scopeAll: "All review states",
@@ -137,6 +155,7 @@
       excluded: "Out of scope / not Android",
       programPaused: "Program paused / not accepting",
       officialDownload: "Official download page",
+      storeDownload: "App store listing",
       reviewEvidence: "Review evidence",
       rewardConditions: "Reward conditions",
       downloadNotes: "Download status",
@@ -228,6 +247,9 @@
       missing: "Package ID not available",
       manual: "Manual mapping · review",
       fromPlay: "Extracted from Play URL",
+      fromStore: "Checked against an app listing",
+      fromEvidence: "Package evidence linked",
+      identitySource: "Package source",
       unspecified: "Package source unspecified",
       platformStats: "{cash} bounty / {entries} with links",
       errorTitle: "Full data is temporarily unavailable",
@@ -281,6 +303,8 @@
     );
   const number = (value) =>
     Number(value).toLocaleString(lang === "zh" ? "zh-CN" : "en-US");
+  const normalizeText = (value) => String(value || "").normalize("NFKC").toLowerCase().replace(/[_/\-]+/g, " ");
+  const searchMatches = (row, query) => normalizeText(query).trim().split(/\s+/).filter(Boolean).every((part) => row.search.includes(part));
   function readState() {
     const p = new URLSearchParams(location.search);
     let stored;
@@ -288,15 +312,17 @@
       stored = localStorage.getItem("secmd_lang");
     } catch {}
     lang = (p.get("lang") || stored) === "en" ? "en" : "zh";
-    const bounty = p.get("bounty") || "cash";
+    const selectedPlatform = names[p.get("platform")] ? p.get("platform") : "";
+    const defaultBounty = selectedPlatform === "src" ? "all" : "cash";
+    const bounty = p.get("bounty") || defaultBounty;
     state = {
       q: p.get("q") || "",
-      platform: names[p.get("platform")] ? p.get("platform") : "",
+      platform: selectedPlatform,
       bounty: ["cash", "all", "vdp", "points", "unknown", "inactive", "excluded"].includes(
         bounty,
       )
         ? bounty
-        : "cash",
+        : defaultBounty,
       scope: ["current", "reviewed", "archived", "excluded", "unresolved"].includes(p.get("scope")) ? p.get("scope") : "",
       access: ["with", "missing", "review"].includes(p.get("access"))
         ? p.get("access")
@@ -310,6 +336,8 @@
   }
   function saveURL() {
     const p = new URLSearchParams();
+    const existing = new URLSearchParams(location.search);
+    ["dq", "dview", "dpage"].forEach((key) => { if (existing.has(key)) p.set(key, existing.get(key)); });
     [
       ["q", state.q],
       ["platform", state.platform],
@@ -398,8 +426,8 @@
         ? "manual"
         : row.package_source === "play"
           ? "fromPlay"
-          : row.package_source === "scope" ? "fromScope" : "unspecified";
-    return `<tr><td>${link(row.program, row.url)}<div class="apk-meta">${esc(row.platform === "src" ? t("srcName") : names[row.platform] || row.platform)} · ${esc(t(row.bounty))}</div><div class="apk-meta">${esc(t(row.scope_status || "unreviewed"))}${["paused","disabled","closed"].includes(row.program_state) ? " · " + esc(t("programPaused")) : ""}</div></td><td><div class="target-text" title="${esc(row.target)}">${esc(target)}</div><code class="package">${esc(row.package || t("missing"))}</code>${row.package ? `<span class="apk-review">${esc(t(source))}</span>` : ""}</td><td><span class="reward-badge">${esc(t(row.bounty))}</span><div class="apk-meta">${esc(row.reward)}</div>${row.reward_conditions ? `<details class="apk-meta"><summary>${esc(t("rewardConditions"))}</summary><p>${esc(row.reward_conditions)}</p></details>` : ""}</td><td><div class="apk-links">${link(t("project"), row.url)}${link(t("scopeSource"), row.scope_source)}${link(t("reviewEvidence"), row.scope_review_source)}${link(t("officialDownload"), row.download_page)}${row.download_notes ? `<details class="apk-meta"><summary>${esc(t("downloadNotes"))}</summary><p>${esc(row.download_notes)}</p></details>` : ""}${row.download_state === "store_maintenance" ? `<span class="apk-review">${esc(t("storeMaintenance"))}</span>` : ""}${link("Google Play", row.play)}${link(t("direct"), row.apk_direct)}${link(t("xapk"), row.xapk, true)}${link(t("apk"), row.apk, true)}</div></td></tr>`;
+          : row.package_source === "scope" ? "fromScope" : row.package_source === "store" ? "fromStore" : row.package_source === "evidence" ? "fromEvidence" : "unspecified";
+    return `<tr><td>${link(row.program, row.url)}<div class="apk-meta">${esc(row.platform === "src" ? t("srcName") : names[row.platform] || row.platform)} · ${esc(t(row.bounty))}</div><div class="apk-meta">${esc(t(row.scope_status || "unreviewed"))}${["paused","disabled","closed"].includes(row.program_state) ? " · " + esc(t("programPaused")) : ""}</div></td><td><div class="target-text" title="${esc(row.target)}">${esc(target)}</div><code class="package">${esc(row.package || t("missing"))}</code>${row.package ? `<span class="apk-review">${esc(t(source))}</span>` : ""}${row.scope_match_type ? `<div class="apk-meta">${esc(row.scope_match_type === "vendor_wide" ? t("vendorWide") : t("namedProduct"))}</div>` : ""}${row.scope_notes || row.scope_evidence ? `<details class="apk-meta"><summary>${esc(t("scopeBasis"))}</summary><p>${esc(row.scope_evidence)}</p><p>${esc(row.scope_notes)}</p></details>` : ""}</td><td><span class="reward-badge">${esc(t(row.bounty))}</span><div class="apk-meta">${esc(row.reward)}</div>${row.reward_conditions ? `<details class="apk-meta"><summary>${esc(t("rewardConditions"))}</summary><p>${esc(row.reward_conditions)}</p></details>` : ""}</td><td><div class="apk-links">${link(t("project"), row.url)}${link(t("scopeSource"), row.scope_source)}${link(t("reviewEvidence"), row.scope_review_source)}${link(t("submissionEvidence"), row.program_state_source)}${link(t("identitySource"), row.package_source_url)}${link(t(row.download_page && new URL(safeURL(row.download_page) || location.href).hostname === "sj.qq.com" ? "storeDownload" : "officialDownload"), row.download_page)}${row.download_notes ? `<details class="apk-meta"><summary>${esc(t("downloadNotes"))}</summary><p>${esc(row.download_notes)}</p></details>` : ""}${row.download_state === "store_maintenance" ? `<span class="apk-review">${esc(t("storeMaintenance"))}</span>` : ""}${link("Google Play", row.play)}${link(t("direct"), row.apk_direct)}${link(t("xapk"), row.xapk, true)}${link(t("apk"), row.apk, true)}</div></td></tr>`;
   }
   function render() {
     if (!ready) return;
@@ -408,7 +436,7 @@
       (r) =>
         (!state.platform || r.platform === state.platform) &&
         (state.bounty === "all" || r.bounty === state.bounty) &&
-        (!q || r.search.includes(q)) &&
+        (!q || searchMatches(r, q)) &&
         (!state.scope || (state.scope === "current" ? ["in_scope","source_listed"].includes(r.scope_status) && !["paused","disabled","closed"].includes(r.program_state)
           : state.scope === "reviewed" ? r.scope_observation === "reviewed"
           : state.scope === "archived" ? r.scope_status === "archived" || ["paused","disabled","closed"].includes(r.program_state)
@@ -442,6 +470,9 @@
       n: number(filtered.length),
       total: number(rows.length),
     });
+    const allMatches = rows.filter((r) => searchMatches(r, q)).length;
+    $("apk-search-help").innerHTML = q && allMatches > filtered.length
+      ? `<span>${esc(t("allMatches", { n: number(allMatches), shown: number(filtered.length) }))}</span><button type="button" id="apk-broaden">${esc(t("broaden"))}</button>` : "";
     $("apk-page-info").textContent = t("range", {
       from: filtered.length ? number(start + 1) : 0,
       to: number(Math.min(start + state.size, filtered.length)),
@@ -479,9 +510,8 @@
         throw new Error("Invalid APK snapshot");
       rows = payload.rows.map((r) => ({
         ...r,
-        search: [r.program, r.target, r.package, r.platform, r.reward]
-          .join(" ")
-          .toLowerCase(),
+        search: normalizeText([r.program, r.target, r.package, r.platform, r.reward, r.vendor,
+          r.platform === "src" ? "国内 SRC" : ""].join(" ")),
       }));
       stats = payload.stats;
       ready = true;
@@ -510,7 +540,9 @@
   ].forEach(([id, key]) =>
     $(id).addEventListener("change", (event) => {
       state[key] = event.target.value;
+      if (key === "platform" && state.platform === "src") state.bounty = "all";
       state.page = 1;
+      syncControls();
       render();
     }),
   );
@@ -522,6 +554,7 @@
           ? ""
           : button.dataset.platform;
       state.page = 1;
+      if (state.platform === "src") state.bounty = "all";
       syncControls();
       render();
     }
@@ -569,6 +602,11 @@
     translate();
   });
   $("apk-retry").addEventListener("click", load);
+  $("apk-search-help").addEventListener("click", (event) => {
+    if (!event.target.closest("#apk-broaden")) return;
+    Object.assign(state, { platform: "", bounty: "all", scope: "", access: "", page: 1 });
+    syncControls(); render();
+  });
   window.addEventListener("popstate", () => {
     readState();
     translate();

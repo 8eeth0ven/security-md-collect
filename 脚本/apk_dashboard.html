@@ -9,16 +9,17 @@
     />
     <meta name="theme-color" content="#ffffff" />
     <meta name="color-scheme" content="light dark" />
-    <script src="../web/theme.js?v=20261113-apk"></script>
+    <script src="../web/theme.js?v=20261116-apk"></script>
     <title>Android APK 目录 · SECURITY.md Collect</title>
     <link
       rel="icon"
       type="image/svg+xml"
-      href="../web/mark.svg?v=20261113-apk"
+      href="../web/mark.svg?v=20261116-apk"
     />
-    <link rel="stylesheet" href="../web/dashboard.css?v=20261113-apk" />
-    <link rel="stylesheet" href="../web/apk-board.css?v=20261113-apk" />
-    <script src="../web/apk-board.js?v=20261113-apk" defer></script>
+    <link rel="stylesheet" href="../web/dashboard.css?v=20261116-apk" />
+    <link rel="stylesheet" href="../web/apk-board.css?v=20261116-apk" />
+    <script src="../web/apk-board.js?v=20261116-apk" defer></script>
+    <script src="../web/app-discovery.js?v=20261116" defer></script>
   </head>
   <body class="apk-page">
     <a class="skip-link" href="#apk-catalog" data-i18n="skip">跳到应用目录</a>
@@ -43,6 +44,9 @@
           ><span data-i18n="navDirectory">赏金 APK 目录</span
           ><span class="nav-pill">@@TOTAL@@</span></a
         >
+      </nav>
+      <nav aria-label="App discovery">
+        <a class="nav-item" href="#app-discovery"><span aria-hidden="true">◇</span><span data-discovery-i18n="title">厂商应用发现</span></a>
       </nav>
       <div class="nav-caption" data-i18n="resources">项目资源</div>
       <nav aria-label="Project resources">
@@ -178,6 +182,10 @@
             >
           </div>
           <div class="platform-grid" id="platforms">@@PLATFORMS@@</div>
+          <div class="apk-shortcuts">
+            <a class="text-link" href="?platform=src&amp;bounty=all#apk-catalog" data-i18n="allSrc">查看国内 SRC 全部状态</a>
+            <a class="text-link" href="#app-discovery" data-discovery-i18n="browse">查看厂商应用与待核清单</a>
+          </div>
           <div class="filter-panel">
             <label class="search"
               ><span aria-hidden="true">⌕</span
@@ -240,6 +248,7 @@
               </button>
             </div>
           </div>
+          <div class="apk-search-help" id="apk-search-help" role="status" aria-live="polite"></div>
           <div class="results-bar">
             <span
               id="apk-count"
@@ -299,6 +308,24 @@
               </button>
             </div>
           </div>
+        </section>
+        <section id="app-discovery" aria-labelledby="discovery-title">
+          <div class="section-heading">
+            <h2 id="discovery-title" data-discovery-i18n="title">厂商应用发现</h2>
+            <a class="text-link" href="./vendor-app-discovery.json" data-discovery-i18n="data">发现记录 JSON ↗</a>
+          </div>
+          <p class="apk-meta" data-discovery-i18n="intro">逐厂商查找应用与 Android 身份。发现应用后仍需核对 SRC 范围；下方候选不计入已确认目标。</p>
+          <div class="filter-panel">
+            <label class="search"><span aria-hidden="true">⌕</span><input id="discovery-q" type="search" placeholder="搜索厂商、应用或包名" aria-label="搜索厂商、应用或包名" /></label>
+            <div class="filter-row">
+              <label><span data-discovery-i18n="view">查看</span><select id="discovery-view"><option value="apps" data-discovery-i18n="apps">应用发现与待核</option><option value="vendors" data-discovery-i18n="vendors">全部厂商核查队列</option></select></label>
+              <button type="button" id="discovery-reset" data-discovery-i18n="reset">重置</button>
+            </div>
+          </div>
+          <p id="discovery-count" class="apk-meta" role="status" aria-live="polite"></p>
+          <div id="discovery-results" class="app-discovery-grid"></div>
+          <div class="pagination"><span id="discovery-range"></span><div><button id="discovery-prev" type="button" data-discovery-i18n="prev">上一页</button><span id="discovery-page"></span><button id="discovery-next" type="button" data-discovery-i18n="next">下一页</button></div></div>
+          <p id="discovery-source-note" class="apk-meta"></p>
         </section>
         <details class="apk-explainer">
           <summary>

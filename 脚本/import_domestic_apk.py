@@ -25,7 +25,7 @@ def import_rows(base, evidence_path, source_manifest=None):
         confirmed.append({
             'handle':raw['src_name'], 'program':raw['vendor']+' · '+raw['src_name'], 'vendor':raw['vendor'],
             'program_url':scope,'target':raw['product'], 'package':package or None,
-            'package_source':'scope包名' if package else None,
+            'package_source':raw.get('package_source') or ('scope包名' if package else None),
             'package_source_url':safe_url(raw.get('package_source_url')),
             'scope_source':scope,'scope_review_source':scope,'scope_status':'in_scope',
             'scope_observation':'observed','scope_observed_at':raw['observed_at'],
@@ -35,6 +35,14 @@ def import_rows(base, evidence_path, source_manifest=None):
             'download_notes':str(raw.get('download_notes') or ''),
             'download_metadata':raw.get('download_metadata'),
             'download_verified':False,
+            'scope_match_type':raw.get('scope_match_type','named_product'),
+            'scope_notes':str(raw.get('scope_notes') or ''),
+            'ownership_source_url':safe_url(raw.get('ownership_source_url')),
+            'developer':str(raw.get('developer') or ''),
+            'scope_observation_metadata':raw.get('scope_observation_metadata'),
+            'program_state':raw.get('program_state','unknown'),
+            'submission_state':raw.get('submission_state','unknown'),
+            'program_state_source':safe_url(raw.get('program_state_source')),
         })
     # A repeated import replaces exact vendor/product identities, rather than duplicating them.
     confirmed = list({(r['vendor'],r['target']):r for r in confirmed}.values())

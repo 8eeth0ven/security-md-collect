@@ -1,3 +1,31 @@
+.apk-shortcuts, .apk-search-help {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  margin: 12px 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+.apk-search-help:empty { display: none; }
+#app-discovery { margin: 32px 0; scroll-margin-top: 20px; }
+.app-discovery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+.app-discovery-card {
+  min-width: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--wh-radius, 10px);
+  padding: 16px;
+  background: var(--surface);
+  overflow-wrap: anywhere;
+}
+.app-discovery-card h3 { margin: 0 0 8px; font-size: 14px; font-weight: 600; }
+.app-discovery-card .apk-meta { font-size: 12px; line-height: 1.65; }
+.app-discovery-card .apk-links { margin-top: 10px; }
 .apk-hero {
   min-height: 345px;
 }

@@ -2,6 +2,7 @@
 (() => {
   const strings = {
     zh: {
+      priorityAudit: "重点项目逐项核查",
       coverage: "覆盖与待补清单",
       skip: "跳到仓库目录",
       workspace: "探索数据",
@@ -38,7 +39,21 @@
       scopeNote:
         "收录安全策略不代表仓库在赏金范围内。研究前，请以厂商当前的官方范围与规则为准。",
       json: "获取 JSON 数据 ↗",
-      search: "搜索仓库、厂商、语言或描述…",
+      search: "搜索全部仓库：项目名、厂商或多个关键词…",
+      searchHelp: "搜索全部收录，不受当前页限制；多个关键词用空格分开，例如「阿里 fastjson」。",
+      searchAll: "全部 {n} 个已收录仓库均参与搜索",
+      searchFiltered: "当前附加筛选：{filters}。关键词在全库命中 {n} 个仓库。",
+      widenSearch: "移除附加筛选，查看 {n} 个全库结果",
+      emptyReset: "清空关键词与筛选",
+      directorySearch: "搜索厂商、组织或其项目…",
+      clearDirectory: "清空目录搜索",
+      directoryCount: "{n} 个厂商 · {repos} 个匹配仓库",
+      directoryEmpty: "没有匹配的厂商或项目。可清空目录搜索，或到仓库搜索中更换关键词。",
+      previewCount: "{matched} / {total} 个仓库",
+      previewMore: "显示前 {n} 个，按星数排列。",
+      viewVendor: "查看全部 {n} 个匹配仓库 →",
+      noPolicies: "尚无已收录策略",
+      directoryPreview: "展开厂商，直接查看匹配项目；点“查看全部”进入仓库列表。",
       vendorLabel: "厂商",
       languageLabel: "语言",
       reset: "重置筛选",
@@ -66,12 +81,13 @@
       retry: "重新加载",
       failed: "以下组织的列表采集待重试：{orgs}",
       expand: "展开 / 收起目录",
-      vendorIntro: "按收录数排列。可筛选仓库或查看厂商数据。",
+      vendorIntro: "搜索厂商名称、GitHub 组织或项目名。目录搜索独立于上方仓库筛选。",
       list: "仓库清单 ↗",
       footer: "公开策略索引 · 原文版权归各仓库所有者",
       contribute: "参与维护 ↗",
     },
     en: {
+      priorityAudit: "Priority project checks",
       coverage: "Coverage & gaps",
       skip: "Skip to repositories",
       workspace: "EXPLORE",
@@ -109,7 +125,21 @@
       scopeNote:
         "A security policy does not imply bounty eligibility. Check the current official scope and rules before researching.",
       json: "Get JSON data ↗",
-      search: "Search repositories, vendors, languages or descriptions…",
+      search: "Search all repositories: projects, vendors or keywords…",
+      searchHelp: "Search the entire collection, across all pages. Separate keywords with spaces, e.g. Alibaba fastjson.",
+      searchAll: "Searching all {n} indexed repositories",
+      searchFiltered: "Additional filters: {filters}. Keywords match {n} repositories in the full collection.",
+      widenSearch: "Remove additional filters · show all {n} matches",
+      emptyReset: "Clear keywords and filters",
+      directorySearch: "Search vendors, organizations or their projects…",
+      clearDirectory: "Clear directory search",
+      directoryCount: "{n} vendors · {repos} matching repositories",
+      directoryEmpty: "No matching vendors or projects. Clear this search or try another repository keyword.",
+      previewCount: "{matched} / {total} repositories",
+      previewMore: "Showing the top {n} by stars.",
+      viewVendor: "View all {n} matching repositories →",
+      noPolicies: "No indexed policies yet",
+      directoryPreview: "Expand a vendor to preview matching projects, then view its full repository list.",
       vendorLabel: "Vendor",
       languageLabel: "Language",
       reset: "Reset filters",
@@ -140,7 +170,7 @@
       failed: "Organization lists pending retry: {orgs}",
       expand: "Expand / collapse directory",
       vendorIntro:
-        "Sorted by repository count. Filter the collection or view vendor data.",
+        "Search by vendor, GitHub organization or project. Directory search is separate from the repository filters above.",
       list: "Repository list ↗",
       footer:
         "Public policy index · Policy copyrights belong to their respective owners",
@@ -161,7 +191,30 @@
           "'": "&#39;",
         })[c],
     );
-  const nrm = (value) => String(value ?? "").toLocaleLowerCase();
+  const nrm = (value) => String(value ?? "").normalize("NFKC").toLocaleLowerCase();
+  const tokens = (value) => [...new Set(nrm(value).split(/[^\p{L}\p{N}+#]+/u).filter(Boolean))];
+  // Search aliases describe names only; they do not imply program scope or ownership.
+  const aliasGroups = [
+    ["阿里巴巴", "阿里", "alibaba"],
+    ["阿里云", "aliyun", "alibabacloud", "alibaba cloud"],
+    ["腾讯", "tencent", "腾讯云", "微信", "wechat"],
+    ["百度", "baidu"], ["字节跳动", "字节", "bytedance"],
+    ["华为", "huawei"], ["小米", "xiaomi"], ["京东", "jd", "jd.com"],
+    ["蚂蚁集团", "蚂蚁", "antgroup", "ant group", "alipay", "支付宝"],
+    ["美团", "meituan"], ["网易", "netease"], ["滴滴", "didi"],
+    ["快手", "kuaishou"], ["哔哩哔哩", "bilibili", "b站"],
+    ["微软", "microsoft"], ["谷歌", "google"], ["亚马逊", "amazon", "aws"],
+    ["苹果", "apple"], ["脸书", "facebook", "meta"],
+    ["Apache软件基金会", "apache", "阿帕奇"],
+    ["CNCF云原生基金会", "cncf", "云原生"],
+  ];
+  const aliasesFor = (vendor, owner = "") => {
+    const labels = [nrm(vendor), nrm(owner)];
+    return aliasGroups.filter((group) => group.some((label) => labels.includes(nrm(label))))
+      .flat().join(" ");
+  };
+  const matches = (record, queryTokens) => queryTokens.every((token) => record.search.includes(token));
+  const byStars = (a, b) => (b.s ?? -1) - (a.s ?? -1) || a.f.localeCompare(b.f);
   const storedLanguage = () => {
     try {
       return localStorage.getItem("secmd_lang");
@@ -174,7 +227,9 @@
     repos = [],
     stats = null,
     filtered = [],
-    ready = false;
+    ready = false,
+    activeSearchStream = null,
+    vendorRepos = new Map();
   function readState() {
     const p = new URLSearchParams(location.search);
     const language = p.get("lang") || storedLanguage();
@@ -184,6 +239,8 @@
       v: p.get("vendor") || "",
       l: p.get("language") || "",
       src: p.get("src") || "",
+      dq: p.get("directory") || "",
+      openVendor: p.get("preview") || "",
       sort: validSort.includes(p.get("sort")) ? p.get("sort") : "s",
       direction: p.get("direction") === "asc" ? 1 : -1,
       page: Math.max(1, Math.floor(Number(p.get("page")) || 1)),
@@ -201,13 +258,15 @@
     Number(n).toLocaleString(lang === "zh" ? "zh-CN" : "en-US");
   const repoURL = (r) =>
     `https://github.com/${r.f.split("/").map(encodeURIComponent).join("/")}`;
-  function saveURL() {
+  function saveURL(mode = "replace", hash = location.hash) {
     const p = new URLSearchParams();
     [
       ["q", state.q],
       ["vendor", state.v],
       ["language", state.l],
       ["src", state.src],
+      ["directory", state.dq],
+      ["preview", state.openVendor],
       ["sort", state.sort !== "s" ? state.sort : ""],
       ["direction", state.direction === 1 ? "asc" : ""],
       ["page", state.page > 1 ? state.page : ""],
@@ -217,14 +276,24 @@
       if (v) p.set(k, v);
     });
     try {
-      history.replaceState(
-        null,
-        "",
-        `${location.pathname}${p.size ? "?" + p.toString() : ""}${location.hash}`,
-      );
+      const url = `${location.pathname}${p.size ? "?" + p.toString() : ""}${hash}`;
+      const stream = ["catalog-search", "directory-search"].includes(mode) ? mode : null;
+      const push = mode === "push" || (stream && activeSearchStream !== stream);
+      if (url !== `${location.pathname}${location.search}${location.hash}`)
+        history[push ? "pushState" : "replaceState"](null, "", url);
+      if (mode !== "replace") activeSearchStream = stream;
+      syncNavigation();
     } catch {
       /* A static file preview may disallow history. */
     }
+  }
+  function syncNavigation() {
+    document.querySelectorAll('.sidebar .nav-item[href^="#"]').forEach((link) => {
+      const active = link.getAttribute("href") === (location.hash === "#vendors" ? "#vendors" : "#catalog");
+      link.classList.toggle("active", active);
+      if (active) link.setAttribute("aria-current", "location");
+      else link.removeAttribute("aria-current");
+    });
   }
   function fill(id, key, label) {
     const select = $(id);
@@ -241,6 +310,7 @@
   }
   function syncControls() {
     $("q").value = state.q;
+    $("vendor-q").value = state.dq;
     $("page-size").value = state.size;
     fill("fv", "v", "allVendors");
     fill("fl", "l", "allLanguages");
@@ -258,6 +328,8 @@
       else el.textContent = t(el.dataset.i18n);
     });
     $("q").placeholder = t("search");
+    $("vendor-q").placeholder = t("directorySearch");
+    $("vendor-q").setAttribute("aria-label", t("directorySearch"));
     $("theme-select").setAttribute("aria-label", t("appearance"));
     $("theme-select").value = window.secmdTheme.preference;
     $("q").setAttribute("aria-label", t("search"));
@@ -287,50 +359,101 @@
     $("retry-note").hidden = !failed.length;
     $("retry-note").textContent = t("failed", { orgs: failed.join(", ") });
   }
+  function selectVendor(vendor, query) {
+    clearTimeout(searchTimer);
+    state = { ...state, v: vendor, q: query, l: "", src: "", page: 1 };
+    syncControls();
+    render("push", "#catalog");
+    $("catalog").scrollIntoView({ block: "start" });
+  }
   function renderVendors() {
     if (!stats) return;
+    const queryTokens = tokens(state.dq);
+    const entries = stats.vendors.map((vendor) => {
+      const all = vendorRepos.get(vendor.vendor) || [];
+      const vendorSearch = nrm([vendor.vendor, vendor.src, ...(vendor.orgs || []),
+        aliasesFor(vendor.vendor)].join(" "));
+      const vendorMatches = queryTokens.every((term) => vendorSearch.includes(term));
+      const found = queryTokens.length && !vendorMatches ? all.filter((r) => matches(r, queryTokens)) : all;
+      return { ...vendor, all, found, visible: !queryTokens.length || vendorMatches || found.length > 0 };
+    }).filter((vendor) => vendor.visible).sort((a, b) =>
+      b.found.length - a.found.length || a.vendor.localeCompare(b.vendor));
     const fragment = document.createDocumentFragment();
-    [...stats.vendors]
-      .sort(
-        (a, b) => b.sec_repos - a.sec_repos || a.vendor.localeCompare(b.vendor),
-      )
-      .forEach((v) => {
-        const article = document.createElement("article");
-        article.className = "vendor-card";
-        const button = document.createElement("button");
-        button.type = "button";
-        const name = document.createElement("span");
-        name.textContent = v.vendor;
-        const count = document.createElement("b");
-        count.textContent = number(v.sec_repos);
-        button.append(name, count);
-        button.addEventListener("click", () => {
-          state.v = v.vendor;
-          state.page = 1;
-          $("fv").value = state.v;
-          render();
-          $("catalog").scrollIntoView();
-        });
-        const source = document.createElement("p");
-        source.textContent = v.src || t("unknown");
-        article.append(button, source);
-        const folder = encodeURIComponent(
-          v.vendor
-            .replace(/[\\/:*?"<>|\r\n\t]/g, "_")
-            .trim()
-            .replace(/^\.+|\.+$/g, "") || "_unnamed",
-        );
-        [
-          [t("list"), `./厂商/${folder}/清单.md`],
-          ["JSON ↗", `./厂商/${folder}/repos.json`],
-        ].forEach(([label, href]) => {
-          const a = document.createElement("a");
-          a.textContent = label;
-          a.href = href;
-          article.append(a);
-        });
-        fragment.append(article);
+    for (const v of entries) {
+      const article = document.createElement("article");
+      article.className = "vendor-card";
+      const details = document.createElement("div");
+      details.className = "vendor-preview";
+      const isOpen = state.openVendor === v.vendor;
+      const summary = document.createElement("button");
+      summary.type = "button";
+      summary.className = "vendor-toggle";
+      summary.dataset.vendor = v.vendor;
+      summary.setAttribute("aria-expanded", String(isOpen));
+      const previewId = `vendor-projects-${encodeURIComponent(v.vendor)}`;
+      summary.setAttribute("aria-controls", previewId);
+      summary.innerHTML = `<strong>${esc(v.vendor)}</strong><span>${esc(queryTokens.length
+        ? t("previewCount", { matched: number(v.found.length), total: number(v.all.length) })
+        : t("result", { n: number(v.all.length) }))}<span class="vendor-chevron" aria-hidden="true">${isOpen ? "−" : "+"}</span></span>`;
+      summary.addEventListener("click", (event) => {
+        event.preventDefault();
+        state.openVendor = isOpen ? "" : v.vendor;
+        renderVendors();
+        [...$("vendor-grid").querySelectorAll(".vendor-toggle")]
+          .find((el) => el.dataset.vendor === v.vendor)?.focus({ preventScroll: true });
+        saveURL("push", "#vendors");
       });
+      const source = document.createElement("p");
+      source.textContent = [v.src || t("unknown"), (v.orgs || []).join(" · ")].filter(Boolean).join(" · ");
+      details.append(summary, source);
+      const previewBody = document.createElement("div");
+      previewBody.id = previewId;
+      previewBody.hidden = !isOpen;
+      details.append(previewBody);
+      if (isOpen) {
+        const preview = document.createElement("ul");
+        preview.className = "vendor-repo-preview";
+        for (const r of v.found.slice(0, 8)) {
+          const li = document.createElement("li");
+          const policy = r.loc ? `./${r.loc}` : `${repoURL(r)}/blob/HEAD/${r.path.split("/").map(encodeURIComponent).join("/")}`;
+          li.innerHTML = `<a href="${repoURL(r)}">${esc(r.f)}</a><a class="preview-policy" href="${esc(policy)}">${esc(t("policy"))} ↗</a>`;
+          preview.append(li);
+        }
+        previewBody.append(preview);
+        if (v.found.length > 8) {
+          const hint = document.createElement("p");
+          hint.textContent = t("previewMore", { n: 8 });
+          previewBody.append(hint);
+        }
+        if (!v.found.length) {
+          const empty = document.createElement("p");
+          empty.textContent = t("noPolicies");
+          previewBody.append(empty);
+        }
+      }
+      const view = document.createElement("button");
+      view.className = "view-vendor";
+      view.type = "button";
+      view.textContent = t("viewVendor", { n: number(v.found.length) });
+      view.disabled = !v.found.length;
+      view.addEventListener("click", () => selectVendor(v.vendor, state.dq));
+      const links = document.createElement("div");
+      links.className = "vendor-data-links";
+      const folder = encodeURIComponent(v.vendor.replace(/[\\/:*?"<>|\r\n\t]/g, "_").trim().replace(/^\.+|\.+$/g, "") || "_unnamed");
+      links.innerHTML = `<a href="./厂商/${folder}/清单.md">${esc(t("list"))}</a><a href="./厂商/${folder}/repos.json">JSON ↗</a>`;
+      article.append(details, view, links);
+      fragment.append(article);
+    }
+    if (!entries.length) {
+      const empty = document.createElement("p");
+      empty.className = "directory-empty";
+      empty.textContent = t("directoryEmpty");
+      fragment.append(empty);
+    }
+    $("vendor-count").textContent = t("directoryCount", {
+      n: number(entries.length), repos: number(entries.reduce((total, v) => total + v.found.length, 0)),
+    });
+    $("vendor-reset").disabled = !state.dq;
     $("vendor-grid").replaceChildren(fragment);
   }
   const languageColors = {
@@ -346,17 +469,30 @@
     Ruby: "#d58b87",
     Shell: "#b2d19c",
   };
-  function render() {
+  function render(historyMode = "replace", hash = location.hash) {
     if (!ready) return;
-    const q = nrm(state.q.trim());
-    filtered = repos.filter(
-      (r) =>
-        (!state.v || r.v === state.v) &&
-        (!state.l || r.l === state.l) &&
-        (!state.src || r.src === state.src) &&
-        (!q || r.search.includes(q)),
-    );
+    const queryTokens = tokens(state.q);
+    const globalMatches = repos.filter((r) => matches(r, queryTokens));
+    filtered = globalMatches.filter((r) =>
+      (!state.v || r.v === state.v) && (!state.l || r.l === state.l) && (!state.src || r.src === state.src));
+    const extraFilters = [state.v, state.l, state.src].filter(Boolean);
+    $("search-context").hidden = false;
+    $("search-scope").textContent = extraFilters.length
+      ? t("searchFiltered", { filters: extraFilters.join(" · "), n: number(globalMatches.length) })
+      : t("searchAll", { n: number(repos.length) });
+    $("widen-search").hidden = !extraFilters.length || globalMatches.length === filtered.length;
+    $("widen-search").textContent = t("widenSearch", { n: number(globalMatches.length) });
+    const nameScore = (r) => {
+      const full = nrm(r.f), name = full.split("/")[1];
+      const query = nrm(state.q.trim());
+      return (name === query || full === query ? 100 : 0)
+        + (queryTokens.every((token) => full.includes(token)) ? 10 : 0);
+    };
     filtered.sort((a, b) => {
+      if (queryTokens.length && state.sort === "s") {
+        const relevance = nameScore(b) - nameScore(a);
+        if (relevance) return relevance;
+      }
       const diff =
         state.sort === "s"
           ? (a.s ?? -1) - (b.s ?? -1)
@@ -379,7 +515,7 @@
           return `<tr><td><a class="repo-title" href="${url}">${esc(r.f)}<span class="arrow" aria-hidden="true">↗</span></a>${r.lic ? `<span class="license">${esc(r.lic)}</span>` : ""}<div class="repo-description">${esc(r.d || "—")}</div></td><td><div class="vendor-name">${esc(r.v)}</div><div class="src-name">${esc(r.src || t("unknown"))}</div></td><td><span class="language" style="--lang-color:${languageColors[r.l] || "#b4b4b4"}">${esc(r.l || "—")}</span></td><td class="stars"><span class="star-icon" aria-hidden="true">☆</span>${r.s == null ? "—" : number(r.s)}</td><td><div class="policy-links">${r.loc ? `<a href="./${esc(r.loc)}" aria-label="${esc(r.f)} ${esc(t("local"))}">${t("local")}</a>` : ""}<a class="upstream" href="${policy}" aria-label="${esc(r.f)} GitHub SECURITY.md">${t("upstream")}</a></div></td></tr>`;
         })
         .join("") ||
-      `<tr><td class="empty" colspan="5">${esc(t("empty"))}</td></tr>`;
+      `<tr><td class="empty" colspan="5"><p>${esc(t("empty"))}</p><button type="button" data-empty-reset>${esc(t("emptyReset"))}</button></td></tr>`;
     $("result-count").textContent = t("result", { n: number(filtered.length) });
     $("page-info").textContent = t("range", {
       from: filtered.length ? number(start + 1) : "0",
@@ -399,7 +535,7 @@
           : "none",
       );
     });
-    saveURL();
+    saveURL(historyMode, hash);
   }
   async function load() {
     ready = false;
@@ -419,9 +555,16 @@
         throw new Error("Invalid dashboard snapshot");
       repos = payload.repos.map((r) => ({
         ...r,
-        search: nrm([r.f, r.v, r.l, r.src, r.lic, r.d].join(" ")),
+        search: nrm([r.f, r.f.replace(/[-_/\.]/g, " "), r.v, r.l, r.src, r.lic, r.d, r.name, r.category,
+          ...(Array.isArray(r.aliases) ? r.aliases : []), aliasesFor(r.v, r.f.split("/")[0])].join(" ")),
       }));
       stats = payload.stats;
+      vendorRepos = new Map();
+      for (const r of repos) {
+        if (!vendorRepos.has(r.v)) vendorRepos.set(r.v, []);
+        vendorRepos.get(r.v).push(r);
+      }
+      for (const records of vendorRepos.values()) records.sort(byStars);
       ready = true;
       translate();
     } catch (error) {
@@ -439,7 +582,36 @@
     state.q = e.target.value;
     state.page = 1;
     clearTimeout(searchTimer);
-    searchTimer = setTimeout(render, 120);
+    searchTimer = setTimeout(() => render("catalog-search"), 180);
+  });
+  $("q").addEventListener("blur", () => { activeSearchStream = null; });
+  $("vendor-q").addEventListener("blur", () => { activeSearchStream = null; });
+  let directoryTimer;
+  $("vendor-q").addEventListener("input", (e) => {
+    state.dq = e.target.value;
+    state.openVendor = "";
+    clearTimeout(directoryTimer);
+    directoryTimer = setTimeout(() => {
+      renderVendors();
+      saveURL("directory-search", "#vendors");
+    }, 180);
+  });
+  $("vendor-reset").addEventListener("click", () => {
+    clearTimeout(directoryTimer);
+    state.dq = "";
+    state.openVendor = "";
+    $("vendor-q").value = "";
+    renderVendors();
+    saveURL("push", "#vendors");
+    $("vendor-q").focus();
+  });
+  $("widen-search").addEventListener("click", () => {
+    state = { ...state, v: "", l: "", src: "", page: 1 };
+    syncControls();
+    render("push");
+  });
+  $("results").addEventListener("click", (e) => {
+    if (e.target.closest("[data-empty-reset]")) $("reset").click();
   });
   [
     ["fv", "v"],
@@ -449,7 +621,7 @@
     $(id).addEventListener("change", (e) => {
       state[key] = e.target.value;
       state.page = 1;
-      render();
+      render("push");
     }),
   );
   $("reset").addEventListener("click", () => {
@@ -464,12 +636,12 @@
       page: 1,
     };
     syncControls();
-    render();
+    render("push");
   });
   $("page-size").addEventListener("change", (e) => {
     state.size = Number(e.target.value);
     state.page = 1;
-    render();
+    render("push");
   });
   $("langbtn").addEventListener("click", () => {
     lang = lang === "zh" ? "en" : "zh";
@@ -485,7 +657,7 @@
         key === state.sort ? -state.direction : key === "s" ? -1 : 1;
       state.sort = key;
       state.page = 1;
-      render();
+      render("push");
     }),
   );
   [
@@ -496,11 +668,15 @@
   ].forEach(([id, page]) =>
     $(id).addEventListener("click", () => {
       state.page = page();
-      render();
+      render("push");
     }),
   );
   $("retry").addEventListener("click", load);
+  window.addEventListener("hashchange", syncNavigation);
   window.addEventListener("popstate", () => {
+    clearTimeout(searchTimer);
+    clearTimeout(directoryTimer);
+    activeSearchStream = null;
     readState();
     translate();
   });

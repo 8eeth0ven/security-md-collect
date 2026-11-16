@@ -28,8 +28,8 @@
       type="image/svg+xml"
       href="./web/mark.svg?v=20261113-bright"
     />
-    <link rel="stylesheet" href="./web/dashboard.css?v=20261113-apk" />
-    <script src="./web/dashboard.js?v=20261113-apk" defer></script>
+    <link rel="stylesheet" href="./web/dashboard.css?v=20261116-find" />
+    <script src="./web/dashboard.js?v=20261116-find" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#catalog" data-i18n="skip">跳到仓库目录</a>
@@ -61,6 +61,7 @@
       </nav>
       <div class="nav-caption" data-i18n="resources">项目资源</div>
       <nav aria-label="Project resources">
+        <a class="nav-item" href="./索引/重点项目核查.json"><span aria-hidden="true">✓</span><span data-i18n="priorityAudit">重点项目逐项核查</span></a>
         <a class="nav-item" href="https://github.com/8eeth0ven/security-md-collect/blob/main/docs/coverage.md"><span aria-hidden="true">≡</span><span data-i18n="coverage">覆盖与待补清单</span><span class="outbound">↗</span></a>
         <a
           class="nav-item"
@@ -226,11 +227,13 @@
               ><input
                 id="q"
                 type="search"
+                aria-describedby="search-help"
                 autocomplete="off"
                 data-placeholder="search"
-                placeholder="搜索仓库、厂商、语言或描述…"
+                placeholder="搜索全部仓库：项目名、厂商或多个关键词…"
               /><kbd>/</kbd></label
             >
+            <p id="search-help" class="search-help" data-i18n="searchHelp">搜索全部收录，不受当前页限制；多个关键词用空格分开，例如「阿里 fastjson」。</p>
             <div class="filter-row">
               <label
                 ><span data-i18n="vendorLabel">厂商</span
@@ -261,6 +264,10 @@
                 <option>100</option>
               </select></label
             >
+          </div>
+          <div id="search-context" class="search-context" hidden>
+            <span id="search-scope" role="status" aria-live="polite"></span>
+            <button id="widen-search" type="button" hidden></button>
           </div>
           <div id="error" class="error-panel" hidden>
             <b data-i18n="errorTitle">暂时无法加载数据</b>
@@ -313,7 +320,7 @@
           <div id="retry-note" class="retry-note" hidden></div>
         </section>
         <section class="vendors-section" id="vendors">
-          <details>
+          <details id="vendor-directory" open>
             <summary>
               <div>
                 <span class="eyebrow">VENDOR DIRECTORY</span>
@@ -324,6 +331,12 @@
             <p class="muted" data-i18n="vendorIntro">
               按收录数排列。可筛选仓库或查看厂商数据。
             </p>
+            <p class="muted" data-i18n="directoryPreview">展开厂商，直接查看匹配项目；点“查看全部”进入仓库列表。</p>
+            <div class="vendor-toolbar">
+              <label class="search vendor-search"><span aria-hidden="true">⌕</span><input id="vendor-q" type="search" autocomplete="off" placeholder="搜索厂商、组织或其项目…" aria-label="搜索厂商、组织或其项目" /></label>
+              <button id="vendor-reset" type="button" data-i18n="clearDirectory">清空目录搜索</button>
+            </div>
+            <p id="vendor-count" class="muted" role="status" aria-live="polite"></p>
             <div id="vendor-grid" class="vendor-grid"></div>
           </details>
         </section>

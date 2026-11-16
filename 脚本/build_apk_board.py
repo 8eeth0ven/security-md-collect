@@ -79,9 +79,9 @@ def normalize(platform, record):
     review = record.get('scope_review_status')
     scope_status = review or record.get('scope_status') or ('source_listed' if record.get('scope_observation')=='observed' else 'unavailable' if record.get('scope_observation')=='historical' else 'unreviewed')
     program_state = record.get('program_submission_state') or record.get('submission_state') or ''
-    if review in ('out_of_scope','not_android'):
+    if scope_status in ('out_of_scope','not_android'):
         bounty = 'excluded'
-    elif review == 'archived' or program_state in ('paused','disabled','closed'):
+    elif scope_status == 'archived' or program_state in ('paused','disabled','closed'):
         bounty = 'inactive'
     elif scope_status in ('android_unresolved','product_rename','not_listed','unavailable'):
         bounty = 'unknown'
@@ -92,9 +92,11 @@ def normalize(platform, record):
         play = ''
     origin = str(record.get('package_source') or '')
     needs_review = bool(re.search(r'兜底|人工|待验证|候选|fallback|guess',origin,re.I)) or bool(record.get('needs_review'))
-    if package:
+    if package and platform != 'src':
         play = play or 'https://play.google.com/store/apps/details?id='+quote(package,safe='.')
     source = 'manual' if needs_review else 'scope' if origin == 'scope包名' else 'unspecified'
+    if not needs_review and safe_url(record.get('package_source_url')) and platform == 'src':
+        source = 'evidence'
     for field in ('uri','target','play'):
         raw = safe_url(record.get(field))
         parsed = urlsplit(raw)
@@ -124,6 +126,10 @@ def normalize(platform, record):
         'scope_evidence':str(record.get('scope_evidence') or ''),
         'download_state':str(record.get('download_state') or ''),
         'download_notes':str(record.get('download_notes') or ''),
+        'scope_match_type':str(record.get('scope_match_type') or ''),
+        'scope_notes':str(record.get('scope_notes') or ''),
+        'developer':str(record.get('developer') or ''),
+        'program_state_source':safe_url(record.get('program_state_source')),
     }
 
 
@@ -134,6 +140,8 @@ def scope_label(row):
              'not_listed':'当前官方范围未列出','unavailable':'官方来源待确认','product_rename':'产品更名对应待核','unreviewed':'未逐项核查'}.get(status,'待核查')
     if row.get('program_state') in ('paused','disabled','closed'):
         label += ' · 项目暂停 / 不接收'
+    if row.get('scope_match_type') == 'vendor_wide':
+        label += ' · 集团范围关联，非逐包清单'
     return label
 
 
@@ -141,7 +149,7 @@ def row_html(row):
     e = lambda value: html.escape(str(value or ''),quote=True)
     label = {'cash':'有赏金','vdp':'VDP / 无赏金','points':'积分','inactive':'已归档 / 不接收','unknown':'待确认','excluded':'范围外 / 非 Android'}[row['bounty']]
     platform = dict((key,name) for key,name,*_ in PLATFORMS)[row['platform']]
-    links = [('项目页',row['url']),('核查证据',row['scope_review_source']),('范围来源',row['scope_source']),('官方下载页',row['download_page']),('Google Play',row['play']),('来源 APK',row['apk_direct']),('XAPK 候选',row['xapk']),('APK 候选',row['apk'])]
+    links = [('项目页',row['url']),('核查证据',row['scope_review_source']),('范围来源',row['scope_source']),('包名来源',row['package_source_url']),('应用下载页',row['download_page']),('Google Play',row['play']),('来源 APK',row['apk_direct']),('XAPK 候选',row['xapk']),('APK 候选',row['apk'])]
     anchors = ''.join('<a href="%s">%s ↗</a>'%(e(url),text) for text,url in links if url)
     target = row['target']
     if safe_url(target) and urlsplit(target).hostname == 'play.google.com':
@@ -189,7 +197,7 @@ def build_apk_board(base):
     write(out / 'dashboard.json',json.dumps({'stats':stats,'rows':rows},ensure_ascii=False,separators=(',',':'))+'\n')
     buffer = io.StringIO(newline='')
     writer = csv.writer(buffer,lineterminator='\n')
-    columns = ['platform','program','bounty','reward','target','package','package_source','needs_review','url','play','apk_direct','xapk','apk','download_verified','scope_observation','scope_observed_at','scope_source','scope_status','scope_checked_at','scope_review_source','program_state','vendor','reward_conditions','download_page','package_source_url']
+    columns = ['platform','program','bounty','reward','target','package','package_source','needs_review','url','play','apk_direct','xapk','apk','download_verified','scope_observation','scope_observed_at','scope_source','scope_status','scope_checked_at','scope_review_source','program_state','vendor','reward_conditions','download_page','package_source_url','scope_match_type','scope_notes','developer','program_state_source']
     writer.writerow(columns)
     for row in rows:
         # Prevent a downloaded spreadsheet from interpreting source text as a formula.

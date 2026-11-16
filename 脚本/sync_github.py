@@ -17,8 +17,10 @@ def public_files(base):
     base = Path(base)
     for pattern in ('厂商/*/repos.json', '厂商/*/清单.md', '厂商/*/*/SECURITY.md',
                     '资产/vendors*.json', '资产/厂商映射-*.json',
+                    '资产/重点项目.json',
                     '赏金APK/*.json', '赏金APK/*.md', '赏金APK/*.html',
-                    '索引/统计.json', '索引/总表.csv', '索引/policy-discovery.json'):
+                    '索引/统计.json', '索引/总表.csv', '索引/policy-discovery.json',
+                    '索引/重点项目核查.json', '索引/待核仓库.json', '索引/待检查仓库.json', '索引/政策索引整理.json'):
         yield from sorted(base.glob(pattern))
 
 
@@ -93,7 +95,8 @@ def main():
         subprocess.run([sys.executable,str(auditor),'--base',str(destination),'--collector',str(base)],check=True,timeout=120)
     if args.push:
         paths = ['厂商','赏金APK','资产','索引/统计.json','索引/总表.csv','索引/dashboard.json','index.html']
-        for name in ('索引/policy-discovery.json', '索引/coverage.json', 'docs/coverage.md'):
+        for name in ('索引/policy-discovery.json', '索引/coverage.json', 'docs/coverage.md',
+                     '索引/重点项目核查.json', '索引/待核仓库.json', '索引/待检查仓库.json', '索引/政策索引整理.json'):
             if (destination / name).exists():
                 paths.append(name)
         if (destination / '索引/retry-candidates.json').exists():

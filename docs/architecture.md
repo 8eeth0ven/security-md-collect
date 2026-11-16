@@ -71,6 +71,16 @@ GitHub Pages 选择 `main` 的根目录。页面源码、`web/`、`索引/dashbo
 
 参考：[ProjectDiscovery public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs)、[bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data)、[EFF apkeep](https://github.com/EFForg/apkeep)。
 
+## 重点项目与厂商应用补查
+
+`资产/重点项目.json` 是明确、可核查的重点仓库集合，含分类与搜索别名。`audit_priority_projects.py` 在线核对仓库自己的政策及账户默认政策，原文保存到厂商目录，结果和 HTTP 证据写入 `索引/重点项目核查.json`，本轮待重试项写入 `索引/待核仓库.json`。账户默认文件仅计一次；全部标准 Markdown 路径不存在不代表没有外部披露渠道。运行状态和网络缓存保存在发布目录外。
+
+无运行状态的新克隆先从有效公开原文恢复正面记录，避免第一次补采覆盖既有索引；不据此制造历史负缓存。历史采集器的汇总数字在缺少原始目录时保留为历史未知，不能把丢失清单算成待查为零。有真实采集目录时，覆盖审计另输出逐仓库 `待检查仓库.json`，供后续重跑。
+
+`discover_vendor_apps.py` 将逐厂商发现队列、来源可访问性和 Android 商店证据写入 `vendor-app-discovery.json`。七麦共用入口的探测不算逐厂商七麦查询；商店首屏查询不声称覆盖该厂商全部应用。应用包名、开发者匹配和官方下载入口各有来源，发现候选由独立 UI 分页展示，不加入已确认 SRC 数量。国内包名不自动生成 Google Play 链接。
+
+搜索在全量记录上按规范化关键词和别名匹配，再排序分页。厂商目录有独立关键词和有限项目预览；点击进入厂商时清除冲突筛选。Android 搜索可提示被赏金等条件隐藏的全库命中，国内 SRC 入口默认展示全部状态，显式赏金筛选仍保留。
+
 ## 本轮参考
 
 调研确认这轮使用的是已有常见做法，不宣称原创功能：
