@@ -2,7 +2,7 @@
 
 [打开在线筛选](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html?platform=bugcrowd&bounty=all) · [原始记录](apk_final.json) · [覆盖审计](../docs/coverage.md)
 
-目标记录 158 条；唯一有效格式包名 108 个。快照整理时间：2026-11-16T04:27:05+00:00。
+目标记录 158 条；唯一有效格式包名 108 个。快照整理时间：2026-11-16T06:13:08+00:00。
 
 赏金状态基于各次快照；历史待核不代表当前仍在范围。镜像未验证，范围和维护版本以官方页面为准。
 
