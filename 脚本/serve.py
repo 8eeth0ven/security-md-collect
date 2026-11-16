@@ -11,7 +11,7 @@ BASE = Path(os.environ.get('SECMD_BASE') or Path(__file__).resolve().parents[1])
 
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
-        super().__init__(*args, directory=str(BASE), **kwargs)
+        super().__init__(*args, directory=str(BASE.resolve()), **kwargs)
 
     def send_head(self):
         path = unquote(urlsplit(self.path).path)
@@ -19,7 +19,8 @@ class Handler(SimpleHTTPRequestHandler):
             self.path = '/索引/统计.json'
             path = self.path
         parts = Path(path.lstrip('/')).parts
-        target = (BASE / path.lstrip('/')).resolve()
+        base = Path(self.directory)
+        target = (base / path.lstrip('/')).resolve()
         allowed = (
             path in ('/', '/index.html', '/README.md', '/prompt-给其他Agent.md')
             or (parts and parts[0] in ('厂商', '赏金APK', 'web'))
@@ -27,7 +28,7 @@ class Handler(SimpleHTTPRequestHandler):
                 ('dashboard.json', '统计.json', '总表.csv', 'index.html', 'retry-candidates.json', '重点项目核查.json', '待核仓库.json', '待检查仓库.json', '政策索引整理.json', 'coverage.json'))
             or (len(parts) >= 3 and parts[:2] == ('docs', 'assets'))
         )
-        if (not allowed or not target.is_relative_to(BASE)
+        if (not allowed or not target.is_relative_to(base)
                 or any(part.startswith('.') for part in parts)
                 or (target.is_dir() and path != '/')):
             self.send_error(404, 'Not found')

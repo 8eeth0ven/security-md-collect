@@ -1585,3 +1585,21 @@ footer > a:last-child {
   white-space: normal;
 }
 .vendor-toggle:hover:not(:disabled) { background: transparent; border-color: transparent; color: var(--accent); }
+
+/* Keep dense catalog data readable on touch screens. Horizontal scrolling
+   preserves every column instead of shrinking labels to 8–10px. */
+@media (max-width: 600px) {
+  .page { min-width: 0; }
+  .table-wrap { max-width: 100%; overflow-x: auto; overscroll-behavior-x: contain; }
+  .search input, .filter-row select, .filter-row label, .top-actions button,
+  .theme-control select, .repo-title, .repo-description, .vendor-name,
+  .src-name, .language, .stars, .policy-links a, .policy-links a.upstream, .license, .page-info,
+  .pagination button, .feature-callout p, .vendor-card p, .vendor-card > a,
+  .theme-control, footer, .result-count { font-size: 12px; }
+  .search input, .filter-row select, .pagination button, .theme-control select {
+    min-height: 40px;
+  }
+  #repos-table { min-width: 700px; }
+  #repos-table th:nth-child(n), #repos-table td:nth-child(n) { display: table-cell; font-size: 12px; }
+  .vendor-card h3 { font-size: 14px; }
+}

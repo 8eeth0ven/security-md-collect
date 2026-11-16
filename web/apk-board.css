@@ -294,3 +294,12 @@
     display: none;
   }
 }
+
+@media (max-width: 600px) {
+  #apk-table { min-width: 720px; }
+  #apk-table th:nth-child(n), #apk-table td:nth-child(n) { display: table-cell; font-size: 12px; }
+  .program-link, #apk-results td:first-child > a, .apk-meta, .target-text,
+  .package, .apk-links a, .apk-review, .platform-card b,
+  .platform-card > span, .apk-explainer p { font-size: 12px; }
+  .apk-links a { padding: 8px; min-height: 32px; }
+}
